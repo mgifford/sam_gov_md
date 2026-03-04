@@ -3,15 +3,15 @@
   "term_counts": [
     [
       "web",
-      295
+      303
     ],
     [
       "software",
       74
     ],
     [
-      "ux",
-      71
+      "ui",
+      72
     ],
     [
       "application",
@@ -22,61 +22,31 @@
       29
     ],
     [
-      "modernization",
-      22
+      "information_architecture",
+      7
     ],
     [
       "platform",
       5
     ],
     [
-      "data",
-      2
-    ],
-    [
-      "cloud",
-      1
-    ],
-    [
-      "accessibility",
-      1
-    ]
-  ],
-  "file_hits": [
-    [
-      "web",
-      22
-    ],
-    [
-      "application",
-      20
-    ],
-    [
-      "software",
-      16
-    ],
-    [
-      "portal",
-      12
-    ],
-    [
-      "ux",
-      5
-    ],
-    [
-      "modernization",
+      "cybersecurity",
       4
     ],
     [
-      "platform",
-      3
-    ],
-    [
-      "data",
+      "business_intelligence",
       2
     ],
     [
       "cloud",
+      1
+    ],
+    [
+      "modernization",
+      1
+    ],
+    [
+      "ux",
       1
     ],
     [
@@ -87,6 +57,7 @@
   "files_with_matches": [
     {
       "file": "FBOFeed20191101.md",
+      "match_count": 61,
       "matches": [
         {
           "term": "web",
@@ -104,9 +75,10 @@
     },
     {
       "file": "FBOFeed20191103.md",
+      "match_count": 48,
       "matches": [
         {
-          "term": "ux",
+          "term": "ui",
           "count": 25
         },
         {
@@ -128,7 +100,30 @@
       ]
     },
     {
+      "file": "FBOFeed20191026.md",
+      "match_count": 39,
+      "matches": [
+        {
+          "term": "web",
+          "count": 26
+        },
+        {
+          "term": "software",
+          "count": 9
+        },
+        {
+          "term": "application",
+          "count": 3
+        },
+        {
+          "term": "accessibility",
+          "count": 1
+        }
+      ]
+    },
+    {
       "file": "FBOFeed20191028.md",
+      "match_count": 39,
       "matches": [
         {
           "term": "web",
@@ -147,16 +142,21 @@
           "count": 2
         },
         {
-          "term": "data",
+          "term": "information_architecture",
+          "count": 1
+        },
+        {
+          "term": "business_intelligence",
           "count": 1
         }
       ]
     },
     {
       "file": "FBOFeed20191020.md",
+      "match_count": 37,
       "matches": [
         {
-          "term": "ux",
+          "term": "ui",
           "count": 32
         },
         {
@@ -170,87 +170,16 @@
       ]
     },
     {
-      "file": "FBOFeed20191026.md",
-      "matches": [
-        {
-          "term": "web",
-          "count": 24
-        },
-        {
-          "term": "software",
-          "count": 9
-        },
-        {
-          "term": "application",
-          "count": 3
-        },
-        {
-          "term": "accessibility",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "file": "FBOFeed20191025.md",
-      "matches": [
-        {
-          "term": "modernization",
-          "count": 17
-        },
-        {
-          "term": "web",
-          "count": 10
-        },
-        {
-          "term": "software",
-          "count": 4
-        },
-        {
-          "term": "portal",
-          "count": 1
-        },
-        {
-          "term": "ux",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "file": "FBOFeed20191102.md",
-      "matches": [
-        {
-          "term": "web",
-          "count": 22
-        },
-        {
-          "term": "software",
-          "count": 11
-        }
-      ]
-    },
-    {
-      "file": "FBOFeed20191029.md",
-      "matches": [
-        {
-          "term": "web",
-          "count": 25
-        },
-        {
-          "term": "portal",
-          "count": 4
-        },
-        {
-          "term": "application",
-          "count": 1
-        }
-      ]
-    },
-    {
       "file": "FBOFeed20191030.md",
+      "match_count": 33,
       "matches": [
         {
           "term": "web",
-          "count": 21
+          "count": 23
+        },
+        {
+          "term": "information_architecture",
+          "count": 4
         },
         {
           "term": "software",
@@ -267,7 +196,58 @@
       ]
     },
     {
+      "file": "FBOFeed20191102.md",
+      "match_count": 33,
+      "matches": [
+        {
+          "term": "web",
+          "count": 22
+        },
+        {
+          "term": "software",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "file": "FBOFeed20191029.md",
+      "match_count": 30,
+      "matches": [
+        {
+          "term": "web",
+          "count": 25
+        },
+        {
+          "term": "portal",
+          "count": 4
+        },
+        {
+          "term": "application",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "file": "FBOFeed20191019.md",
+      "match_count": 25,
+      "matches": [
+        {
+          "term": "web",
+          "count": 12
+        },
+        {
+          "term": "ui",
+          "count": 7
+        },
+        {
+          "term": "software",
+          "count": 6
+        }
+      ]
+    },
+    {
       "file": "FBOFeed20191024.md",
+      "match_count": 25,
       "matches": [
         {
           "term": "web",
@@ -292,32 +272,20 @@
       ]
     },
     {
-      "file": "FBOFeed20191019.md",
-      "matches": [
-        {
-          "term": "web",
-          "count": 12
-        },
-        {
-          "term": "ux",
-          "count": 7
-        },
-        {
-          "term": "software",
-          "count": 6
-        }
-      ]
-    },
-    {
       "file": "FBOFeed20191022.md",
+      "match_count": 22,
       "matches": [
         {
           "term": "web",
-          "count": 8
+          "count": 10
         },
         {
           "term": "software",
           "count": 7
+        },
+        {
+          "term": "ui",
+          "count": 2
         },
         {
           "term": "application",
@@ -334,7 +302,52 @@
       ]
     },
     {
+      "file": "FBOFeed20191027.md",
+      "match_count": 20,
+      "matches": [
+        {
+          "term": "web",
+          "count": 10
+        },
+        {
+          "term": "ui",
+          "count": 6
+        },
+        {
+          "term": "portal",
+          "count": 2
+        },
+        {
+          "term": "application",
+          "count": 1
+        },
+        {
+          "term": "cybersecurity",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "file": "FBOFeed20191018.md",
+      "match_count": 18,
+      "matches": [
+        {
+          "term": "web",
+          "count": 14
+        },
+        {
+          "term": "application",
+          "count": 2
+        },
+        {
+          "term": "cybersecurity",
+          "count": 2
+        }
+      ]
+    },
+    {
       "file": "FBOFeed20191031.md",
+      "match_count": 17,
       "matches": [
         {
           "term": "software",
@@ -353,47 +366,14 @@
           "count": 1
         },
         {
-          "term": "data",
+          "term": "business_intelligence",
           "count": 1
-        }
-      ]
-    },
-    {
-      "file": "FBOFeed20191027.md",
-      "matches": [
-        {
-          "term": "web",
-          "count": 8
-        },
-        {
-          "term": "ux",
-          "count": 6
-        },
-        {
-          "term": "portal",
-          "count": 2
-        },
-        {
-          "term": "application",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "file": "FBOFeed20191018.md",
-      "matches": [
-        {
-          "term": "web",
-          "count": 14
-        },
-        {
-          "term": "application",
-          "count": 2
         }
       ]
     },
     {
       "file": "FBOFeed20191016.md",
+      "match_count": 16,
       "matches": [
         {
           "term": "web",
@@ -410,7 +390,30 @@
       ]
     },
     {
+      "file": "FBOFeed20191025.md",
+      "match_count": 16,
+      "matches": [
+        {
+          "term": "web",
+          "count": 10
+        },
+        {
+          "term": "software",
+          "count": 4
+        },
+        {
+          "term": "portal",
+          "count": 1
+        },
+        {
+          "term": "ux",
+          "count": 1
+        }
+      ]
+    },
+    {
       "file": "FBOFeed20191017.md",
+      "match_count": 14,
       "matches": [
         {
           "term": "web",
@@ -428,6 +431,7 @@
     },
     {
       "file": "ftpVAN20011105.md",
+      "match_count": 13,
       "matches": [
         {
           "term": "web",
@@ -445,6 +449,7 @@
     },
     {
       "file": "FBOFeed20191107.md",
+      "match_count": 12,
       "matches": [
         {
           "term": "application",
@@ -459,13 +464,14 @@
           "count": 2
         },
         {
-          "term": "modernization",
+          "term": "information_architecture",
           "count": 2
         }
       ]
     },
     {
       "file": "FBOFeed20191021.md",
+      "match_count": 7,
       "matches": [
         {
           "term": "application",
@@ -479,6 +485,7 @@
     },
     {
       "file": "FBOFeed20191105.md",
+      "match_count": 7,
       "matches": [
         {
           "term": "web",
@@ -500,6 +507,7 @@
     },
     {
       "file": "FBOFeed20191106.md",
+      "match_count": 6,
       "matches": [
         {
           "term": "application",
@@ -516,24 +524,8 @@
       ]
     },
     {
-      "file": "FBOFeed20191104.md",
-      "matches": [
-        {
-          "term": "software",
-          "count": 2
-        },
-        {
-          "term": "modernization",
-          "count": 2
-        },
-        {
-          "term": "application",
-          "count": 1
-        }
-      ]
-    },
-    {
       "file": "FBOFeed20191023.md",
+      "match_count": 4,
       "matches": [
         {
           "term": "web",
@@ -545,6 +537,24 @@
         },
         {
           "term": "platform",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "file": "FBOFeed20191104.md",
+      "match_count": 4,
+      "matches": [
+        {
+          "term": "software",
+          "count": 2
+        },
+        {
+          "term": "application",
+          "count": 1
+        },
+        {
+          "term": "cybersecurity",
           "count": 1
         }
       ]

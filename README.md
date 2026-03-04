@@ -270,6 +270,19 @@ What it does daily:
 Manual trigger:
 - GitHub → Actions → **Daily SAM.gov ingest** → **Run workflow**
 
+## 🗓️ Weekly Historical Rebuild (GitHub Actions)
+
+Workflow file: `.github/workflows/weekly-historical.yml`
+
+What it does weekly:
+1. Refreshes latest 25 historical extract samples.
+2. Rebuilds `data/term_scan_report.json` from markdown samples.
+3. Rebuilds `data/top_matches_report.md`.
+4. Commits and pushes only if those artifacts changed.
+
+Manual trigger:
+- GitHub → Actions → **Weekly historical rebuild** → **Run workflow**
+
 ## Next Steps
 
 1. **Ollama Analysis**: Use local LLM for schema inference, content summarization, and term extraction (✅ Complete)
