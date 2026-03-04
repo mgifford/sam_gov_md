@@ -47,6 +47,10 @@ jobs:
         run: |
           python scripts/generate_alerts.py --min-hits 8
 
+      - name: Export department trends
+        run: |
+          python scripts/export_trends.py
+
       - name: Determine whether alerts exist
         id: alert_check
         run: |

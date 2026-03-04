@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SAM.gov Department Trends</title>
+    <style>
+      body {
+        margin: 0;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        background: #f6f8fa;
+        color: #1f2328;
+      }
+      .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 24px;
+      }
+      .header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 18px;
+      }
+      .header h1 {
+        margin: 0;
+        font-size: 26px;
+      }
+      .header nav {
+        display: flex;
+        gap: 12px;
+      }
+      .header a {
+        color: #0969da;
+        text-decoration: none;
+        padding: 6px 12px;
+        border-radius: 6px;
+        border: 1px solid #d0d7de;
+      }
+      .header a:hover {
+        background: #f0f6fc;
+      }
+      .panel {
+        background: #fff;
+        border: 1px solid #d0d7de;
+        border-radius: 8px;
+        padding: 14px;
+        margin-bottom: 14px;
+      }
+      .panel h3 {
+        margin-top: 0;
+        margin-bottom: 12px;
+        font-size: 16px;
+      }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 14px;
+      }
+      th, td {
+        text-align: left;
+        border-bottom: 1px solid #d8dee4;
+        padding: 8px;
+        vertical-align: top;
+      }
+      th {
+        background: #f6f8fa;
+        font-weight: 600;
+      }
+      tr:hover {
+        background: #f6f8fa;
+      }
+      .empty {
+        color: #59636e;
+        font-style: italic;
+      }
+      svg {
+        max-width: 100%;
+        height: auto;
+      }
+      .sparkline {
+        display: inline-block;
+        width: 120px;
+        height: 30px;
+      }
+      .sub {
+        color: #59636e;
+        font-size: 12px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <div>
+          <h1>SAM.gov Department Trends</h1>
+          <p class="sub" id="info">Loading trends data...</p>
+        </div>
+        <nav>
+          <a href="index.html">← Today's Dashboard</a>
+        </nav>
+      </div>
+
+      <div class="panel">
+        <h3>Top 15 Departments by Activity</h3>
+        <div id="topAgencies"></div>
+      </div>
+
+      <div class="panel">
+        <h3>Department Trend Lines (Last 14 Days)</h3>
+        <div id="trends"></div>
+      </div>
+    </div>
+
+    <script src="trends.js"></script>
+  </body>
+</html>

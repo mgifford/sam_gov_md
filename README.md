@@ -283,11 +283,17 @@ python -m http.server 8000 --directory docs
 
 Then open: `http://localhost:8000`
 
-Dashboard now includes:
+Dashboard features:
 - notice type breakdown
-- department-by-department breakdown
+- department-by-department breakdown (today's snapshot)
 - top matching records
 - agency/type/NAICS relationships
+
+**Trends Page** (`docs/trends.html`):
+- department activity over time
+- sparkline charts of department posting patterns
+- historical comparison of top agencies
+- access via "View Trends →" button on main dashboard
 
 To publish on GitHub Pages:
 1. Push this repository to GitHub.
