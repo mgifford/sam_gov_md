@@ -1,0 +1,328 @@
+# Terms configuration for SAM.gov contract opportunity scanning
+# Each term can be a simple string or include regex patterns
+
+terms:
+  # Core technology & software
+  - name: "software"
+    patterns:
+      - '\bsoftware\b'
+    category: "technology"
+    
+  - name: "application"
+    patterns:
+      - '\bapplication(s)?\b'
+      - '\bweb\s+app(s)?\b'
+      - '\bmobile\s+app(s)?\b'
+    category: "technology"
+    
+  - name: "web"
+    patterns:
+      - '\bweb\b'
+      - '\bweb\s*site(s)?\b'
+      - '\bwebsite(s)?\b'
+      - '\bweb\s+development\b'
+      - '\bweb\s+design\b'
+    category: "technology"
+    
+  - name: "portal"
+    patterns:
+      - '\bportal(s)?\b'
+      - '\bcustomer\s+portal\b'
+      - '\bemployee\s+portal\b'
+    category: "technology"
+    
+  - name: "platform"
+    patterns:
+      - '\bplatform(s)?\b'
+      - '\bcloud\s+platform\b'
+    category: "technology"
+    
+  - name: "api"
+    patterns:
+      - '\bAPI(s)?\b'
+      - '\bREST\s+API\b'
+      - '\bweb\s+service(s)?\b'
+    category: "technology"
+
+  # Content Management
+  - name: "cms"
+    patterns:
+      - '\bCMS\b'
+      - '\bcontent\s+management\s+system(s)?\b'
+    category: "content"
+    
+  - name: "drupal"
+    patterns:
+      - '\bDrupal\b'
+    category: "content"
+    
+  - name: "sharepoint"
+    patterns:
+      - '\bSharePoint\b'
+    category: "content"
+    
+  - name: "wordpress"
+    patterns:
+      - '\bWordPress\b'
+    category: "content"
+
+  # Cloud & Infrastructure
+  - name: "cloud"
+    patterns:
+      - '\bcloud\b'
+      - '\bcloud\s+service(s)?\b'
+      - '\bcloud\s+computing\b'
+      - '\bcloud\s+migration\b'
+    category: "infrastructure"
+    
+  - name: "hosting"
+    patterns:
+      - '\bhosting\b'
+      - '\bweb\s+hosting\b'
+    category: "infrastructure"
+    
+  - name: "saas"
+    patterns:
+      - '\bSaaS\b'
+      - '\bSoftware\s+as\s+a\s+Service\b'
+    category: "infrastructure"
+    
+  - name: "iaas"
+    patterns:
+      - '\bIaaS\b'
+      - '\bInfrastructure\s+as\s+a\s+Service\b'
+    category: "infrastructure"
+    
+  - name: "paas"
+    patterns:
+      - '\bPaaS\b'
+      - '\bPlatform\s+as\s+a\s+Service\b'
+    category: "infrastructure"
+
+  - name: "aws"
+    patterns:
+      - '\bAWS\b'
+      - '\bAmazon\s+Web\s+Services\b'
+    category: "infrastructure"
+
+  - name: "azure"
+    patterns:
+      - '\bAzure\b'
+      - '\bMicrosoft\s+Azure\b'
+    category: "infrastructure"
+
+  # DevOps & Development
+  - name: "devops"
+    patterns:
+      - '\bDevOps\b'
+      - '\bCI/CD\b'
+      - '\bcontinuous\s+integration\b'
+      - '\bcontinuous\s+delivery\b'
+    category: "development"
+    
+  - name: "agile"
+    patterns:
+      - '\bAgile\b'
+      - '\bScrum\b'
+      - '\bKanban\b'
+      - '\bagile\s+development\b'
+    category: "development"
+
+  # Accessibility
+  - name: "accessibility"
+    patterns:
+      - '\baccessibility\b'
+      - '\bSection\s+508\b'
+      - '\b508\s+compliance\b'
+    category: "accessibility"
+    
+  - name: "wcag"
+    patterns:
+      - '\bWCAG\b'
+      - '\bWeb\s+Content\s+Accessibility\s+Guidelines\b'
+    category: "accessibility"
+    
+  - name: "vpat"
+    patterns:
+      - '\bVPAT\b'
+      - '\bVoluntary\s+Product\s+Accessibility\s+Template\b'
+    category: "accessibility"
+
+  - name: "openacr"
+    patterns:
+      - '\bOpenACR\b'
+      - '\bOpen\s+Accessibility\s+Conformance\s+Report\b'
+    category: "accessibility"
+
+  # eLearning
+  - name: "elearning"
+    patterns:
+      - '\be-learning\b'
+      - '\beLearning\b'
+      - '\bonline\s+learning\b'
+      - '\bonline\s+training\b'
+    category: "elearning"
+    
+  - name: "lms"
+    patterns:
+      - '\bLMS\b'
+      - '\bLearning\s+Management\s+System(s)?\b'
+    category: "elearning"
+    
+  - name: "courseware"
+    patterns:
+      - '\bcourseware\b'
+      - '\bonline\s+course(s)?\b'
+    category: "elearning"
+    
+  - name: "instructional_design"
+    patterns:
+      - '\binstructional\s+design\b'
+      - '\bcourse\s+design\b'
+    category: "elearning"
+
+  # User Experience & Design
+  - name: "ux"
+    patterns:
+      - '\bUX\b'
+      - '\buser\s+experience\b'
+    category: "design"
+    
+  - name: "ui"
+    patterns:
+      - '\bUI\b'
+      - '\buser\s+interface\b'
+    category: "design"
+    
+  - name: "design_system"
+    patterns:
+      - '\bdesign\s+system(s)?\b'
+      - '\bcomponent\s+library\b'
+    category: "design"
+    
+  - name: "information_architecture"
+    patterns:
+      - '\binformation\s+architecture\b'
+      - '\bIA\b'
+    category: "design"
+    
+  - name: "content_strategy"
+    patterns:
+      - '\bcontent\s+strategy\b'
+    category: "design"
+    
+  - name: "user_research"
+    patterns:
+      - '\buser\s+research\b'
+      - '\busability\s+testing\b'
+      - '\bhuman-centered\s+design\b'
+    category: "design"
+
+  # Data & Analytics
+  - name: "data_warehouse"
+    patterns:
+      - '\bdata\s+warehouse\b'
+      - '\bdata\s+warehousing\b'
+    category: "data"
+    
+  - name: "analytics"
+    patterns:
+      - '\banalytics\b'
+      - '\bdata\s+analytics\b'
+      - '\bweb\s+analytics\b'
+    category: "data"
+    
+  - name: "dashboard"
+    patterns:
+      - '\bdashboard(s)?\b'
+      - '\bdata\s+visualization\b'
+    category: "data"
+    
+  - name: "business_intelligence"
+    patterns:
+      - '\bbusiness\s+intelligence\b'
+      - '\bBI\b'
+    category: "data"
+    
+  - name: "etl"
+    patterns:
+      - '\bETL\b'
+      - '\bextract,?\s+transform,?\s+load\b'
+    category: "data"
+    
+  - name: "data_migration"
+    patterns:
+      - '\bdata\s+migration\b'
+      - '\blegacy\s+data\b'
+    category: "data"
+
+  # Security & Compliance
+  - name: "fedramp"
+    patterns:
+      - '\bFedRAMP\b'
+    category: "compliance"
+    
+  - name: "fisma"
+    patterns:
+      - '\bFISMA\b'
+    category: "compliance"
+    
+  - name: "ato"
+    patterns:
+      - '\bATO\b'
+      - '\bAuthority\s+to\s+Operate\b'
+    category: "compliance"
+    
+  - name: "nist"
+    patterns:
+      - '\bNIST\b'
+      - '\bNIST\s+800-53\b'
+    category: "compliance"
+    
+  - name: "sso"
+    patterns:
+      - '\bSSO\b'
+      - '\bsingle\s+sign-on\b'
+    category: "security"
+    
+  - name: "identity"
+    patterns:
+      - '\bidentity\s+management\b'
+      - '\bSAML\b'
+      - '\bOIDC\b'
+      - '\bOAuth\b'
+    category: "security"
+    
+  - name: "cybersecurity"
+    patterns:
+      - '\bcybersecurity\b'
+      - '\binformation\s+security\b'
+    category: "security"
+
+  # Digital Services & Modernization
+  - name: "digital"
+    patterns:
+      - '\bdigital\s+services\b'
+      - '\bdigital\s+transformation\b'
+    category: "modernization"
+    
+  - name: "modernization"
+    patterns:
+      - '\bmodernization\b'
+      - '\blegacy\s+system\b'
+      - '\bsystem\s+modernization\b'
+    category: "modernization"
+
+  # Open Source
+  - name: "open_source"
+    patterns:
+      - '\bopen\s+source\b'
+      - '\bopen-source\b'
+    category: "open_source"
+
+# Configuration options
+options:
+  case_sensitive: false
+  count_plurals: true
+  word_boundary: true
+  allow_hyphens: true

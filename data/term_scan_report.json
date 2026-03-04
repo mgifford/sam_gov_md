@@ -1,0 +1,553 @@
+{
+  "files_scanned": 25,
+  "term_counts": [
+    [
+      "web",
+      295
+    ],
+    [
+      "software",
+      74
+    ],
+    [
+      "ux",
+      71
+    ],
+    [
+      "application",
+      46
+    ],
+    [
+      "portal",
+      29
+    ],
+    [
+      "modernization",
+      22
+    ],
+    [
+      "platform",
+      5
+    ],
+    [
+      "data",
+      2
+    ],
+    [
+      "cloud",
+      1
+    ],
+    [
+      "accessibility",
+      1
+    ]
+  ],
+  "file_hits": [
+    [
+      "web",
+      22
+    ],
+    [
+      "application",
+      20
+    ],
+    [
+      "software",
+      16
+    ],
+    [
+      "portal",
+      12
+    ],
+    [
+      "ux",
+      5
+    ],
+    [
+      "modernization",
+      4
+    ],
+    [
+      "platform",
+      3
+    ],
+    [
+      "data",
+      2
+    ],
+    [
+      "cloud",
+      1
+    ],
+    [
+      "accessibility",
+      1
+    ]
+  ],
+  "files_with_matches": [
+    {
+      "file": "FBOFeed20191101.md",
+      "matches": [
+        {
+          "term": "web",
+          "count": 51
+        },
+        {
+          "term": "portal",
+          "count": 7
+        },
+        {
+          "term": "application",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "file": "FBOFeed20191103.md",
+      "matches": [
+        {
+          "term": "ux",
+          "count": 25
+        },
+        {
+          "term": "web",
+          "count": 16
+        },
+        {
+          "term": "platform",
+          "count": 3
+        },
+        {
+          "term": "software",
+          "count": 2
+        },
+        {
+          "term": "portal",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "file": "FBOFeed20191028.md",
+      "matches": [
+        {
+          "term": "web",
+          "count": 25
+        },
+        {
+          "term": "software",
+          "count": 7
+        },
+        {
+          "term": "portal",
+          "count": 3
+        },
+        {
+          "term": "application",
+          "count": 2
+        },
+        {
+          "term": "data",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "file": "FBOFeed20191020.md",
+      "matches": [
+        {
+          "term": "ux",
+          "count": 32
+        },
+        {
+          "term": "web",
+          "count": 4
+        },
+        {
+          "term": "application",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "file": "FBOFeed20191026.md",
+      "matches": [
+        {
+          "term": "web",
+          "count": 24
+        },
+        {
+          "term": "software",
+          "count": 9
+        },
+        {
+          "term": "application",
+          "count": 3
+        },
+        {
+          "term": "accessibility",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "file": "FBOFeed20191025.md",
+      "matches": [
+        {
+          "term": "modernization",
+          "count": 17
+        },
+        {
+          "term": "web",
+          "count": 10
+        },
+        {
+          "term": "software",
+          "count": 4
+        },
+        {
+          "term": "portal",
+          "count": 1
+        },
+        {
+          "term": "ux",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "file": "FBOFeed20191102.md",
+      "matches": [
+        {
+          "term": "web",
+          "count": 22
+        },
+        {
+          "term": "software",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "file": "FBOFeed20191029.md",
+      "matches": [
+        {
+          "term": "web",
+          "count": 25
+        },
+        {
+          "term": "portal",
+          "count": 4
+        },
+        {
+          "term": "application",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "file": "FBOFeed20191030.md",
+      "matches": [
+        {
+          "term": "web",
+          "count": 21
+        },
+        {
+          "term": "software",
+          "count": 3
+        },
+        {
+          "term": "application",
+          "count": 2
+        },
+        {
+          "term": "portal",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "file": "FBOFeed20191024.md",
+      "matches": [
+        {
+          "term": "web",
+          "count": 15
+        },
+        {
+          "term": "software",
+          "count": 6
+        },
+        {
+          "term": "application",
+          "count": 2
+        },
+        {
+          "term": "portal",
+          "count": 1
+        },
+        {
+          "term": "platform",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "file": "FBOFeed20191019.md",
+      "matches": [
+        {
+          "term": "web",
+          "count": 12
+        },
+        {
+          "term": "ux",
+          "count": 7
+        },
+        {
+          "term": "software",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "file": "FBOFeed20191022.md",
+      "matches": [
+        {
+          "term": "web",
+          "count": 8
+        },
+        {
+          "term": "software",
+          "count": 7
+        },
+        {
+          "term": "application",
+          "count": 1
+        },
+        {
+          "term": "portal",
+          "count": 1
+        },
+        {
+          "term": "modernization",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "file": "FBOFeed20191031.md",
+      "matches": [
+        {
+          "term": "software",
+          "count": 8
+        },
+        {
+          "term": "portal",
+          "count": 4
+        },
+        {
+          "term": "application",
+          "count": 3
+        },
+        {
+          "term": "web",
+          "count": 1
+        },
+        {
+          "term": "data",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "file": "FBOFeed20191027.md",
+      "matches": [
+        {
+          "term": "web",
+          "count": 8
+        },
+        {
+          "term": "ux",
+          "count": 6
+        },
+        {
+          "term": "portal",
+          "count": 2
+        },
+        {
+          "term": "application",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "file": "FBOFeed20191018.md",
+      "matches": [
+        {
+          "term": "web",
+          "count": 14
+        },
+        {
+          "term": "application",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "file": "FBOFeed20191016.md",
+      "matches": [
+        {
+          "term": "web",
+          "count": 11
+        },
+        {
+          "term": "application",
+          "count": 3
+        },
+        {
+          "term": "portal",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "file": "FBOFeed20191017.md",
+      "matches": [
+        {
+          "term": "web",
+          "count": 7
+        },
+        {
+          "term": "application",
+          "count": 4
+        },
+        {
+          "term": "software",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "file": "ftpVAN20011105.md",
+      "matches": [
+        {
+          "term": "web",
+          "count": 10
+        },
+        {
+          "term": "software",
+          "count": 2
+        },
+        {
+          "term": "application",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "file": "FBOFeed20191107.md",
+      "matches": [
+        {
+          "term": "application",
+          "count": 5
+        },
+        {
+          "term": "web",
+          "count": 3
+        },
+        {
+          "term": "software",
+          "count": 2
+        },
+        {
+          "term": "modernization",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "file": "FBOFeed20191021.md",
+      "matches": [
+        {
+          "term": "application",
+          "count": 6
+        },
+        {
+          "term": "cloud",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "file": "FBOFeed20191105.md",
+      "matches": [
+        {
+          "term": "web",
+          "count": 4
+        },
+        {
+          "term": "software",
+          "count": 1
+        },
+        {
+          "term": "application",
+          "count": 1
+        },
+        {
+          "term": "portal",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "file": "FBOFeed20191106.md",
+      "matches": [
+        {
+          "term": "application",
+          "count": 3
+        },
+        {
+          "term": "web",
+          "count": 2
+        },
+        {
+          "term": "software",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "file": "FBOFeed20191104.md",
+      "matches": [
+        {
+          "term": "software",
+          "count": 2
+        },
+        {
+          "term": "modernization",
+          "count": 2
+        },
+        {
+          "term": "application",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "file": "FBOFeed20191023.md",
+      "matches": [
+        {
+          "term": "web",
+          "count": 2
+        },
+        {
+          "term": "application",
+          "count": 1
+        },
+        {
+          "term": "platform",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

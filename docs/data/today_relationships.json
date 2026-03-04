@@ -1,0 +1,5952 @@
+{
+  "nodes": [
+    {
+      "id": "agency:STATE, DEPARTMENT OF",
+      "label": "STATE, DEPARTMENT OF",
+      "group": "agency"
+    },
+    {
+      "id": "type:Solicitation",
+      "label": "Solicitation",
+      "group": "type"
+    },
+    {
+      "id": "naics:5174",
+      "label": "5174",
+      "group": "naics"
+    },
+    {
+      "id": "agency:DEPT OF DEFENSE",
+      "label": "DEPT OF DEFENSE",
+      "group": "agency"
+    },
+    {
+      "id": "type:Award Notice",
+      "label": "Award Notice",
+      "group": "type"
+    },
+    {
+      "id": "naics:236220",
+      "label": "236220",
+      "group": "naics"
+    },
+    {
+      "id": "naics:524114",
+      "label": "524114",
+      "group": "naics"
+    },
+    {
+      "id": "type:Presolicitation",
+      "label": "Presolicitation",
+      "group": "type"
+    },
+    {
+      "id": "naics:334418",
+      "label": "334418",
+      "group": "naics"
+    },
+    {
+      "id": "naics:336611",
+      "label": "336611",
+      "group": "naics"
+    },
+    {
+      "id": "agency:GENERAL SERVICES ADMINISTRATION",
+      "label": "GENERAL SERVICES ADMINISTRATION",
+      "group": "agency"
+    },
+    {
+      "id": "naics:531210",
+      "label": "531210",
+      "group": "naics"
+    },
+    {
+      "id": "type:Sources Sought",
+      "label": "Sources Sought",
+      "group": "type"
+    },
+    {
+      "id": "naics:561730",
+      "label": "561730",
+      "group": "naics"
+    },
+    {
+      "id": "agency:VETERANS AFFAIRS, DEPARTMENT OF",
+      "label": "VETERANS AFFAIRS, DEPARTMENT OF",
+      "group": "agency"
+    },
+    {
+      "id": "type:Combined Synopsis/Solicitation",
+      "label": "Combined Synopsis/Solicitation",
+      "group": "type"
+    },
+    {
+      "id": "naics:325998",
+      "label": "325998",
+      "group": "naics"
+    },
+    {
+      "id": "naics:333613",
+      "label": "333613",
+      "group": "naics"
+    },
+    {
+      "id": "naics:332618",
+      "label": "332618",
+      "group": "naics"
+    },
+    {
+      "id": "naics:339991",
+      "label": "339991",
+      "group": "naics"
+    },
+    {
+      "id": "naics:336350",
+      "label": "336350",
+      "group": "naics"
+    },
+    {
+      "id": "naics:332510",
+      "label": "332510",
+      "group": "naics"
+    },
+    {
+      "id": "naics:332722",
+      "label": "332722",
+      "group": "naics"
+    },
+    {
+      "id": "naics:336390",
+      "label": "336390",
+      "group": "naics"
+    },
+    {
+      "id": "naics:336411",
+      "label": "336411",
+      "group": "naics"
+    },
+    {
+      "id": "naics:334515",
+      "label": "334515",
+      "group": "naics"
+    },
+    {
+      "id": "type:Justification",
+      "label": "Justification",
+      "group": "type"
+    },
+    {
+      "id": "naics:336413",
+      "label": "336413",
+      "group": "naics"
+    },
+    {
+      "id": "agency:AGRICULTURE, DEPARTMENT OF",
+      "label": "AGRICULTURE, DEPARTMENT OF",
+      "group": "agency"
+    },
+    {
+      "id": "naics:561720",
+      "label": "561720",
+      "group": "naics"
+    },
+    {
+      "id": "type:Special Notice",
+      "label": "Special Notice",
+      "group": "type"
+    },
+    {
+      "id": "naics:811210",
+      "label": "811210",
+      "group": "naics"
+    },
+    {
+      "id": "naics:Unknown NAICS",
+      "label": "Unknown NAICS",
+      "group": "naics"
+    },
+    {
+      "id": "naics:336214",
+      "label": "336214",
+      "group": "naics"
+    },
+    {
+      "id": "naics:332439",
+      "label": "332439",
+      "group": "naics"
+    },
+    {
+      "id": "naics:238290",
+      "label": "238290",
+      "group": "naics"
+    },
+    {
+      "id": "naics:237130",
+      "label": "237130",
+      "group": "naics"
+    },
+    {
+      "id": "agency:INTERIOR, DEPARTMENT OF THE",
+      "label": "INTERIOR, DEPARTMENT OF THE",
+      "group": "agency"
+    },
+    {
+      "id": "naics:541360",
+      "label": "541360",
+      "group": "naics"
+    },
+    {
+      "id": "naics:561210",
+      "label": "561210",
+      "group": "naics"
+    },
+    {
+      "id": "naics:811310",
+      "label": "811310",
+      "group": "naics"
+    },
+    {
+      "id": "naics:237990",
+      "label": "237990",
+      "group": "naics"
+    },
+    {
+      "id": "naics:541330",
+      "label": "541330",
+      "group": "naics"
+    },
+    {
+      "id": "naics:541990",
+      "label": "541990",
+      "group": "naics"
+    },
+    {
+      "id": "naics:336211",
+      "label": "336211",
+      "group": "naics"
+    },
+    {
+      "id": "naics:561990",
+      "label": "561990",
+      "group": "naics"
+    },
+    {
+      "id": "agency:HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
+      "label": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
+      "group": "agency"
+    },
+    {
+      "id": "naics:335139",
+      "label": "335139",
+      "group": "naics"
+    },
+    {
+      "id": "naics:532120",
+      "label": "532120",
+      "group": "naics"
+    },
+    {
+      "id": "naics:336412",
+      "label": "336412",
+      "group": "naics"
+    },
+    {
+      "id": "naics:333415",
+      "label": "333415",
+      "group": "naics"
+    },
+    {
+      "id": "naics:541380",
+      "label": "541380",
+      "group": "naics"
+    },
+    {
+      "id": "agency:ENERGY, DEPARTMENT OF",
+      "label": "ENERGY, DEPARTMENT OF",
+      "group": "agency"
+    },
+    {
+      "id": "naics:332999",
+      "label": "332999",
+      "group": "naics"
+    },
+    {
+      "id": "naics:517810",
+      "label": "517810",
+      "group": "naics"
+    },
+    {
+      "id": "naics:813110",
+      "label": "813110",
+      "group": "naics"
+    },
+    {
+      "id": "agency:LABOR, DEPARTMENT OF",
+      "label": "LABOR, DEPARTMENT OF",
+      "group": "agency"
+    },
+    {
+      "id": "naics:524298",
+      "label": "524298",
+      "group": "naics"
+    },
+    {
+      "id": "naics:331529",
+      "label": "331529",
+      "group": "naics"
+    },
+    {
+      "id": "naics:513210",
+      "label": "513210",
+      "group": "naics"
+    },
+    {
+      "id": "naics:339113",
+      "label": "339113",
+      "group": "naics"
+    },
+    {
+      "id": "naics:221320",
+      "label": "221320",
+      "group": "naics"
+    },
+    {
+      "id": "naics:334510",
+      "label": "334510",
+      "group": "naics"
+    },
+    {
+      "id": "naics:333922",
+      "label": "333922",
+      "group": "naics"
+    },
+    {
+      "id": "naics:449210",
+      "label": "449210",
+      "group": "naics"
+    },
+    {
+      "id": "naics:326122",
+      "label": "326122",
+      "group": "naics"
+    },
+    {
+      "id": "naics:335931",
+      "label": "335931",
+      "group": "naics"
+    },
+    {
+      "id": "naics:332996",
+      "label": "332996",
+      "group": "naics"
+    },
+    {
+      "id": "naics:332991",
+      "label": "332991",
+      "group": "naics"
+    },
+    {
+      "id": "naics:541219",
+      "label": "541219",
+      "group": "naics"
+    },
+    {
+      "id": "naics:315990",
+      "label": "315990",
+      "group": "naics"
+    },
+    {
+      "id": "naics:481212",
+      "label": "481212",
+      "group": "naics"
+    },
+    {
+      "id": "naics:335220",
+      "label": "335220",
+      "group": "naics"
+    },
+    {
+      "id": "naics:711510",
+      "label": "711510",
+      "group": "naics"
+    },
+    {
+      "id": "naics:532412",
+      "label": "532412",
+      "group": "naics"
+    },
+    {
+      "id": "agency:PENSION BENEFIT GUARANTY CORPORATION",
+      "label": "PENSION BENEFIT GUARANTY CORPORATION",
+      "group": "agency"
+    },
+    {
+      "id": "naics:519290",
+      "label": "519290",
+      "group": "naics"
+    },
+    {
+      "id": "naics:336415",
+      "label": "336415",
+      "group": "naics"
+    },
+    {
+      "id": "naics:238210",
+      "label": "238210",
+      "group": "naics"
+    },
+    {
+      "id": "agency:SMITHSONIAN INSTITUTION",
+      "label": "SMITHSONIAN INSTITUTION",
+      "group": "agency"
+    },
+    {
+      "id": "naics:541690",
+      "label": "541690",
+      "group": "naics"
+    },
+    {
+      "id": "naics:333241",
+      "label": "333241",
+      "group": "naics"
+    },
+    {
+      "id": "naics:325413",
+      "label": "325413",
+      "group": "naics"
+    },
+    {
+      "id": "naics:337215",
+      "label": "337215",
+      "group": "naics"
+    },
+    {
+      "id": "naics:238220",
+      "label": "238220",
+      "group": "naics"
+    },
+    {
+      "id": "naics:493110",
+      "label": "493110",
+      "group": "naics"
+    },
+    {
+      "id": "naics:337211",
+      "label": "337211",
+      "group": "naics"
+    },
+    {
+      "id": "naics:484110",
+      "label": "484110",
+      "group": "naics"
+    },
+    {
+      "id": "naics:339999",
+      "label": "339999",
+      "group": "naics"
+    },
+    {
+      "id": "naics:333914",
+      "label": "333914",
+      "group": "naics"
+    },
+    {
+      "id": "naics:115310",
+      "label": "115310",
+      "group": "naics"
+    },
+    {
+      "id": "naics:721110",
+      "label": "721110",
+      "group": "naics"
+    },
+    {
+      "id": "naics:336212",
+      "label": "336212",
+      "group": "naics"
+    },
+    {
+      "id": "naics:332410",
+      "label": "332410",
+      "group": "naics"
+    },
+    {
+      "id": "naics:333998",
+      "label": "333998",
+      "group": "naics"
+    },
+    {
+      "id": "naics:332321",
+      "label": "332321",
+      "group": "naics"
+    },
+    {
+      "id": "naics:722310",
+      "label": "722310",
+      "group": "naics"
+    },
+    {
+      "id": "naics:334310",
+      "label": "334310",
+      "group": "naics"
+    },
+    {
+      "id": "naics:335314",
+      "label": "335314",
+      "group": "naics"
+    },
+    {
+      "id": "naics:332311",
+      "label": "332311",
+      "group": "naics"
+    },
+    {
+      "id": "naics:335932",
+      "label": "335932",
+      "group": "naics"
+    },
+    {
+      "id": "naics:334412",
+      "label": "334412",
+      "group": "naics"
+    },
+    {
+      "id": "naics:444180",
+      "label": "444180",
+      "group": "naics"
+    },
+    {
+      "id": "naics:488190",
+      "label": "488190",
+      "group": "naics"
+    },
+    {
+      "id": "naics:335312",
+      "label": "335312",
+      "group": "naics"
+    },
+    {
+      "id": "naics:339114",
+      "label": "339114",
+      "group": "naics"
+    },
+    {
+      "id": "naics:332919",
+      "label": "332919",
+      "group": "naics"
+    },
+    {
+      "id": "naics:325920",
+      "label": "325920",
+      "group": "naics"
+    },
+    {
+      "id": "agency:ARCHITECT OF THE CAPITOL",
+      "label": "ARCHITECT OF THE CAPITOL",
+      "group": "agency"
+    },
+    {
+      "id": "naics:562920",
+      "label": "562920",
+      "group": "naics"
+    },
+    {
+      "id": "naics:541512",
+      "label": "541512",
+      "group": "naics"
+    },
+    {
+      "id": "naics:532490",
+      "label": "532490",
+      "group": "naics"
+    },
+    {
+      "id": "naics:541930",
+      "label": "541930",
+      "group": "naics"
+    },
+    {
+      "id": "naics:492110",
+      "label": "492110",
+      "group": "naics"
+    },
+    {
+      "id": "naics:611430",
+      "label": "611430",
+      "group": "naics"
+    },
+    {
+      "id": "naics:711219",
+      "label": "711219",
+      "group": "naics"
+    },
+    {
+      "id": "naics:812320",
+      "label": "812320",
+      "group": "naics"
+    },
+    {
+      "id": "naics:518210",
+      "label": "518210",
+      "group": "naics"
+    },
+    {
+      "id": "naics:238990",
+      "label": "238990",
+      "group": "naics"
+    },
+    {
+      "id": "naics:562111",
+      "label": "562111",
+      "group": "naics"
+    },
+    {
+      "id": "naics:332710",
+      "label": "332710",
+      "group": "naics"
+    },
+    {
+      "id": "agency:JUSTICE, DEPARTMENT OF",
+      "label": "JUSTICE, DEPARTMENT OF",
+      "group": "agency"
+    },
+    {
+      "id": "naics:62399",
+      "label": "62399",
+      "group": "naics"
+    },
+    {
+      "id": "naics:531320",
+      "label": "531320",
+      "group": "naics"
+    },
+    {
+      "id": "naics:53",
+      "label": "53",
+      "group": "naics"
+    },
+    {
+      "id": "naics:423830",
+      "label": "423830",
+      "group": "naics"
+    },
+    {
+      "id": "naics:334516",
+      "label": "334516",
+      "group": "naics"
+    },
+    {
+      "id": "naics:334517",
+      "label": "334517",
+      "group": "naics"
+    },
+    {
+      "id": "naics:561621",
+      "label": "561621",
+      "group": "naics"
+    },
+    {
+      "id": "agency:HOMELAND SECURITY, DEPARTMENT OF",
+      "label": "HOMELAND SECURITY, DEPARTMENT OF",
+      "group": "agency"
+    },
+    {
+      "id": "naics:335311",
+      "label": "335311",
+      "group": "naics"
+    },
+    {
+      "id": "naics:541620",
+      "label": "541620",
+      "group": "naics"
+    },
+    {
+      "id": "naics:711320",
+      "label": "711320",
+      "group": "naics"
+    },
+    {
+      "id": "naics:423930",
+      "label": "423930",
+      "group": "naics"
+    },
+    {
+      "id": "naics:517111",
+      "label": "517111",
+      "group": "naics"
+    },
+    {
+      "id": "naics:531120",
+      "label": "531120",
+      "group": "naics"
+    },
+    {
+      "id": "naics:334514",
+      "label": "334514",
+      "group": "naics"
+    },
+    {
+      "id": "naics:622110",
+      "label": "622110",
+      "group": "naics"
+    },
+    {
+      "id": "naics:334413",
+      "label": "334413",
+      "group": "naics"
+    },
+    {
+      "id": "naics:334220",
+      "label": "334220",
+      "group": "naics"
+    },
+    {
+      "id": "naics:334416",
+      "label": "334416",
+      "group": "naics"
+    },
+    {
+      "id": "naics:335999",
+      "label": "335999",
+      "group": "naics"
+    },
+    {
+      "id": "naics:334419",
+      "label": "334419",
+      "group": "naics"
+    },
+    {
+      "id": "naics:333923",
+      "label": "333923",
+      "group": "naics"
+    },
+    {
+      "id": "naics:333611",
+      "label": "333611",
+      "group": "naics"
+    },
+    {
+      "id": "naics:335313",
+      "label": "335313",
+      "group": "naics"
+    },
+    {
+      "id": "naics:314110",
+      "label": "314110",
+      "group": "naics"
+    },
+    {
+      "id": "naics:334519",
+      "label": "334519",
+      "group": "naics"
+    },
+    {
+      "id": "naics:541714",
+      "label": "541714",
+      "group": "naics"
+    },
+    {
+      "id": "naics:332994",
+      "label": "332994",
+      "group": "naics"
+    },
+    {
+      "id": "naics:713940",
+      "label": "713940",
+      "group": "naics"
+    },
+    {
+      "id": "naics:561320",
+      "label": "561320",
+      "group": "naics"
+    },
+    {
+      "id": "naics:333992",
+      "label": "333992",
+      "group": "naics"
+    },
+    {
+      "id": "naics:334417",
+      "label": "334417",
+      "group": "naics"
+    },
+    {
+      "id": "naics:333310",
+      "label": "333310",
+      "group": "naics"
+    },
+    {
+      "id": "naics:336360",
+      "label": "336360",
+      "group": "naics"
+    },
+    {
+      "id": "naics:334512",
+      "label": "334512",
+      "group": "naics"
+    },
+    {
+      "id": "naics:332911",
+      "label": "332911",
+      "group": "naics"
+    },
+    {
+      "id": "naics:334511",
+      "label": "334511",
+      "group": "naics"
+    },
+    {
+      "id": "naics:336320",
+      "label": "336320",
+      "group": "naics"
+    },
+    {
+      "id": "agency:TRANSPORTATION, DEPARTMENT OF",
+      "label": "TRANSPORTATION, DEPARTMENT OF",
+      "group": "agency"
+    },
+    {
+      "id": "naics:336340",
+      "label": "336340",
+      "group": "naics"
+    },
+    {
+      "id": "naics:333618",
+      "label": "333618",
+      "group": "naics"
+    },
+    {
+      "id": "naics:562112",
+      "label": "562112",
+      "group": "naics"
+    },
+    {
+      "id": "naics:315210",
+      "label": "315210",
+      "group": "naics"
+    },
+    {
+      "id": "naics:236118",
+      "label": "236118",
+      "group": "naics"
+    },
+    {
+      "id": "naics:334290",
+      "label": "334290",
+      "group": "naics"
+    },
+    {
+      "id": "naics:325120",
+      "label": "325120",
+      "group": "naics"
+    },
+    {
+      "id": "naics:114210",
+      "label": "114210",
+      "group": "naics"
+    },
+    {
+      "id": "naics:339920",
+      "label": "339920",
+      "group": "naics"
+    },
+    {
+      "id": "naics:333994",
+      "label": "333994",
+      "group": "naics"
+    },
+    {
+      "id": "naics:336510",
+      "label": "336510",
+      "group": "naics"
+    },
+    {
+      "id": "naics:541310",
+      "label": "541310",
+      "group": "naics"
+    },
+    {
+      "id": "agency:TREASURY, DEPARTMENT OF THE",
+      "label": "TREASURY, DEPARTMENT OF THE",
+      "group": "agency"
+    },
+    {
+      "id": "naics:311999",
+      "label": "311999",
+      "group": "naics"
+    },
+    {
+      "id": "naics:311111",
+      "label": "311111",
+      "group": "naics"
+    },
+    {
+      "id": "naics:713990",
+      "label": "713990",
+      "group": "naics"
+    },
+    {
+      "id": "naics:621511",
+      "label": "621511",
+      "group": "naics"
+    },
+    {
+      "id": "naics:423690",
+      "label": "423690",
+      "group": "naics"
+    },
+    {
+      "id": "naics:621910",
+      "label": "621910",
+      "group": "naics"
+    },
+    {
+      "id": "agency:NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
+      "label": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
+      "group": "agency"
+    },
+    {
+      "id": "naics:541519",
+      "label": "541519",
+      "group": "naics"
+    },
+    {
+      "id": "naics:326299",
+      "label": "326299",
+      "group": "naics"
+    },
+    {
+      "id": "naics:493190",
+      "label": "493190",
+      "group": "naics"
+    },
+    {
+      "id": "naics:531190",
+      "label": "531190",
+      "group": "naics"
+    },
+    {
+      "id": "naics:561790",
+      "label": "561790",
+      "group": "naics"
+    },
+    {
+      "id": "naics:331221",
+      "label": "331221",
+      "group": "naics"
+    },
+    {
+      "id": "naics:3336",
+      "label": "3336",
+      "group": "naics"
+    },
+    {
+      "id": "naics:621340",
+      "label": "621340",
+      "group": "naics"
+    },
+    {
+      "id": "naics:541511",
+      "label": "541511",
+      "group": "naics"
+    },
+    {
+      "id": "naics:339112",
+      "label": "339112",
+      "group": "naics"
+    },
+    {
+      "id": "naics:621512",
+      "label": "621512",
+      "group": "naics"
+    },
+    {
+      "id": "naics:561611",
+      "label": "561611",
+      "group": "naics"
+    },
+    {
+      "id": "naics:332216",
+      "label": "332216",
+      "group": "naics"
+    },
+    {
+      "id": "naics:336330",
+      "label": "336330",
+      "group": "naics"
+    },
+    {
+      "id": "naics:611699",
+      "label": "611699",
+      "group": "naics"
+    },
+    {
+      "id": "naics:332312",
+      "label": "332312",
+      "group": "naics"
+    },
+    {
+      "id": "naics:31199",
+      "label": "31199",
+      "group": "naics"
+    },
+    {
+      "id": "naics:722320",
+      "label": "722320",
+      "group": "naics"
+    },
+    {
+      "id": "naics:921190",
+      "label": "921190",
+      "group": "naics"
+    },
+    {
+      "id": "naics:333120",
+      "label": "333120",
+      "group": "naics"
+    },
+    {
+      "id": "naics:321219",
+      "label": "321219",
+      "group": "naics"
+    },
+    {
+      "id": "type:Sale of Surplus Property",
+      "label": "Sale of Surplus Property",
+      "group": "type"
+    },
+    {
+      "id": "naics:541720",
+      "label": "541720",
+      "group": "naics"
+    },
+    {
+      "id": "naics:562211",
+      "label": "562211",
+      "group": "naics"
+    },
+    {
+      "id": "naics:334513",
+      "label": "334513",
+      "group": "naics"
+    },
+    {
+      "id": "naics:423450",
+      "label": "423450",
+      "group": "naics"
+    },
+    {
+      "id": "naics:562119",
+      "label": "562119",
+      "group": "naics"
+    },
+    {
+      "id": "naics:325412",
+      "label": "325412",
+      "group": "naics"
+    },
+    {
+      "id": "naics:314994",
+      "label": "314994",
+      "group": "naics"
+    },
+    {
+      "id": "naics:423710",
+      "label": "423710",
+      "group": "naics"
+    },
+    {
+      "id": "naics:237110",
+      "label": "237110",
+      "group": "naics"
+    },
+    {
+      "id": "naics:53112",
+      "label": "53112",
+      "group": "naics"
+    },
+    {
+      "id": "naics:332913",
+      "label": "332913",
+      "group": "naics"
+    },
+    {
+      "id": "naics:812111",
+      "label": "812111",
+      "group": "naics"
+    },
+    {
+      "id": "naics:332993",
+      "label": "332993",
+      "group": "naics"
+    },
+    {
+      "id": "naics:221210",
+      "label": "221210",
+      "group": "naics"
+    },
+    {
+      "id": "naics:492210",
+      "label": "492210",
+      "group": "naics"
+    },
+    {
+      "id": "naics:337214",
+      "label": "337214",
+      "group": "naics"
+    },
+    {
+      "id": "agency:COMMERCE, DEPARTMENT OF",
+      "label": "COMMERCE, DEPARTMENT OF",
+      "group": "agency"
+    },
+    {
+      "id": "naics:327991",
+      "label": "327991",
+      "group": "naics"
+    },
+    {
+      "id": "naics:611310",
+      "label": "611310",
+      "group": "naics"
+    },
+    {
+      "id": "naics:517121",
+      "label": "517121",
+      "group": "naics"
+    },
+    {
+      "id": "naics:311422",
+      "label": "311422",
+      "group": "naics"
+    },
+    {
+      "id": "naics:332721",
+      "label": "332721",
+      "group": "naics"
+    },
+    {
+      "id": "naics:339115",
+      "label": "339115",
+      "group": "naics"
+    },
+    {
+      "id": "naics:237310",
+      "label": "237310",
+      "group": "naics"
+    },
+    {
+      "id": "naics:336120",
+      "label": "336120",
+      "group": "naics"
+    },
+    {
+      "id": "naics:517410",
+      "label": "517410",
+      "group": "naics"
+    },
+    {
+      "id": "naics:541611",
+      "label": "541611",
+      "group": "naics"
+    },
+    {
+      "id": "naics:541370",
+      "label": "541370",
+      "group": "naics"
+    },
+    {
+      "id": "naics:32192",
+      "label": "32192",
+      "group": "naics"
+    },
+    {
+      "id": "naics:562910",
+      "label": "562910",
+      "group": "naics"
+    },
+    {
+      "id": "naics:332912",
+      "label": "332912",
+      "group": "naics"
+    },
+    {
+      "id": "agency:LIBRARY OF CONGRESS",
+      "label": "LIBRARY OF CONGRESS",
+      "group": "agency"
+    },
+    {
+      "id": "naics:334",
+      "label": "334",
+      "group": "naics"
+    },
+    {
+      "id": "agency:ENVIRONMENTAL PROTECTION AGENCY",
+      "label": "ENVIRONMENTAL PROTECTION AGENCY",
+      "group": "agency"
+    },
+    {
+      "id": "naics:531110",
+      "label": "531110",
+      "group": "naics"
+    },
+    {
+      "id": "naics:483212",
+      "label": "483212",
+      "group": "naics"
+    },
+    {
+      "id": "naics:332112",
+      "label": "332112",
+      "group": "naics"
+    },
+    {
+      "id": "agency:FEDERAL MEDIATION AND CONCILIATION SERVICE",
+      "label": "FEDERAL MEDIATION AND CONCILIATION SERVICE",
+      "group": "agency"
+    },
+    {
+      "id": "naics:541211",
+      "label": "541211",
+      "group": "naics"
+    },
+    {
+      "id": "naics:326150",
+      "label": "326150",
+      "group": "naics"
+    },
+    {
+      "id": "naics:541614",
+      "label": "541614",
+      "group": "naics"
+    },
+    {
+      "id": "naics:621420",
+      "label": "621420",
+      "group": "naics"
+    },
+    {
+      "id": "naics:481211",
+      "label": "481211",
+      "group": "naics"
+    },
+    {
+      "id": "naics:238160",
+      "label": "238160",
+      "group": "naics"
+    },
+    {
+      "id": "naics:561612",
+      "label": "561612",
+      "group": "naics"
+    },
+    {
+      "id": "naics:114119",
+      "label": "114119",
+      "group": "naics"
+    },
+    {
+      "id": "agency:EXPORT-IMPORT BANK OF THE US",
+      "label": "EXPORT-IMPORT BANK OF THE US",
+      "group": "agency"
+    },
+    {
+      "id": "naics:541199",
+      "label": "541199",
+      "group": "naics"
+    },
+    {
+      "id": "naics:115112",
+      "label": "115112",
+      "group": "naics"
+    },
+    {
+      "id": "naics:512191",
+      "label": "512191",
+      "group": "naics"
+    },
+    {
+      "id": "naics:333924",
+      "label": "333924",
+      "group": "naics"
+    },
+    {
+      "id": "naics:541715",
+      "label": "541715",
+      "group": "naics"
+    },
+    {
+      "id": "naics:311991",
+      "label": "311991",
+      "group": "naics"
+    },
+    {
+      "id": "naics:238320",
+      "label": "238320",
+      "group": "naics"
+    },
+    {
+      "id": "naics:334111",
+      "label": "334111",
+      "group": "naics"
+    },
+    {
+      "id": "naics:31181",
+      "label": "31181",
+      "group": "naics"
+    },
+    {
+      "id": "naics:811111",
+      "label": "811111",
+      "group": "naics"
+    },
+    {
+      "id": "naics:3115",
+      "label": "3115",
+      "group": "naics"
+    },
+    {
+      "id": "naics:336999",
+      "label": "336999",
+      "group": "naics"
+    },
+    {
+      "id": "naics:423720",
+      "label": "423720",
+      "group": "naics"
+    },
+    {
+      "id": "naics:332812",
+      "label": "332812",
+      "group": "naics"
+    },
+    {
+      "id": "naics:237120",
+      "label": "237120",
+      "group": "naics"
+    },
+    {
+      "id": "naics:337910",
+      "label": "337910",
+      "group": "naics"
+    },
+    {
+      "id": "naics:561421",
+      "label": "561421",
+      "group": "naics"
+    },
+    {
+      "id": "naics:621991",
+      "label": "621991",
+      "group": "naics"
+    },
+    {
+      "id": "agency:UNITED STATES TRADE AND DEVELOPMENT AGENCY",
+      "label": "UNITED STATES TRADE AND DEVELOPMENT AGENCY",
+      "group": "agency"
+    },
+    {
+      "id": "naics:238910",
+      "label": "238910",
+      "group": "naics"
+    },
+    {
+      "id": "naics:238120",
+      "label": "238120",
+      "group": "naics"
+    },
+    {
+      "id": "naics:326199",
+      "label": "326199",
+      "group": "naics"
+    },
+    {
+      "id": "naics:333515",
+      "label": "333515",
+      "group": "naics"
+    },
+    {
+      "id": "naics:532283",
+      "label": "532283",
+      "group": "naics"
+    },
+    {
+      "id": "naics:54171",
+      "label": "54171",
+      "group": "naics"
+    },
+    {
+      "id": "naics:311710",
+      "label": "311710",
+      "group": "naics"
+    },
+    {
+      "id": "naics:326291",
+      "label": "326291",
+      "group": "naics"
+    },
+    {
+      "id": "naics:331491",
+      "label": "331491",
+      "group": "naics"
+    },
+    {
+      "id": "naics:561510",
+      "label": "561510",
+      "group": "naics"
+    },
+    {
+      "id": "naics:22111",
+      "label": "22111",
+      "group": "naics"
+    },
+    {
+      "id": "naics:236210",
+      "label": "236210",
+      "group": "naics"
+    },
+    {
+      "id": "naics:721310",
+      "label": "721310",
+      "group": "naics"
+    },
+    {
+      "id": "naics:561710",
+      "label": "561710",
+      "group": "naics"
+    },
+    {
+      "id": "naics:336419",
+      "label": "336419",
+      "group": "naics"
+    },
+    {
+      "id": "naics:488991",
+      "label": "488991",
+      "group": "naics"
+    },
+    {
+      "id": "naics:333612",
+      "label": "333612",
+      "group": "naics"
+    },
+    {
+      "id": "naics:5621",
+      "label": "5621",
+      "group": "naics"
+    },
+    {
+      "id": "naics:326220",
+      "label": "326220",
+      "group": "naics"
+    },
+    {
+      "id": "naics:332431",
+      "label": "332431",
+      "group": "naics"
+    },
+    {
+      "id": "naics:485310",
+      "label": "485310",
+      "group": "naics"
+    },
+    {
+      "id": "naics:562219",
+      "label": "562219",
+      "group": "naics"
+    },
+    {
+      "id": "naics:325320",
+      "label": "325320",
+      "group": "naics"
+    },
+    {
+      "id": "naics:334118",
+      "label": "334118",
+      "group": "naics"
+    },
+    {
+      "id": "naics:333413",
+      "label": "333413",
+      "group": "naics"
+    },
+    {
+      "id": "naics:326211",
+      "label": "326211",
+      "group": "naics"
+    },
+    {
+      "id": "naics:624410",
+      "label": "624410",
+      "group": "naics"
+    },
+    {
+      "id": "naics:423490",
+      "label": "423490",
+      "group": "naics"
+    },
+    {
+      "id": "naics:334210",
+      "label": "334210",
+      "group": "naics"
+    },
+    {
+      "id": "naics:336310",
+      "label": "336310",
+      "group": "naics"
+    },
+    {
+      "id": "naics:922160",
+      "label": "922160",
+      "group": "naics"
+    },
+    {
+      "id": "naics:331420",
+      "label": "331420",
+      "group": "naics"
+    },
+    {
+      "id": "naics:335910",
+      "label": "335910",
+      "group": "naics"
+    },
+    {
+      "id": "naics:333414",
+      "label": "333414",
+      "group": "naics"
+    },
+    {
+      "id": "agency:SENATE, THE",
+      "label": "SENATE, THE",
+      "group": "agency"
+    },
+    {
+      "id": "naics:812332",
+      "label": "812332",
+      "group": "naics"
+    },
+    {
+      "id": "naics:488310",
+      "label": "488310",
+      "group": "naics"
+    },
+    {
+      "id": "naics:561920",
+      "label": "561920",
+      "group": "naics"
+    },
+    {
+      "id": "agency:UNITED STATES GOVERNMENT PUBLISHING OFFICE",
+      "label": "UNITED STATES GOVERNMENT PUBLISHING OFFICE",
+      "group": "agency"
+    },
+    {
+      "id": "naics:337121",
+      "label": "337121",
+      "group": "naics"
+    },
+    {
+      "id": "naics:111998",
+      "label": "111998",
+      "group": "naics"
+    },
+    {
+      "id": "naics:323",
+      "label": "323",
+      "group": "naics"
+    },
+    {
+      "id": "naics:331210",
+      "label": "331210",
+      "group": "naics"
+    },
+    {
+      "id": "naics:611519",
+      "label": "611519",
+      "group": "naics"
+    },
+    {
+      "id": "naics:336612",
+      "label": "336612",
+      "group": "naics"
+    },
+    {
+      "id": "naics:611710",
+      "label": "611710",
+      "group": "naics"
+    },
+    {
+      "id": "naics:221114",
+      "label": "221114",
+      "group": "naics"
+    },
+    {
+      "id": "naics:333111",
+      "label": "333111",
+      "group": "naics"
+    },
+    {
+      "id": "naics:23799",
+      "label": "23799",
+      "group": "naics"
+    },
+    {
+      "id": "naics:541320",
+      "label": "541320",
+      "group": "naics"
+    },
+    {
+      "id": "naics:621111",
+      "label": "621111",
+      "group": "naics"
+    },
+    {
+      "id": "naics:611512",
+      "label": "611512",
+      "group": "naics"
+    },
+    {
+      "id": "agency:AMERICAN BATTLE MONUMENTS COMMISSION",
+      "label": "AMERICAN BATTLE MONUMENTS COMMISSION",
+      "group": "agency"
+    },
+    {
+      "id": "naics:333517",
+      "label": "333517",
+      "group": "naics"
+    },
+    {
+      "id": "naics:333996",
+      "label": "333996",
+      "group": "naics"
+    },
+    {
+      "id": "naics:333248",
+      "label": "333248",
+      "group": "naics"
+    },
+    {
+      "id": "naics:332420",
+      "label": "332420",
+      "group": "naics"
+    },
+    {
+      "id": "naics:331318",
+      "label": "331318",
+      "group": "naics"
+    },
+    {
+      "id": "naics:335921",
+      "label": "335921",
+      "group": "naics"
+    },
+    {
+      "id": "naics:485510",
+      "label": "485510",
+      "group": "naics"
+    },
+    {
+      "id": "naics:333519",
+      "label": "333519",
+      "group": "naics"
+    },
+    {
+      "id": "naics:423860",
+      "label": "423860",
+      "group": "naics"
+    },
+    {
+      "id": "naics:238190",
+      "label": "238190",
+      "group": "naics"
+    },
+    {
+      "id": "naics:524126",
+      "label": "524126",
+      "group": "naics"
+    },
+    {
+      "id": "naics:326130",
+      "label": "326130",
+      "group": "naics"
+    },
+    {
+      "id": "naics:61143",
+      "label": "61143",
+      "group": "naics"
+    },
+    {
+      "id": "naics:51",
+      "label": "51",
+      "group": "naics"
+    }
+  ],
+  "edges": [
+    {
+      "source": "agency:STATE, DEPARTMENT OF",
+      "target": "type:Solicitation",
+      "kind": "agency_to_type",
+      "weight": 10
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:5174",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:DEPT OF DEFENSE",
+      "target": "type:Award Notice",
+      "kind": "agency_to_type",
+      "weight": 181
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:236220",
+      "kind": "type_to_naics",
+      "weight": 7
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:524114",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "agency:DEPT OF DEFENSE",
+      "target": "type:Solicitation",
+      "kind": "agency_to_type",
+      "weight": 232
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:236220",
+      "kind": "type_to_naics",
+      "weight": 29
+    },
+    {
+      "source": "agency:DEPT OF DEFENSE",
+      "target": "type:Presolicitation",
+      "kind": "agency_to_type",
+      "weight": 72
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:334418",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:336611",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:GENERAL SERVICES ADMINISTRATION",
+      "target": "type:Presolicitation",
+      "kind": "agency_to_type",
+      "weight": 2
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:531210",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:DEPT OF DEFENSE",
+      "target": "type:Sources Sought",
+      "kind": "agency_to_type",
+      "weight": 98
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:561730",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "agency:VETERANS AFFAIRS, DEPARTMENT OF",
+      "target": "type:Presolicitation",
+      "kind": "agency_to_type",
+      "weight": 10
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:236220",
+      "kind": "type_to_naics",
+      "weight": 6
+    },
+    {
+      "source": "agency:DEPT OF DEFENSE",
+      "target": "type:Combined Synopsis/Solicitation",
+      "kind": "agency_to_type",
+      "weight": 393
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:325998",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:333613",
+      "kind": "type_to_naics",
+      "weight": 6
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:332618",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:339991",
+      "kind": "type_to_naics",
+      "weight": 6
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:336350",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:332510",
+      "kind": "type_to_naics",
+      "weight": 30
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:332722",
+      "kind": "type_to_naics",
+      "weight": 20
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:336390",
+      "kind": "type_to_naics",
+      "weight": 4
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:336411",
+      "kind": "type_to_naics",
+      "weight": 6
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:334515",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "agency:DEPT OF DEFENSE",
+      "target": "type:Justification",
+      "kind": "agency_to_type",
+      "weight": 14
+    },
+    {
+      "source": "type:Justification",
+      "target": "naics:336413",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:AGRICULTURE, DEPARTMENT OF",
+      "target": "type:Combined Synopsis/Solicitation",
+      "kind": "agency_to_type",
+      "weight": 29
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:561720",
+      "kind": "type_to_naics",
+      "weight": 4
+    },
+    {
+      "source": "agency:DEPT OF DEFENSE",
+      "target": "type:Special Notice",
+      "kind": "agency_to_type",
+      "weight": 52
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:811210",
+      "kind": "type_to_naics",
+      "weight": 7
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:Unknown NAICS",
+      "kind": "type_to_naics",
+      "weight": 11
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:336214",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:332439",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "agency:VETERANS AFFAIRS, DEPARTMENT OF",
+      "target": "type:Sources Sought",
+      "kind": "agency_to_type",
+      "weight": 30
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:238290",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:237130",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:INTERIOR, DEPARTMENT OF THE",
+      "target": "type:Special Notice",
+      "kind": "agency_to_type",
+      "weight": 7
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:541360",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:336611",
+      "kind": "type_to_naics",
+      "weight": 9
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:561210",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "agency:INTERIOR, DEPARTMENT OF THE",
+      "target": "type:Award Notice",
+      "kind": "agency_to_type",
+      "weight": 29
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:811310",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:237990",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:541330",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:541990",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:336211",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:561990",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
+      "target": "type:Sources Sought",
+      "kind": "agency_to_type",
+      "weight": 13
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:Unknown NAICS",
+      "kind": "type_to_naics",
+      "weight": 13
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:335139",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:532120",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:237130",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:336611",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:336412",
+      "kind": "type_to_naics",
+      "weight": 4
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:336413",
+      "kind": "type_to_naics",
+      "weight": 20
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:333415",
+      "kind": "type_to_naics",
+      "weight": 4
+    },
+    {
+      "source": "agency:INTERIOR, DEPARTMENT OF THE",
+      "target": "type:Combined Synopsis/Solicitation",
+      "kind": "agency_to_type",
+      "weight": 13
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:541380",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:VETERANS AFFAIRS, DEPARTMENT OF",
+      "target": "type:Combined Synopsis/Solicitation",
+      "kind": "agency_to_type",
+      "weight": 28
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:561730",
+      "kind": "type_to_naics",
+      "weight": 4
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:237990",
+      "kind": "type_to_naics",
+      "weight": 12
+    },
+    {
+      "source": "agency:ENERGY, DEPARTMENT OF",
+      "target": "type:Sources Sought",
+      "kind": "agency_to_type",
+      "weight": 4
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:332999",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:517810",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:813110",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:237990",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "agency:LABOR, DEPARTMENT OF",
+      "target": "type:Presolicitation",
+      "kind": "agency_to_type",
+      "weight": 1
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:524298",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:236220",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:331529",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
+      "target": "type:Presolicitation",
+      "kind": "agency_to_type",
+      "weight": 2
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:513210",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:339113",
+      "kind": "type_to_naics",
+      "weight": 6
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:221320",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:334510",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:333922",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:449210",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:326122",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:335931",
+      "kind": "type_to_naics",
+      "weight": 4
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:332996",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:332991",
+      "kind": "type_to_naics",
+      "weight": 4
+    },
+    {
+      "source": "agency:HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
+      "target": "type:Award Notice",
+      "kind": "agency_to_type",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:541219",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:315990",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:481212",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:332510",
+      "kind": "type_to_naics",
+      "weight": 5
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:335220",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:541330",
+      "kind": "type_to_naics",
+      "weight": 5
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:711510",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:532412",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "agency:PENSION BENEFIT GUARANTY CORPORATION",
+      "target": "type:Justification",
+      "kind": "agency_to_type",
+      "weight": 1
+    },
+    {
+      "source": "type:Justification",
+      "target": "naics:519290",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:541330",
+      "kind": "type_to_naics",
+      "weight": 4
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:541380",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:561730",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:336415",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:INTERIOR, DEPARTMENT OF THE",
+      "target": "type:Solicitation",
+      "kind": "agency_to_type",
+      "weight": 24
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:238210",
+      "kind": "type_to_naics",
+      "weight": 11
+    },
+    {
+      "source": "agency:SMITHSONIAN INSTITUTION",
+      "target": "type:Presolicitation",
+      "kind": "agency_to_type",
+      "weight": 1
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:541690",
+      "kind": "type_to_naics",
+      "weight": 4
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:333241",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:325413",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:337215",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:VETERANS AFFAIRS, DEPARTMENT OF",
+      "target": "type:Special Notice",
+      "kind": "agency_to_type",
+      "weight": 12
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:238220",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:493110",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:337211",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:484110",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:561730",
+      "kind": "type_to_naics",
+      "weight": 9
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:339999",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:333914",
+      "kind": "type_to_naics",
+      "weight": 6
+    },
+    {
+      "source": "agency:HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
+      "target": "type:Combined Synopsis/Solicitation",
+      "kind": "agency_to_type",
+      "weight": 4
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:115310",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:721110",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:238220",
+      "kind": "type_to_naics",
+      "weight": 6
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:336212",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:334510",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:332410",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:333998",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:332321",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:722310",
+      "kind": "type_to_naics",
+      "weight": 4
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:513210",
+      "kind": "type_to_naics",
+      "weight": 5
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:334310",
+      "kind": "type_to_naics",
+      "weight": 4
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:335314",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:332311",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:335932",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:334412",
+      "kind": "type_to_naics",
+      "weight": 8
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:444180",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:488190",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:335312",
+      "kind": "type_to_naics",
+      "weight": 5
+    },
+    {
+      "source": "agency:VETERANS AFFAIRS, DEPARTMENT OF",
+      "target": "type:Solicitation",
+      "kind": "agency_to_type",
+      "weight": 37
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:339114",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:332919",
+      "kind": "type_to_naics",
+      "weight": 10
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:325920",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:541330",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "agency:ARCHITECT OF THE CAPITOL",
+      "target": "type:Solicitation",
+      "kind": "agency_to_type",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:562920",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:541360",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:541512",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:238220",
+      "kind": "type_to_naics",
+      "weight": 5
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:532490",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:541930",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:492110",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:611430",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "agency:GENERAL SERVICES ADMINISTRATION",
+      "target": "type:Award Notice",
+      "kind": "agency_to_type",
+      "weight": 1
+    },
+    {
+      "source": "type:Justification",
+      "target": "naics:513210",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:541690",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:711219",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Justification",
+      "target": "naics:541990",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:812320",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:518210",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:238220",
+      "kind": "type_to_naics",
+      "weight": 10
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:238220",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:238990",
+      "kind": "type_to_naics",
+      "weight": 4
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:562111",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:ENERGY, DEPARTMENT OF",
+      "target": "type:Combined Synopsis/Solicitation",
+      "kind": "agency_to_type",
+      "weight": 5
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:332710",
+      "kind": "type_to_naics",
+      "weight": 5
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:811210",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:JUSTICE, DEPARTMENT OF",
+      "target": "type:Presolicitation",
+      "kind": "agency_to_type",
+      "weight": 5
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:62399",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:531320",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:53",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:VETERANS AFFAIRS, DEPARTMENT OF",
+      "target": "type:Award Notice",
+      "kind": "agency_to_type",
+      "weight": 23
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:339113",
+      "kind": "type_to_naics",
+      "weight": 4
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:423830",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:334516",
+      "kind": "type_to_naics",
+      "weight": 6
+    },
+    {
+      "source": "agency:HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
+      "target": "type:Special Notice",
+      "kind": "agency_to_type",
+      "weight": 4
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:334517",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:561621",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "agency:HOMELAND SECURITY, DEPARTMENT OF",
+      "target": "type:Combined Synopsis/Solicitation",
+      "kind": "agency_to_type",
+      "weight": 14
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:335311",
+      "kind": "type_to_naics",
+      "weight": 4
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:562111",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:336350",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Justification",
+      "target": "naics:334412",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:237990",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:339991",
+      "kind": "type_to_naics",
+      "weight": 7
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:315990",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:541620",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:711320",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:423930",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:334412",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:238990",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:517111",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:532412",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:336412",
+      "kind": "type_to_naics",
+      "weight": 4
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:531120",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:334514",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:622110",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:334413",
+      "kind": "type_to_naics",
+      "weight": 5
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:334220",
+      "kind": "type_to_naics",
+      "weight": 11
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:334416",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:335999",
+      "kind": "type_to_naics",
+      "weight": 8
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:334419",
+      "kind": "type_to_naics",
+      "weight": 16
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:333923",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:334516",
+      "kind": "type_to_naics",
+      "weight": 7
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:333611",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:335313",
+      "kind": "type_to_naics",
+      "weight": 12
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:314110",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:334519",
+      "kind": "type_to_naics",
+      "weight": 5
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:334418",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:561730",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:332999",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:722310",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:541714",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:335311",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:332991",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:332994",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:713940",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:561621",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:561320",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:811210",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:333992",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:336390",
+      "kind": "type_to_naics",
+      "weight": 8
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:335999",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:336350",
+      "kind": "type_to_naics",
+      "weight": 4
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:332722",
+      "kind": "type_to_naics",
+      "weight": 7
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:334417",
+      "kind": "type_to_naics",
+      "weight": 13
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:334220",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:336411",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:333310",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:332994",
+      "kind": "type_to_naics",
+      "weight": 4
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:336360",
+      "kind": "type_to_naics",
+      "weight": 4
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:334310",
+      "kind": "type_to_naics",
+      "weight": 4
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:334416",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:334419",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:335314",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:335312",
+      "kind": "type_to_naics",
+      "weight": 4
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:333415",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:336412",
+      "kind": "type_to_naics",
+      "weight": 5
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:334418",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:334514",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:335931",
+      "kind": "type_to_naics",
+      "weight": 5
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:334512",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:332911",
+      "kind": "type_to_naics",
+      "weight": 9
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:335311",
+      "kind": "type_to_naics",
+      "weight": 4
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:339113",
+      "kind": "type_to_naics",
+      "weight": 4
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:334511",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:336320",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:334413",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:TRANSPORTATION, DEPARTMENT OF",
+      "target": "type:Solicitation",
+      "kind": "agency_to_type",
+      "weight": 3
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:561720",
+      "kind": "type_to_naics",
+      "weight": 5
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:336340",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:333618",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:332999",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:811310",
+      "kind": "type_to_naics",
+      "weight": 6
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:335312",
+      "kind": "type_to_naics",
+      "weight": 5
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:562112",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:315210",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:238210",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:236118",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:333310",
+      "kind": "type_to_naics",
+      "weight": 5
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:334290",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:325120",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:336413",
+      "kind": "type_to_naics",
+      "weight": 14
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:541512",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:114210",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:339920",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:333994",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:541512",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:336413",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:336413",
+      "kind": "type_to_naics",
+      "weight": 4
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:336510",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:541310",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:TREASURY, DEPARTMENT OF THE",
+      "target": "type:Sources Sought",
+      "kind": "agency_to_type",
+      "weight": 5
+    },
+    {
+      "source": "agency:JUSTICE, DEPARTMENT OF",
+      "target": "type:Combined Synopsis/Solicitation",
+      "kind": "agency_to_type",
+      "weight": 21
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:311999",
+      "kind": "type_to_naics",
+      "weight": 7
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:339113",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:336413",
+      "kind": "type_to_naics",
+      "weight": 11
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:334516",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:311111",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:713990",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "agency:ENERGY, DEPARTMENT OF",
+      "target": "type:Special Notice",
+      "kind": "agency_to_type",
+      "weight": 2
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:513210",
+      "kind": "type_to_naics",
+      "weight": 5
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:621511",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:332439",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:236220",
+      "kind": "type_to_naics",
+      "weight": 5
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:811210",
+      "kind": "type_to_naics",
+      "weight": 4
+    },
+    {
+      "source": "agency:JUSTICE, DEPARTMENT OF",
+      "target": "type:Solicitation",
+      "kind": "agency_to_type",
+      "weight": 6
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:423690",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:621910",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:AGRICULTURE, DEPARTMENT OF",
+      "target": "type:Solicitation",
+      "kind": "agency_to_type",
+      "weight": 4
+    },
+    {
+      "source": "agency:NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
+      "target": "type:Special Notice",
+      "kind": "agency_to_type",
+      "weight": 5
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:541519",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:333613",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:336390",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:335314",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:326299",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:493190",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:541310",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:334516",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:332510",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:531190",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:GENERAL SERVICES ADMINISTRATION",
+      "target": "type:Justification",
+      "kind": "agency_to_type",
+      "weight": 3
+    },
+    {
+      "source": "type:Justification",
+      "target": "naics:561730",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:325120",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:336611",
+      "kind": "type_to_naics",
+      "weight": 7
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:561790",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:331221",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:3336",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Justification",
+      "target": "naics:518210",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:336413",
+      "kind": "type_to_naics",
+      "weight": 10
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:621340",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:334512",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:541511",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:238210",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:334417",
+      "kind": "type_to_naics",
+      "weight": 28
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:336360",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:339112",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:339112",
+      "kind": "type_to_naics",
+      "weight": 5
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:621512",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:333923",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Justification",
+      "target": "naics:541330",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:488190",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "agency:HOMELAND SECURITY, DEPARTMENT OF",
+      "target": "type:Special Notice",
+      "kind": "agency_to_type",
+      "weight": 1
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:561611",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:Unknown NAICS",
+      "kind": "type_to_naics",
+      "weight": 16
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:332216",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:TREASURY, DEPARTMENT OF THE",
+      "target": "type:Solicitation",
+      "kind": "agency_to_type",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:336330",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:611699",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:332312",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:622110",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:541512",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:562111",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:31199",
+      "kind": "type_to_naics",
+      "weight": 5
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:541219",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:Unknown NAICS",
+      "kind": "type_to_naics",
+      "weight": 4
+    },
+    {
+      "source": "agency:NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
+      "target": "type:Combined Synopsis/Solicitation",
+      "kind": "agency_to_type",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:541519",
+      "kind": "type_to_naics",
+      "weight": 4
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:335312",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:333618",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:722320",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:STATE, DEPARTMENT OF",
+      "target": "type:Combined Synopsis/Solicitation",
+      "kind": "agency_to_type",
+      "weight": 4
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:921190",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:236118",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:333120",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Justification",
+      "target": "naics:541511",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:TREASURY, DEPARTMENT OF THE",
+      "target": "type:Special Notice",
+      "kind": "agency_to_type",
+      "weight": 2
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:519290",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:321219",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:DEPT OF DEFENSE",
+      "target": "type:Sale of Surplus Property",
+      "kind": "agency_to_type",
+      "weight": 2
+    },
+    {
+      "source": "type:Sale of Surplus Property",
+      "target": "naics:Unknown NAICS",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:TRANSPORTATION, DEPARTMENT OF",
+      "target": "type:Justification",
+      "kind": "agency_to_type",
+      "weight": 2
+    },
+    {
+      "source": "type:Justification",
+      "target": "naics:541720",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "agency:ENERGY, DEPARTMENT OF",
+      "target": "type:Award Notice",
+      "kind": "agency_to_type",
+      "weight": 2
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:562211",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:333998",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:334513",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:238990",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:423450",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:325413",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:811210",
+      "kind": "type_to_naics",
+      "weight": 4
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:811310",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Sale of Surplus Property",
+      "target": "naics:423930",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:561790",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:562119",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:325412",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:337215",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:541380",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:541380",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:314994",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:423710",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:237110",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:721110",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Justification",
+      "target": "naics:334310",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:333415",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:53112",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:532490",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Justification",
+      "target": "naics:332913",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:812111",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:333922",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:513210",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:339112",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:332993",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:AGRICULTURE, DEPARTMENT OF",
+      "target": "type:Award Notice",
+      "kind": "agency_to_type",
+      "weight": 3
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:334516",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:221210",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:492210",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:541519",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:115310",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:621511",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:541330",
+      "kind": "type_to_naics",
+      "weight": 8
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:237110",
+      "kind": "type_to_naics",
+      "weight": 5
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:337214",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:561720",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:334511",
+      "kind": "type_to_naics",
+      "weight": 5
+    },
+    {
+      "source": "agency:COMMERCE, DEPARTMENT OF",
+      "target": "type:Combined Synopsis/Solicitation",
+      "kind": "agency_to_type",
+      "weight": 4
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:541690",
+      "kind": "type_to_naics",
+      "weight": 4
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:332994",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:327991",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:611310",
+      "kind": "type_to_naics",
+      "weight": 4
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:517121",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:532412",
+      "kind": "type_to_naics",
+      "weight": 4
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:311422",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:332721",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:336320",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:332911",
+      "kind": "type_to_naics",
+      "weight": 11
+    },
+    {
+      "source": "type:Justification",
+      "target": "naics:237990",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:334290",
+      "kind": "type_to_naics",
+      "weight": 6
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:339115",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:333922",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:332312",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Justification",
+      "target": "naics:332439",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:237310",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:238220",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:336120",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:HOMELAND SECURITY, DEPARTMENT OF",
+      "target": "type:Award Notice",
+      "kind": "agency_to_type",
+      "weight": 5
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:488190",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:541519",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "agency:NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
+      "target": "type:Presolicitation",
+      "kind": "agency_to_type",
+      "weight": 1
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:517410",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:325412",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:339112",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "agency:TRANSPORTATION, DEPARTMENT OF",
+      "target": "type:Sources Sought",
+      "kind": "agency_to_type",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:237990",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:541990",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:541611",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:HOMELAND SECURITY, DEPARTMENT OF",
+      "target": "type:Solicitation",
+      "kind": "agency_to_type",
+      "weight": 5
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:333618",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:541370",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:32192",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:562910",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:332912",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:611699",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:518210",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:LABOR, DEPARTMENT OF",
+      "target": "type:Sources Sought",
+      "kind": "agency_to_type",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:513210",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:333992",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:LIBRARY OF CONGRESS",
+      "target": "type:Combined Synopsis/Solicitation",
+      "kind": "agency_to_type",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:334",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:811310",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "agency:ENVIRONMENTAL PROTECTION AGENCY",
+      "target": "type:Combined Synopsis/Solicitation",
+      "kind": "agency_to_type",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:334515",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:531110",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
+      "target": "type:Sources Sought",
+      "kind": "agency_to_type",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:53",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:TRANSPORTATION, DEPARTMENT OF",
+      "target": "type:Presolicitation",
+      "kind": "agency_to_type",
+      "weight": 1
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:237310",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:332618",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:238210",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:483212",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:517111",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:333992",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:332112",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:333415",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:FEDERAL MEDIATION AND CONCILIATION SERVICE",
+      "target": "type:Sources Sought",
+      "kind": "agency_to_type",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:541211",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:332912",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:326150",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Justification",
+      "target": "naics:541614",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:621420",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:481211",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:561790",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:238160",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:333310",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "agency:HOMELAND SECURITY, DEPARTMENT OF",
+      "target": "type:Justification",
+      "kind": "agency_to_type",
+      "weight": 1
+    },
+    {
+      "source": "type:Justification",
+      "target": "naics:561612",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:238210",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:336360",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:332112",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:114119",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:EXPORT-IMPORT BANK OF THE US",
+      "target": "type:Award Notice",
+      "kind": "agency_to_type",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:541199",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:561612",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:115112",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
+      "target": "type:Solicitation",
+      "kind": "agency_to_type",
+      "weight": 2
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:512191",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:GENERAL SERVICES ADMINISTRATION",
+      "target": "type:Solicitation",
+      "kind": "agency_to_type",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:333924",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:332999",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:COMMERCE, DEPARTMENT OF",
+      "target": "type:Special Notice",
+      "kind": "agency_to_type",
+      "weight": 2
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:541715",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "agency:AGRICULTURE, DEPARTMENT OF",
+      "target": "type:Special Notice",
+      "kind": "agency_to_type",
+      "weight": 2
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:336412",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:311991",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:238320",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:238210",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:722310",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:311999",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:532490",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:513210",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:335311",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:611430",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:562111",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:334111",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:31181",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:114119",
+      "kind": "type_to_naics",
+      "weight": 4
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:811111",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:3115",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Justification",
+      "target": "naics:336999",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:713990",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:423720",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:332812",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:334511",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:237120",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:337910",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:334513",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:237990",
+      "kind": "type_to_naics",
+      "weight": 4
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:561421",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:236220",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:621991",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:541360",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "agency:UNITED STATES TRADE AND DEVELOPMENT AGENCY",
+      "target": "type:Combined Synopsis/Solicitation",
+      "kind": "agency_to_type",
+      "weight": 2
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:238910",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:541511",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:541715",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:334513",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:531120",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:325120",
+      "kind": "type_to_naics",
+      "weight": 5
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:115310",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:COMMERCE, DEPARTMENT OF",
+      "target": "type:Sources Sought",
+      "kind": "agency_to_type",
+      "weight": 4
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:335312",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:488190",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:621991",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:238120",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:326199",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:333613",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:333618",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:333515",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:334515",
+      "kind": "type_to_naics",
+      "weight": 5
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:532283",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:54171",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:311710",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:337214",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:238320",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:335932",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:333924",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:332994",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:HOMELAND SECURITY, DEPARTMENT OF",
+      "target": "type:Sources Sought",
+      "kind": "agency_to_type",
+      "weight": 3
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:326291",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:541611",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "agency:ENVIRONMENTAL PROTECTION AGENCY",
+      "target": "type:Solicitation",
+      "kind": "agency_to_type",
+      "weight": 2
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:541620",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:561621",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:541511",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:237310",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:336415",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:331491",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:561510",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:921190",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:22111",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:236210",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:JUSTICE, DEPARTMENT OF",
+      "target": "type:Special Notice",
+      "kind": "agency_to_type",
+      "weight": 1
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:561210",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:541512",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "agency:INTERIOR, DEPARTMENT OF THE",
+      "target": "type:Sources Sought",
+      "kind": "agency_to_type",
+      "weight": 1
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:721310",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:COMMERCE, DEPARTMENT OF",
+      "target": "type:Solicitation",
+      "kind": "agency_to_type",
+      "weight": 2
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:561710",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:336419",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:334290",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:423450",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:325120",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:335999",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:541715",
+      "kind": "type_to_naics",
+      "weight": 4
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:488991",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:334511",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Justification",
+      "target": "naics:333612",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:STATE, DEPARTMENT OF",
+      "target": "type:Justification",
+      "kind": "agency_to_type",
+      "weight": 3
+    },
+    {
+      "source": "type:Justification",
+      "target": "naics:721110",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:5621",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:561210",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:326220",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:332431",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:485310",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:332991",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:562219",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:325320",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:337214",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:332410",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:334118",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:JUSTICE, DEPARTMENT OF",
+      "target": "type:Sources Sought",
+      "kind": "agency_to_type",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:541310",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:326199",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:336611",
+      "kind": "type_to_naics",
+      "weight": 5
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:332913",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:333413",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:VETERANS AFFAIRS, DEPARTMENT OF",
+      "target": "type:Justification",
+      "kind": "agency_to_type",
+      "weight": 3
+    },
+    {
+      "source": "type:Justification",
+      "target": "naics:325412",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:326211",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:238160",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:541330",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:624410",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:722320",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:541714",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:541310",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:561990",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:334310",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:ENERGY, DEPARTMENT OF",
+      "target": "type:Solicitation",
+      "kind": "agency_to_type",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:423490",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:333914",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:519290",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:339920",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:AGRICULTURE, DEPARTMENT OF",
+      "target": "type:Sources Sought",
+      "kind": "agency_to_type",
+      "weight": 3
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:333612",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:334210",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:336310",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:541519",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:334516",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:722310",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:922160",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:331420",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:335910",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:334513",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Justification",
+      "target": "naics:493110",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:621511",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:621991",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:333414",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:SENATE, THE",
+      "target": "type:Solicitation",
+      "kind": "agency_to_type",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:325920",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:812332",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:488310",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:517111",
+      "kind": "type_to_naics",
+      "weight": 4
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:541614",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:TRANSPORTATION, DEPARTMENT OF",
+      "target": "type:Combined Synopsis/Solicitation",
+      "kind": "agency_to_type",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:561920",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:UNITED STATES GOVERNMENT PUBLISHING OFFICE",
+      "target": "type:Special Notice",
+      "kind": "agency_to_type",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:517810",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:STATE, DEPARTMENT OF",
+      "target": "type:Sources Sought",
+      "kind": "agency_to_type",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:337121",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:111998",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:UNITED STATES GOVERNMENT PUBLISHING OFFICE",
+      "target": "type:Award Notice",
+      "kind": "agency_to_type",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:323",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:336510",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:332996",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:331491",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:331210",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:333612",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:333120",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:332919",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:332912",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:611519",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:336612",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:336411",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Justification",
+      "target": "naics:532283",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "agency:ENVIRONMENTAL PROTECTION AGENCY",
+      "target": "type:Award Notice",
+      "kind": "agency_to_type",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:541620",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:336320",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:813110",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:611710",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:562111",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:325998",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:562910",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:221114",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:541614",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:333612",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:335910",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:332913",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:333111",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:611430",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:531320",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:23799",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:336612",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:336612",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:541320",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:492210",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:336212",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:621111",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:335931",
+      "kind": "type_to_naics",
+      "weight": 6
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:611512",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:AMERICAN BATTLE MONUMENTS COMMISSION",
+      "target": "type:Sources Sought",
+      "kind": "agency_to_type",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:334513",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:333517",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:237110",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:332722",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:333111",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:562211",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:333914",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:332216",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:333996",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:333248",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:334510",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:541512",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:561612",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:332420",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:334111",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:333998",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:332919",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:331318",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:334310",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:333612",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:335921",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:334220",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:561510",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:713940",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:485510",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:333519",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Justification",
+      "target": "naics:423860",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:493110",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:332913",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:334412",
+      "kind": "type_to_naics",
+      "weight": 10
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:334111",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:333611",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:238190",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:334417",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "agency:STATE, DEPARTMENT OF",
+      "target": "type:Presolicitation",
+      "kind": "agency_to_type",
+      "weight": 1
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:524126",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:326130",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:334514",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:333613",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:336310",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:61143",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:335313",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:524114",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:561720",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:51",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:115112",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:STATE, DEPARTMENT OF",
+      "target": "type:Special Notice",
+      "kind": "agency_to_type",
+      "weight": 1
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Keep raw sample downloads local
+data/samples/
+
+# Keep generated today processing outputs committed for dashboard
+!data/today/
+!docs/data/
