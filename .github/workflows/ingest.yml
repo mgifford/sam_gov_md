@@ -1,0 +1,52 @@
+name: Daily SAM.gov ingest
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '30 10 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sam-gov-ingest
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pyyaml
+
+      - name: Process latest opportunities and wins
+        run: |
+          TARGET_DATE=$(TZ=America/New_York date +%F)
+          echo "TARGET_DATE=$TARGET_DATE"
+          python scripts/process_today.py --target-date "$TARGET_DATE" --fallback-latest
+
+      - name: Commit and push if changed
+        run: |
+          if [[ -z "$(git status --porcelain -- data/today docs/data)" ]]; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/today docs/data
+          git commit -m "chore: daily SAM.gov refresh ($(date -u +%F))"
+          git push

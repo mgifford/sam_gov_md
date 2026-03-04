@@ -258,6 +258,18 @@ To publish on GitHub Pages:
 2. In repository settings, enable Pages with source: **Deploy from a branch**.
 3. Select branch: `main`, folder: `/docs`.
 
+## ⚙️ Daily Automation (GitHub Actions)
+
+Workflow file: `.github/workflows/ingest.yml`
+
+What it does daily:
+1. Uses the current America/New_York date.
+2. Runs `scripts/process_today.py --target-date <today> --fallback-latest`.
+3. Commits and pushes updates when `data/today/` or `docs/data/` changed.
+
+Manual trigger:
+- GitHub → Actions → **Daily SAM.gov ingest** → **Run workflow**
+
 ## Next Steps
 
 1. **Ollama Analysis**: Use local LLM for schema inference, content summarization, and term extraction (✅ Complete)
