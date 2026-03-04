@@ -236,8 +236,38 @@ Outputs are written to:
 - `data/today/opportunities.json`
 - `data/today/wins.json`
 - `data/today/relationships.json`
+- `data/today/high_value_matches.json`
+- `data/today/high_value_alert.md`
+- `data/today/persistence_summary.json`
 - `docs/data/today_summary.json` (for GitHub Pages)
 - `docs/data/today_relationships.json` (for GitHub Pages)
+- `docs/data/today_departments.json` (for GitHub Pages)
+
+### Dedup + Persistence (SQLite)
+
+```bash
+python scripts/persist_to_sqlite.py
+```
+
+SQLite DB:
+- `data/opportunities.sqlite`
+
+Tracks:
+- first seen date
+- last seen date
+- seen count
+- per-day sightings
+
+### High-Value Alert Generation
+
+```bash
+python scripts/generate_alerts.py --min-hits 8
+```
+
+Alert artifacts:
+- `data/today/high_value_matches.json`
+- `data/today/high_value_alert.md`
+- `data/today/alerts_summary.json`
 
 ## 🌐 GitHub Pages Visualization
 
@@ -253,6 +283,12 @@ python -m http.server 8000 --directory docs
 
 Then open: `http://localhost:8000`
 
+Dashboard now includes:
+- notice type breakdown
+- department-by-department breakdown
+- top matching records
+- agency/type/NAICS relationships
+
 To publish on GitHub Pages:
 1. Push this repository to GitHub.
 2. In repository settings, enable Pages with source: **Deploy from a branch**.
@@ -265,7 +301,9 @@ Workflow file: `.github/workflows/ingest.yml`
 What it does daily:
 1. Uses the current America/New_York date.
 2. Runs `scripts/process_today.py --target-date <today> --fallback-latest`.
-3. Commits and pushes updates when `data/today/` or `docs/data/` changed.
+3. Runs dedup persistence to `data/opportunities.sqlite`.
+4. Generates high-value alert files and opens a GitHub Issue when matches exist.
+5. Commits and pushes updates when artifacts changed.
 
 Manual trigger:
 - GitHub → Actions → **Daily SAM.gov ingest** → **Run workflow**
@@ -282,6 +320,10 @@ What it does weekly:
 
 Manual trigger:
 - GitHub → Actions → **Weekly historical rebuild** → **Run workflow**
+
+## 🤝 Agent Instructions
+
+This repository includes an agent-focused guide in `AGENTS.md` (aligned with https://agents.md) for setup, workflows, conventions, and validation steps.
 
 ## Next Steps
 

@@ -1,337 +1,24 @@
 {
   "requested_date": "2026-03-04",
   "effective_date": "2026-03-03",
-  "used_fallback_latest": true,
-  "latest_available_date": "2026-03-03",
   "records_total": 1487,
-  "opportunities_total": 1239,
-  "wins_total": 248,
-  "departments_total": 26,
-  "top_terms": [
-    [
-      "web",
-      526
-    ],
-    [
-      "ui",
-      317
-    ],
-    [
-      "software",
-      156
-    ],
-    [
-      "application",
-      155
-    ],
-    [
-      "platform",
-      76
-    ],
-    [
-      "nist",
-      63
-    ],
-    [
-      "cybersecurity",
-      45
-    ],
-    [
-      "analytics",
-      21
-    ],
-    [
-      "portal",
-      20
-    ],
-    [
-      "modernization",
-      16
-    ],
-    [
-      "business_intelligence",
-      16
-    ],
-    [
-      "agile",
-      15
-    ],
-    [
-      "cloud",
-      12
-    ],
-    [
-      "accessibility",
-      11
-    ],
-    [
-      "hosting",
-      9
-    ],
-    [
-      "information_architecture",
-      8
-    ],
-    [
-      "api",
-      7
-    ],
-    [
-      "ux",
-      5
-    ],
-    [
-      "elearning",
-      4
-    ],
-    [
-      "user_research",
-      4
-    ]
+  "high_value_count": 25,
+  "min_hits": 8,
+  "focus_terms": [
+    "accessibility",
+    "api",
+    "cloud",
+    "cms",
+    "drupal",
+    "modernization",
+    "openacr",
+    "ui",
+    "ux",
+    "vpat",
+    "wcag",
+    "web"
   ],
-  "category_counts": [
-    [
-      "technology",
-      940
-    ],
-    [
-      "design",
-      334
-    ],
-    [
-      "compliance",
-      64
-    ],
-    [
-      "security",
-      48
-    ],
-    [
-      "data",
-      37
-    ],
-    [
-      "infrastructure",
-      22
-    ],
-    [
-      "modernization",
-      17
-    ],
-    [
-      "development",
-      15
-    ],
-    [
-      "accessibility",
-      11
-    ],
-    [
-      "elearning",
-      4
-    ],
-    [
-      "content",
-      4
-    ],
-    [
-      "open_source",
-      2
-    ]
-  ],
-  "type_breakdown": [
-    [
-      "Combined Synopsis/Solicitation",
-      522
-    ],
-    [
-      "Solicitation",
-      332
-    ],
-    [
-      "Award Notice",
-      248
-    ],
-    [
-      "Sources Sought",
-      168
-    ],
-    [
-      "Presolicitation",
-      96
-    ],
-    [
-      "Special Notice",
-      92
-    ],
-    [
-      "Justification",
-      27
-    ],
-    [
-      "Sale of Surplus Property",
-      2
-    ]
-  ],
-  "department_breakdown": [
-    {
-      "department": "DEPT OF DEFENSE",
-      "total": 1044,
-      "opportunities": 863,
-      "wins": 181
-    },
-    {
-      "department": "VETERANS AFFAIRS, DEPARTMENT OF",
-      "total": 143,
-      "opportunities": 120,
-      "wins": 23
-    },
-    {
-      "department": "INTERIOR, DEPARTMENT OF THE",
-      "total": 74,
-      "opportunities": 45,
-      "wins": 29
-    },
-    {
-      "department": "AGRICULTURE, DEPARTMENT OF",
-      "total": 41,
-      "opportunities": 38,
-      "wins": 3
-    },
-    {
-      "department": "JUSTICE, DEPARTMENT OF",
-      "total": 34,
-      "opportunities": 34,
-      "wins": 0
-    },
-    {
-      "department": "HOMELAND SECURITY, DEPARTMENT OF",
-      "total": 29,
-      "opportunities": 24,
-      "wins": 5
-    },
-    {
-      "department": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
-      "total": 26,
-      "opportunities": 25,
-      "wins": 1
-    },
-    {
-      "department": "STATE, DEPARTMENT OF",
-      "total": 20,
-      "opportunities": 20,
-      "wins": 0
-    },
-    {
-      "department": "ENERGY, DEPARTMENT OF",
-      "total": 14,
-      "opportunities": 12,
-      "wins": 2
-    },
-    {
-      "department": "COMMERCE, DEPARTMENT OF",
-      "total": 12,
-      "opportunities": 12,
-      "wins": 0
-    },
-    {
-      "department": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
-      "total": 9,
-      "opportunities": 9,
-      "wins": 0
-    },
-    {
-      "department": "TRANSPORTATION, DEPARTMENT OF",
-      "total": 8,
-      "opportunities": 8,
-      "wins": 0
-    },
-    {
-      "department": "TREASURY, DEPARTMENT OF THE",
-      "total": 8,
-      "opportunities": 8,
-      "wins": 0
-    },
-    {
-      "department": "GENERAL SERVICES ADMINISTRATION",
-      "total": 7,
-      "opportunities": 6,
-      "wins": 1
-    },
-    {
-      "department": "ENVIRONMENTAL PROTECTION AGENCY",
-      "total": 4,
-      "opportunities": 3,
-      "wins": 1
-    },
-    {
-      "department": "LABOR, DEPARTMENT OF",
-      "total": 2,
-      "opportunities": 2,
-      "wins": 0
-    },
-    {
-      "department": "UNITED STATES TRADE AND DEVELOPMENT AGENCY",
-      "total": 2,
-      "opportunities": 2,
-      "wins": 0
-    },
-    {
-      "department": "UNITED STATES GOVERNMENT PUBLISHING OFFICE",
-      "total": 2,
-      "opportunities": 1,
-      "wins": 1
-    },
-    {
-      "department": "PENSION BENEFIT GUARANTY CORPORATION",
-      "total": 1,
-      "opportunities": 1,
-      "wins": 0
-    },
-    {
-      "department": "SMITHSONIAN INSTITUTION",
-      "total": 1,
-      "opportunities": 1,
-      "wins": 0
-    },
-    {
-      "department": "ARCHITECT OF THE CAPITOL",
-      "total": 1,
-      "opportunities": 1,
-      "wins": 0
-    },
-    {
-      "department": "LIBRARY OF CONGRESS",
-      "total": 1,
-      "opportunities": 1,
-      "wins": 0
-    },
-    {
-      "department": "FEDERAL MEDIATION AND CONCILIATION SERVICE",
-      "total": 1,
-      "opportunities": 1,
-      "wins": 0
-    },
-    {
-      "department": "EXPORT-IMPORT BANK OF THE US",
-      "total": 1,
-      "opportunities": 0,
-      "wins": 1
-    },
-    {
-      "department": "SENATE, THE",
-      "total": 1,
-      "opportunities": 1,
-      "wins": 0
-    },
-    {
-      "department": "AMERICAN BATTLE MONUMENTS COMMISSION",
-      "total": 1,
-      "opportunities": 1,
-      "wins": 0
-    }
-  ],
-  "top_matching_records": [
+  "matches": [
     {
       "NoticeId": "4a04b7dd819446ac8e76ef3041c43ed2",
       "Sol#": "R00010",
@@ -381,7 +68,8 @@
           "category": "infrastructure",
           "count": 2
         }
-      ]
+      ],
+      "total_hits": 36
     },
     {
       "NoticeId": "d301463c1df546af9ffd4c910a1428ca",
@@ -432,7 +120,8 @@
           "category": "modernization",
           "count": 1
         }
-      ]
+      ],
+      "total_hits": 31
     },
     {
       "NoticeId": "77e9f18d1a56404aa9dda8c36649ecaa",
@@ -483,7 +172,8 @@
           "category": "modernization",
           "count": 1
         }
-      ]
+      ],
+      "total_hits": 31
     },
     {
       "NoticeId": "8197ac4ce19840149d5c5684ece73dee",
@@ -524,7 +214,8 @@
           "category": "data",
           "count": 1
         }
-      ]
+      ],
+      "total_hits": 31
     },
     {
       "NoticeId": "0f9cfb5c8f6b4012aa865915cf54d81a",
@@ -575,7 +266,8 @@
           "category": "infrastructure",
           "count": 1
         }
-      ]
+      ],
+      "total_hits": 29
     },
     {
       "NoticeId": "e76e9442462e4fd28e31a8ea11453179",
@@ -596,7 +288,8 @@
           "category": "technology",
           "count": 4
         }
-      ]
+      ],
+      "total_hits": 26
     },
     {
       "NoticeId": "0816e1bb3e434da397163e6324bd654d",
@@ -637,7 +330,8 @@
           "category": "technology",
           "count": 1
         }
-      ]
+      ],
+      "total_hits": 24
     },
     {
       "NoticeId": "f38a20154ef94b058b075ac2a219ae9e",
@@ -658,7 +352,8 @@
           "category": "technology",
           "count": 2
         }
-      ]
+      ],
+      "total_hits": 21
     },
     {
       "NoticeId": "989f30fac0764abc9fa7f56f1a342a3c",
@@ -679,7 +374,8 @@
           "category": "security",
           "count": 1
         }
-      ]
+      ],
+      "total_hits": 17
     },
     {
       "NoticeId": "ce9bdb2d8de64b0a8011fe153b0b1cae",
@@ -710,28 +406,8 @@
           "category": "security",
           "count": 1
         }
-      ]
-    },
-    {
-      "NoticeId": "4d6d1420352e426b844580e9757e1716",
-      "Sol#": "70Z08026QRO032",
-      "Title": "STARTER, ENGINE, ELECTRICAL #2 STARTER, ENGINE, ELECTRICAL #1",
-      "Type": "Combined Synopsis/Solicitation",
-      "PostedDate": "2026-03-03 07:26:17.291-05",
-      "Agency": "HOMELAND SECURITY, DEPARTMENT OF",
-      "Link": "https://sam.gov/workspace/contract/opp/4d6d1420352e426b844580e9757e1716/view",
-      "matches": [
-        {
-          "term": "application",
-          "category": "technology",
-          "count": 11
-        },
-        {
-          "term": "software",
-          "category": "technology",
-          "count": 3
-        }
-      ]
+      ],
+      "total_hits": 14
     },
     {
       "NoticeId": "7e61f7bb38e444ccad7e2a33a3821295",
@@ -767,7 +443,8 @@
           "category": "security",
           "count": 1
         }
-      ]
+      ],
+      "total_hits": 14
     },
     {
       "NoticeId": "0de3715301274377bb16017599d4f638",
@@ -803,28 +480,8 @@
           "category": "security",
           "count": 1
         }
-      ]
-    },
-    {
-      "NoticeId": "23460b3d7f604e1ebbf4911944c7b0be",
-      "Sol#": "70Z08026QAJ027",
-      "Title": "CONTROL COMPUTER PROGRAMMER",
-      "Type": "Combined Synopsis/Solicitation",
-      "PostedDate": "2026-03-03 07:36:27.223-05",
-      "Agency": "HOMELAND SECURITY, DEPARTMENT OF",
-      "Link": "https://sam.gov/workspace/contract/opp/23460b3d7f604e1ebbf4911944c7b0be/view",
-      "matches": [
-        {
-          "term": "application",
-          "category": "technology",
-          "count": 10
-        },
-        {
-          "term": "software",
-          "category": "technology",
-          "count": 3
-        }
-      ]
+      ],
+      "total_hits": 14
     },
     {
       "NoticeId": "afa1060c3500403e9ac4c08dad21bb51",
@@ -875,7 +532,8 @@
           "category": "design",
           "count": 1
         }
-      ]
+      ],
+      "total_hits": 13
     },
     {
       "NoticeId": "a83bf9bce30441f88b2feed65325caa7",
@@ -906,7 +564,8 @@
           "category": "technology",
           "count": 1
         }
-      ]
+      ],
+      "total_hits": 12
     },
     {
       "NoticeId": "f01c0774b11f481eb7a4646a98116737",
@@ -942,7 +601,8 @@
           "category": "security",
           "count": 1
         }
-      ]
+      ],
+      "total_hits": 12
     },
     {
       "NoticeId": "2154dff064644c74a0dc86a3ebb10141",
@@ -978,28 +638,8 @@
           "category": "security",
           "count": 1
         }
-      ]
-    },
-    {
-      "NoticeId": "b0fac23ff8084364a42d4a8b4b2e5408",
-      "Sol#": "36C26226Q0441",
-      "Title": "J065--PAR EXCELLENCE SYSTEMS, INC - MAINTENANCE SUPPORT SERVICES",
-      "Type": "Sources Sought",
-      "PostedDate": "2026-03-03 16:10:06.148-05",
-      "Agency": "VETERANS AFFAIRS, DEPARTMENT OF",
-      "Link": "https://sam.gov/workspace/contract/opp/b0fac23ff8084364a42d4a8b4b2e5408/view",
-      "matches": [
-        {
-          "term": "software",
-          "category": "technology",
-          "count": 9
-        },
-        {
-          "term": "application",
-          "category": "technology",
-          "count": 1
-        }
-      ]
+      ],
+      "total_hits": 12
     },
     {
       "NoticeId": "47a99c2d1d1f4494ab8848d9ec0c3fc5",
@@ -1015,7 +655,8 @@
           "category": "technology",
           "count": 10
         }
-      ]
+      ],
+      "total_hits": 10
     },
     {
       "NoticeId": "ea4eccd291274e58b283e36b574438d7",
@@ -1031,7 +672,8 @@
           "category": "technology",
           "count": 10
         }
-      ]
+      ],
+      "total_hits": 10
     },
     {
       "NoticeId": "3401e01897644bc18cf2ec0e3bc5cfd6",
@@ -1067,33 +709,8 @@
           "category": "technology",
           "count": 1
         }
-      ]
-    },
-    {
-      "NoticeId": "5e4f802aa46846d28a793c86920e5e63",
-      "Sol#": "75F40126SSN00100",
-      "Title": "Sentinel 3.0_2026 Updated Market Research",
-      "Type": "Sources Sought",
-      "PostedDate": "2026-03-03 13:53:56.164-05",
-      "Agency": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
-      "Link": "https://sam.gov/workspace/contract/opp/5e4f802aa46846d28a793c86920e5e63/view",
-      "matches": [
-        {
-          "term": "platform",
-          "category": "technology",
-          "count": 5
-        },
-        {
-          "term": "analytics",
-          "category": "data",
-          "count": 3
-        },
-        {
-          "term": "hosting",
-          "category": "infrastructure",
-          "count": 1
-        }
-      ]
+      ],
+      "total_hits": 9
     },
     {
       "NoticeId": "f5ee20a4e915474289fc515be3dd8b57",
@@ -1119,23 +736,8 @@
           "category": "technology",
           "count": 2
         }
-      ]
-    },
-    {
-      "NoticeId": "5ac9470f1a974cacbf98ff6803066280",
-      "Sol#": "PN13832866",
-      "Title": "REBUILD BAHIA DE GUAYANILLA ENTRANCE RANGE REAR LIGHT AT UNITED STATES COAST GUARD AIDS TO NAVIGATION (ANT) PUERTO RICO.",
-      "Type": "Sources Sought",
-      "PostedDate": "2026-03-03 10:23:35.07-05",
-      "Agency": "HOMELAND SECURITY, DEPARTMENT OF",
-      "Link": "https://sam.gov/workspace/contract/opp/5ac9470f1a974cacbf98ff6803066280/view",
-      "matches": [
-        {
-          "term": "platform",
-          "category": "technology",
-          "count": 9
-        }
-      ]
+      ],
+      "total_hits": 9
     },
     {
       "NoticeId": "3d0b02d5854e4db3a765f6a0773e0d62",
@@ -1161,7 +763,8 @@
           "category": "technology",
           "count": 2
         }
-      ]
+      ],
+      "total_hits": 9
     },
     {
       "NoticeId": "bf09984286e74f0bba4b94174a396b02",
@@ -1187,7 +790,8 @@
           "category": "technology",
           "count": 2
         }
-      ]
+      ],
+      "total_hits": 9
     },
     {
       "NoticeId": "90dbc3e3b2534b4a8a71911cf7fdced5",
@@ -1213,7 +817,8 @@
           "category": "technology",
           "count": 2
         }
-      ]
+      ],
+      "total_hits": 9
     },
     {
       "NoticeId": "4e06f61231544494a43c5f07bfc57d2e",
@@ -1249,7 +854,8 @@
           "category": "modernization",
           "count": 1
         }
-      ]
+      ],
+      "total_hits": 8
     },
     {
       "NoticeId": "17ab366af3f8409cbe04f4b54179c74d",
@@ -1285,7 +891,8 @@
           "category": "modernization",
           "count": 1
         }
-      ]
+      ],
+      "total_hits": 8
     }
   ]
 }

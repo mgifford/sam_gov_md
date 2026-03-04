@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: sam-gov-ingest
@@ -38,15 +39,60 @@ jobs:
           echo "TARGET_DATE=$TARGET_DATE"
           python scripts/process_today.py --target-date "$TARGET_DATE" --fallback-latest
 
+      - name: Persist and deduplicate snapshot
+        run: |
+          python scripts/persist_to_sqlite.py
+
+      - name: Build high-value alerts
+        run: |
+          python scripts/generate_alerts.py --min-hits 8
+
+      - name: Determine whether alerts exist
+        id: alert_check
+        run: |
+          ALERT_COUNT=$(python -c "import json, pathlib; p=pathlib.Path('data/today/alerts_summary.json'); print(int(json.loads(p.read_text(encoding='utf-8')).get('high_value_count',0)) if p.exists() else 0)")
+          echo "count=$ALERT_COUNT" >> "$GITHUB_OUTPUT"
+
+      - name: Create daily high-value issue
+        if: steps.alert_check.outputs.count != '0'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs')
+            const summary = JSON.parse(fs.readFileSync('data/today/alerts_summary.json', 'utf8'))
+            const body = fs.readFileSync('data/today/high_value_alert.md', 'utf8')
+            const date = summary.effective_date || summary.requested_date || new Date().toISOString().slice(0, 10)
+            const title = `High-value SAM.gov matches ${date}`
+
+            const existing = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              per_page: 100
+            })
+
+            const found = existing.data.find((issue) => issue.title === title)
+            if (found) {
+              core.info(`Issue already exists: #${found.number}`)
+            } else {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title,
+                body,
+                labels: ['sam-gov', 'alerts', 'high-value']
+              })
+            }
+
       - name: Commit and push if changed
         run: |
-          if [[ -z "$(git status --porcelain -- data/today docs/data)" ]]; then
+          if [[ -z "$(git status --porcelain -- data/today docs/data data/opportunities.sqlite)" ]]; then
             echo "No changes to commit."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/today docs/data
+          git add data/today docs/data data/opportunities.sqlite
           git commit -m "chore: daily SAM.gov refresh ($(date -u +%F))"
           git push

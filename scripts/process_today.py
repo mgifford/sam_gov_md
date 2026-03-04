@@ -7,7 +7,7 @@ import argparse
 import csv
 import json
 import re
-from collections import Counter, defaultdict
+from collections import Counter
 from dataclasses import dataclass
 from datetime import date
 from pathlib import Path
@@ -109,6 +109,22 @@ def to_relationships(records: list[dict[str, Any]]) -> dict[str, list[dict[str, 
     }
 
 
+def build_department_breakdown(records: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    by_agency: dict[str, dict[str, int]] = {}
+    for row in records:
+        agency = (row.get("Department/Ind.Agency") or "Unknown Agency").strip()
+        bucket = by_agency.setdefault(
+            agency,
+            {"department": agency, "total": 0, "opportunities": 0, "wins": 0},
+        )
+        bucket["total"] += 1
+        if is_win(row):
+            bucket["wins"] += 1
+        else:
+            bucket["opportunities"] += 1
+    return sorted(by_agency.values(), key=lambda item: item["total"], reverse=True)
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(
         description="Process SAM.gov opportunities/wins for a target date"
@@ -168,6 +184,8 @@ def main() -> None:
 
     wins = [row for row in records if is_win(row)]
     opportunities = [row for row in records if not is_win(row)]
+    type_counts = Counter((row.get("Type") or "Unknown Type").strip() for row in records)
+    department_breakdown = build_department_breakdown(records)
 
     per_record_matches: list[dict[str, Any]] = []
     total_term_counts: Counter[str] = Counter()
@@ -227,8 +245,11 @@ def main() -> None:
         "records_total": len(records),
         "opportunities_total": len(opportunities),
         "wins_total": len(wins),
+        "departments_total": len(department_breakdown),
         "top_terms": total_term_counts.most_common(20),
         "category_counts": category_counts.most_common(),
+        "type_breakdown": type_counts.most_common(),
+        "department_breakdown": department_breakdown,
         "top_matching_records": per_record_matches[:30],
     }
 
@@ -251,11 +272,33 @@ def main() -> None:
         json.dumps(ollama_results, indent=2), encoding="utf-8"
     )
 
+    dept_lines = [
+        "# Department-by-Department Breakdown",
+        "",
+        f"Effective date: {effective_date}",
+        f"Requested date: {args.target_date}",
+        f"Total records: {len(records)}",
+        f"Departments: {len(department_breakdown)}",
+        "",
+        "| Department | Total | Opportunities | Wins |",
+        "|---|---:|---:|---:|",
+    ]
+    for row in department_breakdown:
+        dept_lines.append(
+            f"| {row['department']} | {row['total']} | {row['opportunities']} | {row['wins']} |"
+        )
+    (output_dir / "department_breakdown.md").write_text(
+        "\n".join(dept_lines), encoding="utf-8"
+    )
+
     (docs_data_dir / "today_summary.json").write_text(
         json.dumps(summary, indent=2), encoding="utf-8"
     )
     (docs_data_dir / "today_relationships.json").write_text(
         json.dumps(relationships, indent=2), encoding="utf-8"
+    )
+    (docs_data_dir / "today_departments.json").write_text(
+        json.dumps(department_breakdown, indent=2), encoding="utf-8"
     )
 
     print(f"Requested date: {args.target_date}")
