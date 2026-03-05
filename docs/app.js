@@ -189,56 +189,50 @@ function renderTable(records, heading = '') {
   }
 
   const rows = records.slice(0, 20).map((record) => {
-    const terms = (record.matches || []).slice(0, 3).map((m) => `${m.term}(${m.count})`).join(', ')
+    const terms = (record.matches || []).slice(0, 2).map((m) => `${m.term}(${m.count})`).join(', ')
+    const awardee = (record.Awardee || '').trim()
     const awardAmount = record.AwardAmount || ''
-    const awardee = record.Awardee || ''
-    const primaryContact = record.PrimaryContactFullname || ''
-    const primaryEmail = record.PrimaryContactEmail || ''
-    const primaryPhone = record.PrimaryContactPhone || ''
-    const contactDetails = [primaryContact, primaryEmail, primaryPhone].filter(Boolean).join(' | ')
+    const posted = (record.PostedDate || '').slice(0, 10)
     const markdownLink = record.NoticeId
-      ? `<a href="opportunities/${record.NoticeId}/index.md" target="_blank" rel="noreferrer">Markdown</a>`
-      : ''
-    const pdfLink = isPdfLink(record.AdditionalInfoLink)
-      ? `<a href="${record.AdditionalInfoLink}" target="_blank" rel="noreferrer">PDF</a>`
+      ? `<a href="opportunities/${record.NoticeId}/" title="View full opportunity">View</a>`
       : ''
     const samLink = record.Link
-      ? `<a href="${record.Link}" target="_blank" rel="noreferrer">SAM.gov</a>`
+      ? `<a href="${record.Link}" target="_blank" rel="noreferrer" title="Open on SAM.gov">SAM.gov ↗</a>`
       : ''
-    const posted = (record.PostedDate || '').slice(0, 10)
+    
     return `
       <tr>
-        <td>${record.Type || ''}</td>
-        <td>${record.Title || ''}</td>
-        <td>${record.Agency || ''}</td>
-        <td>${posted}</td>
-        <td>${terms}</td>
-        <td>${awardee}</td>
-        <td>${awardAmount}</td>
-        <td>${contactDetails}</td>
-        <td>${[markdownLink, pdfLink, samLink].filter(Boolean).join(' · ')}</td>
+        <td style="width:80px;">${record.Type || ''}</td>
+        <td style="width:280px; white-space:normal;">${record.Title || ''}</td>
+        <td style="width:100px;">${record.Agency || ''}</td>
+        <td style="width:80px;">${posted}</td>
+        <td style="width:120px; color:#0369a1; font-weight:500;">${terms || '—'}</td>
+        <td style="width:120px;">${awardee || '—'}</td>
+        <td style="width:80px;">${awardAmount ? '$' + awardAmount : '—'}</td>
+        <td style="width:100px; white-space:nowrap;">${[markdownLink, samLink].filter(Boolean).join(' | ')}</td>
       </tr>
     `
   })
 
   container.innerHTML = `
     ${heading ? `<p class="sub" style="margin-top:0;">${heading}</p>` : ''}
-    <table>
-      <thead>
-        <tr>
-          <th>Type</th>
-          <th>Title</th>
-          <th>Agency</th>
-          <th>Posted</th>
-          <th>Terms</th>
-          <th>Awardee</th>
-          <th>Award Amount</th>
-          <th>Primary Contact</th>
-          <th>Links (Markdown first)</th>
-        </tr>
-      </thead>
-      <tbody>${rows.join('')}</tbody>
-    </table>
+    <div style="overflow-x: auto; border: 1px solid #d8dee4; border-radius: 6px;">
+      <table style="margin:0;">
+        <thead>
+          <tr style="background-color: #f6f8fa;">
+            <th style="width:80px;">Type</th>
+            <th style="width:280px;">Title</th>
+            <th style="width:100px;">Agency</th>
+            <th style="width:80px;">Posted</th>
+            <th style="width:120px; color:#0369a1;">Tracked Terms</th>
+            <th style="width:120px;">Awardee</th>
+            <th style="width:80px;">Award $</th>
+            <th style="width:100px;">Links</th>
+          </tr>
+        </thead>
+        <tbody>${rows.join('')}</tbody>
+      </table>
+    </div>
   `
 }
 
