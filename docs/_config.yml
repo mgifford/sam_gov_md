@@ -1,11 +1,21 @@
 title: SAM.gov Contract Opportunities
 description: Search digital service keywords across SAM.gov contract opportunities
 url: https://mgifford.github.io/sam_gov
+baseurl: /sam_gov
 
+# Jekyll settings for proper markdown rendering
 markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
+  syntax_highlighter: rouge
+
+# Permalink structure - ensures .md files become .html in the output
+permalink: /:path/
+collections_dir: .
+
+# Process future posts/pages
+future: true
 
 # Exclude certain files/folders from Jekyll processing
 exclude:
@@ -13,9 +23,14 @@ exclude:
   - .git
   - .gitignore
   - README.md
+  - Gemfile
+  - Gemfile.lock
 
-# Enable markdown file extension
-future: true
+# Include hidden files that should be processed
+include:
+  - _layouts
 
-# Theme (if needed)
-theme: null
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap

@@ -24,6 +24,12 @@ The purpose of this amendment is to: 1. Incorporate the questions and answers. 2
   - Email: chora.snyder@dot.gov
   - Phone: 3157643206
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: �Pricing Sheet. DESCRIPTION OF WORK: The Contractor shall provide AtoN Buoy Chain, all in exact accordance with this solicitation and attached Performance Work Statement (PWS). CONTRACT TYPE: This solicitation is a Request for Quote (RFQ) that will result in the award of a firm-fixed price purchase order under FAR Part 12 and FAR Part 13, subject to the availability of funds. CONTRACT PERIOD OF PERFORMANCE: The period of performance will require that delivery be made no more than 45 days after award. PLACE OF PERFORMANCE/ACCEPTANCE: The awarded contractor shall deliver products to GLS Receiving Warehouse, 251 Fregoe Road, Massena, NY 13662. QUOTE DUE DATE: March 11, 2026, 2:00PM EST. Quotes must be sent via e-mail to chora.snyder@dot.gov, no later than Wednesday, March 11, 2026, 2:00 PM EST. QUESTIONS DUE DATE: March 4, 2026, 2:00PM EST. Questions must be sent via e-mail to chora.snyder@dot.gov, no later than Wednesday, March 4, 2026, 2:00 PM EST
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/0b398b93c67c42f48384a6427353d682/view

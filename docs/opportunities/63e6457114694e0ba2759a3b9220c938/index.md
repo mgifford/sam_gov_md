@@ -24,6 +24,12 @@ A0011 - The purpose of this amendment is to correct the BQ log that inadvertentl
   - Email: steven.w.noel.civ@us.navy.mil
   - Phone: 2027810517
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: -11 accordingly. A0009 - The purpose of this amendment is to respond to BQ 073 and extend the signature date for A0008 to 6 MAR 2026. No other changes are enacted, and signature of A0009 itself is not required
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/63e6457114694e0ba2759a3b9220c938/view

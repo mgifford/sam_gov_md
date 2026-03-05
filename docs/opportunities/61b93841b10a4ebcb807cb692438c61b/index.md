@@ -23,6 +23,12 @@ This is a combined synopsis/solicitation for commercial items prepared in accord
   - Name: Frank Palmer
   - Email: frank.palmer@usda.gov
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: - Solicitation Terms and Conditions� for applicable clauses, instructions, and evaluation criteria
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/61b93841b10a4ebcb807cb692438c61b/view

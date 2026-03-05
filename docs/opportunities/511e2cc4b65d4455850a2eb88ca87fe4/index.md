@@ -26,6 +26,12 @@ Continously Open Interest Period AF CyberWorx is interested in capturing innovat
   - Name: Tikiwa Durrell
   - Email: 10CONS.PK.Cyberworx@us.af.mil
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: of the CSO. Please see attached CSO FA7000-23-S-C001 for more details
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/511e2cc4b65d4455850a2eb88ca87fe4/view

@@ -24,6 +24,12 @@ GAOA Strawberry Kamas Bunkhouse Renovations Uinta/Wasatch/Cache National Forest 
   - Email: kellie.shaw@usda.gov
   - Phone: 208-313-3852
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: and 2, add Attachments 6a and 6b, and add questions and answers
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/ad20c14872e146ee921369c0d55362ba/view

@@ -23,6 +23,12 @@ This is a combined synopsis/solicitation for commercial items prepared in accord
   - Name: Klenise Wallace
   - Email: klenise.wallace@usda.gov
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: - Solicitation Terms and Conditions� for applicable clauses, instructions, and evaluation criteria. Tips for Submission. a. Read the solicitation carefully and ensure that proposals include all documents specified in Attachment 1. b. Ensure all questions have been addressed prior to quoter/offer/proposal submission. c. Ensure all correspondence includes the solicitation number (at item 8), the contractor�s name and correspondence purpose (e.g. Email Purpose, 127EAS25Q0001, ABC Company) -------------------------------------------------------------------------------------------------------------------------------------- Contract award information will be provided under an Award Notice via SAM.gov after the Government completes evaluation of quotes/offers if a Best Value Determination can be made. The contract award notice will contain only the following: (16) Contract Award Date. The anticipated award date is 03/16/2026 (Saturday). (17) Contract Type. Anticipated award is a FFP Purchase Order (17) Contract Award Dollar Amount. To be determined following evaluation of competitive proposals. (18) Contract Award Number. To be determined following evaluation of competitive proposals. (19) Contractor. To be determined following evaluation of competitive proposals
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/75cc9506cf8841e3885a5fc6c1529afa/view

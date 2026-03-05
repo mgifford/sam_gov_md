@@ -23,6 +23,12 @@ This is a combined synopsis/solicitation for commercial items prepared in accord
   - Name: Steve Holly
   - Email: stephen.holly@usda.gov
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: - Solicitation Terms and Conditions� for applicable clauses, instructions, and evaluation criteria
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/835422890967447c988bf4212cecadec/view

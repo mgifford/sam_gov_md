@@ -28,6 +28,12 @@ notice_id: a77c7cc1ba6e464692c899a68591798b
   - Email: joshua.mills.20@us.af.mil
   - Phone: 9406762805
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: - Statement of Work (SOW). Notice to Offerors: Funds are not presently available for this effort. No award will be made under this solicitation until funds are available. The Government reserves the right to cancel this solicitation, either before or after the closing date. In the event the Government cancels this solicitation, the Government has no obligation to reimburse an offeror for any costs. The applicable NAICS code is 561730, and the small business size standard is $9.5M. This requirement is a Total Small Business Set-Aside. All solicitation documents, including amendments, will be posted to this notice. Contractors are strongly cautioned to check for amendments periodically. PROPOSAL SUBMISSION: The solicitation will close at 10:00 AM CT on 20 March 2026. All quotes must be submitted via email to the Primary and Alternate contacts listed below. QUESTIONS: All questions must be submitted via email no later than 10:00 AM CT on 10 March 2026 to the Primary and Alternate contacts. Place of Performance & Acceptance: The service will be performed at three (3) off-base locations in Wichita Falls, TX. The exact street addresses and property boundaries will be specified in Attachment 1 of the solicitation. Final inspection and acceptance of all work shall be conducted on-site by the designated Government Contracting Officer"s Representative (COR). Primary Point of Contact: Cole Jones, Contract Specialist cole.jones.6@us.af.mil (940) 676-2803 Secondary Point of Contact: Joshua Mills, Contracting Officer joshua.mills.20@us.af.mil (940) 676-2805
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/a77c7cc1ba6e464692c899a68591798b/view

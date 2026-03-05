@@ -26,6 +26,12 @@ AMENDMENT 1: This solicitation is amended to provide responses to Vendor Questio
   - Name: Salma K. Williamson
   - Email: salma.k.williamson.civ@army.mil
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: Question Spreadsheet. Questions are due no later than 5:00PM EST on 17 February 2026 and responses will be provided via Amendment(s) issued to the solicitation. The closing time and date for proposals is 12:00PM EDT on 09 March 2026. All qualified companies are invited to submit proposals to be considered. Please copy Kelsey Thomas (kelsey.L.thomas13.civ@army.mil) and Salma Williamson (salma.k.williamson.civ@army.mil) on all question and proposal submissions via email only
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/454b59a205794064abba12731110915f/view

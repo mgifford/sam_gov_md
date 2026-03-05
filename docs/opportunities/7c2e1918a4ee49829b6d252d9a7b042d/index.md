@@ -26,6 +26,12 @@ Under Statutory Authority 41 U.S.C. 1901 the VA Great Lakes Acquisition Center (
   - Email: aaron.rogers1@va.gov
   - Phone: 414-844-4800 x44352
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: Aaron Rogers at aaron.rogers1@va.gov. No reply will be made to telephone inquiries
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/7c2e1918a4ee49829b6d252d9a7b042d/view

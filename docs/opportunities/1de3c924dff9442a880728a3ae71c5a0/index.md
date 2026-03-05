@@ -26,6 +26,12 @@ See attached documents for the Sale Item General Details. This attachment includ
   - Name: BRIAN KEMP
   - Email: BRIAN.KEMP@DLA.MIL
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: all pertinent information for the process of bidding on Sale Item. Please ensure to follow instructions on sending in your bids. BUYER BEWARE: This is NOT a service contract
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/1de3c924dff9442a880728a3ae71c5a0/view

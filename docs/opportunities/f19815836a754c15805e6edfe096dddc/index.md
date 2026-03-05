@@ -26,6 +26,12 @@ This is a public notice prepared in accordance with Federal Acquisition Regulati
   - Name: David Leonard
   - Email: dleonard@loc.gov
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: Statement of Work Attachment 2: Sole Source Justification (Redacted for Public Release)
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/f19815836a754c15805e6edfe096dddc/view

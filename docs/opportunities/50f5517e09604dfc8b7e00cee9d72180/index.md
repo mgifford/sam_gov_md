@@ -28,6 +28,12 @@ SUBJECT: Combined Synopsis/Solicitation for, Telephony System Technician; Aviano
   - Email: gregory.m.crump.civ@health.mil
   - Phone: 7032756266
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: . 6.) Offers are due 17 March 2026, by 1300 EST. 7.) The provision 52.212-1, Instructions to Offerors-Commercial Products and Commercial Services, applies to this acquisition 8.) The provision 52.212-2, Evaluation-Commercial Products and Commercial Services is incorporated in this requirement as prescribed IAW FAR 12.301(C). The government will award a contract resulting from this solicitation to the offeror whose offer conforming to the Solicitation will be most advantageous to the government. The government will evaluate quotes based on price, technical acceptability, and conformity to the solicitation. 9.) Potential offerors must provide a complete copy of the provision 52.213-3, Offeror Representations and Certifications-Commercial Products and Commercial Services, with their offer. 10.) The Clause 52.212-4, Contract Terms and Conditions-Commercial Products and Commercial Services, applies to this acquisition. 11.) The Clause 52.212-5 Contract Terms and Conditions Required to Implement Statutes or Executive Orders-Commercial Products and Commercial Services, applies to this acquisition. 12.) The Primary POC for this requirement is Contract Specialist, Matthew Shozo Tsueda; Phone 907-201-0308; Email: Matthew.S.Tsueda.Ctr@Health.Mil
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/50f5517e09604dfc8b7e00cee9d72180/view

@@ -28,6 +28,12 @@ The 60th Contracting Squadron at Travis Air Force Base intends to establish a Fi
   - Email: joseph.restua_perez@us.af.mil
   - Phone: 7078163897
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: Solicitation Provisions and Contract Clauses by Reference Attachment 2: Contractor Responsibility Verification - (must submit with your offer) Attachment 3: TAFB Security Requirements Attachment 4: Statement of Work (SOW) - Metal Detectors Final � 19 Feb 26 Please also submit a specification sheet and an independent quote. Along with a filled out Solicitation and filled out Contractor Responsibility Verification. Failer to do so will result in being deemed unresponsive
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/6c7c7f1ff35a45339d6226a964900c92/view

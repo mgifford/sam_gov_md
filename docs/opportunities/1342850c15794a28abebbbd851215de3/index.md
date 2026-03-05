@@ -23,6 +23,12 @@ Design, construction, support, and tear down of exhibit at Eurosatory 2026 for D
   - Name: Courtney Taitt
   - Email: courtney.s.taitt.civ@mail.mil
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: Eurosatory 2026 for DSCA
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/1342850c15794a28abebbbd851215de3/view

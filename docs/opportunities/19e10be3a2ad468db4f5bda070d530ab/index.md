@@ -28,6 +28,12 @@ SOURCES SOUGHT: THIS IS NOT A NOTICE OF REQUEST FOR QUOTATION BUT INFORMATION AN
   - Email: jacqueline.aranda.1@us.af.mil
   - Phone: 6238562733
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: . Market research is being conducted to determine interest, capability, and socio-economic category of potential sources for the requirement. The government requests interested parties submit a brief description of their company"s business size (i.e. annual revenues and employee size), business status (i.e., 8(a), Historically Underutilized Business Zone, service-disabled veteran-owned small business, HUBZone small business, woman-owned small business, veteran-owned small business, or small business) anticipated teaming arrangements, and a description of similar services offered to the Government and to commercial customers. All interested firms shall submit a capabilities package that explicitly demonstrates company capabilities-indicating examples of commercial sales-and product specifications related to this effort
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/19e10be3a2ad468db4f5bda070d530ab/view

@@ -24,6 +24,12 @@ notice_id: 5e228b4609a846e68b8b48677e7b2e9e
   - Email: dayna.k.obrien.civ@us.navy.mil
   - Phone: 2076901687
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: for technical specification
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/5e228b4609a846e68b8b48677e7b2e9e/view

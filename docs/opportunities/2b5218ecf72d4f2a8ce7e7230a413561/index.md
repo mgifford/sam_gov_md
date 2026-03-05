@@ -28,6 +28,12 @@ notice_id: 2b5218ecf72d4f2a8ce7e7230a413561
   - Email: dennis.deforest.2@us.af.mil
   - Phone: 4067314647
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: must be submitted electronically to Contract POCs by 2pm 3 Mar 2026 to get access to the WSA building
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/2b5218ecf72d4f2a8ce7e7230a413561/view

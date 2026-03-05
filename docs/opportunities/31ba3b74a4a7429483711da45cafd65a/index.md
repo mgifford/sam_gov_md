@@ -26,6 +26,12 @@ This is a solicitation for commercial items prepared in accordance with (IAW) th
   - Name: MRR Procurement Mailbox
   - Email: mrr-procurement@uscg.mil
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: - �TERMS AND CONDITIONS � 70Z03826QJ0000118� FOR APPLICABLE CLAUSES, INSTRUCTIONS AND EVALUATION CRITERIA. ATTACHMENT 2 � �REDACTED J AND A � 70Z03826QJ0000118� FOR JUSTIFICATION FOR OTHER THAN FULL AND OPEN COMPETITION. Closing date and time for receipt of offers is 3/19/2026 at 2:00 PM Eastern Time. Anticipated award date is on or about 4/1/2026. E-mail quotations may be sent to Julie.G.Lininger@uscg.mil and MRR-PROCUREMENT@uscg.mil. Please indicate 70Z03826QJ0000118 in the subject line
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/31ba3b74a4a7429483711da45cafd65a/view

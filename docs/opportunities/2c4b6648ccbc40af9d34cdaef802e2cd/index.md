@@ -23,6 +23,12 @@ This is a combined synopsis/solicitation for commercial items prepared in accord
   - Name: Jessica Pacheco
   - Email: jessica.pacheco@usda.gov
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: - Solicitation Terms and Conditions� for applicable clauses, instructions, and evaluation criteria
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/2c4b6648ccbc40af9d34cdaef802e2cd/view

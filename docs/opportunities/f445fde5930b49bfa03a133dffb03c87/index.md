@@ -23,6 +23,12 @@ March 4, 2026 The purpose of this announcement is to provide the updated bid gur
   - Name: SIMS, JALISA C
   - Email: jalisa.sims@usda.gov
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: - Solicitation Terms and Conditions- Lake Powhatan Sewer Project� for applicable clauses, instructions, and evaluation criteria. Statement of Requirement The Project consists of decommissioning and complete removal of an onsite 20,000-gpd wastewater treatment plant and auxiliary systems along with various components of the sewer pump station (pumps, rails, control panel) and connection to existing municipal sewer. Contractor shall take possession of all decommissioned and demolished materials and remove them from site entirely. Attachment 2- Lake Pow WWTP Decomm Plans Attachment 3- Lake Pow WWTP Decomm Specs Please Note: An SF 1442 will not be issued until award
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/f445fde5930b49bfa03a133dffb03c87/view

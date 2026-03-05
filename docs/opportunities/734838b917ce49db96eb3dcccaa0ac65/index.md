@@ -26,6 +26,12 @@ THIS IS A SOLICITATION NOTICE. This announcement is for the following requiremen
   - Name: DLA Warren Contract Opportunities
   - Email: dlawarrencontractopportunities@dla.mil
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: "NDA for Government Protected Information". Please return the complete and signed document "NDA for Government Protected Information" to the primary point of contact email listed below for review. Access will be provided if the review is approved. Please note: ONLY the Data Custodian, as identified in the United States/Canada Joint Certification Program (JCP) will be granted approval to download the Technical Data Package (TDP), once it is made available in Contract Opportunities �- No Exceptions. See the solicitation for the actual closing date and the full terms and conditions. The solicitation can be downloaded from the Contract Opportunities section of SAM.gov. If you do not already have access to SAM.gov, it is recommended you register as soon as possible
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/734838b917ce49db96eb3dcccaa0ac65/view

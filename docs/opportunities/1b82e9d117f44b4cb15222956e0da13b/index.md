@@ -26,6 +26,12 @@ notice_id: 1b82e9d117f44b4cb15222956e0da13b
   - Name: Kristen Weiman
   - Email: kristen.l.weiman.civ@army.mil
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: this call, for further information on how the AOS is structured
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/1b82e9d117f44b4cb15222956e0da13b/view

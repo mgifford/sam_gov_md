@@ -26,6 +26,12 @@ notice_id: ce8d5f11646f4642a24e05f35682138b
   - Name: Julie West
   - Email: julie.m.west4.civ@army.mil
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: of the Performance Work Statement (PWS)
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/ce8d5f11646f4642a24e05f35682138b/view

@@ -28,6 +28,12 @@ This is a combined synopsis/solicitation for commercial products or commercial s
   - Email: taylor.mcdaniel.1@us.af.mil
   - Phone: 8439634491
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: . The Government intends to award a contract without interchanges with respective offerors. The Government, however, does reserve the right to hold interchanges with one, some, none, or all offerors. RFQ Due Date: 10 March 2026, 2:00 p.m. EST
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/102f56296c0a4172a307681af61361bb/view

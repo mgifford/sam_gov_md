@@ -28,6 +28,12 @@ This solicitation is associated with the Army's Open Solicitation, W9128Z-25-S-A
   - Email: megan.e.haffey.civ@army.mil
   - Phone: (520) 692-9880
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: STANDARDS, REFERENCES & POLICIES (PDF Attached) APPENDIX B: LIST OF ACRONYMS (PDF Attached) APPENDIX C: QUESTIONS & ANSWERS (PDF Attached)
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/600404f4a8e04fafb828ab0ec63fc8c4/view

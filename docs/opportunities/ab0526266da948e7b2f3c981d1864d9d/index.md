@@ -26,6 +26,12 @@ This Announcement for Proposal (AFP) solicits proposals from proposers (herein, 
   - Name: William Driebergen
   - Email: hq-realestate@mail.nasa.gov
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: consists of five (5) parcels (each a �Parcel� and together the �Parcels�) totaling approximately one thousand seven hundred and thirty-six (1,736) acres. NASA will accept Proposals for prospective leases for use of all or any part of the Land in accordance with available usage (Attachment A). Two Parcels (Parcels 2A, 1D) are located inside of the controlled access portion of the NASA GRC ATF Government-operated facility; all Land is located on NASA GRC ATF Government-owned property, which is designated as the �Fee Area.� The Parcels are in the north central, south, and east regions of the Fee Area, and the Tenant(s) will have access to their Property (defined below) through the Fee Area as further described in the model Enhanced Use Lease Agreement form attached hereto as Attachment B (herein, the �Model EULA�). Important Dates: Request for Site Visit : NLT 27 March 2026 Site Visit: 16 April 2026 Q&A Closes: 30 April 2026 AFP Closes 2 July 2026 5pm
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/ab0526266da948e7b2f3c981d1864d9d/view

@@ -26,6 +26,12 @@ The F-35 Lightning II Joint Program Office (JPO), Arlington, Virginia, will host
   - Name: John Meyers
   - Email: John.Meyers@jsf.mil
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: . The Government anticipates the RFP will be released under the North American Industry Classification System (NAICS) 541512, Computer System Design Services, with a size standard of $34.0 Mil. The resultant contract is expected to be base plus four years. We encourage any and all interested parties to attend the industry day to discuss this requirement in further detail. Please refer to this link for more information and RSVP to the event. Please submit all questions through the form on this link: https://www.jsf.mil/industry-day. Feel free to reach out to Contract Specialist Sanjana Garg Sanjana.Garg@jsf.mil or Contracting Officer, John Meyers at John.Meyers@jsf.mil
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/eded23d1b65b4e70921536be0e160522/view

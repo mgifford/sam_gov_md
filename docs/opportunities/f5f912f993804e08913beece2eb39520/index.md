@@ -26,6 +26,12 @@ A00004 - Solicitation extended to 3/12/2026 at 12:00 PM EST A00003 - Solicitatio
   - Name: D05-SMB-LRS-Procurement@uscg.mil
   - Email: D05-SMB-LRS-Procurement@uscg.mil
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: � SCHEDULE - 70Z03826QH0000021. Concerns having the expertise and required capabilities to provide these items are invited to submit offers in accordance with the requirements stipulated in this solicitation. All responsible sources may submit a quotation which shall be considered by the agency. NOTE: No drawings, specifications, or schematics are available from this agency. The USCG intends to issue an order for a quantity of six (6) each. Per FAR 52.217-6 Option for Increased Quantity, the USCG may increase the quantity by two (2) each, for a maximum quantity of eight (8) each at the same unit price as the original order, for up to three hundred and sixty-five (365) days after the initial award date. The Contracting Officer will issue a unilateral modification if the USCG chooses to exercise this option. SEE ATTACHMENT 1 - �STATEMENT OF WORK� 70Z03826QH0000021� SEE ATTACHMENT 2 - �TERMS AND CONDITIONS � 70Z03826QH0000021� FOR APPLICABLE CLAUSES, INSTRUCTIONS AND EVALUATION CRITERIA. SEE ATTACHMENT 3 - �SCHEDULE � 70Z03826QH0000021� SEE ATTACHMENT 4 - �WAGE DETERMINATIONS � 70Z03826QH0000021� SEE ATTACHMENT 5 � �REDACTED J AND A - 70Z03826QH0000021� Closing date and time for receipt of offers is 3/4/2026 at 12:00PM Eastern Standard Time. Anticipated award date is on or about 4/6/2026. E-mail quotations shall be sent to Shavon.m.smith@uscg.mil and D05-SMB-LRS-Procurement@uscg.mil. Please indicate the RFQ number in subject line
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/f5f912f993804e08913beece2eb39520/view

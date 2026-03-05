@@ -23,6 +23,12 @@ Amendment 0003 Posted 03/04/2026 Amendment 0002 Posted 02/25/2026 Amendment 0001
   - Name: Kevin Brown
   - Email: kevin.brown2@usda.gov
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: - Solicitation Terms and Conditions� for applicable clauses, instructions, and evaluation criteria. There is no scheduled site visit for this solicitation. Vendors are encouraged to visit the site independently. Any site-specific questions can be directed at the Contracting Officer Representative Matthew Cohen- Matthew.Cohen@usda.gov CC: Kevin.Brown2@usda.gov
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/a7254cf2c0c749eda925540d364c7970/view

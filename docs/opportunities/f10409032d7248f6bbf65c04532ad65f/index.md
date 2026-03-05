@@ -26,6 +26,12 @@ notice_id: f10409032d7248f6bbf65c04532ad65f
   - Name: Francisco J. Noda Merly
   - Email: francisco.j.nodamerly.mil@army.mil
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: .* Laundry and Dry Cleaning services In Accordance With Army Regulation 210-130 to launder and press fabrics, textiles, garments, linens, and specified Organizational Clothing and Individual Equipment. See attachments for Site Visit information, solicitation, and additional pertinent information
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/f10409032d7248f6bbf65c04532ad65f/view

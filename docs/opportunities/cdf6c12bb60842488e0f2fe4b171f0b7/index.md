@@ -26,6 +26,12 @@ Combined Synopsis/Solicitation AFLCMC/PZI Installation Contracting Support Wrigh
   - Name: Claire Hess
   - Email: claire.hess@us.af.mil
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: applicable provisions and clauses. Offerors shall complete and include in quotations all representations and certifications, as well as all fill-in provisions and clauses, contained within this solicitation. Additionally, quotations that contain pricing only with no description/detail of the equipment that will be provided will not be accepted or considered for award. List of Attachments: Combined Synopsis/Solicitation Statement of Work ID-1 F20620 Furniture Plan RM 1CX94 ID-2 F20620 Workstation Typicals Note: There is a DWG file supplied for this effort. We are unable to attach the file to this solicitation. If you would like a copy, please reach out to Claire hess or Nasir Rashid to request a copy
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/cdf6c12bb60842488e0f2fe4b171f0b7/view

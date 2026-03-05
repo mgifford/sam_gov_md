@@ -23,6 +23,12 @@ notice_id: d7137817213f4b9296dfa097d13413eb
   - Name: Janet Paul
   - Email: Janet.Paul@usda.gov
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: � Schedule of Items Attachment 4 � Response to Evaluation Criteria (including Attachment 6 � Past Performance Form) Scanned copy of fully executed Bid Guarantee (Standard Form 24 and Power of Attorney) Acknowledgement of solicitation amendments (if any) via signed SF-30(s) with your offer Please note that Attachment 8 is a PDF Portfolio document containing multiple supporting attachments, this file must be opened in the desktop version of adobe acrobat. A virtual pre-bid/pre-proposal conference will be held on Tuesday, March 3, 2026. Please see Attachment 3, page 8 of 9 for additional information. Please note: Questions shall be submitted via email to janet.paul@usda.gov due no later than: March 9, 2026 at 3:00 pm PST. This will ensure enough time to respond via an Amendment after the virtual conference and before the solicitation period ends, i.e. March 19, 2026 at 4:00 pm PST. Please include the solicitation name and number in the subject line of the email
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/d7137817213f4b9296dfa097d13413eb/view

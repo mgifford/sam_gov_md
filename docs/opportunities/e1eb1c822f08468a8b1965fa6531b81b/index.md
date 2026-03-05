@@ -23,6 +23,12 @@ The Department of Homeland Security (DHS), U.S. Customs and Border Protection (C
   - Name: Christopher J. Shaw
   - Email: christopher.j.shaw@cbp.dhs.gov
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: � Statement of Work � 70B03C26R00000031. RFP 70B03C26R00000031, is Full and Open with no set-asides. The associated North American Industry Classification System (NAICS) code is 334517 (Irradiation Apparatus Manufacturing). All interested parties must be registered in System for Award Management (SAM) prior to award
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/e1eb1c822f08468a8b1965fa6531b81b/view

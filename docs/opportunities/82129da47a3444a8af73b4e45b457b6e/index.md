@@ -23,6 +23,12 @@ This is a combined synopsis/solicitation for commercial items prepared in accord
   - Name: Amanda Barbosa
   - Email: amanda.barbosa@usda.gov
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: Instructions� for applicable instructions and evaluation criteria. All Quotes must be received no later than 5:00pm CDT on March 11, 2026. Quotes shall be submitted via email to Amanda Barbosa at amanda.barbosa@usda.gov All questions shall be submitted via email only to Amanda Barbosa at amanda.barbosa@usda.gov ******** March 4, 2026 Update******** QA1 documented uploaded to answer vendor questions
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/82129da47a3444a8af73b4e45b457b6e/view

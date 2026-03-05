@@ -24,6 +24,12 @@ MEDICAL EDUCATION AND TRAINING CAMPUS DORM 1. See attachment for details.
   - Email: emmanuel.d.hardrick@usace.army.mil
   - Phone: 8178861088
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: details
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/07b1787ecd184dbcbbe6d615d3047fca/view

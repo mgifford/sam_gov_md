@@ -5,10 +5,33 @@ import argparse
 import json
 import os
 import sys
+from datetime import datetime
 from pathlib import Path
 from typing import Optional
 
 import requests
+
+
+# Global prompt log file path
+PROMPT_LOG_FILE = Path(__file__).parent.parent / 'data' / 'ollama_prompts.log'
+
+
+def log_prompt(task: str, prompt: str, model: str) -> None:
+    """Log a prompt to a file for tracking and analysis."""
+    try:
+        PROMPT_LOG_FILE.parent.mkdir(parents=True, exist_ok=True)
+        timestamp = datetime.now().isoformat()
+        log_entry = {
+            'timestamp': timestamp,
+            'task': task,
+            'model': model,
+            'prompt_length': len(prompt),
+            'prompt_preview': prompt[:200]  # First 200 chars for reference
+        }
+        with open(PROMPT_LOG_FILE, 'a') as f:
+            f.write(json.dumps(log_entry) + '\n')
+    except Exception as e:
+        print(f"Warning: Could not log prompt: {e}", file=sys.stderr)
 
 
 class OllamaClient:
@@ -41,6 +64,9 @@ class OllamaClient:
     def generate(self, prompt: str, stream: bool = False) -> Optional[str]:
         """Generate completion using Ollama."""
         try:
+            # Log the prompt
+            log_prompt('generate', prompt, self.model)
+            
             payload = {
                 "model": self.model,
                 "prompt": prompt,
@@ -71,6 +97,13 @@ class OllamaClient:
     def chat(self, messages: list[dict], stream: bool = False) -> Optional[str]:
         """Chat completion using Ollama."""
         try:
+            # Log the last user message as the prompt
+            if messages:
+                for msg in reversed(messages):
+                    if msg.get('role') == 'user':
+                        log_prompt('chat', msg.get('content', ''), self.model)
+                        break
+            
             payload = {
                 "model": self.model,
                 "messages": messages,
@@ -119,6 +152,13 @@ class GitHubModelsClient:
             print("Missing GitHub Models token. Set GITHUB_MODELS_TOKEN or GITHUB_TOKEN.", file=sys.stderr)
             return None
         try:
+            # Log the last user message as the prompt
+            if messages:
+                for msg in reversed(messages):
+                    if msg.get('role') == 'user':
+                        log_prompt('github-chat', msg.get('content', ''), self.model)
+                        break
+            
             payload = {
                 "model": self.model,
                 "messages": messages,

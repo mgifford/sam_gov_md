@@ -26,6 +26,12 @@ The Defense Health Agency Contracting Activity (DHACA) Research & Development (R
   - Name: Emily K. O'Hara
   - Email: emily.k.ohara.civ@health.mil
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: the following email address christina.m.lewis14.civ@health.mil and emily.k.ohara.civ@health.mil. No phone calls will be accepted
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/eeab8ef52a8b4f2a82015c5aaa49a6cf/view

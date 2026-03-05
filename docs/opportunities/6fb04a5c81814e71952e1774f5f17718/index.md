@@ -28,6 +28,12 @@ notice_id: 6fb04a5c81814e71952e1774f5f17718
   - Email: timothy.parison@va.gov
   - Phone: 9139461140
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: ________________________________________________________________________________________________________ 1. AMMENDMENT 36C25526R0064 0001 IS ISSUED TO INCORPORATE THE SITE VISIT SIGN-IN SHEET . THE GOVERNEMNT WILL POST RESPONSE TO ALL RFIs RECEIVED ON OR ABOUT MARCH 2, 2026 BY 6:00PM CST. 2. ALL ASSOCIATED DOCUMENTS FOR THIS AMENDMENT IS ATTACHED AND LOCATED UNDER THE ATTACHMENT SECTION ________________________________________________________________________________________________________ PLEASE RESPOND BY SPECIFIED DATE AND TIME FOR CONSIDERATION OF CONTRACT AWARD
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/6fb04a5c81814e71952e1774f5f17718/view

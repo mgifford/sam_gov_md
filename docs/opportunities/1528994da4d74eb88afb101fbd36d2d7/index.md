@@ -23,6 +23,12 @@ March 4, 2026 The purpose of this announcement is to provide the updated bid gur
   - Name: SIMS, JALISA C
   - Email: jalisa.sims@usda.gov
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: - Solicitation Terms and Conditions- Davidson River Campground Brevard Sewer Project� for applicable clauses, instructions, and evaluation criteria. Statement of Requirement This project will replace the existing Schenck Job Corps pump station and existing force main to connect The Davidson River Campground and Pisgah Ranger District facilities north of US 276 to the City of Brevard Wastewater Collection System. This infrastructure is failing and incurring significant sewer surcharges to the Forest Service as well as contributing to Sanitary Sewer Overflows. Further details are located in the following attachments: Attachment 2- 2025 DRCG Brevard Sewer Tech Specs Attachment 3- Supp Spec Station 01400 Measurement & Payment Attachment 4- 2025 DRCG Brevard Sewer_FinalPlans Signed Reduced Size
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/1528994da4d74eb88afb101fbd36d2d7/view

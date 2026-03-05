@@ -23,6 +23,12 @@ This is a combined synopsis / solicitation for commercial products or commercial
   - Name: Starla VanWinkle
   - Email: starla.r.vanwinkle@cbp.dhs.gov
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: - Statement of Work Attachment 2 � Price Schedule Attachment 3 � Wage Determinations
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/0e5719b1f66643f786242ccfc372370c/view

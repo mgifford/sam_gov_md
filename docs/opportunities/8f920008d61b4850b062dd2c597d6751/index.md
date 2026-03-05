@@ -26,6 +26,12 @@ The purpose of the amendment is as follows: 1. Extend the due date to March 13, 
   - Email: michelle.atwell@va.gov
   - Phone: 601-206-6952
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: not show size of tanks. The existing are not standard grease traps. They are actually manholes and would estimate 500 gallon. The new trap will be 600 gallon/ temp will be 200 gallon. Can you jet forward and backwards from each manhole? Yes, but only one way to the building. Is a site visit mandatory? Not mandatory but highly recommended. Who is the current vendor on the current contract? There is no current contract. The last contractor that had a contract was Mid-South Septic Service. What was the last dollar amount awarded to the last or current contractor for these services? The last dollar amount total value $45,000.00 What are the grease trap holding tank sizes/holding capacities? The new tank is 600 gallon/ temp tank is 200 gallon and the existing are not tanks, � manholes estimated at 500 gallon. Is there an incumbent? If so, please provide the total contract value, length and number. Mid-South Septic Services/ Total value-$45,000.00/ Base + 4 year but did not exercise option 2 due to change in scope. Is the scope of work the same as the previous contract? No Are site visits permitted for this opportunity? Yes, highly recommended. Site Visit: March 5, 2026 (9 a.m. 2 p.m.) Willard Rushing 601-364-7923 or 601-559-7104. Contractors will meet at the back of the building near the water tower
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/8f920008d61b4850b062dd2c597d6751/view

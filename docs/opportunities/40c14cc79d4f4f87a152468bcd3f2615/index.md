@@ -26,6 +26,12 @@ PLEASE NOTE: THE INFORMATION PROVIDED BELOW IS A SUMMARY ONLY. FOR THE COMPLETE 
   - Name: Lucas Dahlman
   - Email: lucas.dahlman@usda.gov
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: to input pricing for the Base Items) 3. Bid Guarantee Email addresses for submission of quote: Contract Specialist, Holly Hlavac, at Holly.Hlavac@usda.gov and Lucas Dahlman, Contracting Officer, at lucas.dahlman@usda.gov. In the submission of your quote, include in the email�s subject line: Solicitation 1240LT26Q0029 Great Plains Dispatch Center Communication Room HVAC Upgrade, Rapid City, South Dakota
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/40c14cc79d4f4f87a152468bcd3f2615/view

@@ -24,6 +24,12 @@ This is a combined synopsis/solicitation for commercial items prepared in accord
   - Email: amber.sampson@usda.gov
   - Phone: 9708513730
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: - Solicitation Terms and Conditions� for applicable clauses, instructions, and evaluation criteria
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/6b9d4633eb654365ad6ad504eec71fcb/view

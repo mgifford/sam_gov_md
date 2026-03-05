@@ -26,6 +26,12 @@ This is a Sources Sought notice for a Battery Power Supply. Responses will assis
   - Name: DLA FBO Mailbox
   - Email: DLALandWarrenFBO@dla.mil
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: "Battery Power Supply - Sources Sought Notice" for additional details. Participation in this sources sought and access to the TDP will require you to complete attachment titled "NDA for Government Protected Information". Please return the complete and signed document "NDA for Government Protected Information" to the primary point of contact email listed below for review. Access will be provided if the review is approved
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/5f414b7fdeca4808bba289f33662ab18/view

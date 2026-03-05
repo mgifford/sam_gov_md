@@ -28,6 +28,12 @@ Amendment 0001: Please review updates and attachemnts carefully. The contractor 
   - Email: bishwa.neupane.1@us.af.mil
   - Phone: 8439633704
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: in support of the Joint Base Charleston Air Show taking place May 1, to May 3, 2026
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/e0f0521ab1a14dc89162d545d87a2cde/view

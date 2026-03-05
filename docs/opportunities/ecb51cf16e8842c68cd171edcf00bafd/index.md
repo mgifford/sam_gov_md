@@ -23,6 +23,12 @@ This is a Sources Sought notice only, not a solicitation announcement and is iss
   - Name: Jackson Perry
   - Email: Jackson.S.Perry@uscg.mil
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: � 70Z03826IE0000004 High Definition (HD) Hoist and Cabin Camera Systems Requirements. The proposed North American Industry Classification System (NAICS) code for the future acquisition is 334511 � Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing. The size of business pursuant to NAICS 334511 is 1,350 employees. Sources Sought Requested Response All contractors interested and qualified to provide the High Definition (HD) Hoist and Cabin Camera Systems are invited to provide a response to this Sources Sought notice. All interested parties shall complete Attachment 2 � 70Z03826IE0000004 Sources Sought Notice Response which will allow the USCG to understand your full capability to provide the High Definition (HD) Hoist and Cabin Camera Systems. Attachments Attachment 1 � 70Z03826IE0000004 High Definition (HD) Hoist and Cabin Camera Systems Requirements Attachment 2 � 70Z03826IE0000004 Sources Sought Notice Response After reviewing the responses to this Sources Sought notice, the USCG may issue a solicitation on the System for Award Management website (sam.gov). Responses to this Sources Sought notice are not a substitute for a response to any future solicitation. All interested offerors will have to respond to the solicitation in addition to responding to this Sources Sought notice. A response to this notice is NOT a request to be added to a prospective offeror�s list or to receive a copy of the solicitation. Closing date and time for receipt of response is April 18, 2026, at 8:00 a.m. Eastern Time (ET). Telephone responses will not be accepted. E-mail responses may be sent to Jackson.S.Perry@uscg.mil. Please indicate 70Z03826IE0000004 in the subject line
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/ecb51cf16e8842c68cd171edcf00bafd/view

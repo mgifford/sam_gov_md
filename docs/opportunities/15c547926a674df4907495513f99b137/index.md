@@ -28,6 +28,12 @@ The Defense Health Agency Contracting Activity (DHACA), Healthcare Contracting D
   - Email: cha-on.p.gordon2.civ@health.mil
   - Phone: 7262030109
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: Bobbie Dobberstein at bobbie.s.dobberstein.ctr@health.mil
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/15c547926a674df4907495513f99b137/view

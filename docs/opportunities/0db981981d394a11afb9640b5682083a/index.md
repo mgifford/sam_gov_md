@@ -26,6 +26,12 @@ Navy Region NW, Washington Casegoods This is a combined synopsis/solicitation fo
   - Name: Fantasha McNair
   - Email: Fantasha.McNair@usace.army.mil
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: , Line-Item Pricing Spreadsheet (Excel Format) - To be completed by contractor and returned to the Government POC listed above. (2) Attachment 2 - Furniture Item Description (FID) (3) Attachment 3 - Statement of Work (SOW) (4) Attachment 4 � Contractor Performance Evaluation (5) Attachment 5 � Accident Prevention Plan Worksheet (6) Attachment 6 � Order Completion Statement (4) Attachment 7, Technical Document Checklist - To be completed by contractor and returned to the Government POC listed. The Government will award a contract resulting from this solicitation to the responsible offeror whose offer conforming to the solicitation will be most advantageous to the Government, price and other factors considered. The successful contractor will be the one whose quote is rated acceptable on technical, schedule and past performance, and provides the best value to the Government. Best value will be determined by the quote that is technically acceptable and has the lowest total price. The following factors shall be used to evaluate offers: (1) Price; (2) Past Performance; (3) Technical capability of the item(s) offered to meet the Government requirement; (4) Schedule Amendments to this RFQ will be provided in the same manner as the initial RFQ, which is by public notice on https://sam.gov/
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/0db981981d394a11afb9640b5682083a/view

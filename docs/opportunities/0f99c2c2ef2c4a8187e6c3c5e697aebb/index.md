@@ -24,6 +24,12 @@ Naval Sea Systems Command (NAVSEA) issues amendment N00024-26-R-4405 A0002 for t
   - Email: alicia.m.vesey.civ@us.navy.mil
   - Phone: (202) 781-4909
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: -2 (Work Item Plans, Drawings and Other References}, including references that contain limiting distribution statements, provide a written request to the Southeast Regional Maintenance Center (SERMC) Technical Librarian, Dwight Beeman at Dwight.l.beeman.civ@us.navy.mil with a copy to the Contract Specialist and the Contracting Officer listed above. Include your company SAM UEI number with the request so that contractor status can be confirmed in the System for Award Management. Amendment 0001: Remove the Non-prorated WIs reference on CLINs 0004 and 1005; adjust the direct labor hours and materials cost in Section B, Note A; add a missing Fill-In designation in Section B, Note D; correct the number of occurrences referenced in Section B, Note E; update COPA references in Section C.1.13.2 and C.1.14 to reflect a 3 business day requirement; issue Erratas 1 and 2 for Attachment J-1A; and incorporate updated copies of J-3A, J-4A, and J-3B. Amendment 0002: Update the DPAS code on the SF 30 cover page; adjust the direct labor hours and materials cost in Section B, Note A; issue Errata 3 for Attachment J-1A and Errata 1 for Attachment J-1B; update delivery dates for CLINs 0001-0040 to 04 October 2027 and for CLINs 1001-1108 to 17 April 2028; and incorporate updated copies of J-3A, J-3B, J-4A, and J-9A
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/0f99c2c2ef2c4a8187e6c3c5e697aebb/view

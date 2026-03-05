@@ -28,6 +28,12 @@ The U.S. Army Corps of Engineers, Pittsburgh District, has a project that involv
   - Email: Connie.L.Ferguson@usace.army.mil
   - Phone: 412-395-7551
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: - Wage Determination
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/97dc4c1d74fd423b9a2a10e7d476a7a7/view

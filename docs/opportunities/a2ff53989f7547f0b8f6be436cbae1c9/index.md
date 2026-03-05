@@ -27,6 +27,12 @@ The subject effort is for the procurement of required supplies and services to s
   - Name: Andrea Gordon-Eubanks
   - Email: andrea.l.gordoneubanks.civ@us.navy.mil
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: this solicitation and can be requested via DD2345. Feedback to the Draft RFP is requested utilizing the attached Sample Feedback request form by 1700 est. Thursday 12 March 2026
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/a2ff53989f7547f0b8f6be436cbae1c9/view

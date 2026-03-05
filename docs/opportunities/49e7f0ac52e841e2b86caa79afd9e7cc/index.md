@@ -23,6 +23,12 @@ This is a combined synopsis/solicitation for commercial items prepared in accord
   - Name: BOUCHER, PAUL A
   - Email: paul.boucher@usda.gov
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: - Solicitation Terms and Conditions� for applicable clauses, provisions, and instructions. The bid opening will be held via Microsoft Teams. Meeting link and call-in number will be provided to this announcement on SAM, at a later date
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/49e7f0ac52e841e2b86caa79afd9e7cc/view

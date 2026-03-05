@@ -6,6 +6,9 @@ __pycache__/
 # Keep raw sample downloads local
 data/samples/
 
+# Ollama prompt log - track locally but don't commit
+data/ollama_prompts.log
+
 # Keep generated today processing outputs committed for dashboard
 !data/today/
 !docs/data/

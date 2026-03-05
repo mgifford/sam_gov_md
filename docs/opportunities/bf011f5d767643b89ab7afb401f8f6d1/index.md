@@ -26,6 +26,12 @@ notice_id: bf011f5d767643b89ab7afb401f8f6d1
   - Name: James Sowden
   - Email: james.sowden@usda.gov
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: - Solicitation Terms and Conditions� for applicable clauses, instructions, and evaluation criteria
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/bf011f5d767643b89ab7afb401f8f6d1/view

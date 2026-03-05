@@ -27,6 +27,12 @@ The U.S. Department of Agriculture (USDA) Federal Crop Insurance Corporation (FC
   - Name: Lizabeth Kuhaneck
   - Email: Lizabeth.Kuhaneck@usda.gov
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: will be used by the Government to make appropriate acquisition decisions
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/eec3a185b83b4c31b7789c257723a577/view

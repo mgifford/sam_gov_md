@@ -26,6 +26,12 @@ Please see attachment RFP SPRRA2-26-R-0034 for a full description. Please see at
   - Name: Anna Phillips
   - Email: anna.phillips@dla.mil
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: SPRRA2-26-R-0034 for a full description. Please see attachment "RFP_24K Environmental Control Unit (ECU) Parts List" for a full list of parts. Please see Amendment 0001 for updated closure date, parts list and quanitity. Please see Amendment 0002 for updated parts list and quanity changes. Please see Amendment 0003 for updated parts list, quanity changes and duration period
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/31ff6bad663c4543ac7c82816bd8bab0/view

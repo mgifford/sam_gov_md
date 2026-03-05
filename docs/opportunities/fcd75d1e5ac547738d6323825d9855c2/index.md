@@ -27,6 +27,12 @@ N00164-26-Q-0071 � MODULAR OFFICE SETS � PSC 7110 � NAICS 337214 ISSUE DAT
   - Email: marty.arvin2.civ@us.navy.mil
   - Phone: 8123817213
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: . All changes to the requirement that occur prior to the closing date will be posted to Contract Opportunities on https://sam.gov/. It is the responsibility of interested vendors to monitor https://sam.gov/ for any amendments, which may be issued to this solicitation. For changes made after the closing date, only those offerors that provide a quote will be provided any changes/amendments and considered for future discussions and/or award. Offers shall be e-mailed to trista.m.ray.civ@us.navy.mil. All required information must be received on or before 06 MAR 2026 � 4:00 PM EASTERN TIME
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/fcd75d1e5ac547738d6323825d9855c2/view

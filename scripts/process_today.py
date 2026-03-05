@@ -56,6 +56,45 @@ def is_win(row: dict[str, str]) -> bool:
     return "award" in notice_type or "win" in notice_type
 
 
+def extract_attachments(description: str) -> dict[str, Any]:
+    """Extract attachment filenames and count from description text.
+    
+    Looks for patterns like:
+    - Attachment 1: filename.pdf
+    - Exhibit A: filename.pdf
+    - Annex I: filename.pdf
+    - Appendix A: filename.pdf
+    """
+    if not description:
+        return {"count": 0, "attachments": []}
+    
+    attachments: list[str] = []
+    
+    # Pattern 1: "Attachment N: Filename" or "Attachment (N): Filename"
+    attachment_pattern = r'(?:attachment|exhibit|annex|appendix)\s+(?:\()?[a-z0-9]+(?:\))?\s*:?\s*([^\n]+?)(?=\n|$)'
+    matches = re.findall(attachment_pattern, description, re.IGNORECASE)
+    for match in matches:
+        filename = match.strip()
+        # Clean up common artifacts
+        filename = re.sub(r'["""\']', '"', filename)  # Normalize quotes
+        filename = filename.rstrip('.,;')
+        if filename and len(filename) > 2:  # Avoid single characters
+            if filename not in attachments:
+                attachments.append(filename)
+    
+    # Pattern 2: Direct file references like "Att 1_FAR 52.204-24 Nov 2021.pdf"
+    file_pattern = r'([Aa]tt\s+\d+_[^\n]+\.(?:pdf|docx?|xlsx?|pptx?|txt))'
+    file_matches = re.findall(file_pattern, description)
+    for match in file_matches:
+        if match not in attachments:
+            attachments.append(match)
+    
+    return {
+        "count": len(attachments),
+        "attachments": attachments
+    }
+
+
 def load_terms(path: Path) -> list[TermDef]:
     with path.open("r", encoding="utf-8") as f:
         payload = yaml.safe_load(f)
@@ -235,6 +274,9 @@ def write_markdown_opportunities(records: list[dict[str, Any]], output_dir: Path
         secondary_contact_title = (row.get("SecondaryContactTitle") or "").strip()
         secondary_contact_email = (row.get("SecondaryContactEmail") or "").strip()
         secondary_contact_phone = (row.get("SecondaryContactPhone") or "").strip()
+        
+        # Extract attachment information
+        attachment_info = extract_attachments(description)
 
         # Create Jekyll front matter
         markdown_lines = [
@@ -294,6 +336,15 @@ def write_markdown_opportunities(records: list[dict[str, Any]], output_dir: Path
                     markdown_lines.append(f"  - Email: {secondary_contact_email}")
                 if secondary_contact_phone:
                     markdown_lines.append(f"  - Phone: {secondary_contact_phone}")
+        
+        # Add Attachments section if any exist
+        if attachment_info["count"] > 0:
+            markdown_lines.extend(["", "## Attachments", ""])
+            markdown_lines.append(f"**Total: {attachment_info['count']} attachment(s)**")
+            markdown_lines.append("")
+            for i, attachment in enumerate(attachment_info["attachments"], 1):
+                markdown_lines.append(f"- Attachment {i}: {attachment}")
+        
         markdown_lines.extend(["", "## Links", ""])
         if sam_link:
             markdown_lines.append(f"- SAM.gov: {sam_link}")
@@ -382,6 +433,13 @@ def main() -> None:
         effective_date = latest_date
         used_fallback = True
 
+    # Add attachment information to each record
+    for row in records:
+        description = row.get("Description", "")
+        attachment_info = extract_attachments(description)
+        row["AttachmentCount"] = attachment_info["count"]
+        row["Attachments"] = attachment_info["attachments"]
+
     wins = [row for row in records if is_win(row)]
     opportunities = [row for row in records if not is_win(row)]
     type_counts = Counter((row.get("Type") or "Unknown Type").strip() for row in records)
@@ -398,6 +456,10 @@ def main() -> None:
         term_counts, details = scan_terms(text, terms)
         total_term_counts.update(term_counts)
         category_counts.update(details["categories"])
+        
+        # Add matches to the record for frontend filtering
+        row["matches"] = details["terms"]
+        
         if details["terms"]:
             per_record_matches.append(
                 {

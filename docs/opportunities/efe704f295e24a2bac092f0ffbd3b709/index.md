@@ -24,6 +24,12 @@ This is a combined synopsis/solicitation for commercial items prepared in accord
   - Email: aaron.dimeo@usda.gov
   - Phone: 6084160027
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: - Solicitation Terms and Conditions� for applicable clauses, instructions, and evaluation criteria. There are no additional requirement(s) or terms and conditions (such as financing arrangements or warranty requirements) determined by the contracting officer to be necessary for this acquisition and consistent with customary commercial practices. Quotes are due by the date/time/time zone listed in the �Date Offers Due� field. Submit quotes to the Primary Point of Contact and Secondary Point of Contact (if applicable) by the �Date Offers Due�. Quotes received after the established �Date Offers Due� deadline will be considered late. Late quotes may only be considered if it is in the Government�s best interest and if it will not unduly delay award. Questions regarding this solicitation shall be submitted in writing to the Primary Point of Contact and Secondary Point of Contact (if applicable) no later than 72-hours prior to the close date/time/time zone listed in the �Date Offers Due� field. Answers will be posted at least 48-hours prior to the �Date Offers Due.�
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/efe704f295e24a2bac092f0ffbd3b709/view

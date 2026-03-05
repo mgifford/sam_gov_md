@@ -24,6 +24,12 @@ Spray Dryer - Only bids submitted through the solicitation will be accepted, ple
   - Email: teri.j.street.civ@army.mil
   - Phone: (520) 674-0139
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: be rejected as non-responsive. All Shipping/packaging/inspection charges to be included! A single shipment/invoice is requested. Multiple shipments must be approved in writing through the listed POC prior to shipping
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/5de9ef3cc1c745e08ce5e9000328305b/view

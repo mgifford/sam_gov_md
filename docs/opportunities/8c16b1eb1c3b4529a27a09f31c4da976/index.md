@@ -24,6 +24,12 @@ DLA - Weapons Support (Richmond) is issuing this Sources Sought Synopsis as a me
   - Email: jenier.mitchell@dla.mil
   - Phone: 8046596388
 
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: Purpose and Objectives Potential sources shall be capable of furnishing all labor, materials, facilities and equipment required to accomplish the new manufacture of the item(s). Generally, this entails the procurement/manufacture of component parts, inspection, testing, preservation/packaging, and shipping. Additionally, potential sources may be responsible for supply chain management, logistics planning, forecasting production requirements, long-lead time parts procurement, diminishing manufacturing sources and material shortage issues, and shipping serviceable assets. The unit prices will be established at the time of a contract award. The specific requirement for this effort is below: Part Number: UNISON INDUSTRIES, LLC CAGE: 83311 P/N 64001 PAGE CHESTER LTD CAGE: 81482 P/N 64001 Nomenclature: ELECTRICAL, JUNCTION BOX ASSEMBLY NSN: 2925 - 009072709 Estimated Annual Demand: 20 Each, Estimated Annual Demand
+
 ## Links
 
 - SAM.gov: https://sam.gov/workspace/contract/opp/8c16b1eb1c3b4529a27a09f31c4da976/view
