@@ -17,6 +17,7 @@ class OllamaClient:
         self.model = model
         self.generate_url = f"{self.base_url}/api/generate"
         self.chat_url = f"{self.base_url}/api/chat"
+        self.provider = "ollama"
         
     def health_check(self) -> bool:
         """Check if Ollama is running."""
@@ -98,8 +99,55 @@ class OllamaClient:
             return None
 
 
-def analyze_record(client: OllamaClient, record: dict, task: str = "summarize") -> Optional[str]:
-    """Analyze a single record using Ollama."""
+class GitHubModelsClient:
+    def __init__(
+        self,
+        base_url: str = "https://models.inference.ai.azure.com",
+        model: str = "gpt-4o-mini",
+        token: Optional[str] = None,
+    ):
+        self.base_url = base_url.rstrip("/")
+        self.model = model
+        self.provider = "github-models"
+        self.token = token or os.getenv("GITHUB_MODELS_TOKEN") or os.getenv("GITHUB_TOKEN")
+
+    def is_configured(self) -> bool:
+        return bool(self.token)
+
+    def chat(self, messages: list[dict], stream: bool = False) -> Optional[str]:
+        if not self.token:
+            print("Missing GitHub Models token. Set GITHUB_MODELS_TOKEN or GITHUB_TOKEN.", file=sys.stderr)
+            return None
+        try:
+            payload = {
+                "model": self.model,
+                "messages": messages,
+                "temperature": 0.2,
+                "stream": stream,
+            }
+            headers = {
+                "Authorization": f"Bearer {self.token}",
+                "Content-Type": "application/json",
+            }
+            resp = requests.post(
+                f"{self.base_url}/v1/chat/completions",
+                json=payload,
+                headers=headers,
+                timeout=120,
+            )
+            resp.raise_for_status()
+            data = resp.json()
+            choices = data.get("choices", [])
+            if not choices:
+                return None
+            return choices[0].get("message", {}).get("content", "")
+        except Exception as exc:
+            print(f"Error in GitHub Models chat: {exc}", file=sys.stderr)
+            return None
+
+
+def analyze_record(client: OllamaClient | GitHubModelsClient, record: dict, task: str = "summarize") -> Optional[str]:
+    """Analyze a single record using an LLM client."""
     
     if task == "summarize":
         prompt = f"""Summarize this government contract opportunity in 2-3 sentences, focusing on the technical requirements:
@@ -109,7 +157,7 @@ Subject: {record.get('SUBJECT', 'N/A')}
 Description: {record.get('DESC', 'N/A')[:2000]}
 
 Summary:"""
-        return client.generate(prompt)
+        return _dispatch_prompt(client, prompt)
     
     elif task == "extract_tech":
         prompt = f"""List all technology keywords and requirements mentioned in this contract opportunity. Format as a comma-separated list.
@@ -118,7 +166,7 @@ Subject: {record.get('SUBJECT', 'N/A')}
 Description: {record.get('DESC', 'N/A')[:2000]}
 
 Technologies:"""
-        return client.generate(prompt)
+        return _dispatch_prompt(client, prompt)
     
     elif task == "classify":
         prompt = f"""Classify this contract opportunity into ONE of these categories:
@@ -134,7 +182,7 @@ Subject: {record.get('SUBJECT', 'N/A')}
 Description: {record.get('DESC', 'N/A')[:1000]}
 
 Category:"""
-        return client.generate(prompt)
+        return _dispatch_prompt(client, prompt)
     
     elif task == "assess_relevance":
         prompt = f"""Rate this opportunity's relevance for a company specializing in:
@@ -149,9 +197,19 @@ Subject: {record.get('SUBJECT', 'N/A')}
 Description: {record.get('DESC', 'N/A')[:1500]}
 
 Relevance Score and Reason:"""
-        return client.generate(prompt)
+        return _dispatch_prompt(client, prompt)
     
     return None
+
+
+def _dispatch_prompt(client: OllamaClient | GitHubModelsClient, prompt: str) -> Optional[str]:
+    if getattr(client, "provider", "") == "github-models":
+        messages = [
+            {"role": "system", "content": "You are a helpful assistant."},
+            {"role": "user", "content": prompt},
+        ]
+        return client.chat(messages)
+    return client.generate(prompt)
 
 
 def main():

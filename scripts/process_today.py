@@ -16,7 +16,7 @@ from typing import Any
 import requests
 import yaml
 
-from ollama_analyzer import OllamaClient, analyze_record
+from ollama_analyzer import GitHubModelsClient, OllamaClient, analyze_record
 
 DEFAULT_CSV_URL = (
     "https://s3.amazonaws.com/falextracts/Contract Opportunities/datagov/"
@@ -322,6 +322,19 @@ def main() -> None:
     )
     parser.add_argument("--with-ollama", action="store_true")
     parser.add_argument("--ollama-model", default="gpt-oss:20b")
+    parser.add_argument(
+        "--llm-provider",
+        choices=["ollama", "github"],
+        default="ollama",
+        help="Primary LLM provider (default: ollama)",
+    )
+    parser.add_argument(
+        "--llm-fallback",
+        action="store_true",
+        help="Fallback to the alternate provider if the primary fails",
+    )
+    parser.add_argument("--github-model", default="gpt-4o-mini")
+    parser.add_argument("--github-base-url", default="https://models.inference.ai.azure.com")
     args = parser.parse_args()
 
     output_dir = Path(args.output_dir)
@@ -408,9 +421,32 @@ def main() -> None:
     )
 
     ollama_results: list[dict[str, Any]] = []
-    if args.with_ollama and records:
-        client = OllamaClient(model=args.ollama_model)
-        if client.health_check() and args.ollama_model in client.list_models():
+    if records:
+        if args.with_ollama:
+            args.llm_provider = "ollama"
+
+        primary_client = None
+        fallback_client = None
+
+        if args.llm_provider == "ollama":
+            primary_client = OllamaClient(model=args.ollama_model)
+            if not (primary_client.health_check() and args.ollama_model in primary_client.list_models()):
+                primary_client = None
+            fallback_client = GitHubModelsClient(base_url=args.github_base_url, model=args.github_model)
+            if not fallback_client.is_configured():
+                fallback_client = None
+        else:
+            primary_client = GitHubModelsClient(base_url=args.github_base_url, model=args.github_model)
+            if not primary_client.is_configured():
+                primary_client = None
+            fallback_client = OllamaClient(model=args.ollama_model)
+            if not (fallback_client.health_check() and args.ollama_model in fallback_client.list_models()):
+                fallback_client = None
+
+        if not primary_client and args.llm_fallback:
+            primary_client, fallback_client = fallback_client, None
+
+        if primary_client:
             for row in records:
                 compact_record = {
                     "AGENCY": row.get("Department/Ind.Agency"),
@@ -419,7 +455,15 @@ def main() -> None:
                     "SOLNBR": row.get("Sol#") or row.get("NoticeId"),
                     "URL": row.get("Link"),
                 }
-                result = analyze_record(client, compact_record, task="assess_relevance")
+                result = analyze_record(primary_client, compact_record, task="assess_relevance")
+                if (not result or not result.strip()) and args.llm_fallback and fallback_client:
+                    result = analyze_record(fallback_client, compact_record, task="assess_relevance")
+                    used_provider = getattr(fallback_client, "provider", "unknown")
+                    used_model = getattr(fallback_client, "model", "unknown")
+                else:
+                    used_provider = getattr(primary_client, "provider", "unknown")
+                    used_model = getattr(primary_client, "model", "unknown")
+
                 if result:
                     ollama_results.append(
                         {
@@ -427,6 +471,8 @@ def main() -> None:
                             "Title": row.get("Title"),
                             "Type": row.get("Type"),
                             "relevance": result.strip(),
+                            "provider": used_provider,
+                            "model": used_model,
                         }
                     )
 
