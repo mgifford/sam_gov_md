@@ -2,8 +2,6 @@ name: Daily SAM.gov ingest
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '30 10 * * *'
 
 permissions:
   contents: write
