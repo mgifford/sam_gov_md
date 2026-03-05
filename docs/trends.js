@@ -19,14 +19,14 @@ function renderTopAgencies(topAgencies) {
   }
 
   const rows = topAgencies.map((row) => {
-    const winRate = row.total > 0 ? Math.round((row.wins / row.total) * 100) : 0
+    const awardRate = row.total > 0 ? Math.round((row.wins / row.total) * 100) : 0
     return `
       <tr>
         <td>${row.agency}</td>
         <td>${row.total}</td>
         <td>${row.opportunities}</td>
         <td>${row.wins}</td>
-        <td>${winRate}%</td>
+        <td>${awardRate}%</td>
         <td>${row.days_seen}</td>
       </tr>
     `
@@ -39,8 +39,8 @@ function renderTopAgencies(topAgencies) {
           <th>Department</th>
           <th>Total</th>
           <th>Opportunities</th>
-          <th>Wins</th>
-          <th>Win Rate</th>
+          <th>Awarded</th>
+          <th>Award Rate</th>
           <th>Days Seen</th>
         </tr>
       </thead>
@@ -113,7 +113,7 @@ function renderTrends(agencies, timeline) {
           <th>Trend (${recentDates[0]} to ${recentDates[recentDates.length - 1]})</th>
           <th>Latest Count</th>
           <th>Opportunities</th>
-          <th>Wins</th>
+          <th>Awarded</th>
         </tr>
       </thead>
       <tbody>${rows.join('')}</tbody>

@@ -88,7 +88,7 @@ function renderDepartmentTable(departments) {
     const isDod = dept.toLowerCase().includes('defense')
     return `
       <tr>
-        <td><button type="button" class="dept-filter" data-dept="${dept}" style="background:none;border:none;color:#0969da;cursor:pointer;padding:0;text-align:left;${isDod ? 'font-weight:700;' : ''}">${dept}</button>${isDod ? ' <span style="font-size:12px;color:#59636e;">(DoD)</span>' : ''}</td>
+        <td><button type="button" class="dept-filter" data-dept="${dept}" style="background:none;border:none;color:#0969da;cursor:pointer;text-align:left;padding:4px 0;border-radius:3px;font-size:14px;font-family:inherit;transition:background-color 0.15s;${isDod ? 'font-weight:700;' : ''}" onmouseover="this.style.backgroundColor='#f0f0f0'" onmouseout="this.style.backgroundColor='transparent'">${dept}</button>${isDod ? ' <span style="font-size:12px;color:#59636e;">(DoD)</span>' : ''}</td>
         <td>${row.total || 0}</td>
         <td>${row.opportunities || 0}</td>
         <td>${row.wins || 0}</td>
@@ -103,7 +103,7 @@ function renderDepartmentTable(departments) {
           <th>Department</th>
           <th>Total</th>
           <th>Opportunities</th>
-          <th>Wins</th>
+          <th>Awarded</th>
         </tr>
       </thead>
       <tbody>${rows.join('')}</tbody>
@@ -310,15 +310,31 @@ function containerHandlers(allRecords) {
   table.addEventListener('click', (event) => {
     const deptButton = event.target.closest('.dept-filter')
     if (deptButton) {
+      event.preventDefault()
       const department = deptButton.getAttribute('data-dept') || ''
+      if (!department) return
+      
       const filtered = allRecords.filter((row) => (row.Agency || '') === department)
-      renderTable(filtered, `Department filter: ${department}`)
+      renderTable(filtered, `Department filter: ${department} (${filtered.length} matches)`)
+      
+      // Scroll to results and add visual feedback
+      const recordsTable = document.getElementById('recordsTable')
+      if (recordsTable) {
+        recordsTable.scrollIntoView({ behavior: 'smooth', block: 'start' })
+      }
       return
     }
 
     const resetButton = event.target.closest('#showAllDepts')
     if (resetButton) {
+      event.preventDefault()
       renderTable(allRecords, 'Showing all records for this publication date.')
+      
+      // Scroll to results
+      const recordsTable = document.getElementById('recordsTable')
+      if (recordsTable) {
+        recordsTable.scrollIntoView({ behavior: 'smooth', block: 'start' })
+      }
     }
   })
 }
