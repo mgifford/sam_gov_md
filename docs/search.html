@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search - SAM.gov Opportunities</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.6;
+            color: #24292e;
+            background-color: #fff;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            margin-bottom: 30px;
+        }
+
+        header h1 {
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+
+        header p {
+            color: #586069;
+        }
+
+        .search-box {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 30px;
+        }
+
+        #search-input {
+            flex: 1;
+            padding: 12px 16px;
+            font-size: 16px;
+            border: 1px solid #d0d7de;
+            border-radius: 6px;
+            font-family: inherit;
+        }
+
+        #search-input:focus {
+            outline: none;
+            border-color: #0366d6;
+            box-shadow: 0 0 0 3px rgba(3, 102, 214, 0.1);
+        }
+
+        #search-stats {
+            color: #586069;
+            font-size: 14px;
+            margin-bottom: 20px;
+        }
+
+        .results-list {
+            list-style: none;
+        }
+
+        .result-item {
+            border: 1px solid #d0d7de;
+            border-radius: 6px;
+            padding: 16px;
+            margin-bottom: 12px;
+            transition: box-shadow 0.2s;
+        }
+
+        .result-item:hover {
+            box-shadow: 0 3px 12px rgba(0, 0, 0, 0.12);
+        }
+
+        .result-title {
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 8px;
+        }
+
+        .result-title a {
+            color: #0366d6;
+            text-decoration: none;
+        }
+
+        .result-title a:hover {
+            text-decoration: underline;
+        }
+
+        .result-meta {
+            font-size: 14px;
+            color: #586069;
+            margin-bottom: 8px;
+        }
+
+        .result-meta span {
+            margin-right: 16px;
+        }
+
+        .result-excerpt {
+            font-size: 14px;
+            color: #57606a;
+            line-height: 1.5;
+            max-height: 60px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .result-links {
+            display: flex;
+            gap: 12px;
+            margin-top: 10px;
+            font-size: 14px;
+        }
+
+        .result-links a {
+            color: #0366d6;
+            text-decoration: none;
+        }
+
+        .result-links a:hover {
+            text-decoration: underline;
+        }
+
+        .empty {
+            text-align: center;
+            color: #586069;
+            padding: 40px;
+            font-size: 16px;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-bottom: 20px;
+            color: #0366d6;
+            text-decoration: none;
+        }
+
+        .back-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/" class="back-link">← Back to Dashboard</a>
+
+        <header>
+            <h1>Search SAM.gov Opportunities</h1>
+            <p>Search across titles, agencies, descriptions, and tracked terms</p>
+        </header>
+
+        <div class="search-box">
+            <input
+                type="text"
+                id="search-input"
+                placeholder="e.g., web, cloud, AI, defense..."
+                autocomplete="off"
+            />
+        </div>
+
+        <div id="search-stats"></div>
+        <ul id="search-results" class="results-list"></ul>
+    </div>
+
+    <script src="search.js"></script>
+</body>
+</html>

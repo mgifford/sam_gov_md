@@ -20,6 +20,7 @@ function normalizeRecord(raw) {
     PostedDate: raw.PostedDate || '',
     Link: raw.Link || '',
     AdditionalInfoLink: raw.AdditionalInfoLink || raw['AdditionalInfoLink'] || '',
+    Awardee: raw.Awardee || '',
     matches: raw.matches || [],
   }
 }
@@ -39,7 +40,26 @@ function renderTerms(topTerms) {
 
   topTerms.slice(0, 12).forEach(([term, count]) => {
     const li = document.createElement('li')
-    li.textContent = `${term}: ${count}`
+    const button = document.createElement('button')
+    button.type = 'button'
+    button.className = 'term-filter'
+    button.setAttribute('data-term', term)
+    button.style.cssText = `
+      background: none;
+      border: none;
+      color: #0369a1;
+      cursor: pointer;
+      text-align: left;
+      padding: 4px 0;
+      border-radius: 3px;
+      font-size: 14px;
+      font-family: inherit;
+      transition: background-color 0.15s;
+    `
+    button.onmouseover = function() { this.style.backgroundColor = '#f0f0f0' }
+    button.onmouseout = function() { this.style.backgroundColor = 'transparent' }
+    button.textContent = `${term}: ${count}`
+    li.appendChild(button)
     list.appendChild(li)
   })
 }
@@ -121,7 +141,7 @@ function renderAwardedCompanies(awardHistory) {
 
   const leaders = awardHistory.top_companies.slice(0, 12).map((row) => `
     <tr>
-      <td>${row.company}</td>
+      <td><button type="button" class="company-filter" data-company="${row.company}" style="background:none;border:none;color:#0369a1;cursor:pointer;text-align:left;padding:4px 0;border-radius:3px;font-size:14px;font-family:inherit;transition:background-color 0.15s;" onmouseover="this.style.backgroundColor='#f0f0f0'" onmouseout="this.style.backgroundColor='transparent'">${row.company}</button></td>
       <td>${row.awarded}</td>
     </tr>
   `)
@@ -135,7 +155,7 @@ function renderAwardedCompanies(awardHistory) {
   `)
 
   container.innerHTML = `
-    <p class="sub" style="margin-top: 0;">Top companies receiving awards and recent monthly award activity.</p>
+    <p class="sub" style="margin-top: 0;">Top companies receiving awards and recent monthly award activity. Click a company to view its contracts.</p>
     <div style="display:grid;grid-template-columns:2fr 1fr;gap:12px;">
       <div>
         <table>
@@ -305,8 +325,10 @@ async function main() {
 
 function containerHandlers(allRecords) {
   const table = document.getElementById('departmentTable')
+  const termsList = document.getElementById('terms')
   if (!table) return
 
+  // Department filter handler
   table.addEventListener('click', (event) => {
     const deptButton = event.target.closest('.dept-filter')
     if (deptButton) {
@@ -337,6 +359,58 @@ function containerHandlers(allRecords) {
       }
     }
   })
+
+  // Term filter handler
+  if (termsList) {
+    termsList.addEventListener('click', (event) => {
+      const termButton = event.target.closest('.term-filter')
+      if (termButton) {
+        event.preventDefault()
+        const term = termButton.getAttribute('data-term') || ''
+        if (!term) return
+        
+        // Filter records that have matches for this term
+        const filtered = allRecords.filter((row) => {
+          return (row.matches || []).some((m) => m.term.toLowerCase() === term.toLowerCase())
+        })
+        
+        renderTable(filtered, `Term filter: "${term}" (${filtered.length} matching opportunities)`)
+        
+        // Scroll to results
+        const recordsTable = document.getElementById('recordsTable')
+        if (recordsTable) {
+          recordsTable.scrollIntoView({ behavior: 'smooth', block: 'start' })
+        }
+      }
+    })
+  }
+
+  // Company filter handler
+  const awardedCompaniesContainer = document.getElementById('awardedCompanies')
+  if (awardedCompaniesContainer) {
+    awardedCompaniesContainer.addEventListener('click', (event) => {
+      const companyButton = event.target.closest('.company-filter')
+      if (companyButton) {
+        event.preventDefault()
+        const company = companyButton.getAttribute('data-company') || ''
+        if (!company) return
+        
+        // Filter records by awarded company (Awardee field)
+        const filtered = allRecords.filter((row) => {
+          const awardee = row.Awardee || row.awardee || ''
+          return awardee.toLowerCase() === company.toLowerCase()
+        })
+        
+        renderTable(filtered, `Awarded Company filter: "${company}" (${filtered.length} contracts awarded)`)
+        
+        // Scroll to results
+        const recordsTable = document.getElementById('recordsTable')
+        if (recordsTable) {
+          recordsTable.scrollIntoView({ behavior: 'smooth', block: 'start' })
+        }
+      }
+    })
+  }
 }
 
 main()
