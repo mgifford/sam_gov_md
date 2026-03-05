@@ -1,0 +1,14 @@
+# Welsh Allyn Vital Sign Monitors
+
+- Agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-03-04 09:43:28.662-05
+- Solicitation Number: IHS15623680
+
+## Summary
+
+23 each - Welch Allyn Connex Spot Monitor with SureBP Non-invasive Blood Pressure Masimo RRp Respiration Rate Technology Technology Braun ThermoScan 23 each - Welch Allyn Connex Spot Monitor Wall Channel 7000-GCX See statement of work for additional details
+
+## Links
+
+- SAM.gov: https://sam.gov/workspace/contract/opp/c510296f436f4a3f8d7e31532891a93a/view

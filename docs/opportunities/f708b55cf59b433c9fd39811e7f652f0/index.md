@@ -1,0 +1,14 @@
+# 58--ADAPTER,NIGHT VISIO, IN REPAIR/MODIFICATION OF
+
+- Agency: DEPT OF DEFENSE
+- Type: Justification
+- Posted: 2026-03-04 08:37:23.302-05
+- Solicitation Number: N0038326CAA10
+
+## Summary
+
+The Justification and Approval (J&A) authorizes and approves an exception to fair opportunity; basis as shown in Attachment 1.
+
+## Links
+
+- SAM.gov: https://sam.gov/workspace/contract/opp/f708b55cf59b433c9fd39811e7f652f0/view

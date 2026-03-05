@@ -1,0 +1,13 @@
+# Craney Island Aerial Mosquito and Herbicide Treatment
+
+- Agency: DEPT OF DEFENSE
+- Type: Special Notice
+- Posted: 2026-03-04 13:52:52.289-05
+
+## Summary
+
+US Army Corps of Engineers�Norfolk District has determined a consolidation of contract requirements is necessary and justified for the Craney Island Mosquito and Herbicide Treatment Services requirement. Please see attached Determination for justification.
+
+## Links
+
+- SAM.gov: https://sam.gov/workspace/contract/opp/078b793f2ea54f729c029a7767b6041f/view

@@ -1,0 +1,14 @@
+# ARB/BAS CLEANING Janitorial Services for USDA APHIS NWRC
+
+- Agency: AGRICULTURE, DEPARTMENT OF
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-03-04 12:52:56.731-05
+- Solicitation Number: 12639526Q0026
+
+## Summary
+
+Amendment 0001 - This amendement includes vendor-submitted questions during the open soliciation and the Government's official responses. No changes to requirement were made. Amendment 0002 - This amendment includes an updated answer to the question - Mandatory walkthrough? Is there a planned visit? This vendor-submitted question is during the open soliciation and the governments official responses. No changes to requirement were made. Amendment 0003 - The purpose of this amendment is to: Attach Service Contract Act WD #11150. See �Attachment 3 Wage Rates.� Removed the �Evaluation and Basis for Award� paragraph on page five (5) of �Part 12 Combined Synopsis_Solicitation�. This Amendment clarifies that the basis for award is already established as Lowest Price Technically Acceptable (LPTA) under the Evaluation Method section on page six (6). Extend the required response date/time to Friday, March 6, 2026 10:00am EST. Acknowledgement of Amendments is not required. This is a combined synopsis/solicitation for commercial items prepared in accordance with the format in FAR Part 12. This announcement constitutes the only solicitation; offers are being requested, and a separate written solicitation will not be issued. Solicitation number 12639526Q0026 is issued as a Request for Quotation (RFQ). The U.S. Department of Agriculture Animal Plant Health Inspection Services (APHIS) intends to award a firm fixed- price Base plus two (2) option years contract for janitorial service for the National Wildlife Research Center (NWRC) facility in Fort Collins, Colorado. Pricing includes all costs necessary to accomplish the services in the statement of work. This acquisition is set aside exclusively for small business concerns. This solicitation incorporates provisions and clauses by reference. The full text of provisions and clauses may be accessed electronically at www.acquisition.gov. The applicable North American Industry Classification Standard Code is 561720 - Janitorial Services The small business size standard is $22 Million. This acquisition is a Total Small Business Set-Aside. All responsible sources may submit a quotation which will be considered by the agency. See �Attachment 1 � Solicitation Terms and Conditions� for applicable clauses, instructions, and evaluation criteria.
+
+## Links
+
+- SAM.gov: https://sam.gov/workspace/contract/opp/4de5cb7e8d8f40209bfa0191d7d29ada/view

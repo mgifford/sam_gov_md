@@ -1,0 +1,14 @@
+# Industrial Press Equipment
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-03-04 08:03:43.297-05
+- Solicitation Number: W911S226U2700
+
+## Summary
+
+Amended to change NAICS Industrial Press Equipment. Recompete from W911S226U2637.
+
+## Links
+
+- SAM.gov: https://sam.gov/workspace/contract/opp/a50bfbeb276e4b6b9cbc002894d72a05/view

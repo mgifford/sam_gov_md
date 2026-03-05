@@ -125,6 +125,117 @@ def build_department_breakdown(records: list[dict[str, Any]]) -> list[dict[str, 
     return sorted(by_agency.values(), key=lambda item: item["total"], reverse=True)
 
 
+def build_date_breakdown(records: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    by_date: dict[str, dict[str, int]] = {}
+    for row in records:
+        posted_date = normalize_date(row.get("PostedDate", ""))
+        if not posted_date:
+            continue
+        bucket = by_date.setdefault(
+            posted_date,
+            {"date": posted_date, "total": 0, "opportunities": 0, "awarded": 0},
+        )
+        bucket["total"] += 1
+        if is_win(row):
+            bucket["awarded"] += 1
+        else:
+            bucket["opportunities"] += 1
+    return sorted(by_date.values(), key=lambda item: item["date"], reverse=True)
+
+
+def build_award_company_history(all_rows: list[dict[str, Any]]) -> dict[str, Any]:
+    awardee_counts: Counter[str] = Counter()
+    by_month: dict[str, dict[str, Any]] = {}
+
+    for row in all_rows:
+        if not is_win(row):
+            continue
+        awardee = (row.get("Awardee") or "").strip()
+        if not awardee:
+            continue
+        awardee_counts[awardee] += 1
+
+        award_date = normalize_date(row.get("AwardDate", "") or row.get("PostedDate", ""))
+        if not award_date:
+            continue
+        month_key = award_date[:7]
+        bucket = by_month.setdefault(
+            month_key,
+            {"month": month_key, "awarded": 0, "companies": set()},
+        )
+        bucket["awarded"] += 1
+        bucket["companies"].add(awardee)
+
+    monthly = sorted(
+        [
+            {
+                "month": item["month"],
+                "awarded": item["awarded"],
+                "unique_companies": len(item["companies"]),
+            }
+            for item in by_month.values()
+        ],
+        key=lambda row: row["month"],
+        reverse=True,
+    )
+
+    leaders = [
+        {"company": company, "awarded": count}
+        for company, count in awardee_counts.most_common(25)
+    ]
+
+    return {
+        "total_companies": len(awardee_counts),
+        "top_companies": leaders,
+        "monthly": monthly[:18],
+    }
+
+
+def write_markdown_opportunities(records: list[dict[str, Any]], output_dir: Path) -> int:
+    opportunities_dir = output_dir / "opportunities"
+    opportunities_dir.mkdir(parents=True, exist_ok=True)
+    written = 0
+
+    for row in records:
+        notice_id = (row.get("NoticeId") or "").strip()
+        if not notice_id:
+            continue
+
+        doc_dir = opportunities_dir / notice_id
+        doc_dir.mkdir(parents=True, exist_ok=True)
+
+        title = (row.get("Title") or "Untitled Opportunity").strip()
+        agency = (row.get("Department/Ind.Agency") or "Unknown Agency").strip()
+        notice_type = (row.get("Type") or "Unknown Type").strip()
+        posted = (row.get("PostedDate") or "").strip()
+        sol_number = (row.get("Sol#") or "").strip()
+        description = (row.get("Description") or "").strip()
+        sam_link = (row.get("Link") or "").strip()
+        pdf_link = (row.get("AdditionalInfoLink") or "").strip()
+
+        markdown_lines = [
+            f"# {title}",
+            "",
+            f"- Agency: {agency}",
+            f"- Type: {notice_type}",
+            f"- Posted: {posted}",
+        ]
+        if sol_number:
+            markdown_lines.append(f"- Solicitation Number: {sol_number}")
+
+        markdown_lines.extend(["", "## Summary", "", description or "No summary provided."])
+        markdown_lines.extend(["", "## Links", ""])
+        if sam_link:
+            markdown_lines.append(f"- SAM.gov: {sam_link}")
+        if pdf_link:
+            markdown_lines.append(f"- PDF / Additional Info: {pdf_link}")
+
+        (doc_dir / "index.md").write_text("\n".join(markdown_lines), encoding="utf-8")
+        written += 1
+
+    return written
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(
         description="Process SAM.gov opportunities/wins for a target date"
@@ -150,16 +261,22 @@ def main() -> None:
 
     terms = load_terms(Path(args.terms))
 
-    response = requests.get(args.source_url, stream=True, timeout=90)
-    response.raise_for_status()
-    lines = (line.decode("utf-8", "replace") for line in response.iter_lines() if line)
-    reader = csv.DictReader(lines)
+    if args.source_url.startswith(("http://", "https://")):
+        response = requests.get(args.source_url, stream=True, timeout=90)
+        response.raise_for_status()
+        lines = (line.decode("utf-8", "replace") for line in response.iter_lines() if line)
+        reader = csv.DictReader(lines)
+        all_rows = [row for row in reader]
+    else:
+        with open(args.source_url, "r", encoding="latin-1") as f:
+            reader = csv.DictReader(f)
+            all_rows = [row for row in reader]
 
     target_records: list[dict[str, str]] = []
     latest_date = ""
     latest_records: list[dict[str, str]] = []
 
-    for row in reader:
+    for row in all_rows:
         posted = normalize_date(row.get("PostedDate", ""))
         if not posted:
             continue
@@ -186,6 +303,8 @@ def main() -> None:
     opportunities = [row for row in records if not is_win(row)]
     type_counts = Counter((row.get("Type") or "Unknown Type").strip() for row in records)
     department_breakdown = build_department_breakdown(records)
+    date_breakdown = build_date_breakdown(records)
+    award_company_history = build_award_company_history(all_rows)
 
     per_record_matches: list[dict[str, Any]] = []
     total_term_counts: Counter[str] = Counter()
@@ -211,7 +330,11 @@ def main() -> None:
             )
 
     per_record_matches.sort(
-        key=lambda row: sum(match["count"] for match in row["matches"]), reverse=True
+        key=lambda row: (
+            normalize_date(row.get("PostedDate", "")),
+            sum(match["count"] for match in row["matches"]),
+        ),
+        reverse=True,
     )
 
     ollama_results: list[dict[str, Any]] = []
@@ -245,11 +368,14 @@ def main() -> None:
         "records_total": len(records),
         "opportunities_total": len(opportunities),
         "wins_total": len(wins),
+        "awarded_total": len(wins),
         "departments_total": len(department_breakdown),
         "top_terms": total_term_counts.most_common(20),
         "category_counts": category_counts.most_common(),
         "type_breakdown": type_counts.most_common(),
         "department_breakdown": department_breakdown,
+        "date_breakdown": date_breakdown,
+        "award_company_history": award_company_history,
         "top_matching_records": per_record_matches[:30],
     }
 
@@ -300,6 +426,11 @@ def main() -> None:
     (docs_data_dir / "today_departments.json").write_text(
         json.dumps(department_breakdown, indent=2), encoding="utf-8"
     )
+    (docs_data_dir / "today_records.json").write_text(
+        json.dumps(records, indent=2), encoding="utf-8"
+    )
+
+    markdown_written = write_markdown_opportunities(records, docs_data_dir.parent)
 
     print(f"Requested date: {args.target_date}")
     print(f"Effective date: {effective_date}")
@@ -307,6 +438,7 @@ def main() -> None:
     print(f"Total records: {len(records)}")
     print(f"Opportunities: {len(opportunities)}")
     print(f"Wins: {len(wins)}")
+    print(f"Markdown docs written: {markdown_written}")
     print(f"Wrote outputs to {output_dir}")
     print(f"Wrote docs data to {docs_data_dir}")
 

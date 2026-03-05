@@ -11,6 +11,24 @@ function setText(id, text) {
   if (node) node.textContent = text
 }
 
+function normalizeRecord(raw) {
+  return {
+    NoticeId: raw.NoticeId || '',
+    Type: raw.Type || '',
+    Title: raw.Title || '',
+    Agency: raw.Agency || raw['Department/Ind.Agency'] || '',
+    PostedDate: raw.PostedDate || '',
+    Link: raw.Link || '',
+    AdditionalInfoLink: raw.AdditionalInfoLink || raw['AdditionalInfoLink'] || '',
+    matches: raw.matches || [],
+  }
+}
+
+function isPdfLink(link) {
+  const value = (link || '').toLowerCase()
+  return value.includes('.pdf') || value.includes('rfq')
+}
+
 function renderTerms(topTerms) {
   const list = document.getElementById('terms')
   list.innerHTML = ''
@@ -66,9 +84,11 @@ function renderDepartmentTable(departments) {
   }
 
   const rows = departments.slice(0, 25).map((row) => {
+    const dept = row.department || ''
+    const isDod = dept.toLowerCase().includes('defense')
     return `
       <tr>
-        <td>${row.department || ''}</td>
+        <td><button type="button" class="dept-filter" data-dept="${dept}" style="background:none;border:none;color:#0969da;cursor:pointer;padding:0;text-align:left;${isDod ? 'font-weight:700;' : ''}">${dept}</button>${isDod ? ' <span style="font-size:12px;color:#59636e;">(DoD)</span>' : ''}</td>
         <td>${row.total || 0}</td>
         <td>${row.opportunities || 0}</td>
         <td>${row.wins || 0}</td>
@@ -88,10 +108,56 @@ function renderDepartmentTable(departments) {
       </thead>
       <tbody>${rows.join('')}</tbody>
     </table>
+    <p class="sub" style="margin-top:10px;"><button type="button" id="showAllDepts" style="background:none;border:none;color:#0969da;cursor:pointer;padding:0;">Show all departments</button></p>
   `
 }
 
-function renderTable(records) {
+function renderAwardedCompanies(awardHistory) {
+  const container = document.getElementById('awardedCompanies')
+  if (!awardHistory || !awardHistory.top_companies || !awardHistory.top_companies.length) {
+    container.innerHTML = '<p class="empty">No awarded company data available.</p>'
+    return
+  }
+
+  const leaders = awardHistory.top_companies.slice(0, 12).map((row) => `
+    <tr>
+      <td>${row.company}</td>
+      <td>${row.awarded}</td>
+    </tr>
+  `)
+
+  const months = (awardHistory.monthly || []).slice(0, 6).map((row) => `
+    <tr>
+      <td>${row.month}</td>
+      <td>${row.awarded}</td>
+      <td>${row.unique_companies}</td>
+    </tr>
+  `)
+
+  container.innerHTML = `
+    <p class="sub" style="margin-top: 0;">Top companies receiving awards and recent monthly award activity.</p>
+    <div style="display:grid;grid-template-columns:2fr 1fr;gap:12px;">
+      <div>
+        <table>
+          <thead>
+            <tr><th>Company</th><th>Awarded</th></tr>
+          </thead>
+          <tbody>${leaders.join('')}</tbody>
+        </table>
+      </div>
+      <div>
+        <table>
+          <thead>
+            <tr><th>Month</th><th>Awarded</th><th>Companies</th></tr>
+          </thead>
+          <tbody>${months.join('')}</tbody>
+        </table>
+      </div>
+    </div>
+  `
+}
+
+function renderTable(records, heading = '') {
   const container = document.getElementById('recordsTable')
   if (!records.length) {
     container.innerHTML = '<p class="empty">No matching records for this date.</p>'
@@ -100,29 +166,39 @@ function renderTable(records) {
 
   const rows = records.slice(0, 20).map((record) => {
     const terms = (record.matches || []).slice(0, 3).map((m) => `${m.term}(${m.count})`).join(', ')
-    const link = record.Link
-      ? `<a href="${record.Link}" target="_blank" rel="noreferrer">View</a>`
+    const markdownLink = record.NoticeId
+      ? `<a href="opportunities/${record.NoticeId}/index.md" target="_blank" rel="noreferrer">Markdown</a>`
       : ''
+    const pdfLink = isPdfLink(record.AdditionalInfoLink)
+      ? `<a href="${record.AdditionalInfoLink}" target="_blank" rel="noreferrer">PDF</a>`
+      : ''
+    const samLink = record.Link
+      ? `<a href="${record.Link}" target="_blank" rel="noreferrer">SAM.gov</a>`
+      : ''
+    const posted = (record.PostedDate || '').slice(0, 10)
     return `
       <tr>
         <td>${record.Type || ''}</td>
         <td>${record.Title || ''}</td>
         <td>${record.Agency || ''}</td>
+        <td>${posted}</td>
         <td>${terms}</td>
-        <td>${link}</td>
+        <td>${[markdownLink, pdfLink, samLink].filter(Boolean).join(' · ')}</td>
       </tr>
     `
   })
 
   container.innerHTML = `
+    ${heading ? `<p class="sub" style="margin-top:0;">${heading}</p>` : ''}
     <table>
       <thead>
         <tr>
           <th>Type</th>
           <th>Title</th>
           <th>Agency</th>
+          <th>Posted</th>
           <th>Terms</th>
-          <th>Link</th>
+          <th>Links (Markdown first)</th>
         </tr>
       </thead>
       <tbody>${rows.join('')}</tbody>
@@ -193,10 +269,14 @@ function renderGraph(graphData) {
 
 async function main() {
   try {
-    const [summary, relationships] = await Promise.all([
+    const [summary, relationships, allRecordsRaw] = await Promise.all([
       loadJson('data/today_summary.json'),
       loadJson('data/today_relationships.json'),
+      loadJson('data/today_records.json'),
     ])
+
+    const allRecords = (allRecordsRaw || []).map((row) => normalizeRecord(row))
+    const matchedRecords = (summary.top_matching_records || []).map((row) => normalizeRecord(row))
 
     const msg = summary.used_fallback_latest
       ? `Requested ${summary.requested_date}, no records found. Showing latest available date: ${summary.effective_date}.`
@@ -204,20 +284,43 @@ async function main() {
     setText('dateInfo', msg)
     setText('total', String(summary.records_total || 0))
     setText('opps', String(summary.opportunities_total || 0))
-    setText('wins', String(summary.wins_total || 0))
+    setText('wins', String(summary.awarded_total || summary.wins_total || 0))
     setText('departments', String(summary.departments_total || 0))
 
-    const topTerm = (summary.top_terms && summary.top_terms[0] && summary.top_terms[0][0]) || 'None'
-    setText('topTerm', topTerm)
+    const popularTerms = (summary.top_terms || []).slice(0, 3).map(([term]) => term)
+    setText('topTerm', popularTerms.length ? popularTerms.join(', ') : 'None')
 
     renderTypeBreakdown(summary.type_breakdown || [], summary.records_total || 0)
     renderDepartmentTable(summary.department_breakdown || [])
+    renderAwardedCompanies(summary.award_company_history || {})
     renderTerms(summary.top_terms || [])
-    renderTable(summary.top_matching_records || [])
+    renderTable(matchedRecords.length ? matchedRecords : allRecords, 'Showing highest-signal records (by tracked terms).')
     renderGraph(relationships)
+
+    containerHandlers(allRecords, summary.department_breakdown || [])
   } catch (error) {
     setText('dateInfo', `Failed to load dashboard data: ${error.message}`)
   }
+}
+
+function containerHandlers(allRecords) {
+  const table = document.getElementById('departmentTable')
+  if (!table) return
+
+  table.addEventListener('click', (event) => {
+    const deptButton = event.target.closest('.dept-filter')
+    if (deptButton) {
+      const department = deptButton.getAttribute('data-dept') || ''
+      const filtered = allRecords.filter((row) => (row.Agency || '') === department)
+      renderTable(filtered, `Department filter: ${department}`)
+      return
+    }
+
+    const resetButton = event.target.closest('#showAllDepts')
+    if (resetButton) {
+      renderTable(allRecords, 'Showing all records for this publication date.')
+    }
+  })
 }
 
 main()

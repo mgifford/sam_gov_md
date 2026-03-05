@@ -1,0 +1,14 @@
+# KHC Security Guard Shack Modifications
+
+- Agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-03-04 14:19:56-05
+- Solicitation Number: IHS1523318
+
+## Summary
+
+The Indian Health Service, Kayenta Service Unit is issuing this sources-sought synopsis as a means of conducting market research (FAR 10.001) in identifying prospective sources to fill a government requirement for modification of existing 6� by 10� Guardian Booth. THIS IS NOT A SOLICITATION. Information collected from this notice is purely for market research only and will be used to determine the contracting office�s acquisition strategy including competition, set asides, and locating Indian-owned economic enterprises. Submission of any information in response to this market survey is purely voluntary. The government assumes no financial responsibility for any costs incurred in response to this request for information. In accordance with FAR 4.1102(a), offerors and quoters are required to be registered in System for Award Management at SAM.gov, at the time an offer or quotation is submitted in order to comply with the annual representations and certifications requirements. Submission Instructions: Interested parties who consider themselves qualified to perform the above-listed services are invited to submit a response to this notice by March 16, 2026 @ 10:00 am (MST) to Daisha Richards at Daisha.Richards@ihs.gov with the subject line �SSN � KHC Modification of security Booth, IHS1523318� Your submission must include the following information, at a minimum: Company Profile that includes: UEI, Name and Address, Primary POC information, business size and type of ownership, socio-economic status/participation such as 8(a), WOSB/EDWOSB, SDVOSB and HUBZone, identification of Native American ownership (if applicable), SAM.gov representations and certifications, and other related documentation. A brief statement of the company�s capability that relates to the described government requirement. Additional demonstration of capability may include current and past performance history for the same or similar requirement, established contracts such as GSA or VA Schedule, etc. If claiming Indian-owned Small Business Economic Enterprise (ISBEE) or Indian-owned Economic Enterprise (IEE), submit completed IHS IEE Representation Form (attached). Telephone inquiries will not be accepted or acknowledged, and no feedback or evaluations will be provided to companies regarding their submissions.
+
+## Links
+
+- SAM.gov: https://sam.gov/workspace/contract/opp/ba0c9c00ad1b41f9b4857e5e7cc06c20/view

@@ -1,0 +1,14 @@
+# Atovaquone-Proguanil
+
+- Agency: DEPT OF DEFENSE
+- Type: Award Notice
+- Posted: 2026-03-04 09:22:55.122-05
+- Solicitation Number: SPE2D224D0005
+
+## Summary
+
+Modification SPE2D224D0005 P00003 to exercise Option Year 2 effective April 4, 2026 through April 3, 2027. Modification SPE2D224D0005 P00002 is modified in accordance with DoD Class Deviation 2025-O0003. Modification SPE2D224D0005 P00001 to exercise Option Year 1 effective April 4, 2025 through April 3, 2026. Atovaquone National Contract SPE2D2-24-D-0005
+
+## Links
+
+- SAM.gov: https://sam.gov/workspace/contract/opp/f1abaa8c7320409b8fe6460265139052/view

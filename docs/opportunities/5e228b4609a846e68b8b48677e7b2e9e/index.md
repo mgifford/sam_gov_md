@@ -1,0 +1,14 @@
+# B-25 Shipping Boxes NBPL
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-03-04 09:25:46.258-05
+- Solicitation Number: N3904026Q5425
+
+## Summary
+
+***THIS OPPORTUNITY HAS BEEN AMENDED TO UPDATE THE SOW*** ***THIS OPPORTUNITY HAS BEEN AMENDED TO ADD A Q&A AND EXTEND THE POSTING*** This is a combined synopsis/solicitation for commercial products or commercial services prepared in accordance with the format in subpart 12.6, as supplemented with additional information included in this notice. This announcement constitutes the only solicitation; proposals are being requested and a written solicitation will not be issued Paper copies of this solicitation will not be available. This combined synopsis/solicitation SHALL be posted on SAM.gov. This solicitation documents and incorporates provisions and clauses in effect through FAC 2025-06 and DFARS Change Notice 2025-1110. It is the responsibility of the contractor to be familiar with the applicable clauses and provisions. The clauses may be accessed in full text at these addresses: https://www.acquisition.gov/browse/index/far and http://www.acq.osd.mil/dpap/dars/change_notices.html. The NAICS code is 332439. The business size standard is 600 Employees. This is a 100% Small Business Set-Aside solicitation. The Portsmouth Naval Shipyard requests responses from sources capable in accordance with RFQ #N3904026Q5425. See attached RFQ for details. Required Delivery Date: 4/01/2026 (ASAP) Place of performance is: Naval Base Point Loma, San Diego, CA 92106 For evaluation purposes, please provide any applicable procedures and technical information. If no information is provided, your quotation may be determined to be unresponsive. Award may be made on the basis of adherence to the schedule and/or soonest mobilization. PPIRS/CPARS information will be utilized to evaluate Past Performance. Please provide breakdown of total prices, if applicable, for Price Justification purposes. The Contracting Officer will utilize any available information, public or otherwise, to evaluate Vendor Responsibility. See RFQ for Applicable Clauses, and Attachment 1 for technical specification.
+
+## Links
+
+- SAM.gov: https://sam.gov/workspace/contract/opp/5e228b4609a846e68b8b48677e7b2e9e/view

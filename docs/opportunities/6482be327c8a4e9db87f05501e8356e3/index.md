@@ -1,0 +1,14 @@
+# 61--CABLE ASSEMBLY,SPECIAL
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-03-04 14:16:00.557-05
+- Solicitation Number: SPE4A726T045A
+
+## Summary
+
+Proposed procurement for NSN 6150013142892 CABLE ASSEMBLY,SPECIAL: Line 0001 Qty 51 UI EA Deliver To: By: 0158 DAYS ADO This is a source controlled drawing item. Approved sources are 09526 AA4027-1; 24735 AA4027-1. The solicitation is an RFQ and will be available at the link provided in this notice. Hard copies of this solicitation are not available. The items furnished must meet the requirements of the drawing cited in the solicitation. Digitized drawings and Military Specifications and Standards may be retrieved, or ordered, electronically. All responsible sources may submit a quote which, if timely received, shall be considered. Quotes must be submitted electronically.
+
+## Links
+
+- SAM.gov: https://sam.gov/workspace/contract/opp/6482be327c8a4e9db87f05501e8356e3/view

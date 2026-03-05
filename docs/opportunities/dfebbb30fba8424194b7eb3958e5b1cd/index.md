@@ -1,0 +1,14 @@
+# 41--FAN,VANEAXIAL
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-03-04 03:04:44.824-05
+- Solicitation Number: SPE8E926T1601
+
+## Summary
+
+Proposed procurement for NSN 4140005548209 FAN,VANEAXIAL: Line 0001 Qty 4 UI EA Deliver To: W1A8 DLA DISTRIBUTION By: 0167 DAYS ADO This is a qualified products list (QPL) item. The solicitation is an RFQ and will be available at the link provided in this notice. Hard copies of this solicitation are not available. Military Specifications and Standards may be retrieved, or ordered, electronically. All responsible sources may submit a quote which, if timely received, shall be considered. Quotes must be submitted electronically.
+
+## Links
+
+- SAM.gov: https://sam.gov/workspace/contract/opp/dfebbb30fba8424194b7eb3958e5b1cd/view

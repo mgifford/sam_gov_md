@@ -1,0 +1,14 @@
+# Justification for Other Than Full and Open Competition Local Employee Health Insurance
+
+- Agency: STATE, DEPARTMENT OF
+- Type: Justification
+- Posted: 2026-03-04 21:46:45.761-05
+- Solicitation Number: 19TH2026D0002
+
+## Summary
+
+Justification to solicit and award on a sole-source basis a contract to Dhipaya Insurance Public. This contract is for health insurance services for local staff employees at US Mission Thailand.
+
+## Links
+
+- SAM.gov: https://sam.gov/workspace/contract/opp/a0ec8de4c0cc4a0bb817e8111df30505/view

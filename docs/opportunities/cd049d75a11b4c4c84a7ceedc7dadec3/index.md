@@ -1,0 +1,14 @@
+# Y1NZ--659-24-903 | Steam Line Replacement | Salisbury VAMC
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Presolicitation
+- Posted: 2026-03-04 10:32:50.492-05
+- Solicitation Number: 36C24626B0016
+
+## Summary
+
+PRESOLICITATION NOTICE Project # 659-24-903 Steam Line Replacement Department of Veterans Affairs has a need to maintain the existing infrastructure of the facility, which includes the steam that supplies the facilities heating of spaces and items. The Veteran Affairs Medical Center is pursuing a project to replace the existing steam lines across the campus. Contractor shall completely prepare site for building operations, including demolition and removal of existing structures, and furnish labor and materials and perform work for Project 659-24-904: Salisbury Steam Line Replacement as required by drawings and specifications. Estimated construction duration is 365 days. Additionally, the contractor will provide one (1) year of construction warranty. The construction duration will remain at 365 days with the acceptance of bid items 1 and 2, as these items would be performed in conjunction with other construction. Estimated construction magnitude is between $2,000,000 and $5,000,000. NAICS CODE: 238220 Size Standard: $19 Million This solicitation is anticipated to be a Total Service Disabled Veteran Owned Small Business Set-Aside. Solicitation material will be available on/about March 18, 2026. Any specifications, drawings and amendments will be posted on this web site. Proposals will be due approximately 30 days after issuance of the solicitation. Location and points of contact for site visits will be identified in the solicitation. This notice is for informational purposes only and is not a request for bids. The Government is not obligated to issue a solicitation as a result of this notice. No other information is available until issuance of the solicitation. No bidders list is maintained. All interested vendors should register on this website. It is the bidders responsibility to check the web site periodically for any amendments/notices to the solicitation. Prospective contractors must be registered in the System for Award Management (SAM) database and be registered as a SDVOSB with the SBA DSBS in order to be eligible for contract award. Contractors please note: Online Representations and Certifications Applications (ORCA) apply to this solicitation. With ORCA; you now have the availability to enter and maintain your reps and certs with your proposal. Any questions regarding this announcement and all future announcements regarding this project must be emailed to sean.cosby@va.gov . NO TELEPHONE REQUEST FOR BIDDING MATERIAL WILL BE ACCEPTED
+
+## Links
+
+- SAM.gov: https://sam.gov/workspace/contract/opp/cd049d75a11b4c4c84a7ceedc7dadec3/view
