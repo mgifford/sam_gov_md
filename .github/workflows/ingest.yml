@@ -1,6 +1,10 @@
 name: Daily SAM.gov ingest
 
 on:
+  # Run daily at 8 AM ET
+  schedule:
+    - cron: '0 12 * * *'  # 12 UTC = 8 AM ET
+  # Allow manual trigger
   workflow_dispatch:
 
 permissions:
