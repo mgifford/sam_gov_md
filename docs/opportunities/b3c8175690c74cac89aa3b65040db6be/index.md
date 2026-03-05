@@ -1,3 +1,11 @@
+---
+layout: default
+title: High-Speed Flight Data Acquisition Printed Circuit Board Assembly
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: b3c8175690c74cac89aa3b65040db6be
+---
+
 # High-Speed Flight Data Acquisition Printed Circuit Board Assembly
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,13 @@
 ## Summary
 
 High-Speed Flight Data Acquisition Printed Circuit Board Assembly
+
+## Contacts
+
+- Primary Contact:
+  - Name: Jessica Kelley
+  - Email: jessica.l.kelley24.civ@army.mil
+  - Phone: 8452398263
 
 ## Links
 

@@ -1,3 +1,11 @@
+---
+layout: default
+title: Neutron Irradiation Geochronology
+agency: INTERIOR, DEPARTMENT OF THE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 47e3c1ca969a475f939ed0f152571e7a
+---
+
 # Neutron Irradiation Geochronology
 
 - Agency: INTERIOR, DEPARTMENT OF THE
@@ -8,6 +16,13 @@
 ## Summary
 
 Neutron Irradiation Geochronology
+
+## Contacts
+
+- Primary Contact:
+  - Name: Berberena, Joel
+  - Email: jberberena@usgs.gov
+  - Phone: 0000000000
 
 ## Links
 

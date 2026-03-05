@@ -1,3 +1,11 @@
+---
+layout: default
+title: NUWCDIVNPT Hull Demolition Project
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: bf9f18171bd8447c896e7b61f00952fa
+---
+
 # NUWCDIVNPT Hull Demolition Project
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,12 @@
 ## Summary
 
 Please see N6660426Q0125 and attachments for complete requirement details. Please see Amendment 0001 attached.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Michael Ouellette
+  - Email: michael.n.ouellette.civ@us.navy.mil
 
 ## Links
 

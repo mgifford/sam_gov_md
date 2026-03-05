@@ -1,13 +1,29 @@
+---
+layout: default
+title: 59--CONNECTOR,PLUG,ELEC
+agency: DEPT OF DEFENSE
+notice_type: Award Notice
+notice_id: f06fb0a77c1147b993f4e739b6a945f1
+---
+
 # 59--CONNECTOR,PLUG,ELEC
 
 - Agency: DEPT OF DEFENSE
 - Type: Award Notice
 - Posted: 2026-03-04 16:08:12.198-05
 - Solicitation Number: SPE7M126U1231
+- Awardee: SPACECRAFT COMPONENTS CORP
+- Award Amount: 350000.00
 
 ## Summary
 
 Indefinite Delivery Contract: Estimated quantity 29.000 ; Not to Exceed 350,000.00
+
+## Contacts
+
+- Primary Contact:
+  - Name: JACOB HAMILTON614-693-4080
+  - Email: JACOB.HAMILTON@DLA.MIL
 
 ## Links
 

@@ -1,3 +1,11 @@
+---
+layout: default
+title: REPLACE CONDUIT AND WIRING FOR STREET LIGHTS, BUILDING 370, DAM NECK ANNEX
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: d764f3ac379f408e86050ee7a45e1bd0
+---
+
 # REPLACE CONDUIT AND WIRING FOR STREET LIGHTS, BUILDING 370, DAM NECK ANNEX
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,13 @@
 ## Summary
 
 The project site is located at Dam Neck, Building 372. The Contractor shall utilize directional boring to restore power to (QTY 16) street lights; provide and install appropriate gauge wire from all inoperable streetlights (QTY 16) to electrical panel utilizing directional boring (Approximately 2000 LF); demolish all light poles that have deteriorated and otherwise unusable (QTY 16); provide and install new light poles; make all necessary wire connections for proper operation of connected components; re-energize all electrical power and test lights for proper operation. ONLY CONTRACTORS IN MACC GROUP ID: ML-C00075 CAN BID ON THIS PROJECT.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Abigail Reed
+  - Email: abigail.m.reed13.civ@us.navy.mil
+  - Phone: 7574331029
 
 ## Links
 

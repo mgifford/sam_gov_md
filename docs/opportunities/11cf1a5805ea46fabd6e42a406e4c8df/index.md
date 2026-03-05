@@ -1,3 +1,11 @@
+---
+layout: default
+title: Emergency Management Support Services
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 11cf1a5805ea46fabd6e42a406e4c8df
+---
+
 # Emergency Management Support Services
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,13 @@
 ## Summary
 
 SOURCES SOUGHT NOTICE W9127826RA045 (see attached)
+
+## Contacts
+
+- Primary Contact:
+  - Name: Jeffery Mason
+  - Email: jeffery.j.mason@usace.army.mil
+  - Phone: 2516944157
 
 ## Links
 

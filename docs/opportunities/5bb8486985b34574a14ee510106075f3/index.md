@@ -1,3 +1,11 @@
+---
+layout: default
+title: Z--GAOA BAR ISLAND DAM RECONSTRUCTION
+agency: INTERIOR, DEPARTMENT OF THE
+notice_type: Sources Sought
+notice_id: 5bb8486985b34574a14ee510106075f3
+---
+
 # Z--GAOA BAR ISLAND DAM RECONSTRUCTION
 
 - Agency: INTERIOR, DEPARTMENT OF THE
@@ -8,6 +16,13 @@
 ## Summary
 
 This is a Sources Sought Announcement for the Bar Island Dam Reconstruction project located in Phillips County, Montana. See attachments for details.
+
+## Contacts
+
+- Primary Contact:
+  - Name: McKeon, Lisa
+  - Email: lmckeon@blm.gov
+  - Phone: 0000000000
 
 ## Links
 

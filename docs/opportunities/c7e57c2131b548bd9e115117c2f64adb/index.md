@@ -1,3 +1,11 @@
+---
+layout: default
+title: MHE Forklift
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: c7e57c2131b548bd9e115117c2f64adb
+---
+
 # MHE Forklift
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,16 @@
 ## Summary
 
 MHE Forklift. See attached PWS.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Tyler Hoyt
+  - Email: tyler.d.hoyt.mil@army.mil
+  - Phone: 9137752143
+- Secondary Contact:
+  - Name: Franklin Godinez
+  - Email: franklin.godinez2.civ@army.mil
 
 ## Links
 

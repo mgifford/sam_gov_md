@@ -1,3 +1,11 @@
+---
+layout: default
+title: Radio frequency (RF) Delivered Effects Platform � Man Pack 2.0 (RDEP-MP2)
+agency: DEPT OF DEFENSE
+notice_type: Special Notice
+notice_id: 858f0bb8df7a4a56a4758df4951bb35b
+---
+
 # Radio frequency (RF) Delivered Effects Platform � Man Pack 2.0 (RDEP-MP2)
 
 - Agency: DEPT OF DEFENSE

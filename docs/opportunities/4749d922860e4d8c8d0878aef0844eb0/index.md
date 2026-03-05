@@ -1,3 +1,11 @@
+---
+layout: default
+title: PARTS KIT, CENTRIFUGAL PUMP
+agency: HOMELAND SECURITY, DEPARTMENT OF
+notice_type: Combined Synopsis/Solicitation
+notice_id: 4749d922860e4d8c8d0878aef0844eb0
+---
+
 # PARTS KIT, CENTRIFUGAL PUMP
 
 - Agency: HOMELAND SECURITY, DEPARTMENT OF
@@ -8,6 +16,16 @@
 ## Summary
 
 This is a combined synopsis/solicitation 0f the United States Coast Guard's intent to award 70Z04026Q50227B000 as a Brand Name purchase of One Hundred (100) each, PARTS KIT, P/N 3972366, NSN 4320-01-567-7024. Vessel: 47� MLB. This determination is in accordance with 13.106-1(b) Only one brand and no other supplies or services will satisfy agency requirements. For more information on the circumstances please reference the attached JOTFOC. This announcement constitutes the only solicitation; quotes are being requested and a separate written solicitation will not be issued.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Erica Perry
+  - Email: erica.l.perry@uscg.mil
+  - Phone: 4106366601
+- Secondary Contact:
+  - Name: Bryan Duffey
+  - Email: Bryan.A.Duffey@uscg.mil
 
 ## Links
 

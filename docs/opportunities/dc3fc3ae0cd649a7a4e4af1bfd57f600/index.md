@@ -1,3 +1,11 @@
+---
+layout: default
+title: J&A for Bridge Contract for Indefinite Delivery/ Indefinite Quantity Contract for Architect-Engineer Services for Various Mechanical Engineering Projects and Related Projects, Various Locations Under the Cognizance of NAVFAC Hawaii
+agency: DEPT OF DEFENSE
+notice_type: Justification
+notice_id: dc3fc3ae0cd649a7a4e4af1bfd57f600
+---
+
 # J&A for Bridge Contract for Indefinite Delivery/ Indefinite Quantity Contract for Architect-Engineer Services for Various Mechanical Engineering Projects and Related Projects, Various Locations Under the Cognizance of NAVFAC Hawaii
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,15 @@
 ## Summary
 
 Download the attached file.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Alice Mende
+  - Email: alice.s.mende.civ@us.navy.mil
+- Secondary Contact:
+  - Name: Kris Nakashima-Wong
+  - Email: kris.e.nakashima-wong.civ@us.navy.mil
 
 ## Links
 

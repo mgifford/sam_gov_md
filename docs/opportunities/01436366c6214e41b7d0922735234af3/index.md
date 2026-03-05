@@ -1,3 +1,11 @@
+---
+layout: default
+title: 51--INSERTER AND REMOVE - AND OTHER REPLACEMENT PARTS
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: 01436366c6214e41b7d0922735234af3
+---
+
 # 51--INSERTER AND REMOVE - AND OTHER REPLACEMENT PARTS
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,12 @@
 ## Summary
 
 NSN 0Q-5120-017062725-QH, REF NR 4158AS0503-1, QTY 6 EA, DELIVERY FOB ORIGIN. NAVSUP Weapon Systems Support (NAVSUP WSS) Philadelphia intends to solicit on a sole source basis with AVIOSS LLC (7V3W5) for the purchase of a supply. Six (6) Purchase of NSN: 0QD 5120 017062725 QH, P/N: 4158AS0503-1, INSERTER AND REMOVE. Six (6) Purchase of NSN: 0QD 4320 017073709 QH, P/N: 4158AS0506-1, RAM, HYDRAULIC. Six (6) Purchase of NSN: 0QD 4320 017074783 QH, P/N: 4158AS0226-1, RAM, HYDRAULIC. Six (6) Purchase of NSN: 0QD 4320 017075799 QH, P/N: 4158AS0509-1, RAM, HYDRAULIC. There are no drawings/data available. This source is the Original Equipment Manufacturer (OEM) and the only known source for providing repair support of the above part. The Government does not own the data or the rights to the data needed to purchase this part from additional sources. All responsible sources may submit a capability statement, proposal, or quotation, which shall be considered by the agency. Source Approval Statement applies to this NSN. The approved sources for this material are listed above and it is expected that award will be made to this firm. Any firm which is not already approved to manufacture this material must submit a Source Approval Request, SAR. This procurement will not be delayed to wait for a SAR approval. NAICS CODE: 332216 PSC: 5120 UID: UID requirements will apply. Buy American Clauses will apply and will be posted in the solicitation. The Government intends to acquire these supplies using the provisions, clauses and procedures prescribed in FAR Part 15. Based upon market research, the Government is NOT using the policies contained in FAR Part 12, Acquisition of Commercial Items, in its solicitation for the described supplies. However, interested persons may identify to the contracting officer their interest and capability to satisfy the Government's requirement with a commercial item WITHIN 15 days of this notice. This notice of intent is not a request for competitive proposals. However, all proposals received within 30 days after date of publication of this synopsis will be considered by the Government. Information received will normally be considered solely for the purpose of determining whether to conduct a competitive procurement. This procurement is a Total Small Business Set-Aside. Electronic procedures will be used for this solicitation. RFP/Solicitation will be posted to NECO. The approximate issue date for the Solicitation/RFP will be 19 March 2026 with an approximate response/closing date of 21 April 2026. No telephone requests will be honored and no hard copies will be mailed out. Anticipated award date is 25 May 2026. Interested organizations may submit their capabilities and qualifications to perform the effort by email Jason Sklencar, Jason.sklencar@navy.mil/
+
+## Contacts
+
+- Primary Contact:
+  - Name: JASON J. SKLENCAR, N762.06, PHONE (215)697-4179, FAX (125)697-2606, EMAIL JASON.J.SKLENCAR.CIV@US.NAVY.MIL
+  - Email: JASON.J.SKLENCAR.CIV@US.NAVY.MIL
 
 ## Links
 

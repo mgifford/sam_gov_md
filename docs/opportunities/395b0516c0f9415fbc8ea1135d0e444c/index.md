@@ -1,3 +1,11 @@
+---
+layout: default
+title: HYDRAULIC PRESS
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 395b0516c0f9415fbc8ea1135d0e444c
+---
+
 # HYDRAULIC PRESS
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,13 @@
 ## Summary
 
 The Defense Logistics Agency (DLA) Maritime Norfolk at Norfolk Naval Shipyard (NNSY) intends to award a Firm Fixed Price (FFP) Single Award Contract for the item listed below or an equivalent item. The award determination will be Lowest Price Technically Acceptable principles. This requirement is for commercial items prepared in accordance with the information in FAR Part 13 and FAR Subpart 12.6, as supplemented with the additional information included in this notice. The Contract Line Items (CLINs) are as follows: CLIN 0001 (60430154) QTY 1 EA SCOTCHMAN MODEL MT HYDRAULIC PRESS, 460V 3PH 60HZ PN: PRESSPRO-11W ***Product offered must adhere to technical specifications located in Combined Synopsis / Solicitation***
+
+## Contacts
+
+- Primary Contact:
+  - Name: Steven Treherne
+  - Email: steven.treherne@dla.mil
+  - Phone: 7572785022
 
 ## Links
 

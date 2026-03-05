@@ -1,3 +1,11 @@
+---
+layout: default
+title: GSA Seeking Space for 6,897 SF in Cheyenne, WY
+agency: GENERAL SERVICES ADMINISTRATION
+notice_type: Presolicitation
+notice_id: aeee7b749ad442adbc025ec0fc275653
+---
+
 # GSA Seeking Space for 6,897 SF in Cheyenne, WY
 
 - Agency: GENERAL SERVICES ADMINISTRATION
@@ -8,6 +16,17 @@
 ## Summary
 
 Presolicitation Notice/Advertisement RLP Procurement Summary GSA Public Buildings Service U.S. GOVERNMENT General Services Administration (GSA) seeks to lease the following space: State: Wyoming City: Cheyenne Delineated Area: North: North on Carey Avenue to W 22nd Street South: South on Capitol Avenue to W 20th Street East: East on W 22nd Street to Capitol Avenue West: West on W 20th Street to Carey Avenue Minimum Sq. Ft. (ABOA): 6,552 Maximum Sq. Ft. (ABOA): 6,897 Space Type: Office Parking Spaces (Total): 2 Parking Spaces (Reserve Structured): 2 Full Term: 15 years Firm Term: 10 years Option Term: One 5-year option Additional Requirements: The proposed space must be a contiguousspace to meet the ABOA SF listed above. Cannot be collocated with law enforcement agencies. Hours of operation are 7:00 AM � 5:00 PM Monday � Friday. Offered space must meet Government requirements for fire safety, accessibility, seismic, and sustainabilitystandards per the terms of the Lease. A fully serviced lease is required. Offered space shall not be in the 1-percent-annual chance floodplain (formerly referred to as 100-year floodplain). Entities are advised to familiarize themselves with the telecommunications prohibitions outlined under Section 889 of the FY19 National Defense Authorization Act (NDAA), as implemented by the Federal Acquisition Regulation (FAR). For more information, visit: https://acquisition.gov/FAR-Case-2019-009/889_Part_B. Expressions of Interest Due: March 25, 2026 Market Survey (Estimated): TBD Occupancy (Estimated): TBD Send Expressions of Interest to: Name/Title: Jared Goodman Address: 722 Whalers Way, Suite 200 Office: 970-267-7723 Email Address: Jared.goodman@cushwake.com Government Contact Information Lease Contracting Officer: Michael Wagner � Michael.wagner@gsa.gov Local Market Broker � Cushman & Wakefield: Jared Goodman Broker � DHC Real Estate Services, Subcontracted by Cushman & Wakefield: Emily Erlenbach Broker � Cushman & Wakefield: Valerie Carreno Note: Entities not currently registered in the System for Award Management (SAM.gov) are advised to start the registration process as soon as possible. An offeror submittal checklist has been included with the RLP to underscore the documents that may be required by this RLP. Detailed requirements are contained in the RLP. In the event of an inconsistencybetween this checklist and the RLP, the RLP is the authoritative source.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Jared Goodman
+  - Email: jared.goodman@cushwake.com
+  - Phone: 970-267-7723
+- Secondary Contact:
+  - Name: Emily Erlenbah
+  - Email: emily.erlenbach@gsa.gov
+  - Phone: 9175803845
 
 ## Links
 

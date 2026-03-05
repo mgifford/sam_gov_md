@@ -1,3 +1,11 @@
+---
+layout: default
+title: PARTS KIT,AUXILLIAR
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 9bcf7deb38614fe3a8fe573785f5c61e
+---
+
 # PARTS KIT,AUXILLIAR
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,16 @@
 ## Summary
 
 THIS REQUIREMENT IS RESTRICTED TO AAR SUPPLY CHAIN, INC. (CAGE: 1Y249), IAW 10 U.S.C. 2304 (c)(1) FAR 6.302-1. "ONLY ONE RESPONSIBLE SOURCE AND NO OTHER SUPPLIES OR SERVICES WILL SATISFY AGENCY REQUIREMENTS." THIS IS A FIRM-FIXED-PRICE (FFP), ONE-TIME BUY (OTB) SOLICITATION FOR: NOUN: PARTS KIT,AUXILLIAR NSN: 2835-01-502-9217 PN: 924-040
+
+## Contacts
+
+- Primary Contact:
+  - Name: Scott Alexander
+  - Email: scott.alexander@dla.mil
+- Secondary Contact:
+  - Name: IMELDA CHAGOLLA
+  - Email: IMELDA.CHAGOLLA@DLA.MIL
+  - Phone: 2566905419
 
 ## Links
 

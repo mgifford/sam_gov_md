@@ -1,13 +1,30 @@
+---
+layout: default
+title: J041--NEW: Heat Exchanger Tube Bundle Replacement East Tower Garland
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Combined Synopsis/Solicitation
+notice_id: 0b9963e85fec450d809744edffd62a7e
+---
+
 # J041--NEW: Heat Exchanger Tube Bundle Replacement East Tower Garland
 
 - Agency: VETERANS AFFAIRS, DEPARTMENT OF
 - Type: Combined Synopsis/Solicitation
 - Posted: 2026-03-04 16:59:57.634-05
 - Solicitation Number: 36C25726Q0269
+- Awardee: null
 
 ## Summary
 
 Amendment is attached.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Crystal Carabajal
+  - Title: Contract Specialist
+  - Email: crystal.carabajal@va.gov
+  - Phone: 210-915-4076
 
 ## Links
 

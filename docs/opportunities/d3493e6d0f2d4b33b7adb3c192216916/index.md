@@ -1,3 +1,11 @@
+---
+layout: default
+title: G550 Tire/Wheel/Brake Equipment
+agency: COMMERCE, DEPARTMENT OF
+notice_type: Combined Synopsis/Solicitation
+notice_id: d3493e6d0f2d4b33b7adb3c192216916
+---
+
 # G550 Tire/Wheel/Brake Equipment
 
 - Agency: COMMERCE, DEPARTMENT OF
@@ -8,6 +16,13 @@
 ## Summary
 
 This request is for the procurement of two Tire and Wheel dollies, two Brake Assembly Tools, three LH Wing Jack Pads, three RH Wing Jack Pads, two Axle Jack Adapter Kits and two 25 Ton Low Profile Axle Jacks for NOAA�s new G550 aircraft in direct support of the multiyear effort to recapitalize and sustain NOAA�s Aircraft Fleet.
+
+## Contacts
+
+- Primary Contact:
+  - Name: BRIGHT, ISAAC
+  - Email: ISAAC.BRIGHT@NOAA.GOV
+  - Phone: (541) 283-5107
 
 ## Links
 

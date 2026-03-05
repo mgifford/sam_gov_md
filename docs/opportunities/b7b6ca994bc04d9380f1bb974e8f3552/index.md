@@ -1,3 +1,11 @@
+---
+layout: default
+title: Sources Sought: Study- For CRC (Power, Fuel, Data, Water, Air Handling & Transportation)
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: b7b6ca994bc04d9380f1bb974e8f3552
+---
+
 # Sources Sought: Study- For CRC (Power, Fuel, Data, Water, Air Handling & Transportation)
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,17 @@
 ## Summary
 
 This is a Sources Sought notice to determine potential sources for information and planning purspose only. This is not a solicitation or invitation to bid. The purpose of this no-cost to the Government Sources Sought is to conduct market research to determine if responsible sources exist to assist in determinining if this effort can be competitive or total Small Business Set-Aside. A no-cost Rough Order of Magnitude (ROM) is also request to estimate cost of study. The Air Force is conducting market research to identify potential contractor sources that will meet Air Force requirements to conduct a study of fuel consumption, fuel distribution, power consumption, power distribution, tactical air handling (HVAC System), water support, equipment transportation requirements and data network of CRC equipment and equipment supporting CRC at operational sites. The study will provide necessary information for the government to collaborate CRC modernization and to ensure future power, fuel, data, water, air, and transportation systems requirements are identified. The attached document, CRC- WAT Study, has further information and description of what the study will need to address. Notice This is not an RFP or an Invitation for Bid, nor is it to be construed as a commitment by the Air Force. The Air Force is not obligated to make an award on the basis of this Sources Sought Synopsis/Request for Information or otherwise pay for the information solicited herein. Copies of the submitted information could be reproduced and used to develop a Request for Proposal. The maximum number of pages for the response should be no more than 5 and sent electronically via email to addresses shown below. Please submit your no-cost information by NLT 12 February 2026, 11am MST. If any questions or clarifications are needed please submit by 30 January 2026, so they can be reviewed and included into this notice, if needed, so all can see them. Please submit your information, clarification questions, or any general comments/questions to: Ms. Wendy Farley [wendy.farley@us.af.mil] and Mr. Carlos Michel [carlos.michel@us.af.mil] Note Any questions/comments/or clarifications submitted that could be beneficial to all interested parties will be shared through an amendment of this notice. If any proprietary information is sent with your clarification or question that you do not want shared , please make us aware in your message.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Wendy Farley
+  - Email: wendy.farley@us.af.mil
+  - Phone: 8015863464
+- Secondary Contact:
+  - Name: Carlos Michel
+  - Email: carlos.michel@us.af.mil
+  - Phone: 8017776077
 
 ## Links
 

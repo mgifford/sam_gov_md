@@ -1,3 +1,11 @@
+---
+layout: default
+title: Tech Licensing Opportunity: Synthesis of Tungsten Tetraboride (WB4) by Electric Field Assisted Sintering (EFAS)
+agency: ENERGY, DEPARTMENT OF
+notice_type: Special Notice
+notice_id: 198f21c9f3c7491e9a9f41897c7c3628
+---
+
 # Tech Licensing Opportunity: Synthesis of Tungsten Tetraboride (WB4) by Electric Field Assisted Sintering (EFAS)
 
 - Agency: ENERGY, DEPARTMENT OF
@@ -8,6 +16,12 @@
 ## Summary
 
 Synthesis of Tungsten Tetraboride (WB4) by Electric Field Assisted Sintering (EFAS) A novel method for synthesizing tungsten tetraboride (WB4), a material with exceptional hardness and thermal properties, using Electric Field Assisted Sintering (EFAS). The Challenge: In the pursuit of materials with exceptional hardness and thermal conductivity, tungsten tetraboride (WB4) has been considered a compelling candidate since the 1960s. Renowned for its potential in enhancing cutting tools, armor, and nuclear reactors, WB4's synthesis has been limited by technological constraints, yielding products often inferior to their theoretical capabilities. Enter Electric Field Assisted Sintering (EFAS) � a modern technique set to revolutionize WB4 production by maintaining precise conditions necessary for optimal material characteristics. How it Works: Electric Field Assisted Sintering (EFAS) introduces a sophisticated approach to WB4 synthesis, surpassing traditional methods like arc melting which often resulted in impurities and unwanted phases such as WB2. Unlike previous techniques, EFAS employs controlled sintering temperatures and accurate atomic ratios without the need to melt the components, thereby preserving the desired WB4 phase and preventing degradation in material hardness. This process has been demonstrated to produce WB4 samples with hardness approaching theoritical maximum by controlling the granular composition and phase outcomes efficiently. Key Advantages: Enhanced Material Quality: By avoiding the melting process, EFAS ensures the production of WB4 with minimal impurities and maximum hardness. Scalability: The method is scalable, capable of producing larger batches and custom sizes (up to 12" discs), which was previously unachievable. Cost-Effectiveness: Utilizes less expensive raw materials and optimizes the synthesis process, reducing overall production costs. Radiation Resistance: Uniquely suitable for nuclear applications due to its neutron absorption capabilities and resistance to high-temperature degradation. Problems Solved Inconsistent synthesis quality and low yield of WB4 using traditional methods High cost and complexity of large-scale production of materials with similar properties Lack of cost-effective and efficient materials for extreme thermal environments and radiation shielding Market Applications Industrial Machining: Enhance the longevity and performance of machining tools used in automotive and aerospace manufacturing. Defense and Ballistic Protection: Imagine lighter, more effective armor that provides enhanced protection against various threats. Nuclear Safety: Boost the safety and efficiency of nuclear reactors, contributing to sustainable and safer energy solutions. Development Status: TRL 3 US Provisional Patent Application No. 63/643,127, �METHODS OF FORMING REFRACTORY METAL BORIDES BY ELECTRIC FIELD ASSISTED SINTERING (EFAS),� BEA Docket No. BA-1537 INL Tech Partnerships: Your Gateway to Innovation INL offers strategic access to proprietary technology, enhancing small business growth and contributing to economic and public advancement. We cater licensing terms to each business we work with, ensuring mutually beneficial agreements. Engage with our diverse technology offerings to propel your company forward. Learn more about our licensing opportunities and the support we provide at https://inl.gov/technology-deployment/. For specific discussions on how your business can benefit, please contact td@inl.gov. INL�s Technology Deployment department focuses exclusively on licensing intellectual property and partnering with industry collaborators capable of commercializing our innovations. Our goal is to commercialize the technologies developed by INL researchers. We do not engage in purchasing, manufacturing, procurement decisions, or providing funding. Additionally, this is not a call for external services to assist in the development of this technology.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Andrew Rankin
+  - Email: andrew.rankin@inl.gov
 
 ## Links
 

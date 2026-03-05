@@ -1,13 +1,30 @@
+---
+layout: default
+title: W023--Cold Storage Rental
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Combined Synopsis/Solicitation
+notice_id: 078f183c2c174250b342410adf826894
+---
+
 # W023--Cold Storage Rental
 
 - Agency: VETERANS AFFAIRS, DEPARTMENT OF
 - Type: Combined Synopsis/Solicitation
 - Posted: 2026-03-04 15:16:51.768-05
 - Solicitation Number: 36C25726Q0284
+- Awardee: null
 
 ## Summary
 
 Combined Synopsis-Solicitation for Commercial Products and Commercial Services This solicitation is issued as Service Disabled Veteran Owned Small Business 36C25726Q0284 Description: This is a combined synopsis/solicitation for commercial products and commercial services prepared in accordance with the format Revolutionary FAR Overhaul (RFO) in Federal Acquisition Regulation (FAR) subpart 12.202, Streamlined Procedures for Evaluation and Solicitation for Commercial Products and Commercial Services, as supplemented with additional information included in this notice. This announcement constitutes the only solicitation; quotes are being requested, and a written solicitation document will not be issued. This solicitation is issued as an RFQ. The solicitation document and incorporated provisions and clauses are those in effect through Federal Acquisition Circular 2025-06 effective date 10/01/2025. This solicitation is issued as Service Disabled Veteran Owned Small Business set-aside. The associated North American Industrial Classification System (NAICS) code for this procurement is 532120, with a small business size standard of 47 Million. The FSC/PSC is W023. The Sam Rayburn Memorial Veterans Center is seeking to lease for 9 month Cold Storage Trailer. All interested companies shall provide quotations for the following: See B.3 Price/Cost Schedule. Place of Performance/Place of Delivery: Address: Sam Rayburn Memorial Veterans Center Department of Veterans Affairs Medical Center, 1201 E. 9th Street, Bonham, TX� Postal Code: 75418 Country: UNITED STATES The full text of FAR provisions or clauses may be accessed electronically at https://www.acquisition.gov/browse/index/far. The following solicitation provisions and clause apply to this acquisition: FAR 52.212-1, Instructions to Offerors Commercial Products and Commercial Services . SEE SECTION E - SOLICITATION PROVISIONS: All quoters shall submit the following: See Addendum to 52.212-1. All quotes shall be sent to the See Addendum to 52.212-1. Award will be based upon a comparative evaluation of quotes in accordance with the Simplified Acquisition Procedures of RFO FAR 12. SEE 52.212-2. FAR 52.212-2 Evaluation-Commercial Products and Commercial Services: In accordance with RFO FAR 12.201-1 and FAR 12.201-2 when appropriate, the contracting officer may (1)� Insert the provision at� 52.212-2, Evaluation-Commercial Products� and� Commercial Services, in� solicitations� for� commercial products� or� commercial services. NOTE: RFO FAR 52.212-3 is RESERVED and replaced with: [Attention CO: www.sam.gov registration is required to be complete at time of submission of response.] Offerors must complete annual representations and certifications electronically via the System for Award Management (SAM) website located at https://sam.gov/. FAR 52.212-4, Contract Terms and Conditions Commercial Products and Commercial Services OCT 2025. To facilitate the award process, all quotes must include a statement regarding the terms and conditions herein as follows: "The terms and conditions in the solicitation are acceptable to be included in the award document without modification, deletion, or addition." Submission of your response shall be received not later than: Block 8 of the Standard Form (SF) 1449 of the solicitation. Late submissions shall be treated in accordance with the solicitation provision at FAR 52.212-1(f). SEE SECTION E - SOLICITATION PROVISIONS. Any questions or concerns regarding this solicitation should be forwarded in writing via e-mail to the Point of Contact listed below. Point of Contact: Susan Flores at susan.flores2@va.gov
+
+## Contacts
+
+- Primary Contact:
+  - Name: Susan Flores
+  - Title: Contracting Officer
+  - Email: Susan.flores2@va.gov
+  - Phone: 210-617-5300 X243979
 
 ## Links
 

@@ -1,3 +1,11 @@
+---
+layout: default
+title: Z--Muskrat Water Well Repair
+agency: INTERIOR, DEPARTMENT OF THE
+notice_type: Solicitation
+notice_id: ce1327d135774b07bcbb84b88a5a8c80
+---
+
 # Z--Muskrat Water Well Repair
 
 - Agency: INTERIOR, DEPARTMENT OF THE
@@ -8,6 +16,13 @@
 ## Summary
 
 Muskrat Water Well Repair
+
+## Contacts
+
+- Primary Contact:
+  - Name: Blunt Mayes, Tori
+  - Email: tbluntmayes@blm.gov
+  - Phone: 4357814445
 
 ## Links
 

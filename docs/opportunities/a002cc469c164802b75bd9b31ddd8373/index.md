@@ -1,3 +1,11 @@
+---
+layout: default
+title: Hot and Cold Tub
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: a002cc469c164802b75bd9b31ddd8373
+---
+
 # Hot and Cold Tub
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,13 @@
 ## Summary
 
 Treadmill
+
+## Contacts
+
+- Primary Contact:
+  - Name: Palmer Ferrara
+  - Email: palmer.j.ferrara.mil@socom.mil
+  - Phone: 9084033505
 
 ## Links
 

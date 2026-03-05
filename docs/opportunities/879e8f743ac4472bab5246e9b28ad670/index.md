@@ -1,3 +1,11 @@
+---
+layout: default
+title: Metal Material Sources Sought
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 879e8f743ac4472bab5246e9b28ad670
+---
+
 # Metal Material Sources Sought
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,15 @@
 ## Summary
 
 **This is a Sources Sought, please do not provide any quotes at this time.** The procurement of metal material to manufacture the B-1B Nacelle Trainer. Please see attached Sources Sought for specifications.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Jermaine L. Coleman
+  - Email: jermaine.coleman.3@us.af.mil
+- Secondary Contact:
+  - Name: Catherine Hardy
+  - Email: catherine.hardy@us.af.mil
 
 ## Links
 

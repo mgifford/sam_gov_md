@@ -21,6 +21,10 @@ function normalizeRecord(raw) {
     Link: raw.Link || '',
     AdditionalInfoLink: raw.AdditionalInfoLink || raw['AdditionalInfoLink'] || '',
     Awardee: raw.Awardee || '',
+    AwardAmount: raw['Award$'] || '',
+    PrimaryContactFullname: raw.PrimaryContactFullname || '',
+    PrimaryContactEmail: raw.PrimaryContactEmail || '',
+    PrimaryContactPhone: raw.PrimaryContactPhone || '',
     matches: raw.matches || [],
   }
 }
@@ -186,6 +190,12 @@ function renderTable(records, heading = '') {
 
   const rows = records.slice(0, 20).map((record) => {
     const terms = (record.matches || []).slice(0, 3).map((m) => `${m.term}(${m.count})`).join(', ')
+    const awardAmount = record.AwardAmount || ''
+    const awardee = record.Awardee || ''
+    const primaryContact = record.PrimaryContactFullname || ''
+    const primaryEmail = record.PrimaryContactEmail || ''
+    const primaryPhone = record.PrimaryContactPhone || ''
+    const contactDetails = [primaryContact, primaryEmail, primaryPhone].filter(Boolean).join(' | ')
     const markdownLink = record.NoticeId
       ? `<a href="opportunities/${record.NoticeId}/index.md" target="_blank" rel="noreferrer">Markdown</a>`
       : ''
@@ -203,6 +213,9 @@ function renderTable(records, heading = '') {
         <td>${record.Agency || ''}</td>
         <td>${posted}</td>
         <td>${terms}</td>
+        <td>${awardee}</td>
+        <td>${awardAmount}</td>
+        <td>${contactDetails}</td>
         <td>${[markdownLink, pdfLink, samLink].filter(Boolean).join(' · ')}</td>
       </tr>
     `
@@ -218,6 +231,9 @@ function renderTable(records, heading = '') {
           <th>Agency</th>
           <th>Posted</th>
           <th>Terms</th>
+          <th>Awardee</th>
+          <th>Award Amount</th>
+          <th>Primary Contact</th>
           <th>Links (Markdown first)</th>
         </tr>
       </thead>

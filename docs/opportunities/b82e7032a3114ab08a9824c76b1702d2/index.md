@@ -1,3 +1,11 @@
+---
+layout: default
+title: Sources Sought Notice only. Janitorial services at the Rock Island National Cemetery. -- S201
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: b82e7032a3114ab08a9824c76b1702d2
+---
+
 # Sources Sought Notice only. Janitorial services at the Rock Island National Cemetery. -- S201
 
 - Agency: VETERANS AFFAIRS, DEPARTMENT OF
@@ -8,6 +16,12 @@
 ## Summary
 
 Sources Sought Notice only. Janitorial services at the Rock Island National Cemetery. -- S201 Sources Sought Notice only. Janitorial services at the Rock Island National Cemetery. Sources Sought Notice only. Janitorial services at the Rock Island National Cemetery. Please email your capability statement and SAM.gov UEI number to anna.straley@va.gov no later than 3/11/2026.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Anna Straley
+  - Email: Anna.Straley@va.gov
 
 ## Links
 

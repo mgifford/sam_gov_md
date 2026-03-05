@@ -1,3 +1,11 @@
+---
+layout: default
+title: Intent to Sole Source - 2 BK Medical E14CL4b Biplane Endocavity transducer Transrectal and Transvaginal probes
+agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+notice_type: Special Notice
+notice_id: adcd49391cc14df9898cc84ae8f0ea6a
+---
+
 # Intent to Sole Source - 2 BK Medical E14CL4b Biplane Endocavity transducer Transrectal and Transvaginal probes
 
 - Agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF

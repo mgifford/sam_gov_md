@@ -1,3 +1,11 @@
+---
+layout: default
+title: DSCA EUROSATORY 2026 BUILD
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 1342850c15794a28abebbbd851215de3
+---
+
 # DSCA EUROSATORY 2026 BUILD
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,12 @@
 ## Summary
 
 Design, construction, support, and tear down of exhibit at Eurosatory 2026 for DSCA.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Courtney Taitt
+  - Email: courtney.s.taitt.civ@mail.mil
 
 ## Links
 

@@ -1,3 +1,11 @@
+---
+layout: default
+title: Chest Canvas
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 99aaa854a6374d05acb857f5ae2f42c1
+---
+
 # Chest Canvas
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,13 @@
 ## Summary
 
 Natural Horse Hair Chest Canvas for Dress Coats
+
+## Contacts
+
+- Primary Contact:
+  - Name: Corey Smith
+  - Email: corey.j.smith91.civ@army.mil
+  - Phone: 8459874075
 
 ## Links
 

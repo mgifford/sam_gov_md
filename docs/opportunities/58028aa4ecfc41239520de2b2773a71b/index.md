@@ -1,3 +1,11 @@
+---
+layout: default
+title: Treadmill
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 58028aa4ecfc41239520de2b2773a71b
+---
+
 # Treadmill
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,13 @@
 ## Summary
 
 Treadmill
+
+## Contacts
+
+- Primary Contact:
+  - Name: Palmer Ferrara
+  - Email: palmer.j.ferrara.mil@socom.mil
+  - Phone: 9084033505
 
 ## Links
 

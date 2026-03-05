@@ -1,3 +1,11 @@
+---
+layout: default
+title: 761-26-2-014-0037 & 762-26-1-040-0450 - Chelmsford & Tucson CMOP�s - MED SURGE ITEMs
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Presolicitation
+notice_id: 2bc5fbda2c624c4db12757f892b70501
+---
+
 # 761-26-2-014-0037 & 762-26-1-040-0450 - Chelmsford & Tucson CMOP�s - MED SURGE ITEMs
 
 - Agency: VETERANS AFFAIRS, DEPARTMENT OF
@@ -8,6 +16,13 @@
 ## Summary
 
 Presolicitation Notice 761-26-2-014-0037 & 762-26-1-040-0450 - Chelmsford & Tucson CMOP�s - MED SURGE ITEMs -Line Item: 1 SDVOSB set-aside, Gray marketrequirements apply. -Line Items: 2-4 � Full and Open, Gray marketrequirements apply.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Jennifer L Knight
+  - Email: jennifer.knight@va.gov
+  - Phone: 9136840162
 
 ## Links
 

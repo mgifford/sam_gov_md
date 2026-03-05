@@ -1,3 +1,11 @@
+---
+layout: default
+title: Notice of Intent to Sole Source to Werfen USA LLC for the lease of two ACL Top 750 Systems
+agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+notice_type: Presolicitation
+notice_id: ef7f709c2a5b4a5ebdda8f4b0d276411
+---
+
 # Notice of Intent to Sole Source to Werfen USA LLC for the lease of two ACL Top 750 Systems
 
 - Agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
@@ -8,6 +16,13 @@
 ## Summary
 
 Notice of Intent to Sole Source to Werfen USA LLC for the lease of two ACL Top 750 Systems Product Service Code: W066 NAICS Code: 532490 Place of Performance: Bethesda, MD 20892 USA POTS: 26-002500 Description This is a notice of intent, NOT a request for a quotation. A solicitation document will NOT be issued, and quotations will NOT be requested. The National Institutes of Health (NIH) intends to award a firm fixed price purchase order for one year to Werfen USA LLC of 180 Hartwell Road, Bedford, Massachusetts 01730. The purpose of this acquisition is to continue the lease for two ACL TOP 750 systems currently in use within the Hematology Service section of the Department of Laboratory Medicine. The anticipated period of performance is from March 12, 2026, to March 11, 2027. The ACL TOP 750 analyzer is designed to deliver cutting-edge automation and quality management for both routine and specialized coagulation tests. Tailored for mid to high-volume clinical laboratories, it features automated pre-analytical sample-integrity checks, advanced support for quality and accreditation, and enhanced system security to ensure reliable results and increased lab efficiency. The instrument employs clotting, chromogenic, and immunological methodologies. *****See below items required for this action***** Description/Product Number/Quantity ACL Top 750/00000280015/2 PRODX Virtual Server/00000013856/2 The proposed vendor, Werfen USA LLC is the sole manufacturer of the consumable items to be used with ACL Top analyzer currently used within DLM. There is no other known available vendor that can meet the requirement. This acquisition is being conducted using policies unique to the Federal Acquisition Regulation (FAR) Part 13 � Simplified Acquisition Procedures, Subpart 13.106-1(b)(1), For purchases not exceeding the simplified acquisition threshold (SAT), contracting officers may solicit from one source if the contracting officer determines that the circumstance of the contract action deem only one source reasonably available. Contracts awarded using FAR Part 13-Simplified Acquisition Procedures are exempt from the requirements of FAR Part 6-Competition Requirements. The total dollar value of this requirement shall not exceed the Simplified Acquisition Threshold (SAT), $250,.000.00. Interested parties may identify their interest and capabilities in response to this posting. The determination by the Government not to compete the proposed requirement based upon responses to this notice is solely within the discretion of the Government. Comments to this announcement, referencing this posting number, may be submitted to the Office of Acquisitions and Logistics Management, prior to the closing date specified in this announcement, electronically to the attention of Shasheshe Goolsby, Team Lead, shasheshe.goolsby@nih.gov by March 11, 2026 12:00PM EST. *** Please send your capability statements ONLY. This IS NOT a request for proposal. ***
+
+## Contacts
+
+- Primary Contact:
+  - Name: Shasheshe Goolsby
+  - Email: shasheshe.goolsby@nih.gov
+  - Phone: 301-827-4879
 
 ## Links
 

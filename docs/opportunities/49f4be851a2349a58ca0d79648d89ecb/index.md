@@ -1,3 +1,11 @@
+---
+layout: default
+title: Replacement of B647 Roofing System Project 612A4-25-018
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Solicitation
+notice_id: 49f4be851a2349a58ca0d79648d89ecb
+---
+
 # Replacement of B647 Roofing System Project 612A4-25-018
 
 - Agency: VETERANS AFFAIRS, DEPARTMENT OF
@@ -8,6 +16,12 @@
 ## Summary
 
 See attachement
+
+## Contacts
+
+- Primary Contact:
+  - Name: Alex Arter
+  - Email: alex.arter@va.gov
 
 ## Links
 

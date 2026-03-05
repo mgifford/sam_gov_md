@@ -1,3 +1,11 @@
+---
+layout: default
+title: 2026 APBI Save the Date
+agency: DEPT OF DEFENSE
+notice_type: Special Notice
+notice_id: e51e0f1f3c174811a180250f7c37fb99
+---
+
 # 2026 APBI Save the Date
 
 - Agency: DEPT OF DEFENSE

@@ -1,3 +1,11 @@
+---
+layout: default
+title: LAUNDRY SERVICE
+agency: INTERIOR, DEPARTMENT OF THE
+notice_type: Combined Synopsis/Solicitation
+notice_id: cc92e98eacdc4ee2939c4ec74e1e291c
+---
+
 # LAUNDRY SERVICE
 
 - Agency: INTERIOR, DEPARTMENT OF THE
@@ -8,6 +16,13 @@
 ## Summary
 
 LAUNDRY SERVICE
+
+## Contacts
+
+- Primary Contact:
+  - Name: Cornell, Cory
+  - Email: ccornell@blm.gov
+  - Phone: 9073565773
 
 ## Links
 

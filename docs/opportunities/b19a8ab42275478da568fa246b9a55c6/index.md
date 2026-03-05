@@ -1,3 +1,11 @@
+---
+layout: default
+title: Intent to Sole Source - Licenses and Services for Virtual Host Servers
+agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+notice_type: Special Notice
+notice_id: b19a8ab42275478da568fa246b9a55c6
+---
+
 # Intent to Sole Source - Licenses and Services for Virtual Host Servers
 
 - Agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF

@@ -1,3 +1,11 @@
+---
+layout: default
+title: HEATED SALT BATH FURNACE MAITENANCE AND REPAIR
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 7ebb6cf95e8a4e53b080930e5f699e12
+---
+
 # HEATED SALT BATH FURNACE MAITENANCE AND REPAIR
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,15 @@
 ## Summary
 
 UPDATE: Site Visit has been scheduled to be conducted on 16 March 2026 at 9:00am EST. at the Fleet Readiness Center Southeast (FRCSE), Jacksonville, Florida. Please see the attachment titled "Attacment 01 Site Visit Information" and the Amended Solicitation for instructions. Update: The purpose of this update is to provide response to the question received and to share additional information regarding a site visit. Question: Is this a brand-new contract OR if there is (was) an incumbent performing these services? If brand new, could you please provide the current/previous contract number? Response: This is a new requirement and there is no previous contract number available to provide. The contract number will be provided upon award. The RFQ will be amended to include details regarding the site visit. Please continue to monitor SAM.gov for this update and any additional information as it becomes available. - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Maintenance and Repair� HEATED SALT BATH FURNACE RFQ No. N6852026Q1006 This is a combined synopsis/solicitation conducted in accordance with (IAW) Federal Acquisition Regulation (FAR) Part 13 to solicit a competitive commercial award for a firm fixed price (FFP) commercial service contract for repair and inspection of Upton Internally Heated Salt Bath Furnace, (Model U-DS / UDJ6A, Serial Number DS-2976), PSC Code: J036 - Maint/Repair/Rebuild Of Equipment- Special Industry Machinery, NAICS Code: 811310 - Commercial and Industrial Machinery and Equipment Repair and Maintenance, to heat treat various aircraft components. The place of performance will be located at Fleet Readiness Center Southeast (FRCSE), Naval Air Station, Jacksonville, Florida. Quotations are being requested. An award, if any, will be made to the responsible offeror who submits a quotation that conforms to the requirements of N6852025Q1006 RFQ and the Evaluation Factors as follows: Factor 1 � Price: Price will be evaluated based on the total combined price, for reasonableness in accordance with FAR 13.106-3. Award will be made to the offeror providing the Lowest Price Technically Acceptable (LPTA). Factor 2 � Technical Acceptability: Technical Acceptability will be evaluated on an Acceptable/Unacceptable basis. To be rated Acceptable, the Offeror must provide: Conforms to the requirements of N6852025Q1006 RFQ and Complies with the requirements and terms and conditions stated in the Performance Work Statement (PWS). The Government reserves the right to award without discussions or make no award at all depending upon (1) the quality of quotations received and (2) whether proposed prices are determined to be fair and reasonable. The Government reserves the right to cancel this solicitation, either before or after the closing date. In the event the Government cancels this solicitation, the Government has no obligation to reimburse an offeror for any costs. Offerors shall complete and include in quotations all representations and certifications, as well as all fill-in provisions and clauses, contained within this RFQ. Additionally, quotations that cannot comply with all terms and conditions in the RFQ, shall not apply. Instructions: 52.212-1 Instructions to Offerors � Commercial Products and Commercial Services SEP 2023. Offerors must comply with all instructions contained herein. To be considered for award, the Offeror shall submit a complete quote package consisting of the following: Closing Date: Quotations must be received no later than 2:00 pm, Eastern Standard Time on 9 March 2026. Quotations received after that date and time will not be accepted or considered for award. The entire quotation must be contained in a single e-mail that does not exceed 5 megabytes including attachments, if any. If the specified subject line is not included, the e-mail may not get through the e-mail filters. Also be advised that .zip or .exe files are NOT allowable attachments and may be deleted. If sending attachments with email, ensure only .pdf, .doc, .docx, .xls or .xlsx documents are sent. Upon award, any provisions that were in the RFQ (including representations and certifications) will be removed from the award document. IMPORTANT NOTICE TO ALL CONTRACTORS: All prospective awardees are required to register in the System for Award Management (SAM) and maintain active registration during the life of the contract. SAM can be accessed at https://www.sam.gov.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Karen Harris
+  - Email: karen.m.harris36.civ@us.navy.mil
+- Secondary Contact:
+  - Name: Beverley Rhamdeow
+  - Email: beverley.s.rhamdeow.civ@us.navy.mil
 
 ## Links
 

@@ -1,3 +1,11 @@
+---
+layout: default
+title: Single Source Justification
+agency: STATE, DEPARTMENT OF
+notice_type: Justification
+notice_id: c979cf098bcb4d7ea2d1fc67ae8d7fed
+---
+
 # Single Source Justification
 
 - Agency: STATE, DEPARTMENT OF
@@ -8,6 +16,15 @@
 ## Summary
 
 In accordance with Federal Acquisition Regulation (FAR) 13.106-1(b)(1), the Contracting Officer has deemed only one source reasonably available based on urgency of the request.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Ryan D. Young
+  - Email: CopenhagenContracts@state.gov
+- Secondary Contact:
+  - Name: Mie Moeller
+  - Email: CopenhagenProcurement@state.gov
 
 ## Links
 

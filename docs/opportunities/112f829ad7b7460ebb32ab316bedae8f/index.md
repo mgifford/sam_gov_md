@@ -1,3 +1,11 @@
+---
+layout: default
+title: FY26 NMFS-RACE Onlogic PC purchase for FY26 Sea Su
+agency: COMMERCE, DEPARTMENT OF
+notice_type: Combined Synopsis/Solicitation
+notice_id: 112f829ad7b7460ebb32ab316bedae8f
+---
+
 # FY26 NMFS-RACE Onlogic PC purchase for FY26 Sea Su
 
 - Agency: COMMERCE, DEPARTMENT OF
@@ -8,6 +16,12 @@
 ## Summary
 
 FY26 NMFS-RACE Onlogic PC purchase for FY26 Sea Surveys. NOAA Approval #OR-26-01105
+
+## Contacts
+
+- Primary Contact:
+  - Name: JENKS, JASON
+  - Email: JASON.JENKS@NOAA.GOV
 
 ## Links
 

@@ -1,13 +1,34 @@
+---
+layout: default
+title: W912DQ26QA001 Kansas FY26 Custodial Mass Solicitation
+agency: DEPT OF DEFENSE
+notice_type: Award Notice
+notice_id: d9249ea618474aeb9a4f2b0ec71c109f
+---
+
 # W912DQ26QA001 Kansas FY26 Custodial Mass Solicitation
 
 - Agency: DEPT OF DEFENSE
 - Type: Award Notice
 - Posted: 2026-03-04 15:36:03.95-05
 - Solicitation Number: W912DQ26PA007
+- Awardee: KATHY J HACKNEY Osage City KS 66523 USA
+- Award Amount: 28000.00
 
 ## Summary
 
 No summary provided.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Cade Zelinsky
+  - Email: cade.s.zelinsky@usace.army.mil
+  - Phone: 8163893143
+- Secondary Contact:
+  - Name: Christopher W. Anderson
+  - Email: Christopher.W.Anderson@usace.army.mil
+  - Phone: 8163893850
 
 ## Links
 

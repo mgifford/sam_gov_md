@@ -1,3 +1,11 @@
+---
+layout: default
+title: Blanket Purchase Agreements for Title Services of the Mid-Atlantic Region
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: eaf884ba3f12468ca34520824be60c28
+---
+
 # Blanket Purchase Agreements for Title Services of the Mid-Atlantic Region
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,15 @@
 ## Summary
 
 The work to be done under these specifications consists of furnishing and delivering Owners Guarantee (Insurance) Policies or Certificates of Title and Continuations thereof in the form of preliminary, interim or final policies, certificates of title, interim binders, or endorsements, as appropriate, and Closing Services as set forth on the Schedule and Performance Work Statement to which these specifications are attached. Except where certificates are clearly referred to separately, all references hereinafter to Policies and Continuations shall apply to the forms of title evidence specified by said of Performance Work Statement
+
+## Contacts
+
+- Primary Contact:
+  - Name: Neil Gonzalez
+  - Email: Neil.O.Gonzalez@usace.army.mil
+- Secondary Contact:
+  - Name: Cheryl Williams
+  - Email: cheryl.k.williams@usace.army.mil
 
 ## Links
 

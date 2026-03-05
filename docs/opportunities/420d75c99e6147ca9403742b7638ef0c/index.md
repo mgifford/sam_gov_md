@@ -1,3 +1,11 @@
+---
+layout: default
+title: Radio frequency (RF) Delivered Effects Platform � Portable 2.0 (RDEP-P2)
+agency: DEPT OF DEFENSE
+notice_type: Special Notice
+notice_id: 420d75c99e6147ca9403742b7638ef0c
+---
+
 # Radio frequency (RF) Delivered Effects Platform � Portable 2.0 (RDEP-P2)
 
 - Agency: DEPT OF DEFENSE

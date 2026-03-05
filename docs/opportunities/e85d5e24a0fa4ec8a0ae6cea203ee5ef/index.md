@@ -1,3 +1,11 @@
+---
+layout: default
+title: TSS Ductless System at EWR ATCT
+agency: TRANSPORTATION, DEPARTMENT OF
+notice_type: Solicitation
+notice_id: e85d5e24a0fa4ec8a0ae6cea203ee5ef
+---
+
 # TSS Ductless System at EWR ATCT
 
 - Agency: TRANSPORTATION, DEPARTMENT OF
@@ -8,6 +16,17 @@
 ## Summary
 
 Mechanical � Install (3) indoor wall-mounted units, along with all refrigerant and drain piping. � Install (1) 6-ton heat pump. Unit to be anchored to exterior concrete wall via on L-bracket steel frame. � Coordinate core penetrations through concrete wall for piping, electrical, and drain lines. Installation to include all wall waterproofing. � Provide and insulate all refrigerants and condensate piping above ceiling � Test and charge system to verify operation. Electrical � Install new dedicated 208V, 3-phase power circuit � Provide NEMA 4X, 60A non-fused stainless steel disconnect at outdoor unit � Provide power and control conduit and wiring to/from all units � Penetrate concrete wall. � Provide penetration and conduit through roof deck. Patch and flash roof as required to maintain new roof warranty through Carlisle Roof installer. Controls � Integrate mini-split system into the existing FAA Schneider Electric EcoStruxure DDC system via BACnet � Provide and install one IP-IO module at VAV-17 for coordinated backup cooling enable/disable � Submit point list, graphics, and control narrative to COR for approval. � Program unit set points, and update AHU-3 supply air setpoints � Support commissioning of system to validate operation. Structural & Interior � Concrete core penetration for pipes and conduits � Provide support framing for all units and steel plates as shown in drawing. � Provide support for pipes and conduits. � Work to include wall restoration and painting.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Elisha Distler
+  - Email: elisha.distler@faa.gov
+  - Phone: 8172224196
+- Secondary Contact:
+  - Name: Robert Higgins
+  - Email: robert.higgins@faa.gov
+  - Phone: 7812387670
 
 ## Links
 

@@ -1,3 +1,11 @@
+---
+layout: default
+title: FY26 Joint Base Charleston Airshow - Fuel
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 102f56296c0a4172a307681af61361bb
+---
+
 # FY26 Joint Base Charleston Airshow - Fuel
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,17 @@
 ## Summary
 
 This is a combined synopsis/solicitation for commercial products or commercial services prepared in accordance with FAR part 12. This announcement constitutes the only solicitation. Offers are being requested and a separate written solicitation will not be issued. Solicitation number FA441826Q0025 is issued as a Request for Quotation (RFQ) for the FY26 Joint Base Charleston Air Show Fuel requirement. All responsible sources that may submit a quotation will be considered. This acquisition is solicited as unrestricted. The applicable Product Service Code is 9130 and NAICS code is 488190 for this acquisition. This is not a Defense Priorities and Allocations System (DPAS) rated acquisition. See Attachment #01 � RFQ Pricing Sheet for a complete list of items and quantities for this requirement. The contractor shall provide aviation fuel (AVGAS 100LL & JET A), fuel trucks, operators, and standby fuel services for the FY26 Joint Base Charleston Air Show in accordance with the Statement of Work � Attachment #02. All unused fuel shall be removed no earlier than end of show (estimated time 2200 EST) on 04 May 2026. Contractor is responsible for tracking and invoicing only for the gallons of fuel used. The period of performance (PoP) for this requirement is 29 April � 04 May 2026 and the hours of operation are 0900-2200. This acquisition shall be F.O.B Destination to Joint Base Charleston, South Carolina, 29404. See Attachment #03 for a list of solicitation provisions and clauses that apply to the acquisition. This solicitation incorporates provisions and clauses by reference. The full text of provisions and clauses may be accessed electronically at www.acquisition.gov. Offers in response to this acquisition are due 10 March 2026 by 2:00 EST and must be submitted electronically by email to madison.nerenberg@us.af.mil and taylor.mcdaniel.1@us.af.mil. Instructions to Offerors: Offerors shall utilize Attachment #01 � RFQ Pricing Sheet to submit offered pricing and fill out company name, address, SAM UEI, Cage Code, name, telephone number, and email addresses of your company�s point of contact in response to this RFQ. The Government will not provide contract financing for this acquisition. Invoice instruction shall be provided at time of award. A Firm Fixed Price Purchase Order is anticipated. Offerors shall submit a statement that agrees to all the terms and conditions of this RFQ. Evaluation Procedures and Basis for Award. The Government will award a contract resulting from this solicitation to the responsible offeror whose offer represents the Lowest Priced quote in response to the items identified in the RFQ Pricing Sheet Attachment One. The Government intends to award a contract without interchanges with respective offerors. The Government, however, does reserve the right to hold interchanges with one, some, none, or all offerors. RFQ Due Date: 10 March 2026, 2:00 p.m. EST
+
+## Contacts
+
+- Primary Contact:
+  - Name: Madison Nerenberg
+  - Email: madison.nerenberg@us.af.mil
+  - Phone: 8439635158
+- Secondary Contact:
+  - Name: Taylor K. McDaniel
+  - Email: taylor.mcdaniel.1@us.af.mil
+  - Phone: 8439634491
 
 ## Links
 

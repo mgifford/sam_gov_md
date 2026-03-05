@@ -1,3 +1,11 @@
+---
+layout: default
+title: CPE ST3 Digital Enterprise Engineering Environment (DE3) �Army Training Verse�� Industry Day
+agency: DEPT OF DEFENSE
+notice_type: Special Notice
+notice_id: 40814ba1c9ab41e0a51526ad0eb76e50
+---
+
 # CPE ST3 Digital Enterprise Engineering Environment (DE3) �Army Training Verse�� Industry Day
 
 - Agency: DEPT OF DEFENSE

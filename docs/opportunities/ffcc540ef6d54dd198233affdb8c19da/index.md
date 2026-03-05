@@ -1,3 +1,11 @@
+---
+layout: default
+title: Scope Leasing and Service Contract
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Solicitation
+notice_id: ffcc540ef6d54dd198233affdb8c19da
+---
+
 # Scope Leasing and Service Contract
 
 - Agency: VETERANS AFFAIRS, DEPARTMENT OF
@@ -8,6 +16,12 @@
 ## Summary
 
 This is a VISN wide contract for the leasing of scopes, to include maintenance and service.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Betty Flores
+  - Email: veronica.flores@va.gov
 
 ## Links
 

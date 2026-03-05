@@ -1,3 +1,11 @@
+---
+layout: default
+title: NOZZLE ASSEMBLY, AER
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 44752bb881884e52ac52a12ff899f433
+---
+
 # NOZZLE ASSEMBLY, AER
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,12 @@
 ## Summary
 
 See attachment
+
+## Contacts
+
+- Primary Contact:
+  - Name: Genevee Suba
+  - Email: genevee.suba@us.af.mil
 
 ## Links
 

@@ -1,3 +1,11 @@
+---
+layout: default
+title: Circuit Card Assembly (NSN 5998-01-684-0918)
+agency: DEPT OF DEFENSE
+notice_type: Special Notice
+notice_id: f217acd2847543038d05c84dcf737aaf
+---
+
 # Circuit Card Assembly (NSN 5998-01-684-0918)
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,12 @@
 ## Summary
 
 Solicitation attached.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Electronic Mail: CERRILL.MCMEEKIN@DLA.MIL
+  - Email: CERRILL.MCMEEKIN@DLA.MIL
 
 ## Links
 

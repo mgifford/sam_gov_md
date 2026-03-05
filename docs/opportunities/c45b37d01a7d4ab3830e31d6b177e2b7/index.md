@@ -1,3 +1,11 @@
+---
+layout: default
+title: Laundry Cleaning - BPA - NAF - Solicitation
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: c45b37d01a7d4ab3830e31d6b177e2b7
+---
+
 # Laundry Cleaning - BPA - NAF - Solicitation
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,16 @@
 ## Summary
 
 The Government intends to establish Blanket Purchase Agreement (BPA ) in support of 7 FSS Dyess AFB for processing, cleaning, finishing, and packaging of articles such as uniforms and linens. The critical performance requirements are strict adherence to the pickup and delivery schedules defined in the PWS. The BPA will serve as a flexible and responsive contracting vehicle to meet recurring needs in a timely and cost effective manner. All offer must be registered in SAM.gov and comply with all applicable federal regulations.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Cade Watson
+  - Email: cade.watson@us.af.mil
+- Secondary Contact:
+  - Name: TSgt Trevor Finch
+  - Email: trevor.finch.1@us.af.mil
+  - Phone: 3256964429
 
 ## Links
 

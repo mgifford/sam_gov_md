@@ -1,3 +1,11 @@
+---
+layout: default
+title: CANCEL
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: d0574b26513549a9967d699cb71737a5
+---
+
 # CANCEL
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,17 @@
 ## Summary
 
 CANCEL SOLICITATION
+
+## Contacts
+
+- Primary Contact:
+  - Name: Jennifer Voss
+  - Email: jennifer.n.voss.civ@mail.mil
+  - Phone: Not Applicable
+- Secondary Contact:
+  - Name: Angelina Hutson
+  - Email: angelina.hutson.civ@mail.mil
+  - Phone: Not Applicable
 
 ## Links
 

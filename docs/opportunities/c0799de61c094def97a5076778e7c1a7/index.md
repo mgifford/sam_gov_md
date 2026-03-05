@@ -1,3 +1,11 @@
+---
+layout: default
+title: F-16 SST Repair; NSN; 5998-01-555-5340
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: c0799de61c094def97a5076778e7c1a7
+---
+
 # F-16 SST Repair; NSN; 5998-01-555-5340
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,17 @@
 ## Summary
 
 This is a five-year, firm-fixed-price IDIQ contract for the repair of F-16 SST CCA components. Task orders will be funded and issued as requirements arise. The contractor is responsible for providing all necessary labor, parts, materials, and equipment to fulfill the contract requirements. The contract uses Best Estimated Quantities (BEQ) to establish a realistic estimate of the total quantity of repairs needed. However, these are only estimates and do not represent a guarantee that a certain quantity will be ordered. FAR ClauseSummaryFAR 16.503(a)(1)The estimated total quantity is provided as a Best Estimated Quantity (BEQ). This is not a guarantee of the actual number of orders.FAR 16.503(a)(2)It is not feasible to set a maximum limit on the contractor's obligation to deliver or the Government's obligation to order. The estimated award amount, based on the BEQ, may be exceeded to meet government needs. Early delivery of assets is acceptable at no additional cost to the Government. The Government is not obligated to order any specific quantity of services. The contractor is not entitled to any price adjustments if the Government does not order the estimated quantities.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Paige LaPoint
+  - Email: paige.lapoint@us.af.mil
+  - Phone: 8015862947
+- Secondary Contact:
+  - Name: Sean Neilson
+  - Email: sean.neilson.2@us.af.mil
+  - Phone: 8017509357
 
 ## Links
 

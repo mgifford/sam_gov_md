@@ -1,3 +1,11 @@
+---
+layout: default
+title: Cutting Shields
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: a5a3b3d5aaa040549f5a26fc5cd6be34
+---
+
 # Cutting Shields
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,13 @@
 ## Summary
 
 SEE ATTACHED PRESOLICITATION NOTICE.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Michelle Augustus
+  - Email: michelle.r.augustus.civ@us.navy.mil
+  - Phone: 7573964922
 
 ## Links
 

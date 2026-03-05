@@ -1,3 +1,11 @@
+---
+layout: default
+title: Background Investigation Services
+agency: PEACE CORPS
+notice_type: Combined Synopsis/Solicitation
+notice_id: f3e32c6f314d4d5fa838c1bb96e6cdce
+---
+
 # Background Investigation Services
 
 - Agency: PEACE CORPS
@@ -8,6 +16,15 @@
 ## Summary
 
 Multi-Award Blanket Purchase Aggreements for Background Investigation Services. See the attached solicitation for more details. Clarifying questions are due no later than 3/10/26 at 11am DC Local Time per the instructions within the solicitation.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Clifton Gardner
+  - Email: cgardner@peacecorps.gov
+- Secondary Contact:
+  - Name: ACM Domestic
+  - Email: acmdomestic@peacecorps.gov
 
 ## Links
 

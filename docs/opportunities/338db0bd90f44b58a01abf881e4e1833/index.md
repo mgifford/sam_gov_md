@@ -1,3 +1,11 @@
+---
+layout: default
+title: DLAM PearsonVUE Gov Store
+agency: DEPT OF DEFENSE
+notice_type: Special Notice
+notice_id: 338db0bd90f44b58a01abf881e4e1833
+---
+
 # DLAM PearsonVUE Gov Store
 
 - Agency: DEPT OF DEFENSE

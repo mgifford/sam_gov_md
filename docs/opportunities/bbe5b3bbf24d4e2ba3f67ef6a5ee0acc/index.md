@@ -1,3 +1,11 @@
+---
+layout: default
+title: Turbo HiPace 300 DN100 CF
+agency: ENERGY, DEPARTMENT OF
+notice_type: Combined Synopsis/Solicitation
+notice_id: bbe5b3bbf24d4e2ba3f67ef6a5ee0acc
+---
+
 # Turbo HiPace 300 DN100 CF
 
 - Agency: ENERGY, DEPARTMENT OF
@@ -8,6 +16,12 @@
 ## Summary
 
 Turbo HiPace 300 DN100 CF ORNL is requesting a quote for the same or domestic equivalent of 2000017391 / R&D Paket-Turbo HiPace 300 DN100 CF- and a 2000028157/Mains cable, 115V AC.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Morgan Records
+  - Email: recordsmt@ornl.gov
 
 ## Links
 

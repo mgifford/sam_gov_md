@@ -1,13 +1,30 @@
+---
+layout: default
+title: Q517 - Pharmacy Medication Compounding Contingency Service
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Combined Synopsis/Solicitation
+notice_id: f3ef9b4c416b4378a6b96e106755c98f
+---
+
 # Q517 - Pharmacy Medication Compounding Contingency Service
 
 - Agency: VETERANS AFFAIRS, DEPARTMENT OF
 - Type: Combined Synopsis/Solicitation
 - Posted: 2026-03-04 10:24:38.677-05
 - Solicitation Number: 36C25626Q0420
+- Awardee: null
 
 ## Summary
 
 ***RFQ 36C256260420 Amendment. The purpose of this amendment is to: 1. Extend the deadline for RFQ submissions to 12:00pm, 03-06-2026.*** Description This is a combined synopsis/solicitation for commercial products and commercial services prepared in accordance with the format Revolutionary FAR Overhaul (RFO) in Federal Acquisition Regulation (FAR) subpart 12.202, �Streamlined Procedures for Evaluation and Solicitation for Commercial Products and Commercial Services,� as supplemented with additional information included in this notice. This announcement constitutes the only solicitation; quotes are being requested, and a written solicitation document will not be issued. This solicitation is issued as an RFQ. The solicitation document and incorporated provisions and clauses are those in effect through Federal Acquisition Circular FAC 2025-06 (eff. 08/27/2025]. This solicitation is unrestricted. The associated North American Industrial Classification System (NAICS) code for this procurement is 325412, with a small business size standard of 1,300 Employees. The FSC/PSC is Q517. The Michael E. Debakey VA Medical Center in Houston, TX is seeking Emergency Contingency Services for Hazardous and Non-Hazardous Medication Compounding. All interested contractors shall provide pricing in the table of medications �Pricing� column of the PWS. See section B.3 Delivery Schedule for delivery information. Place of Performance/Place of Delivery Address: Michael E. Debakey VAMC Building 100, Room 2A-290 2002 Holcombe Blvd. Houston, TX 77030 Postal Code: 77030 Country: UNITED STATES The full text of FAR provisions or clauses may be accessed electronically at https://www.acquisition.gov/browse/index/far. The following solicitation provisions and clause apply to this acquisition: FAR 52.212-1, �Instructions to Offerors�Commercial Products and Commercial Services� FAR 52.212-2 Evaluation-Commercial Products and Commercial Services: In accordance with RFO FAR 12.201-1 and FAR 12.201-2 when appropriate, the contracting officer may (1) Insert the provision at 52.212-2, Evaluation-Commercial Products and Commercial Services, in solicitations for commercial products or commercial services. Offerors must complete annual representations and certifications electronically via the System for Award Management (SAM) website located at https://sam.gov/. FAR 52.212-4, �Contract Terms and Conditions�Commercial Products and Commercial Services� [NOV 2023] To facilitate the award process, all quotes must include a statement regarding the terms and conditions herein as follows: "The terms and conditions in the solicitation are acceptable to be included in the award document without modification, deletion, or addition." OR "The terms and conditions in the solicitation are acceptable to be included in the award document with the exception, deletion, or addition of the following:" Quoters shall list exception(s) and rationale for the exception(s), if any. All questions regarding this solicitation shall be submitted via email to the Contract Specialist, Eugene Jackson at Eugene.Jackson2@va.gov no later than 3:00P.M. CST on 25 FEB 2026. Please ensure you ask ALL questions. Quotes are due no later than 04 MAR 2026 at 3:00PM CST and shall be submitted electronically via e-mail to the Contract Specialist, Eugene Jackson at eugene.jackson2@va.gov.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Eugene Jackson
+  - Title: Contract Specialist
+  - Email: Eugene.Jackson2@va.gov
+  - Phone: 713-350-2938
 
 ## Links
 

@@ -1,3 +1,11 @@
+---
+layout: default
+title: 61--Purchase of Turbine Runner for Unit A9
+agency: INTERIOR, DEPARTMENT OF THE
+notice_type: Solicitation
+notice_id: 8834d72fd7374bc8a0ae0f0e6fe02992
+---
+
 # 61--Purchase of Turbine Runner for Unit A9
 
 - Agency: INTERIOR, DEPARTMENT OF THE
@@ -8,6 +16,13 @@
 ## Summary
 
 Purchase of Turbine Runner for Unit A9
+
+## Contacts
+
+- Primary Contact:
+  - Name: Toledo, Virginia
+  - Email: vtoledo@usbr.gov
+  - Phone: 9283438136
 
 ## Links
 

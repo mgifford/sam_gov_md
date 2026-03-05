@@ -1,3 +1,11 @@
+---
+layout: default
+title: Purchase, Install, Removal, On-site Training of 1ea Band Saw
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: 3cf28036c04c4e3aa0df035b8761779e
+---
+
 # Purchase, Install, Removal, On-site Training of 1ea Band Saw
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,17 @@
 ## Summary
 
 This is a Presolicitation Notice issued in accordance with (IAW) Revolutionary FAR Overhaul (RFO) FAR 5.1 and 12.201-1(c)(2). THIS NOTICE IS NOT A REQUEST FOR COMPETITIVE PROPOSALS NOR QUOTATIONS. The Government intends to solicit this requirement directly from suppliers IAW RFO FAR 12.201-1(c)(2) for firm-fixed price contract for purchase, installation, removal/disposal of existing Band Saw, and on-site training in Japanese of 1ea brand new Band Saw at Sagami General Depot, Kanagawa Prefecture, Japan. Anticipated award date is around 15 May 2026 (subject to change). Agency: Department of the Air Force Office: 374th Contracting Squadron, Bldg 620, Yokota Air Base, Fussa-shi, Tokyo, Japan Set-aside: N/A NAICS Code: 221310 Description: Purchase, Install, Removal, On-site Training of 1ea Band Saw, Amada HK400 or equal at Sagami General Depot, JAPAN Note: This project will be performed in its entirety in the country of Japan. The successful offeror must have valid licenses to perform work in the country of Japan.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Kaori Kanematsu
+  - Email: kaori.kanematsu.jp@us.af.mil
+  - Phone: 3152252634
+- Secondary Contact:
+  - Name: Keiko Osawa
+  - Email: keiko.osawa.jp@us.af.mil
+  - Phone: 81425516120
 
 ## Links
 

@@ -17,6 +17,10 @@ function normalizeRecord(raw) {
     AdditionalInfoLink: raw.AdditionalInfoLink || raw['AdditionalInfoLink'] || '',
     Description: raw.Description || '',
     Awardee: raw.Awardee || '',
+    AwardAmount: raw['Award$'] || '',
+    PrimaryContactFullname: raw.PrimaryContactFullname || '',
+    PrimaryContactEmail: raw.PrimaryContactEmail || '',
+    PrimaryContactPhone: raw.PrimaryContactPhone || '',
     matches: raw.matches || [],
   }
 }
@@ -84,6 +88,12 @@ function displayResults(results, query) {
 
     const posted = (record.PostedDate || '').slice(0, 10)
     const excerpt = (record.Description || '').slice(0, 150) + (record.Description?.length > 150 ? '...' : '')
+    const awardee = record.Awardee || ''
+    const awardAmount = record.AwardAmount || ''
+    const primaryContact = record.PrimaryContactFullname || ''
+    const primaryEmail = record.PrimaryContactEmail || ''
+    const primaryPhone = record.PrimaryContactPhone || ''
+    const contactDetails = [primaryContact, primaryEmail, primaryPhone].filter(Boolean).join(' | ')
 
     const markdownLink = record.NoticeId
       ? `<a href="opportunities/${record.NoticeId}/index.md" target="_blank" rel="noreferrer">Markdown</a>`
@@ -101,6 +111,8 @@ function displayResults(results, query) {
         <span><strong>Type:</strong> ${record.Type || 'Unknown'}</span>
         <span><strong>Posted:</strong> ${posted}</span>
       </div>
+      ${awardee || awardAmount ? `<div class="result-meta"><span><strong>Awardee:</strong> ${awardee || '—'}</span><span><strong>Award Amount:</strong> ${awardAmount || '—'}</span></div>` : ''}
+      ${contactDetails ? `<div class="result-meta"><span><strong>Primary Contact:</strong> ${contactDetails}</span></div>` : ''}
       ${excerpt ? `<div class="result-excerpt">${excerpt}</div>` : ''}
       <div class="result-links">
         ${markdownLink}

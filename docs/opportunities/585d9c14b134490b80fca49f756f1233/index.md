@@ -1,3 +1,11 @@
+---
+layout: default
+title: Commercial Laundry Washers
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 585d9c14b134490b80fca49f756f1233
+---
+
 # Commercial Laundry Washers
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,13 @@
 ## Summary
 
 Commercial Laundry Washers 2 ea
+
+## Contacts
+
+- Primary Contact:
+  - Name: Cory Ponder
+  - Email: cory.a.ponder.civ@army.mil
+  - Phone: 2534776356
 
 ## Links
 

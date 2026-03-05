@@ -1,3 +1,11 @@
+---
+layout: default
+title: S208- Complete Grounds Maintenance Services at Fort Mitchell National Cemetery, Fort Mitchell Alabama
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Combined Synopsis/Solicitation
+notice_id: 1cff0213074d48cfab572c75bfec12ce
+---
+
 # S208- Complete Grounds Maintenance Services at Fort Mitchell National Cemetery, Fort Mitchell Alabama
 
 - Agency: VETERANS AFFAIRS, DEPARTMENT OF
@@ -8,6 +16,15 @@
 ## Summary
 
 The National Cemetery Administration (NCA), Fort Mitchell National Cemetery have an immediate need for Grounds, Facilities Maintenance, Interment Support, and Headstone Services. Contractor shall provide all labor, equipment, supervision, and supplies necessary to complete Grounds Maintenance, Facilities Maintenance, Interment Support, and Headstone Services necessary to ensure the services are performed at Fort Mitchell National Cemetery in a manner that will promote and maintain healthy grass, trees, shrubs, and plants while presenting a clean, neat, and professional appearance throughout. Services include, but are not limited to, maintenance of grounds, regular mowing, weed eating, edge trimming of roadways, removal of leaves and debris, as well as, cleaning and pressure washing of headstones, storm debris clean-up, turf maintenance, chemical turf applications/treatments, core aerification, the maintenance and upkeep of mulching beds, columbarium and committal shelter cleaning, holiday support services, sweeping or blowing off cemetery roadways and sidewalks, maintenance of gravesites by cleaning and trimming around headstones. Turf maintenance, plant and tree maintenance, sunken grave repair, trash removal, maintenance of gravesites and headstones, and the alignment and washing of headstones, headstone maintenance, and irrigation maintenance.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Larry Curtis
+  - Email: larry.curtis@va.gov
+- Secondary Contact:
+  - Name: Charnell Cunningham
+  - Email: Charnell.Cunningham@va.gov
 
 ## Links
 

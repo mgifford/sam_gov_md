@@ -1,3 +1,11 @@
+---
+layout: default
+title: Solicitation is Restricted to the Region 5 FERM ZONE 3 BPA Holders
+agency: AGRICULTURE, DEPARTMENT OF
+notice_type: Solicitation
+notice_id: 701655773b8f4f6da9a515d181ed5e5b
+---
+
 # Solicitation is Restricted to the Region 5 FERM ZONE 3 BPA Holders
 
 - Agency: AGRICULTURE, DEPARTMENT OF
@@ -8,6 +16,17 @@
 ## Summary
 
 Solicitation is Restricted to the Region 5 FERM ZONE 3 BPA Holders
+
+## Contacts
+
+- Primary Contact:
+  - Name: Chad A.T. Bullock
+  - Email: chad.bullock@usda.gov
+  - Phone: 3853685300
+- Secondary Contact:
+  - Name: Jim Kaminski
+  - Email: james.kaminski@usda.gov
+  - Phone: 5734538424
 
 ## Links
 

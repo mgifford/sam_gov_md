@@ -1,3 +1,11 @@
+---
+layout: default
+title: BBA Broadband amplifier system
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: a753508294dc4724a3432b9c4244dece
+---
+
 # BBA Broadband amplifier system
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,13 @@
 ## Summary
 
 Amended to include Set aside code. BBA Broadband amplifier system. R and S, High Power Amp system.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Sarah MURDOCK
+  - Email: sarah.murdock@us.af.mil
+  - Phone: 2539823526
 
 ## Links
 

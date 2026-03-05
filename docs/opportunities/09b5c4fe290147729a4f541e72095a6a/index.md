@@ -1,3 +1,11 @@
+---
+layout: default
+title: S--BLM-CO WRFO VAULT TOILET CLEANING
+agency: INTERIOR, DEPARTMENT OF THE
+notice_type: Solicitation
+notice_id: 09b5c4fe290147729a4f541e72095a6a
+---
+
 # S--BLM-CO WRFO VAULT TOILET CLEANING
 
 - Agency: INTERIOR, DEPARTMENT OF THE
@@ -8,6 +16,13 @@
 ## Summary
 
 BLM-CO WRFO VAULT TOILET CLEANING AND PUMPING Amendment 0002 is to extend the quote due date to 03/06/2026 @ 1700. No other changes have been made and all terms and conditions remain the same. The BLM-CO has a requirement for regular vault toilet cleaning and annual pumping in accordance with the Performance Work Statement (see 'A05 PWS WRFO Vault Cleaning and Pumping' in the attachments). Basic Contracting Requirements: 1. Active Registration: www.sam.gov/SAM 2. Compliance with Section 889 clauses. 3. Invoicing and Payment: www.ipp.gov - 14 day prompt pay after delivery. We can accept and pay partial invoices for accepted deliveries. 4. FAR Part 12 & FAR Part 13 5. Total Small Business Set-Aside for NAICS 562991 - Septic Tank and Related Services $9M 6. Type of Contract - Firm Fixed Price - no changes in price. 7. Basis of Award: Price and Other Factors. The other factors are technical and past performance. An award will be made to the Contractor whose proposal conforms to the solicitation and represents the best value to the Government based upon Price and Other Factors. Technical and Past Performance will be considered more important than price, but the lowest price will be the deciding factor amongst the highest graded, technically acceptable offers. No award will be made above the available budget or at a price that can't be determined to be fair and reasonable. The Government will evaluate quotes submitted in response to this solicitation in accordance with the factors listed below. The Government intends not to enter negotiations after the initial review, therefore contractors should submit their best proposal up front 1. Technical Capability/Requirements (Graded as Exceeds, Meets, Does Not Meet) Technical Capability will be assessed based on the proposer's demonstrated experience providing services of similar size and scope for commercial, municipal, state or other federal agencies. The tailored technical response must include how and when the contractor will provide the necessary labor, supervision, quality control, tools, equipment, and supplies. A generic or boilerplate technical response with no specific details will be graded as "does not meet". A proposal that demonstrates the aforementioned capabilities will be graded as Meets or Exceeds. The contractor must demonstrate qualifications and experience of the specific key personnel (supervisor and/or foreman) to provide these services. In lieu of prior recent and relevant experience with commercial, municipal, state, or federal agencies, the contractor may submit a detailed business plan that includes: operating costs (including labor, equipment, and supplies); staff (positions, expertise/qualifications and training plus recruitment of any subcontractors); funding sources (including initial capital and any partnerships or other funding sources); and a description of their motor vehicle fleet, if applicable. This business plan must also address the requirements for operating a commercial business and include a business license, insurance, articles of incorporation and any other applicable requirements. 2. Past Performance (Graded on a confidence scale (Significant Confidence, High Confidence, Confidence, Marginal Confidence, No Confidence. Past performance that shows more relevancy, recency and a higher level of customer satisfaction will be graded higher on the scale. Offeror must provide contact information (name, current phone number or email address, contract identification number, overall dollar value) for this prior work similar in size and scope completed within the last three years. Past performance will be graded upon the information provided in the proposal and any information contained or referenced in Government data bases, e.g., www.SAM.gov, CPARS Integrity and FPDS-NG. 3. Price: Prices will be revealed to the Evaluation team after other factors are graded and will be the deciding factor among similarly graded offers. The Government reserves the right to hold discussions. Minimum Requirements for a responsive bid: 1. Signed SF-1449 with all your info and price filled out. 2. Technical response, data sheet, showing how you plan to complete the work. 3. Email the above items to: pfrost@blm.gov no later than the closing date, MARCH 3, 2026 by 1700 MT, with "140L1726Q0005 - BLM-CO WRFO Vault Toilet Cleaning and Pumping" in the subject line. Your company information to include Name, Address, SAM UEI number, and POC Name and email along with the price should be included in the package. Please include enough description/information in order to determine technical acceptability. If you have any questions, email the POC before close date. pfrost@blm.gov
+
+## Contacts
+
+- Primary Contact:
+  - Name: Frost, Patrick
+  - Email: pfrost@blm.gov
+  - Phone: 3032393605
 
 ## Links
 

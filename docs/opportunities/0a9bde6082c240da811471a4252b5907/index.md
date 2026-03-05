@@ -1,3 +1,11 @@
+---
+layout: default
+title: Various Fabrics (Buy American Act)
+agency: JUSTICE, DEPARTMENT OF
+notice_type: Combined Synopsis/Solicitation
+notice_id: 0a9bde6082c240da811471a4252b5907
+---
+
 # Various Fabrics (Buy American Act)
 
 - Agency: JUSTICE, DEPARTMENT OF
@@ -8,6 +16,13 @@
 ## Summary
 
 This is a combined synopsis/solicitation for various fabrics required to support UNICOR�s production of inmate clothing at the Federal Correctional Institution located in Oakdale, LA. This announcement constitutes the only solicitation; proposals are being requested, and a separate written solicitation will not be issued. The solicitation number is CT2381?26, and it is issued as a Request for Proposals (RFP). This requirement is a 100% Small Business Set?Aside. The applicable small business size standard is 1,000 employees. UNICOR intends to award a five?year, fixed?price Indefinite Delivery/Indefinite Quantity (IDIQ) contract consisting of one base year and four option years. The resulting contract will include an Economic Price Adjustment (EPA) clause. The applicable North American Industry Classification System (NAICS) code is 313210 � Broadwoven Fabric Mills. This solicitation incorporates the requirements of the Buy American Act (BAA) in accordance with FAR Subpart 25.1. All supplies offered must be compliant and will be evaluated accordingly. The contractor shall maintain Vendor?Managed Inventory (VMI) at the supplier�s location and Consignment Inventory at the FCI Oakdale facility.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Renee Stancil
+  - Email: rstancil@central.unicor.gov
+  - Phone: 9195758000
 
 ## Links
 

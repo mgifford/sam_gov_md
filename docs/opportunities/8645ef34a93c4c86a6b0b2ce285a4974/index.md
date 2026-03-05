@@ -1,3 +1,11 @@
+---
+layout: default
+title: Request for Information-Innovative Food Service Equipment, Automation, and Data-Driven Production Solutions
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 8645ef34a93c4c86a6b0b2ce285a4974
+---
+
 # Request for Information-Innovative Food Service Equipment, Automation, and Data-Driven Production Solutions
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,17 @@
 ## Summary
 
 The Air Force Service Center (AFSVC), headquartered at Joint Base San Antonio Lackland Air Force Base, TX is seeking information from industry to assist in identifying commercially available or emerging food service equipment, automation platforms, containerized and modular retail solutions, robotics, data-driven production planning systems, and related technologies that may expand operational capabilities, improve efficiency, enhance access, and strength enterprise resilience across Department of the Air Force (DAF) food service operations. The information received will enable the DAF to assess mature capable assessments, executable solutions prior to considering potential pilot initiatives or future acquisition strategies outlined in the attached draft Statement of Objectives (SOO). The Request For Information (RFI) does not commit the Air Force Nonappropriated Fund Instrumentality (NAFI) to any contractual obligation, procurement action, or financial liability. NOTES OF IMPORTANCE: This is only an RFI notice to assist in market research. Please do not submit proposals. This is not a solicitation, Request for Proposal (RFP), or invitation for bid. The Government does not intend to award a contract based on this RFI. Respondents are discouraged from submitting any information deemed competition-sensitive or proprietary. Respondents will not be reimbursed for any costs incurred in responding to this RFI. Information submitted will not be returned to the respective respondents. Oral submissions of information will not be considered in response to this RFI. To assist the Government in developing a potential acquisition strategy, please provide the following information: GENERAL INFORMATION Company name, address, point of contact, voice and fax telephone numbers and e-mail address. Under which NAICS code does your company usually provide the requirements described in the attached draft SOO. Please describe any customary commercial contract terms or conditions that you feel would make any resulting contract more effective if applicable. **Please note that funds are not presently available for this requirement. Additionally, please note that formal quotes are not being requested at this time. CAPABILITIES: The Government is seeking qualified, experienced sources interested in meeting the requirements of the attached draft SOO. Please address the following regarding your capabilities in meeting the requirements contained in the attached draft SOO: Is your company capable of meeting this requirement in accordance with the attached draft Statement of Objectives (SOO)? Provide questions and comments related to the draft SOO that will assist the NAFI in developing a better requirement package. Suggested topics of interest to include in your questions and comments are: Description of proposed solution(s) and operational applications. Connectivity requirements and offline capabilities. Integration capability with POS, BOH, and ESM workflows. Payment processor compatibility and PCI compliance posture. Sustainment model and lifecycle expectations. Training requirements. Constraints, dependencies, or limitations. Examples of innovative applications relevant to this draft SOO. High-level pricing structures (non-binding). RESPONSES: E-mail your responses to this RFI no later than noon Central Standard Time on Monday, 16 March 2026. Please send all responses to: Valerie Baltimore (Contracting Officer) @ valerie.baltimore@us.af.mil Diana Sanchez (Senior Contract Specialist) @ diana.sanchez.3@us.af.mil Attachment: Draft Statement of Objectives (SOO)_dated 03 March 2026
+
+## Contacts
+
+- Primary Contact:
+  - Name: Valerie Baltimore
+  - Email: valerie.baltimore@us.af.mil
+  - Phone: 3804569205
+- Secondary Contact:
+  - Name: Diana Sanchez
+  - Email: diana.sanchez.3@us.af.mil
+  - Phone: 3804593270
 
 ## Links
 

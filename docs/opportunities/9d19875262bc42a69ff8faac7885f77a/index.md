@@ -1,3 +1,11 @@
+---
+layout: default
+title: Sources Sought Notice: Guide, Firing Pin (NSN: 1005-13-122-1241)
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 9d19875262bc42a69ff8faac7885f77a
+---
+
 # Sources Sought Notice: Guide, Firing Pin (NSN: 1005-13-122-1241)
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,16 @@
 ## Summary
 
 SOURCES SOUGHT NOTICE The Army Contracting Command � Detroit Arsenal (ACC-DTA) is seeking to gain knowledge of interest, capabilities, and qualifications of various members of the community, to include both small and large businesses, for production of the following: Guide, Firing Pin NSN: 1005-13-122-1241 PART NO.: 3524470030 The purpose of this market survey is to identify potential offerors and gather information for planning purposes about capabilities of each industry source. This input will help ACC-DTA ascertain the interest, capability, and capacity of all potential offerors. The survey does not constitute a solicitation and shall not be construed as commitment by the Government to award a contract. No telephone responses will be accepted. Interested vendors are encouraged to complete the survey located under "Attachments/Links" and return it via e-mail to: Michael Shammami Contract Specialist, ACC-DTA E-mail: Michael.S.Shammami.Civ@Army.Mil Subject Line: �Guide, Firing Pin Survey Response� All survey responses must be received no later than Wednesday, 18-March-2026 at 5:00 p.m. eastern.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Michael Shammami
+  - Email: michael.s.shammami.civ@army.mil
+  - Phone: (571) 588-9389
+- Secondary Contact:
+  - Name: Steven Klemmer
+  - Email: steven.m.klemmer.civ@army.mil
 
 ## Links
 

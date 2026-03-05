@@ -1,3 +1,11 @@
+---
+layout: default
+title: Sources Sought Notice only. Unarmed security guard service at the Bakersfield National Cemetery. -- S206
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: 1046b5cab59f4b73b51d78c9407d8641
+---
+
 # Sources Sought Notice only. Unarmed security guard service at the Bakersfield National Cemetery. -- S206
 
 - Agency: VETERANS AFFAIRS, DEPARTMENT OF
@@ -8,6 +16,12 @@
 ## Summary
 
 Sources Sought Notice only. Unarmed security guard service at the Bakersfield National Cemetery. -- S206 Sources Sought Notice only. Unarmed security guard service at the Bakersfield National Cemetery. Please email capabilities statement AND SAM UEI number to Stacey.Lewallen@va.gov NLT 13 March 2026. Sources Sought Notice only. Unarmed security guard service at the Bakersfield National Cemetery. Please email capabilities statement AND SAM UEI number to Stacey.Lewallen@va.gov NLT 13 March 2026.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Stacey Lewallen
+  - Email: Stacey.Lewallen@va.gov
 
 ## Links
 

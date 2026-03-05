@@ -1,3 +1,11 @@
+---
+layout: default
+title: Alabama National Cemetery - Gravesite Expansion Phase 3
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Solicitation
+notice_id: e3b4e643ad494cd29eb75427d5028dd8
+---
+
 # Alabama National Cemetery - Gravesite Expansion Phase 3
 
 - Agency: VETERANS AFFAIRS, DEPARTMENT OF
@@ -8,6 +16,13 @@
 ## Summary
 
 03/04/2026: Published Solicitation Amendment 0001 See attached amendment and supporting document See attached solicitation and supporting documents
+
+## Contacts
+
+- Primary Contact:
+  - Name: Daniel Kinney
+  - Email: daniel.kinney@va.gov
+  - Phone: 4028304683
 
 ## Links
 

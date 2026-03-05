@@ -1,3 +1,11 @@
+---
+layout: default
+title: Condition Oven
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 0064432539454372ae8bdf72bf7b9a19
+---
+
 # Condition Oven
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,13 @@
 ## Summary
 
 Tube Condition Oven
+
+## Contacts
+
+- Primary Contact:
+  - Name: Steven Mccauley
+  - Email: steven.a.mccauley.civ@army.mil
+  - Phone: 5735960223
 
 ## Links
 

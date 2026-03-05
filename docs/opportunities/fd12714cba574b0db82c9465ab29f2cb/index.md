@@ -1,3 +1,11 @@
+---
+layout: default
+title: SPRRA226R0052 MULTI NSN
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: fd12714cba574b0db82c9465ab29f2cb
+---
+
 # SPRRA226R0052 MULTI NSN
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,12 @@
 ## Summary
 
 PLEASE SEE ATTACHED
+
+## Contacts
+
+- Primary Contact:
+  - Name: Kristen Woodard
+  - Email: kristen.woodard@dla.mil
 
 ## Links
 

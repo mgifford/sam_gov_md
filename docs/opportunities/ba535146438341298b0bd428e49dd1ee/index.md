@@ -1,3 +1,11 @@
+---
+layout: default
+title: RFI - Lead Abatement Training, ME - WOSB Concern
+agency: ENVIRONMENTAL PROTECTION AGENCY
+notice_type: Solicitation
+notice_id: ba535146438341298b0bd428e49dd1ee
+---
+
 # RFI - Lead Abatement Training, ME - WOSB Concern
 
 - Agency: ENVIRONMENTAL PROTECTION AGENCY
@@ -8,6 +16,13 @@
 ## Summary
 
 RFI - Lead Abatement Training, ME - WOSB Concern
+
+## Contacts
+
+- Primary Contact:
+  - Name: Williams, Brandon
+  - Email: Williams.Brandon@epa.gov
+  - Phone: 617-918-1965
 
 ## Links
 

@@ -1,13 +1,30 @@
+---
+layout: default
+title: V225--Ground Ambulance
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Combined Synopsis/Solicitation
+notice_id: ca8f39e3f6e84ac3808c99e7b4b56cb8
+---
+
 # V225--Ground Ambulance
 
 - Agency: VETERANS AFFAIRS, DEPARTMENT OF
 - Type: Combined Synopsis/Solicitation
 - Posted: 2026-03-04 09:54:26.784-05
 - Solicitation Number: 36C25626Q0347
+- Awardee: null
 
 ## Summary
 
 ?.## COMBINE SYNOPSIS SOLICITATION Solicitation Number: 36C25626Q0347 1. This is a combined synopsis/solicitation for commercial items prepared in accordance with the format in Federal Acquisition Regulation (FAR) subpart 12.This announcement constitutes the only solicitation; quotes are being requested, and a written solicitation will not be issued. 2. This solicitation document incorporates provisions and clauses are those in effect through FAC 2025-06 (eff. 10/01/2025) FAR Deviation NOV 2025 (eff. 11/19/2025) VAAR DEVIATION APR 2025 (eff. 04/01/2025) VAAM Alert 26-01 (eff. 10/01/2025) Acquisition Policy Flash 26-23 eff. 11/19/2025. 3. This requirement is solicited as unrestricted. The North American Industry Classification System number is 621910 with a size standard in number of $22.5 Million. 4. Place of Performance: Gulf Coast Veterans Health Care Systems. 400 Veterans Avenue, Biloxi, MS 39531 and Community Based Outpatient Clinic (CBOC)s 5. Period of Performance: April 1, 2026, to March 31, 2027, plus 4 twelve(12) month option periods. . 6. All questions regarding this solicitation shall be submitted via email to Tina Harris at tina.harris3@va.gov no later than 12:00pm. Central Standard Time on 2/16/2026. 7. Quotes are due no later than 2/27/2026 at 12:00pm (CST) and shall be submitted electronically via e-mail to tina.harris3@va.gov 8. Please review solicitation in its entirety, review instructions to offeror and evaluation factors. The following provisions apply to this acquisition: 52.212-1 Introduction to Offerors Commercial, applies to this acquisition. 52.212-2 ADDENDUM, EVALUATION COMMERCIAL ITEMS (Nov 2021) The clause at 52.212-4, Addendum Contract Terms and Conditions Addendum to FAR 52.212-4 shows FAR clauses followed by VAAR clauses in numeric order. When preparing quotes in response to this solicitation offerors/contractors shall refer to FAR 52.212-1 (Instructions to Offerors Commercial Items), FAR 52.212-2 (Evaluation-Commercial Items), and Addendum FAR Part 52.212-2. These sections contain specific instructions, guidance, format, and exact requirements for what constitutes a complete and responsive quote. As specified in these sections an incomplete and/or non-responsive quote shall not be considered for contract award by the contracting officer. As required by the McNamara-O Hara Service Contract Act (which applies to this acquisition) a wage determination covering the performance location where services execution will occur has been included/incorporated within this solicitation by the government. This wage determination has been provided for guidance and informational purposes only. It is strongly recommended that offerors/contractors familiarize themselves with the applicable labor laws, associated wage rates, and other applicable benefits that may apply to personnel who will be supporting this acquisition at a future time under an active contract. Any such costs (if applicable) shall be taken into consideration during the contractor s price formulations for this acquisition
+
+## Contacts
+
+- Primary Contact:
+  - Name: Tina Harris
+  - Title: Contracting Officer
+  - Email: tina.harris3@va.gov
+  - Phone: 228-523-5066
 
 ## Links
 

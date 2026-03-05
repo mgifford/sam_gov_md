@@ -1,3 +1,11 @@
+---
+layout: default
+title: MEDICAL EDUCATION AND TRAINING CAMPUS DORM 1
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 07b1787ecd184dbcbbe6d615d3047fca
+---
+
 # MEDICAL EDUCATION AND TRAINING CAMPUS DORM 1
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,13 @@
 ## Summary
 
 MEDICAL EDUCATION AND TRAINING CAMPUS DORM 1. See attachment for details.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Emmanuel Hardrick
+  - Email: emmanuel.d.hardrick@usace.army.mil
+  - Phone: 8178861088
 
 ## Links
 

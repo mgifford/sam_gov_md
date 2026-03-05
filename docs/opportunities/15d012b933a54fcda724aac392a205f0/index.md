@@ -1,3 +1,11 @@
+---
+layout: default
+title: BRAND NAME OEM CRANE BUTTERFLY VALVES
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 15d012b933a54fcda724aac392a205f0
+---
+
 # BRAND NAME OEM CRANE BUTTERFLY VALVES
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,12 @@
 ## Summary
 
 NAVSUP Fleet Logistics Center Puget Sound intends to solicit and contract a firm fixed price, supply type contract for OEM CRANE BUTTERFLY VALVES with only one source, MCC Holdings, Inc. dba CRANE VALVE NORTH AMERICA. This is a combined synopsis/solicitation for commercial products or commercial services prepared in accordance with part 12. This announcement constitutes the only solicitation. Offers are being requested and a separate written solicitation will not be issued. Solicitation number N0040626QS212 is issued as a Request for Quote (RFQ) for BRAND NAME OEM CRANE BUTTERFLY VALVES. This acquisition is not set-aside for small business concerns. This solicitation incorporates provisions and clauses by reference. The full text of provisions and clauses may be accessed electronically at www.acquisition.gov See attached solicitation for requirements. Solicitation closes on 09 MARCH 2026 at 11:45 PM (PST). The Government anticipates awarding on or about 13 MARCH 2026. All questions regarding this solicitation should be submitted to Crista Carrier, Crista.m.carrier2.civ@us.navy.mil.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Crista Carrier
+  - Email: crista.m.carrier2.civ@us.navy.mil
 
 ## Links
 

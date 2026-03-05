@@ -1,3 +1,11 @@
+---
+layout: default
+title: Crane 2BCT
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 408833532a0f4e8ab0dcd5ef720ab0d4
+---
+
 # Crane 2BCT
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,17 @@
 ## Summary
 
 The contractor shall provide operators, a rigging team, and one (I) Crane capable of hoisting an MIA2 Tank (73.59 tons) off of a rail car and placing the Tank on the ground. Center of gravity for the radius is 36-38 feet (i.e., the center of the MIA2 tank to the center of the crane is approximately 36-38 feet). The radius is due to stand-off distance from the crane's stationary operating position to the tracks containing the railcars and broken equipment. The heaviest load is the MIA2 tank; it weighs 73.59 tons. Request for Quote Please return this electronic RFQ by 10:00 AM (CST) on 06 Mar, 2026, all questions are due by 05 Mar, 2026 08:00 AM (CST). .Point of Contact: Kelsey M Anderson, Contract Specialist, Fort Riley, KS E-Mail: kelsey.m.anderson12.civ@army.mil Point of Contact: Shannon S Campbell, Contracting Officer, Fort Riley, KS E-Mail: shannon.s.campbell.civ@army.mil also, please include the following company information with your quote: Company Name: POC: Phone: Email Address:
+
+## Contacts
+
+- Primary Contact:
+  - Name: Shannon S Campbell
+  - Email: shannon.s.campbell.civ@army.mil
+  - Phone: 5209440970
+- Secondary Contact:
+  - Name: Kelsey Anderson
+  - Email: kelsey.m.anderson12.civ@army.mil
+  - Phone: 5209441194
 
 ## Links
 

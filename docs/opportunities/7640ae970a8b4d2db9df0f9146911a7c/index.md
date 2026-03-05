@@ -1,3 +1,11 @@
+---
+layout: default
+title: Marine Corps Center for Lessons Learned (MCCLL) Program Support Services
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 7640ae970a8b4d2db9df0f9146911a7c
+---
+
 # Marine Corps Center for Lessons Learned (MCCLL) Program Support Services
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,15 @@
 ## Summary
 
 The scope of this effort is to provide program management and planning, lessons learned program support and collections, analysis and report production, and content management and transcription related to the Marine Corps Lessons Learned Program (MCLLP). The Contractor shall provide comprehensive capabilities to support mission accomplishment. Collectively, the Contractor shall provide support services across task areas identified by MCCLL.This is the follow-on procurement of contract M00264-21-C-0005.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Christian Hernandez Soto
+  - Email: christian.hernandezsoto@usmc.mil
+- Secondary Contact:
+  - Name: Genia Fouts
+  - Email: genia.fouts@usmc.mil
 
 ## Links
 

@@ -1,3 +1,11 @@
+---
+layout: default
+title: Notice of Intent to Award Sole Source Cut Suit and Supplies
+agency: DEPT OF DEFENSE
+notice_type: Special Notice
+notice_id: b90f467d0ace4cc48d33026c837484f8
+---
+
 # Notice of Intent to Award Sole Source Cut Suit and Supplies
 
 - Agency: DEPT OF DEFENSE
@@ -7,6 +15,12 @@
 ## Summary
 
 Notice of Intent to Award Sole Source Cut Suit and Supplies
+
+## Contacts
+
+- Primary Contact:
+  - Name: MEDCOM
+  - Email: karan.e.quiles.civ@health.mil
 
 ## Links
 

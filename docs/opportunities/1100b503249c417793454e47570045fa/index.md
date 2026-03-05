@@ -1,3 +1,11 @@
+---
+layout: default
+title: Section 508 Compliant Files
+agency: UNITED STATES GOVERNMENT PUBLISHING OFFICE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 1100b503249c417793454e47570045fa
+---
+
 # Section 508 Compliant Files
 
 - Agency: UNITED STATES GOVERNMENT PUBLISHING OFFICE
@@ -8,6 +16,16 @@
 ## Summary
 
 These specifications cover the production of assessing and remediating files to bring them into compliance with 29 USC Section 508; including providing a text equivalent for every non-text element via �alt� tags, �longdesc�, or in element content; organize documents so they are readable without requiring an associated style sheet; identify row and column headers for data tables; have HTML or text alternatives for all PDF files. The remediated files must meet WCAG 2.1 Level A and Level AA Success Criteria. When requested the remediated files must meet PDF/UA Success Criteria. Complete specifications may be found at: https://www.gpo.gov/how-to-work-with-us/vendors/contract-opportunities
+
+## Contacts
+
+- Primary Contact:
+  - Name: Felicia Buchko
+  - Email: fbuchko@gpo.gov
+- Secondary Contact:
+  - Name: Chuck Szopo
+  - Email: cszopo@gpo.gov
+  - Phone: 2025239231
 
 ## Links
 

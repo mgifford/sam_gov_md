@@ -1,3 +1,11 @@
+---
+layout: default
+title: Commercial Dryer
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 72e8a6f8bfa04bbab93848ff6ca280ef
+---
+
 # Commercial Dryer
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,13 @@
 ## Summary
 
 Commercial Dryers
+
+## Contacts
+
+- Primary Contact:
+  - Name: Steven Mccauley
+  - Email: steven.a.mccauley.civ@army.mil
+  - Phone: 5735960223
 
 ## Links
 

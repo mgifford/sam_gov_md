@@ -1,3 +1,11 @@
+---
+layout: default
+title: DDWG SPECIAL PACKAGING INSTRUCTIONS (SPI) CONTAINERS
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 1669e4ebc698405799446fbe9e70eaaf
+---
+
 # DDWG SPECIAL PACKAGING INSTRUCTIONS (SPI) CONTAINERS
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,13 @@
 ## Summary
 
 see attachments Amend 0001 - post drawings (acess required) and first Q&A
+
+## Contacts
+
+- Primary Contact:
+  - Name: Brian Keckler
+  - Email: brian.keckler@dla.mil
+  - Phone: 6146937800
 
 ## Links
 

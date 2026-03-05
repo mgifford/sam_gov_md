@@ -1,3 +1,11 @@
+---
+layout: default
+title: KIMAMA & ROGERSON GUARD STATIONS FLOORING
+agency: INTERIOR, DEPARTMENT OF THE
+notice_type: Solicitation
+notice_id: ce7970e4b360401ebf9b6264165c0d70
+---
+
 # KIMAMA & ROGERSON GUARD STATIONS FLOORING
 
 - Agency: INTERIOR, DEPARTMENT OF THE
@@ -8,6 +16,13 @@
 ## Summary
 
 KIMAMA & ROGERSON GUARD STATIONS FLOORING
+
+## Contacts
+
+- Primary Contact:
+  - Name: Fort, Patricia
+  - Email: pfort@blm.gov
+  - Phone: 2083733910
 
 ## Links
 

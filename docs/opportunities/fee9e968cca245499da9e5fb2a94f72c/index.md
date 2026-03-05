@@ -1,3 +1,11 @@
+---
+layout: default
+title: TRANSMITTER,ANGLE O
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: fee9e968cca245499da9e5fb2a94f72c
+---
+
 # TRANSMITTER,ANGLE O
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,13 @@
 ## Summary
 
 NSN: 6610012531448WF Qty: 1
+
+## Contacts
+
+- Primary Contact:
+  - Name: Richard Dunlap
+  - Email: richard.dunlap.2@us.af.mil
+  - Phone: 3855198306
 
 ## Links
 

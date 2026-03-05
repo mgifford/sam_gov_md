@@ -1,3 +1,11 @@
+---
+layout: default
+title: 16 MP EUV Vacuum Flanged Camera
+agency: COMMERCE, DEPARTMENT OF
+notice_type: Combined Synopsis/Solicitation
+notice_id: 47e3871bab2a40ff86d63c76714b811d
+---
+
 # 16 MP EUV Vacuum Flanged Camera
 
 - Agency: COMMERCE, DEPARTMENT OF
@@ -8,6 +16,12 @@
 ## Summary
 
 Please see attachments for details
+
+## Contacts
+
+- Primary Contact:
+  - Name: Junee Johnson
+  - Email: junee.johnson@nist.gov
 
 ## Links
 

@@ -1,3 +1,11 @@
+---
+layout: default
+title: Maintenance for a 6545/6546 LC/QTOF System in the NCI Cancer Metabolism Program of the Neuro-Oncology Branch (NOB)
+agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+notice_type: Special Notice
+notice_id: 1bcb5c87f2bd4244b153fd31a1560f94
+---
+
 # Maintenance for a 6545/6546 LC/QTOF System in the NCI Cancer Metabolism Program of the Neuro-Oncology Branch (NOB)
 
 - Agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
@@ -7,6 +15,12 @@
 ## Summary
 
 THIS IS A NOTICE OF INTENT TO AWARD A SOLE SOURCE ORDER AND NOT A REQUEST FOR QUOTATIONS. This contract action is for the acquisition of services for which the Government intends to solicit and negotiate with only one source under the authority of Federal Acquisition Regulation (FAR) Subpart 13.106-1(b). The National Cancer Institute (NCI) intends to award a single source purchase order to Agilent Technologies Inc, 5301 Stevens Creek Blvd, Santa Clara, CA 95051, for the acquisition of maintenance for a 6545/6546 LC/QTOF System in the Cancer Metabolism Program of the Neuro-Oncology Branch (NOB). The U.S. Department of Health and Human Services (HHS), National Institutes of Health (NIH), National Cancer Institute (NCI), Center for Cancer Research (CCR), the Cancer Metabolism Program at NOB has one 6545/6546 LC/QTOF System that needs to be covered by a service contract. Keeping this instrument on a service agreement is a necessity as any instrument downtime has the potential to affect the work of NCI researchers from different Labs who collaborate with the program in NOB. Agilent Technologies Inc is the only vendor able to service this instrument. They are the designer and manufacturer of the 6545/6546 LC/QTOF System and hold multiple patents on the instrument. The Contractor shall provide all labor, material and equipment for preventive maintenance on this machine. All maintenance services shall be performed in accordance with the manufacturer's standard maintenance practices. The anticipated period of performance will be from March 15, 2026 through March 14, 2029, if all options are exercised. The applicable North American Industry Classification System (NAICS) code for this acquisition is 811210 � Electronic and Precision Equipment Repair and Maintenance and a size standard of $34M. NCI will solicit and negotiate directly with Agilent Technologies Inc and no solicitation will be issued. Interested parties may identify their interest and capability. Award is subject to approval of the Sole Source Justification. This notice of intent is not a request for competitive proposals or quotations; however, an interested party may submit a statement of capabilities if they believe they can meet the above requirement. The statement of capabilities must be submitted in writing and contain sufficient detail to allow the Government to determine if the party can provide the requirement. A determination by the Government not to compete this proposed action based upon responses to this notice is solely with the discretion of the Government. All responses must be received within 5 days from the date of publication of this synopsis. Information received will normally be considered for the purpose of determining whether to conduct a competitive procurement. If no affirmative responses are received within 5 days of this notice, an award will be made to Agilent Technologies Inc. This procurement is to be processed using Simplified Acquisition Procedures. There is no solicitation package available. For any questions regarding this announcement, please contact Elizabeth Bulger via email Elizabeth.bulger@hhs.gov.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Elizabeth Bulger
+  - Email: elizabeth.bulger@hhs.gov
 
 ## Links
 

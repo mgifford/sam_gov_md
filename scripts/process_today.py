@@ -9,7 +9,7 @@ import json
 import re
 from collections import Counter
 from dataclasses import dataclass
-from datetime import date
+from datetime import date, datetime
 from pathlib import Path
 from typing import Any
 
@@ -36,6 +36,19 @@ def normalize_date(posted_date: str) -> str:
     if not posted_date:
         return ""
     return posted_date[:10]
+
+
+def parse_date(value: str) -> date | None:
+    value = (value or "").strip()
+    if not value:
+        return None
+    value = value[:10]
+    for fmt in ("%Y-%m-%d", "%m/%d/%Y"):
+        try:
+            return datetime.strptime(value, fmt).date()
+        except ValueError:
+            continue
+    return None
 
 
 def is_win(row: dict[str, str]) -> bool:
@@ -155,29 +168,29 @@ def build_award_company_history(all_rows: list[dict[str, Any]]) -> dict[str, Any
             continue
         awardee_counts[awardee] += 1
 
-        award_date = normalize_date(row.get("AwardDate", "") or row.get("PostedDate", ""))
-        if not award_date:
+        award_dt = parse_date(row.get("AwardDate", ""))
+        if not award_dt or award_dt.year < 1990 or award_dt.year > 2100:
+            award_dt = parse_date(row.get("PostedDate", ""))
+        if not award_dt:
             continue
-        month_key = award_date[:7]
+        month_key = f"{award_dt.year:04d}-{award_dt.month:02d}"
+        month_display = f"{award_dt.month:02d}-01-{award_dt.year:04d}"
         bucket = by_month.setdefault(
             month_key,
-            {"month": month_key, "awarded": 0, "companies": set()},
+            {"month_display": month_display, "month_key": month_key, "awarded": 0, "companies": set()},
         )
         bucket["awarded"] += 1
         bucket["companies"].add(awardee)
 
-    monthly = sorted(
-        [
-            {
-                "month": item["month"],
-                "awarded": item["awarded"],
-                "unique_companies": len(item["companies"]),
-            }
-            for item in by_month.values()
-        ],
-        key=lambda row: row["month"],
-        reverse=True,
-    )
+    sorted_months = sorted(by_month.values(), key=lambda item: item["month_key"], reverse=True)
+    monthly = [
+        {
+            "month": item["month_display"],
+            "awarded": item["awarded"],
+            "unique_companies": len(item["companies"]),
+        }
+        for item in sorted_months
+    ]
 
     leaders = [
         {"company": company, "awarded": count}
@@ -212,8 +225,27 @@ def write_markdown_opportunities(records: list[dict[str, Any]], output_dir: Path
         description = (row.get("Description") or "").strip()
         sam_link = (row.get("Link") or "").strip()
         pdf_link = (row.get("AdditionalInfoLink") or "").strip()
+        awardee = (row.get("Awardee") or "").strip()
+        award_amount = (row.get("Award$") or "").strip()
+        primary_contact_name = (row.get("PrimaryContactFullname") or "").strip()
+        primary_contact_title = (row.get("PrimaryContactTitle") or "").strip()
+        primary_contact_email = (row.get("PrimaryContactEmail") or "").strip()
+        primary_contact_phone = (row.get("PrimaryContactPhone") or "").strip()
+        secondary_contact_name = (row.get("SecondaryContactFullname") or "").strip()
+        secondary_contact_title = (row.get("SecondaryContactTitle") or "").strip()
+        secondary_contact_email = (row.get("SecondaryContactEmail") or "").strip()
+        secondary_contact_phone = (row.get("SecondaryContactPhone") or "").strip()
 
+        # Create Jekyll front matter
         markdown_lines = [
+            "---",
+            f"layout: default",
+            f"title: {title}",
+            f"agency: {agency}",
+            f"notice_type: {notice_type}",
+            f"notice_id: {notice_id}",
+            "---",
+            "",
             f"# {title}",
             "",
             f"- Agency: {agency}",
@@ -222,8 +254,46 @@ def write_markdown_opportunities(records: list[dict[str, Any]], output_dir: Path
         ]
         if sol_number:
             markdown_lines.append(f"- Solicitation Number: {sol_number}")
+        if awardee:
+            markdown_lines.append(f"- Awardee: {awardee}")
+        if award_amount:
+            markdown_lines.append(f"- Award Amount: {award_amount}")
 
         markdown_lines.extend(["", "## Summary", "", description or "No summary provided."])
+
+        if any(
+            [
+                primary_contact_name,
+                primary_contact_title,
+                primary_contact_email,
+                primary_contact_phone,
+                secondary_contact_name,
+                secondary_contact_title,
+                secondary_contact_email,
+                secondary_contact_phone,
+            ]
+        ):
+            markdown_lines.extend(["", "## Contacts", ""])
+            if primary_contact_name or primary_contact_title or primary_contact_email or primary_contact_phone:
+                markdown_lines.append("- Primary Contact:")
+                if primary_contact_name:
+                    markdown_lines.append(f"  - Name: {primary_contact_name}")
+                if primary_contact_title:
+                    markdown_lines.append(f"  - Title: {primary_contact_title}")
+                if primary_contact_email:
+                    markdown_lines.append(f"  - Email: {primary_contact_email}")
+                if primary_contact_phone:
+                    markdown_lines.append(f"  - Phone: {primary_contact_phone}")
+            if secondary_contact_name or secondary_contact_title or secondary_contact_email or secondary_contact_phone:
+                markdown_lines.append("- Secondary Contact:")
+                if secondary_contact_name:
+                    markdown_lines.append(f"  - Name: {secondary_contact_name}")
+                if secondary_contact_title:
+                    markdown_lines.append(f"  - Title: {secondary_contact_title}")
+                if secondary_contact_email:
+                    markdown_lines.append(f"  - Email: {secondary_contact_email}")
+                if secondary_contact_phone:
+                    markdown_lines.append(f"  - Phone: {secondary_contact_phone}")
         markdown_lines.extend(["", "## Links", ""])
         if sam_link:
             markdown_lines.append(f"- SAM.gov: {sam_link}")

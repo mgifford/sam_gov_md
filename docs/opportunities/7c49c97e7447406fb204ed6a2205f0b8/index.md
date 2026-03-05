@@ -1,3 +1,11 @@
+---
+layout: default
+title: Replace Site Lighting Electrical Conduits at 5 LFs
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 7c49c97e7447406fb204ed6a2205f0b8
+---
+
 # Replace Site Lighting Electrical Conduits at 5 LFs
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,17 @@
 ## Summary
 
 This is a Combined Synopsis/Solicitation for simplified acquisition of a construction requirement. This announcement constitutes the only solicitation/notice, responses/proposals are being requested, and further written solicitation will not be issued. This solicitation will be solicited as a 100% Small Business Set-Aside on SAM.gov. The 90th Contracting Squadron is issuing this requirement under FAR Part 13, Simplified Acquisition Procedures. The Government intends to award a Firm Fixed-Price contract. The solicitation document and incorporated provisions and clauses are those in effect through the Federal Acquisition Circular (FAC) 2025-06 published 01 December 2025, Defense Federal Acquisition Regulation Supplement (DFARS) published 10 November 2025, and Department of the Air Force Acquisition Regulation Supplement (DAFFARS) DAFAC 2024-1016 effective 16 October 2024. Proposals must be complete, self-sufficient, and respond directly to the requirements of this solicitation. It shall demonstrate the ability to provide the required services in accordance with the Statement of Work (SOW) dated 18 December 2025. 1. Refer to Attachment 1 Statement of Work (SOW) dated 18 December 2025 to the above project to include all contract materials and workmanship to be supplied and performed in accordance with existing contract standards, codes, practices and specifications. Refer to Attachment 2 AF Form 66 for submittals. 2. Company must be registered in SAM.gov and fit the small business size standard of the solicited NAICS. Awardee shall be registered in SAM, no active exclusions, and acceptable supplier risk profile in SPRS module. A score in the NIST SP 800-171 (if below 110 a plan of improvement is required with proposal) or Level 2 in CMMC of SPRS is required to obtain the Attachment 3 CUI Map Layout. Please fill out Attachment 3 MFR CUI Control & Receipt to have your assessment score checked and if compliant, obtain the necessary CUI Map Layout to fully understand the scope of the project. Proposals received from Contractors who did not obtain Attachment 3 CUI Map Layout may be deemed unacceptable due to not having the full scope of the project. 3. The site visit is to be determined. Offeror shall request a site visit no later than 11:00 am MT on Thursday, 12 March 2026 via emailing Ms. Megan Evans at megan.evans.3@us.af.mil and SSgt Kyra Niece at kyra.niece@us.af.mil. Personnel who requested the site visit will be contacted by Ms. Evans once a date/time is established. Personnel wishing to attend will need to provide their Drivers License image (front side) to be put on an Entry Authorization List (EAL) as the site to be visited is secured. Please submit the images of the Drivers Licenses of those wishing to attend when requesting a site visit. 4. Questions are due to 90 CONS by 11:00 am MT, the day after the site visit. Submit questions via email only to Ms. Megan Evans at megan.evans.3@us.af.mil and SSgt Kyra Niece at kyra.niece@us.af.mil. If there is no request for a site visit, the Questions are due by 11:00 am MT, Tuesday, 17 March 2026. 5. The Davis Bacon Act Wage Determination applies, refer to Attachment 4 Combined Wage Determinations. 6. A Bid Guarantee is required, please submit Attachment 5 SF 24 Bid Bond Form, along with your proposal. 7. This solicitation, along with Attachment 6 Cost Estimate Breakdown, is also to be submitted with the proposal. 8. Submit proposal to this RFP no later than 11:00 am MT on Thursday, 26 March 2026 by emailing proposals to megan.evans.3@us.af.mil and kyra.niece@us.af.mil. Solicitation responses shall be sent via electronic means only (emailed only; mailed, hand-carried or faxed proposal shall not be accepted). Offers shall have a valid date of 60 calendar days from day of proposal receipt. Late offers shall not be accepted once solicitation has ended.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Megan Evans
+  - Email: megan.evans.3@us.af.mil
+  - Phone: 3077736645
+- Secondary Contact:
+  - Name: Kyra Niece
+  - Email: kyra.niece@us.af.mil
+  - Phone: 3077733331
 
 ## Links
 

@@ -1,3 +1,11 @@
+---
+layout: default
+title: SP4701-26-R-0002 -RFP-ERP Cloud Hosting and Subscription Licenses with Managed Services
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 2d76083df0814aa0b14856706c506d68
+---
+
 # SP4701-26-R-0002 -RFP-ERP Cloud Hosting and Subscription Licenses with Managed Services
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,13 @@
 ## Summary
 
 DLA has a requirement for brand-name "System Applications and Products (SAP)" Enterprise Resource Planning (ERP) Cloud Hosting and Subscription Licenses with Managed Services. The resulting Indefinite Delivery Indefinite Quantity (IDIQ) contract for SAP cloud services will be delivered via a Software-as-a-Service (SaaS) model to support DLA's mission-critical SAP Platform (J62X) workloads. The environment will support multiple ERP applications integrated with DLA's existing SAP infrastructure that powers the agency's primary business systems essential to fulfilling DLA's critical mission for the Department of Defense (DoD).
+
+## Contacts
+
+- Primary Contact:
+  - Name: Cecilia Geraghty
+  - Email: Cecilia.Geraghty@dla.mil
+  - Phone: 4457377424
 
 ## Links
 

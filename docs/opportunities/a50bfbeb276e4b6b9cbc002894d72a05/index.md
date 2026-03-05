@@ -1,3 +1,11 @@
+---
+layout: default
+title: Industrial Press Equipment
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: a50bfbeb276e4b6b9cbc002894d72a05
+---
+
 # Industrial Press Equipment
 
 - Agency: DEPT OF DEFENSE
@@ -8,6 +16,13 @@
 ## Summary
 
 Amended to change NAICS Industrial Press Equipment. Recompete from W911S226U2637.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Corey Smith
+  - Email: corey.j.smith91.civ@army.mil
+  - Phone: 8459874075
 
 ## Links
 
