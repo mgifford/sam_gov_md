@@ -373,6 +373,7 @@ def write_markdown_opportunities(records: list[dict[str, Any]], output_dir: Path
             markdown_lines.append(f"- PDF / Additional Info: {pdf_link}")
 
         (doc_dir / "index.md").write_text("\n".join(markdown_lines), encoding="utf-8")
+        row["has_markdown"] = True
         written += 1
 
     return written
@@ -625,11 +626,12 @@ def main() -> None:
     (docs_data_dir / "today_departments.json").write_text(
         json.dumps(department_breakdown, indent=2), encoding="utf-8"
     )
+
+    markdown_written = write_markdown_opportunities(records, docs_data_dir.parent)
+
     (docs_data_dir / "today_records.json").write_text(
         json.dumps(records, indent=2), encoding="utf-8"
     )
-
-    markdown_written = write_markdown_opportunities(records, docs_data_dir.parent)
 
     print(f"Requested date: {args.target_date}")
     print(f"Effective date: {effective_date}")

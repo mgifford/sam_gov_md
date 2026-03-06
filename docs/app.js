@@ -230,7 +230,7 @@ function renderTable(records, heading = '') {
     const awardee = (record.Awardee || '').trim()
     const awardAmount = record.AwardAmount || ''
     const posted = (record.PostedDate || '').slice(0, 10)
-    const markdownLink = record.NoticeId
+    const markdownLink = record.has_markdown && record.NoticeId
       ? `<a href="opportunities/${record.NoticeId}/" title="View full opportunity">View</a>`
       : ''
     const samLink = record.Link
