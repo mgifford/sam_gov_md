@@ -14,13 +14,17 @@ FOCUS_TERMS = {
     "wcag",
     "vpat",
     "openacr",
+    "open source",
     "drupal",
     "cms",
     "api",
     "cloud",
     "modernization",
+    "User Experience",
+    "USWDS",
     "ux",
     "ui",
+    "Content Management System",
 }
 
 
