@@ -1,4 +1,9 @@
-async function loadJson(path) {
+#!/usr/bin/env python3
+"""Update search.js with enhanced filtering capabilities."""
+
+from pathlib import Path
+
+NEW_SEARCH_JS = '''async function loadJson(path) {
   const response = await fetch(path)
   if (!response.ok) throw new Error(`Failed to load ${path}: ${response.status}`)
   return response.json()
@@ -22,7 +27,7 @@ function normalizeRecord(raw) {
 }
 
 function calculateScore(query, record) {
-  const queryTerms = query.toLowerCase().split(/\s+/).filter(t => t.length > 0)
+  const queryTerms = query.toLowerCase().split(/\\s+/).filter(t => t.length > 0)
   let score = 0
   queryTerms.forEach(qterm => {
     if (record.Title.toLowerCase().includes(qterm)) score += 100
@@ -176,3 +181,9 @@ async function main() {
 }
 
 main()
+'''
+
+if __name__ == "__main__":
+    search_js_path = Path("docs/search.js")
+    search_js_path.write_text(NEW_SEARCH_JS)
+    print("✅ Updated search.js with enhanced filtering")
