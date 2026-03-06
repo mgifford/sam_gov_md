@@ -34,6 +34,43 @@ function isPdfLink(link) {
   return value.includes('.pdf') || value.includes('rfq')
 }
 
+/**
+ * Returns a background color style string for a given notice type.
+ * Colors are chosen to be distinct, accessible, and easy to scan at a glance.
+ */
+function getTypeStyle(type) {
+  const t = (type || '').toLowerCase()
+  if (t.includes('special notice'))                   return 'background-color:#f3e8ff;' // lavender
+  if (t.includes('sources sought'))                   return 'background-color:#fef3c7;' // amber
+  if (t.includes('solicitation'))                     return 'background-color:#dbeafe;' // blue
+  if (t.includes('award notice'))                     return 'background-color:#dcfce7;' // green
+  if (t.includes('presolicitation'))                  return 'background-color:#ffedd5;' // orange
+  if (t.includes('justification'))                    return 'background-color:#f1f5f9;' // slate
+  if (t.includes('sale of surplus'))                  return 'background-color:#fce7f3;' // pink
+  return 'background-color:#f9fafb;'                                                     // fallback
+}
+
+const TYPE_LEGEND = [
+  { label: 'Special Notice',                 style: 'background-color:#f3e8ff;' },
+  { label: 'Sources Sought',                 style: 'background-color:#fef3c7;' },
+  { label: 'Solicitation / Combined',        style: 'background-color:#dbeafe;' },
+  { label: 'Award Notice',                   style: 'background-color:#dcfce7;' },
+  { label: 'Presolicitation',                style: 'background-color:#ffedd5;' },
+  { label: 'Justification',                  style: 'background-color:#f1f5f9;' },
+  { label: 'Sale of Surplus Property',       style: 'background-color:#fce7f3;' },
+  { label: 'Other',                          style: 'background-color:#f9fafb;' },
+]
+
+function renderTypeLegend() {
+  return `
+    <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px;font-size:12px;">
+      ${TYPE_LEGEND.map(item => `
+        <span style="${item.style};border:1px solid #d0d7de;border-radius:4px;padding:2px 8px;">${item.label}</span>
+      `).join('')}
+    </div>
+  `
+}
+
 function renderTerms(topTerms) {
   const list = document.getElementById('terms')
   list.innerHTML = ''
@@ -199,9 +236,10 @@ function renderTable(records, heading = '') {
     const samLink = record.Link
       ? `<a href="${record.Link}" target="_blank" rel="noreferrer" title="Open on SAM.gov">SAM.gov ↗</a>`
       : ''
-    
+    const rowStyle = getTypeStyle(record.Type)
+
     return `
-      <tr>
+      <tr style="${rowStyle}">
         <td style="width:80px;">${record.Type || ''}</td>
         <td style="width:280px; white-space:normal;">${record.Title || ''}</td>
         <td style="width:100px;">${record.Agency || ''}</td>
@@ -216,6 +254,7 @@ function renderTable(records, heading = '') {
 
   container.innerHTML = `
     ${heading ? `<p class="sub" style="margin-top:0;">${heading}</p>` : ''}
+    ${renderTypeLegend()}
     <div style="overflow-x: auto; border: 1px solid #d8dee4; border-radius: 6px;">
       <table style="margin:0;">
         <thead>
