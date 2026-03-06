@@ -5,10 +5,12 @@ from __future__ import annotations
 
 import argparse
 import csv
+import html as html_module
 import io
 import json
 import os
 import time
+import unicodedata
 from pathlib import Path
 from typing import Optional
 from urllib.parse import urlparse
@@ -50,6 +52,17 @@ def fetch_pdf_bytes(url: str, timeout: int = DEFAULT_TIMEOUT, retries: int = 2) 
     return None
 
 
+def clean_pdf_text(text: str) -> str:
+    """Normalize text extracted from PDFs: fix common encoding artifacts."""
+    if not text:
+        return text
+    # Unescape any HTML entities that may appear in the source
+    text = html_module.unescape(text)
+    # Normalize Unicode to NFC (composed form) to consolidate combining chars
+    text = unicodedata.normalize("NFC", text)
+    return text
+
+
 def extract_text_from_pdf(pdf_bytes: bytes) -> str:
     try:
         with pdfplumber.open(io.BytesIO(pdf_bytes)) as pdf:
@@ -58,7 +71,8 @@ def extract_text_from_pdf(pdf_bytes: bytes) -> str:
                 text = page.extract_text() or ""
                 if text.strip():
                     pages.append(text)
-            return "\n\n".join(pages)
+            raw = "\n\n".join(pages)
+            return clean_pdf_text(raw)
     except Exception as exc:
         return f"[PDF extraction error: {exc}]"
 
@@ -82,13 +96,15 @@ def write_opportunity_pdf_content(
         "",
         text or "_No text could be extracted from this PDF._",
     ]
-    (doc_dir / "pdf_content.md").write_text("\n".join(lines), encoding="utf-8", errors="replace")
+    (doc_dir / "pdf_content.md").write_text("\n".join(lines), encoding="utf-8")
 
 
 def load_csv(csv_path: str) -> list[dict]:
     rows: list[dict] = []
     try:
-        with open(csv_path, "r", encoding="latin-1") as f:
+        # SAM.gov CSVs commonly use Windows-1252 encoding; errors="replace" handles any
+        # remaining invalid bytes without crashing on unusual field values.
+        with open(csv_path, "r", encoding="windows-1252", errors="replace") as f:
             reader = csv.DictReader(f)
             for row in reader:
                 rows.append(row)
