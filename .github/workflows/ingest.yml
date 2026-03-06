@@ -53,6 +53,14 @@ jobs:
         run: |
           python scripts/export_trends.py
 
+      - name: Extract contract officers intelligence
+        run: |
+          python scripts/extract_contract_officers.py
+
+      - name: Generate departmental forecasting
+        run: |
+          python scripts/department_forecasting.py
+
       - name: Determine whether alerts exist
         id: alert_check
         run: |

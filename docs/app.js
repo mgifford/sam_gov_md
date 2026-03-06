@@ -236,6 +236,94 @@ function renderTable(records, heading = '') {
   `
 }
 
+function renderDepartmentForecast(forecastData) {
+  const container = document.getElementById('departmentForecast')
+  if (!forecastData || !forecastData.departments_by_opportunity_volume) {
+    container.innerHTML = '<p class="empty">No forecasting data available.</p>'
+    return
+  }
+
+  const depts = (forecastData.departments_by_opportunity_volume || []).slice(0, 10)
+  const rows = depts.map(
+    (dept) => `
+      <tr>
+        <td style="font-weight: 500;">${dept.department}</td>
+        <td style="text-align: right;">${dept.open_opportunities}</td>
+        <td style="text-align: right;">${dept.awarded}</td>
+        <td style="text-align: right;">${dept.win_rate_percent}%</td>
+        <td style="text-align: right; color: #059669;">$${(dept.estimated_monthly_value / 1000000).toFixed(1)}M</td>
+      </tr>
+    `
+  ).join('')
+
+  container.innerHTML = `
+    <table style="width: 100%; overflow-x: auto;">
+      <thead style="background: #f6f8fa;">
+        <tr>
+          <th>Department</th>
+          <th style="text-align: right;">Open Opps</th>
+          <th style="text-align: right;">Awards</th>
+          <th style="text-align: right;">Win Rate</th>
+          <th style="text-align: right;">Est. Value</th>
+        </tr>
+      </thead>
+      <tbody>
+        ${rows}
+      </tbody>
+    </table>
+  `
+}
+
+function renderContractOfficers(officersData) {
+  const container = document.getElementById('contractOfficers')
+  if (!officersData || !officersData.top_officers) {
+    container.innerHTML = '<p class="empty">No contract officer data available.</p>'
+    return
+  }
+
+  // Filter out generic/system entries and show top real officers
+  const officers = (officersData.top_officers || [])
+    .filter((o) => o.opportunities >= 5 && o.email && !o.email.includes('listing') && !o.email.includes('dibbs'))
+    .slice(0, 15)
+
+  if (!officers.length) {
+    container.innerHTML = '<p class="empty">No individual officers found with significant activity.</p>'
+    return
+  }
+
+  const rows = officers.map(
+    (officer) => `
+      <tr>
+        <td>
+          <div style="font-weight: 500;">${officer.name}</div>
+          <div style="font-size: 12px; color: #59636e;">${officer.email || 'N/A'}</div>
+        </td>
+        <td style="text-align: right;">${officer.opportunities}</td>
+        <td style="text-align: right; color: #059669; font-weight: 500;">${officer.awards}</td>
+        <td style="text-align: right; font-size: 14px;">$${(officer.total_award_value / 1000000).toFixed(1)}M</td>
+        <td style="text-align: center; font-size: 12px; color: #59636e;">${officer.departments.slice(0, 2).join(' / ')}</td>
+      </tr>
+    `
+  ).join('')
+
+  container.innerHTML = `
+    <table style="width: 100%;">
+      <thead style="background: #f6f8fa;">
+        <tr>
+          <th>Officer Name</th>
+          <th style="text-align: right;">Opps</th>
+          <th style="text-align: right;">Awards</th>
+          <th style="text-align: right;">Value</th>
+          <th style="text-align: center;">Agencies</th>
+        </tr>
+      </thead>
+      <tbody>
+        ${rows}
+      </tbody>
+    </table>
+  `
+}
+
 function renderGraph(graphData) {
   const container = document.getElementById('graph')
   const nodes = (graphData.nodes || []).slice(0, 45)
@@ -299,10 +387,12 @@ function renderGraph(graphData) {
 
 async function main() {
   try {
-    const [summary, relationships, allRecordsRaw] = await Promise.all([
+    const [summary, relationships, allRecordsRaw, departmentForecast, contractOfficers] = await Promise.all([
       loadJson('data/today_summary.json'),
       loadJson('data/today_relationships.json'),
       loadJson('data/today_records.json'),
+      loadJson('data/department_forecast.json').catch(() => null),
+      loadJson('data/contract_officers.json').catch(() => null),
     ])
 
     const allRecords = (allRecordsRaw || []).map((row) => normalizeRecord(row))
@@ -321,6 +411,12 @@ async function main() {
     setText('topTerm', popularTerms.length ? popularTerms.join(', ') : 'None')
 
     renderTypeBreakdown(summary.type_breakdown || [], summary.records_total || 0)
+    if (departmentForecast) {
+      renderDepartmentForecast(departmentForecast)
+    }
+    if (contractOfficers) {
+      renderContractOfficers(contractOfficers)
+    }
     renderDepartmentTable(summary.department_breakdown || [])
     renderAwardedCompanies(summary.award_company_history || {})
     renderTerms(summary.top_terms || [])
