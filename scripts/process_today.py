@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import html as html_module
 import json
 import re
 from collections import Counter
@@ -49,6 +50,25 @@ def parse_date(value: str) -> date | None:
         except ValueError:
             continue
     return None
+
+
+def _decode_csv_line(line_bytes: bytes) -> str:
+    """Decode a CSV line, falling back to windows-1252 if UTF-8 fails."""
+    try:
+        return line_bytes.decode("utf-8")
+    except UnicodeDecodeError:
+        return line_bytes.decode("windows-1252", "replace")
+
+
+def clean_description(text: str) -> str:
+    """Unescape HTML entities and add paragraph breaks at numbered sections."""
+    if not text:
+        return text
+    # Unescape HTML entities (e.g. &amp; → &, &lt; → <, &#x2019; → ')
+    text = html_module.unescape(text)
+    # Insert a blank line before top-level numbered sections like "1.0 Title" or "2.0 Title"
+    text = re.sub(r'(?<!\n)\s+(?=\d+\.\d+ [A-Z])', r'\n\n', text)
+    return text
 
 
 def is_win(row: dict[str, str]) -> bool:
@@ -262,6 +282,7 @@ def write_markdown_opportunities(records: list[dict[str, Any]], output_dir: Path
         posted = (row.get("PostedDate") or "").strip()
         sol_number = (row.get("Sol#") or "").strip()
         description = (row.get("Description") or "").strip()
+        description = clean_description(description)
         sam_link = (row.get("Link") or "").strip()
         pdf_link = (row.get("AdditionalInfoLink") or "").strip()
         awardee = (row.get("Awardee") or "").strip()
@@ -398,11 +419,11 @@ def main() -> None:
     if args.source_url.startswith(("http://", "https://")):
         response = requests.get(args.source_url, stream=True, timeout=90)
         response.raise_for_status()
-        lines = (line.decode("utf-8", "replace") for line in response.iter_lines() if line)
+        lines = (_decode_csv_line(line) for line in response.iter_lines() if line)
         reader = csv.DictReader(lines)
         all_rows = [row for row in reader]
     else:
-        with open(args.source_url, "r", encoding="latin-1") as f:
+        with open(args.source_url, "r", encoding="windows-1252", errors="replace") as f:
             reader = csv.DictReader(f)
             all_rows = [row for row in reader]
 
