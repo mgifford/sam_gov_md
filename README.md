@@ -368,6 +368,14 @@ Define search terms by category:
 - Open.gsa.gov: https://open.gsa.gov/api/
 - Playwright Docs: https://playwright.dev/python/
 
+## Contributing
+
+This is an open source project and constructive contributions are welcome and appreciated!
+
+- **Repository**: [https://github.com/mgifford/sam_gov_md](https://github.com/mgifford/sam_gov_md)
+- Report bugs or request features via [GitHub Issues](https://github.com/mgifford/sam_gov_md/issues)
+- Submit improvements via [Pull Requests](https://github.com/mgifford/sam_gov_md/pulls)
+
 ## License
 
 TBD
