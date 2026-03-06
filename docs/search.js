@@ -21,6 +21,21 @@ function normalizeRecord(raw) {
   }
 }
 
+/**
+ * Returns a background color style string for a given notice type.
+ */
+function getTypeStyle(type) {
+  const t = (type || '').toLowerCase()
+  if (t.includes('special notice'))  return 'background-color:#f3e8ff;'
+  if (t.includes('sources sought'))  return 'background-color:#fef3c7;'
+  if (t.includes('solicitation'))    return 'background-color:#dbeafe;'
+  if (t.includes('award notice'))    return 'background-color:#dcfce7;'
+  if (t.includes('presolicitation')) return 'background-color:#ffedd5;'
+  if (t.includes('justification'))   return 'background-color:#f1f5f9;'
+  if (t.includes('sale of surplus')) return 'background-color:#fce7f3;'
+  return 'background-color:#f9fafb;'
+}
+
 function calculateScore(query, record) {
   const queryTerms = query.toLowerCase().split(/\s+/).filter(t => t.length > 0)
   let score = 0
@@ -49,13 +64,15 @@ function displayResults(results, query) {
   results.slice(0, 100).forEach(record => {
     const li = document.createElement('li')
     li.className = 'result-item'
+    li.style.cssText = getTypeStyle(record.Type)
     const posted = (record.PostedDate || '').slice(0, 10)
     const excerpt = (record.Description || '').slice(0, 180) + (record.Description?.length > 180 ? '...' : '')
     const statusBadge = record.Awardee ? '<span class="result-badge badge-awarded">Awarded</span>' : '<span class="result-badge badge-opportunity">Open</span>'
+    const typeBadge = record.Type ? `<span class="result-badge badge-type">${record.Type}</span>` : ''
     const matchedTerms = record.matches.length > 0 ? `<div class="result-meta"><span><strong>Tracked Terms:</strong> ${record.matches.map(m => m.term).join(', ')}</span></div>` : ''
     
     li.innerHTML = `
-      <div class="result-title">${statusBadge} <a href="${record.Link || '#'}" target="_blank">${record.Title || 'Untitled'}</a></div>
+      <div class="result-title">${statusBadge}${typeBadge} <a href="${record.Link || '#'}" target="_blank">${record.Title || 'Untitled'}</a></div>
       <div class="result-meta"><span><strong>Agency:</strong> ${record.Agency || 'Unknown'}</span><span><strong>Posted:</strong> ${posted}</span></div>
       ${matchedTerms}
       <div class="result-excerpt">${excerpt}</div>
