@@ -100,13 +100,13 @@ jobs:
 
       - name: Commit and push if changed
         run: |
-          if [[ -z "$(git status --porcelain -- data/today docs/data data/opportunities.sqlite)" ]]; then
+          if [[ -z "$(git status --porcelain -- data/today docs/data data/opportunities.sqlite docs/opportunities)" ]]; then
             echo "No changes to commit."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/today docs/data data/opportunities.sqlite
+          git add data/today docs/data data/opportunities.sqlite docs/opportunities
           git commit -m "chore: daily SAM.gov refresh ($(date -u +%F))"
           git push
