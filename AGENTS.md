@@ -32,10 +32,14 @@
   - Processes daily feed
   - Persists to SQLite
   - Generates high-value alerts
+  - Exports department trends and contract officer intelligence
+  - Runs departmental forecasting
   - Creates GitHub issue for high-value matches (if any)
-- Weekly workflow: .github/workflows/weekly-historical.yml
-  - Refreshes historical samples
-  - Rebuilds term scan + top matches report
+- Weekly workflow: .github/workflows/weekly-pdf-extraction.yml
+  - Downloads latest CSV
+  - Refreshes opportunities, persistence, alerts, and trends
+  - Exports all opportunities for search
+  - Extracts PDFs from top opportunities
 
 ## Coding conventions
 - Keep scripts idempotent and file-path configurable via CLI flags.
@@ -60,3 +64,4 @@
 - Prefer root-cause fixes over one-off patches.
 - If requirements are ambiguous, choose the simplest implementation that fits current scripts and outputs.
 - When adding new outputs, update both README.md and any dependent workflow steps.
+- When modifying the GitHub Pages dashboard (docs/), follow the accessibility guidelines in ACCESSIBILITY.md.
