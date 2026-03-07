@@ -1,0 +1,31 @@
+---
+layout: default
+title: 7910--Autonomous Robotic Floor Scrubbing Machine
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: 72ff4c2653ba4054b9888d21014f85bc
+---
+
+# 7910--Autonomous Robotic Floor Scrubbing Machine
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-03-06 12:55:01.867-05
+- Solicitation Number: 36C26226Q0419
+- Awardee: null
+
+## Summary
+
+THIS REQUEST FOR INFORMATION (RFI) IS ISSUED SOLELY FOR INFORMATION AND PLANNING PURPOSES ONLY AND DOES NOT CONSTITUTE A SOLICITATION. THE SUBMISSION OF PRICING, CAPABILITIES FOR PLANNING PURPOSES, AND OTHER MARKET INFORMATION IS HIGHLY ENCOURAGED AND ALLOWED UNDER THIS RFI IN ACCORDANCE WITH (IAW) FAR 15.201(e). DISCLAIMER This RFI is issued solely for information and planning purposes only and does not constitute a solicitation. All information received in response to this RFI that is marked as proprietary will be handled accordingly. IAW FAR 15.201(e), responses to this notice are not offers and cannot be accepted by the Government to form a binding contract. Responders are solely responsible for all expenses associated with responding to this RFI. SOURCES SOUGHT DESCRIPTION This is NOT a solicitation announcement. This is a sources sought synopsis only. The purpose of this synopsis is to gain knowledge of potential qualified sources and their size classification relative to NAICS 33310 (size standard of 1,000 Employees). Responses to this synopsis will be used by the Government to make appropriate acquisition decisions. After review of the responses to this sources sought synopsis, a solicitation announcement may be published. Responses to this sources sought synopsis are not considered adequate responses for a solicitation announcement. The Department of Veterans Affairs (VA), VISN 22 Network Contracting Office, is seeking sources that can provide Autonomous Floor Scrubber for the Northern Arizona VA Healthcare System: Item # Manufacturer Description/Part Number* Qty UOM 0001 Tennant Company SCRUBBER, WALK-BEHIND [X6ROVR 1 EA 0002 Tennant Company 5YR AUTONOMY SERVICES (QTY1-4) 1 EA The FAR Clause 52.211-6 Brand Name or Equal applies to this RFI. Any items stated as equal not confirming to the requirements will be considered non- responsive. The information identified above is intended to be descriptive, not restrictive and to indicate the quality of the supplies/services that will be satisfactory. It is the responsibility of the interested source to demonstrate to the government that the interested parties can provide the supplies/services that fulfill the required specifications. If you are interested, and are capable of providing the sought out supplies/services, please provide the requested information as well as the information indicated below. Response to this notice should include company name, address, point of contact, size of business pursuant to the following questions: (1) Is your business a: Service Disabled Veteran Owned Small Business (SDVOSB), Veteran Owned Small Business (VOSB), Hubzone, Woman Owned Small Business (WOSB), Large Business, etc.? (2) Is your company considered small under the NAICS code identified under this RFI? (3) Are you the manufacturer or a distributor of the items being researched above? (4) If you re a small business and you are an authorized distributor/reseller for the items identified above, do you alter; assemble; modify; the items requested in any way? (5) If you do, state how and what is altered; assembled; modified? (6) Does your company have FSS GSA/NASA SEWP/NAC or any other federal contract? If so, please provide the contract number. (7) If you are an FSS GSA/NASA SEWP/NAC or federal contract holder, are the items you are providing information for available on your schedule/contract? (8) Please submit your capabilities in regards to the salient characteristics being provided and any information pertaining to equal to items to establish capabilities for planning purposes? (9) Identify any other companies owned (wholly or in-part) by the owners of this business who provide goods or services that are registered under the same or a related NAICS code with the Center for Veterans Enterprise (CVE); Provide the certification type (SDVOSB/VOSB), Federal Identification Number, and state of incorporation for each. (10) Do you plan on responding to a solicitation for this requirement with a Joint Venture utilizing multiple owned companies as majority or non-majority owner? (11) Yes ___No ___ If yes, please identify which companies are considering a Joint Venture and the ownership of each company. (12) Where is the product manufactured? *** Submissions addressing Section (8) should show clear, compelling and convincing*** evidence that all equal to items" meet all the salient characteristics. Responses to this notice shall be submitted via email to Adrienne.Brown4@va.gov. Telephone responses shall not be accepted. Responses must be received no later than 10AM MT. March 12, 2026. If a solicitation is issued it shall be announced at a later date, and all interested parties must respond to that solicitation announcement separately from the responses to this source sought. Responses to this sources sought notice are not a request to be added to a prospective bidders list or to receive a copy of the solicitation. Please reference 36C26226Q0419. If possible please provide unofficial pricing. Notice: No remanufactures or gray market items/ supplies will be acceptable. Interested parties of RFI must be an authorized reseller, distributor, or dealer of the O.E.M. (Original Equipment Manufacturer). Verification can be provided by an authorization letter or other documents from the OEM. Equipment shall be in accordance with the OEM terms and conditions.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Adrienne Brown
+  - Title: Contracting Officer
+  - Email: adrienne.brown4@va.gov
+  - Phone: 951-601-4536
+
+## Links
+
+- SAM.gov: https://sam.gov/workspace/contract/opp/72ff4c2653ba4054b9888d21014f85bc/view

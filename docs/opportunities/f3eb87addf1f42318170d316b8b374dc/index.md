@@ -1,0 +1,32 @@
+---
+layout: default
+title: Solicitation- Video Combiner
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: f3eb87addf1f42318170d316b8b374dc
+---
+
+# Solicitation- Video Combiner
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-03-06 17:30:22.969-05
+- Solicitation Number: FA930226Q0019
+
+## Summary
+
+This is a Request for Quote (RFQ) Solicitation for the acquisition of a VP1500D Brand Name or Equal Video Combiner. Please see attached Statement of Requirement (SOR) for further details. (i) This is a solicitation for commercial product prepared in accordance with the format in RFO 5.201(c), as supplemented with additional information included in this notice. This announcement constitutes the only solicitation; quotes are being requested and a written solicitation will not be issued. The Simplified Acquisition Procedures (RFO 12.201-1) will be used for this requirement. (ii) Solicitation Number: FA930226Q0019 **Please provide the full solicitation number on all packages** Interested parties who believe they can meet all the requirements for the product described in this solicitation are invited to submit, in writing, a complete quote. Offerors may utilize the attached SF1449 to complete quote information in addition to a separate quote (in PDF format); ensuring the quote contains information and pricing for all contract line items (CLINs) included on the SF1449. Offerors are required to submit with their quote enough information for the Government to evaluate the requirements detailed in this solicitation. Offerors shall submit quotes via email, please note the maximum file size is 10MB. Emails over this file size will not be received. Submit only written offers; oral offers will not be accepted. This solicitation is issued as a Request for Quote (RFQ). (iii) This solicitation document and incorporated provisions and clauses are in effect through Federal Acquisition Circular 2025-06, DFARS Change 10/24/2025 and DAFAC 2024-1016. (iv) THIS REQUIREMENT WILL BE: Set Aside 100% to Small Businesses. All vendors must be listed as a small business in SAM.gov. The North American Industry Classification System (NAICS) number for this acquisition 334310 – “Audio and Video Equipment Manufacturing” with a size standard of 750 employees. (v) Delivery: 60 Days ARO. (vi) The provision at RFO 52.212-1, Instructions to Offerors—Commercial Products and Commercial Services (Sep 2023), applies to this acquisition. Provisions and clauses can be viewed via internet at Acquisition.gov, https://www.acquisition.gov/. Offerors shall prepare their quotations in accordance with RFO 52.212-1. In addition, the following information shall be included: PROVIDE THE FOLLOWING CONTRACTOR INFORMATION WITHIN YOUR QUOTE: 1. SAM UEI: 2. TIN Number: 3. CAGE Code: 4. Contractor Name: 5. Payment Terms (NET 30) or Discount: 6. Point of Contact Name and Phone Number: 7. Email address: 8. Warranty: 9. Date Offer Expires: 10. FOB Destination: 11. Estimated Delivery Lead Time: (vii) The provision at RFO 52.212-2, Evaluation—Commercial Products and Commercial Services (Nov 2021) applies to this acquisition. ***Please read the evaluation criteria closely. If vendor does not provide a full response, it will be found unresponsive*** The solicitation provides that quotations will be evaluated using Lowest Price Technically Acceptable (LTPA). The award will be made based on the lowest evaluated price of proposals meeting or exceeding the acceptability standards for non-cost factors. The technical acceptability factor contains one non-cost subfactor: (1) Ability to provide the required video combiner listed in the Statement of Requirement. The agency will first rank quotations according to price, from lowest to highest, and will evaluate the lowest-priced quotation as either technically acceptable or unacceptable, reserving the right to evaluate additional quotations for technical acceptability if deemed to be in the best interest of the government. Evaluation Factors: Price Technical Acceptability Subfactors: Ability to provide the required video combiner. The Government will award a purchase order resulting from the RFQ to a responsible offeror whose quote is responsive to the RFQ and considered to be the LTPA (viii) Offerors shall include completed copies of applicable provisions, which are included in the SF1449. Offers will be considered incomplete if these are not included with the quote. (iv) The clause at RFO 52.212-4, Contract Terms and Conditions—Commercial Products and Commercial Services (Nov 2023), applies to this acquisition. (x) Additional Contract Requirement or Terms and Conditions: Please find a contemplated list of additional provisions/clauses in the attachments; the final list of clauses is dependent upon actual dollar value of the contract award and may change from those provided in the attachment. Full text for the clauses and provisions can be accessed via https://www.acquisition.gov/ (xi) Defense Priorities and Allocation System (DPAS): N/A (xii) Quote Submission Information: It is the government’s intent to award without discussions. Therefore, each initial quote should contain the offeror’s best terms from a price and technical standpoint. However, the government reserves the right to conduct discussions if the Contracting Officer (CO) determines that discussions are necessary. Offers are due on 13 March 2026 at 3:00 PM, Pacific Daylight Time (PDT). Offers must be sent via email to both Jenna Jacobson (jenna.jacobson@us.af.mil) AND Paola Diaz (paola.diaz.1@us.af.mil). No late submissions will be accepted. (xiii) For additional information regarding this solicitation contact: Primary Point of Contact: Jenna Jacobson Contract Officer jenna.jacobson@us.af.mil Secondary Point of Contact: Paola Diaz Contract Specialist Paola.diaz.1@us.af.mil (xiv) Please note that upon submission of a quote, successful negotiation and award are dependent on RFO 52.232-18, availability of funds. *** This solicitation does not serve as a ?nancial obligation for the government. No award should be expected by the contractor and no work may begin unless a fully executed contract document is received by the contractor.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Jenna Jacobson
+  - Email: jenna.jacobson@us.af.mil
+  - Phone: 6612779558
+- Secondary Contact:
+  - Name: Paola Diaz
+  - Email: paola.diaz.1@us.af.mil
+
+## Links
+
+- SAM.gov: https://sam.gov/workspace/contract/opp/f3eb87addf1f42318170d316b8b374dc/view

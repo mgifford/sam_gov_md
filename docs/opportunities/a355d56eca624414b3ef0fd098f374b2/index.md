@@ -1,0 +1,32 @@
+---
+layout: default
+title: Radar Depot Mast Thermal Spray Services
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: a355d56eca624414b3ef0fd098f374b2
+---
+
+# Radar Depot Mast Thermal Spray Services
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-03-06 13:59:13.962-05
+- Solicitation Number: N4523A26R0809
+
+## Summary
+
+The Regional Maintenance Center at Puget Sound Naval Shipyard & Intermediate Maintenance Facility (PSNS & IMF) is conducting market research to determine industry capability and interest in performing restoration of SSN 774 Class, SSN 21 Class, and SSBN 741-743 Class submarine variants of the AN/BPS-16 radar mast sub-assembly. Each AN/BPS-16 radar mast sub-assembly variant is comprised of three distinct radar mast tubes: one Outer Housing, one Radar Mast, and one Rotary Tube detailed in page 3 of the Statement of Work (SOW). Scope: The Trident Refit Facility Bangor Radar Depot performs restoration of mechanical radar components installed on the various classes of submarines for US Navy Submarine Projects at Shipyards and maintenance activities, in addition to supporting Navy Supply System NSN Depot Level Repairable (DLR) asset restorations. During restoration of radar mast components, the outer surfaces of radar mast tubes typically require surface finish refurbishment due to wear and corrosion defects that do not meet inspection criteria of the applicable NAVSEA Maintenance Standard document, which requires NAVSEA certified thermal spray deposition processes and facilities be used to affect refurbishment of the radar mast tube surfaces. Radar mast tubes must maintain their SUBSAFE/Level 1 certifications at all times, and repairs must be performed by NAVSEA certified SUBSAFE entities listed in NAVSEANOTE 5000, Ser. 07/056 DTD 29 OCT 2024. Barring available qualified SUBSAFE activities to affect thermal spray repair services, TRFB, a NAVSEA qualified “SUBSAFE Certifying Activity”, will provide SUBSAFE oversight, via Memorandum of Agreement (MoA) in accordance with (IAW) TRFB Engineering Memorandums 410/214M-21 Rev-A and 410/215M-21 Rev-B, for the repair process required by contract for SUBSAFE/Level 1 work performed by contractors not previously certified to perform SUBSAFE work by NAVSEA. Period of Performance: The estimated period of performance consists of a five-year ordering period with performance commencing in August 2026. What/Where to Submit: Interested companies should submit, on company letterhead, a notice of interest including the name, telephone number, mailing address, and e-mail address of one point of contact. Please hand or digitally sign your letter of interest and e-mail it to the Government contacts listed below, with "Thermal Spray IDIQ Sources Sought Response" in the subject field. The notice of interest should include a brief description of your company and its capabilities as they relate to the requirements set forth in the description shown above, and answers to the following specific questions. Please limit your response to no more than 5 pages. 1. Is your company a small or large business as defined by the Small Business Administration (SBA) under NAICS code 332812? 2. Does your company have a satisfactory performance record for the type of work required? Please provide examples of relevant and recent (within three years) past performance. 3. Does your company have the necessary organization, experience, accounting and operational controls, and technical skills, or the ability to obtain them (including, as appropriate, such elements as production control procedures, property control systems, quality assurance measures, and safety programs applicable to materials to be produced or services to be performed by the prospective contractor and subcontractors)? 4. Given the work described in this announcement, does your company plan to submit a proposal in response to the anticipated solicitation for the Thermal Spray IDIQ package? Notice Regarding Sources Sought: This Sources Sought is issued solely for information and planning purposes - it does not constitute a solicitation or a promise to issue a solicitation in the future. This Sources Sought does not commit the Government to contract for any supply or service whatsoever. Further, the Navy is not seeking proposals at this time, nor accepting unsolicited proposals. Responders are advised that the U.S. Government will not pay for any information or administrative costs incurred in response to this source sought; all costs associated with responding to this source sought will be solely at the interested party's expense. Not responding to this Sources Sought does not preclude participation in any future Request for Quote (RFQ), Invitation for Bid (IFB), or Request for Proposal (RFP), if any is issued. If a solicitation is released, it will be synopsized on the SAM website (sam.gov). It is the responsibility of the potential offerors to monitor these sites for additional information pertaining to this requirement. Information provided shall be treated as Business Sensitive or Confidential to the responder, exempt from public release under the Freedom of Information Act. PSNS & IMF may request further information regarding the capabilities of respondents to meet the requirements set forth in the announcement. Information provided in response to this sources sought announcement will not be considered an offer by the responding contractor and cannot be accepted by the Government to form a binding contract. Based on the responses to this sources sought, this requirement may be set aside for small business (in full or in part) or procured through full and open competition (unrestricted), the government intent at this time is for a single award. All small business set-aside categories will be considered. Telephonic inquiries will not be accepted or acknowledged, the government will not be providing evaluations or comments to companies providing sources sought responses but the responses will be used to inform the government as to the best means of procuring this requirement.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Katherine Lauer
+  - Email: katherine.e.lauer.civ@us.navy.mil
+  - Phone: 3608159581
+- Secondary Contact:
+  - Name: Andrew Skelley
+  - Email: andrew.m.skelley.civ@us.navy.mil
+
+## Links
+
+- SAM.gov: https://sam.gov/workspace/contract/opp/a355d56eca624414b3ef0fd098f374b2/view

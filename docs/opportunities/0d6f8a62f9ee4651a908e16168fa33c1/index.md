@@ -1,0 +1,42 @@
+---
+layout: default
+title: 3510--Sources Sought - scrubEx Uniform Issue Control System Brand name or Equal w/ data monitoring via cloud or network
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: 0d6f8a62f9ee4651a908e16168fa33c1
+---
+
+# 3510--Sources Sought - scrubEx Uniform Issue Control System Brand name or Equal w/ data monitoring via cloud or network
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-03-06 11:00:14.597-05
+- Solicitation Number: 36C26026Q0423
+- Awardee: null
+
+## Summary
+
+Notice of Sources Sought The purpose of this Sources Sought Announcement is for market research to make appropriate acquisition decisions and to gain knowledge of potential qualified Service-Disabled Veteran Owned Small Businesses (SDVOSB), Veteran Owned Small Businesses (VOSB), Small Business Manufacturers, other Small Businesses interested and capable of providing items requested, as well as any large businesses. The results from this source sought notice will be used to determine set-aside. The intended contract is a firm-fixed price supply purchase. The SBA Non-Manufacturer Rule is applicable, and a waiver will not be sought for this potential acquisition. The Department of Veterans Affairs, NCO20 is looking for BRAND NAME or EQUAL sources of the following: scrubEx Uniform Issue Control System Brand name or equal w/ data monitoring via cloud based or networked communication Brand Name: Scrubex Manufacturer: IPA (Innovative Product Achievement) Items: Item Description QTY (EA) SE-20093 scrubEx®
+
+2.0 LV Remote Receiver w/ Touchscreen 2 SE-23003 scrubEx®
+
+2.0 MV Dispenser/Receiver Unit w/ Touchscreen 2 SE-20003 scrubEx®
+
+2.0 LV Dispenser w/ Touchscreen 3 SE-2817 Pre-Installation, Installation, Start-Up, and Training (BASE First System Existing Site) 1 SE-2802 Pre-Installation, Installation, Start-Up, and Training (Each Additional Unit) 6 SE-2808 Customer Server Update 1 Required Salient Characteristics: System must have network capability. System must be able to dispense using employee number or card RFID need to be able to track scrub receipt at the Textile Care Processing Facility, like existing uniform system. Cloud based inventory with accessibility from the TCPF Office and PVAMC Uniform room Collection device must hold 256 scrub sets, or the full number of scrubs contained in the attached dispensers. Single unit width no more than 24-26 to minimize egress impact System must have the following dimensions: Height Minimum 72.4 to Maximum
+
+78.2 Width Minimum 41.5 to Maximum
+
+34.2 Depth Minimum 16.6 to Maximum
+
+38.1 Weight Minimum 430 lb to Maximum 473.9 lb System must have power requirement range 110V 60Hz to 230C 50Hz System must have battery back up operating hours from 10 to 24 hours System must hold no less than 38, but up to 170 sets (340 items) to meet scrub and warm up usage. System must provide ability to meet large amount of unique sizing requirements or provide for individual issue of specific garment (scrub top/scrub pant / warmup) minimizing waste of unneeded product System must be UHF, RFID compatible, provide data monitoring either via cloud based or networked communication. Data will be accessible from either P2 uniform room or Textile office (building 2 B106) Reporting software will show usage, communicate outages, and provide fail rate assessment. Must have minimum 1 year warranty for parts/service/support warranty Required Information in Your Response to Sources Sought: In order to be considered a valid source that can impact the set-aside determination of a possible future solicitation, potential contractors shall provide, at a minimum, the following information to peter.park2@va.gov: 1) Company name, address, and point of contact, phone number, e-mail address, and UEI. 2) Please identify your company s size in comparison to the anticipated North American Industry Classification System (NAICS) code 339112 Surgical and Medical Instrument Manufacturing. To be considered a small business your company must have fewer than 1,000 employees. This notice is to determine the marketplace for this specific requirement. Please check one of the following: [ ] yes [ ] no Service Disabled Veteran Owned Small Business (SDVOSB) [ ] yes [ ] no Veteran Owned Small Business (VOSB) [ ] yes [ ] no Women Owned Small Business (WOSB) [ ] yes [ ] no HUBZone [ ] yes [ ] no Small Business Manufacturers [ ] yes [ ] no All other Small Business (SB) [ ] yes [ ] no Other than Small Business 3) Any socioeconomic business must have a SBA certification at https://search.certifications.sba.gov/. 4) If not a manufacturer, only authorized representatives/providers/distributors of the manufacturer will be considered. Equipment must be new, no used or refurbished equipment accepted. Please provide a proof of authorized dealer or reseller letter from manufacturer. 5) Please provide a courtesy quote in response to this request to evaluate price reasonableness for any set-aside determination. 6) This is a brand name or equal requirement. As such, the salient characteristics reflect the physical, functional, or performance characteristics that equal products must meet to satisfy the Government s needs. To be considered for any potential solicitation, offers of equal products, including equal products of the brand name manufacturer, must: (a) Meet the salient physical, functional, or performance characteristic specified in this sources sought; clearly identify the item by Brand name, if any and make/model number. (b) Include descriptive literature such as illustrations, drawings, or a clear reference to descriptive data or information available that identifies that the equal item meets or exceeds EACH of the salient characteristics required by the Government. Government will not perform further research if the information provided is unclear whether it meets any required salient characteristic. 7) Please identify the country of origin for all items. If it is a foreign end product, fill out the following: Item Country of origin 8) Please list the names of manufacturer of the supply items (brand name or equal) you identified for this Sources Sought. If 50% or more of the total quote amount comes from small business manufacturers based on the above NAICS Code, please provide a narrative on whether your company meets the definition of a nonmanufacturer in accordance with 13 CFR § 121.406(b) below. Does not exceed 500 employees (or 150 employees for the Information Technology Value Added Reseller exception to NAICS Code 541519, which is found at § 121.201, footnote 18); Is primarily engaged in the retail or wholesale trade and normally sells the type of item being supplied; Takes ownership or possession of the item(s) with its personnel, equipment or facilities in a manner consistent with industry practice; and Will supply the end item of a small business manufacturer, processor or producer made in the United States. The Government is not obligated to nor will it pay for or reimburse any costs associated with responding to this sources sought notice. This notice shall not be construed as a commitment by the Government to issue a solicitation or ultimately award a contract, nor does it restrict the Government to a particular acquisition approach. The Government will in no way be bound to this information if any solicitation is issued. Notice to Potential Offerors: All Offerors who provide goods or services to the United States Federal Government must be registered in the System Award Management (SAM located on the web at www.sam.gov). It is desirable that any Offeror to have completed their business Online Representations and Certifications Application in the System for Award Management (SAM). Shipping Address: Portland VA Medical Center 3710 Southwest US Veterans Hospital Rd Portland, OR 97239 Point of Contact: Peter Park Contracting Officer peter.park2@va.gov Response Deadline: 03/12/2026 by 3:00pm Pacific Time
+
+## Contacts
+
+- Primary Contact:
+  - Name: Peter Park
+  - Title: Contracting Officer
+  - Email: Peter.Park2@va.gov
+
+## Links
+
+- SAM.gov: https://sam.gov/workspace/contract/opp/0d6f8a62f9ee4651a908e16168fa33c1/view

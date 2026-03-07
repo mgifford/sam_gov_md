@@ -1,0 +1,31 @@
+---
+layout: default
+title: Quincy Compressor parts
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: da9d667dd7c048e3889d0ebcff6412e4
+---
+
+# Quincy Compressor parts
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-03-06 21:42:31.23-05
+- Solicitation Number: N0040626QS098
+
+## Summary
+
+Amendment 0002 posted on February 10, 2026 includes the following changes: a response to contractor questions updating specification information for CLINS 0001 and 0002 submitting a resell letter from the OEM closing date February 12, 2026 at 12:00pm EST. submitting a signed copy of the amendment with your quote. ********************************************************************** Amendment 0001 posted on February 05, 2026 includes the following changes: -Delivery location changed to MSC BATS Warehouse San Diego, CA -Delivery date changed to April 27, 2026 -Inspection/Acceptance changed to MSC BATS Warehouse San Diego, CA -Closing date February 09, 2026 at 9:00am EST. -Submit signed copy of the amendment with your quote ************************************************************************************* This is a COMBINED SYNOPSIS/SOLICITATION for commercial products or commercial services prepared in accordance with the format in FAR subpart 12.6, as supplemented with additional information included in this notice. This announcement constitutes the only solicitation; quotes are being requested and a separate written solicitation will not be issued. PAPER COPIES OF THIS SOLICITATION WILL NOT BE AVAILABLE. The combined synopsis/solicitation SHALL be posted to SAM at https://sam.gov/. The Request for Quotation (RFQ) number is N0040626QS098. This solicitation documents and incorporates provisions and clauses in effect through FAC 2025-06 Effective 10/01/2025, and the DFARS Change notice 11/10/2025. It is the responsibility of the contractor to be familiar with the applicable clauses and provisions. The clauses may be accessed in full text at this address: https://www.acquisition.gov/. The NAICS CODE is 333912 and the Small Business Size Standard is 1000 employees. The Government intends to award a firm fixed price (FFP) purchase order using Simplified Acquisition Procedures for Quincy Air Compressor parts that meets the specifications outlined below. The proposed contract action is for BRAND NAME commercial supplies for which the Government intends to solicit as 100% Small Business Set-Aside. Determination by the Government not to compete with this proposed contract based upon responses to this notice is solely within the discretion of the Government. The Government will evaluate and award a contract in accordance with FAR subpart 13.106 resulting from this solicitation without discussions to the responsible offeror whose quote, conforming to the solicitation that represents the best value to the Government, price, delivery, technical acceptability, past performance, and other factors considered. QUESTIONS: Offerors may submit their questions regarding clarification of solicitation requirements by email to Amy Caraway at amy.m.caraway.civ@us.navy.mil and Brittany Tavassoli at brittany.b.tavassoli.civ@us.navy.mil no later than 2 days before solicitation closing date and time. Any questions received after this deadline may not be answered. Anticipated Delivery Date: 01 March 2026 Shipping term shall be FOB Destination; therefore, the quote SHALL include shipping cost. System for Award Management (SAM). Quoting vendors must be registered in the SAM database to be considered for award. Registration is free and can be completed on-line at http://sam.gov/. To be considered for this opportunity, all quotes shall be submitted in either Microsoft Word, Excel spreadsheet or Adobe PDF. Each quote must clearly indicate the capability of the vendor to meet all specification requirements by submitting a specification sheet for each part and will be reviewed for acceptability by the Technical POC. Quotes shall be valid for sixty (60) days (at minimum). Quote packages SHALL contain the following information: 1. Official Company Name; 2. Point of contact including name, phone number and email; 3. Cage Code number. 4. Business size 5. Payment terms 6. Price Quote with FOB Destination – unit price, extended price, total amount and delivery lead time. 7. Authorized Distributor Letter from Original Equipment Manufacturer (OEM) - Note: Offers will not be considered if an authorized letter is not submitted with the quote package. 8. Specification sheet for each part See attached solicitation for a list of line-item number(s) and items, quantities, and units of measure. Additionally, include a completed copy of the provision at 52.212-3 Alt I, Offeror Representations and Certifications-Commercial Products and Commercial Services, with your quote IF your company does not have the Representations and Certifications completed in SAM.gov. Quote submissions in response to this solicitation are due by 2pm EST on Thursday, January 22, 2026. Please email your quote to the acquisition point of contacts: Amy Caraway: amy.m.caraway.civ@us.navy.mil and Brittany Tavassoli: brittany.b.tavassoli.civ@us.navy.mil
+
+## Contacts
+
+- Primary Contact:
+  - Name: Amy Caraway
+  - Email: amy.m.caraway.civ@us.navy.mil
+- Secondary Contact:
+  - Name: Brittany Tavassoli
+  - Email: brittany.b.tavassoli.civ@us.navy.mil
+
+## Links
+
+- SAM.gov: https://sam.gov/workspace/contract/opp/da9d667dd7c048e3889d0ebcff6412e4/view

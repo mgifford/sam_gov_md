@@ -1,0 +1,29 @@
+---
+layout: default
+title: Access Control System (ACS) and Intrusion Control System (IDS) Install
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 329328ff92e74b249ca1914d8f492a1b
+---
+
+# Access Control System (ACS) and Intrusion Control System (IDS) Install
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-03-06 07:47:01.752-05
+- Solicitation Number: H92239-26-Q-E006
+
+## Summary
+
+THIS NOT A NOTICE OF SOLICITATION ISSURANCE, BUT RATHER A REQUEST FOR INFORMATION (RFI) from industry that will allow the Government to identify interested sources capable of meeting the requirement. The information sought herein is for planning purposes only and shall not be construed as a Request for Quote (RFQ), Request for Proposal (RFP), Invitation for Bid (IFB), or as an obligation or commitment on the part of the Government to acquire any product or services. There shall be no basis for claims against the Government as a result of information submitted in response to the RFI. The Government DOES NOT intend to award a contract based on this RFI or otherwise pay for any information submitted by respondents to this request. This notice is for Market Research purposes only and is not indicative of a full requirement. Should a requirement arise, the full requirement will be detailed in the solicitation. The United States Army Special Operation Command (USASOC)-Contracting Office, located at Fort Bragg, NC, on behalf of the USASOC Command Group has a requirement for Access Control System (ACS) and Intrusion Control System (IDS) Install. The USASOC command requires all services and supplies to provide a complete and operational Access Control System (ACS) and Intrusion Control System (IDS) at USASOC Command Suite Temporary SCIF. Interested parties must be capable of providing an ACS and IDS system in accordance with the attached DRAFT Performance Work Statement (PWS). Interested parties are requested to submit a thorough narrative that clearly demonstrates their corporate capabilities, personnel capabilities, and summary of relevant experience providing Access Control System (ACS) and Intrusion Control System (IDS) Install. Documentation must address all required elements listed herein; providing only a reference to a website is unacceptable for purposes of this announcement and will not be considered or reviewed. All proprietary or corporate data received shall be clearly identified and shall be protected from release to sources outside the Government. Please do not submit classified material. Contractors interested in performing these services must be registered in the System for Award Management website (www.sam.gov). Contractors responding to this RFI are asked to provide the following information. Company’s full name, address, and Point of Contact. UEI number & CAGE code - If applicable, please provide GSA contract number and SIN. Applicable North American Industry Classification Standard (NAICS) and Business size (whether large, small, small-disadvantaged, 8(a), HUB Zone, woman-owned, Service-Disabled Veteran Owned Small Business etc.) In addition, respondents shall provide affiliate information: parent company, joint venture partners potential teaming partners; and additional documentation such as company literature and brochures. A brief Statement of Capability (no more than five (5) pages); which responds to demonstrating the ability to meet the requirements specified in the SOW and includes Past Performance information on Government contracts of similar size and scope within the past three (3) years. The anticipated NAICS code is 561621 “Security Systems Services (except Locksmiths)” with a size standard of $25.0 million dollars. No requests for capability briefings will be honored as a result of this notice. Information provided will not be used as a part of any subsequent solicitation requirement. Interested sources who submit data are responsible for appropriately marking information if it is proprietary in nature. No feedback will be provided regarding individual capability statements. No reimbursements will be made for any costs associated with providing information in response to this announcement and/or any follow-up information requests. Responses are due no later than 1:00 PM Eastern Standard Time, 06 March 2026 and reference H92239-26-Q-E006 in subject line. Send to Mr. Antonio Woodson, email: antonio.d.woodson.civ@socom.mil and reference “Request for Information – Access Control System (ACS) and Intrusion Control System (IDS) Install” in the subject line. Failure to respond to this RFI does not preclude participation in any future associated request for quotations that may be issued. Respondents will NOT be notified of the results. However, if the final determination results in the verification of sole-source negotiation, a Notice of Intent to Sole Source and the redacted Justification and Approval will be posed to www.sam.gov. For information regarding this notice, please contact Mr. Antonio Woodson at email listed above. For information regarding this notice, contact Mr. Antonio Woodson via email at the address above. Respondents are cautioned that due to file size limitations and e-mail security protocols, there is a risk that not all correspondence will be received by this office. It is the interested parties’ responsibility to ensure receipt of all e-mail correspondence. If receipt has not been acknowledged within 24 hours, please contact the Contracting Officer at 910-605-4871. Primary Point of Contact: Antonio Woodson Contracting Officer antonio.d.woodson.civ@socom.mil Phone: 910-605-4871
+
+## Contacts
+
+- Primary Contact:
+  - Name: Antonio Woodson
+  - Email: antonio.d.woodson.civ@socom.mil
+  - Phone: 9106054871
+
+## Links
+
+- SAM.gov: https://sam.gov/workspace/contract/opp/329328ff92e74b249ca1914d8f492a1b/view
