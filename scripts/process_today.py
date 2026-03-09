@@ -263,6 +263,42 @@ def build_award_company_history(all_rows: list[dict[str, Any]]) -> dict[str, Any
     }
 
 
+def extract_top_award_records(
+    all_rows: list[dict[str, Any]],
+    top_companies: list[dict[str, Any]],
+) -> list[dict[str, Any]]:
+    """Extract individual award records for the top companies from all_rows.
+
+    These records are saved to docs/data/award_records.json so the dashboard
+    can filter by awarded company name.
+    """
+    top_set = {entry["company"] for entry in top_companies}
+    records = []
+    for row in all_rows:
+        if not is_win(row):
+            continue
+        awardee = (row.get("Awardee") or "").strip()
+        if not awardee or awardee.lower() == "null":
+            continue
+        if awardee not in top_set:
+            continue
+        records.append(
+            {
+                "NoticeId": row.get("NoticeId") or "",
+                "Sol#": row.get("Sol#") or "",
+                "Title": row.get("Title") or "",
+                "Department/Ind.Agency": row.get("Department/Ind.Agency") or "",
+                "Type": row.get("Type") or "",
+                "PostedDate": row.get("PostedDate") or "",
+                "Awardee": awardee,
+                "Award$": row.get("Award$") or "",
+                "Link": row.get("Link") or "",
+                "matches": [],
+            }
+        )
+    return records
+
+
 def write_markdown_opportunities(records: list[dict[str, Any]], output_dir: Path) -> int:
     opportunities_dir = output_dir / "opportunities"
     opportunities_dir.mkdir(parents=True, exist_ok=True)
@@ -468,6 +504,7 @@ def main() -> None:
     department_breakdown = build_department_breakdown(records)
     date_breakdown = build_date_breakdown(records)
     award_company_history = build_award_company_history(all_rows)
+    award_records = extract_top_award_records(all_rows, award_company_history.get("top_companies", []))
 
     per_record_matches: list[dict[str, Any]] = []
     total_term_counts: Counter[str] = Counter()
@@ -625,6 +662,9 @@ def main() -> None:
     )
     (docs_data_dir / "today_departments.json").write_text(
         json.dumps(department_breakdown, indent=2), encoding="utf-8"
+    )
+    (docs_data_dir / "award_records.json").write_text(
+        json.dumps(award_records, indent=2), encoding="utf-8"
     )
 
     markdown_written = write_markdown_opportunities(records, docs_data_dir.parent)
