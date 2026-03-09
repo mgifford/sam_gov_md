@@ -51,6 +51,9 @@ def main() -> None:
             naics_code AS NaicsCode,
             link       AS Link,
             is_win,
+            awardee    AS Awardee,
+            description AS Description,
+            matches,
             first_seen_date,
             last_seen_date,
             seen_count,
@@ -68,6 +71,12 @@ def main() -> None:
     for row in rows:
         record = dict(row)
         record["is_win"] = bool(record.get("is_win"))
+        # Parse stored matches JSON back to a list
+        raw_matches = record.pop("matches", None)
+        try:
+            record["matches"] = json.loads(raw_matches) if raw_matches else []
+        except (TypeError, ValueError):
+            record["matches"] = []
         records.append(record)
 
     output_path.write_text(json.dumps(records, indent=2), encoding="utf-8")

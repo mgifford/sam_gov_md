@@ -9,6 +9,7 @@ import html as html_module
 import io
 import json
 import os
+import re
 import time
 import unicodedata
 from pathlib import Path
@@ -83,6 +84,8 @@ def write_opportunity_pdf_content(
     pdf_url: str,
     text: str,
     output_dir: Path,
+    pdf_bytes: Optional[bytes] = None,
+    save_pdf: bool = False,
 ) -> None:
     doc_dir = output_dir / notice_id
     doc_dir.mkdir(parents=True, exist_ok=True)
@@ -97,6 +100,17 @@ def write_opportunity_pdf_content(
         text or "_No text could be extracted from this PDF._",
     ]
     (doc_dir / "pdf_content.md").write_text("\n".join(lines), encoding="utf-8")
+
+    if save_pdf and pdf_bytes:
+        # Derive a safe filename from the URL path, falling back to "attachment.pdf"
+        url_path = urlparse(pdf_url).path
+        raw_name = Path(url_path).name or "attachment"
+        # Sanitize stem only (no dots) to prevent path-traversal via ".." sequences;
+        # always use .pdf extension regardless of the original filename.
+        raw_stem = Path(raw_name).stem
+        safe_stem = re.sub(r"[^A-Za-z0-9_-]", "_", raw_stem) or "attachment"
+        safe_name = f"{safe_stem}.pdf"
+        (doc_dir / safe_name).write_bytes(pdf_bytes)
 
 
 def load_csv(csv_path: str) -> list[dict]:
@@ -155,6 +169,17 @@ def main() -> None:
         default="data/today/pdf_extraction_summary.json",
         help="Path to write extraction summary JSON",
     )
+    parser.add_argument(
+        "--save-pdf",
+        action="store_true",
+        help="Save the raw PDF file alongside the extracted markdown in the opportunity directory",
+    )
+    parser.add_argument(
+        "--max-pdf-size",
+        type=int,
+        default=50 * 1024 * 1024,  # 50 MB
+        help="Maximum PDF file size in bytes to save (default: 52428800 = 50 MB)",
+    )
     args = parser.parse_args()
 
     output_dir = Path(args.output_dir)
@@ -195,15 +220,36 @@ def main() -> None:
             )
             continue
 
+        # Enforce max PDF size limit when saving files to avoid large repo blobs
+        pdf_too_large = args.save_pdf and len(pdf_bytes) > args.max_pdf_size
+
         try:
             text = extract_text_from_pdf(pdf_bytes)
-            write_opportunity_pdf_content(notice_id, title, pdf_url, text, output_dir)
-            word_count = len(text.split()) if text else 0
-            print(f"    Extracted ~{word_count} words")
-            extracted += 1
-            summary_records.append(
-                {"notice_id": notice_id, "url": pdf_url, "status": "ok", "words": word_count}
+            write_opportunity_pdf_content(
+                notice_id,
+                title,
+                pdf_url,
+                text,
+                output_dir,
+                pdf_bytes=pdf_bytes if not pdf_too_large else None,
+                save_pdf=args.save_pdf,
             )
+            word_count = len(text.split()) if text else 0
+            size_kb = len(pdf_bytes) // 1024
+            saved_pdf = args.save_pdf and not pdf_too_large
+            if pdf_too_large:
+                print(f"    Extracted ~{word_count} words (PDF {size_kb} KB exceeds size limit; not saved)")
+            else:
+                print(f"    Extracted ~{word_count} words" + (f", saved PDF ({size_kb} KB)" if saved_pdf else ""))
+            extracted += 1
+            summary_records.append({
+                "notice_id": notice_id,
+                "url": pdf_url,
+                "status": "ok",
+                "words": word_count,
+                "pdf_saved": saved_pdf,
+                "size_bytes": len(pdf_bytes),
+            })
         except Exception as exc:
             print(f"    Error processing PDF: {exc}")
             errors += 1
