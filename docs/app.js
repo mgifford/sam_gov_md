@@ -221,7 +221,10 @@ function renderAwardedCompanies(awardHistory) {
 function renderTable(records, heading = '') {
   const container = document.getElementById('recordsTable')
   if (!records.length) {
-    container.innerHTML = '<p class="empty">No matching records for this date.</p>'
+    container.innerHTML = `
+      ${heading ? `<p class="sub" style="margin-top:0;">${heading}</p>` : ''}
+      <p class="empty">No matching records for this date.</p>
+    `
     return
   }
 
@@ -426,15 +429,17 @@ function renderGraph(graphData) {
 
 async function main() {
   try {
-    const [summary, relationships, allOpportunities, departmentForecast, contractOfficers] = await Promise.all([
+    const [summary, relationships, allOpportunities, departmentForecast, contractOfficers, awardRecordsRaw] = await Promise.all([
       loadJson('data/today_summary.json'),
       loadJson('data/today_relationships.json'),
       loadJson('data/all_opportunities.json'),
       loadJson('data/department_forecast.json').catch(() => null),
       loadJson('data/contract_officers.json').catch(() => null),
+      loadJson('data/award_records.json').catch(() => []),
     ])
 
     const allRecords = (allOpportunities || []).map((row) => normalizeRecord(row))
+    const awardRecords = (awardRecordsRaw || []).map((row) => normalizeRecord(row))
     const matchedRecords = (summary.top_matching_records || []).map((row) => normalizeRecord(row))
 
     const latestBatch = summary.used_fallback_latest
@@ -462,13 +467,13 @@ async function main() {
     renderTable(matchedRecords.length ? matchedRecords : allRecords, 'Showing highest-signal records (by tracked terms).')
     renderGraph(relationships)
 
-    containerHandlers(allRecords, summary.department_breakdown || [])
+    containerHandlers(allRecords, summary.department_breakdown || [], awardRecords)
   } catch (error) {
     setText('dateInfo', `Failed to load dashboard data: ${error.message}`)
   }
 }
 
-function containerHandlers(allRecords) {
+function containerHandlers(allRecords, _departments, awardRecords = []) {
   const table = document.getElementById('departmentTable')
   const termsList = document.getElementById('terms')
   if (!table) return
@@ -540,9 +545,9 @@ function containerHandlers(allRecords) {
         const company = companyButton.getAttribute('data-company') || ''
         if (!company) return
         
-        // Filter records by awarded company (Awardee field)
-        const filtered = allRecords.filter((row) => {
-          const awardee = row.Awardee || row.awardee || ''
+        // Filter award records by awarded company (Awardee field)
+        const filtered = awardRecords.filter((row) => {
+          const awardee = row.Awardee || ''
           return awardee.toLowerCase() === company.toLowerCase()
         })
         
