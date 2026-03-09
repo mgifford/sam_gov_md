@@ -1,8 +1,8 @@
 {
-  "requested_date": "2026-03-08",
-  "effective_date": "2026-03-07",
-  "records_total": 18,
-  "high_value_count": 0,
+  "requested_date": "2026-03-09",
+  "effective_date": "2026-03-08",
+  "records_total": 127,
+  "high_value_count": 1,
   "min_hits": 8,
   "focus_terms": [
     "Content Management System",
@@ -22,5 +22,23 @@
     "wcag",
     "web"
   ],
-  "matches": []
+  "matches": [
+    {
+      "NoticeId": "aaae5bd96e1a479aaecc1e9a02b6c444",
+      "Sol#": "SPE4A026T2036",
+      "Title": "16--VHF UHF IFF ATC ANT",
+      "Type": "Combined Synopsis/Solicitation",
+      "PostedDate": "2026-03-08 00:09:20.187-05",
+      "Agency": "DEPT OF DEFENSE",
+      "Link": "https://sam.gov/workspace/contract/opp/aaae5bd96e1a479aaecc1e9a02b6c444/view",
+      "matches": [
+        {
+          "term": "ui",
+          "category": "design",
+          "count": 8
+        }
+      ],
+      "total_hits": 8
+    }
+  ]
 }

@@ -4,36 +4,37 @@
     "2026-03-04",
     "2026-03-05",
     "2026-03-06",
-    "2026-03-07"
+    "2026-03-07",
+    "2026-03-08"
   ],
   "agencies": {
-    "AGRICULTURE, DEPARTMENT OF": [
+    "COMMERCE, DEPARTMENT OF": [
       {
         "date": "2026-03-03",
-        "count": 41,
-        "wins": 3,
-        "opportunities": 38
+        "count": 12,
+        "wins": 0,
+        "opportunities": 12
       },
       {
         "date": "2026-03-04",
-        "count": 55,
-        "wins": 5,
-        "opportunities": 50
+        "count": 15,
+        "wins": 1,
+        "opportunities": 14
       },
       {
         "date": "2026-03-05",
-        "count": 47,
-        "wins": 6,
-        "opportunities": 41
+        "count": 15,
+        "wins": 0,
+        "opportunities": 15
       },
       {
         "date": "2026-03-06",
-        "count": 35,
-        "wins": 2,
-        "opportunities": 33
+        "count": 12,
+        "wins": 1,
+        "opportunities": 11
       },
       {
-        "date": "2026-03-07",
+        "date": "2026-03-08",
         "count": 1,
         "wins": 0,
         "opportunities": 1
@@ -69,38 +70,44 @@
         "count": 12,
         "wins": 4,
         "opportunities": 8
+      },
+      {
+        "date": "2026-03-08",
+        "count": 120,
+        "wins": 0,
+        "opportunities": 120
       }
     ],
-    "HEALTH AND HUMAN SERVICES, DEPARTMENT OF": [
+    "HOMELAND SECURITY, DEPARTMENT OF": [
       {
         "date": "2026-03-03",
-        "count": 26,
-        "wins": 1,
-        "opportunities": 25
+        "count": 29,
+        "wins": 5,
+        "opportunities": 24
       },
       {
         "date": "2026-03-04",
-        "count": 31,
-        "wins": 1,
-        "opportunities": 30
+        "count": 34,
+        "wins": 3,
+        "opportunities": 31
       },
       {
         "date": "2026-03-05",
-        "count": 45,
-        "wins": 17,
-        "opportunities": 28
+        "count": 42,
+        "wins": 3,
+        "opportunities": 39
       },
       {
         "date": "2026-03-06",
-        "count": 17,
-        "wins": 0,
-        "opportunities": 17
+        "count": 27,
+        "wins": 3,
+        "opportunities": 24
       },
       {
-        "date": "2026-03-07",
-        "count": 1,
+        "date": "2026-03-08",
+        "count": 2,
         "wins": 0,
-        "opportunities": 1
+        "opportunities": 2
       }
     ],
     "INTERIOR, DEPARTMENT OF THE": [
@@ -133,6 +140,44 @@
         "count": 3,
         "wins": 1,
         "opportunities": 2
+      },
+      {
+        "date": "2026-03-08",
+        "count": 1,
+        "wins": 0,
+        "opportunities": 1
+      }
+    ],
+    "STATE, DEPARTMENT OF": [
+      {
+        "date": "2026-03-03",
+        "count": 20,
+        "wins": 0,
+        "opportunities": 20
+      },
+      {
+        "date": "2026-03-04",
+        "count": 17,
+        "wins": 1,
+        "opportunities": 16
+      },
+      {
+        "date": "2026-03-05",
+        "count": 24,
+        "wins": 4,
+        "opportunities": 20
+      },
+      {
+        "date": "2026-03-06",
+        "count": 17,
+        "wins": 0,
+        "opportunities": 17
+      },
+      {
+        "date": "2026-03-08",
+        "count": 1,
+        "wins": 0,
+        "opportunities": 1
       }
     ],
     "VETERANS AFFAIRS, DEPARTMENT OF": [
@@ -165,32 +210,76 @@
         "count": 1,
         "wins": 0,
         "opportunities": 1
+      },
+      {
+        "date": "2026-03-08",
+        "count": 2,
+        "wins": 0,
+        "opportunities": 2
       }
     ],
-    "COMMERCE, DEPARTMENT OF": [
+    "AGRICULTURE, DEPARTMENT OF": [
       {
         "date": "2026-03-03",
-        "count": 12,
-        "wins": 0,
-        "opportunities": 12
+        "count": 41,
+        "wins": 3,
+        "opportunities": 38
       },
       {
         "date": "2026-03-04",
-        "count": 15,
-        "wins": 1,
-        "opportunities": 14
+        "count": 55,
+        "wins": 5,
+        "opportunities": 50
       },
       {
         "date": "2026-03-05",
-        "count": 15,
-        "wins": 0,
-        "opportunities": 15
+        "count": 47,
+        "wins": 6,
+        "opportunities": 41
       },
       {
         "date": "2026-03-06",
-        "count": 12,
+        "count": 35,
+        "wins": 2,
+        "opportunities": 33
+      },
+      {
+        "date": "2026-03-07",
+        "count": 1,
+        "wins": 0,
+        "opportunities": 1
+      }
+    ],
+    "HEALTH AND HUMAN SERVICES, DEPARTMENT OF": [
+      {
+        "date": "2026-03-03",
+        "count": 26,
         "wins": 1,
-        "opportunities": 11
+        "opportunities": 25
+      },
+      {
+        "date": "2026-03-04",
+        "count": 31,
+        "wins": 1,
+        "opportunities": 30
+      },
+      {
+        "date": "2026-03-05",
+        "count": 45,
+        "wins": 17,
+        "opportunities": 28
+      },
+      {
+        "date": "2026-03-06",
+        "count": 17,
+        "wins": 0,
+        "opportunities": 17
+      },
+      {
+        "date": "2026-03-07",
+        "count": 1,
+        "wins": 0,
+        "opportunities": 1
       }
     ],
     "ENERGY, DEPARTMENT OF": [
@@ -285,32 +374,6 @@
         "count": 5,
         "wins": 0,
         "opportunities": 5
-      }
-    ],
-    "HOMELAND SECURITY, DEPARTMENT OF": [
-      {
-        "date": "2026-03-03",
-        "count": 29,
-        "wins": 5,
-        "opportunities": 24
-      },
-      {
-        "date": "2026-03-04",
-        "count": 34,
-        "wins": 3,
-        "opportunities": 31
-      },
-      {
-        "date": "2026-03-05",
-        "count": 42,
-        "wins": 3,
-        "opportunities": 39
-      },
-      {
-        "date": "2026-03-06",
-        "count": 27,
-        "wins": 3,
-        "opportunities": 24
       }
     ],
     "INTERNATIONAL BOUNDARY AND WATER COMMISSION: US-MEXICO": [
@@ -413,32 +476,6 @@
         "count": 2,
         "wins": 0,
         "opportunities": 2
-      }
-    ],
-    "STATE, DEPARTMENT OF": [
-      {
-        "date": "2026-03-03",
-        "count": 20,
-        "wins": 0,
-        "opportunities": 20
-      },
-      {
-        "date": "2026-03-04",
-        "count": 17,
-        "wins": 1,
-        "opportunities": 16
-      },
-      {
-        "date": "2026-03-05",
-        "count": 24,
-        "wins": 4,
-        "opportunities": 20
-      },
-      {
-        "date": "2026-03-06",
-        "count": 17,
-        "wins": 0,
-        "opportunities": 17
       }
     ],
     "TRANSPORTATION, DEPARTMENT OF": [
@@ -677,24 +714,24 @@
   "top_agencies": [
     {
       "agency": "DEPT OF DEFENSE",
-      "total": 3974,
+      "total": 4094,
       "wins": 713,
-      "opportunities": 3261,
-      "days_seen": 5
+      "opportunities": 3381,
+      "days_seen": 6
     },
     {
       "agency": "VETERANS AFFAIRS, DEPARTMENT OF",
-      "total": 571,
+      "total": 573,
       "wins": 76,
-      "opportunities": 495,
-      "days_seen": 5
+      "opportunities": 497,
+      "days_seen": 6
     },
     {
       "agency": "INTERIOR, DEPARTMENT OF THE",
-      "total": 256,
+      "total": 257,
       "wins": 72,
-      "opportunities": 184,
-      "days_seen": 5
+      "opportunities": 185,
+      "days_seen": 6
     },
     {
       "agency": "AGRICULTURE, DEPARTMENT OF",
@@ -705,10 +742,10 @@
     },
     {
       "agency": "HOMELAND SECURITY, DEPARTMENT OF",
-      "total": 132,
+      "total": 134,
       "wins": 14,
-      "opportunities": 118,
-      "days_seen": 4
+      "opportunities": 120,
+      "days_seen": 5
     },
     {
       "agency": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
@@ -726,10 +763,10 @@
     },
     {
       "agency": "STATE, DEPARTMENT OF",
-      "total": 78,
+      "total": 79,
       "wins": 5,
-      "opportunities": 73,
-      "days_seen": 4
+      "opportunities": 74,
+      "days_seen": 5
     },
     {
       "agency": "ENERGY, DEPARTMENT OF",
@@ -740,10 +777,10 @@
     },
     {
       "agency": "COMMERCE, DEPARTMENT OF",
-      "total": 54,
+      "total": 55,
       "wins": 2,
-      "opportunities": 52,
-      "days_seen": 4
+      "opportunities": 53,
+      "days_seen": 5
     },
     {
       "agency": "TRANSPORTATION, DEPARTMENT OF",

@@ -1,55 +1,52 @@
 {
-  "forecast_date": "2026-03-07",
+  "forecast_date": "2026-03-08",
   "departments_by_opportunity_volume": [
     {
-      "total_records": 12,
-      "open_opportunities": 8,
-      "awarded": 4,
-      "win_rate_percent": 33.3,
-      "estimated_monthly_value": 6747255,
-      "average_award_value": 1686813,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 1,
-      "top_awardees": [
-        {
-          "name": "Frontgrade Technologies Inc. ",
-          "wins": 1,
-          "total_value": 4796303
-        },
-        {
-          "name": "SIKORSKY AIRCRAFT CORPORATION ",
-          "wins": 1,
-          "total_value": 1340818
-        },
-        {
-          "name": "ECI DEFENSE GROUP, INC. ",
-          "wins": 1,
-          "total_value": 390506
-        },
-        {
-          "name": "A.M.S. NETWORK, LLC ",
-          "wins": 1,
-          "total_value": 219628
-        }
-      ],
+      "total_records": 120,
+      "open_opportunities": 120,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 114,
+      "top_awardees": [],
       "department": "DEPT OF DEFENSE"
     },
     {
-      "total_records": 3,
+      "total_records": 2,
       "open_opportunities": 2,
-      "awarded": 1,
-      "win_rate_percent": 33.3,
-      "estimated_monthly_value": 368800,
-      "average_award_value": 368800,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
-      "top_awardees": [
-        {
-          "name": "SGS AXYS ANALYTICAL SERVICES LTD. 2045 MILLS RD W SIDNEY BC V8L 5 CAN",
-          "wins": 1,
-          "total_value": 368800
-        }
-      ],
+      "top_awardees": [],
+      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
+    },
+    {
+      "total_records": 2,
+      "open_opportunities": 2,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "HOMELAND SECURITY, DEPARTMENT OF"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
       "department": "INTERIOR, DEPARTMENT OF THE"
     },
     {
@@ -62,7 +59,7 @@
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
+      "department": "STATE, DEPARTMENT OF"
     },
     {
       "total_records": 1,
@@ -72,73 +69,58 @@
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
+      "opportunities_with_keyword_matches": 1,
       "top_awardees": [],
-      "department": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "AGRICULTURE, DEPARTMENT OF"
+      "department": "COMMERCE, DEPARTMENT OF"
     }
   ],
   "departments_by_award_value": [
     {
-      "total_records": 12,
-      "open_opportunities": 8,
-      "awarded": 4,
-      "win_rate_percent": 33.3,
-      "estimated_monthly_value": 6747255,
-      "average_award_value": 1686813,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 1,
-      "top_awardees": [
-        {
-          "name": "Frontgrade Technologies Inc. ",
-          "wins": 1,
-          "total_value": 4796303
-        },
-        {
-          "name": "SIKORSKY AIRCRAFT CORPORATION ",
-          "wins": 1,
-          "total_value": 1340818
-        },
-        {
-          "name": "ECI DEFENSE GROUP, INC. ",
-          "wins": 1,
-          "total_value": 390506
-        },
-        {
-          "name": "A.M.S. NETWORK, LLC ",
-          "wins": 1,
-          "total_value": 219628
-        }
-      ],
+      "total_records": 120,
+      "open_opportunities": 120,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 114,
+      "top_awardees": [],
       "department": "DEPT OF DEFENSE"
     },
     {
-      "total_records": 3,
+      "total_records": 2,
       "open_opportunities": 2,
-      "awarded": 1,
-      "win_rate_percent": 33.3,
-      "estimated_monthly_value": 368800,
-      "average_award_value": 368800,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
-      "top_awardees": [
-        {
-          "name": "SGS AXYS ANALYTICAL SERVICES LTD. 2045 MILLS RD W SIDNEY BC V8L 5 CAN",
-          "wins": 1,
-          "total_value": 368800
-        }
-      ],
+      "top_awardees": [],
+      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
+    },
+    {
+      "total_records": 2,
+      "open_opportunities": 2,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "HOMELAND SECURITY, DEPARTMENT OF"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
       "department": "INTERIOR, DEPARTMENT OF THE"
     },
     {
@@ -151,7 +133,7 @@
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
+      "department": "STATE, DEPARTMENT OF"
     },
     {
       "total_records": 1,
@@ -161,74 +143,46 @@
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
+      "opportunities_with_keyword_matches": 1,
       "top_awardees": [],
-      "department": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "AGRICULTURE, DEPARTMENT OF"
+      "department": "COMMERCE, DEPARTMENT OF"
     }
   ],
   "department_forecasts": {
     "DEPT OF DEFENSE": {
-      "total_records": 12,
-      "open_opportunities": 8,
-      "awarded": 4,
-      "win_rate_percent": 33.3,
-      "estimated_monthly_value": 6747255,
-      "average_award_value": 1686813,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 1,
-      "top_awardees": [
-        {
-          "name": "Frontgrade Technologies Inc. ",
-          "wins": 1,
-          "total_value": 4796303
-        },
-        {
-          "name": "SIKORSKY AIRCRAFT CORPORATION ",
-          "wins": 1,
-          "total_value": 1340818
-        },
-        {
-          "name": "ECI DEFENSE GROUP, INC. ",
-          "wins": 1,
-          "total_value": 390506
-        },
-        {
-          "name": "A.M.S. NETWORK, LLC ",
-          "wins": 1,
-          "total_value": 219628
-        }
-      ]
-    },
-    "INTERIOR, DEPARTMENT OF THE": {
-      "total_records": 3,
-      "open_opportunities": 2,
-      "awarded": 1,
-      "win_rate_percent": 33.3,
-      "estimated_monthly_value": 368800,
-      "average_award_value": 368800,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [
-        {
-          "name": "SGS AXYS ANALYTICAL SERVICES LTD. 2045 MILLS RD W SIDNEY BC V8L 5 CAN",
-          "wins": 1,
-          "total_value": 368800
-        }
-      ]
+      "total_records": 120,
+      "open_opportunities": 120,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 114,
+      "top_awardees": []
     },
     "VETERANS AFFAIRS, DEPARTMENT OF": {
+      "total_records": 2,
+      "open_opportunities": 2,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": []
+    },
+    "HOMELAND SECURITY, DEPARTMENT OF": {
+      "total_records": 2,
+      "open_opportunities": 2,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": []
+    },
+    "INTERIOR, DEPARTMENT OF THE": {
       "total_records": 1,
       "open_opportunities": 1,
       "awarded": 0,
@@ -239,7 +193,7 @@
       "opportunities_with_keyword_matches": 0,
       "top_awardees": []
     },
-    "HEALTH AND HUMAN SERVICES, DEPARTMENT OF": {
+    "STATE, DEPARTMENT OF": {
       "total_records": 1,
       "open_opportunities": 1,
       "awarded": 0,
@@ -250,15 +204,15 @@
       "opportunities_with_keyword_matches": 0,
       "top_awardees": []
     },
-    "AGRICULTURE, DEPARTMENT OF": {
+    "COMMERCE, DEPARTMENT OF": {
       "total_records": 1,
       "open_opportunities": 1,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 1,
       "top_awardees": []
     }
   }
