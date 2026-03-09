@@ -65,9 +65,11 @@ jobs:
       - name: Extract PDFs from opportunities
         run: |
           # Extract PDFs for top 50 opportunities (~10-15 with valid PDFs)
+          # --save-pdf stores the raw PDF alongside the extracted markdown
           python scripts/scrape_opportunities.py \
             --limit 50 \
-            --csv data/ContractOpportunitiesFullCSV.csv
+            --csv data/ContractOpportunitiesFullCSV.csv \
+            --save-pdf
 
       - name: Commit and push if changed
         run: |

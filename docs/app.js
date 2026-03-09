@@ -426,21 +426,21 @@ function renderGraph(graphData) {
 
 async function main() {
   try {
-    const [summary, relationships, allRecordsRaw, departmentForecast, contractOfficers] = await Promise.all([
+    const [summary, relationships, allOpportunities, departmentForecast, contractOfficers] = await Promise.all([
       loadJson('data/today_summary.json'),
       loadJson('data/today_relationships.json'),
-      loadJson('data/today_records.json'),
+      loadJson('data/all_opportunities.json'),
       loadJson('data/department_forecast.json').catch(() => null),
       loadJson('data/contract_officers.json').catch(() => null),
     ])
 
-    const allRecords = (allRecordsRaw || []).map((row) => normalizeRecord(row))
+    const allRecords = (allOpportunities || []).map((row) => normalizeRecord(row))
     const matchedRecords = (summary.top_matching_records || []).map((row) => normalizeRecord(row))
 
-    const msg = summary.used_fallback_latest
-      ? `Requested ${summary.requested_date}, no records found. Showing latest available date: ${summary.effective_date}.`
-      : `Showing records published on ${summary.effective_date}.`
-    setText('dateInfo', msg)
+    const latestBatch = summary.used_fallback_latest
+      ? `No records for ${summary.requested_date}; latest available: ${summary.effective_date} (${summary.records_total} records).`
+      : `Latest batch: ${summary.effective_date} (${summary.records_total} records).`
+    setText('dateInfo', `${latestBatch} Showing all ${allRecords.length.toLocaleString()} tracked opportunities.`)
     setText('total', String(summary.records_total || 0))
     setText('opps', String(summary.opportunities_total || 0))
     setText('wins', String(summary.awarded_total || summary.wins_total || 0))

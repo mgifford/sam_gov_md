@@ -83,7 +83,7 @@ function displayResults(results, query) {
 
 async function main() {
   try {
-    const records = await loadJson('data/today_records.json')
+    const records = await loadJson('data/all_opportunities.json')
     const allRecords = records.map(normalizeRecord)
 
     const deptFilter = document.getElementById('filter-department')

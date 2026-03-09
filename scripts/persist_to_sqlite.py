@@ -26,10 +26,19 @@ def init_db(conn: sqlite3.Connection) -> None:
             first_seen_date TEXT NOT NULL,
             last_seen_date TEXT NOT NULL,
             seen_count INTEGER NOT NULL DEFAULT 1,
-            last_snapshot_date TEXT NOT NULL
+            last_snapshot_date TEXT NOT NULL,
+            description TEXT,
+            matches TEXT,
+            awardee TEXT
         )
         """
     )
+    # Migrate existing tables that predate the description/matches/awardee columns
+    for col, col_type in [("description", "TEXT"), ("matches", "TEXT"), ("awardee", "TEXT")]:
+        try:
+            conn.execute(f"ALTER TABLE opportunities ADD COLUMN {col} {col_type}")
+        except sqlite3.OperationalError:
+            pass  # Column already exists
     conn.execute(
         """
         CREATE TABLE IF NOT EXISTS opportunity_sightings (
@@ -63,13 +72,24 @@ def upsert_record(conn: sqlite3.Connection, row: dict, snapshot_date: str) -> st
 
     is_win = 1 if ("award" in (row.get("Type") or "").lower() or "win" in (row.get("Type") or "").lower()) else 0
 
+    # Truncate description to 1000 chars for storage; full text lives in markdown files
+    raw_description = row.get("Description") or ""
+    description = raw_description[:1000] if raw_description else None
+
+    # Store top matches as a compact JSON string
+    matches_list = row.get("matches") or []
+    matches_json = json.dumps(matches_list[:10]) if matches_list else None
+
+    awardee = (row.get("Awardee") or "").strip() or None
+
     conn.execute(
         """
         INSERT INTO opportunities (
             notice_id, sol_number, title, agency, notice_type, posted_date,
             response_deadline, naics_code, link, is_win, first_seen_date,
-            last_seen_date, seen_count, last_snapshot_date
-        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 1, ?)
+            last_seen_date, seen_count, last_snapshot_date,
+            description, matches, awardee
+        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 1, ?, ?, ?, ?)
         ON CONFLICT(notice_id) DO UPDATE SET
             sol_number = excluded.sol_number,
             title = excluded.title,
@@ -82,7 +102,10 @@ def upsert_record(conn: sqlite3.Connection, row: dict, snapshot_date: str) -> st
             is_win = excluded.is_win,
             last_seen_date = excluded.last_seen_date,
             last_snapshot_date = excluded.last_snapshot_date,
-            seen_count = opportunities.seen_count + 1
+            seen_count = opportunities.seen_count + 1,
+            description = excluded.description,
+            matches = excluded.matches,
+            awardee = excluded.awardee
         """,
         (
             notice_id,
@@ -98,6 +121,9 @@ def upsert_record(conn: sqlite3.Connection, row: dict, snapshot_date: str) -> st
             snapshot_date,
             snapshot_date,
             snapshot_date,
+            description,
+            matches_json,
+            awardee,
         ),
     )
 
