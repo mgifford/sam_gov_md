@@ -1,0 +1,31 @@
+---
+layout: default
+title: PLA Survey - BGAD Small Arms Ammunition Magazine
+agency: DEPT OF DEFENSE
+notice_type: Special Notice
+notice_id: ee0a9dec8a3a4493ab3b7aed12cb5940
+---
+
+# PLA Survey - BGAD Small Arms Ammunition Magazine
+
+- Agency: DEPT OF DEFENSE
+- Type: Special Notice
+- Posted: 2026-03-09 14:09:00.623-04
+- Solicitation Number: W912QR_26_PLASURVEY_BGAD_SMALLARMS_AMMUNITION_MAGAZINE
+
+## Summary
+
+THIS IS A PROJECT LABOR AGREEMENT (PLA) SURVEY ONLY. This is a SPECIAL NOTICE. No proposals are being requested or accepted with this PLA notice. This PLA Market Survey is being conducted prior to the release of the solicitation. This is a SPECIAL NOTICE only. The U.S. Army Corps of Engineers, Louisville District is soliciting comments from the construction community addressing use of a PLA for this construction project at the Bluegrass Army Depot – Small Arms Ammunition Magazine Description: The Corps of Engineers Louisville District is soliciting comments from the construction community addressing the potential use of Project Labor Agreements (PLAs) for a large-scale construction project (exceeding $35 million) for the following: Project Overview: This project is for the construction of a 180,000 SF Ammunition Storehouse for Small Arms Ammunition and a Munitions Surveillance Workshop and to accommodate required egress components. The facility includes loading docks, ramps, lightning protection system, fire protection and alarm systems, and cybersecurity measures, and Energy Monitoring Control Systems (EMCS) connection. Sustainability and energy enhancement measures are included. Supporting facilities include utilities (water, sewer, gas), electric service, site lighting, organizational parking, access roads, paving, sidewalks, storm drainage, information systems, and site improvements. Heating and air conditioning will be provided by a self-contained system. Comprehensive building and furnishings related to interior design services are required. Access for individuals with disabilities will be provided. Facilities will be designed to a minimum life span of 40 years in accordance with DoD's Unified Facilities Criteria (UFC 1-200-02) including energy efficiencies, building envelope and integrated building systems performance. Air Conditioning (Estimated
+
+3.5 Tons). A PLA is defined as a pre-hire collective bargaining agreement with one or more labor organizations that establishes the terms and conditions of employment for a specific construction project and is an agreement described in 29 U.S.C. 158(f). For further awareness on PLAs, please visit https://www.dol.gov/general/good-jobs/project-laboragreement-resource-guide. Federal Acquisition Regulation (FAR) Policy: Project Labor Agreement (PLA) is a tool that agencies may use to promote economy and efficiency in Federal procurement. Pursuant to Executive Order 13502, agencies are encouraged to consider requiring the use of project labor agreements in connection with large-scale construction projects. An agency may, if appropriate, require that every contractor and subcontractor engaged in construction on the project agree, for that project, to negotiate or become a party to a project labor agreement with one or more labor organizations if the agency decides that the use of project labor agreements will: Advance the Federal Governments interest in achieving economy and efficiency in Federal procurement, producing labor-management stability, and ensuring compliance with laws and regulations governing safety and health, equal employment opportunity, labor and employment standards, and other matters; and Be consistent with law. References: Provision: 52.222-33 Notice of Requirement for Project Labor Agreement Clause: 52.222-34 Project Labor Agreement. In consideration of the above factors, and any others which may be deemed appropriate, the construction community is invited to comment on the use of PLAs. Of particular interest to the Government are responses to the following questions: Do you have knowledge that a PLA has been used in the local area on projects of this kind? If so, please provide supporting documentation. Are you aware of skilled labor shortages in the area for those crafts that will be needed to complete the referenced project? If so, please elaborate and provide supporting documentation where possible. Are you aware of time sensitive issues/scheduling requirements that would affect the rate at which the referenced project should be completed? If so, please elaborate and provide supporting documentation where possible. Identify specific reasons why or how you believe a PLA would advance the Federal Governments interest in achieving economy and efficiency in federal procurement. Identify specific reasons why you do not believe a PLA would advance the Federal Governments interest in achieving economy and efficiency in federal procurement. Identify any additional information you believe should be considered on the use of a PLA on the referenced project. Identify any additional information you believe should be considered on the non-use of a PLA on the referenced project. What cost impact do you expect if PLA requirements are included? Please select one of the following: My company will not submit a proposal if PLA is required but is interested in proposing if PLA is not a requirement. My company plans to submit a proposal whether PLA is required or not. My company only plans to submit a proposal if PLA is required. In addition to affirmative responses, we are seeking negative responses to identify any potential actions we may take to improve the competitive environment. Please provide a response with feedback including rationale for not wanting to submit a proposal and any recommendations that could promote interest. Please provide your response via e-mail to Jacob.S.Pridemore@usace.army.mil no later than 10:00 AM Eastern Time on Tuesday, 24 March 2026.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Jacob Pridemore
+  - Email: jacob.s.pridemore@usace.army.mil
+  - Phone: 5023156228
+
+## Links
+
+- SAM.gov: https://sam.gov/workspace/contract/opp/ee0a9dec8a3a4493ab3b7aed12cb5940/view

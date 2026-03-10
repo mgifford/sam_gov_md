@@ -1,0 +1,32 @@
+---
+layout: default
+title: Overhaul of SUPPORT ASSY, BELLCRANK
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 0ff04c5098384dd7aa84d6c0076edee8
+---
+
+# Overhaul of SUPPORT ASSY, BELLCRANK
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-03-09 15:19:29.038-04
+- Solicitation Number: W58RGZ-26-R-0056
+
+## Summary
+
+SOURCES SOUGHT W58RGZ-26-R-0056 UH-60 SUPPORT ASSEMBLY, BELLCRANK INSPECTION AND OVERHAUL INTRODUCTION The U.S. Army Contracting Command-Redstone Arsenal (W58RGZ) ATTN: CCAM- AVA-B, Building 5303, Martin Road Redstone Arsenal, AL 35898-5280 (US) is issuing this Sources Sought as a means of conducting market research to identify potential sources having an interest and industry technologies available to support/provide inspection and overhaul of the SUPPORT ASSEMBLY, BELLCRANK. Input: SUPPORT ASSEMBLY, BELLCRANK, NSN: 1560-01-221-2619, part number 70400-08162-042. Output: SUPPORT ASSEMBLY, BELLCRANK, NSN: 1560-01-221-2619, part number 70400-08162-042. This item is a non-commercial item. The resulting contract will be a single award, Firm Fixed Price, Five Year (IDIQ) Indefinite Delivery Indefinite Quantity, with a min/max 48/288, US QTY 240, FMS QTY 48. The result of this market research will contribute to determining the method of procurement if a requirement materializes. Based on the responses to this Sources Sought notice/market research, this requirement may be set-aside for small businesses (in full or in part) or procured through full and open competition. Multiple awards may be made. All small business set-aside categories will be considered. Telephone inquiries will not be accepted or acknowledged, and no feedback or evaluations will be provided to companies regarding submissions. DISCLAIMER THIS SOURCES SOUGHT IS FOR INFORMATIONAL PURPOSES ONLY. THIS IS NOT A REQUEST FOR PROPOSAL (RFP) TO BE SUBMITTED. IT DOES NOT CONSTITUTE A SOLICITATION AND SHALL NOT BE CONSTRUED AS A COMMITMENT BY THE GOVERNMENT. RESPONSES IN ANY FORM ARE NOT OFFERS AND THE GOVERNMENT IS UNDER NO OBLIGATION TO AWARD A CONTRACT AS A RESULT OF THIS ANNOUNCEMENT. NO FUNDS ARE AVAILABLE TO PAY FOR PREPARATION OF RESPONSES TO THIS ANNOUNCEMENT. ANY INFORMATION SUBMITTED BY RESPONDENTS TO THIS TECHNICAL DESCRIPTION IS STRICTLY VOLUNTARY. REQUIRED CAPABILITIES The Government requires that contractors be able to provide all services, facilities, labor, parts, materials, equipment, tools, and data necessary to accomplish the inspection and overhaul for the SUPPORT ASSEMBLY, BELLCRANK, and to return the items to condition code A as defined by Army Regulation 725-50. Upon completion of the overhaul, the items shall be packaged and shipped to the required destination(s). The SUPPORT ASSEMBLY, BELLCRANK is a Critical Safety Item. A DMWR isn’t available for this requirement. The only known Systems Readiness Directorate approved source for this item is Sikorsky Aircraft Corp. (Cage: 78286). If your company is interested in becoming an approved source for this item, it must submit a request to the Systems Readiness Directorate to become an approved source. Information on the process to become an approved source is located at the following website: https://www.avmc.army.mil/Directorates/SRD/TechDataMgmt/ SPECIAL REQUIREMENTS The Government requires that contractors have a plan to meet all the Government’s special tooling and test equipment requirements with either: 1. Physical possession of the required tools, 2. Confirmed requisitions for the required tools, 3. Confirmed arrangements for subcontracting the processes requiring the special tools, or 4. Specific plans describing their technical approach to develop equivalent tools. ELIGIBILITY The applicable NAICS code for this requirement is 336413 with a Small Business Size Standard of 1,250. The Product Service Code (PSC) is 1560. SUBMISSION DETAILS Interested businesses wishing to be considered as a source need to respond to the link listed above. The information submitted will be evaluated by technical experts at the Security Readiness Directorate (SRD). SRD is the airworthiness authority and must approve the technical qualifications of all perspective contractors. Interested contractors may submit a capabilities statement. The information must be in a font no smaller than 10 points, which demonstrates the ability to provide the products/systems listed in this Technical Description. Providing a capabilities statement does not preclude you in completing the SRD requirement to become an approved source. Documentation should be in bullet format. No phone or email solicitations with regards to the status of the RFP will be accepted prior to its release. Your response to this Sources Sought shall be electronically submitted to the Contract Specialist, Aysia Young in either Microsoft Word or Portable Document Format (PDF), via email aysia.l.young.civ@army.mil no later than 24 March 2026, 1700 p.m. Central Time 15 days after the posting of this document and reference the solicitation number in the subject line of the e-mail and on all enclosed documents. Information and materials submitted in response to this request WILL NOT be returned. DO NOT SUBMIT CLASSIFIED MATERIAL. If your organization has the potential capacity to provide the required products/systems, please provide the following information: 1) Organization name, address, primary points of contact (POCs) and their email address, Web site address, telephone number, and type of ownership for the organization; and 2) Tailored capability statements addressing the requirements of this notice, with appropriate documentation supporting claims of organizational and staff capability. If significant subcontracting or teaming is anticipated in order to deliver technical capability, organizations should address the administrative and management structure of such arrangements. All data received in response to this Sources Sought that is marked or designated as corporate or proprietary will be fully protected from any release outside the Government.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Aysia Young
+  - Email: aysia.l.young.civ@army.mil
+  - Phone: 5208519942
+- Secondary Contact:
+  - Name: Edward A. Peterson
+  - Email: edward.a.peterson4.civ@mail.mil
+
+## Links
+
+- SAM.gov: https://sam.gov/workspace/contract/opp/0ff04c5098384dd7aa84d6c0076edee8/view

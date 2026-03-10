@@ -1,0 +1,49 @@
+---
+layout: default
+title: USCG STA Sand Key Repair Fuel Dispensers
+agency: HOMELAND SECURITY, DEPARTMENT OF
+notice_type: Combined Synopsis/Solicitation
+notice_id: d6fe81bb213f45daa6b09cceaa643cc1
+---
+
+# USCG STA Sand Key Repair Fuel Dispensers
+
+- Agency: HOMELAND SECURITY, DEPARTMENT OF
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-03-09 13:05:10.029-04
+- Solicitation Number: 30321PR260000003
+
+## Summary
+
+This combined synopsis/solicitation for construction services prepared in accordance with the format in subpart 12.6 of the Federal Acquisition Regulation (FAR) as supplemented with additional information included in this notice. This synopsis/solicitation is being advertised as Small Business Set-Aside only. This announcement constitutes the only solicitation; no separate written solicitation will be issued. The solicitation number is 30321PR260000003. Applicable North American Industry Classification Standard (NAICS) codes are: 237120 - Oil and Gas Pipeline and Related Structures Construction This requirement is for a fixed price contract. The contract will be awarded using simplified acquisition procedures in accordance with FAR part 13 and part 15 The Government will award a contract resulting from this solicitation to the responsible offeror whose offer conforming to the solicitation will be most advantageous to the Government, Best Value. When submitting your proposals, request a price breakdown of the following: a. Cost of materials and equipment b. Cost of labor Contract will be awarded to the vendor who can provide Best value which includes all labor, material, cost and equipment required within the SOW. Cost and Past Performance factors will also be considered when selecting the award. Anticipated award date: 10 business days after close of solicitation, OOA 20 March 2026 Quotes are to be received no later than close of business (3 p.m.) on 10 March 2026 and are to be sent via e-mail to angel.melendez@uscg.mil Location of Work: 1375 Gulf Blvd. Clearwater FL, 33767 POC: Zachery Little Zachery.T.Little@uscg.mil (206) 820-4819 James Pinto James.E.Pinto@uscg.mil (727) 596-8666 X 105 Quotations sent via the US Postal Service or hand delivered should be sent to: Commanding Officer USCG Base Miami Beach (P&C) Attn: Angel Melendez 12100 SW 152?? ST Miami, FL 33177. Telephone requests of quotes, will not be accepted, a formal notice of changes (if applicable) will be issued in SAM (www.sam.gov). Wage determinations: FL20240184 01/05/2024 SCOPE OF WORK: CONTRACT SPECIFICATIONS STATION SAND KEY FUEL DISPENSERS AT UNITED STATES COAST GUARD Station Sand Key, Clearwater, FL PROJECT NUMBER 31562475 February 2026 SUMMARY OF WORK PART 1 GENERAL GENERAL DESCRIPTION General Work Requirements 1. PROJECT OVERVIEW The Contractor shall provide all labor, supervision, materials, equipment, tools, testing, permits, and incidentals necessary to perform a complete overhaul, rehabilitation, and modernization of the fuel storage and dispensing system at USCG Station Sand Key. The objective is to restore the fuel system to full operational status in compliance with: Federal, State of Florida, and Pinellas County regulations EPA Underground Storage Tank (UST) requirements FDEP storage tank system regulations NFPA 30 & NFPA 30A UFC (Unified Facilities Criteria) USCG Civil Engineering Unit standards Shape 2. EXISTING SYSTEM DESCRIPTION The existing system generally consists of: Diesel fuel storage tank(s) (UST or AST – verify field conditions) Fuel transfer pump(s) Dispensing station(s) Fuel piping (underground and/or aboveground) Leak detection system Tank monitoring and alarm system Spill containment and overfill prevention Electrical controls and emergency shutoff The Contractor shall verify all existing conditions prior to mobilization. Shape 3. SCOPE OF SERVICES
+
+3.1 Pre-Construction Services Conduct site investigation and system condition assessment Perform tank tightness testing (if required) Provide as-built verification Develop phased construction plan to minimize operational disruption Prepare and submit shop drawings and submittals Obtain required permits and approvals Shape
+
+3.2 Fuel Tank Work Contractor shall: Decommission and remove existing fuel storage tank(s), OR Clean, inspect, and rehabilitate tank (if tank is to remain) If replacing: Furnish and install new double-wall UL-listed steel or fiberglass tank Provide corrosion protection system (if UST) Install anchoring system (if required by water table conditions) Install new spill bucket and overfill protection Shape
+
+3.3 Fuel Piping Replacement Remove existing underground piping Install new double-wall fiberglass or coated steel piping Provide secondary containment Install flex connectors at tank and dispenser Pressure test piping per code Provide tracer wire (if non-metallic piping) Shape
+
+3.4 Pump & Dispenser Replacement Remove and replace fuel transfer pumps Install explosion-proof motors (Class I, Division 1 rated) Install new fuel dispensers with: Metering system Hose reels (if required) Automatic shutoff nozzles Calibrate meters to weights and measures standards Shape
+
+3.5 Electrical & Controls Replace or upgrade control panels Install new emergency shutoff switches Install new fuel management system (if required) Upgrade conduit and wiring to NEC compliance Install grounding and bonding system Integrate leak detection monitoring Shape
+
+3.6 Environmental & Compliance Provide soil sampling if excavation required Properly dispose of contaminated materials Provide certified tank cleaning Maintain spill prevention measures Provide SPCC compliance updates Submit closure documentation (if tank removal occurs) Shape
+
+3.7 Concrete & Site Restoration Demolish and replace damaged concrete pads Install new equipment pads Restore pavement and striping Restore landscaping as required Shape
+
+3.8 Testing & Commissioning Contractor shall perform: Hydrostatic tank testing Piping pressure testing Leak detection system testing Electrical system testing Dispenser calibration Full operational functional testing Provide written test reports. Shape 4. DELIVERABLES Contractor shall provide: Shop drawings Product data submittals As-built drawings (hard copy & digital) O&M manuals Warranty documentation (minimum 1-year workmanship, 10-year tank warranty typical) Training for USCG personnel Shape 5. PHASING & OPERATIONS Maintain station fueling capability throughout project OR Provide temporary fuel supply solution Coordinate shutdowns with Commanding Officer Restrict work to approved hours Maintain site security per USCG requirements Shape 6. SAFETY REQUIREMENTS Contractor shall: Submit Site-Specific Safety Plan Comply with OSHA 29 CFR 1910 & 1926 Provide confined space procedures (if tank entry required) Implement Hot Work Permits Maintain fire watch during welding Follow USCG base access requirements Shape 7. QUALITY CONTROL Contractor shall implement a Quality Control Plan Provide qualified fuel system technicians Use licensed storage tank contractor (State of Florida certified) Maintain daily quality control reports Shape 8. WARRANTY Minimum 1-year labor warranty Manufacturer tank warranty (10–30 years depending on system) Pump and dispenser warranty per manufacturer Shape 9. ESTIMATED PROJECT DURATION Design & Submittals: 30–60 days Procurement: 45–90 days Construction: 60–120 days Testing & Commissioning: 1–2 weeks Total Estimated Duration: 4–8 months (depending on scope and environmental findings) Shape 10. OPTIONAL ADD ALTERNATES Fuel polishing system Generator backup power Automated fuel tracking system Additional storage capacity Secondary containment canopy Cathodic protection monitoring system Shape END OF SCOPE OF WORK Site visit: It is highly recommended and encouraged that interested party’s contact Mr. James Pinto for a site visit which will be held on Friday Febuary 27, 2026 at 09:00AM EST. For scheduling contact Mr. Pinto via email James.E.Pinto@uscg.mil Or via phone at (727) 596-8666 X 105. Performance Period: Performance of work is expected to commence NLT 10 days after award is made. Extension period must be approved by the Contracting Officer for any unforeseen delays. **All Questions and Answers will not be accepted after 04 Mar 2026 at 10:00AM EST. APPLICABLE FAR CLAUSES FAR 52.213-4: 52.213-4 Terms and Conditions-Simplified Acquisitions (Other Than Commercial Items). ATTACHED BY REFERENCE 52.222-6 CONSTRUCTION WAGE RATE REQUIREMENTS 52.236-2 DIFFERING SITE CONDITIONS (APRIL 1984) 52.236-3 SITE INVESTIGATION AND CONDITIONS AFFECTING THE WORK (APRIL 1984) 52.236-27 SITE VISIT (CONSTRUCTION) {FEB 1995) Work hours: Monday through Friday, 0730 – 1800 (7:30 am – 6 pm) No weekends or Holidays authorized. See attached applicable FAR Clauses by reference. Offerors may obtain full text version of these clauses electronically at: www.arnet.gov/far The following Homeland Security Acquisition Regulations (HSAR) are incorporated as addenda to this solicitation: HSAR 3052.209-70 Prohibition on Contracts with Corporate Expatriates (Jun 2006); Contracting Officers Technical Representative (Dec 2003) (COTR) HSAR 3052.237-72. Copies of HSAR clauses may be obtained electronically at http://www.dhs.gov. Vendors providing an offer must be registered in SAM (System for Award Management) prior to close of this solicitation. https://www.sam.gov/portal/public/SAM/. The vendors SAM registration must be in an “ACTIVE” status prior to award.
+
+## Contacts
+
+- Primary Contact:
+  - Name: BMC James Pinto
+  - Email: James.E.Pinto@uscg.mil
+  - Phone: (727) 596-8666 X 105
+- Secondary Contact:
+  - Name: CPO Zachery Little
+  - Email: Zachery.T.Little@uscg.mil
+  - Phone: (206) 820-4819
+
+## Links
+
+- SAM.gov: https://sam.gov/workspace/contract/opp/d6fe81bb213f45daa6b09cceaa643cc1/view

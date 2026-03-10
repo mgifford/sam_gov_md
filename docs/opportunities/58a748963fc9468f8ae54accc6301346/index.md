@@ -1,0 +1,37 @@
+---
+layout: default
+title: Daily Commute Student Transportation Services for the Ansbach Military Community, Germany
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 58a748963fc9468f8ae54accc6301346
+---
+
+# Daily Commute Student Transportation Services for the Ansbach Military Community, Germany
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-03-09 11:45:39.627-04
+- Solicitation Number: HE125426RE015
+
+## Summary
+
+HE125426RE015: Daily Commute Student Transportation Services for the Ansbach Military Community, Germany. This is a combined synopsis/solicitation for commercial services. This announcement constitutes the only solicitation; a written solicitation will not be issued. This solicitation: HE125426RE015 is being issued as a Request for Proposal (RFP). All solicitation documents and incorporated provisions and clauses are those in effect through Federal Acquisition Circular (FAC) 2025-06. The NAICS code is 485410. Please review all attachments to this combined solicitation carefully. A list of line-item number(s) and items, quantities, and units of measure for the base year, four (4) option years and the FAR 52.217-8, Option to Extend Services, are attached as well as a description of requirements for the items to be acquired and the dates and delivery and acceptance. The Contracting Officer and Contract Specialist are the sole points of contact for this acquisition. The points of contact for this acquisition are: Contracting Officer: Sidnie Miranda, Sidnie.Miranda@DoDEA.edu Contract Specialist: Zlata Dale, Zlata.Dale@DoDEA.edu Ensure the following submittals are sent to the above Points of Contact no later than 12:00 p.m. EDT on 27 March 2026 to avoid ineligibility. Submissions after this date may result in the Offeror not receiving Attachment 7(a) and Attachment 7(b) prior to proposal submission deadline. Submitting Attachment 7, "Non-Disclosure Agreement" The Offeror must send an email with the completed Attachment 7 to the Contracting Officer AND Contract Specialist to receive Attachment 7 (a) "Route List," and Attachment 7(b), "Commuting Area Zone information/Map". Since these attachments are restricted only to Offerors submitting a completed Attachment 7, failure to do so will result in an Offeror not being eligible for award. The subject of the e-mail shall be "HE1254-26-R-E015, Attachment 7 Submittal." Please provide the company's name and point of contact to include name, title, address, e-mail, phone number, company's Unique Entity Identifier/ID, and NATO Cage Code in the body of the email. After submitting the completed Attachment 7, the Government will provide the Offeror with Attachment 7 (a) and Attachment 7 (b), via email. Submission of Questions. Offerors shall submit questions concerning this solicitation, electronically, NO LATER THAN 12:00 p.m. EDT, 23 March 2026. Questions submitted after this date may not be considered for a response. Submission of Offers/Proposals. The offeror must send their proposal via e-mail to Zlata Dale at zlata.dale@dodea.edu and Sidnie Miranda at sidnie.miranda@dodea.edu with their attached proposal. The subject of the e-mail shall be "Proposal for HE1254-26-R-E015." Proposals must be submitted via email NO LATER THAN 12:00 p.m. EDT, 08 April 2026 in response to this solicitation. Offerors must ensure that the signed and dated attached proposal and all attachments are virus free, legible, and are received by the email addresses above no later than the solicitation closing date and time. Emails over 10 MB will be rejected by DoWEA's network. If the electronic copy cannot be opened, the Contract Specialist or Contracting Officer will notify the Offeror and a replacement electronic copy shall be provided by the Offeror within one (1) working day after notification. Documents shall be submitted in separate .pdf or Microsoft Office (e.g., Word, Excel, etc.) format by e-mail on or before the closing date and time stated in in this combined synopsis/solicitation.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Sidnie Miranda
+  - Email: sidnie.miranda@dodea.edu
+- Secondary Contact:
+  - Name: Zlata Dale
+  - Email: zlata.dale@dodea.edu
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: (a) and Attachment 7(b) prior to proposal submission deadline. Submitting Attachment 7, "Non-Disclosure Agreement" The Offeror must send an email with the completed Attachment 7 to the Contracting Officer AND Contract Specialist to receive Attachment 7 (a) "Route List," and Attachment 7(b), "Commuting Area Zone information/Map". Since these attachments are restricted only to Offerors submitting a completed Attachment 7, failure to do so will result in an Offeror not being eligible for award. The subject of the e-mail shall be "HE1254-26-R-E015, Attachment 7 Submittal." Please provide the company"s name and point of contact to include name, title, address, e-mail, phone number, company"s Unique Entity Identifier/ID, and NATO Cage Code in the body of the email. After submitting the completed Attachment 7, the Government will provide the Offeror with Attachment 7 (a) and Attachment 7 (b), via email. Submission of Questions. Offerors shall submit questions concerning this solicitation, electronically, NO LATER THAN 12:00 p.m. EDT, 23 March 2026. Questions submitted after this date may not be considered for a response. Submission of Offers/Proposals. The offeror must send their proposal via e-mail to Zlata Dale at zlata.dale@dodea.edu and Sidnie Miranda at sidnie.miranda@dodea.edu with their attached proposal. The subject of the e-mail shall be "Proposal for HE1254-26-R-E015." Proposals must be submitted via email NO LATER THAN 12:00 p.m. EDT, 08 April 2026 in response to this solicitation. Offerors must ensure that the signed and dated attached proposal and all attachments are virus free, legible, and are received by the email addresses above no later than the solicitation closing date and time. Emails over 10 MB will be rejected by DoWEA"s network. If the electronic copy cannot be opened, the Contract Specialist or Contracting Officer will notify the Offeror and a replacement electronic copy shall be provided by the Offeror within one (1) working day after notification. Documents shall be submitted in separate .pdf or Microsoft Office (e.g., Word, Excel, etc.) format by e-mail on or before the closing date and time stated in in this combined synopsis/solicitation
+
+## Links
+
+- SAM.gov: https://sam.gov/workspace/contract/opp/58a748963fc9468f8ae54accc6301346/view

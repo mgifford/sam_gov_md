@@ -1,0 +1,28 @@
+---
+layout: default
+title: 59--PANEL,RADIO FREQUEN
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: c5d9c468b4ce4fe3b82a758e09795217
+---
+
+# 59--PANEL,RADIO FREQUEN
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-03-09 06:53:16.17-04
+- Solicitation Number: N0038325QH289
+
+## Summary
+
+CONTACT INFORMATION|4|N722.12|B4D|215-697-2558|jacob.a.tarlini.civ@us.navy.mil| ITEM UNIQUE IDENTIFICATION AND VALUATION (JAN 2023)|19|||||||||||||||||||| WIDE AREA WORKFLOW PAYMENT INSTRUCTIONS (JAN 2023)|16|INVOICE AND RECEIVING REPORT COMBO||TBD|N00383|TBD|TBD|SEE SCHEDULE|TBD||||||||| NAVY USE OF ABILITYONE SUPPORT CONTRACTOR - RELEASE OF OFFEROR INFORMATION (3-18))|1|| EQUAL OPPORTUITY FOR WORKERS WITH DISABILITIES (JUN 2020)|2||| BUY AMERICAN-FREE TRADE AGREEMENTS-BALANCE OF PAYMENTS PROGRAM-BASIC (FEB 2024)|11|||||||||||| ALTERNATE A, ANNUAL REPRESENTATIONS AND CERTIFICATIONS (OCT 2025)|13|||||||||||||| BUY AMERICAN-FREE TRADE AGREEMENTS-BALANCE OF PAYMENTS PROGRAM CERTIFICATE-BASIC (FEB 2024))|5|||||| BUY AMERICAN--BALANCE OF PAYMENTS PROGRAM (FEB 2024)|1|| ROYALTY INFORMATION (APR 1984)|1|| ANNUAL REPRESENTATIONS AND CERTIFICATIONS (MAR 2025)(DEVIATION 2025-O0003 AND 2025-O0004))|12|334419|750||||||||||| FACSIMILE PROPOSALS (OCT 1997)|1|| NOTICE OF PRIORITY RATING FOR NATIONAL DEFENSE, EMERGENCY PREPAREDNESS, ANDENERGY PROGRAM USE (APR 2008))|2||x| The purpose of this modification is to extend the closing date to 23 MAR2025. The purpose of this amendment is to dissolve the 100% SBSA. This requirement is now open to both small and large businesses that fit all previously listed criteria. This is a competitive spares requirement for the procurement of the item(s) identified in this solicitation. Offers must be received before and/or by the closing due date and time listed to be considered. The evaluation criteria for this requirement will be based on Lowest Price Technically Acceptable (LPTA). 100% Small Business Set Aside. 1. Scope: This solicitation is for the procurement of aircraft components that are determined to be commercial items in accordance with FAR 2.101 and FAR Part 12. Offerors shall provide components that are currently in production and offered in the commercial marketplace, or that have been offered for sale, lease, or license to the general public or non-governmental entities. 2. Applicable RegulationsThis acquisition shall be conducted in accordance with: -FAR Part 12: Acquisition of Commercial Products and Commercial Services -FAR Part 13/15: as applicable (based on dollar value or acquisition method) -DFARS 212: as applicable for Department of Defense requirements 3. Commercial Item Determination Offerors shall provide documentation supporting the commerciality of the offered item(s), which may include: -Commercial product descriptions and technical specifications -Sales history or catalog pricing -Copies of sales invoices or redacted purchase orders to non-government Customers -Published price lists or marketing materials 4. Technical Requirements -Offered components must meet the Government's form, fit, and function requirements. -Submissions must include datasheets, drawings, or specifications that demonstrate compliance with performance requirements outlined in the technical description. -Any deviation from the stated technical requirements must be clearly identified and justified. 5. Certification and Traceability -Vendors must certify that all components are new, unused, and conform to commercial standards. -Traceability documentation shall be provided to verify the supply chain from the original manufacturer to the vendor. -Documentation may include FAA Form 8130-3, Certificate of Conformance, Part Manufacturer Approval (PMA) Documentation or equivalent. Authorized Release Certificate Requirement-FAA Form 8130-3 All components delivered under this contract shall be accompanied by a properly executed FAA Form 8130-3 Authorized Release Certificate. For new (spare) components, the 8130-3 shall be issued by an FAA-approved production approval holder (PAH) and certify that the item conforms to FAA-approved design data and is in a condition for safe operation (Block 11a). The 8130-3 must: Include the correct part number, serial number (if applicable), and contract/purchase order number Be completed legibly and in accordance with current FAA guidance (e.g., FAA Order 8130.21 series) 6. Delivery and Packaging Items shall be packaged in accordance with standard commercial practices that prevent damage during transit and storage unless otherwise specified. All shipments must be traceable and include packing lists identifying part number, nomenclature, quantity, and contract number.7. Warranty and Support A standard commercial warranty must be provided. Warranty terms must be at least equal to those provided to the vendor's commercial customers and must include workmanship and replacement parts. Technical support must be available during the warranty period. 8. Marking and Labeling Components must be labeled with the part number, manufacturer's name or CAGE code, and lot or serial number (if applicable). 9. Contract Data Requirements No military-unique Contract Data Requirements List (CDRL) will apply unless explicitly identified. Commercial documentation shall suffice unless otherwise negotiated.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Telephone: 2156973563
+  - Email: JACOB.A.TARLINI.CIV@US.NAVY.MIL
+
+## Links
+
+- SAM.gov: https://sam.gov/workspace/contract/opp/c5d9c468b4ce4fe3b82a758e09795217/view

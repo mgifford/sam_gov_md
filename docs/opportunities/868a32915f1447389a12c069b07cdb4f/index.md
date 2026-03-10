@@ -1,0 +1,30 @@
+---
+layout: default
+title: BD SOLE SOURCE FOR IMMUNOCYTOMETRY FACSCALLIBUR FULL SERVICE CONTRACT
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Award Notice
+notice_id: 868a32915f1447389a12c069b07cdb4f
+---
+
+# BD SOLE SOURCE FOR IMMUNOCYTOMETRY FACSCALLIBUR FULL SERVICE CONTRACT
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Award Notice
+- Posted: 2026-03-09 08:02:32.564-04
+- Solicitation Number: 36C26326P0254
+- Awardee: BECTON, DICKINSON AND COMPANY San Jose CA 95131 USA
+- Award Amount: 119394.00
+
+## Summary
+
+AWARDED
+
+## Contacts
+
+- Primary Contact:
+  - Name: BECKY DE LOS SANTOS
+  - Email: BECKY.DELOSSANTOS@VA.GOV
+
+## Links
+
+- SAM.gov: https://sam.gov/workspace/contract/opp/868a32915f1447389a12c069b07cdb4f/view

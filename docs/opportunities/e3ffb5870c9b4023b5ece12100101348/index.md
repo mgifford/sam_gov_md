@@ -1,0 +1,32 @@
+---
+layout: default
+title: Internet Protocol Television (IPTV) for the General Leonard Wood Community Hospital
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: e3ffb5870c9b4023b5ece12100101348
+---
+
+# Internet Protocol Television (IPTV) for the General Leonard Wood Community Hospital
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-03-09 10:16:55.143-04
+- Solicitation Number: IPTV_GLWCH
+
+## Summary
+
+INTRODUCTION Mission and Installation Contracting Command (MICC), Fort Leonard Wood (FLW), MO is issuing a Sources Sought synopsis as a means of conducting market research to identify parties having an interest in and the resources to support the requirement of carpet and Internet Protocol Television (IPTV) in the General Leonard Wood Community Hospital (GLWCH) in FLW. The intention is to procure the service on a competitive basis. BASED ON THE RESPONSES TO THIS SOURCES SOUGHT NOTICE/MARKET RESEARCH, THIS REQUIREMENT MAY BE SET-ASIDE FOR SMALL BUSINESSES (IN FULL OR IN PART) OR PROCURED THROUGH FULL AND OPEN COMPETITION, and single awards MAY be made. All Small Business Set-Aside categories will be considered. Telephone inquiries will not be accepted or acknowledged, and no feedback or evaluations will be provided to companies regarding their submissions. PLACE OF PERFORMANCE Location 100 % On-Site Government in Fort Leonard Wood, Missouri DISCLAIMER “THIS SOURCES SOUGHT IS FOR INFORMATIONAL PURPOSES ONLY. THIS IS NOT A “REQUEST FOR PROPOSAL (RFP)” TO BE SUBMITTED. IT DOES NOT CONSTITUTE A SOLICITATION AND SHALL NOT BE CONSTRUED AS A COMMITMENT BY THE GOVERNMENT. RESPONSES IN ANY FORM ARE NOT OFFERS AND THE GOVERNMENT IS UNDER NO OBLIGATION TO AWARD A CONTRACT AS A RESULT OF THIS ANNOUNCEMENT. NO FUNDS ARE AVAILABLE TO PAY FOR PREPARATION OF RESPONSES TO THIS ANNOUNCEMENT. ANY INFORMATION SUBMITTED BY RESPONDENTS TO THIS TECHNICAL DESCRIPTION IS STRICTLY VOLUNTARY. RESPPONSES WILL NOT BE RETURNED TO THE RESPONDER. NOT RESPONDING TO THIS NOTICE DOES NOT PRECLUDE PARTICIPATION IN ANY FUTURE REQUEST FOR QUOTE (RFQ) OR INVITATION FOR BID (IFB) OR RFP, IF ANY ISSUED. IF A SOLICITATION IS RELEASED, IT WILL BE SYNOPSIZED ON THE GOVERNMENT-WIDE POINT OF ENTRY (GPE). IT IS THE RESPONSIBILITY OF POTENTIAL OFFERORS TO MONITOR THE GPE FOR ADDITIONAL INFORMMATION PERTAINING TO THIS REQUIREMENT.” REQUIRED CAPABILITIES The contractor shall provide commercially sourced general television and educational content packages, preferably A La Carte on a Fiber Line. Signal must be compatible with existing Haivision IPTV System currently in place. If your organization has the potential capacity to perform these contract services, please provide the following information: 1) Organization name, address, email address, Web site address, telephone number, and size and type of ownership for the organization; and 2) Tailored capability statements addressing the particulars of this effort, with appropriate documentation supporting claims of organizational and staff capability. If significant subcontracting or teaming is anticipated in order to deliver technical capability, organizations should address the administrative and management structure of such arrangements. The Government will evaluate market information to ascertain potential market capacity to: 1) provide services consistent, in scope and scale, with those described in this notice and otherwise anticipated; 2) secure and apply the full range of corporate financial, human capital, and technical resources required to successfully perform similar requirements; 3) provide services under a performance based service acquisition contract. Please note that under a Small-Business Set-Aside, in accordance with FAR 52.219-14, the small business prime must perform at least 50% of the work themselves in terms of the cost of performance. Provide an explanation of your company’s ability to perform at least 50% of the tasking described in this PWS for the base period as well as the option periods. ELIGIBILITY The applicable NAICS code for this requirement is 516210 with a Small Business Size Standard of $47,000,000. The PCS considered for this requirement is DG10. Businesses of all sizes are encouraged to respond; however, each respondent must clearly identify their business size in their capabilities statement. ADDITIONAL INFORMATION AND SUBMISSION DETAILS (CAPABILITIES STATEMENT) Interested parties are requested to submit a capabilities statement of no more than ten (10) pages in length in Times New Roman font of not less than 10 pitch. The deadline for response to this request is no later than 12 pm, CST, March 20, 2026. All responses under this Sources Sought Notice must be e-mailed to faith.a.chaney.civ@army.mil. The estimated period of performance consists of one (1) base year and four (4) option years, with performance commencing around April 2026. Specifics regarding the number of option periods will be provided in the solicitation. The contract type is anticipated to be Firm Fixed Price. The Level of Effort for five (5) years. Upon evaluation of the capability statements, if it is determined that this requirement will be an unrestricted competition, the Government intends to evaluate the Small-Business’ responses and conduct further market research to identify a subcontracting opportunities. Your response to this Sources Sought, including any capabilities statement, shall be electronically submitted to the Contract Specialist, Faith Chaney, in either Microsoft Word or Portable Document Format (PDF), faith.a.chaney.civ@army.mil All data received in response to this Sources Sought that is marked or designated as corporate or proprietary will be fully protected from any release outside the Government. No phone calls will be accepted. All questions must be submitted to the contract specialist identified above. The Government is not committed nor obligated to pay for the information provided, and no basis for claims against the Government shall arise as a result of a response to this Sources Sought.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Faith A. Chaney
+  - Email: faith.a.chaney.civ@army.mil
+- Secondary Contact:
+  - Name: Chloe Williams
+  - Email: chloe.e.williams.civ@army.mil
+  - Phone: 5209441859
+
+## Links
+
+- SAM.gov: https://sam.gov/workspace/contract/opp/e3ffb5870c9b4023b5ece12100101348/view
