@@ -31,6 +31,11 @@ _DOCX_CONTENT_TYPES = (
     "application/msword",
 )
 
+_DOCX_CONTENT_TYPES = (
+    "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "application/msword",
+)
+
 
 def is_pdf_url(url: str) -> bool:
     parsed = urlparse(url)
@@ -325,6 +330,42 @@ def _write_opportunity_pdf_content_legacy(
         "pdf_bytes": pdf_bytes,
     }
     write_opportunity_pdf_content(notice_id, title, [att], output_dir, save_pdf=save_pdf)
+
+
+def write_opportunity_docx_content(
+    notice_id: str,
+    title: str,
+    doc_url: str,
+    text: str,
+    output_dir: Path,
+    doc_bytes: Optional[bytes] = None,
+    save_doc: bool = False,
+) -> None:
+    """Write extracted Word document text to ``docx_content.md``."""
+    doc_dir = output_dir / notice_id
+    doc_dir.mkdir(parents=True, exist_ok=True)
+    lines = [
+        f"# Word Document Content: {title}",
+        "",
+        f"- Notice ID: {notice_id}",
+        f"- Document URL: {doc_url}",
+        "",
+        "## Extracted Text",
+        "",
+        text or "_No text could be extracted from this Word document._",
+    ]
+    (doc_dir / "docx_content.md").write_text("\n".join(lines), encoding="utf-8")
+
+    if save_doc and doc_bytes:
+        url_path = urlparse(doc_url).path
+        raw_name = Path(url_path).name or "attachment"
+        raw_stem = Path(raw_name).stem
+        # Preserve the original extension (.docx or .doc) when saving the raw file
+        url_suffix = Path(url_path).suffix.lower()
+        safe_ext = url_suffix if url_suffix in (".docx", ".doc") else ".docx"
+        safe_stem = re.sub(r"[^A-Za-z0-9_-]", "_", raw_stem) or "attachment"
+        safe_name = f"{safe_stem}{safe_ext}"
+        (doc_dir / safe_name).write_bytes(doc_bytes)
 
 
 def write_opportunity_docx_content(
