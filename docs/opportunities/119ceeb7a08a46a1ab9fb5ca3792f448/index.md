@@ -28,4 +28,4 @@ The Contractor shall provide Board Certified Anesthesiology Physician. Anesthesi
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/119ceeb7a08a46a1ab9fb5ca3792f448/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/119ceeb7a08a46a1ab9fb5ca3792f448/view)

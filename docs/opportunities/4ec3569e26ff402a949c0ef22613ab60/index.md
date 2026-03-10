@@ -26,4 +26,4 @@ Amendment 0002 is hereby issued to: Change the Site Visit date and time: FROM: W
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4ec3569e26ff402a949c0ef22613ab60/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4ec3569e26ff402a949c0ef22613ab60/view)

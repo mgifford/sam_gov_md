@@ -25,4 +25,4 @@ Proposed procurement for NSN 2510993929487 FRAME SECTION,STRUC: Line 0001 Qty 4 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/217d58ae91804e6dad5a06b3b0a99539/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/217d58ae91804e6dad5a06b3b0a99539/view)

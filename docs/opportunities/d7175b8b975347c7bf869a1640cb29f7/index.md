@@ -25,4 +25,4 @@ Proposed procurement for NSN 1095012204992 RACK,BOMB EJECTOR,A: Line 0001 Qty 7 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d7175b8b975347c7bf869a1640cb29f7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d7175b8b975347c7bf869a1640cb29f7/view)

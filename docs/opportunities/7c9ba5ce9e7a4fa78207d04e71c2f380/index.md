@@ -25,4 +25,4 @@ Proposed procurement for NSN 5360007722584 SPRING,HELICAL,TORS: Line 0001 Qty 65
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7c9ba5ce9e7a4fa78207d04e71c2f380/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7c9ba5ce9e7a4fa78207d04e71c2f380/view)

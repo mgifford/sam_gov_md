@@ -26,4 +26,4 @@ The Defense Logistics Agency Family & Morale, Welfare, and Recreation (FMWR) inv
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/03ab4bfd5361421db9535bdc47cecb65/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/03ab4bfd5361421db9535bdc47cecb65/view)

@@ -26,4 +26,4 @@ Amendment 0001 is being issued for the following: a.) Add new WIs 0802 b.) Add r
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7f7c7f44b22d4c388d6df7e647a27f03/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7f7c7f44b22d4c388d6df7e647a27f03/view)

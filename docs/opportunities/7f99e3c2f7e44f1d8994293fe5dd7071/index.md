@@ -26,4 +26,4 @@ This solicitation is for the repair of 8 ea. NSN 7R 1660 013021006 H1 (Part Numb
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7f99e3c2f7e44f1d8994293fe5dd7071/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7f99e3c2f7e44f1d8994293fe5dd7071/view)

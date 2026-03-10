@@ -63,13 +63,17 @@ jobs:
           python scripts/export_all_opportunities.py
 
       - name: Extract PDFs from opportunities
+        env:
+          SAM_API_KEY: ${{ secrets.SAM_API_KEY }}
         run: |
           # Extract PDFs for top 50 opportunities (~10-15 with valid PDFs)
           # --save-pdf stores the raw PDF alongside the extracted markdown
+          # --api-key uses SAM_API_KEY env var (falls back to DEMO_KEY if unset)
           python scripts/scrape_opportunities.py \
             --limit 50 \
             --csv data/ContractOpportunitiesFullCSV.csv \
-            --save-pdf
+            --save-pdf \
+            --api-key "${SAM_API_KEY:-DEMO_KEY}"
 
       - name: Commit and push if changed
         run: |

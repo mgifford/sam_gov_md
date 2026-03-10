@@ -28,4 +28,4 @@ This award was competitive and fixed price.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f61aaeac153a4424afcb5ebbcbb33da2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f61aaeac153a4424afcb5ebbcbb33da2/view)

@@ -28,4 +28,4 @@ SAM.GOV Synopsis Class Code: NAICS Code: 332994 Subject: Field Service Represent
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/528631cfbc284e1080150801165eaef5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/528631cfbc284e1080150801165eaef5/view)

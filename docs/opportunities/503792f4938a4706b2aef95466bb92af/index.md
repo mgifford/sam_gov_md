@@ -28,4 +28,4 @@ The Department of Veterans Affairs, Great Lakes Acquisition Center (GLAC) is sea
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/503792f4938a4706b2aef95466bb92af/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/503792f4938a4706b2aef95466bb92af/view)

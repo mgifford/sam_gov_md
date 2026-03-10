@@ -26,4 +26,4 @@ Brand name Hitachi bushings in accordance with the item list attached for Wester
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/95d49f31166f4b68ae1252ae432a18a9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/95d49f31166f4b68ae1252ae432a18a9/view)

@@ -57,4 +57,4 @@ CONTACT INFORMATION|4|N7M3.9 DESIREE MEYERS|HS0|717-605-1842|DESIREE.D.MEYERS.CI
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b60f6252928b49e1bb9af66658c8a77e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b60f6252928b49e1bb9af66658c8a77e/view)

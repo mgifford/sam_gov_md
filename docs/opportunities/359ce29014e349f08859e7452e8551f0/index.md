@@ -30,4 +30,4 @@ Please see Amendment 0001 and applicable attachments.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/359ce29014e349f08859e7452e8551f0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/359ce29014e349f08859e7452e8551f0/view)

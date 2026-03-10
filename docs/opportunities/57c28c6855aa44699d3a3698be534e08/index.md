@@ -25,4 +25,4 @@ Proposed procurement for NSN 3020010297828 PLANET GEAR ASSEMBL: Line 0001 Qty 77
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/57c28c6855aa44699d3a3698be534e08/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/57c28c6855aa44699d3a3698be534e08/view)

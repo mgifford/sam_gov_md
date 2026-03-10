@@ -30,4 +30,4 @@ Amendment 0002: Due date extened. More questions and answers attached. Amendment
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/537763c1a84946aba763f404bf55dae2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/537763c1a84946aba763f404bf55dae2/view)

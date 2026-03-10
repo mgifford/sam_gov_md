@@ -30,4 +30,4 @@ The 502d Contracting Squadron at Joint Base San Antonio Lackland awarded a contr
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/85d21b81ff6142a092d2115736b1e62a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/85d21b81ff6142a092d2115736b1e62a/view)

@@ -26,4 +26,4 @@ Wooden Gates
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/915dba90ed564cffa09641f88b5719d9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/915dba90ed564cffa09641f88b5719d9/view)

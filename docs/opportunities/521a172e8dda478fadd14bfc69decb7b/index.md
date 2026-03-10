@@ -30,4 +30,4 @@ The Embassy of the United States in Paris, France, is releasing a solicitation f
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/521a172e8dda478fadd14bfc69decb7b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/521a172e8dda478fadd14bfc69decb7b/view)

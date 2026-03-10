@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340006790052 RING,DOOR,FLUSH: Line 0001 Qty 24 UI 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4593468cef6347288b47eaa577ce216b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4593468cef6347288b47eaa577ce216b/view)

@@ -28,4 +28,4 @@ Transmission Line Pole Support Kits "Brand Name or Equal," to Polyset
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/85e415990e3d42daa88ed0c033a49908/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/85e415990e3d42daa88ed0c033a49908/view)

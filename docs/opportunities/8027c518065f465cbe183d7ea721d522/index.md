@@ -26,4 +26,4 @@ The purpose of this procurement is to acquire control system upgrades and replac
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8027c518065f465cbe183d7ea721d522/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8027c518065f465cbe183d7ea721d522/view)

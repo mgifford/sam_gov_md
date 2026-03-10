@@ -28,4 +28,4 @@ NOTICE OF INTENT TO AWARD SOLE SOURCE: Department of Veterans Affairs (VA) Netwo
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a938e5a1669f4d9c804892ecbf9ffc15/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a938e5a1669f4d9c804892ecbf9ffc15/view)

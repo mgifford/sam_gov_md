@@ -26,4 +26,4 @@ Solicitation Q&A attached on 3/9/2026. See attachments. Solicitation amendment t
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4f7bf9ca75674e14a00e055cc6fce48b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4f7bf9ca75674e14a00e055cc6fce48b/view)

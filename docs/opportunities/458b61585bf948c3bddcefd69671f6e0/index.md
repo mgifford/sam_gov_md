@@ -25,4 +25,4 @@ Proposed procurement for NSN 6110012322060 CONTACTOR-3PST-NO: Line 0001 Qty 3 UI
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/458b61585bf948c3bddcefd69671f6e0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/458b61585bf948c3bddcefd69671f6e0/view)

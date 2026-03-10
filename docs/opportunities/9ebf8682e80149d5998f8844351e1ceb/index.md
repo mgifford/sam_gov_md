@@ -25,4 +25,4 @@ Proposed procurement for NSN 1620012027091 ROD,OIL INDICATING: Line 0001 Qty 2 U
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9ebf8682e80149d5998f8844351e1ceb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9ebf8682e80149d5998f8844351e1ceb/view)

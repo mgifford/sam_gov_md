@@ -25,4 +25,4 @@ The purpose of this Request for Information is to gauge interest of small busine
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d911690793004c1883800c191dd1ebaa/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d911690793004c1883800c191dd1ebaa/view)

@@ -27,4 +27,4 @@ Request for quotes (RFQ) for Fire Resistant Uniforms for the Batavia and Buffalo
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5d7c267aed9a43998e4af7d53666b41b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5d7c267aed9a43998e4af7d53666b41b/view)

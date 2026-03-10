@@ -25,4 +25,4 @@ This Sources Sought Notice is being updated, and extended to allow for adequate 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3f08c07042cb48c982421d10ffffa5b5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3f08c07042cb48c982421d10ffffa5b5/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 5977016183251 PARTS KIT,ELECTRICA: Line 0001 Qty 3 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a18cef068cae4daba87c78c0a0b5e2a1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a18cef068cae4daba87c78c0a0b5e2a1/view)

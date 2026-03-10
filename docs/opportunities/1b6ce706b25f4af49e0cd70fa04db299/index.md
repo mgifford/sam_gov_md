@@ -25,4 +25,4 @@ Proposed procurement for NSN 2530016906071 VALVE,RELAY,AIR PRE: Line 0001 Qty 22
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1b6ce706b25f4af49e0cd70fa04db299/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1b6ce706b25f4af49e0cd70fa04db299/view)

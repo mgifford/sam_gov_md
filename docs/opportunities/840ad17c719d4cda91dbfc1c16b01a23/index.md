@@ -28,4 +28,4 @@ Time and Material type contract, competitively awarded. Option Period one (1) ex
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/840ad17c719d4cda91dbfc1c16b01a23/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/840ad17c719d4cda91dbfc1c16b01a23/view)

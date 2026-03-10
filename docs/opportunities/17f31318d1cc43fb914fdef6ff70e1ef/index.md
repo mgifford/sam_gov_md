@@ -25,4 +25,4 @@ Proposed procurement for NSN 5985010858484 CIRCULATOR,RADIO FR: Line 0001 Qty 75
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/17f31318d1cc43fb914fdef6ff70e1ef/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/17f31318d1cc43fb914fdef6ff70e1ef/view)

@@ -26,4 +26,4 @@ Saginaw Maintenance Dredging and CDF. Amendment 1 posted 25 FEB 2026.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/dae5a2303f814960b5bd6dfa69817d61/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/dae5a2303f814960b5bd6dfa69817d61/view)

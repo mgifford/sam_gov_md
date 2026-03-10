@@ -36,4 +36,4 @@ The 60th Contracting Squadron at Travis Air Force Base intends to establish a Fi
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6c7c7f1ff35a45339d6226a964900c92/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6c7c7f1ff35a45339d6226a964900c92/view)

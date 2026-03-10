@@ -26,4 +26,4 @@ The United States Coast Guard Surface Forces Logistics Center has an emergent re
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bab0e69286264d2eafefc857620ce0c5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bab0e69286264d2eafefc857620ce0c5/view)

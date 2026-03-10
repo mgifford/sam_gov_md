@@ -28,4 +28,4 @@ PRE SOLICITATION NOTICE Project Title: Fort Custer National Cemetery Cemetery Ex
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/633a4bc9ea4e491591bd04a9c1819d8e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/633a4bc9ea4e491591bd04a9c1819d8e/view)

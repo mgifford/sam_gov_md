@@ -28,4 +28,4 @@ See the DRAFT PWS and Intent to Sole Source.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/18d1118419bc4c60a314631769cefc4f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/18d1118419bc4c60a314631769cefc4f/view)

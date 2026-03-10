@@ -25,4 +25,4 @@ Proposed procurement for NSN 2590010039416 BOX,REDUCER: Line 0001 Qty 43 UI EA D
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/cd7acab122614fd6840d1e3bbce3a59d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cd7acab122614fd6840d1e3bbce3a59d/view)

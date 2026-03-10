@@ -27,4 +27,4 @@ RING,SUPPORT,TRANSM NSN: 2520-01-316-3031 Mfr Part Number: 145D0107-7
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/662040f902b24a758d7ae1521fee57a8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/662040f902b24a758d7ae1521fee57a8/view)

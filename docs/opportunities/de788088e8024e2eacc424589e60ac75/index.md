@@ -26,4 +26,4 @@ GWMP MEMORIAL AVE IRRIGATION EXTENSION
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/de788088e8024e2eacc424589e60ac75/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/de788088e8024e2eacc424589e60ac75/view)

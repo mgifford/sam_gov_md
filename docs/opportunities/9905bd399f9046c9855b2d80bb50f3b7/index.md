@@ -25,4 +25,4 @@ Proposed procurement for NSN 5310011376955 NUT,PLAIN,EXTENDED: Line 0001 Qty 287
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9905bd399f9046c9855b2d80bb50f3b7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9905bd399f9046c9855b2d80bb50f3b7/view)

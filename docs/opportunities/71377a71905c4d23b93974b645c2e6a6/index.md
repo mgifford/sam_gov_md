@@ -30,4 +30,4 @@ SOURCES SOUGHT NOTICE W9124J-26-R-MH26 Brooke Army Medical Center Material Handl
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/71377a71905c4d23b93974b645c2e6a6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/71377a71905c4d23b93974b645c2e6a6/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 4130016740627 DAMPER,AIR DUCT: Line 0001 Qty 2 UI E
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b1efb34786264a4cbbbf849c8775fac1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b1efb34786264a4cbbbf849c8775fac1/view)

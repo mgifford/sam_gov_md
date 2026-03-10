@@ -25,4 +25,4 @@ Proposed procurement for NSN 5306011429381 BOLT,SHOULDER: Line 0001 Qty 106 UI E
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/79ab1d4df3e34995bba49c1afd7a2f87/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/79ab1d4df3e34995bba49c1afd7a2f87/view)

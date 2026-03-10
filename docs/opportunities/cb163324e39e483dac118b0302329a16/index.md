@@ -26,4 +26,4 @@ Please see attached documents for the USNS MERCY (T-AH 19) FY27 Mid-Term Availab
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/cb163324e39e483dac118b0302329a16/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cb163324e39e483dac118b0302329a16/view)

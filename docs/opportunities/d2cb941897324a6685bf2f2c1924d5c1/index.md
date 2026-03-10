@@ -28,4 +28,4 @@ Request for Quotes for Lewisville Hickory Park Gate Attendant
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d2cb941897324a6685bf2f2c1924d5c1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d2cb941897324a6685bf2f2c1924d5c1/view)

@@ -25,4 +25,4 @@ ITEM UNIQUE IDENTIFICATION AND VALUATION (JAN 2023)|19|||||||||||||||||||| INSPE
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/39d8e51ae0334f61b3ff88bd7e6ba41b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/39d8e51ae0334f61b3ff88bd7e6ba41b/view)

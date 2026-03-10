@@ -29,4 +29,4 @@ Mako Self-Contained Breathing Apparatus (SCBA) Compressors: Inspect, Service, Te
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/23761a21c6db41b39e474388ad187798/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/23761a21c6db41b39e474388ad187798/view)

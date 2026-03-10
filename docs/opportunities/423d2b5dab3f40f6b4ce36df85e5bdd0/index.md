@@ -26,4 +26,4 @@ This is a pre-solicitation and "save the date" notice for a Non-Time Critical Re
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/423d2b5dab3f40f6b4ce36df85e5bdd0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/423d2b5dab3f40f6b4ce36df85e5bdd0/view)

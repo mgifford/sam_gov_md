@@ -26,4 +26,4 @@ ITEM: Engine, Diesel NSN: 2815-01-559-2661 MANUFACTURER / PART NUMBER: Cummins C
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/061b35c5595249d9a49932b3d7a7f345/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/061b35c5595249d9a49932b3d7a7f345/view)

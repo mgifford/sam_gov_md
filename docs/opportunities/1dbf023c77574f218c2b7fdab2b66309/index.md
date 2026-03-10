@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340012987626 CASTER,SWIVEL: Line 0001 Qty 3 UI EA 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1dbf023c77574f218c2b7fdab2b66309/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1dbf023c77574f218c2b7fdab2b66309/view)

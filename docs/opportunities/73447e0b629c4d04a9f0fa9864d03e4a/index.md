@@ -34,4 +34,4 @@ Awards for FCI Leavenworth Quarter 3 Food Requirements have been issued to vendo
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/73447e0b629c4d04a9f0fa9864d03e4a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/73447e0b629c4d04a9f0fa9864d03e4a/view)

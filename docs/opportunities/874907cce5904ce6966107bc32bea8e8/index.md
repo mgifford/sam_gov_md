@@ -28,4 +28,4 @@ This solicitation, W91CRB-26-R-5006, is to fulfill a Foreign Military Sales (FMS
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/874907cce5904ce6966107bc32bea8e8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/874907cce5904ce6966107bc32bea8e8/view)

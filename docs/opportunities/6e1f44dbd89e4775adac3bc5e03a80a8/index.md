@@ -25,4 +25,4 @@ Proposed procurement for NSN 6545016899365 MEDICAL KIT,STANDAR: Line 0001 Qty 1 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6e1f44dbd89e4775adac3bc5e03a80a8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6e1f44dbd89e4775adac3bc5e03a80a8/view)

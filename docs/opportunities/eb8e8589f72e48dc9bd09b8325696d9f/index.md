@@ -30,4 +30,4 @@ Military Construction Project (MILCON) P1080 Design-Bid-Build, Power Reliability
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/eb8e8589f72e48dc9bd09b8325696d9f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/eb8e8589f72e48dc9bd09b8325696d9f/view)

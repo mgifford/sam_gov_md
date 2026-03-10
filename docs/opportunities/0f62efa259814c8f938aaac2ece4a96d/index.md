@@ -25,4 +25,4 @@ Proposed procurement for NSN 4210017187013 GEAR,FIRE PROTECTIV: Line 0001 Qty 73
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0f62efa259814c8f938aaac2ece4a96d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0f62efa259814c8f938aaac2ece4a96d/view)

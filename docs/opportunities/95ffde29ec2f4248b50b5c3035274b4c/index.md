@@ -29,4 +29,4 @@ The Advanced Concepts Group of the Radar Division of the Naval Research Laborato
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/95ffde29ec2f4248b50b5c3035274b4c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/95ffde29ec2f4248b50b5c3035274b4c/view)

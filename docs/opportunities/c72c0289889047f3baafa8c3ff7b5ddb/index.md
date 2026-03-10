@@ -28,4 +28,4 @@ Please find the Request for Proposal and applicable attachments below. Responses
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c72c0289889047f3baafa8c3ff7b5ddb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c72c0289889047f3baafa8c3ff7b5ddb/view)

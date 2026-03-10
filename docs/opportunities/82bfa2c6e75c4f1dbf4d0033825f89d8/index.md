@@ -26,4 +26,4 @@ BLM-CO WRFO SUPPRESSION REPAIR SEEDING Amendment 0001 is to extend the due date 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/82bfa2c6e75c4f1dbf4d0033825f89d8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/82bfa2c6e75c4f1dbf4d0033825f89d8/view)

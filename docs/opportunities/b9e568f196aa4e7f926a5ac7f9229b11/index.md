@@ -25,4 +25,4 @@ Proposed procurement for NSN 5305013522837 SCREW,MACHINE: Line 0001 Qty 63 UI EA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b9e568f196aa4e7f926a5ac7f9229b11/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b9e568f196aa4e7f926a5ac7f9229b11/view)

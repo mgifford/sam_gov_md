@@ -26,4 +26,4 @@ This is a combined synopsis/solicitation for various fabrics required to support
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0a9bde6082c240da811471a4252b5907/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0a9bde6082c240da811471a4252b5907/view)

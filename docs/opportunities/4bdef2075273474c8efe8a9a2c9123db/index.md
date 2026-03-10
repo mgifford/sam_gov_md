@@ -25,4 +25,4 @@ Proposed procurement for NSN 3990015335659 BINDER,LOAD: Line 0001 Qty 366 UI EA 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4bdef2075273474c8efe8a9a2c9123db/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4bdef2075273474c8efe8a9a2c9123db/view)

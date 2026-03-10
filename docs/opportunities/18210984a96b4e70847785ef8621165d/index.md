@@ -25,4 +25,4 @@ Controlled SPAN Electrode Synthesis for and High-Performance Energy Storage Scal
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/18210984a96b4e70847785ef8621165d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/18210984a96b4e70847785ef8621165d/view)

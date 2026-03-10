@@ -26,4 +26,4 @@ CA-TULE LAKE NWR GREBE NESTING HABITAT
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/363faa3832f545aba5ab6e0633493186/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/363faa3832f545aba5ab6e0633493186/view)

@@ -28,4 +28,4 @@ AMENDMENT 0001: This amendment extends the solicitation closing to 24 March 2026
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/946973dff097476db32142479719b718/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/946973dff097476db32142479719b718/view)

@@ -30,4 +30,4 @@ This is a requirement for Window, Heated onboard the USNS ROBERT PEARY (T-AKE - 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e137398ebdf7423d864182301c30cd82/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e137398ebdf7423d864182301c30cd82/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 4720013385809 TUBING,NONMETALLIC: Line 0001 Qty 2 U
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/65c93c9e91b54486a9351a03511f12d8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/65c93c9e91b54486a9351a03511f12d8/view)

@@ -26,4 +26,4 @@ VA Loma Linda Health Care Systems (VALLHCS) requires repair of decontamination t
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f67efac9380e42f9b1de600b3f95bfaa/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f67efac9380e42f9b1de600b3f95bfaa/view)

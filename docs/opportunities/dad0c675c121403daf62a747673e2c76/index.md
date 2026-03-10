@@ -26,4 +26,4 @@ The work shall be in strict compliance with the SOW, the project specifications,
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/dad0c675c121403daf62a747673e2c76/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/dad0c675c121403daf62a747673e2c76/view)

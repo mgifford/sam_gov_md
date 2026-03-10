@@ -26,4 +26,4 @@ This Solicitation is for a gym improvement on Fort Campbell KY. Please see the S
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/580deb19762b467abc38879b10b42c0d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/580deb19762b467abc38879b10b42c0d/view)

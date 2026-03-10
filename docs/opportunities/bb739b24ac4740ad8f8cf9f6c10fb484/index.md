@@ -28,4 +28,4 @@ This amendment is issued to reopen the solicitation, revise technical submission
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bb739b24ac4740ad8f8cf9f6c10fb484/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bb739b24ac4740ad8f8cf9f6c10fb484/view)

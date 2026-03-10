@@ -25,4 +25,4 @@ Cable television services for patient rooms.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/160a7fe9fc06428d96d37fcaa580b545/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/160a7fe9fc06428d96d37fcaa580b545/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 6615004886963 DEMODULATOR-MODULAT: Line 0001 Qty 60
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/04e250e3a8c441a4b967ac8685729d91/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/04e250e3a8c441a4b967ac8685729d91/view)

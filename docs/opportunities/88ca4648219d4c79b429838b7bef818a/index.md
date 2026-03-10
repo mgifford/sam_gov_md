@@ -28,4 +28,4 @@ Amendment A002 - Additional Responses to Additional Solicitation Questions The p
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/88ca4648219d4c79b429838b7bef818a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/88ca4648219d4c79b429838b7bef818a/view)

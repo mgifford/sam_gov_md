@@ -25,4 +25,4 @@ Proposed procurement for NSN 2805000090428 RING,PISTON: Line 0001 Qty 21 UI EA D
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/62c6141deeb74278b8d562d183aaad08/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/62c6141deeb74278b8d562d183aaad08/view)

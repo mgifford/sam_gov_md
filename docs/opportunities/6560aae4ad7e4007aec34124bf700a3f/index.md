@@ -28,4 +28,4 @@ Update: Amendment 0001 in effect 04 March 2026. Amendment to answer question fro
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6560aae4ad7e4007aec34124bf700a3f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6560aae4ad7e4007aec34124bf700a3f/view)

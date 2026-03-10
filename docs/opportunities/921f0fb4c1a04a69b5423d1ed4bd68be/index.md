@@ -28,4 +28,4 @@ This Sources Sought is being issued by the NAVSUP Fleet Logistics Center Jackson
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/921f0fb4c1a04a69b5423d1ed4bd68be/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/921f0fb4c1a04a69b5423d1ed4bd68be/view)

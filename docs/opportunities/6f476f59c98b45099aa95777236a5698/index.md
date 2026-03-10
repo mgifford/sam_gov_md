@@ -30,4 +30,4 @@ SOURCES SOUGHT NOTICE FOR DESIGN-BUILD (DB) B550 REPAIR MCIS/STUDENT HSG AT NAVA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6f476f59c98b45099aa95777236a5698/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6f476f59c98b45099aa95777236a5698/view)

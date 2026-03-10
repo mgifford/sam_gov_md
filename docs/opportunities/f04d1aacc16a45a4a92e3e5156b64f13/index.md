@@ -25,4 +25,4 @@ Proposed procurement for NSN 4720008038359 HOSE,AIR DUCT: Line 0001 Qty 34 UI LG
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f04d1aacc16a45a4a92e3e5156b64f13/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f04d1aacc16a45a4a92e3e5156b64f13/view)

@@ -25,4 +25,4 @@ IN ORDER TO BE DEEMED RESPONSIVE, THE SOLICITATION MUST BE COMPLETED IN ITS ENTI
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5519be5a66524355b66711bcae275a16/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5519be5a66524355b66711bcae275a16/view)

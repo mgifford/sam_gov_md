@@ -26,4 +26,4 @@ The US Environmental Protection Agency (EPA), the Land, Enforcement & Air Divisi
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/37adc44a4c0c44bbb130831d28f16b68/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/37adc44a4c0c44bbb130831d28f16b68/view)

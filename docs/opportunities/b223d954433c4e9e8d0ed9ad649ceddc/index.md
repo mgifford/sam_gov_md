@@ -57,4 +57,4 @@ CONTACT INFORMATION|4|N774.18|BSA|SEE EMAIL|STEPHANIE.R.PEREZ1@NAVY.MIL| ITEM UN
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b223d954433c4e9e8d0ed9ad649ceddc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b223d954433c4e9e8d0ed9ad649ceddc/view)

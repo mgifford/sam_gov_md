@@ -25,4 +25,4 @@ Proposed procurement for NSN 1005013237551 MOUNT,GUN: Line 0001 Qty 117 UI EA De
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c916bea01be74b3686ae0f5dfe857c8b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c916bea01be74b3686ae0f5dfe857c8b/view)

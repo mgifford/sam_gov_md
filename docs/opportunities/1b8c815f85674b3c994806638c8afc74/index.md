@@ -25,4 +25,4 @@ Proposed procurement for NSN 3040011882979 CAM,CONTROL: Line 0001 Qty 34 UI EA D
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1b8c815f85674b3c994806638c8afc74/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1b8c815f85674b3c994806638c8afc74/view)

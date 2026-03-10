@@ -26,4 +26,4 @@ The proposed simplified acquisition is being solicited on a full and open compet
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1de74bbbd86c4cf7b8b7d07f2ee5ed52/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1de74bbbd86c4cf7b8b7d07f2ee5ed52/view)

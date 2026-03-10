@@ -25,4 +25,4 @@ Proposed procurement for NSN 5960001377692 ELECTRON TUBE: Line 0001 Qty 8 UI EA 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/463b708b54234b848083d91094cb605d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/463b708b54234b848083d91094cb605d/view)

@@ -28,4 +28,4 @@ FIVE YEAR BPA PORTABLE TOILETS
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f8c0762f8d75482685a83cf917b4180e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f8c0762f8d75482685a83cf917b4180e/view)

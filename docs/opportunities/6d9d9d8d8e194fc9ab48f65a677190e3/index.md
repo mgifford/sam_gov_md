@@ -28,4 +28,4 @@ New Order to obtain meeting, planning, logistics, and site selection support ser
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6d9d9d8d8e194fc9ab48f65a677190e3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6d9d9d8d8e194fc9ab48f65a677190e3/view)

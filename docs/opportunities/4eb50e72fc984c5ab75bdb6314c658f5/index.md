@@ -34,4 +34,4 @@ NOTICE OF INTENT TO SOLE SOURCE: This notice is being published in accordance wi
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4eb50e72fc984c5ab75bdb6314c658f5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4eb50e72fc984c5ab75bdb6314c658f5/view)

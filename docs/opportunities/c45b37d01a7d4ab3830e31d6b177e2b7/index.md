@@ -29,4 +29,4 @@ The Government intends to establish Blanket Purchase Agreement (BPA ) in support
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c45b37d01a7d4ab3830e31d6b177e2b7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c45b37d01a7d4ab3830e31d6b177e2b7/view)

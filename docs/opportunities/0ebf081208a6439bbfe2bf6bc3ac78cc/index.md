@@ -26,4 +26,4 @@ The USDA, NADC )National Animal Disease Center), located in Ames, IA is seeking 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0ebf081208a6439bbfe2bf6bc3ac78cc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0ebf081208a6439bbfe2bf6bc3ac78cc/view)

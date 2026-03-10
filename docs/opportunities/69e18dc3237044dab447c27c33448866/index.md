@@ -26,4 +26,4 @@ The U.S. Army Corps of Engineers, New England District is issuing this Sources S
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/69e18dc3237044dab447c27c33448866/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/69e18dc3237044dab447c27c33448866/view)

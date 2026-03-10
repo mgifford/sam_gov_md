@@ -28,4 +28,4 @@ This solicitation announces the United States Government's request a proposal fo
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/574bd6753d39436a80c9a77cbacc4860/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/574bd6753d39436a80c9a77cbacc4860/view)

@@ -25,4 +25,4 @@ Plywood Boxes for San Joaquin
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/75cfc48522894921a8e6b66dd5350ddc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/75cfc48522894921a8e6b66dd5350ddc/view)

@@ -30,4 +30,4 @@ This Request for Information (RFI) as identified in the Federal Acquisition Regu
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/12be254f2d1e4f189745796f331ee0a2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/12be254f2d1e4f189745796f331ee0a2/view)

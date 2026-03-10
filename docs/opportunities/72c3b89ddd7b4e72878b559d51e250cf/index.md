@@ -25,4 +25,4 @@ Proposed procurement for NSN 4820005882728 DISK,VALVE: Line 0001 Qty 19 UI EA De
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/72c3b89ddd7b4e72878b559d51e250cf/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/72c3b89ddd7b4e72878b559d51e250cf/view)

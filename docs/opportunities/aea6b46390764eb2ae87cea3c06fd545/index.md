@@ -26,4 +26,4 @@ COMBINED SYNOPSIS/SOLICITATION #: N0017826Q6699 Submitted by: Heather Wiley NAIC
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/aea6b46390764eb2ae87cea3c06fd545/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/aea6b46390764eb2ae87cea3c06fd545/view)

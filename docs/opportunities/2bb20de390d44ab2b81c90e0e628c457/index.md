@@ -35,4 +35,4 @@ Effective March 9th, 2026, Added five (5) attachments "Pages 1-500 from Attachme
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2bb20de390d44ab2b81c90e0e628c457/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2bb20de390d44ab2b81c90e0e628c457/view)

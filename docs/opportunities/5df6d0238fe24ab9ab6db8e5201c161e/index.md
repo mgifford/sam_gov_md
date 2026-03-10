@@ -25,4 +25,4 @@ This is a notice of intent, not a request for a quotation. A solicitation docume
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5df6d0238fe24ab9ab6db8e5201c161e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5df6d0238fe24ab9ab6db8e5201c161e/view)

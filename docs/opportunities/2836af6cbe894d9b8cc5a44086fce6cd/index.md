@@ -25,4 +25,4 @@ Proposed procurement for NSN 1005010988122 KIT,DEPOT OVERHAUL-HYD: Line 0001 Qty
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2836af6cbe894d9b8cc5a44086fce6cd/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2836af6cbe894d9b8cc5a44086fce6cd/view)

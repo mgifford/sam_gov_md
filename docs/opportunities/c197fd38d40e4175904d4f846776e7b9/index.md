@@ -26,4 +26,4 @@ Furnish all required supervision, labor, materials, tools, plant, and appurtenan
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c197fd38d40e4175904d4f846776e7b9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c197fd38d40e4175904d4f846776e7b9/view)

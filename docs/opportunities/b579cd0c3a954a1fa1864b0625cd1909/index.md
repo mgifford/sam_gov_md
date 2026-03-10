@@ -29,4 +29,4 @@ Procurement of EVAPCO Cooling Tower Model AT212-2H9 two (2) Cells induced draft 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b579cd0c3a954a1fa1864b0625cd1909/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b579cd0c3a954a1fa1864b0625cd1909/view)

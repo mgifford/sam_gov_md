@@ -28,4 +28,4 @@ This notice is posted to communicate questions that arose from industry in respo
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e4868532b28e488698977f08f704b282/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e4868532b28e488698977f08f704b282/view)

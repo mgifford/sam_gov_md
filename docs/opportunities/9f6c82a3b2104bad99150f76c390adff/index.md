@@ -34,4 +34,4 @@ Awards for FCI Leavenworth Quarter 3 Kosher and Halal Food Requirements. See att
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9f6c82a3b2104bad99150f76c390adff/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9f6c82a3b2104bad99150f76c390adff/view)

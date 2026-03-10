@@ -25,4 +25,4 @@ Proposed procurement for NSN 1240014415411 CARRYING CASE: Line 0001 Qty 32 UI EA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c1d03bf73caa4952a91417171f97dda3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c1d03bf73caa4952a91417171f97dda3/view)

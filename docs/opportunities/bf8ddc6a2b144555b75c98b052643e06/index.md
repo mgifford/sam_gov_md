@@ -25,4 +25,4 @@ Proposed procurement for NSN 5961011654004 SEMICONDUCTOR DEVIC: Line 0001 Qty 15
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bf8ddc6a2b144555b75c98b052643e06/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bf8ddc6a2b144555b75c98b052643e06/view)

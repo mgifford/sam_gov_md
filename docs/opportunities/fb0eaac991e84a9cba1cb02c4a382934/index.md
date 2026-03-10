@@ -26,4 +26,4 @@ The Synopsis The Indian Health Service, Navajo Area, Crownpoint Healthcare Facil
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fb0eaac991e84a9cba1cb02c4a382934/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fb0eaac991e84a9cba1cb02c4a382934/view)

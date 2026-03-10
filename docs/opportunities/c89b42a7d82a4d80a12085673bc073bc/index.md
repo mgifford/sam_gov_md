@@ -28,4 +28,4 @@ NASA/Glenn Research Center (GRC) is hereby soliciting information from potential
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c89b42a7d82a4d80a12085673bc073bc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c89b42a7d82a4d80a12085673bc073bc/view)

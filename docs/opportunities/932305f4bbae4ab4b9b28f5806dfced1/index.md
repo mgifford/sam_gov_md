@@ -30,4 +30,4 @@ NOS WSR - Data Center Infrastructure This is a combined synopsis/solicitation fo
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/932305f4bbae4ab4b9b28f5806dfced1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/932305f4bbae4ab4b9b28f5806dfced1/view)

@@ -34,4 +34,4 @@ NOTICE OF INTENT TO AWARD A SOLE SOURCE BOA CALL: The United States Coast Guard 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2e4069f862b94cffb6d803fd0a942040/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2e4069f862b94cffb6d803fd0a942040/view)

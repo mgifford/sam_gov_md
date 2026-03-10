@@ -28,4 +28,4 @@ Sources Sought Notice The VA Saint Louis Health Care System, John Cochran Divisi
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/465627e6b9984b218375e479e4e8696a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/465627e6b9984b218375e479e4e8696a/view)

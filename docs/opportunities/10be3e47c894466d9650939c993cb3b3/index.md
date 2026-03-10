@@ -25,4 +25,4 @@ THIS IS A SOURCES SOUGHT NOTICE ONLY. THIS IS NOT A REQUEST FOR PROPOSAL. The NA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/10be3e47c894466d9650939c993cb3b3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/10be3e47c894466d9650939c993cb3b3/view)

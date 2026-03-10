@@ -26,4 +26,4 @@ Department of Energy’s (DOE) Energy Dominance Financing (EDF) has a need for M
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e175dfda52274629a435b1b7f44cd300/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e175dfda52274629a435b1b7f44cd300/view)

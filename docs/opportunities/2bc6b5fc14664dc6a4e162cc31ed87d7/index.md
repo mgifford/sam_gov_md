@@ -34,4 +34,4 @@ The General Services Administration (GSA), Federal Acquisition Service (FAS), Ge
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2bc6b5fc14664dc6a4e162cc31ed87d7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2bc6b5fc14664dc6a4e162cc31ed87d7/view)

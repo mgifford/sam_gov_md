@@ -28,4 +28,4 @@ THIS IS A PRE-SOLICITATION NOTICE. THIS IS NOT A SOLICITATION. This Pre-solicita
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4aa7dd50d64540a385fc5ed5a30f3919/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4aa7dd50d64540a385fc5ed5a30f3919/view)

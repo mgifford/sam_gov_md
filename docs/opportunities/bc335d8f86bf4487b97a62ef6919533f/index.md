@@ -29,4 +29,4 @@ This is a non-personnel services contract to provide Military Mobile Force Prote
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bc335d8f86bf4487b97a62ef6919533f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bc335d8f86bf4487b97a62ef6919533f/view)

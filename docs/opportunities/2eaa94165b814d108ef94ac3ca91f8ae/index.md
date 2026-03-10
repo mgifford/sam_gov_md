@@ -25,4 +25,4 @@ Proposed procurement for NSN 2920015749998 STARTER,ENGINE,ELEC: Line 0001 Qty 23
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2eaa94165b814d108ef94ac3ca91f8ae/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2eaa94165b814d108ef94ac3ca91f8ae/view)

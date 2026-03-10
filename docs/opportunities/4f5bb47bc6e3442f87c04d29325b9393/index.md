@@ -26,4 +26,4 @@ YUMA VALLEY LEVEE ROAD REPAIR
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4f5bb47bc6e3442f87c04d29325b9393/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4f5bb47bc6e3442f87c04d29325b9393/view)

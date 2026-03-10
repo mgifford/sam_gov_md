@@ -28,4 +28,4 @@ Defense Injection Reception Emergency Action Message Command and Control Termina
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ef594382700e49929cc72c74b5263853/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ef594382700e49929cc72c74b5263853/view)

@@ -30,4 +30,4 @@ Please see attached RHIB -Sources Sought and Statement of Work. Must have Cybers
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e84ea31f95d0422ebaf24e7dca39bf1c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e84ea31f95d0422ebaf24e7dca39bf1c/view)

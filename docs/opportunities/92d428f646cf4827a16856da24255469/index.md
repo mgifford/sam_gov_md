@@ -25,4 +25,4 @@ Proposed procurement for NSN 8110000307780 DRUM,SHIPPING AND S: Line 0001 Qty 30
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/92d428f646cf4827a16856da24255469/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/92d428f646cf4827a16856da24255469/view)

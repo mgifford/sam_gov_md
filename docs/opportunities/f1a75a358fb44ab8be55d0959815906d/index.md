@@ -25,4 +25,4 @@ Proposed procurement for NSN 5305016514434 SCREW,CAP,HEXAGON H: Line 0001 Qty 66
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f1a75a358fb44ab8be55d0959815906d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f1a75a358fb44ab8be55d0959815906d/view)

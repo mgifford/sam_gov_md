@@ -29,4 +29,4 @@ Action Code: Pre-solicitation Date: 06 March 2026 Year: Fiscal Year 2026 Contrac
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/41b69d0874ea4bd79ed53096d00a3fab/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/41b69d0874ea4bd79ed53096d00a3fab/view)

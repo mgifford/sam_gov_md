@@ -32,4 +32,4 @@ DLA - Weapons Support (Richmond) is issuing this Sources Sought Synopsis as a me
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8c16b1eb1c3b4529a27a09f31c4da976/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8c16b1eb1c3b4529a27a09f31c4da976/view)

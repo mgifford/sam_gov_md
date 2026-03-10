@@ -25,4 +25,4 @@ Proposed procurement for NSN 1730015624023 TOWBAR,AIRCRAFT: Line 0001 Qty 11 UI 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/50ee74b7b567426fbfe44f9b8b9e8e88/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/50ee74b7b567426fbfe44f9b8b9e8e88/view)

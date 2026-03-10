@@ -30,4 +30,4 @@ Potable Water Tank Inspection, Santa Rosa, NM
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e369bff079294b86a0b8789dd77a617b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e369bff079294b86a0b8789dd77a617b/view)

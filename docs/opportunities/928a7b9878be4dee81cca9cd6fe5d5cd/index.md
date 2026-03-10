@@ -32,4 +32,4 @@ As stated in the Request for Quote: “The Government shall award by line item t
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/928a7b9878be4dee81cca9cd6fe5d5cd/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/928a7b9878be4dee81cca9cd6fe5d5cd/view)

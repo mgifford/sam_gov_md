@@ -25,4 +25,4 @@ Proposed procurement for NSN 6220016490872 LIGHT,PANEL: Line 0001 Qty 24 UI EA D
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/47e1b45180874b66aadca831d394a3f8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/47e1b45180874b66aadca831d394a3f8/view)

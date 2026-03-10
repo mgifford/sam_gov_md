@@ -25,4 +25,4 @@ Proposed procurement for NSN 3940016724165 SLING,MULTIPLE LEG: Line 0001 Qty 2 U
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ed3a86ca18e544068be933d4713b2670/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ed3a86ca18e544068be933d4713b2670/view)

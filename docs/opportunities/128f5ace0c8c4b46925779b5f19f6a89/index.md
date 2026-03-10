@@ -25,4 +25,4 @@ Proposed procurement for NSN 2540124084144 CHAIN ASSEMBLY,TIRE: Line 0001 Qty 35
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/128f5ace0c8c4b46925779b5f19f6a89/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/128f5ace0c8c4b46925779b5f19f6a89/view)

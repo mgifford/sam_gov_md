@@ -53,4 +53,4 @@ CONTACT INFORMATION|4|N744.10|AW4|N/A|zachary.r.morrill.civ@us.navy.mil| ITEM UN
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3f0ccd6403ec4e579376db1b4ac6c631/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3f0ccd6403ec4e579376db1b4ac6c631/view)

@@ -25,4 +25,4 @@ NSN 7R-2840-016578391-F7, REF NR 340-161-304-0, QTY 13 SE, DELIVERY FOB ORIGIN. 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/878f205d4fcf45738a1d3fa550a856ff/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/878f205d4fcf45738a1d3fa550a856ff/view)

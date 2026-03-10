@@ -25,4 +25,4 @@ Solicitation Number is SPE7MX26R0035. The subject requirement is for the acquisi
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6ca382854c854f68a61cb8e62fcd87d6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6ca382854c854f68a61cb8e62fcd87d6/view)

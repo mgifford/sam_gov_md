@@ -30,4 +30,4 @@ Sources Sought Notice for the Demolition and Decommissioning of the General Leon
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4b62cdaad73b496ba1d0660bb9c7700b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4b62cdaad73b496ba1d0660bb9c7700b/view)

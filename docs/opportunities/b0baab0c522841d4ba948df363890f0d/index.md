@@ -25,4 +25,4 @@ High-Quality Superconducting ZrN Thin Films via Molecular Beam Epitaxy for Quant
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b0baab0c522841d4ba948df363890f0d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b0baab0c522841d4ba948df363890f0d/view)

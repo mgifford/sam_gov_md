@@ -25,4 +25,4 @@ Proposed procurement for NSN 6220016068156 LAMP,LIGHT EMITTING: Line 0001 Qty 22
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fbfab8e25046472fa2793a0cc2da7499/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fbfab8e25046472fa2793a0cc2da7499/view)

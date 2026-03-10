@@ -25,4 +25,4 @@ Proposed procurement for NSN 4730001720042 FITTING,LUBRICATION: Line 0001 Qty 10
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a3a9eac8ea2a46e6935f5b123436297a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a3a9eac8ea2a46e6935f5b123436297a/view)

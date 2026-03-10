@@ -25,4 +25,4 @@ Proposed procurement for NSN 1560003736335 DOOR,CREW GALLEY: Line 0001 Qty 1 UI 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b3ac135e23504573adfca9053bc5d949/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b3ac135e23504573adfca9053bc5d949/view)

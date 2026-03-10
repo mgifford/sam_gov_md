@@ -26,4 +26,4 @@ Amended to include Set aside Code Felt Spacers
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/823d4b2f46b1496f98266f72b53feb3c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/823d4b2f46b1496f98266f72b53feb3c/view)

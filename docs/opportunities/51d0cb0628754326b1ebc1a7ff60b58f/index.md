@@ -25,4 +25,4 @@ Proposed procurement for NSN 6230016993102 FLASHLIGHT: Line 0001 Qty 1400 UI EA 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/51d0cb0628754326b1ebc1a7ff60b58f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/51d0cb0628754326b1ebc1a7ff60b58f/view)

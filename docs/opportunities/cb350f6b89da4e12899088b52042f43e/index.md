@@ -25,4 +25,4 @@ Proposed procurement for NSN 7310017140142 GRIDDLE,SELF-HEATIN: Line 0001 Qty 1 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/cb350f6b89da4e12899088b52042f43e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cb350f6b89da4e12899088b52042f43e/view)

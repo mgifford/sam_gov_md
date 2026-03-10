@@ -25,4 +25,4 @@ The Defense Advanced Research Projects Agency (DARPA) is issuing a Quantum Bench
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/743a55e6e10847b0b8104348a887e4ae/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/743a55e6e10847b0b8104348a887e4ae/view)

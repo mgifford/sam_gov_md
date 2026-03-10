@@ -26,4 +26,4 @@ Boiler Replacement at the Museum of the Plains Indian, Browning, MT
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/376793746a404ee793cd44c3b608661d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/376793746a404ee793cd44c3b608661d/view)

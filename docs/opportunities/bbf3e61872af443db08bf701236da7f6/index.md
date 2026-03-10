@@ -28,4 +28,4 @@ NOTICE OF INTENT TO SOLE SOURCE ONLY This notice is being published in accordanc
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bbf3e61872af443db08bf701236da7f6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bbf3e61872af443db08bf701236da7f6/view)

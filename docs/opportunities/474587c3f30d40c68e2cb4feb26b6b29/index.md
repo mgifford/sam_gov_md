@@ -25,4 +25,4 @@ This is for the rental of surgical lasers and accessories.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/474587c3f30d40c68e2cb4feb26b6b29/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/474587c3f30d40c68e2cb4feb26b6b29/view)

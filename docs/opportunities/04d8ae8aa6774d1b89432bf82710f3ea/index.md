@@ -26,4 +26,4 @@ This requirement is for NSWCPD and being solicited only to D40 Equipment Service
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/04d8ae8aa6774d1b89432bf82710f3ea/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/04d8ae8aa6774d1b89432bf82710f3ea/view)

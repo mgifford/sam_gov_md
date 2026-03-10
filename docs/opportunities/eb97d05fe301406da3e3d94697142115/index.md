@@ -25,4 +25,4 @@ Proposed procurement for NSN 5306001827314 BOLT,SPECIAL: Line 0001 Qty 54 UI EA 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/eb97d05fe301406da3e3d94697142115/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/eb97d05fe301406da3e3d94697142115/view)

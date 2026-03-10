@@ -30,4 +30,4 @@ The Air Force Service Center (AFSVC), headquartered at Joint Base San Antonio La
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8645ef34a93c4c86a6b0b2ce285a4974/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8645ef34a93c4c86a6b0b2ce285a4974/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 4730014332618 TEE,PIPE: Line 0001 Qty 460 UI EA Del
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/cc5295a181064d2cbe02d1510612b9cb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cc5295a181064d2cbe02d1510612b9cb/view)

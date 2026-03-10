@@ -81,4 +81,4 @@ CONTACT INFORMATION|4|N744.13|WVN|n/a|gordon.kohl@navy.mil| ITEM UNIQUE IDENTIFI
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2c62b3ac35f8455d9e9136687ad04345/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2c62b3ac35f8455d9e9136687ad04345/view)

@@ -30,4 +30,4 @@ In accordance with FAR 6.302.1, the Naval Air Warfare Center, Weapons Division, 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8effd73f7e76452db203d4c04f17da46/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8effd73f7e76452db203d4c04f17da46/view)

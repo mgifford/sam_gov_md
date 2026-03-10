@@ -25,4 +25,4 @@ Proposed procurement for NSN 2540015891117 FRAME SECTION,SEAT,: Line 0001 Qty 8 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7dd89a41fb1144728e7273bcf017fc55/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7dd89a41fb1144728e7273bcf017fc55/view)

@@ -28,4 +28,4 @@ Please note this solicitation is not ready to be issued as of this date. The Emb
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1f6b2098e8ae463386be14a6abb9660e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1f6b2098e8ae463386be14a6abb9660e/view)

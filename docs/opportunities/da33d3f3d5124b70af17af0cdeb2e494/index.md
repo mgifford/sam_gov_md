@@ -30,4 +30,4 @@ There is a need for Air Purification Systems for the Enlisted and Officer Dormit
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/da33d3f3d5124b70af17af0cdeb2e494/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/da33d3f3d5124b70af17af0cdeb2e494/view)

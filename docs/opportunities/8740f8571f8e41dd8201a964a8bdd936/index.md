@@ -75,4 +75,4 @@ CONTACT INFORMATION|4|N743.24|WVC|N/A|ashton.k.perry.civ@us.navy.mil| ITEM UNIQU
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8740f8571f8e41dd8201a964a8bdd936/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8740f8571f8e41dd8201a964a8bdd936/view)

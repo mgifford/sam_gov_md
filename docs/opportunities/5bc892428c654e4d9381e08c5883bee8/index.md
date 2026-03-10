@@ -26,4 +26,4 @@ Please see the attached solicitation for DWA Janitorial Services and follow the 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5bc892428c654e4d9381e08c5883bee8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5bc892428c654e4d9381e08c5883bee8/view)

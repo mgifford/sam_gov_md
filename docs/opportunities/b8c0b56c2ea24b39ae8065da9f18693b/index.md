@@ -26,4 +26,4 @@ General Service Administration (GSA) has found it necessary to remove and replac
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b8c0b56c2ea24b39ae8065da9f18693b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b8c0b56c2ea24b39ae8065da9f18693b/view)

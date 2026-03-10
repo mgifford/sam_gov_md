@@ -26,4 +26,4 @@ SOURCES SOUGHT DESCRIPTION FOR DOOR AND DOCK REPAIR- TOBYHANNA ARMY DEPOT INTROD
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/51ac34f802a84519b451f21745554ae9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/51ac34f802a84519b451f21745554ae9/view)

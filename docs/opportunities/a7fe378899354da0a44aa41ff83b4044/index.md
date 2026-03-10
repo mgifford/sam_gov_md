@@ -25,4 +25,4 @@ Proposed procurement for NSN 2915013594966 NOZZLE,FUEL INJECTI: Line 0001 Qty 18
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a7fe378899354da0a44aa41ff83b4044/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a7fe378899354da0a44aa41ff83b4044/view)

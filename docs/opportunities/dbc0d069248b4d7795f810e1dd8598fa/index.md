@@ -28,4 +28,4 @@ The purpose of the amendment is as follows: 1. Provide vendor questions and answ
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/dbc0d069248b4d7795f810e1dd8598fa/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/dbc0d069248b4d7795f810e1dd8598fa/view)

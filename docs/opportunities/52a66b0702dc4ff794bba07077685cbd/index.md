@@ -25,4 +25,4 @@ Proposed procurement for NSN 2040015013323 SEAL ASSEMBLY,RETRA: Line 0001 Qty 1 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/52a66b0702dc4ff794bba07077685cbd/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/52a66b0702dc4ff794bba07077685cbd/view)

@@ -34,4 +34,4 @@ Request for Quote (RFQ) #: 36C25926Q0298 Total Shoulder Arthroplasty Instrument 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c664f2b37ae74482b8dab352aa7ebdad/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c664f2b37ae74482b8dab352aa7ebdad/view)

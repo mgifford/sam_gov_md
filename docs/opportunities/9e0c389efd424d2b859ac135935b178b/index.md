@@ -28,4 +28,4 @@ The U.S. Department of Labor (DOL) is issuing this Request for Information/Sourc
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9e0c389efd424d2b859ac135935b178b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9e0c389efd424d2b859ac135935b178b/view)

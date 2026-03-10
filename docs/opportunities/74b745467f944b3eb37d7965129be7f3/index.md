@@ -25,4 +25,4 @@ AMENDMENT AM0001 - Posted as of 03/06/2026 Video Surveillance System (VSS) Insta
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/74b745467f944b3eb37d7965129be7f3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/74b745467f944b3eb37d7965129be7f3/view)

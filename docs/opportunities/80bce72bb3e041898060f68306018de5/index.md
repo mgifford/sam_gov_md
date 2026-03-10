@@ -28,4 +28,4 @@ The Federal Bureau of Prisons, Federal Correctional Institution, intends to issu
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/80bce72bb3e041898060f68306018de5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/80bce72bb3e041898060f68306018de5/view)

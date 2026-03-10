@@ -34,4 +34,4 @@ CBP Untrained Canine � Support Canine Program (SK9), Field Office K9 Center - 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/49726ba55e464990a3a7a129fc472bfa/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/49726ba55e464990a3a7a129fc472bfa/view)

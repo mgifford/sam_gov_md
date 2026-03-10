@@ -25,4 +25,4 @@ Proposed procurement for NSN 3110013997535 BEARING,BALL,ANNULA: Line 0001 Qty 63
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6a1a439ed7d64dc987f32d059a612ad5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6a1a439ed7d64dc987f32d059a612ad5/view)

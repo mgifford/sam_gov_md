@@ -34,4 +34,4 @@ Please see attachment titled FA821325R3026 A2 for a detailed breakdown of the so
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/684843300126424584ac8ac539542264/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/684843300126424584ac8ac539542264/view)

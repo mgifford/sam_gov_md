@@ -34,4 +34,4 @@ This is a Sources Sought notice for a Battery Power Supply. Responses will assis
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5f414b7fdeca4808bba289f33662ab18/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5f414b7fdeca4808bba289f33662ab18/view)

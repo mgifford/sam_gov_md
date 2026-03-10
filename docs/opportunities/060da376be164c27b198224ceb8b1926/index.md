@@ -36,4 +36,4 @@ THIS AMENDMENT IS ISSUED TO CORRECT THE SITE-VISIT TIME FROM 1:00 AM TO 10:00 AM
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/060da376be164c27b198224ceb8b1926/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/060da376be164c27b198224ceb8b1926/view)

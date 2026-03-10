@@ -34,4 +34,4 @@ The purpose of Amendment 1 is to correct Attachment 1 - Schedule of Supplies/Ser
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/cdf9b9e97aaa4137be660ebefae7229e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cdf9b9e97aaa4137be660ebefae7229e/view)

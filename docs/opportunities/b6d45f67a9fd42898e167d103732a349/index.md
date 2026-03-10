@@ -30,4 +30,4 @@ This Combined Synopsis/Solicitation - 12FPC126Q0003 is being issued as a Request
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b6d45f67a9fd42898e167d103732a349/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b6d45f67a9fd42898e167d103732a349/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 4420011175449 EDUCTOR-JET: Line 0001 Qty 15 UI EA D
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/073de9046dd24cc28ffebf7604a67f8b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/073de9046dd24cc28ffebf7604a67f8b/view)

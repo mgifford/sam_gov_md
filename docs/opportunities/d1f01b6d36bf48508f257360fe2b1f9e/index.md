@@ -26,4 +26,4 @@ SEE ATTACHED PRESOLICITATION NOTICE.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d1f01b6d36bf48508f257360fe2b1f9e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d1f01b6d36bf48508f257360fe2b1f9e/view)

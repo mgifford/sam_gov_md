@@ -25,4 +25,4 @@ Proposed procurement for NSN 3040015765056 BRAKE SHOE: Line 0001 Qty 569 UI EA D
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/929c407abd304e3a8d83c6d06d56fa7e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/929c407abd304e3a8d83c6d06d56fa7e/view)

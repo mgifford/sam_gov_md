@@ -26,4 +26,4 @@ AMENDMENT NUMBER P00001 IS FOR SOLICITATION NUMBER 140A2326Q0059 AS FOLLOWS: 1. 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/dd6a0c062b3f4ab48e2bfa6d514d67a2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/dd6a0c062b3f4ab48e2bfa6d514d67a2/view)

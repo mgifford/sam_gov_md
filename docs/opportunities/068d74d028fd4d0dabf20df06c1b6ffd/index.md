@@ -25,4 +25,4 @@ Proposed procurement for NSN 8145015501679 CONTAINER,STACKABLE: Line 0001 Qty 16
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/068d74d028fd4d0dabf20df06c1b6ffd/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/068d74d028fd4d0dabf20df06c1b6ffd/view)

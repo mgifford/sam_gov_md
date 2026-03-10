@@ -25,4 +25,4 @@ Proposed procurement for NSN 1005016440984 INTERFACE RING ASSY, W: Line 0001 Qty
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a0fd838b96f448659497f15bf2127430/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a0fd838b96f448659497f15bf2127430/view)

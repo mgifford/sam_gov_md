@@ -29,4 +29,4 @@ Steam Valves for T-ALT AS-39-19018 Solicitation amended to extend the closing da
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/182956789e5d4c43b9de9d1f114c1a20/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/182956789e5d4c43b9de9d1f114c1a20/view)

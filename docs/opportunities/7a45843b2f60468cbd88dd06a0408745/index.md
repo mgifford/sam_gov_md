@@ -27,4 +27,4 @@ notice_id: 7a45843b2f60468cbd88dd06a0408745
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7a45843b2f60468cbd88dd06a0408745/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7a45843b2f60468cbd88dd06a0408745/view)

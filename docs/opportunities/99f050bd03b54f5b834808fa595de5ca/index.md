@@ -30,4 +30,4 @@ The Defense Logistics Agency Energy (DLA Energy) is procuring Contractor-Owned, 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/99f050bd03b54f5b834808fa595de5ca/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/99f050bd03b54f5b834808fa595de5ca/view)

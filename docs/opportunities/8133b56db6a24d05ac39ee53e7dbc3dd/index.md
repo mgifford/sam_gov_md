@@ -25,4 +25,4 @@ Proposed procurement for NSN 4460014071025 COLLECTOR,DUST: Line 0001 Qty 95 UI E
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8133b56db6a24d05ac39ee53e7dbc3dd/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8133b56db6a24d05ac39ee53e7dbc3dd/view)

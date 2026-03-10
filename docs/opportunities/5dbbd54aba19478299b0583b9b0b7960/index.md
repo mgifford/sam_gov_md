@@ -25,4 +25,4 @@ Proposed procurement for NSN 5945009228056 SOLENOID,ELECTRICAL: Line 0001 Qty 44
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5dbbd54aba19478299b0583b9b0b7960/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5dbbd54aba19478299b0583b9b0b7960/view)

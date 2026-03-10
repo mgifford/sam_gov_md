@@ -28,4 +28,4 @@ This amendment is in reference to RFQ 36C26226Q0440. All offeror quotes for this
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/43999269fc1549628f1cc79a07011208/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/43999269fc1549628f1cc79a07011208/view)

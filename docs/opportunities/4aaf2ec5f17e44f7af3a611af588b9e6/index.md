@@ -25,4 +25,4 @@ Proposed procurement for NSN 4820013474534 VALVE ASSEMBLY,MANI: Line 0001 Qty 3 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4aaf2ec5f17e44f7af3a611af588b9e6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4aaf2ec5f17e44f7af3a611af588b9e6/view)

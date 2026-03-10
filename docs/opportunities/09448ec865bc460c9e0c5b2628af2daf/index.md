@@ -28,4 +28,4 @@ DESCRIPTION: THIS is a combined synopsis/solicitation for commercial items prepa
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/09448ec865bc460c9e0c5b2628af2daf/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/09448ec865bc460c9e0c5b2628af2daf/view)

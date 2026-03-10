@@ -28,4 +28,4 @@ Presolicitation Notice Page 4 of 4 Page 1 of THIS CONSTRUCTION SERVICES PRESOLIC
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d7309d2f11a0480d86971db8d81ebf0a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d7309d2f11a0480d86971db8d81ebf0a/view)

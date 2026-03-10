@@ -26,4 +26,4 @@ N8 Air Admission Support Cone
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/aedcca1eb71d438d8b6dbb84d6eb06e2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/aedcca1eb71d438d8b6dbb84d6eb06e2/view)

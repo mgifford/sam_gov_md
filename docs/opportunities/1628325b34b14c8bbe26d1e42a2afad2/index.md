@@ -25,4 +25,4 @@ FAR 12.202(b)(1)(i) �This is a combined synopsis/solicitation for commercial p
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1628325b34b14c8bbe26d1e42a2afad2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1628325b34b14c8bbe26d1e42a2afad2/view)

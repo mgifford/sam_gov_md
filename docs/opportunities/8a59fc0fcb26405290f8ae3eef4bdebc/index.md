@@ -28,4 +28,4 @@ Department of Veterans Affairs, VISN 06, Network Contract Office (NCO) 06, inten
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8a59fc0fcb26405290f8ae3eef4bdebc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8a59fc0fcb26405290f8ae3eef4bdebc/view)

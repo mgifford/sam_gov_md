@@ -25,4 +25,4 @@ Proposed procurement for NSN 2510015045776 HINGE,DOOR,VEHICULA: Line 0001 Qty 47
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5d14dce6f6f246a68680a30aa49fe437/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5d14dce6f6f246a68680a30aa49fe437/view)

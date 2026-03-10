@@ -25,4 +25,4 @@ Original Post: 03/09/2026 Modification Post 1: 03/09/2026, Corrects the PSC from
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/44ed854f3ad947b29426e1876325e56f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/44ed854f3ad947b29426e1876325e56f/view)

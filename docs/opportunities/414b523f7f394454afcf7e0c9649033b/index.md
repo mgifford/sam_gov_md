@@ -27,4 +27,4 @@ The purpose of this amendment is to correct the question and quote submission du
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/414b523f7f394454afcf7e0c9649033b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/414b523f7f394454afcf7e0c9649033b/view)

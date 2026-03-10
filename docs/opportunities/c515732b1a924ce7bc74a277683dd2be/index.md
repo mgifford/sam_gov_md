@@ -30,4 +30,4 @@ Special Notice for Market Research for Use of a Project Labor Agreement on Alask
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c515732b1a924ce7bc74a277683dd2be/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c515732b1a924ce7bc74a277683dd2be/view)

@@ -26,4 +26,4 @@ UTV for Truxton Canon Agency
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/54b01eedf2104a829a92528782a69425/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/54b01eedf2104a829a92528782a69425/view)

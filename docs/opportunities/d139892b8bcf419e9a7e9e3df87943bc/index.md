@@ -26,4 +26,4 @@ Drone components
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d139892b8bcf419e9a7e9e3df87943bc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d139892b8bcf419e9a7e9e3df87943bc/view)

@@ -30,4 +30,4 @@ Mechanical � Install (3) indoor wall-mounted units, along with all refrigerant
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7ffe4958fe2e4dcbbd5124eaa8572e4f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7ffe4958fe2e4dcbbd5124eaa8572e4f/view)

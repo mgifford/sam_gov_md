@@ -30,4 +30,4 @@ This Synopsis is issued for a Total Small Business set-a-side solicitation that 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a5f6b082c0714bbab23c0b66bae397ab/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a5f6b082c0714bbab23c0b66bae397ab/view)

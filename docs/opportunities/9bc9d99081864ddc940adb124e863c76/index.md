@@ -26,4 +26,4 @@ Z9N | FA-18 | DETECTOR, ICE NSN: 6340-014544015, IQC PR: 1000221661, ITEM: DETEC
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9bc9d99081864ddc940adb124e863c76/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9bc9d99081864ddc940adb124e863c76/view)

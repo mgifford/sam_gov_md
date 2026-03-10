@@ -25,4 +25,4 @@ Proposed procurement for NSN 5310016432162 NUT,PLAIN,HEXAGON: Line 0001 Qty 1222
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/03201a3ebd1c4e7188316018a3d1f9a8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/03201a3ebd1c4e7188316018a3d1f9a8/view)

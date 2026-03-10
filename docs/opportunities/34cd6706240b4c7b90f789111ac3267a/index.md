@@ -25,4 +25,4 @@ Proposed procurement for NSN 2815000348264 ROD,CONNECTING LOWE: Line 0001 Qty 4 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/34cd6706240b4c7b90f789111ac3267a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/34cd6706240b4c7b90f789111ac3267a/view)

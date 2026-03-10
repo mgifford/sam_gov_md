@@ -25,4 +25,4 @@ Proposed procurement for NSN 6650009587408 MAGNIFIER: Line 0001 Qty 170 UI EA De
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/df966a868cbd411181b924810feb9a22/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/df966a868cbd411181b924810feb9a22/view)

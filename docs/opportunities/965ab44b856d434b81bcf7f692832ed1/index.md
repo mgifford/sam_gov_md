@@ -26,4 +26,4 @@ This is a Sources Sought for a Construction requirement with the National Park S
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/965ab44b856d434b81bcf7f692832ed1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/965ab44b856d434b81bcf7f692832ed1/view)

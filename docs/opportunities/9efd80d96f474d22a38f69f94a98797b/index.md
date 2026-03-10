@@ -30,4 +30,4 @@ The Travis AFB (TAFB) Wings over Solano Airshow requires the Aerial Demonstratio
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9efd80d96f474d22a38f69f94a98797b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9efd80d96f474d22a38f69f94a98797b/view)

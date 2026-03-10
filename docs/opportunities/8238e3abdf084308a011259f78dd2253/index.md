@@ -25,4 +25,4 @@ Proposed procurement for NSN 4710013988361 PIPE ASSEMBLY,METAL: Line 0001 Qty 3 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8238e3abdf084308a011259f78dd2253/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8238e3abdf084308a011259f78dd2253/view)

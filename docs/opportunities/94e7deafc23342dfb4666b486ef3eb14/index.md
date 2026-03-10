@@ -28,4 +28,4 @@ This is only a notice of award. No quotes are being requested.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/94e7deafc23342dfb4666b486ef3eb14/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/94e7deafc23342dfb4666b486ef3eb14/view)

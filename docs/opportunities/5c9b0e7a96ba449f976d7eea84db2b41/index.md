@@ -27,4 +27,4 @@ See attachments to this notice. The response date is extended to 18 March 2026.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5c9b0e7a96ba449f976d7eea84db2b41/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5c9b0e7a96ba449f976d7eea84db2b41/view)

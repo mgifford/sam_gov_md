@@ -26,4 +26,4 @@ Rehab Well no. 2 at Yosemite Valley - Mariposa County, California
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4d6acd4436aa4e238fbc1ff26ebcdaa6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4d6acd4436aa4e238fbc1ff26ebcdaa6/view)

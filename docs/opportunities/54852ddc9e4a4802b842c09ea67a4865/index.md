@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340014835017 BUMPER: Line 0001 Qty 72 UI EA Delive
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/54852ddc9e4a4802b842c09ea67a4865/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/54852ddc9e4a4802b842c09ea67a4865/view)

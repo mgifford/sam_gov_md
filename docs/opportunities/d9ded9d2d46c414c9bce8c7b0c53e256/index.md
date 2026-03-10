@@ -25,4 +25,4 @@ Notice of Intent to Sole-Source: The Mission and Installation Contracting Comman
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d9ded9d2d46c414c9bce8c7b0c53e256/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d9ded9d2d46c414c9bce8c7b0c53e256/view)

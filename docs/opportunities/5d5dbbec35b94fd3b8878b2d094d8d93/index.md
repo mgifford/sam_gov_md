@@ -25,4 +25,4 @@ The vendor shall provide Alarm installation and maintenance services: One quote,
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5d5dbbec35b94fd3b8878b2d094d8d93/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5d5dbbec35b94fd3b8878b2d094d8d93/view)

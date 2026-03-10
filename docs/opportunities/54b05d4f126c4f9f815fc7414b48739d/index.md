@@ -26,4 +26,4 @@ See attached Sources Sought and draft Statement of Work.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/54b05d4f126c4f9f815fc7414b48739d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/54b05d4f126c4f9f815fc7414b48739d/view)

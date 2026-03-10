@@ -28,4 +28,4 @@ Request for Information Real-Time Public Data Intelligence and External Risk Det
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2cf33d29fa4949cf957ffb5f1e860ddf/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2cf33d29fa4949cf957ffb5f1e860ddf/view)

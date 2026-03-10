@@ -30,4 +30,4 @@ Solicitation Number SPE4A626RX625 Solicitation will result in a Commercial Indef
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/19edb15932d3475194ac97addaaf63a3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/19edb15932d3475194ac97addaaf63a3/view)

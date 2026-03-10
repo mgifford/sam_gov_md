@@ -36,4 +36,4 @@ March 4th 2026 Amendment 01 - The purpose of this amendment is to add the attach
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e56121065212496fa27e6b52eac17a92/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e56121065212496fa27e6b52eac17a92/view)

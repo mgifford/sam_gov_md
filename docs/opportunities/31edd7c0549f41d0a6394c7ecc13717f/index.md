@@ -26,4 +26,4 @@ Amendment 0001: To include addtitonal FAR Clauses A. This is a combined synopsis
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/31edd7c0549f41d0a6394c7ecc13717f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/31edd7c0549f41d0a6394c7ecc13717f/view)

@@ -36,4 +36,4 @@ Project Title: Kisatchie National Forest Road Maintenance SERVICES and CONSTRUCT
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5a52eb3742084ab2917cda362c6014cf/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5a52eb3742084ab2917cda362c6014cf/view)

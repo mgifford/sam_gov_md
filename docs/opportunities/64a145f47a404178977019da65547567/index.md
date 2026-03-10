@@ -57,4 +57,4 @@ CONTACT INFORMATION|4|N7M1.13|GTL|717-605-4443|rocky.l.liddic.civ@us.navy.mil| I
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/64a145f47a404178977019da65547567/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/64a145f47a404178977019da65547567/view)

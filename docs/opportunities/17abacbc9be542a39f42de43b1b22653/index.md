@@ -25,4 +25,4 @@ Proposed procurement for NSN 8030016865694 SEALING COMPOUND: Line 0001 Qty 114 U
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/17abacbc9be542a39f42de43b1b22653/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/17abacbc9be542a39f42de43b1b22653/view)

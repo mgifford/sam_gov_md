@@ -25,4 +25,4 @@ Proposed procurement for NSN 5945011521830 RELAY: Line 0001 Qty 1 UI EA Deliver 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/27f36e06481b4915bb047a39b8136546/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/27f36e06481b4915bb047a39b8136546/view)

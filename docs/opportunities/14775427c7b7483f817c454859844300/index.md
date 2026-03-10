@@ -29,4 +29,4 @@ SPRRA126R0022.PDF
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/14775427c7b7483f817c454859844300/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/14775427c7b7483f817c454859844300/view)

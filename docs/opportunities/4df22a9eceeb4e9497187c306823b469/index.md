@@ -25,4 +25,4 @@ Proposed procurement for NSN 4810012238040 VALVE,SOLENOID: Line 0001 Qty 112 UI 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4df22a9eceeb4e9497187c306823b469/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4df22a9eceeb4e9497187c306823b469/view)

@@ -26,4 +26,4 @@ Soldier Member Family Support (SMFS) Yellow Ribbon Event to take place in Salem 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/43bfc6127d9b454d89fa6b82571d06cf/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/43bfc6127d9b454d89fa6b82571d06cf/view)

@@ -26,4 +26,4 @@ MICROSOFT 365 LICENSE RENEWAL UPGRADE
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/11243513329d42b491cdf8a9b819c245/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/11243513329d42b491cdf8a9b819c245/view)

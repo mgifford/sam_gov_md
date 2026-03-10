@@ -25,4 +25,4 @@ Proposed procurement for NSN 4730015996651 COUPLING HALF,QUICK: Line 0001 Qty 44
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6ed1c00905c04b648615d55c63d2866c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6ed1c00905c04b648615d55c63d2866c/view)

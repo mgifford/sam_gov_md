@@ -28,4 +28,4 @@ Includes all work to replace 5k gallon diesel tank with 5k gallon double-wall UL
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6857c91aa4c94d4584f5f61bbc6b9192/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6857c91aa4c94d4584f5f61bbc6b9192/view)

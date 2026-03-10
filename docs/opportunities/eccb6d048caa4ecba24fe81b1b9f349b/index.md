@@ -28,4 +28,4 @@ Army Intelligence Data Platform - Next (AIDP-Next): Notice/Request for Informati
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/eccb6d048caa4ecba24fe81b1b9f349b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/eccb6d048caa4ecba24fe81b1b9f349b/view)

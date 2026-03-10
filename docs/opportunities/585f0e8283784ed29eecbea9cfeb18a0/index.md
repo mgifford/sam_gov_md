@@ -28,4 +28,4 @@ Sources Sought Notice Courier Services Disclaimer: This Request for Information 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/585f0e8283784ed29eecbea9cfeb18a0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/585f0e8283784ed29eecbea9cfeb18a0/view)

@@ -26,4 +26,4 @@ SD BRANCH OF LE VEHICLE UPFITS (3 trucks)
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5a48cb31656b48e4aac247af5ba1e63c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5a48cb31656b48e4aac247af5ba1e63c/view)

@@ -30,4 +30,4 @@ The 354th Eielson Contracting Squadron is seeking qualification packages for A&E
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/332879b11888481681373d758d55b0d3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/332879b11888481681373d758d55b0d3/view)

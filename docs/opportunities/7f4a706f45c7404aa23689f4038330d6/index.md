@@ -26,4 +26,4 @@ The Contractor must provide all personnel, equipment, tools, materials, supervis
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7f4a706f45c7404aa23689f4038330d6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7f4a706f45c7404aa23689f4038330d6/view)

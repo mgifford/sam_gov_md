@@ -25,4 +25,4 @@ THIS IS A SOURCES SOUGHT – FOR PLANNING PURPOSES ONLY The purpose of this Sour
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/eab944410b0747bb8998eda1a44c38f5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/eab944410b0747bb8998eda1a44c38f5/view)

@@ -25,4 +25,4 @@ This RFQ is for a FMS Repair requirement.\\ NAVSUP WSS requests that contractors
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c2d14fabad4141a18616b6f402211286/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c2d14fabad4141a18616b6f402211286/view)

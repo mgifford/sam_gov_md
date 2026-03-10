@@ -25,4 +25,4 @@ The Government is only conducting market research and attaining information to i
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0a51b21c97da48c898a3d3d19a3afc1f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0a51b21c97da48c898a3d3d19a3afc1f/view)

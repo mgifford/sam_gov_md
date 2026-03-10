@@ -25,4 +25,4 @@ Proposed procurement for NSN 6220016417078 BRACKET,LIGHT RETEN: Line 0001 Qty 11
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3139a97230354a30bfa7f00a8844c656/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3139a97230354a30bfa7f00a8844c656/view)

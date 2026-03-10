@@ -28,4 +28,4 @@ Customs and Border Protection (CBP) is seeking a Commercial Off-The-Shelf (COTS)
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6b814801e2e141d2be3ef72656569065/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6b814801e2e141d2be3ef72656569065/view)

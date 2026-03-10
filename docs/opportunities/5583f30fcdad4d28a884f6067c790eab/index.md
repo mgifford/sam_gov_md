@@ -26,4 +26,4 @@ The Defense Loglstlcs Agency ( DLA) wlll issue a Request for Proposal on March 1
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5583f30fcdad4d28a884f6067c790eab/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5583f30fcdad4d28a884f6067c790eab/view)

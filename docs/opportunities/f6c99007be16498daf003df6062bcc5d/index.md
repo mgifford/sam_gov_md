@@ -29,4 +29,4 @@ This is a service contract to provide Fire Suppression System (FSS) and Air Cond
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f6c99007be16498daf003df6062bcc5d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f6c99007be16498daf003df6062bcc5d/view)

@@ -25,4 +25,4 @@ The purpose of this requirement is to secure janitorial services for the Bridger
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/15980d4629e6446b8bfa9dc3b48d18ad/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/15980d4629e6446b8bfa9dc3b48d18ad/view)

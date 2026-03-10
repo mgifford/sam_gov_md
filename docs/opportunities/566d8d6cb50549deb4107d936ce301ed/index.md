@@ -26,4 +26,4 @@ F000926-26-2000025 | Trash Removal for WCNC -- S205 Dumpster Rental/Non-Hazardou
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/566d8d6cb50549deb4107d936ce301ed/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/566d8d6cb50549deb4107d936ce301ed/view)

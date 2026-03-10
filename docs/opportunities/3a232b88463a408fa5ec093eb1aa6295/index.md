@@ -26,4 +26,4 @@ The Rotational unit billeting site work project at Fort Bliss, TX, will enhance 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3a232b88463a408fa5ec093eb1aa6295/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3a232b88463a408fa5ec093eb1aa6295/view)

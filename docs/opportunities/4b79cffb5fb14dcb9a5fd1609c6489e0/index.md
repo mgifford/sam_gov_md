@@ -25,4 +25,4 @@ Proposed procurement for NSN 3040016101920 NRP,BALLSCREW ASSEM: Line 0001 Qty 9 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4b79cffb5fb14dcb9a5fd1609c6489e0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4b79cffb5fb14dcb9a5fd1609c6489e0/view)

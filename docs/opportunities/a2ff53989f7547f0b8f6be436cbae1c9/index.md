@@ -35,4 +35,4 @@ The subject effort is for the procurement of required supplies and services to s
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a2ff53989f7547f0b8f6be436cbae1c9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a2ff53989f7547f0b8f6be436cbae1c9/view)

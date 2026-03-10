@@ -31,4 +31,4 @@ The Federal Aviation Administration (FAA) is requesting proposals for the purcha
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3ffd6942975742a8a84d4c32d6e5adc1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3ffd6942975742a8a84d4c32d6e5adc1/view)

@@ -29,4 +29,4 @@ This is a solicitation for repair of E-3 Fuel Flow Transmitters. Response date i
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/57d9ef4e74844f19b96e5220a80e570e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/57d9ef4e74844f19b96e5220a80e570e/view)

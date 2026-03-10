@@ -26,4 +26,4 @@ BORE SEAL
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5cbc8f48b1f140c08871f9f42d7fb4eb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5cbc8f48b1f140c08871f9f42d7fb4eb/view)

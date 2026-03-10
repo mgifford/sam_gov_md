@@ -25,4 +25,4 @@ Proposed procurement for NSN 5330012097565 EXPANDER,SEAL: Line 0001 Qty 34 UI EA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7e7ba79e8ba743beabd409281b42e2c6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7e7ba79e8ba743beabd409281b42e2c6/view)

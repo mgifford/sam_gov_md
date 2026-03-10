@@ -35,4 +35,4 @@ N00164-26-Q-0071 � MODULAR OFFICE SETS � PSC 7110 � NAICS 337214 ISSUE DAT
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fcd75d1e5ac547738d6323825d9855c2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fcd75d1e5ac547738d6323825d9855c2/view)

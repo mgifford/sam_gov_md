@@ -25,4 +25,4 @@ Proposed procurement for NSN 4130015595331 FILTERING PAD,AIR C: Line 0001 Qty 10
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f4e1caba26134c03995bad9282fff41f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f4e1caba26134c03995bad9282fff41f/view)

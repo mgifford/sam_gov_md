@@ -36,4 +36,4 @@ The contractor shall procure, deliver, and install JSI brand furniture for the U
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/71da0ff5de83423d9779e58395725d11/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/71da0ff5de83423d9779e58395725d11/view)

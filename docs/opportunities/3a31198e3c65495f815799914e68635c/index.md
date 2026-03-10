@@ -34,4 +34,4 @@ Defense Logistics Agency (DLA) Troop Support, Strategic Material Sourcing Group 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3a31198e3c65495f815799914e68635c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3a31198e3c65495f815799914e68635c/view)

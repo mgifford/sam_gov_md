@@ -25,4 +25,4 @@ Proposed procurement for NSN 5305014733465 SCREW,CAP,SOCKET HE: Line 0001 Qty 29
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ba3b37cd9fe041ffafd334a667ffd350/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ba3b37cd9fe041ffafd334a667ffd350/view)

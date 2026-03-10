@@ -25,4 +25,4 @@ Proposed procurement for NSN 6145012262651 CABLE,SPECIAL PURPO: Line 0001 Qty 16
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1b725bfbf1f84cb8819993227980b5c6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1b725bfbf1f84cb8819993227980b5c6/view)

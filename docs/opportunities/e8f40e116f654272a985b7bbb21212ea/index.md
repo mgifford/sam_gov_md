@@ -29,4 +29,4 @@ Edwards Air Force Base is hosting the 2nd Annual Bridging Opportunities & Levera
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e8f40e116f654272a985b7bbb21212ea/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e8f40e116f654272a985b7bbb21212ea/view)

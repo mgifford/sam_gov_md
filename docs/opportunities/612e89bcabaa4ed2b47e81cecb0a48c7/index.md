@@ -25,4 +25,4 @@ Proposed procurement for NSN 4130013481557 COOLING COIL,AIR,DU: Line 0001 Qty 11
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/612e89bcabaa4ed2b47e81cecb0a48c7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/612e89bcabaa4ed2b47e81cecb0a48c7/view)

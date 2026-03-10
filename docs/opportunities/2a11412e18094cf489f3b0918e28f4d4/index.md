@@ -25,4 +25,4 @@ U.S. Department of Justice Federal Bureau of Prisons Federal Correctional Instit
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2a11412e18094cf489f3b0918e28f4d4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2a11412e18094cf489f3b0918e28f4d4/view)

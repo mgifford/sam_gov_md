@@ -28,4 +28,4 @@ This notice is for Solicitation Number 36C24226B0046, Project Number 526-20-508 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d140ab02920545bc8645f1964c663cc8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d140ab02920545bc8645f1964c663cc8/view)

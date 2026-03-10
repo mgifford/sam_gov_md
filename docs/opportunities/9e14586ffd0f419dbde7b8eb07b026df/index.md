@@ -25,4 +25,4 @@ The Great Plains Area (GPA), Indian Health Service (IHS), hereby submits a Notic
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9e14586ffd0f419dbde7b8eb07b026df/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9e14586ffd0f419dbde7b8eb07b026df/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 4320219064039 RESERVOIR,HYDRAULIC: Line 0001 Qty 60
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/48dfbaf338144cb9979fd9343724c85a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/48dfbaf338144cb9979fd9343724c85a/view)

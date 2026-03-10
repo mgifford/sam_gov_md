@@ -26,4 +26,4 @@ Construct Repository Cover to Support the Callahan Mine Superfund Site in Brooks
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a670bd5ac0cd47e59ffbe0ac976a386f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a670bd5ac0cd47e59ffbe0ac976a386f/view)

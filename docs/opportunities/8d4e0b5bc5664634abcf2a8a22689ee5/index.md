@@ -31,4 +31,4 @@ CONTACT INFORMATION|4|N741.11|GDN|N/A|ABIGAIL.R.HURLBUT.CIV@US.NAVY.MIL| ITEM UN
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8d4e0b5bc5664634abcf2a8a22689ee5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8d4e0b5bc5664634abcf2a8a22689ee5/view)

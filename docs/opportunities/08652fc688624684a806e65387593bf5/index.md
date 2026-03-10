@@ -25,4 +25,4 @@ This notice is for a BPA Call Order to be issued against an existing Land Manage
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/08652fc688624684a806e65387593bf5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/08652fc688624684a806e65387593bf5/view)

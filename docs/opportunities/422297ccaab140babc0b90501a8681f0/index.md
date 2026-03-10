@@ -28,4 +28,4 @@ The Federal Bureau of Prisons, Federal Correctional Institution (Atlanta), inten
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/422297ccaab140babc0b90501a8681f0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/422297ccaab140babc0b90501a8681f0/view)

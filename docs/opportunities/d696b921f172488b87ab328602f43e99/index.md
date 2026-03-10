@@ -36,4 +36,4 @@ Amendment 005: 1. Upload clarified Technical Questions and Answers. No further q
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d696b921f172488b87ab328602f43e99/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d696b921f172488b87ab328602f43e99/view)

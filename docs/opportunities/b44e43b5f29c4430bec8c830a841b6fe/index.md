@@ -30,4 +30,4 @@ This amendment responds to additional questions. The document "Questions and Ans
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b44e43b5f29c4430bec8c830a841b6fe/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b44e43b5f29c4430bec8c830a841b6fe/view)

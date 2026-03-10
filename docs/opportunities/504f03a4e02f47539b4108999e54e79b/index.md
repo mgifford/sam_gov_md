@@ -25,4 +25,4 @@ Proposed procurement for NSN 2940016165929 FILTER ELEMENT,INTA: Line 0001 Qty 23
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/504f03a4e02f47539b4108999e54e79b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/504f03a4e02f47539b4108999e54e79b/view)

@@ -30,4 +30,4 @@ NSN: 4330-01-398-9789 ***FILTER ELEMENT, FLUID SEE-ATTACHMENTS
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8173ab2acd6b405a8ff4ad7206a36e55/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8173ab2acd6b405a8ff4ad7206a36e55/view)

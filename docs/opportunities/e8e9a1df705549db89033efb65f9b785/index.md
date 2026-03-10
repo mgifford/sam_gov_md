@@ -28,4 +28,4 @@ Amendment #1 - Included quote format requirements. WEED ABATEMENT SERVICES AT ED
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e8e9a1df705549db89033efb65f9b785/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e8e9a1df705549db89033efb65f9b785/view)

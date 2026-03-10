@@ -26,4 +26,4 @@ TUSCARORA HERBICIDE TREATMENT
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9f91f67f98cd4532b4419d08bc10a84a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9f91f67f98cd4532b4419d08bc10a84a/view)

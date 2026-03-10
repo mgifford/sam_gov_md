@@ -26,4 +26,4 @@ Olympic National Park REHAB HURRICANE RIDGE WATER
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7c50b89eb6834040b024f5a226ef9d22/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7c50b89eb6834040b024f5a226ef9d22/view)

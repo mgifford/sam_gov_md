@@ -28,4 +28,4 @@ PLEASE SEE ATTACHED SOLICITATION FOR ALL SPECIFICATIONS, QUANTITIES, TERMS, COND
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7b21928ecf0943fbbc240848f2eaf274/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7b21928ecf0943fbbc240848f2eaf274/view)

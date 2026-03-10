@@ -26,4 +26,4 @@ Combined Synopsis/Solicitation Nevada Army National Guard April 2026 Commercial 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/32a03b84e4bf447284ddbbfa623b23e8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/32a03b84e4bf447284ddbbfa623b23e8/view)

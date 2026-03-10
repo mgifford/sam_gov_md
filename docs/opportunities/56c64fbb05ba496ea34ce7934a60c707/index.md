@@ -25,4 +25,4 @@ ITEM UNIQUE IDENTIFICATION AND VALUATION (JAN 2023)|19|||||||||||||||||||| FMS D
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/56c64fbb05ba496ea34ce7934a60c707/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/56c64fbb05ba496ea34ce7934a60c707/view)

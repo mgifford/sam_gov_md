@@ -34,4 +34,4 @@ UPDATE 4 March 2026 - Removed Topic 016; Added Topics 017 and 018; updated POC i
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2355e0f82ae048dc92db3d57988f621e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2355e0f82ae048dc92db3d57988f621e/view)

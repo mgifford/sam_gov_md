@@ -25,4 +25,4 @@ Proposed procurement for NSN 3020011827532 SPROCKET WHEEL: Line 0001 Qty 347 UI 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4c03ea857a524d23bf5bdafd399ff7dc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4c03ea857a524d23bf5bdafd399ff7dc/view)

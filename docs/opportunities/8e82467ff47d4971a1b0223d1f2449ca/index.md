@@ -25,4 +25,4 @@ Proposed procurement for NSN 5680017015374 MAT,LANDING: Line 0001 Qty 2 UI SE De
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8e82467ff47d4971a1b0223d1f2449ca/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8e82467ff47d4971a1b0223d1f2449ca/view)

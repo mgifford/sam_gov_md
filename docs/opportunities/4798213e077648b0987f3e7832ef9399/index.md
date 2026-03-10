@@ -29,4 +29,4 @@ This is a requirement for non-personal services to provide comprehensive grounds
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4798213e077648b0987f3e7832ef9399/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4798213e077648b0987f3e7832ef9399/view)

@@ -25,4 +25,4 @@ This notice replaces the one issued on March 5, 2026, which had the incorrect No
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f5e6799c60474a0992cfbe2211385be8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f5e6799c60474a0992cfbe2211385be8/view)

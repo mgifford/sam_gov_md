@@ -26,4 +26,4 @@ The Government is conducting market research to identify qualified Indian Small 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2a8c81f0d58d496590a9ee0dee14a89e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2a8c81f0d58d496590a9ee0dee14a89e/view)

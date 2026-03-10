@@ -27,4 +27,4 @@ REVISED 3-4-2026 Paragraphs 1 and 2 only STATEMENT OF WORK FOR Environmental Tes
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/dc12c5ca160d471fa6cd59102ed2cebb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/dc12c5ca160d471fa6cd59102ed2cebb/view)

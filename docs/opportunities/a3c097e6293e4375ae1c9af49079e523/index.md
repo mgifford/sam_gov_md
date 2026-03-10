@@ -33,4 +33,4 @@ NOTICE OF INTENT TO SOLE SOURCE Mission and Installation Contracting Command, Fo
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a3c097e6293e4375ae1c9af49079e523/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a3c097e6293e4375ae1c9af49079e523/view)

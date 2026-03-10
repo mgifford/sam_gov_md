@@ -28,4 +28,4 @@ The purpose of this amendment is to clarify the solicitation close date. Solicit
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bd170ff5b9b14cf9aed220dbb88cd026/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bd170ff5b9b14cf9aed220dbb88cd026/view)

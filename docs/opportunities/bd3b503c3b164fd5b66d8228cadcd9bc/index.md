@@ -25,4 +25,4 @@ Amendment 0002 to this pre-solicitation notice is to extend the anticipated post
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bd3b503c3b164fd5b66d8228cadcd9bc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bd3b503c3b164fd5b66d8228cadcd9bc/view)

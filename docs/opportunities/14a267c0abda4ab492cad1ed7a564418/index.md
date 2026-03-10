@@ -26,4 +26,4 @@ CFO WATER TROUGHS
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/14a267c0abda4ab492cad1ed7a564418/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/14a267c0abda4ab492cad1ed7a564418/view)

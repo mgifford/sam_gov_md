@@ -28,4 +28,4 @@ This is the award notice for solicitation W81K0226QA022.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ec00b287714c4f0d9170d39cb4e01138/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ec00b287714c4f0d9170d39cb4e01138/view)

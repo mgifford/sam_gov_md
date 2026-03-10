@@ -30,4 +30,4 @@ This amendment is issued to clarify the government�s request for information r
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1495ea2f888844bda020623d0c543917/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1495ea2f888844bda020623d0c543917/view)

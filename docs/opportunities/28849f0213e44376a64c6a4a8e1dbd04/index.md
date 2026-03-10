@@ -26,4 +26,4 @@ See attached RFQ N6660426Q0212 for details on this opportunity.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/28849f0213e44376a64c6a4a8e1dbd04/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/28849f0213e44376a64c6a4a8e1dbd04/view)

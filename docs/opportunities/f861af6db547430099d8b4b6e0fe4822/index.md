@@ -25,4 +25,4 @@ Proposed procurement for NSN 4820014452367 VALVE,CALIBRATED FL: Line 0001 Qty 34
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f861af6db547430099d8b4b6e0fe4822/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f861af6db547430099d8b4b6e0fe4822/view)

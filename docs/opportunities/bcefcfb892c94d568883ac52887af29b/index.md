@@ -30,4 +30,4 @@ The contractor shall provide all qualified personnel, transportation, tools, equ
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bcefcfb892c94d568883ac52887af29b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bcefcfb892c94d568883ac52887af29b/view)

@@ -26,4 +26,4 @@ REQUEST FOR QUOTE 70Z08526Q40061B00 QUOTE DUE NLT: 03/16/25, 12 PM EST ITEM REQU
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/394445e3a6f8443cba261eead400d4e5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/394445e3a6f8443cba261eead400d4e5/view)

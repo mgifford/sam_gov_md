@@ -25,4 +25,4 @@ Proposed procurement for NSN 3010012378382 INSERT,FLEXIBLE COU: Line 0001 Qty 93
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bc4b9dc08e934e419be3b45a2cf57456/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bc4b9dc08e934e419be3b45a2cf57456/view)

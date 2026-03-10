@@ -26,4 +26,4 @@ NSN: 6610-01-621-9255 P/N: 62000030-903 Quantity: 1 Noun: COMPUTER, AIR DATA APP
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/998aa1d0581747d484a994be5e564ed0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/998aa1d0581747d484a994be5e564ed0/view)

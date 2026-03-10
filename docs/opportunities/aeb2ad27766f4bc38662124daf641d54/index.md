@@ -27,4 +27,4 @@ Central Alabama VA Medical Center-Montgomery (CAVHCS) Home Oxygen and Ventilator
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/aeb2ad27766f4bc38662124daf641d54/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/aeb2ad27766f4bc38662124daf641d54/view)

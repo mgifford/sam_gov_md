@@ -25,4 +25,4 @@ CONTACT INFORMATION|4|N722.12|B4D|215-697-2558|jacob.a.tarlini.civ@us.navy.mil| 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b9d2f5654b4d492f81290012781692e5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b9d2f5654b4d492f81290012781692e5/view)

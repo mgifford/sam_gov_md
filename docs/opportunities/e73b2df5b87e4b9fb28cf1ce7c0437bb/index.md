@@ -26,4 +26,4 @@ THE WORK CONSISTS OF: Contractor will furnish all labor, materials and equipment
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e73b2df5b87e4b9fb28cf1ce7c0437bb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e73b2df5b87e4b9fb28cf1ce7c0437bb/view)

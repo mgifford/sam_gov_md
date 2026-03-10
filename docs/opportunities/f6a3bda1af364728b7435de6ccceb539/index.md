@@ -28,4 +28,4 @@ SHEET, PLASTIC, MULTI PURPOSE, ANTISTATIC CONSTRUCTION FILM, ROLL TYPE, THICKNES
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f6a3bda1af364728b7435de6ccceb539/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f6a3bda1af364728b7435de6ccceb539/view)

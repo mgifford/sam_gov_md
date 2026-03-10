@@ -30,4 +30,4 @@ The 375 CONS is seeking information for potential sources for exterior window cl
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1ef882d583534356854157eaca4bac02/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1ef882d583534356854157eaca4bac02/view)

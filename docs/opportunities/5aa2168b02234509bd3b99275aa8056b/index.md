@@ -28,4 +28,4 @@ The Department of Veterans Affairs intends to award a sole source purchase order
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5aa2168b02234509bd3b99275aa8056b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5aa2168b02234509bd3b99275aa8056b/view)

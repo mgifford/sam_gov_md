@@ -29,4 +29,4 @@ Request for Quote This RFQ includes and incorporates clauses from the Federal Ac
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2e145132b5ef48b588609da7b0b5276e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2e145132b5ef48b588609da7b0b5276e/view)

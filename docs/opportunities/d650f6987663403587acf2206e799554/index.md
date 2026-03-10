@@ -25,4 +25,4 @@ Proposed procurement for NSN 3040012433874 LEVER,REMOTE CONTRO: Line 0001 Qty 36
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d650f6987663403587acf2206e799554/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d650f6987663403587acf2206e799554/view)

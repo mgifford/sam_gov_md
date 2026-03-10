@@ -36,4 +36,4 @@ Request for Quotes FA301626R0015 Blanket Purchase Agreement (BPA) For MWD Food P
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/83c4e4806831448fa3a2f5904f7f7c21/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/83c4e4806831448fa3a2f5904f7f7c21/view)

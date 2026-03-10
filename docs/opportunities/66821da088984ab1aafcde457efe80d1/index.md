@@ -28,4 +28,4 @@ Contract award to MCW-TMG1 LLC
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/66821da088984ab1aafcde457efe80d1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/66821da088984ab1aafcde457efe80d1/view)

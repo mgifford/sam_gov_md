@@ -25,4 +25,4 @@ N0001426R3002 DRAFT REQUEST FOR PROPOSAL The Office of Naval Research (ONR) is p
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e0707dc45f4f47669e8a26b96216d61a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e0707dc45f4f47669e8a26b96216d61a/view)

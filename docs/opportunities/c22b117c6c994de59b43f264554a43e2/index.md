@@ -25,4 +25,4 @@ Proposed procurement for NSN 3110015550722 ROLLER,BEARING.: Line 0001 Qty 1282 U
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c22b117c6c994de59b43f264554a43e2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c22b117c6c994de59b43f264554a43e2/view)

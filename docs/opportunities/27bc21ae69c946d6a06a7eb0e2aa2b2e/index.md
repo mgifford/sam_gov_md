@@ -28,4 +28,4 @@ The Department of Veteran Affairs, Veterans Health Administration, will be solic
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/27bc21ae69c946d6a06a7eb0e2aa2b2e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/27bc21ae69c946d6a06a7eb0e2aa2b2e/view)

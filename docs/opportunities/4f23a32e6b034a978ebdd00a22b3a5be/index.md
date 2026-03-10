@@ -25,4 +25,4 @@ Proposed procurement for NSN 1680015515577 COMPUTER,SPECIAL PU: Line 0001 Qty 11
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4f23a32e6b034a978ebdd00a22b3a5be/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4f23a32e6b034a978ebdd00a22b3a5be/view)

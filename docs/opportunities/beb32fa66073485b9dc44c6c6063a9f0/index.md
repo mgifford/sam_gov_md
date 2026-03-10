@@ -25,4 +25,4 @@ Proposed procurement for NSN 2510011527768 STRAP,DOOR CHECK,VE: Line 0001 Qty 67
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/beb32fa66073485b9dc44c6c6063a9f0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/beb32fa66073485b9dc44c6c6063a9f0/view)

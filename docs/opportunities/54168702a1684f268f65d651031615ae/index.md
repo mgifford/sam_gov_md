@@ -28,4 +28,4 @@ The Department of Veterans Affairs, Network Contracting Office (NCO) 6 intends t
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/54168702a1684f268f65d651031615ae/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/54168702a1684f268f65d651031615ae/view)

@@ -35,4 +35,4 @@ This is a combined synopisis/solicitation for a Multiple Award Blanket Purchase 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/98b4b8df40264f58b6c025a32af0c523/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/98b4b8df40264f58b6c025a32af0c523/view)

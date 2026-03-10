@@ -32,4 +32,4 @@ N00164-26-Q-0077 – SOLE SOURCE – TRANSFORMER MODULES – FSG 5950 - NAICS 33
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6da89880e6e742c48b528447eb8c75a8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6da89880e6e742c48b528447eb8c75a8/view)

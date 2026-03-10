@@ -28,4 +28,4 @@ The Harry S Truman Memorial Veteran’s Hospital is in need of Automatic Endosco
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/549faca4b817490182eec49851daf71b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/549faca4b817490182eec49851daf71b/view)

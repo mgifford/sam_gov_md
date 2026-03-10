@@ -27,4 +27,4 @@ PURCHASE OF CEDAR SHAKES (24") FOR GREAT SMOKY MOUNTAINS NATIONAL PARK
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/12a2b9ce09464a7ea5024748cf2fa0b9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/12a2b9ce09464a7ea5024748cf2fa0b9/view)

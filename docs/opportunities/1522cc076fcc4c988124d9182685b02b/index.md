@@ -30,4 +30,4 @@ Notification IAW FAR 12.301(b) Description: Indefinite Delivery Indefinite Quant
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1522cc076fcc4c988124d9182685b02b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1522cc076fcc4c988124d9182685b02b/view)

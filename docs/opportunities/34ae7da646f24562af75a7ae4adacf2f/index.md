@@ -26,4 +26,4 @@ This is a Sole Source Procurement - Posting Purpose Only.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/34ae7da646f24562af75a7ae4adacf2f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/34ae7da646f24562af75a7ae4adacf2f/view)

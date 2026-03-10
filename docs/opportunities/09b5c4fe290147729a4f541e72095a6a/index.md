@@ -26,4 +26,4 @@ BLM-CO WRFO VAULT TOILET CLEANING AND PUMPING Amendment 0002 is to extend the qu
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/09b5c4fe290147729a4f541e72095a6a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/09b5c4fe290147729a4f541e72095a6a/view)

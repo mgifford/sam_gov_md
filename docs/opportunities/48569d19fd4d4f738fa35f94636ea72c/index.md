@@ -26,4 +26,4 @@ OK - Sequoyah NWR - Lead-Free Ammunition
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/48569d19fd4d4f738fa35f94636ea72c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/48569d19fd4d4f738fa35f94636ea72c/view)

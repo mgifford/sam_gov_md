@@ -26,4 +26,4 @@ MRG SFD CENTRIFUGAL PUMPS (Trailer Mounted)
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a3d5d54c0d95452982d941f13853a8c4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a3d5d54c0d95452982d941f13853a8c4/view)

@@ -34,4 +34,4 @@ The Contractor shall provide all equipment, supplies, labor, manpower, fuel, tra
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/92584affdc594761a455cb5a20e2f0d6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/92584affdc594761a455cb5a20e2f0d6/view)

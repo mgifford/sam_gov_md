@@ -25,4 +25,4 @@ Proposed procurement for NSN 1005000506357 ROD SECTION, CLEANING: Line 0001 Qty 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6dcb57ea628745a6a9d427028ebff8cc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6dcb57ea628745a6a9d427028ebff8cc/view)

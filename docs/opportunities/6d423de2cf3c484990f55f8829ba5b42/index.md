@@ -30,4 +30,4 @@ Please see attached documents Brand Name: G.S. Blodgett LLC
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6d423de2cf3c484990f55f8829ba5b42/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6d423de2cf3c484990f55f8829ba5b42/view)

@@ -28,4 +28,4 @@ Indefinite Delivery Indefinite Quantity (IDIQ) Contract for Exclusive Use Amphib
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/db617a098ec64c9990c90a95747ae991/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/db617a098ec64c9990c90a95747ae991/view)

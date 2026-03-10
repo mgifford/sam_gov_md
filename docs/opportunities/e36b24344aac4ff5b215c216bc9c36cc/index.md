@@ -25,4 +25,4 @@ Proposed procurement for NSN 5920009071245 FUSE,CARTRIDGE: Line 0001 Qty 87 UI E
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e36b24344aac4ff5b215c216bc9c36cc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e36b24344aac4ff5b215c216bc9c36cc/view)

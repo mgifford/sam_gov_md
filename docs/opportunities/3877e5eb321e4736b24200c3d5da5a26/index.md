@@ -25,4 +25,4 @@ Proposed procurement for NSN 4720016850361 HOSE ASSEMBLY,NONME: Line 0001 Qty 8 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3877e5eb321e4736b24200c3d5da5a26/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3877e5eb321e4736b24200c3d5da5a26/view)

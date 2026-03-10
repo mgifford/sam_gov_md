@@ -27,4 +27,4 @@ Combined Synopsis/Solicitation Notice Combined Synopsis/Solicitation Notice Page
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c0726314772046bba21f365f95cfd109/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c0726314772046bba21f365f95cfd109/view)

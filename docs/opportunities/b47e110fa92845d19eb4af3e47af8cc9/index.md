@@ -32,4 +32,4 @@ The Department of the Interior, Interior Business Center (IBC), Acquisition Serv
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b47e110fa92845d19eb4af3e47af8cc9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b47e110fa92845d19eb4af3e47af8cc9/view)

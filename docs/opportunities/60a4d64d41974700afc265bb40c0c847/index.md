@@ -25,4 +25,4 @@ Proposed procurement for NSN 1005015661917 DUAL AXIS FOG GYRO: Line 0001 Qty 5 U
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/60a4d64d41974700afc265bb40c0c847/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/60a4d64d41974700afc265bb40c0c847/view)

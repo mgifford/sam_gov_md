@@ -28,4 +28,4 @@ The purpose of Amendment 0001, to Request for Information (RFI), 36C10B26Q0216, 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6f3ebb791d7d4fa1ac80412a8f2d89e4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6f3ebb791d7d4fa1ac80412a8f2d89e4/view)

@@ -27,4 +27,4 @@ Page 6 of 6 DESCRIPTION The Veterans Health Administration (VHA) Non-Expendable 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/65d40b0c40ff4406b35ec3e7fdb9473b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/65d40b0c40ff4406b35ec3e7fdb9473b/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 3615014470047 RING,SECURITY: Line 0001 Qty 4 UI EA 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/aeb32d2c30c748b19164888beb457f4c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/aeb32d2c30c748b19164888beb457f4c/view)

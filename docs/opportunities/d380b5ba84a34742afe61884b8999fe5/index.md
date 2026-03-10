@@ -31,4 +31,4 @@ Amendment 0001 Posted 3/9/26 to: Provide answers to submitted questions. 697DCK-
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d380b5ba84a34742afe61884b8999fe5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d380b5ba84a34742afe61884b8999fe5/view)

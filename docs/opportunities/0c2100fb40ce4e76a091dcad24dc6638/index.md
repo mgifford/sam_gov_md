@@ -26,4 +26,4 @@ DESCRIPTION. The National Park Service, Sequoia and Kings Canyon National Parks,
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0c2100fb40ce4e76a091dcad24dc6638/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0c2100fb40ce4e76a091dcad24dc6638/view)

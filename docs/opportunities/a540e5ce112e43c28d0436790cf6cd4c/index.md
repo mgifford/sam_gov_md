@@ -32,4 +32,4 @@ REPAIR QUALIFICATION REQUIREMENTS NSN: 5998-01-464-4241 P/N: 792R998G01 Noun: RF
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a540e5ce112e43c28d0436790cf6cd4c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a540e5ce112e43c28d0436790cf6cd4c/view)

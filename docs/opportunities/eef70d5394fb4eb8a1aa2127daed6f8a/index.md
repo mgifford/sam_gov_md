@@ -34,4 +34,4 @@ Amendment 0003 posted on March 9, 2026 shares Questions and Answers 3. Amendment
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/eef70d5394fb4eb8a1aa2127daed6f8a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/eef70d5394fb4eb8a1aa2127daed6f8a/view)

@@ -28,4 +28,4 @@ The solicitation package for Base Test Support Services (BTSS) Follow-on support
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5866b53c597d4bc986409fde55455db4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5866b53c597d4bc986409fde55455db4/view)

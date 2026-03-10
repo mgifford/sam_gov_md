@@ -25,4 +25,4 @@ Q&A as of 04MAR2026: Q1. Visual Requirements The Purchase Description notes an ï
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/91fc0f61dd064b229304c47663c3b69e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/91fc0f61dd064b229304c47663c3b69e/view)

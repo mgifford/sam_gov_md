@@ -25,4 +25,4 @@ INDUSTRY DAY NOTICE IT Operations, Helpdesk, Audit, Cybersecurity, and AI-Enable
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c96af4d4a85a423fb7495c4526d6d05b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c96af4d4a85a423fb7495c4526d6d05b/view)

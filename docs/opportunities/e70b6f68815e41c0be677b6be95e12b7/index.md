@@ -32,4 +32,4 @@ This procurement is for the manufacture and delivery of Boots, Temperate Weather
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e70b6f68815e41c0be677b6be95e12b7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e70b6f68815e41c0be677b6be95e12b7/view)

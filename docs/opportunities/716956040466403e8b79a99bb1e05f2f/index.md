@@ -28,4 +28,4 @@ This Sources Sought Notice is for planning purposes only and shall not be consid
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/716956040466403e8b79a99bb1e05f2f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/716956040466403e8b79a99bb1e05f2f/view)

@@ -36,4 +36,4 @@ The Government is looking for Aircraft Wash Rack, non-personal service (includin
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c41ec151895245659c4f6513dfabd993/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c41ec151895245659c4f6513dfabd993/view)

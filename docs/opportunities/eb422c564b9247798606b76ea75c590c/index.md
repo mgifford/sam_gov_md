@@ -25,4 +25,4 @@ Proposed procurement for NSN 4730013680180 BUSHING,PIPE: Line 0001 Qty 34 UI EA 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/eb422c564b9247798606b76ea75c590c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/eb422c564b9247798606b76ea75c590c/view)

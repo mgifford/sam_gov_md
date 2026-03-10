@@ -24,4 +24,4 @@ THIS IS A NOTICE OF INTENT TO AWARD A SOLE SOURCE ORDER AND NOT A REQUEST FOR QU
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1bcb5c87f2bd4244b153fd31a1560f94/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1bcb5c87f2bd4244b153fd31a1560f94/view)

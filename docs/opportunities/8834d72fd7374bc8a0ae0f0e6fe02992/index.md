@@ -26,4 +26,4 @@ Purchase of Turbine Runner for Unit A9
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8834d72fd7374bc8a0ae0f0e6fe02992/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8834d72fd7374bc8a0ae0f0e6fe02992/view)

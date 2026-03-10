@@ -26,4 +26,4 @@ SPE4A626RX636 THE PURPOSE OF THIS NOTICE IS TO IDENTIFY SOURCES I/A/W/ DFARS REG
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/943555abfb5c437482c71ee917410c4d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/943555abfb5c437482c71ee917410c4d/view)

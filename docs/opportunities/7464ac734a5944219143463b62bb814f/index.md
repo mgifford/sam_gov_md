@@ -25,4 +25,4 @@ Proposed procurement for NSN 3010009398963 CLUTCH,POSITIVE,NON: Line 0001 Qty 36
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7464ac734a5944219143463b62bb814f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7464ac734a5944219143463b62bb814f/view)

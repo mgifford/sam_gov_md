@@ -25,4 +25,4 @@ Proposed procurement for NSN 3040014519840 SHAFT,STRAIGHT: Line 0001 Qty 301 UI 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c42626f1569e46c49374dc97a6037413/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c42626f1569e46c49374dc97a6037413/view)

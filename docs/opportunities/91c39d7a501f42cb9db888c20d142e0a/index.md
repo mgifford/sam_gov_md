@@ -30,4 +30,4 @@ The 354th Contracting Squadron at Eielson AFB. AK is conducting market research 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/91c39d7a501f42cb9db888c20d142e0a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/91c39d7a501f42cb9db888c20d142e0a/view)

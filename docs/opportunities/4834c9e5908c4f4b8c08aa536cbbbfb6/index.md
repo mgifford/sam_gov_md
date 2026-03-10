@@ -25,4 +25,4 @@ Proposed procurement for NSN 3040003336809 CONNECTING LINK,RIG: Line 0001 Qty 82
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4834c9e5908c4f4b8c08aa536cbbbfb6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4834c9e5908c4f4b8c08aa536cbbbfb6/view)

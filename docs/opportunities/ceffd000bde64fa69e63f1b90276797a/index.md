@@ -27,4 +27,4 @@ notice_id: ceffd000bde64fa69e63f1b90276797a
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ceffd000bde64fa69e63f1b90276797a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ceffd000bde64fa69e63f1b90276797a/view)

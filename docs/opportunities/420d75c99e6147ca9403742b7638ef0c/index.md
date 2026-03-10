@@ -19,4 +19,4 @@ This Solicitation is associated with the Army's Open Solicitation, W9128Z-25-S-A
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/420d75c99e6147ca9403742b7638ef0c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/420d75c99e6147ca9403742b7638ef0c/view)

@@ -25,4 +25,4 @@ The DEA has a need of Skydio R10. The DEA intends to award a firm-fixed price so
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d4d5551e622d4249bc594c0cdef7db7b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d4d5551e622d4249bc594c0cdef7db7b/view)

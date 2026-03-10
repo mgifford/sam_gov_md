@@ -25,4 +25,4 @@ Proposed procurement for NSN 4460002215451 PRECIPITATOR,FOG: Line 0001 Qty 2 UI 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/43d7688e5d1f4325958c158b2ac9561f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/43d7688e5d1f4325958c158b2ac9561f/view)

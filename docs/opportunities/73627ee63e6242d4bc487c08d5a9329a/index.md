@@ -25,4 +25,4 @@ Proposed procurement for NSN 4310017092161 VACUUM PUMP,ROTARY: Line 0001 Qty 6 U
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/73627ee63e6242d4bc487c08d5a9329a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/73627ee63e6242d4bc487c08d5a9329a/view)

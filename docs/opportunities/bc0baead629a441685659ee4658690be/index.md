@@ -25,4 +25,4 @@ Proposed procurement for NSN 4910015764586 MAINTENANCE KIT,VEH: Line 0001 Qty 34
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bc0baead629a441685659ee4658690be/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bc0baead629a441685659ee4658690be/view)

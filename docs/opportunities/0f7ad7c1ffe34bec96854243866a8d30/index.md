@@ -28,4 +28,4 @@ WI-GB FISH RESRC OFC-FISH MARKING IDIQ Call: #20
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0f7ad7c1ffe34bec96854243866a8d30/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0f7ad7c1ffe34bec96854243866a8d30/view)

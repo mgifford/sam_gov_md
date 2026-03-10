@@ -29,4 +29,4 @@ NASA/MSFC has a requirement for next-generation upper stages for use in Space La
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9a93c52c2eba4f5abed0305b3fb4512a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9a93c52c2eba4f5abed0305b3fb4512a/view)

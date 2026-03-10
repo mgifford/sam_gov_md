@@ -30,4 +30,4 @@ This synopsis is prepared in accordance with the format outlined in Subpart 12.1
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9837a680b1f54064aa04b9ccb0a004f7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9837a680b1f54064aa04b9ccb0a004f7/view)

@@ -30,4 +30,4 @@ The Norfolk District, U.S. Army Corps of Engineers is soliciting lease proposals
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/69b92509c25b418aa83b116207416f1c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/69b92509c25b418aa83b116207416f1c/view)

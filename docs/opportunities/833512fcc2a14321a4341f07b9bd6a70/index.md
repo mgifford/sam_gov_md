@@ -28,4 +28,4 @@ Naval Reactors Laboratory Field Office (NRLFO) AMO–Schenectady, NY and AMO-Pit
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/833512fcc2a14321a4341f07b9bd6a70/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/833512fcc2a14321a4341f07b9bd6a70/view)

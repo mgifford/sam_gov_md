@@ -25,4 +25,4 @@ One each of NSN: 5985-01-146-9283
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1553969a9f6e4a468048e27a99d6e534/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1553969a9f6e4a468048e27a99d6e534/view)

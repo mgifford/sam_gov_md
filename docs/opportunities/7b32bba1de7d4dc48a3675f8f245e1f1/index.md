@@ -29,4 +29,4 @@ MAWTS Utility Vehicles WTI 2-26 PWS
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7b32bba1de7d4dc48a3675f8f245e1f1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7b32bba1de7d4dc48a3675f8f245e1f1/view)

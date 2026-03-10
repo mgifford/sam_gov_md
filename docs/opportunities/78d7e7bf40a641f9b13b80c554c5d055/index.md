@@ -35,4 +35,4 @@ N00164-26-Q-0072 – FILL/PURGE VISIT – PSC M2AC – NAICS 333415 ISSUE DATE 0
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/78d7e7bf40a641f9b13b80c554c5d055/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/78d7e7bf40a641f9b13b80c554c5d055/view)

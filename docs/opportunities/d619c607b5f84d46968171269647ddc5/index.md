@@ -29,4 +29,4 @@ Grounds Maintenance Contract for Togus National Cemetery Base + 4 Option Years 3
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d619c607b5f84d46968171269647ddc5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d619c607b5f84d46968171269647ddc5/view)

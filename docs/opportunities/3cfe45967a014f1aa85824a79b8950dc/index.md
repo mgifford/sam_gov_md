@@ -28,4 +28,4 @@ The Base Emergency Communications System (BECS) intends to solicit and award Sol
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3cfe45967a014f1aa85824a79b8950dc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3cfe45967a014f1aa85824a79b8950dc/view)

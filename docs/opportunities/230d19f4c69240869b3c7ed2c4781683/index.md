@@ -26,4 +26,4 @@ This is an amendment to solicitaiton # 36C24926Q0110
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/230d19f4c69240869b3c7ed2c4781683/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/230d19f4c69240869b3c7ed2c4781683/view)

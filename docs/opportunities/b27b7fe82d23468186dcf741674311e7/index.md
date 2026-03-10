@@ -25,4 +25,4 @@ Please submit your bids/ quotes in Unison Marketplace: https://protect2.fireeye.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b27b7fe82d23468186dcf741674311e7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b27b7fe82d23468186dcf741674311e7/view)

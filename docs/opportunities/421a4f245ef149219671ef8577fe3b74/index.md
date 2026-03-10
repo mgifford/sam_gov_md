@@ -25,4 +25,4 @@ Proposed procurement for NSN 5935005947689 CONNECTOR,PLUG,ELEC: Line 0001 Qty 12
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/421a4f245ef149219671ef8577fe3b74/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/421a4f245ef149219671ef8577fe3b74/view)

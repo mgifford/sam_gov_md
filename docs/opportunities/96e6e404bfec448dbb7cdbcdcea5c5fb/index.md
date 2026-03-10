@@ -26,4 +26,4 @@ This is a combined synopsis/solicitation for commercial services prepared in acc
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/96e6e404bfec448dbb7cdbcdcea5c5fb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/96e6e404bfec448dbb7cdbcdcea5c5fb/view)

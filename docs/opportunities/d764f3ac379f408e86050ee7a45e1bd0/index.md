@@ -26,4 +26,4 @@ The project site is located at Dam Neck, Building 372. The Contractor shall util
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d764f3ac379f408e86050ee7a45e1bd0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d764f3ac379f408e86050ee7a45e1bd0/view)

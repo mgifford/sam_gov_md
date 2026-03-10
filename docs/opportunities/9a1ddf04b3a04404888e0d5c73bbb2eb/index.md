@@ -25,4 +25,4 @@ Proposed procurement for NSN 4510015781029 DRAIN,FLOOR: Line 0001 Qty 90 UI EA D
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9a1ddf04b3a04404888e0d5c73bbb2eb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9a1ddf04b3a04404888e0d5c73bbb2eb/view)

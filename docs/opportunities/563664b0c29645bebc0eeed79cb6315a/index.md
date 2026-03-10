@@ -25,4 +25,4 @@ Proposed procurement for NSN 3040014972748 WEIGHT,COUNTERBALAN: Line 0001 Qty 22
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/563664b0c29645bebc0eeed79cb6315a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/563664b0c29645bebc0eeed79cb6315a/view)

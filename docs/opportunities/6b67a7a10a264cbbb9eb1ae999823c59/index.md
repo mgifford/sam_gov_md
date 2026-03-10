@@ -31,4 +31,4 @@ CONTACT INFORMATION|4|N774.3|DZ1|771-229-0488|russell.w.kreider.civ@us.navy.mil|
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6b67a7a10a264cbbb9eb1ae999823c59/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6b67a7a10a264cbbb9eb1ae999823c59/view)

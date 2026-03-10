@@ -25,4 +25,4 @@ Proposed procurement for NSN 5845144798926 HOLDER SUBASSEMBLY,: Line 0001 Qty 17
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7440486b418b4ab4be32b6dd6bc49a91/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7440486b418b4ab4be32b6dd6bc49a91/view)

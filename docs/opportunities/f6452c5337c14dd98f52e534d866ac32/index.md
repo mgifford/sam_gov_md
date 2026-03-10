@@ -25,4 +25,4 @@ Proposed procurement for NSN 3020010039124 RATCHET WHEEL: Line 0001 Qty 188 UI E
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f6452c5337c14dd98f52e534d866ac32/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f6452c5337c14dd98f52e534d866ac32/view)

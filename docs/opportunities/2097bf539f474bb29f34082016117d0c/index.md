@@ -28,4 +28,4 @@ Solicitation will result in a Commercial Indefinite Delivery Contract IAW FAR 13
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2097bf539f474bb29f34082016117d0c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2097bf539f474bb29f34082016117d0c/view)

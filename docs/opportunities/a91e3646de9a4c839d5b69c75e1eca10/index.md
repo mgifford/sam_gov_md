@@ -25,4 +25,4 @@ Proposed procurement for NSN 1095015286893 CARTRIDGE,ELECTRICA: Line 0001 Qty 58
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a91e3646de9a4c839d5b69c75e1eca10/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a91e3646de9a4c839d5b69c75e1eca10/view)

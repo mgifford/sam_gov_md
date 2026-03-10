@@ -25,4 +25,4 @@ Sources Sought Notice only. Unarmed security guard service at the Bakersfield Na
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1046b5cab59f4b73b51d78c9407d8641/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1046b5cab59f4b73b51d78c9407d8641/view)

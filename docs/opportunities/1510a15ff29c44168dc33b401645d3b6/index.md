@@ -25,4 +25,4 @@ Proposed procurement for NSN 4921000424428 ADAPTER ASSEMBLY,CY: Line 0001 Qty 2 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1510a15ff29c44168dc33b401645d3b6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1510a15ff29c44168dc33b401645d3b6/view)

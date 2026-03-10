@@ -26,4 +26,4 @@ Synopsis This solicitation originated from a purchase request for two Neros, Arc
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c359a6c170c04323ac668d6a565c780a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c359a6c170c04323ac668d6a565c780a/view)

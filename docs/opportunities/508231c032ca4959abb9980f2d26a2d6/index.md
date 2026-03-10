@@ -110,4 +110,4 @@ CONTACT INFORMATION|4|N774.8|PFM|717-605-4682|randy.e.stoker.civ@us.navy.mil| IT
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/508231c032ca4959abb9980f2d26a2d6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/508231c032ca4959abb9980f2d26a2d6/view)

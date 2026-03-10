@@ -31,4 +31,4 @@ CONTACT INFORMATION|4|N713.26|GJG|(771) 229-1473|joseph.d.weaver22.civ@us.navy.m
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2a8318ad1f1642b5828626f00036ff92/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2a8318ad1f1642b5828626f00036ff92/view)

@@ -28,4 +28,4 @@ This is a Pre-Solicitation Notice for the Department of Veterans Affairs, Networ
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4e1f266fc6b942eb980e3e8d965049aa/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4e1f266fc6b942eb980e3e8d965049aa/view)

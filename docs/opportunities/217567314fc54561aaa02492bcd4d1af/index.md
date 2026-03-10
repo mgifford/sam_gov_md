@@ -25,4 +25,4 @@ Synopsis for W912CH-25-R-0206– Parts Kit, Hydraulic Pump ARMY CONTRACTING COMM
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/217567314fc54561aaa02492bcd4d1af/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/217567314fc54561aaa02492bcd4d1af/view)

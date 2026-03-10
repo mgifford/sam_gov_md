@@ -25,4 +25,4 @@ U.S. Customs and Border Protection (CBP) is conducting market researh for Horse 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b7082ecec4b945c5b3eabae74730a79d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b7082ecec4b945c5b3eabae74730a79d/view)

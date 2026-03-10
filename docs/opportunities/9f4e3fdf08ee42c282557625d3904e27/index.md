@@ -25,4 +25,4 @@ Proposed procurement for NSN 5330008876795 GASKET,SHIPPING: Line 0001 Qty 27 UI 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9f4e3fdf08ee42c282557625d3904e27/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9f4e3fdf08ee42c282557625d3904e27/view)

@@ -26,4 +26,4 @@ RRR GRADE NIOBIUM PLATE
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0d497e45f94a413ab03c884c0c652020/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0d497e45f94a413ab03c884c0c652020/view)

@@ -26,4 +26,4 @@ Description Miniwarehouses) ATTACHED: DELINEATED AREA OF CONSIDERATION (MAP) Pre
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7583d57906624e9f9b55c84810bbd414/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7583d57906624e9f9b55c84810bbd414/view)

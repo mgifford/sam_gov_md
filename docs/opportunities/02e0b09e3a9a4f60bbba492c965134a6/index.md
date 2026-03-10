@@ -25,4 +25,4 @@ Amendment 1: The purpose of this amendment is to provide answers to solicitation
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/02e0b09e3a9a4f60bbba492c965134a6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/02e0b09e3a9a4f60bbba492c965134a6/view)

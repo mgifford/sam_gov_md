@@ -36,4 +36,4 @@ Non-Personal Services – ITDLM Hotel Blanket Purchase Agreement for Fort Sill, 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0b329d7bb49847bf8f73b2a34bc3284e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0b329d7bb49847bf8f73b2a34bc3284e/view)

@@ -26,4 +26,4 @@ Neutron Irradiation Geochronology
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/47e3c1ca969a475f939ed0f152571e7a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/47e3c1ca969a475f939ed0f152571e7a/view)

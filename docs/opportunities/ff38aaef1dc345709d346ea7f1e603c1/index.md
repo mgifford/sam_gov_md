@@ -25,4 +25,4 @@ Test, Teardown, and Evalution (TT&E) and/or Repair of NSN: 6110-01-317-2372FW P/
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ff38aaef1dc345709d346ea7f1e603c1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ff38aaef1dc345709d346ea7f1e603c1/view)

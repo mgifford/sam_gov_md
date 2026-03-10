@@ -26,4 +26,4 @@ The 309 Software Engineering Group's (SWEG) 555 Software Engineering Squadron (S
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f30ea8d0705049fb98d8d779d72054ae/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f30ea8d0705049fb98d8d779d72054ae/view)

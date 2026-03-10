@@ -28,4 +28,4 @@ This Request for Information (RFI) describes the services required to provide En
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a514f249751a417592fddeaf3f3e37b3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a514f249751a417592fddeaf3f3e37b3/view)

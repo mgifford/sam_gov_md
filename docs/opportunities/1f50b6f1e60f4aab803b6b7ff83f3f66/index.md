@@ -28,4 +28,4 @@ DRYDOCK REPAIRS FOR THE CGC WYACONDA POP: 07 JULY 2026- 14 September 2026 SEE AT
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1f50b6f1e60f4aab803b6b7ff83f3f66/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1f50b6f1e60f4aab803b6b7ff83f3f66/view)

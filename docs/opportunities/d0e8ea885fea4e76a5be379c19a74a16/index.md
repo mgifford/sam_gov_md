@@ -26,4 +26,4 @@ CMS is currently utilizing the Software-as-a-Service (Saas) brand name product c
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d0e8ea885fea4e76a5be379c19a74a16/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d0e8ea885fea4e76a5be379c19a74a16/view)

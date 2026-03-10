@@ -25,4 +25,4 @@ Proposed procurement for NSN 5430016835105 GROUND CLOTH: Line 0001 Qty 30 UI EA 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/db460c4734bf4f7ba246b9f9df9d88b7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/db460c4734bf4f7ba246b9f9df9d88b7/view)

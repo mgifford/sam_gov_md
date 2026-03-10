@@ -36,4 +36,4 @@ Soliciatation for Defense Intelligence Agency Missile and Space Intelligence Cen
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/53365d01fb614a0084abb971b40d6781/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/53365d01fb614a0084abb971b40d6781/view)

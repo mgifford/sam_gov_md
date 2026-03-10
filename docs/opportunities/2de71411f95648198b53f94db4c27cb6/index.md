@@ -25,4 +25,4 @@ NSN 4Y-4320-010603497, TDP VER 001, QTY 2 EA, DELIVER TO N68438, RECEIVING OFFIC
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2de71411f95648198b53f94db4c27cb6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2de71411f95648198b53f94db4c27cb6/view)

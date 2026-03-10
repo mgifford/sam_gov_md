@@ -30,4 +30,4 @@ This is an award to provide Grounds Maintenance Services at the Jadwin Building,
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f1827ddb7b3a418eba74b8b952ba1ba5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f1827ddb7b3a418eba74b8b952ba1ba5/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 4620015648442 CELL AND VALVE ASSE: Line 0001 Qty 37
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1118e3fd8826464cada62816680b8253/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1118e3fd8826464cada62816680b8253/view)

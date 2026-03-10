@@ -25,4 +25,4 @@ Proposed procurement for NSN 2540014108789 SWITCH,STOPLIGHT,AU: Line 0001 Qty 12
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5c4f6c8ae46a45e58f7ac6483795f4b3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5c4f6c8ae46a45e58f7ac6483795f4b3/view)

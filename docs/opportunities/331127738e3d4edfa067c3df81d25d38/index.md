@@ -28,4 +28,4 @@ The contractor shall provide all services, labor, travel, transportation, materi
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/331127738e3d4edfa067c3df81d25d38/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/331127738e3d4edfa067c3df81d25d38/view)

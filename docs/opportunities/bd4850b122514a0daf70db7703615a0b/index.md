@@ -25,4 +25,4 @@ Proposed procurement for NSN 2910014887002 FILTER,FLUID: Line 0001 Qty 348 UI EA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bd4850b122514a0daf70db7703615a0b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bd4850b122514a0daf70db7703615a0b/view)

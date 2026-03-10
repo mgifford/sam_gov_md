@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340014877884 CAP,PROTECTIVE,DUST: Line 0001 Qty 30
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/54a64f8cc9f84269a239fb01f25acbac/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/54a64f8cc9f84269a239fb01f25acbac/view)

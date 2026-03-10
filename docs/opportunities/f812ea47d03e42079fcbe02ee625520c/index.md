@@ -25,4 +25,4 @@ Proposed procurement for NSN 6145011943085 CABLE,POWER,ELECTRI: Line 0001 Qty 80
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f812ea47d03e42079fcbe02ee625520c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f812ea47d03e42079fcbe02ee625520c/view)

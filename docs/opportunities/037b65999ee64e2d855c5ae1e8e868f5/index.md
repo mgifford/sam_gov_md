@@ -28,4 +28,4 @@ Request for Quotes: Inspection and Repairs on 4 Above Ground Fuel Storage Tanks 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/037b65999ee64e2d855c5ae1e8e868f5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/037b65999ee64e2d855c5ae1e8e868f5/view)

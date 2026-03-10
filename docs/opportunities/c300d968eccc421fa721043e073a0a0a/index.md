@@ -25,4 +25,4 @@ Proposed procurement for NSN 5977017205593 BRUSH,ELECTRICAL CO: Line 0001 Qty 11
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c300d968eccc421fa721043e073a0a0a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c300d968eccc421fa721043e073a0a0a/view)

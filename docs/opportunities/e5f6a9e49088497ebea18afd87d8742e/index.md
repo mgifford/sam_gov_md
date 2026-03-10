@@ -25,4 +25,4 @@ Proposed procurement for NSN 5355002476244 DIAL,SCALE: Line 0001 Qty 52 UI EA De
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e5f6a9e49088497ebea18afd87d8742e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e5f6a9e49088497ebea18afd87d8742e/view)

@@ -29,4 +29,4 @@ Contractor shall provide all supervision, labor, materials, and equipment to ins
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f22d8b8320854800ba7b4c10dac27118/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f22d8b8320854800ba7b4c10dac27118/view)

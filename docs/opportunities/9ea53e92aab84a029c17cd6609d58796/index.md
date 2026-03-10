@@ -32,4 +32,4 @@ The attachment Amendment 0002 corrects some information in Amendment 0001, chang
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9ea53e92aab84a029c17cd6609d58796/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9ea53e92aab84a029c17cd6609d58796/view)

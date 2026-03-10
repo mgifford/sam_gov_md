@@ -33,4 +33,4 @@ The VA Heartland Health Care Network (VISN 15) requires a VISN-wide contingency 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f8802221baa741ec8293d70e867b8b1d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f8802221baa741ec8293d70e867b8b1d/view)

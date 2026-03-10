@@ -25,4 +25,4 @@ NSN 1H-4820-013876686, TDP VER 004, REF NR 3D71719-001, QTY 13 EA, DELIVER TO W2
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4d436bd3a81c45f59697eaf72cc22d28/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4d436bd3a81c45f59697eaf72cc22d28/view)

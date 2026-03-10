@@ -25,4 +25,4 @@ Proposed procurement for NSN 3040016965232 ACTUATOR,MECHANICAL: Line 0001 Qty 56
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/30dbc5b6ff484f0198c86c8daed1900a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/30dbc5b6ff484f0198c86c8daed1900a/view)

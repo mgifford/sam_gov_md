@@ -37,4 +37,4 @@ AMENDMENT-DESCRIPTION The purpose of this amendment is to provide the following 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a4dea941d44d4ec1bacff5d34c371a16/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a4dea941d44d4ec1bacff5d34c371a16/view)

@@ -26,4 +26,4 @@ This Market Survey is for information only, to be used for preliminary planning 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a1bb6a6973a54bd68582d77358e9b51d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a1bb6a6973a54bd68582d77358e9b51d/view)

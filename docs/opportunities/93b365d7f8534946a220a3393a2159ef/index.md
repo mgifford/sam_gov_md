@@ -25,4 +25,4 @@ This is a sole source requirement for the repair of the following: Nomenclature:
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/93b365d7f8534946a220a3393a2159ef/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/93b365d7f8534946a220a3393a2159ef/view)

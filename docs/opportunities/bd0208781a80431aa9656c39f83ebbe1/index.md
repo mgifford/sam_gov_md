@@ -31,4 +31,4 @@ Amendment 0001: Published 3/6/2026 The purpose of this amenment is to provide th
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bd0208781a80431aa9656c39f83ebbe1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bd0208781a80431aa9656c39f83ebbe1/view)

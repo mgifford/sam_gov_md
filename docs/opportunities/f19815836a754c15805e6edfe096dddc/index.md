@@ -34,4 +34,4 @@ This is a public notice prepared in accordance with Federal Acquisition Regulati
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f19815836a754c15805e6edfe096dddc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f19815836a754c15805e6edfe096dddc/view)

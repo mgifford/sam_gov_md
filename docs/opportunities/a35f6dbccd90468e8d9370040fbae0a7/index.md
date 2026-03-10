@@ -28,4 +28,4 @@ This posting will only include Bidders� Library documents and Fair Opportunity
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a35f6dbccd90468e8d9370040fbae0a7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a35f6dbccd90468e8d9370040fbae0a7/view)

@@ -26,4 +26,4 @@ THE WORK CONSISTS OF: Furnish all labor, materials, transportation, permits, and
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3c8cedd9f8a44331abafb873a48bb425/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3c8cedd9f8a44331abafb873a48bb425/view)

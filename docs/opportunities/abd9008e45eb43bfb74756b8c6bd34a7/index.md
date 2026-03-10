@@ -26,4 +26,4 @@ New Power Take-Off (PTO) and installation services on an actively used TH60 dril
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/abd9008e45eb43bfb74756b8c6bd34a7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/abd9008e45eb43bfb74756b8c6bd34a7/view)

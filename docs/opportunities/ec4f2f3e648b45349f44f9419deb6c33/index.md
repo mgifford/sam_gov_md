@@ -25,4 +25,4 @@ The Government is conducting market research (Information and Planning Purposes 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ec4f2f3e648b45349f44f9419deb6c33/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ec4f2f3e648b45349f44f9419deb6c33/view)

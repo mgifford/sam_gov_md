@@ -30,4 +30,4 @@ The Naval Sea Systems Command (NAVSEA) intends to utilize other than full-and-op
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f22033f8e94344cfbfaecc6952b93ba0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f22033f8e94344cfbfaecc6952b93ba0/view)

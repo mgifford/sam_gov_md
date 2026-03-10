@@ -30,4 +30,4 @@ The 60th Contracting Squadrong is seeking available sources for a qualified cont
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/933e66bc103a4fa886bf1f7b13fa47bc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/933e66bc103a4fa886bf1f7b13fa47bc/view)

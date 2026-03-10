@@ -25,4 +25,4 @@ Proposed procurement for NSN 3020016064497 PULLEY,GROOVE: Line 0001 Qty 51 UI EA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8decc890ba2647b8bce6ddeef067ba2d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8decc890ba2647b8bce6ddeef067ba2d/view)

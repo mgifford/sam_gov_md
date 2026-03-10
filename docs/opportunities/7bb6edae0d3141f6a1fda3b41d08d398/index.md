@@ -35,4 +35,4 @@ See Solicitation with SOW for details.In addition see answers to questions. ALCO
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7bb6edae0d3141f6a1fda3b41d08d398/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7bb6edae0d3141f6a1fda3b41d08d398/view)

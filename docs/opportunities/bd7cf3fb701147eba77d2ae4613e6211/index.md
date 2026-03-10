@@ -25,4 +25,4 @@ NSN 7R-5865-017059130-P8, REF NR 131K832G05, QTY 2 EA, DELIVERY FOB ORIGIN. This
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bd7cf3fb701147eba77d2ae4613e6211/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bd7cf3fb701147eba77d2ae4613e6211/view)

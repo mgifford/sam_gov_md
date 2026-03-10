@@ -30,4 +30,4 @@ AMENDMENT 0003 TO THE COMBINED SYSNOPSIS SOLICITATION IS HEREBY POSTED. AMENDMEN
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1a46628498a9448598669bf6eb96b287/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1a46628498a9448598669bf6eb96b287/view)

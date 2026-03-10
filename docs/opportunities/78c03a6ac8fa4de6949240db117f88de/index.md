@@ -33,4 +33,4 @@ March 6, 2026 Please note the following: Sheet E- 002, 2/E-002 - Generator Sched
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/78c03a6ac8fa4de6949240db117f88de/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/78c03a6ac8fa4de6949240db117f88de/view)

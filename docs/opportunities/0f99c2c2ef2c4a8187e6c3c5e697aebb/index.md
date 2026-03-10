@@ -32,4 +32,4 @@ Naval Sea Systems Command (NAVSEA) issues amendment N00024-26-R-4405 A0002 for t
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0f99c2c2ef2c4a8187e6c3c5e697aebb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0f99c2c2ef2c4a8187e6c3c5e697aebb/view)

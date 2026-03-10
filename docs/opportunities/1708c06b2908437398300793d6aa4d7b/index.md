@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340016179315 LOCK,RIM: Line 0001 Qty 44 UI EA Deli
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1708c06b2908437398300793d6aa4d7b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1708c06b2908437398300793d6aa4d7b/view)

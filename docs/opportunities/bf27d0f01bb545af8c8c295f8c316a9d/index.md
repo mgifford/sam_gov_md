@@ -30,4 +30,4 @@ DOCK SIDE: USCGC HERIBERTO HERNANDEZ DS FY26 Period of Performance: 14 July 2026
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bf27d0f01bb545af8c8c295f8c316a9d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bf27d0f01bb545af8c8c295f8c316a9d/view)

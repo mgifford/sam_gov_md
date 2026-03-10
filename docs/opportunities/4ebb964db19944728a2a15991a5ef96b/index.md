@@ -28,4 +28,4 @@ The purpose of this solicitation is to obtain a 1- year contract vehicle for rep
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4ebb964db19944728a2a15991a5ef96b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4ebb964db19944728a2a15991a5ef96b/view)

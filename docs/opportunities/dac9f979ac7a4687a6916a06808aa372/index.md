@@ -27,4 +27,4 @@ The Presolicitation for this Request for Proposal was published under 36C24826Q0
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/dac9f979ac7a4687a6916a06808aa372/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/dac9f979ac7a4687a6916a06808aa372/view)

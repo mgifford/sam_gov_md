@@ -25,4 +25,4 @@ Proposed procurement for NSN 7310016005659 OVEN,BAKING AND ROA: Line 0001 Qty 1 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/28b601e4380440068d143e0de0bbc402/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/28b601e4380440068d143e0de0bbc402/view)

@@ -25,4 +25,4 @@ The purpose of this Amendment 0005 is to: 1. Change the quote deadline from Marc
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f4ba8caf8b9841e4ac57c84ac942be45/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f4ba8caf8b9841e4ac57c84ac942be45/view)

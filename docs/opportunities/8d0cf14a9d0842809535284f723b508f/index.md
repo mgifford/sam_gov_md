@@ -30,4 +30,4 @@ See attached RFP, N3220526R6061, and supporting documents.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8d0cf14a9d0842809535284f723b508f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8d0cf14a9d0842809535284f723b508f/view)

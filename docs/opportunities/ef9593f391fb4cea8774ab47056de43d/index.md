@@ -28,4 +28,4 @@ Amendment Solicitation 36C25726Q0225 0001_1 Electromyography Systems
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ef9593f391fb4cea8774ab47056de43d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ef9593f391fb4cea8774ab47056de43d/view)

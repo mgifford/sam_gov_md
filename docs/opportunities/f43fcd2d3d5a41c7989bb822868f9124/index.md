@@ -25,4 +25,4 @@ The purpose of this RFI is to gather vendor feedback on the draft Statement of W
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f43fcd2d3d5a41c7989bb822868f9124/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f43fcd2d3d5a41c7989bb822868f9124/view)

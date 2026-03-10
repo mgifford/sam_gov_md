@@ -25,4 +25,4 @@ Integrated Electrochemical System for Carbon Capture and Hydrogen Production A M
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/46f440fea8504a3c9190bd1677d4bc61/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/46f440fea8504a3c9190bd1677d4bc61/view)

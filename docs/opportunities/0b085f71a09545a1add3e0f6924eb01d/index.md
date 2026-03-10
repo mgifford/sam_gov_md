@@ -25,4 +25,4 @@ Proposed procurement for NSN 5310009436609 NUT,PLAIN,SLOTTED,H: Line 0001 Qty 24
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0b085f71a09545a1add3e0f6924eb01d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0b085f71a09545a1add3e0f6924eb01d/view)

@@ -34,4 +34,4 @@ Update, 3/9/26: The FAA is attaching a third Questions and Answers file (file: "
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ca45eb19a66e4828bfa7e4fb2ce3212f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ca45eb19a66e4828bfa7e4fb2ce3212f/view)

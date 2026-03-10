@@ -27,4 +27,4 @@ Amendment 0001 - Post the Pre-Bid Conference and Attendance Roster. 657-21-115JC
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/096aed6f4955439ab3c9583e7124db22/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/096aed6f4955439ab3c9583e7124db22/view)

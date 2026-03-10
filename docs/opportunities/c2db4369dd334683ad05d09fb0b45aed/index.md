@@ -25,4 +25,4 @@ NSN 1H-1650-012386070-L1, TDP VER 010, QTY 3 EA, DELIVER TO N50286, PORTSMOUTH N
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c2db4369dd334683ad05d09fb0b45aed/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c2db4369dd334683ad05d09fb0b45aed/view)

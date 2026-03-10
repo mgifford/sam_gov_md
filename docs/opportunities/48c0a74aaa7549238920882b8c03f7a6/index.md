@@ -28,4 +28,4 @@ JAN 2026 Consolidation - HTME with Extended Installation Services (includes Turn
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/48c0a74aaa7549238920882b8c03f7a6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/48c0a74aaa7549238920882b8c03f7a6/view)

@@ -30,4 +30,4 @@ The U.S. Army Corps of Engineers, Pittsburgh District, has a project for complet
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/998a6c72d46c4725b860b809934f6932/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/998a6c72d46c4725b860b809934f6932/view)

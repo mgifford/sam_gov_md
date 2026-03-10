@@ -27,4 +27,4 @@ Solicitation for Healthcare for Homeless Veterans (HCHV) for Evansville, IN.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6e621a13373c4a88b1f9f62d43ffbae4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6e621a13373c4a88b1f9f62d43ffbae4/view)

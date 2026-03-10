@@ -30,4 +30,4 @@ Heavy Equipment Rental Mountain Home AFB, ID, 83648 This is a combined synopsis/
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/06e70d5469db41d6b1606f0bf6852589/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/06e70d5469db41d6b1606f0bf6852589/view)

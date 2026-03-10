@@ -28,4 +28,4 @@ Request for Quote for Grapevine Lake Janitorial Services
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/52dbe925f5f44d768e8cc42852bfd870/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/52dbe925f5f44d768e8cc42852bfd870/view)

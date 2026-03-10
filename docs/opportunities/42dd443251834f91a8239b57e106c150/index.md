@@ -25,4 +25,4 @@ Endless Forge (EF) is Manufacturing as a Service (MaaS), an adaptive, surge-adap
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/42dd443251834f91a8239b57e106c150/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/42dd443251834f91a8239b57e106c150/view)

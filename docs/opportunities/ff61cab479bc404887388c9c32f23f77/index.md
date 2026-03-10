@@ -28,4 +28,4 @@ PA-JOHN HEINZ NWR AT TINICUM-HERBICIDE
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ff61cab479bc404887388c9c32f23f77/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ff61cab479bc404887388c9c32f23f77/view)

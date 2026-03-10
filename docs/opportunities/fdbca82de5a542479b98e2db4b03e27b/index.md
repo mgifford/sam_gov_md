@@ -26,4 +26,4 @@ This solicitation is for the repair of 4 ea. NSN 7RH 1660 015275193 KB (Part Num
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fdbca82de5a542479b98e2db4b03e27b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fdbca82de5a542479b98e2db4b03e27b/view)

@@ -36,4 +36,4 @@ The Special Warfare Human Performance Support Group (SWHPSG) located at JBSA-Lac
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9313debaf5e94861b748bb8d94a125f5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9313debaf5e94861b748bb8d94a125f5/view)

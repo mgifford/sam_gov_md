@@ -28,4 +28,4 @@ Introduction: The purpose of this Sources Sought Notice is to identify potential
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e91d4ca9ff434dc987365bf73f5a6e86/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e91d4ca9ff434dc987365bf73f5a6e86/view)

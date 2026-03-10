@@ -25,4 +25,4 @@ Proposed procurement for NSN 5998012859174 ELECTRONIC COMPONEN: Line 0001 Qty 23
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2acf4f1b82fe45ab92c4b75b070312e3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2acf4f1b82fe45ab92c4b75b070312e3/view)

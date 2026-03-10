@@ -18,4 +18,4 @@ UPDATE - MARCH 4 2026 - SURVEY: We're dedicated to creating valuable connections
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e51e0f1f3c174811a180250f7c37fb99/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e51e0f1f3c174811a180250f7c37fb99/view)

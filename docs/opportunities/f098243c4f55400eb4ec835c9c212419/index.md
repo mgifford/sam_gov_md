@@ -25,4 +25,4 @@ Proposed procurement for NSN 4820013829785 GAGGING DEVICE,VALV: Line 0001 Qty 33
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f098243c4f55400eb4ec835c9c212419/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f098243c4f55400eb4ec835c9c212419/view)

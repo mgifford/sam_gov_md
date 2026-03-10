@@ -25,4 +25,4 @@ Proposed procurement for NSN 8145017286188 CUSHIONING MATERIAL: Line 0001 Qty 20
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/75955dd3db7e4f789fe45244be01f3bc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/75955dd3db7e4f789fe45244be01f3bc/view)

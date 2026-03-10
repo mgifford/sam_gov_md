@@ -28,4 +28,4 @@ In accordance with Federal Acquisition Regulation (FAR) 13.106-1(b)(1), the Cont
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c979cf098bcb4d7ea2d1fc67ae8d7fed/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c979cf098bcb4d7ea2d1fc67ae8d7fed/view)

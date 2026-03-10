@@ -28,4 +28,4 @@ THE PURPOSE OF AMENDMENT 0011 FOR SOLICITATION SPRRA225R0002 IS TO CHANGE THE PR
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e155788844b947f5aa5b884257fd1eac/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e155788844b947f5aa5b884257fd1eac/view)

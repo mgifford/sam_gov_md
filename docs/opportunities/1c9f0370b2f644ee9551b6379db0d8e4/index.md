@@ -30,4 +30,4 @@ Solicitation W911N226QA001 AND AMENDMENT 0001 AND a conformed copy of the solici
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1c9f0370b2f644ee9551b6379db0d8e4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1c9f0370b2f644ee9551b6379db0d8e4/view)

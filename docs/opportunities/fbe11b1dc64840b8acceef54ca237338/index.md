@@ -26,4 +26,4 @@ Please see attached redacted SSJ and solicitation in support of the USNS WILLIAM
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fbe11b1dc64840b8acceef54ca237338/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fbe11b1dc64840b8acceef54ca237338/view)

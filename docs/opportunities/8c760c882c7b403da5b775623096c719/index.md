@@ -32,4 +32,4 @@ AMENDMENT 0002 - This amendment is to provide all questions and answers with Att
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8c760c882c7b403da5b775623096c719/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8c760c882c7b403da5b775623096c719/view)

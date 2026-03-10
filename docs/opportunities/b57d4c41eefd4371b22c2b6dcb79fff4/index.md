@@ -27,4 +27,4 @@ This is a solicitation for Emergency Well Network Water Testing Service as a Bas
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b57d4c41eefd4371b22c2b6dcb79fff4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b57d4c41eefd4371b22c2b6dcb79fff4/view)

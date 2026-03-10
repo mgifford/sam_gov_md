@@ -29,4 +29,4 @@ This effort is only open to current IO/T MATOC holders who hold contracts with C
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4246ef34433d4330a3b064c335843971/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4246ef34433d4330a3b064c335843971/view)

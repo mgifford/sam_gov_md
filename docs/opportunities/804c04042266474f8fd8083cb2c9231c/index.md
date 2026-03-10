@@ -28,4 +28,4 @@ Amendment 5 has been posted for Solicitation SPE300-26-R-X002 on March 6, 2026. 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/804c04042266474f8fd8083cb2c9231c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/804c04042266474f8fd8083cb2c9231c/view)

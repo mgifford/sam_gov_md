@@ -30,4 +30,4 @@ Attached separate Table 3 from Section L.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/21f5f24e03ce46dda55fa6bf0aec5eed/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/21f5f24e03ce46dda55fa6bf0aec5eed/view)

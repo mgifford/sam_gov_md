@@ -25,4 +25,4 @@ Proposed procurement for NSN 3417016002321 ENGRAVING SYSTEM: Line 0001 Qty 1 UI 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7a4e8ae6de114c78b6655f7dc73aaf7e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7a4e8ae6de114c78b6655f7dc73aaf7e/view)

@@ -26,4 +26,4 @@ The purpose of this requirement is to acquire comprehensive janitorial and recyc
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/867543bf3a7d4054b646ff85e0584bcc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/867543bf3a7d4054b646ff85e0584bcc/view)

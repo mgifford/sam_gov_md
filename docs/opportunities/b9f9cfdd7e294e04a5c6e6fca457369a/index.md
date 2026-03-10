@@ -25,4 +25,4 @@ Proposed procurement for NSN 3040013275446 BRACKET,EYE,ROTATIN: Line 0001 Qty 4 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b9f9cfdd7e294e04a5c6e6fca457369a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b9f9cfdd7e294e04a5c6e6fca457369a/view)

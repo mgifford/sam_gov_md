@@ -36,4 +36,4 @@ The selected vendor will be responsible for the sourcing, management, and timely
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bd9a43f144794eb0ad19c48dc4c729ee/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bd9a43f144794eb0ad19c48dc4c729ee/view)

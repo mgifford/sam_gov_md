@@ -35,4 +35,4 @@ The U.S. Department of Agriculture (USDA) Federal Crop Insurance Corporation (FC
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/eec3a185b83b4c31b7789c257723a577/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/eec3a185b83b4c31b7789c257723a577/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 9999016492363 STATOR: Line 0001 Qty 1 UI EA Deliver
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/af07c9ab78904011b3fa3b263c8fc0c0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/af07c9ab78904011b3fa3b263c8fc0c0/view)

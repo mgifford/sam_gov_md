@@ -25,4 +25,4 @@ Proposed procurement for NSN 5306001443655 BOLT,MACHINE: Line 0001 Qty 33 UI HD 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/01254ef4b9ae4d29bee7b6993f8c4d13/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/01254ef4b9ae4d29bee7b6993f8c4d13/view)

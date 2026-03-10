@@ -25,4 +25,4 @@ Proposed procurement for NSN 2930015771439 WATER OUTLET,ENGINE: Line 0001 Qty 6 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/cd99c0a034374ed889b6f586b0a5466e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cd99c0a034374ed889b6f586b0a5466e/view)

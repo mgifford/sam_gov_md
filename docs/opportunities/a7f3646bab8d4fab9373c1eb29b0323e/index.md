@@ -28,4 +28,4 @@ Page 2 of 2 Corporal Michael J. Crescenz VA Medical Center Performance Work Stat
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a7f3646bab8d4fab9373c1eb29b0323e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a7f3646bab8d4fab9373c1eb29b0323e/view)

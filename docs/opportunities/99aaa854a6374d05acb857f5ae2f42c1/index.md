@@ -26,4 +26,4 @@ Natural Horse Hair Chest Canvas for Dress Coats
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/99aaa854a6374d05acb857f5ae2f42c1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/99aaa854a6374d05acb857f5ae2f42c1/view)

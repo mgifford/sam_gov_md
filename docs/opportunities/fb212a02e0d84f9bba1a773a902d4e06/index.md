@@ -25,4 +25,4 @@ Proposed procurement for NSN 4510011904156 VALVE,FLUSH: Line 0001 Qty 222 UI EA 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fb212a02e0d84f9bba1a773a902d4e06/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fb212a02e0d84f9bba1a773a902d4e06/view)

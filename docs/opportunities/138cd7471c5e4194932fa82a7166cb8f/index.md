@@ -36,4 +36,4 @@ Updated 9 March 2026: Added all attachments to this SAM.gov posting, including t
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/138cd7471c5e4194932fa82a7166cb8f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/138cd7471c5e4194932fa82a7166cb8f/view)

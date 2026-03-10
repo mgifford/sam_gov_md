@@ -25,4 +25,4 @@ Proposed procurement for NSN 4930013538520 LUBRICANT PACKER,BE: Line 0001 Qty 2 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/90973b06f419492d80bbd912c1aa01df/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/90973b06f419492d80bbd912c1aa01df/view)

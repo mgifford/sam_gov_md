@@ -25,4 +25,4 @@ Proposed procurement for NSN 2520012143863 DRUM, BRAKE CLUTCH: Line 0001 Qty 27 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f5cc15bd2598417eae921028bef70fd3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f5cc15bd2598417eae921028bef70fd3/view)

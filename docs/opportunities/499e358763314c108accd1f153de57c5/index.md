@@ -25,4 +25,4 @@ The Government is issuing this amendment to schedule a site visit, establish a d
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/499e358763314c108accd1f153de57c5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/499e358763314c108accd1f153de57c5/view)

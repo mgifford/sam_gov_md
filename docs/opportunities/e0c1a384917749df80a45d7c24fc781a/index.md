@@ -28,4 +28,4 @@ Togus VA Medical Center has a requirement for laboratory casework for the renova
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e0c1a384917749df80a45d7c24fc781a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e0c1a384917749df80a45d7c24fc781a/view)

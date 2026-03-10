@@ -30,4 +30,4 @@ The New York District, U.S. Army Corps of Engineers is soliciting lease proposal
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/50c4ca71cc7d4396847ad8bfbb6cce01/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/50c4ca71cc7d4396847ad8bfbb6cce01/view)

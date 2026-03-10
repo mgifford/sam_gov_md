@@ -25,4 +25,4 @@ Proposed procurement for NSN 4610015464549 CELL ASSY: Line 0001 Qty 5 UI EA Deli
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a964c4aed4fb4b0a9a903294ed8af9b0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a964c4aed4fb4b0a9a903294ed8af9b0/view)

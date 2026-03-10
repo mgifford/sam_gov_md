@@ -26,4 +26,4 @@ Ballistic Shield Riot Level IIIA, Minimum (20X34) Ballistic Armor (Windowed).
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0bbde3ea7bea4b72a78523e25d952d5f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0bbde3ea7bea4b72a78523e25d952d5f/view)

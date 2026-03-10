@@ -28,4 +28,4 @@ Hazardous Waste and Water Testing and Analysis
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/66ad5e40d2294c109eaca3b290d86ba1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/66ad5e40d2294c109eaca3b290d86ba1/view)

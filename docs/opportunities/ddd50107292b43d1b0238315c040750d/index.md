@@ -34,4 +34,4 @@ Reference the following attachments for all information and instructions: Combin
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ddd50107292b43d1b0238315c040750d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ddd50107292b43d1b0238315c040750d/view)

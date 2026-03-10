@@ -26,4 +26,4 @@ The proposed Design-Build project includes the demolition of five Bachelor Enlis
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d4b41d8d9e864c19945134eea4fdef52/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d4b41d8d9e864c19945134eea4fdef52/view)

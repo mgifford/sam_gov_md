@@ -26,4 +26,4 @@ RFI - Lead Abatement Training, ME - WOSB Concern
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ba535146438341298b0bd428e49dd1ee/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ba535146438341298b0bd428e49dd1ee/view)

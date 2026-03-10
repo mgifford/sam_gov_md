@@ -26,4 +26,4 @@ AK-FWS AK MARITIME NWR-CUSTODIAL CONTRACT The government requires Janitorial Ser
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/595483b5b22745ee9f49ccd210a18054/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/595483b5b22745ee9f49ccd210a18054/view)

@@ -34,4 +34,4 @@ THIS IS A SOLICITATION NOTICE. This announcement is for the following requiremen
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4bc13ff5740d458ea68b944f5bb0279c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4bc13ff5740d458ea68b944f5bb0279c/view)

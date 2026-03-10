@@ -27,4 +27,4 @@ NSN 3110-00-106-1156, BEARING, ROLLER, CYLINDRICAL. This solicitation resulted i
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a95095d1ef0a4662977afb7a79c3aa1a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a95095d1ef0a4662977afb7a79c3aa1a/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 2910012068628 FILTER, GASOLINE: Line 0001 Qty 70 UI
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bfca2f92d1f24e8cb5601b968dcde63c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bfca2f92d1f24e8cb5601b968dcde63c/view)

@@ -28,4 +28,4 @@ SOURCES SOUGHT NOTICE Project: 640A0-26-103, Correct Steam Line Deficiencies MPD
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/df75317cc186451999e557bed482044b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/df75317cc186451999e557bed482044b/view)

@@ -25,4 +25,4 @@ Notice of intent to sole source polyurethane, gloss white #17925. See attachment
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/98c36825c5b44c0faddc9c15881910f7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/98c36825c5b44c0faddc9c15881910f7/view)

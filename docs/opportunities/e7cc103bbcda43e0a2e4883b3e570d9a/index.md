@@ -25,4 +25,4 @@ Proposed procurement for NSN 5985012635204 DUMMY LOAD,ELECTRIC: Line 0001 Qty 14
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e7cc103bbcda43e0a2e4883b3e570d9a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e7cc103bbcda43e0a2e4883b3e570d9a/view)

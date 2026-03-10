@@ -28,4 +28,4 @@ CONTRACTORS INTERESTED IN PARTICIPATING IN THIS INDUSTRY DAY MUST RESPOND PER TH
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/04e406d990a84d638a9f2693dd9ab014/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/04e406d990a84d638a9f2693dd9ab014/view)

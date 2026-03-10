@@ -25,4 +25,4 @@ Provide all parts, labor, tools, equipment, materials, transportation, and super
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/005ea072f11948c0af2c4114dc7237aa/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/005ea072f11948c0af2c4114dc7237aa/view)

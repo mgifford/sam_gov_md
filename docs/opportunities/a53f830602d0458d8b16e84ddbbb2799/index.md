@@ -28,4 +28,4 @@ The U.S. Army Corps of Engineers (USACE), Philadelphia District (NAP), intends t
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a53f830602d0458d8b16e84ddbbb2799/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a53f830602d0458d8b16e84ddbbb2799/view)

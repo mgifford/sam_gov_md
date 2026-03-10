@@ -25,4 +25,4 @@ Proposed procurement for NSN 2990016794168 MUFFLER,SPECIAL: Line 0001 Qty 2 UI E
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6e1b8b35f6904ff19dc6e9fa621761a9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6e1b8b35f6904ff19dc6e9fa621761a9/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 2520004020425 PLATE,MOUNTING,VALV: Line 0001 Qty 32
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4f49fea8817e4ef5827d99d0f47db11e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4f49fea8817e4ef5827d99d0f47db11e/view)

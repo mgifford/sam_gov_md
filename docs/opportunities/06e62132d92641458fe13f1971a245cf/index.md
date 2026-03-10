@@ -31,4 +31,4 @@ CONTACT INFORMATION|4|N741.P12|7HH|771-229-0455| jessica.l.harpel2.civ@us.navy.m
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/06e62132d92641458fe13f1971a245cf/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/06e62132d92641458fe13f1971a245cf/view)

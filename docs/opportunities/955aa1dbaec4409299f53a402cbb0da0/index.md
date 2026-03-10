@@ -34,4 +34,4 @@ Project: Buffalo Creek Boiler Replacement POC: Erick Plamann, Contract Specialis
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/955aa1dbaec4409299f53a402cbb0da0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/955aa1dbaec4409299f53a402cbb0da0/view)

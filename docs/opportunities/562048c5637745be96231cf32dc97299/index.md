@@ -25,4 +25,4 @@ THIS IS A REQUEST FOR INFORMATION ONLY. This Request for Information (RFI) is is
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/562048c5637745be96231cf32dc97299/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/562048c5637745be96231cf32dc97299/view)

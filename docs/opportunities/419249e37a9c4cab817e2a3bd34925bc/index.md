@@ -30,4 +30,4 @@ The U.S. Government intends to award a firm-fixed-price purchase order to the re
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/419249e37a9c4cab817e2a3bd34925bc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/419249e37a9c4cab817e2a3bd34925bc/view)

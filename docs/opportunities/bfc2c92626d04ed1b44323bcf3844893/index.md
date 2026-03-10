@@ -25,4 +25,4 @@ Proposed procurement for NSN 3030003792815 BELTS,V,MATCHED SET: Line 0001 Qty 75
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bfc2c92626d04ed1b44323bcf3844893/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bfc2c92626d04ed1b44323bcf3844893/view)

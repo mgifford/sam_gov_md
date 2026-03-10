@@ -25,4 +25,4 @@ Proposed procurement for NSN 1710011894161 BRAKE CARRIER ASSEM: Line 0001 Qty 8 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/977d07fff3734f8dab8da9cefffd4147/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/977d07fff3734f8dab8da9cefffd4147/view)

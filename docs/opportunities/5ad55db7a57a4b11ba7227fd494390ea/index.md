@@ -28,4 +28,4 @@ NOTICE OF DECISION TO CONTRACT WITH A SINGLE SOURCE: The Federal Aviation Admini
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5ad55db7a57a4b11ba7227fd494390ea/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5ad55db7a57a4b11ba7227fd494390ea/view)

@@ -30,4 +30,4 @@ Lawn Care Services for Fort Bragg North and Fort Bragg South Commissary. Please 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/acd92c314a2f488e9f7804dba86d1ab0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/acd92c314a2f488e9f7804dba86d1ab0/view)

@@ -25,4 +25,4 @@ The Carson National Forest is pursuing road maintenance activities to be accompl
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6ca8c5fc99cb409ab7a5b76e887a9c9a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6ca8c5fc99cb409ab7a5b76e887a9c9a/view)

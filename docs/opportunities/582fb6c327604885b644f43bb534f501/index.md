@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340004947600 LATCH,RIM: Line 0001 Qty 5 UI EA Deli
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/582fb6c327604885b644f43bb534f501/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/582fb6c327604885b644f43bb534f501/view)

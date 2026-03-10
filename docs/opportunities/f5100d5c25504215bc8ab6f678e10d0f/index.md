@@ -28,4 +28,4 @@ This contract was not awarded competively.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f5100d5c25504215bc8ab6f678e10d0f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f5100d5c25504215bc8ab6f678e10d0f/view)

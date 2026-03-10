@@ -28,4 +28,4 @@ Amendment A001 - Responses to Solicitation Questions The purpose of Amendment A0
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7c8787bc28e541caaa14cb247be1c982/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7c8787bc28e541caaa14cb247be1c982/view)

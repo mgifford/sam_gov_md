@@ -57,4 +57,4 @@ CONTACT INFORMATION|4|N741.6|GDH|N/A|tyreese.c.smith.civ@us.navy.mil| ITEM UNIQU
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5b0c396eb33a490c9bcbe47fc71694aa/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5b0c396eb33a490c9bcbe47fc71694aa/view)

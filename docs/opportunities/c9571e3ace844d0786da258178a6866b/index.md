@@ -30,4 +30,4 @@ UPDATE as of 24 February 2026: Due to inclement weather, the Terrain Shaping Ind
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c9571e3ace844d0786da258178a6866b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c9571e3ace844d0786da258178a6866b/view)

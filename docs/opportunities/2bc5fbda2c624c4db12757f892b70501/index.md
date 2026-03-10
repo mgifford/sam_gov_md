@@ -26,4 +26,4 @@ Presolicitation Notice 761-26-2-014-0037 & 762-26-1-040-0450 - Chelmsford & Tucs
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2bc5fbda2c624c4db12757f892b70501/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2bc5fbda2c624c4db12757f892b70501/view)

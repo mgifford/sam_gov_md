@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340003934078 BOLT ASSEMBLY,CLAMP: Line 0001 Qty 10
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bb5be519273549db9a6dcb57df27aabd/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bb5be519273549db9a6dcb57df27aabd/view)

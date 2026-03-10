@@ -28,4 +28,4 @@ The U.S. Army Contracting Command-Redstone, Operations, Services, & Training Div
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1e7feb5daaa648cd94547e3144fd09ee/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1e7feb5daaa648cd94547e3144fd09ee/view)

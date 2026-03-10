@@ -31,4 +31,4 @@ The Defense Logistics Agency is issuing this sources sought synopsis as a means 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/914ca3b30a944077af68ca9b2e73b535/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/914ca3b30a944077af68ca9b2e73b535/view)

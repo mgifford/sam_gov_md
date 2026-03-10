@@ -25,4 +25,4 @@ Renewal of Fort Point Restrooms, GOGA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f7cec16fcdca4d56ab9491cea12e2432/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f7cec16fcdca4d56ab9491cea12e2432/view)

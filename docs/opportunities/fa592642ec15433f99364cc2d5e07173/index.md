@@ -28,4 +28,4 @@ SYNOPSIS: INTRODUCTION: In accordance with Federal Acquisition Regulation (FAR) 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fa592642ec15433f99364cc2d5e07173/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fa592642ec15433f99364cc2d5e07173/view)

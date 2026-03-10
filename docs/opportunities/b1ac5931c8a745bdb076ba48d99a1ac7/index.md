@@ -79,4 +79,4 @@ CONTACT INFORMATION|4|N743.4|WVL|1 771-229-0743|amanda.l.bailey50.civ@us.navy.mi
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b1ac5931c8a745bdb076ba48d99a1ac7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b1ac5931c8a745bdb076ba48d99a1ac7/view)

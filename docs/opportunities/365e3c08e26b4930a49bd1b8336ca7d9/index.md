@@ -25,4 +25,4 @@ The Drug Enforcement Administration (DEA) is seeking AI-assisted handheld transl
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/365e3c08e26b4930a49bd1b8336ca7d9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/365e3c08e26b4930a49bd1b8336ca7d9/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 5360012878589 SPRING,SPECIAL: Line 0001 Qty 249 UI 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ccd74b1f99d04bf8ae70f1b779659b46/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ccd74b1f99d04bf8ae70f1b779659b46/view)

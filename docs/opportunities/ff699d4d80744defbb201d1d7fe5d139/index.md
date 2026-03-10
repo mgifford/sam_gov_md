@@ -25,4 +25,4 @@ Proposed procurement for NSN 5331011806626 O-RING: Line 0001 Qty 437 UI EA Deliv
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ff699d4d80744defbb201d1d7fe5d139/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ff699d4d80744defbb201d1d7fe5d139/view)

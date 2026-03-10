@@ -29,4 +29,4 @@ Solicitation
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f25b6764a69c4dee9a728e4466130e7f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f25b6764a69c4dee9a728e4466130e7f/view)

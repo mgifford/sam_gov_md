@@ -25,4 +25,4 @@ Proposed procurement for NSN 5310016171563 WASHER,FLAT: Line 0001 Qty 420 UI EA 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7ce9227663d24a46b665e2ad8e6e871a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7ce9227663d24a46b665e2ad8e6e871a/view)

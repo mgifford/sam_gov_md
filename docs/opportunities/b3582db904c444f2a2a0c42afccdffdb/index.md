@@ -25,4 +25,4 @@ Proposed procurement for NSN 2990123808818 AIR DISTRIBUTOR,STA: Line 0001 Qty 1 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b3582db904c444f2a2a0c42afccdffdb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b3582db904c444f2a2a0c42afccdffdb/view)

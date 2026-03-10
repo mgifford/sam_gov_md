@@ -34,4 +34,4 @@ Update:3/9/2026. This Special Notice is re-opened to update changes to the Bailm
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e8ac1786cbac4fcaba10e0b9a82dd543/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e8ac1786cbac4fcaba10e0b9a82dd543/view)

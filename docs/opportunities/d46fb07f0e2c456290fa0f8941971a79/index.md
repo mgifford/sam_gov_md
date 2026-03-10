@@ -26,4 +26,4 @@ The U.S. Army Corps of Engineers - St. Paul District requires a contractor to ha
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d46fb07f0e2c456290fa0f8941971a79/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d46fb07f0e2c456290fa0f8941971a79/view)

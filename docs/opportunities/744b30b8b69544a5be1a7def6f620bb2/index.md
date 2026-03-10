@@ -28,4 +28,4 @@ Sources Sought Notice for Master Planning Architect-Engineer Multiple Award Task
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/744b30b8b69544a5be1a7def6f620bb2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/744b30b8b69544a5be1a7def6f620bb2/view)

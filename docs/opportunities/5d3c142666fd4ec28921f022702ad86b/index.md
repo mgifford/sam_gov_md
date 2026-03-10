@@ -26,4 +26,4 @@ THIS SOLICITATION WAS AMENDED ON 3/6 to included industry questions and answers.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5d3c142666fd4ec28921f022702ad86b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5d3c142666fd4ec28921f022702ad86b/view)

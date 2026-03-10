@@ -55,4 +55,4 @@ CONTACT INFORMATION|4|N744.24|AW9|771-229-0476|heather.r.jones52.civ@us.navy.mil
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4ece5da3aae74a65862c29c7a0a2b69d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4ece5da3aae74a65862c29c7a0a2b69d/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 4030013154279 TERMINAL,WIRE ROPE,SOC: Line 0001 Qty
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9a5f7358ba72439883ed103516f63cf5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9a5f7358ba72439883ed103516f63cf5/view)

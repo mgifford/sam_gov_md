@@ -30,4 +30,4 @@ This is to provide answer to question submitted to RFQ 19KS7026Q0010. Please ref
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c78bb98efcd043ee84f702466717d42b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c78bb98efcd043ee84f702466717d42b/view)

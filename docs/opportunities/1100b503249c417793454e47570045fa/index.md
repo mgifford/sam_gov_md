@@ -29,4 +29,4 @@ These specifications cover the production of assessing and remediating files to 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1100b503249c417793454e47570045fa/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1100b503249c417793454e47570045fa/view)

@@ -26,4 +26,4 @@ COMBO SYNOPSIS SOLICITATION FOR COMMERCIAL ITEMS 1. Class Code: F1 2. NAICS Code
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/88ce57f32f3a4b6abbf703a32a7fd566/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/88ce57f32f3a4b6abbf703a32a7fd566/view)

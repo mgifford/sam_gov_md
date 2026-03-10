@@ -25,4 +25,4 @@ Proposed procurement for NSN 6625016717769 SENSOR,CURRENT: Line 0001 Qty 196 UI 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/80f01a16e1584e6b8c1557f84189cbf3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/80f01a16e1584e6b8c1557f84189cbf3/view)

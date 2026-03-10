@@ -30,4 +30,4 @@ Enclosed is a Request for Quotes (RFQ) for Gardening Services. If you would like
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e396ac304df34254aa1367edb4863a30/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e396ac304df34254aa1367edb4863a30/view)

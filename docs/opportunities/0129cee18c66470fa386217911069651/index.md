@@ -29,4 +29,4 @@ The Contractor shall provide a 4-Star Rated (or higher) venue and supporting ser
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0129cee18c66470fa386217911069651/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0129cee18c66470fa386217911069651/view)

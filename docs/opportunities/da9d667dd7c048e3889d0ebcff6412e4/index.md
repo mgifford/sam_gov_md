@@ -28,4 +28,4 @@ Amendment 0002 posted on February 10, 2026 includes the following changes: a res
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/da9d667dd7c048e3889d0ebcff6412e4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/da9d667dd7c048e3889d0ebcff6412e4/view)

@@ -30,4 +30,4 @@ Sources Sought Notice Digital Depot Support Services Marine Depot Maintenance Co
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/930e5da9212d4101bdd04e995b36efbe/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/930e5da9212d4101bdd04e995b36efbe/view)

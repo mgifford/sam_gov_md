@@ -25,4 +25,4 @@ Proposed procurement for NSN 4240016733384 VALVE,BREATHING APP: Line 0001 Qty 15
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f88301c4f1694b6a80f972c19704ee58/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f88301c4f1694b6a80f972c19704ee58/view)

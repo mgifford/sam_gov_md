@@ -25,4 +25,4 @@ This request for information (RFI) is issued solely for planning purposes and is
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/502ef9824c5c417fb5d0c9e73a4e0507/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/502ef9824c5c417fb5d0c9e73a4e0507/view)

@@ -26,4 +26,4 @@ The work includes the construction of Marine Raider Support Battalion Operationa
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a1a093f932654ef9add9937fb1f8670c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a1a093f932654ef9add9937fb1f8670c/view)

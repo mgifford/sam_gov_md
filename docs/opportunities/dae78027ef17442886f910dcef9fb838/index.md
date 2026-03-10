@@ -25,4 +25,4 @@ Proposed procurement for NSN 4710002898005 TUBE,METALLIC: Line 0001 Qty 1096 UI 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/dae78027ef17442886f910dcef9fb838/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/dae78027ef17442886f910dcef9fb838/view)

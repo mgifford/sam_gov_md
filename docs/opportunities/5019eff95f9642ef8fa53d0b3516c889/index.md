@@ -26,4 +26,4 @@ This solicitation replaces 2032H8-25-Q-00046 The Contractor shall provide all ma
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5019eff95f9642ef8fa53d0b3516c889/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5019eff95f9642ef8fa53d0b3516c889/view)

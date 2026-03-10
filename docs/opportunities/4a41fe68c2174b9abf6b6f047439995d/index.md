@@ -30,4 +30,4 @@ This Solicitation Notice is issued by the United States Army Corps of Engineers 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4a41fe68c2174b9abf6b6f047439995d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4a41fe68c2174b9abf6b6f047439995d/view)

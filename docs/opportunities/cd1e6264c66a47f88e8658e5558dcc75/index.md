@@ -30,4 +30,4 @@ The contractor is responsible for providing labor, materials, and travel to and 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/cd1e6264c66a47f88e8658e5558dcc75/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cd1e6264c66a47f88e8658e5558dcc75/view)

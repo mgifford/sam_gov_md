@@ -25,4 +25,4 @@ NSN 2530-01-510-3965. This is a 1/R The required quantity is 2,422 Each and a re
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f08e4e62003b491e96a5562c680005f4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f08e4e62003b491e96a5562c680005f4/view)

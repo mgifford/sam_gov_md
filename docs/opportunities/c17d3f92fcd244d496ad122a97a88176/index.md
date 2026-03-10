@@ -25,4 +25,4 @@ This synopsis is amended to address 2 things: 1. The synopsis number (N68335-26-
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c17d3f92fcd244d496ad122a97a88176/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c17d3f92fcd244d496ad122a97a88176/view)

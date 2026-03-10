@@ -26,4 +26,4 @@ The U.S. Army Corps of Engineers – New England District is issuing a Pre-Solic
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/68cef63f394d4cfa822aaf62199adf58/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/68cef63f394d4cfa822aaf62199adf58/view)

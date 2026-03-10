@@ -26,4 +26,4 @@ Amendment 0001: The purpose of this amendment is to post answers to questions re
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2b3aa673041c44809ade13b0adb126d2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2b3aa673041c44809ade13b0adb126d2/view)

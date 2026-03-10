@@ -26,4 +26,4 @@ Annual groundwater sampling of monitor wells in Grand Teton National Park (GRTE)
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/569b438fc5b943cd8a2f3aa5934c5766/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/569b438fc5b943cd8a2f3aa5934c5766/view)

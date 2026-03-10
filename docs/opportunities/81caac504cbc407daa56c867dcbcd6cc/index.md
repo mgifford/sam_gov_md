@@ -25,4 +25,4 @@ Proposed procurement for NSN 2520014575214 DIFFERENTIAL GEAR U: Line 0001 Qty 5 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/81caac504cbc407daa56c867dcbcd6cc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/81caac504cbc407daa56c867dcbcd6cc/view)

@@ -28,4 +28,4 @@ Folsom Copier Services - Regional Construction Office
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ff5a546582474059b0ca32b9c9052e4a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ff5a546582474059b0ca32b9c9052e4a/view)

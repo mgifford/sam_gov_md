@@ -30,4 +30,4 @@ Project Description: The project includes all design and construction necessary 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6e7a375b4d8c4d50aebdbcafbdbbbfd7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6e7a375b4d8c4d50aebdbcafbdbbbfd7/view)

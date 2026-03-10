@@ -27,4 +27,4 @@ This amendment answers the following vendor questions: Is lead lining required f
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0e99515d84294735b47b4a30fd1becd2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0e99515d84294735b47b4a30fd1becd2/view)

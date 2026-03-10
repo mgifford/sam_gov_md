@@ -26,4 +26,4 @@ Amendment 1 is to update Section L (changes highlighted in red)
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/35465aab87bf4792ae2817208adde5e6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/35465aab87bf4792ae2817208adde5e6/view)

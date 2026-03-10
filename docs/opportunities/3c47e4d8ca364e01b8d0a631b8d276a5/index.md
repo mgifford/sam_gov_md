@@ -25,4 +25,4 @@ Proposed procurement for NSN 5915010980006 FILTER,RADIO FREQUE: Line 0001 Qty 20
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3c47e4d8ca364e01b8d0a631b8d276a5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3c47e4d8ca364e01b8d0a631b8d276a5/view)

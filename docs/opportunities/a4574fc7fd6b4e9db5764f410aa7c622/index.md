@@ -28,4 +28,4 @@ Draft Solicition �Aberdeen Test Center (ATC) is one of the Department of Defen
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a4574fc7fd6b4e9db5764f410aa7c622/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a4574fc7fd6b4e9db5764f410aa7c622/view)

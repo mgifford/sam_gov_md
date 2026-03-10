@@ -29,4 +29,4 @@ The Embassy of the United States of America invites you to submit a quotation fo
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/34fdcf1d0baa4359a4e580b542232582/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/34fdcf1d0baa4359a4e580b542232582/view)

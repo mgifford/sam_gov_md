@@ -26,4 +26,4 @@ FY26 3rd Quarter Food Products for FCI Cumberland in Cumberland, MD. Quotes are 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0de5624a79164d849fe3cfe325621f35/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0de5624a79164d849fe3cfe325621f35/view)

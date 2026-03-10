@@ -25,4 +25,4 @@ Proposed procurement for NSN 2530012662097 BRAKE SHOE SET: Line 0001 Qty 182 UI 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b82b2d17639f4ee5b8e5e0058444c3d9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b82b2d17639f4ee5b8e5e0058444c3d9/view)

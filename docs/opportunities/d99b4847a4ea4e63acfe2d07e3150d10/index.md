@@ -19,4 +19,4 @@ This is a Notice of Intent, not a request for proposal. The National Institute o
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d99b4847a4ea4e63acfe2d07e3150d10/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d99b4847a4ea4e63acfe2d07e3150d10/view)

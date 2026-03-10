@@ -26,4 +26,4 @@ The Office of Secure Transportation (OST) has a requirement to purchase tactical
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d8742fb2010d4ac3b19ba83aabbe83a1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d8742fb2010d4ac3b19ba83aabbe83a1/view)

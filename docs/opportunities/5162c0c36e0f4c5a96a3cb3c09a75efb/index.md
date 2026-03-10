@@ -25,4 +25,4 @@ Proposed procurement for NSN 3030015474661 BELT,V: Line 0001 Qty 64 UI EA Delive
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5162c0c36e0f4c5a96a3cb3c09a75efb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5162c0c36e0f4c5a96a3cb3c09a75efb/view)

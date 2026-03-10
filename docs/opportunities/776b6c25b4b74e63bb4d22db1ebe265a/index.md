@@ -36,4 +36,4 @@ THIS IS A SOURCES SOUGHT NOTICE ONLY. The U.S. Marine Corps Installation Pacific
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/776b6c25b4b74e63bb4d22db1ebe265a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/776b6c25b4b74e63bb4d22db1ebe265a/view)

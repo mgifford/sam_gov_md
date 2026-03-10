@@ -26,4 +26,4 @@ This is a COMBINED SYNOPSIS/SOLICITATION for commercial products prepared in acc
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/109d0239ef004ebabc4e96cb39403277/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/109d0239ef004ebabc4e96cb39403277/view)

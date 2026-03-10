@@ -25,4 +25,4 @@ Proposed procurement for NSN 3040012719186 HOUSING,MECHANICAL: Line 0001 Qty 22 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5f295db4882745a3910e76cf52e72d2c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5f295db4882745a3910e76cf52e72d2c/view)

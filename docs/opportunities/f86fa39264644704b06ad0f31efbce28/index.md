@@ -25,4 +25,4 @@ Amendment 0003 posted on March 06, 2026 includes the following changes: updating
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f86fa39264644704b06ad0f31efbce28/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f86fa39264644704b06ad0f31efbce28/view)

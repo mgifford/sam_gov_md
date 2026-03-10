@@ -26,4 +26,4 @@ TIME ZONE (PACIFIC) WEST COAST USA Please reference this solicitation number SPM
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/cbcfac255c5249df9bae4dc23a866c29/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cbcfac255c5249df9bae4dc23a866c29/view)

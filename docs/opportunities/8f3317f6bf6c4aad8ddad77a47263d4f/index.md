@@ -30,4 +30,4 @@ SOURCES SOUGHT TECHNICAL DESCRIPTION FOR SERVICES Subject: 1AD Advanced Manufact
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8f3317f6bf6c4aad8ddad77a47263d4f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8f3317f6bf6c4aad8ddad77a47263d4f/view)

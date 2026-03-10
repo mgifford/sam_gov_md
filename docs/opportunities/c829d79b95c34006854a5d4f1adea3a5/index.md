@@ -26,4 +26,4 @@ Hot and Cold Tub
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c829d79b95c34006854a5d4f1adea3a5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c829d79b95c34006854a5d4f1adea3a5/view)

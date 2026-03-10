@@ -25,4 +25,4 @@ Proposed procurement for NSN 4220016593968 ABSORB CARTRIDGES: Line 0001 Qty 1695
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6a7c46390c9c4b2292dad1fcfdf7071b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6a7c46390c9c4b2292dad1fcfdf7071b/view)

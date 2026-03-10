@@ -30,4 +30,4 @@ BID ABSTRACT POSTED March 3, 2026 Amendment 0005 - The purpose is to provide res
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9b4cd077fb2f4ce48845afb57a452d2a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9b4cd077fb2f4ce48845afb57a452d2a/view)

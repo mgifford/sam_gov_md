@@ -25,4 +25,4 @@ Proposed procurement for NSN 2540014227757 VENTILATOR,AIR CIRC: Line 0001 Qty 45
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b17130bf56dc497192a4c5b14244fb5a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b17130bf56dc497192a4c5b14244fb5a/view)

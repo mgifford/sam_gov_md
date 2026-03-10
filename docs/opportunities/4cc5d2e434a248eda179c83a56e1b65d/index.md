@@ -31,4 +31,4 @@ AMENDMENT 0002 - 03/04/2026 - The purpose of this amendment is to correct and cl
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4cc5d2e434a248eda179c83a56e1b65d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4cc5d2e434a248eda179c83a56e1b65d/view)

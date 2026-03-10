@@ -28,4 +28,4 @@ THIS IS A SOURCES SOUGHT NOTICE ONLY. THIS IS NOT A REQUEST FOR QUOTE. � The N
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/394825da195543d085d1c0409f7a1d04/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/394825da195543d085d1c0409f7a1d04/view)

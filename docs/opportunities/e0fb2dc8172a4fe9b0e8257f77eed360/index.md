@@ -30,4 +30,4 @@ Benzoyl Peroxide
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e0fb2dc8172a4fe9b0e8257f77eed360/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e0fb2dc8172a4fe9b0e8257f77eed360/view)

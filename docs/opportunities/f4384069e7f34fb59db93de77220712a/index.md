@@ -28,4 +28,4 @@ Page 2 of 98 SECTION B CONTINUATION OF COMBINED SYNOPSIS-SOLICITATION 1. This is
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f4384069e7f34fb59db93de77220712a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f4384069e7f34fb59db93de77220712a/view)

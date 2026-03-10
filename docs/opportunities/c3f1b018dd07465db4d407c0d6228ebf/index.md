@@ -25,4 +25,4 @@ Proposed procurement for NSN 1560010820684 FITTING ASSEMBLY: Line 0001 Qty 10 UI
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c3f1b018dd07465db4d407c0d6228ebf/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c3f1b018dd07465db4d407c0d6228ebf/view)

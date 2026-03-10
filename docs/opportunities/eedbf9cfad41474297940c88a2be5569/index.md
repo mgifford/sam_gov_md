@@ -26,4 +26,4 @@ Amended to include set aside code. Zeus Plus Diagnostic Mobile Workcenter
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/eedbf9cfad41474297940c88a2be5569/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/eedbf9cfad41474297940c88a2be5569/view)

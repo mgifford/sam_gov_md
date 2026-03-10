@@ -25,4 +25,4 @@ NSN 7R-4820-000215577-EK, TDP VER 010, REF NR U513150-51, QTY 28 EA, DELIVERY FO
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/22055e436a2242cdbfbebaf501f64cc2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/22055e436a2242cdbfbebaf501f64cc2/view)

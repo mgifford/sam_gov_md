@@ -30,4 +30,4 @@ This is a Combined Synopsis/Solicitation for the Flight Training BPA Agreement #
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3ed8a337e37746528eef01fcfe6f4898/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3ed8a337e37746528eef01fcfe6f4898/view)

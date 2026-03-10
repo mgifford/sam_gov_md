@@ -25,4 +25,4 @@ Proposed procurement for NSN 5963016461056 DETECTOR,VIDEO SIGN: Line 0001 Qty 22
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a3220306f5214c63903a7306a70a066c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a3220306f5214c63903a7306a70a066c/view)

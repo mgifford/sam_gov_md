@@ -28,4 +28,4 @@ Solicitation: 36C25226R0038 Project: 578-26-004 IDIQ Abatement Services Place of
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/dd400781f6ff431f85d1d575ade18a80/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/dd400781f6ff431f85d1d575ade18a80/view)

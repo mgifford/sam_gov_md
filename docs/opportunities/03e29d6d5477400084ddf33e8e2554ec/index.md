@@ -28,4 +28,4 @@ Former Tooele SEAT Base Clean Up
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/03e29d6d5477400084ddf33e8e2554ec/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/03e29d6d5477400084ddf33e8e2554ec/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 6625016050401 TEST SET,ELECTRICAL: Line 0001 Qty 1 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/481ef86e298947faa6e41ae1bf654daf/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/481ef86e298947faa6e41ae1bf654daf/view)

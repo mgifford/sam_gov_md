@@ -29,4 +29,4 @@ Naval Surface Warfare Center Carderock Division (NSWCCD) intends to award a firm
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1bb6052dd6ce4546b8d48fe3e4e344e1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1bb6052dd6ce4546b8d48fe3e4e344e1/view)

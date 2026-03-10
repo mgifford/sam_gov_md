@@ -30,4 +30,4 @@ TECHNICAL SERVICES USCGC ALEX HALEY (WMEC-39) – Z12204 REPAIRS TO REDUCTION GE
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2905fe9bace04c35a73df9d5fae443f3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2905fe9bace04c35a73df9d5fae443f3/view)

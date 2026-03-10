@@ -24,4 +24,4 @@ Description: Please join Subject Matter Expert(s) from the Army Contracting Comm
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3cc64a119f9b4b769ff5872baad84c16/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3cc64a119f9b4b769ff5872baad84c16/view)

@@ -30,4 +30,4 @@ Procure and install Universal Weapons Racks. The designated contractor shall fur
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/55bd0ba8e01146a88b8f122098a12412/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/55bd0ba8e01146a88b8f122098a12412/view)

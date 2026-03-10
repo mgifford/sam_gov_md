@@ -25,4 +25,4 @@ Description: Sources Sought � Direct View Optics, Aiming Lasers, and Mounting 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c82cb37b16d84d8cabdb510afa4465a9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c82cb37b16d84d8cabdb510afa4465a9/view)

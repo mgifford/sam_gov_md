@@ -26,4 +26,4 @@ NSN: 2840-01-374-0735NZ NOUN: SUPPORT, AUGMENTER E TOP DRAWING: 4080513 EDL REVI
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e2f8282c1ca3410ea144bceb127cd70c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e2f8282c1ca3410ea144bceb127cd70c/view)

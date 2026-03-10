@@ -28,4 +28,4 @@ Multi-Award Blanket Purchase Aggreements for Background Investigation Services. 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f3e32c6f314d4d5fa838c1bb96e6cdce/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f3e32c6f314d4d5fa838c1bb96e6cdce/view)

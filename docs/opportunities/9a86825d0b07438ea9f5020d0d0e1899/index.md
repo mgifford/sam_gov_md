@@ -30,4 +30,4 @@ Enclosed is a Request for Quotations (RFQ) for the subject America250 Promotiona
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9a86825d0b07438ea9f5020d0d0e1899/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9a86825d0b07438ea9f5020d0d0e1899/view)

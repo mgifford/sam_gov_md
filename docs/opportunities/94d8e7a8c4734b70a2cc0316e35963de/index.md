@@ -28,4 +28,4 @@ Bertec vision trainer supply award notice
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/94d8e7a8c4734b70a2cc0316e35963de/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/94d8e7a8c4734b70a2cc0316e35963de/view)

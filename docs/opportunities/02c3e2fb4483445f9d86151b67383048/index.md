@@ -26,4 +26,4 @@ Defense Logistics Agency (DLA) Weapons Support (Richmond) is issuing this Source
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/02c3e2fb4483445f9d86151b67383048/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/02c3e2fb4483445f9d86151b67383048/view)

@@ -28,4 +28,4 @@ NM_SOUTHERNRGRIFT_MAG_RAD_D26
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/337ff6fe1cbd486084cbb957eaeab105/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/337ff6fe1cbd486084cbb957eaeab105/view)

@@ -26,4 +26,4 @@ GAVINS POINT - YANKTON JUNCTION 115-KV TRANSMISSION LINE REBUILD, NEBRASKA/SOUTH
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1684c36eafa04699ae10f3c6d79f30f1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1684c36eafa04699ae10f3c6d79f30f1/view)

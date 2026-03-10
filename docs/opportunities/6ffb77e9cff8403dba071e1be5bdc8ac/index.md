@@ -26,4 +26,4 @@ WY MIRACLE MILE VAULT CONSTRUCTION
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6ffb77e9cff8403dba071e1be5bdc8ac/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6ffb77e9cff8403dba071e1be5bdc8ac/view)

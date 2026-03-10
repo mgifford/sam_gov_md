@@ -25,4 +25,4 @@ Proposed procurement for NSN 2510015443251 HATCH,ROOF ASSEMBLY: Line 0001 Qty 69
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/17d24699accb4edb98f1cc8e63799061/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/17d24699accb4edb98f1cc8e63799061/view)

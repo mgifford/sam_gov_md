@@ -29,4 +29,4 @@ PLEASE REFER TO ATTACHED SOLICITATION
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3a09a6d9fd944e86a782b083bf6437e3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3a09a6d9fd944e86a782b083bf6437e3/view)

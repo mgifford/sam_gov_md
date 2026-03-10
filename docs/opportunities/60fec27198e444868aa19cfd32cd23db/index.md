@@ -25,4 +25,4 @@ Proposed procurement for NSN 4820012863170 VALVE,SAFETY RELIEF: Line 0001 Qty 1 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/60fec27198e444868aa19cfd32cd23db/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/60fec27198e444868aa19cfd32cd23db/view)

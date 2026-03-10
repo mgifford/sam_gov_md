@@ -25,4 +25,4 @@ The United States Embassy in Berlin requires professional services and contracto
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/08e52c01e63e42d6bbb4bc03323900fc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/08e52c01e63e42d6bbb4bc03323900fc/view)

@@ -36,4 +36,4 @@ This is a construction requirement for the design, demolition and installation o
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9322505929ad40f2b01c51c3db8f7506/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9322505929ad40f2b01c51c3db8f7506/view)

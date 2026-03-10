@@ -28,4 +28,4 @@ This limited source justification is to extend the Period of Performance and inc
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/19b2a91d86bf45d5a3adddc2f6f4ef60/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/19b2a91d86bf45d5a3adddc2f6f4ef60/view)

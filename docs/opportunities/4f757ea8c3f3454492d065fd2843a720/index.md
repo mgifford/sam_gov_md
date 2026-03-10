@@ -25,4 +25,4 @@ Proposed procurement for NSN 8145015121015 SUPPORT,SHIPPING AN: Line 0001 Qty 12
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4f757ea8c3f3454492d065fd2843a720/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4f757ea8c3f3454492d065fd2843a720/view)

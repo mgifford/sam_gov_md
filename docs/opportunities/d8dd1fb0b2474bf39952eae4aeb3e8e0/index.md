@@ -30,4 +30,4 @@ Army Contracting Command - Detroit Arsenal (ACC-DTA) is soliciting a Request for
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d8dd1fb0b2474bf39952eae4aeb3e8e0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d8dd1fb0b2474bf39952eae4aeb3e8e0/view)

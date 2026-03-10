@@ -27,4 +27,4 @@ Amendment 0001 to Solicitation/RFQ 36C26226Q0391 is hereby issued to formally ca
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/94294f8c159d43b29c8366d5cf9b2a88/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/94294f8c159d43b29c8366d5cf9b2a88/view)

@@ -29,4 +29,4 @@ This procurement is restricted to the M&R MACC contractors. Only the M&R MACC co
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8e166d5430ac4894affb50685a825ab5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8e166d5430ac4894affb50685a825ab5/view)

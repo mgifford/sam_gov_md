@@ -26,4 +26,4 @@ Marine Depot Maintenance Command has a requirement for the ‘cartridge filter e
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a09bd11d58f54812b92231d6a1095a8f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a09bd11d58f54812b92231d6a1095a8f/view)

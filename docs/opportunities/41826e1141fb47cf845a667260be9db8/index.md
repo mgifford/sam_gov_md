@@ -25,4 +25,4 @@ Proposed procurement for NSN 5365017009608 BUSHING,SLEEVE: Line 0001 Qty 1700 UI
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/41826e1141fb47cf845a667260be9db8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/41826e1141fb47cf845a667260be9db8/view)

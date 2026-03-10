@@ -26,4 +26,4 @@ NSN: 2840-01-443-5590NZ NOUN: DUCT, COMPRESSOR, AIR. TOP DRAWING: 4082849 EDL RE
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c016cf0fc8cc408e8b608ef83aa2d435/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c016cf0fc8cc408e8b608ef83aa2d435/view)

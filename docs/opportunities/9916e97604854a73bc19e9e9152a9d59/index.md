@@ -34,4 +34,4 @@ The Air Force Sustainment Center PZIMB, Robins AFB, GA has a requirement to purc
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9916e97604854a73bc19e9e9152a9d59/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9916e97604854a73bc19e9e9152a9d59/view)

@@ -28,4 +28,4 @@ The contractor is responsible for maintaining APS-4 at Camp Carroll, Waegwan, Ko
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1b259e5addf34b349cc85e28553587eb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1b259e5addf34b349cc85e28553587eb/view)

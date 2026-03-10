@@ -28,4 +28,4 @@ The Louis A Johnson VA Medical Center (hereafter LAJVAMC) is conducting this Sou
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4031ffbb8c0142cfa2bb03850f5e3977/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4031ffbb8c0142cfa2bb03850f5e3977/view)

@@ -34,4 +34,4 @@ I. General Information 1. The Department of War (DOW) Air Force Office of Scient
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d3d8bfea4da64dada93872c1b2277327/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d3d8bfea4da64dada93872c1b2277327/view)

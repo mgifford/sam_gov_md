@@ -27,4 +27,4 @@ This Indefinite Delivery / Indefinite Quantity (IDIQ) contract was awarded in ac
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3b6fbdbafb8e49388c1be8245e025d55/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3b6fbdbafb8e49388c1be8245e025d55/view)

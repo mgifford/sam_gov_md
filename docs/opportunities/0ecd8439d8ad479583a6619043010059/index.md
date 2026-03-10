@@ -25,4 +25,4 @@ Proposed procurement for NSN 4930014805854 FILTER-LUBRICATOR A: Line 0001 Qty 2 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0ecd8439d8ad479583a6619043010059/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0ecd8439d8ad479583a6619043010059/view)

@@ -28,4 +28,4 @@ TONER FOR TMES
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f137ad150ee84126a83970dbfb880e27/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f137ad150ee84126a83970dbfb880e27/view)

@@ -26,4 +26,4 @@ The United States Army Corps of Engineers (USACE) Europe District is procuring a
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2380ff7d974a48abb5e40b161592b016/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2380ff7d974a48abb5e40b161592b016/view)

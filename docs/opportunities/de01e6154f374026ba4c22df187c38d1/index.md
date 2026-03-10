@@ -28,4 +28,4 @@ This is a non-personnel services contract to provide Laundry and Dry-Cleaning se
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/de01e6154f374026ba4c22df187c38d1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/de01e6154f374026ba4c22df187c38d1/view)

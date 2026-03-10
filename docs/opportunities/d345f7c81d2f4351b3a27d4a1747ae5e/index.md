@@ -31,4 +31,4 @@ CONTACT INFORMATION|4|N741.8|HW1AA|N/A|SEANA.M.STEINER.CIV@US.NAVY.MIL| ITEM UNI
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d345f7c81d2f4351b3a27d4a1747ae5e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d345f7c81d2f4351b3a27d4a1747ae5e/view)

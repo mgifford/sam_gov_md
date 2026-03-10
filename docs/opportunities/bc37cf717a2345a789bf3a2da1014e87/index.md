@@ -25,4 +25,4 @@ Proposed procurement for NSN 6695016186642 TRANSDUCER,MOTIONAL: Line 0001 Qty 1 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bc37cf717a2345a789bf3a2da1014e87/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bc37cf717a2345a789bf3a2da1014e87/view)

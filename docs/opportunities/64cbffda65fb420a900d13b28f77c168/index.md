@@ -29,4 +29,4 @@ In order to improve communication with our stakeholders, the Army Contracting Co
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/64cbffda65fb420a900d13b28f77c168/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/64cbffda65fb420a900d13b28f77c168/view)

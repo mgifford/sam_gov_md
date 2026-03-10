@@ -28,4 +28,4 @@ The U.S. Embassy in Mexico City requires provision of Security Upgrades at new a
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6c6c9856fe2c460d824eaaa4b34ea637/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6c6c9856fe2c460d824eaaa4b34ea637/view)

@@ -34,4 +34,4 @@ Amendment #2 - Uploaded vendor questions with Requiring Activity answers. Please
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/17cc2419a0a141e68606a56d6c0e13a0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/17cc2419a0a141e68606a56d6c0e13a0/view)

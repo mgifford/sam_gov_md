@@ -25,4 +25,4 @@ NAVSUP Weapon Systems Support (NAVSUP WSS) Philadelphia intends to solicit on a 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d563d57f2b724c7e91eaa18c3575afae/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d563d57f2b724c7e91eaa18c3575afae/view)

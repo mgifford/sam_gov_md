@@ -25,4 +25,4 @@ Proposed procurement for NSN 5998012307809 CIRCUIT CARD ASSEMB: Line 0001 Qty 9 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f0b9118188e54ba2895bfed34a22e282/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f0b9118188e54ba2895bfed34a22e282/view)

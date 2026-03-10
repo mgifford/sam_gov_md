@@ -28,4 +28,4 @@ This is a sources sought announcement only. It is neither a solicitation announc
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/970e73be97d64a2987f22acdea26063e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/970e73be97d64a2987f22acdea26063e/view)

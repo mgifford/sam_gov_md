@@ -26,4 +26,4 @@ RequirementThe National Law Enforcement Officer¿s Memorial (450 F St NW, Washin
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/23f48fd7cc5a4a0e8253066865c7de98/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/23f48fd7cc5a4a0e8253066865c7de98/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 1660010353739 DUCT ASSEMBLY,AIR C: Line 0001 Qty 4 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ce22af2b33f64ef78f7e4d67d35a8352/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ce22af2b33f64ef78f7e4d67d35a8352/view)

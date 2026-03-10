@@ -25,4 +25,4 @@ Proposed procurement for NSN 5996013054892 AMPLIFIER: Line 0001 Qty 7 UI EA Deli
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e22ef3917b0548d6be08e281dab5d845/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e22ef3917b0548d6be08e281dab5d845/view)

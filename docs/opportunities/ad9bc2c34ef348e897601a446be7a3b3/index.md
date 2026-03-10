@@ -26,4 +26,4 @@ Subsurface pavement investigation consisting of six (6) shallow borings with ass
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ad9bc2c34ef348e897601a446be7a3b3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ad9bc2c34ef348e897601a446be7a3b3/view)

@@ -26,4 +26,4 @@ SUBJECT: COMBINED SYNOPSIS /SOLICITATION: Regional Sub-Saharan Africa Digital In
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2d4c7f0e63d54b0eb97186e281ce6037/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2d4c7f0e63d54b0eb97186e281ce6037/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 2530014729842 STEERING GEAR,MITER: Line 0001 Qty 12
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7aee1f3677274f8297cac3f8915dc754/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7aee1f3677274f8297cac3f8915dc754/view)

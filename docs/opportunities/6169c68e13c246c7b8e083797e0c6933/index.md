@@ -29,4 +29,4 @@ This requirement is in support of the Marine Corps Recruiting Commands (MCRC) pr
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6169c68e13c246c7b8e083797e0c6933/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6169c68e13c246c7b8e083797e0c6933/view)

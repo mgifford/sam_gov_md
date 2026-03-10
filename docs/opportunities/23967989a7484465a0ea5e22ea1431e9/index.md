@@ -25,4 +25,4 @@ Proposed procurement for NSN 3950016593754 FAIRLEAD,ROLLER: Line 0001 Qty 1 UI E
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/23967989a7484465a0ea5e22ea1431e9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/23967989a7484465a0ea5e22ea1431e9/view)

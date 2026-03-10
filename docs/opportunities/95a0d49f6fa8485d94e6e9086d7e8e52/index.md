@@ -26,4 +26,4 @@ Naval Undersea Warfare Center Division, Newport (NUWCDIVNPT) intends to award a 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/95a0d49f6fa8485d94e6e9086d7e8e52/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/95a0d49f6fa8485d94e6e9086d7e8e52/view)

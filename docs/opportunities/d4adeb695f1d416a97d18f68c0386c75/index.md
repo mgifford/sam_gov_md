@@ -25,4 +25,4 @@ Proposed procurement for NSN 9390012231437 NONMETALLIC ROD: Line 0001 Qty 42 UI 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d4adeb695f1d416a97d18f68c0386c75/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d4adeb695f1d416a97d18f68c0386c75/view)

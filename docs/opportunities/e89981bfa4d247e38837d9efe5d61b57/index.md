@@ -26,4 +26,4 @@ Extrication Tools (Rescue) Amendment 0001 includes updated quantities of 1 ESLC-
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e89981bfa4d247e38837d9efe5d61b57/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e89981bfa4d247e38837d9efe5d61b57/view)

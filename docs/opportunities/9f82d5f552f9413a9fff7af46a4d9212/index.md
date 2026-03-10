@@ -25,4 +25,4 @@ NSN 1R-4910-004637383-SX, REF NR 64E33087-1, QTY 7 EA, DELIVERY FOB ORIGIN. All 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9f82d5f552f9413a9fff7af46a4d9212/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9f82d5f552f9413a9fff7af46a4d9212/view)

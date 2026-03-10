@@ -28,4 +28,4 @@ The scope of this effort is to provide program management and planning, lessons 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7640ae970a8b4d2db9df0f9146911a7c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7640ae970a8b4d2db9df0f9146911a7c/view)

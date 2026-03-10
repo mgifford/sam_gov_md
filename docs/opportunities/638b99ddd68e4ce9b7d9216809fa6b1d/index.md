@@ -25,4 +25,4 @@ Proposed procurement for NSN 6220014432464 LIGHT,INDICATOR: Line 0001 Qty 178 UI
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/638b99ddd68e4ce9b7d9216809fa6b1d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/638b99ddd68e4ce9b7d9216809fa6b1d/view)

@@ -26,4 +26,4 @@ THE ATTACHED SOLICITATION AND ANY SUBSEQUENT AMENDMENTS WILL BE POSTED TO THE SA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/edbcf9ace54c4be48f37d20f7303a96e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/edbcf9ace54c4be48f37d20f7303a96e/view)

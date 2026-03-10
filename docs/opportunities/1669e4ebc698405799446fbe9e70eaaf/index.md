@@ -26,4 +26,4 @@ see attachments Amend 0001 - post drawings (acess required) and first Q&A
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1669e4ebc698405799446fbe9e70eaaf/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1669e4ebc698405799446fbe9e70eaaf/view)

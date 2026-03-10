@@ -25,4 +25,4 @@ This requirement consolidates services currently performed under Task Order No. 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bdd76c290e184a229b15743964e6bef0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bdd76c290e184a229b15743964e6bef0/view)

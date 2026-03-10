@@ -25,4 +25,4 @@ Proposed procurement for NSN 6685145478924 SENSOR,AMBIENT TEMP: Line 0001 Qty 3 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0a725d512fa2498c9d48a5fabc815744/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0a725d512fa2498c9d48a5fabc815744/view)

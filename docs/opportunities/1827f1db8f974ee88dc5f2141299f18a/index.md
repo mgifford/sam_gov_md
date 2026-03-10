@@ -29,4 +29,4 @@ This is a non-personal services contract to provide inventory management and sto
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1827f1db8f974ee88dc5f2141299f18a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1827f1db8f974ee88dc5f2141299f18a/view)

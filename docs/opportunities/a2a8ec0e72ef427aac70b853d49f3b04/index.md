@@ -26,4 +26,4 @@ Please see the attached soliciation W91RUS26QA023 Please fill out and sign the a
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a2a8ec0e72ef427aac70b853d49f3b04/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a2a8ec0e72ef427aac70b853d49f3b04/view)

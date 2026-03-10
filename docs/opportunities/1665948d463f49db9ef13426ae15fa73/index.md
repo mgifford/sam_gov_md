@@ -25,4 +25,4 @@ This is a COMBINED SYNOPSIS/SOLICITATION for commercial product prepared in acco
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1665948d463f49db9ef13426ae15fa73/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1665948d463f49db9ef13426ae15fa73/view)

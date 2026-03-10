@@ -32,4 +32,4 @@ Work includes adding a UPS system to a server. Installation includes a 25kW UPS 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f65a02c98c734bcd9f5abe14c2ea8fd0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f65a02c98c734bcd9f5abe14c2ea8fd0/view)

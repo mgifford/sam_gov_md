@@ -28,4 +28,4 @@ Capability Focus Area 1 (CFA1) is issued against BOTA HQ003425BOTA1 to solicit s
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b12ba21e9115404e96cda7213e9c6491/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b12ba21e9115404e96cda7213e9c6491/view)

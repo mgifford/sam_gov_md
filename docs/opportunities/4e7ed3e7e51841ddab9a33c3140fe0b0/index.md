@@ -25,4 +25,4 @@ NSN 1H-5840-014379608-A5, TDP VER 012, REF NR 7538384, QTY 36 EA, DELIVER TO W25
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4e7ed3e7e51841ddab9a33c3140fe0b0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4e7ed3e7e51841ddab9a33c3140fe0b0/view)

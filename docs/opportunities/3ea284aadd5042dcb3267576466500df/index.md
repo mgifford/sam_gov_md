@@ -30,4 +30,4 @@ The U.S. Army Installation Management Command (IMCOM) NAF Contracting Office, on
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3ea284aadd5042dcb3267576466500df/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3ea284aadd5042dcb3267576466500df/view)

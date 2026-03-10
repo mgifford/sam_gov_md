@@ -26,4 +26,4 @@ Zeus Plus Diagnostic Mobile Workcenter
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ae2dd616f73f446ebc3eeea205674836/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ae2dd616f73f446ebc3eeea205674836/view)

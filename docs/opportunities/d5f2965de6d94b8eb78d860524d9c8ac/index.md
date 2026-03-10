@@ -30,4 +30,4 @@ RFI Number: N/A Project Title: 5' PERFORMANCE LOCKER Response Date: Friday, Marc
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d5f2965de6d94b8eb78d860524d9c8ac/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d5f2965de6d94b8eb78d860524d9c8ac/view)

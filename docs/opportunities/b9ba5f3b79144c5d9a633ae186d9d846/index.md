@@ -52,4 +52,4 @@ STATEMENT OF WORK For Procurement of Captus 4000e Thyroid Uptake System For VA M
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b9ba5f3b79144c5d9a633ae186d9d846/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b9ba5f3b79144c5d9a633ae186d9d846/view)

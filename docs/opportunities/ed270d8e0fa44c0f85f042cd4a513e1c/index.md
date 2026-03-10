@@ -31,4 +31,4 @@ Lyons EHRM Infrastructure Upgrades Construction
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ed270d8e0fa44c0f85f042cd4a513e1c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ed270d8e0fa44c0f85f042cd4a513e1c/view)

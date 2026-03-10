@@ -29,4 +29,4 @@ NOTICE OF INTENT TO AWARD A SOLE-SOURCE Description: The 354th Contracting Squad
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9beb5e2a64e2497f996d8bfe34effa83/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9beb5e2a64e2497f996d8bfe34effa83/view)

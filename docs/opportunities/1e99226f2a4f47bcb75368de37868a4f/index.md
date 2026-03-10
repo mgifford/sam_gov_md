@@ -32,4 +32,4 @@ The 14 Contracting Squadron (14 CONS) is conducting market research for a potent
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1e99226f2a4f47bcb75368de37868a4f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1e99226f2a4f47bcb75368de37868a4f/view)

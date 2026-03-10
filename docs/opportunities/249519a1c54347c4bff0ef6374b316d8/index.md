@@ -29,4 +29,4 @@ EXTENDED RFP AND Q&A The U.S. Army invites proposals from qualified Service-Disa
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/249519a1c54347c4bff0ef6374b316d8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/249519a1c54347c4bff0ef6374b316d8/view)

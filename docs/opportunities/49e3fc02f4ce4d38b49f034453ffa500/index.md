@@ -34,4 +34,4 @@ UPDATE: Site Visit has been scheduled to be conducted on 16 March 2026 at 9:00am
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/49e3fc02f4ce4d38b49f034453ffa500/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/49e3fc02f4ce4d38b49f034453ffa500/view)

@@ -29,4 +29,4 @@ CVE – Interview Fundamental Training 3 and 4 Activity Dates: 19-25 April 2026;
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/32e8de5273c947e8bd17d05170b5e3c9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/32e8de5273c947e8bd17d05170b5e3c9/view)

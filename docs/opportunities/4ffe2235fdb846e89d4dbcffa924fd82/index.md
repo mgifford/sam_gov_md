@@ -25,4 +25,4 @@ Proposed procurement for NSN 2990014172745 COVER,INTAKE MANIFO: Line 0001 Qty 12
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4ffe2235fdb846e89d4dbcffa924fd82/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4ffe2235fdb846e89d4dbcffa924fd82/view)

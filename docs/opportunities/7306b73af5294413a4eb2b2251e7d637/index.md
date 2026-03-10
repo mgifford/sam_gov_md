@@ -25,4 +25,4 @@ Proposed procurement for NSN 6340014712593 SENSING ELEMENT,FIR: Line 0001 Qty 12
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7306b73af5294413a4eb2b2251e7d637/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7306b73af5294413a4eb2b2251e7d637/view)

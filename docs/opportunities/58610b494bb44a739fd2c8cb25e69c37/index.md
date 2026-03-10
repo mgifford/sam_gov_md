@@ -26,4 +26,4 @@ See Attached Documents for the Request for Lease Proposal (RLP)
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/58610b494bb44a739fd2c8cb25e69c37/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/58610b494bb44a739fd2c8cb25e69c37/view)

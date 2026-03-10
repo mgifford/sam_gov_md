@@ -26,4 +26,4 @@ NHTIC PARKING LOT REPAIR 2026
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2572e3cc4fdd4711ae1f2dca6781d401/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2572e3cc4fdd4711ae1f2dca6781d401/view)

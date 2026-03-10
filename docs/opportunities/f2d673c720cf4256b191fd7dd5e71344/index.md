@@ -34,4 +34,4 @@ The purpose of amendment 0002 to RFI 36C26226Q0443 is to attach RFI documents no
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f2d673c720cf4256b191fd7dd5e71344/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f2d673c720cf4256b191fd7dd5e71344/view)

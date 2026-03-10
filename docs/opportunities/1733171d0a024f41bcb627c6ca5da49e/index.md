@@ -25,4 +25,4 @@ NSN 7H-5925-012002714, TDP VER 001, REF NR ACB901R TRP U C0IL RTG 480A, QTY 1 PR
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1733171d0a024f41bcb627c6ca5da49e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1733171d0a024f41bcb627c6ca5da49e/view)

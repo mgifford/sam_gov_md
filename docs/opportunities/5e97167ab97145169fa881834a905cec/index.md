@@ -25,4 +25,4 @@ Proposed procurement for NSN 1680015020437 CLOCK,AIRCRAFT,MATE: Line 0001 Qty 56
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5e97167ab97145169fa881834a905cec/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5e97167ab97145169fa881834a905cec/view)

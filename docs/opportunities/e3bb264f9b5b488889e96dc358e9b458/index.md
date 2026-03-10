@@ -25,4 +25,4 @@ Proposed procurement for NSN 2510015350991 PLATE,ARMOR: Line 0001 Qty 10 UI EA D
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e3bb264f9b5b488889e96dc358e9b458/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e3bb264f9b5b488889e96dc358e9b458/view)

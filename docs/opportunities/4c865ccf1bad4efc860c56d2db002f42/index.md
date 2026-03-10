@@ -25,4 +25,4 @@ ADDITIONAL Questions and Answers Posted. _______________________________________
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4c865ccf1bad4efc860c56d2db002f42/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4c865ccf1bad4efc860c56d2db002f42/view)

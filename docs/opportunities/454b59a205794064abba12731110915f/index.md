@@ -34,4 +34,4 @@ AMENDMENT 1: This solicitation is amended to provide responses to Vendor Questio
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/454b59a205794064abba12731110915f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/454b59a205794064abba12731110915f/view)

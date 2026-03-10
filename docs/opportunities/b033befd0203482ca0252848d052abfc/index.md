@@ -30,4 +30,4 @@ The contractor shall personnel, tools, materials, supervision, setup, teardown, 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b033befd0203482ca0252848d052abfc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b033befd0203482ca0252848d052abfc/view)

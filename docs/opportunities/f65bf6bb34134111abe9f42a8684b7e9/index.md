@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340012222929 BRACKET,MOUNTING: Line 0001 Qty 218 U
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f65bf6bb34134111abe9f42a8684b7e9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f65bf6bb34134111abe9f42a8684b7e9/view)

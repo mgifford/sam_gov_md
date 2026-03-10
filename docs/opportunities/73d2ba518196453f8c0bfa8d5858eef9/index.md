@@ -29,4 +29,4 @@ Cord and Drawstring for various UNICOR Factories. See attached SF1449 for solici
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/73d2ba518196453f8c0bfa8d5858eef9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/73d2ba518196453f8c0bfa8d5858eef9/view)

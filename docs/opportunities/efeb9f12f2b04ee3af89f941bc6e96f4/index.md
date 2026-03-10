@@ -36,4 +36,4 @@ Amendment 03 executed 9 Mar 2026 contains the following changes: -Update the Sta
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/efeb9f12f2b04ee3af89f941bc6e96f4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/efeb9f12f2b04ee3af89f941bc6e96f4/view)

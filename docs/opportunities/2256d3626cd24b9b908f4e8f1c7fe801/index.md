@@ -25,4 +25,4 @@ Proposed procurement for NSN 5330016630112 SEAL,OIL,OUTBOARD: Line 0001 Qty 573 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2256d3626cd24b9b908f4e8f1c7fe801/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2256d3626cd24b9b908f4e8f1c7fe801/view)

@@ -30,4 +30,4 @@ The JCNO Fleet at Schenck Job Corps Center requires immediate procurement of ser
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/eb1f54b041d84cfd82e86ee76c30d65e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/eb1f54b041d84cfd82e86ee76c30d65e/view)

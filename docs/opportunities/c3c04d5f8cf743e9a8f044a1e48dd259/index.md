@@ -30,4 +30,4 @@ Notice ID Number: NIST-SS26-CHIPS-81 Title:?Lock-In Amplifier Response Date: Mar
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c3c04d5f8cf743e9a8f044a1e48dd259/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c3c04d5f8cf743e9a8f044a1e48dd259/view)

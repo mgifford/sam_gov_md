@@ -25,4 +25,4 @@ Proposed procurement for NSN 2540009044562 CUSHION,SEAT BACK,V: Line 0001 Qty 46
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1b8fc57ba2cc443fb88ecceec87f1743/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1b8fc57ba2cc443fb88ecceec87f1743/view)

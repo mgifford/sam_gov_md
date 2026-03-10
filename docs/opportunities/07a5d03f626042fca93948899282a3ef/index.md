@@ -25,4 +25,4 @@ Proposed procurement for NSN 5330012910846 GASKET ASSEMBLY: Line 0001 Qty 155 UI
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/07a5d03f626042fca93948899282a3ef/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/07a5d03f626042fca93948899282a3ef/view)

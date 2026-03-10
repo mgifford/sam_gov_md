@@ -25,4 +25,4 @@ Proposed procurement for NSN 2540015752261 BLADE,WINDSHIELD WI: Line 0001 Qty 19
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/44047563def44754887d4f68025b27b6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/44047563def44754887d4f68025b27b6/view)

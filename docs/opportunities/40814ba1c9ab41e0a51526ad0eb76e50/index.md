@@ -19,4 +19,4 @@ Host: Capability Program Executive Simulation, Training, Test & Threat (CPE ST3)
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/40814ba1c9ab41e0a51526ad0eb76e50/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/40814ba1c9ab41e0a51526ad0eb76e50/view)

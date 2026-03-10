@@ -27,4 +27,4 @@ Solicitation 36C26026R0029 Project 663-21-100 Upgrade External Security System
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/cdf0ae9c7a5c4028bf7526c5748177be/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cdf0ae9c7a5c4028bf7526c5748177be/view)

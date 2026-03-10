@@ -25,4 +25,4 @@ Proposed procurement for NSN 2540015847454 HANDLE,DOOR,VEHICUL: Line 0001 Qty 10
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/25f3f7ca5cb94799a0d2dc88d2ff445e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/25f3f7ca5cb94799a0d2dc88d2ff445e/view)

@@ -30,4 +30,4 @@ Please see 'Atch 1 - Wheel Drive Key' for details regarding this posting. THIS I
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/301af9aa11044ee89c48e608f5f45362/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/301af9aa11044ee89c48e608f5f45362/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 4710010737977 TUBE ASSEMBLY,METAL: Line 0001 Qty 7 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8314a2a99d8b4b02afc0da8c0a8a5e1b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8314a2a99d8b4b02afc0da8c0a8a5e1b/view)

@@ -32,4 +32,4 @@ REPAIR QUALIFICATION REQUIREMENTS NSN: 5998-01-247-8169 P/N: 762R923G01 Noun: Re
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9cebbc63deed47b3bdcab50ce7e1dd7d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9cebbc63deed47b3bdcab50ce7e1dd7d/view)

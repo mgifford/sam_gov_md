@@ -25,4 +25,4 @@ Proposed procurement for NSN 2040015416707 ARMOR,SUPPLEMENTAL,: Line 0001 Qty 12
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f2f3a567706741ee89cb039638430d13/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f2f3a567706741ee89cb039638430d13/view)

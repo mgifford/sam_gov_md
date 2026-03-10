@@ -32,4 +32,4 @@ The U.S. Army Corps of Engineers (USACE), Huntsville Center (HNC) intends to iss
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/950335c60f9c491887b9a2bda834fd65/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/950335c60f9c491887b9a2bda834fd65/view)

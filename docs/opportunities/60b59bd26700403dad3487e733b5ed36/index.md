@@ -25,4 +25,4 @@ Proposed procurement for NSN 4620016755010 DISTILLATION UNIT,D: Line 0001 Qty 1 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/60b59bd26700403dad3487e733b5ed36/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/60b59bd26700403dad3487e733b5ed36/view)

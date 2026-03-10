@@ -28,4 +28,4 @@ The Department of Veterans Affairs, Veterans Health Administration (VHA), Networ
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c2530ec6c179460d85d04bad9f27cc3b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c2530ec6c179460d85d04bad9f27cc3b/view)

@@ -25,4 +25,4 @@ The Umatilla National Forest, Pendleton, OR requires roadway surface and vegetat
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b0d4900f777a46e5adb7e158d16820a4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b0d4900f777a46e5adb7e158d16820a4/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 6130001485793 RECTIFIER,DIMMER: Line 0001 Qty 1 UI 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/49bfff7e8eee447eb7000710e34a8314/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/49bfff7e8eee447eb7000710e34a8314/view)

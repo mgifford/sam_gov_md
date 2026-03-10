@@ -25,4 +25,4 @@ Proposed procurement for NSN 4320016925519 PUMP UNIT,CENTRIFUG: Line 0001 Qty 98
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8a9ed3e960a14899a46aa2c58274e651/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8a9ed3e960a14899a46aa2c58274e651/view)

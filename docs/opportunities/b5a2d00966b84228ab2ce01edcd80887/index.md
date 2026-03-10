@@ -30,4 +30,4 @@ This notice was posted to identify sources that can manufacture NSN 5965-14-559-
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b5a2d00966b84228ab2ce01edcd80887/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b5a2d00966b84228ab2ce01edcd80887/view)

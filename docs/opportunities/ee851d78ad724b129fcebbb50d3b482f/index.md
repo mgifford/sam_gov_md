@@ -25,4 +25,4 @@ Proposed procurement for NSN 1005014624306 BARREL,AUTOMATIC GUN: Line 0001 Qty 8
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ee851d78ad724b129fcebbb50d3b482f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ee851d78ad724b129fcebbb50d3b482f/view)

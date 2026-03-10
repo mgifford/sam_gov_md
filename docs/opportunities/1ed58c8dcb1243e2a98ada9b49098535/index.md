@@ -28,4 +28,4 @@ The anticipated performance period is for a base year, with four one-year option
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1ed58c8dcb1243e2a98ada9b49098535/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1ed58c8dcb1243e2a98ada9b49098535/view)

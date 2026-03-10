@@ -25,4 +25,4 @@ This is a VISN wide contract for the leasing of scopes, to include maintenance a
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ffcc540ef6d54dd198233affdb8c19da/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ffcc540ef6d54dd198233affdb8c19da/view)

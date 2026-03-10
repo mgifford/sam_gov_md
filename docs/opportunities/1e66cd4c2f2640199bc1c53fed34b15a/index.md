@@ -30,4 +30,4 @@ PHNSYIMF requires a qualified Contractor to provide annual preventative maintena
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1e66cd4c2f2640199bc1c53fed34b15a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1e66cd4c2f2640199bc1c53fed34b15a/view)

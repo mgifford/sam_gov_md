@@ -29,4 +29,4 @@ Amendment 0001 Posted 3-6-2026. The objective of this contract is for the contra
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fadf22bdcaef4b6f94fc3eff7ae8376c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fadf22bdcaef4b6f94fc3eff7ae8376c/view)

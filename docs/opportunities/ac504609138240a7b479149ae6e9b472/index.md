@@ -26,4 +26,4 @@ THIS NOTICE IS FOR SOURCES SOUGHT ONLY. This announcement is seeking information
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ac504609138240a7b479149ae6e9b472/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ac504609138240a7b479149ae6e9b472/view)

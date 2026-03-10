@@ -27,4 +27,4 @@ Custom Surgical Packs
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/327eb43a07a04e47848f794085a33051/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/327eb43a07a04e47848f794085a33051/view)

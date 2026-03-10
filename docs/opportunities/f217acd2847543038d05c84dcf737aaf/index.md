@@ -25,4 +25,4 @@ Solicitation attached.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f217acd2847543038d05c84dcf737aaf/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f217acd2847543038d05c84dcf737aaf/view)

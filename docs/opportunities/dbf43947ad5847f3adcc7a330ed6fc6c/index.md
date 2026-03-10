@@ -27,4 +27,4 @@ The Defense Health Agency (DHA) intends to award a sole-source contract with ABB
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/dbf43947ad5847f3adcc7a330ed6fc6c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/dbf43947ad5847f3adcc7a330ed6fc6c/view)

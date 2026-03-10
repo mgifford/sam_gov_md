@@ -28,4 +28,4 @@ This is a Combined Synopsis/Solicitation for the acquisition of a STORAGE CABINE
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/16dc781f4bc54cc49db71a02a60215e2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/16dc781f4bc54cc49db71a02a60215e2/view)

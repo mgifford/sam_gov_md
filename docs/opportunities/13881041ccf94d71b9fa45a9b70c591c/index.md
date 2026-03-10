@@ -37,4 +37,4 @@ VA Connecticut Healthcare System Newington Water Supply Delivery Combined Synops
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/13881041ccf94d71b9fa45a9b70c591c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/13881041ccf94d71b9fa45a9b70c591c/view)

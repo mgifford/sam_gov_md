@@ -30,4 +30,4 @@ The Fleet Logistics Center Norfolk (FLCN), Norfolk, Virginia is seeking informat
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b1b8412d65ab49448b89bbcc2281fb54/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b1b8412d65ab49448b89bbcc2281fb54/view)

@@ -35,4 +35,4 @@ This is a notice of intent to award a sole source contract and is not a request 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d1ce6711b4de42d48acfa90f99e33e65/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d1ce6711b4de42d48acfa90f99e33e65/view)

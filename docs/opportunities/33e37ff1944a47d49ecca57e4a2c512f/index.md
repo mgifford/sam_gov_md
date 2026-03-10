@@ -29,4 +29,4 @@ The U.S. Army Contracting Command ? New Jersey is issuing this sources sought sy
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/33e37ff1944a47d49ecca57e4a2c512f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/33e37ff1944a47d49ecca57e4a2c512f/view)

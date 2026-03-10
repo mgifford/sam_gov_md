@@ -28,4 +28,4 @@ OR MALHEUR NWR EAST CANAL PIPE Provide and deliver culverts, water control struc
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1e3e86d119a64742b763158ed85c3a23/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1e3e86d119a64742b763158ed85c3a23/view)

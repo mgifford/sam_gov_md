@@ -29,4 +29,4 @@ Title: USCGC ELM (WLB-204) Buoy Tender DOCKSIDE FY2026 REQUIREMENT: The U.S. Coa
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6a071fda54534e45b7369e89fe6c1d8b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6a071fda54534e45b7369e89fe6c1d8b/view)

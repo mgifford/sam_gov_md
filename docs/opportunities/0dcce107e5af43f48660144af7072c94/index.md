@@ -28,4 +28,4 @@ Combined Synopsis/Solicitation IAW FAR 12.603 a combined synopsis/solicitation i
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0dcce107e5af43f48660144af7072c94/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0dcce107e5af43f48660144af7072c94/view)

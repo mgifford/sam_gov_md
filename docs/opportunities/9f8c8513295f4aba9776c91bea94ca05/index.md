@@ -30,4 +30,4 @@ The DLA Aviation Richmond is issuing this sources sought as a means of conductin
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9f8c8513295f4aba9776c91bea94ca05/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9f8c8513295f4aba9776c91bea94ca05/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 5320016963198 PIN-RIVET: Line 0001 Qty 95 UI EA Del
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3cff5b2a39b34509b6b33570c52ec6fd/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3cff5b2a39b34509b6b33570c52ec6fd/view)

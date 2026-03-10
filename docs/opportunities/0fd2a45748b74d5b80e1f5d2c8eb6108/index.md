@@ -28,4 +28,4 @@ Sources Sought Notice: 36C776-26-AP-1112 EBSCO Consolidated CINAHL Medline PBSC 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0fd2a45748b74d5b80e1f5d2c8eb6108/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0fd2a45748b74d5b80e1f5d2c8eb6108/view)

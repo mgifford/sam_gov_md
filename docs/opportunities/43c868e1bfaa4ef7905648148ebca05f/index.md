@@ -25,4 +25,4 @@ Proposed procurement for NSN 4030014674103 SWIVEL AND LINK ASS: Line 0001 Qty 57
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/43c868e1bfaa4ef7905648148ebca05f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/43c868e1bfaa4ef7905648148ebca05f/view)

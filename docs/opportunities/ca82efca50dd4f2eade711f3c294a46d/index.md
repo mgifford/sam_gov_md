@@ -30,4 +30,4 @@ Private Sector Workload Estimates for Fiscal Year 2026, Quarter 2 Month 2 This D
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ca82efca50dd4f2eade711f3c294a46d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ca82efca50dd4f2eade711f3c294a46d/view)

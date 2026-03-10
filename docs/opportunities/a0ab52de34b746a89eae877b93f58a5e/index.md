@@ -26,4 +26,4 @@ The Defense Logistics Agency (DLA) Maritime Norfolk at Norfolk Naval Shipyard (N
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a0ab52de34b746a89eae877b93f58a5e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a0ab52de34b746a89eae877b93f58a5e/view)

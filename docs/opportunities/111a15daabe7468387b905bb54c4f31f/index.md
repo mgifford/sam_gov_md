@@ -25,4 +25,4 @@ IMPORTANT INFORMATION: This market survey is for informational and planning purp
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/111a15daabe7468387b905bb54c4f31f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/111a15daabe7468387b905bb54c4f31f/view)

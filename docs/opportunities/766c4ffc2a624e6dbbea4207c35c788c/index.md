@@ -26,4 +26,4 @@ ND-GARRISON DAM NFH-INDUSTRIAL CONTROL EQUIPMENT
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/766c4ffc2a624e6dbbea4207c35c788c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/766c4ffc2a624e6dbbea4207c35c788c/view)

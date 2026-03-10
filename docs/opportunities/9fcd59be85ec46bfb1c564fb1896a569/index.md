@@ -29,4 +29,4 @@ The contractor has been awarded an Indefinite Delivery Indefinite Quantity (IDIQ
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9fcd59be85ec46bfb1c564fb1896a569/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9fcd59be85ec46bfb1c564fb1896a569/view)

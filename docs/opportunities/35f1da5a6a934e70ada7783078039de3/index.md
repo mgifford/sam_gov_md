@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340003733559 CLEVIS,ROD,AUGMENTO: Line 0001 Qty 18
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/35f1da5a6a934e70ada7783078039de3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/35f1da5a6a934e70ada7783078039de3/view)

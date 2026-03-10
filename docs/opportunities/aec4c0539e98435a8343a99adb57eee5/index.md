@@ -26,4 +26,4 @@ The Department of Energy (DOE), Western Area Power Administration (WAPA), Rocky 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/aec4c0539e98435a8343a99adb57eee5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/aec4c0539e98435a8343a99adb57eee5/view)

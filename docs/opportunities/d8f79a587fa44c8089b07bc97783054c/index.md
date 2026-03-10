@@ -30,4 +30,4 @@ Work covered by this contract and respective task orders against this contract s
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d8f79a587fa44c8089b07bc97783054c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d8f79a587fa44c8089b07bc97783054c/view)

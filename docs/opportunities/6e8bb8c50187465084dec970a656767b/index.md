@@ -25,4 +25,4 @@ Proposed procurement for NSN 2590016006801 BRACKET,VEHICULAR C: Line 0001 Qty 18
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6e8bb8c50187465084dec970a656767b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6e8bb8c50187465084dec970a656767b/view)

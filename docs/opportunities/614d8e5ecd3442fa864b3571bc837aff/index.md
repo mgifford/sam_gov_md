@@ -26,4 +26,4 @@ ESR 2026 Fence Perm Repair Temp Const for the BLM Vale District Office, Oregon T
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/614d8e5ecd3442fa864b3571bc837aff/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/614d8e5ecd3442fa864b3571bc837aff/view)

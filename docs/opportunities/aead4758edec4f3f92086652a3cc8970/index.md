@@ -25,4 +25,4 @@ Please see attached solicitation for description of requirement. Please see Amen
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/aead4758edec4f3f92086652a3cc8970/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/aead4758edec4f3f92086652a3cc8970/view)

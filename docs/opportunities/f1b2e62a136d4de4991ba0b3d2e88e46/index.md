@@ -29,4 +29,4 @@ To provide OEM Service Technician for repairs of the VESTDAVIT Controllers. Repa
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f1b2e62a136d4de4991ba0b3d2e88e46/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f1b2e62a136d4de4991ba0b3d2e88e46/view)

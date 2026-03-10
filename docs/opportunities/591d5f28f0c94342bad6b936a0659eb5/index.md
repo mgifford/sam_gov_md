@@ -26,4 +26,4 @@ THE INCUMBENT CONTRACT WAS AWARDED TO COLLABORATING TECHS LLC FOR $2,356.25/MONT
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/591d5f28f0c94342bad6b936a0659eb5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/591d5f28f0c94342bad6b936a0659eb5/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 5915013875302 RETAINER,ELECTRICAL: Line 0001 Qty 4 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e6aa0438c34347f193237373588fcc5c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e6aa0438c34347f193237373588fcc5c/view)

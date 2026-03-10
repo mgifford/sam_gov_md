@@ -34,4 +34,4 @@ Combined Synopsis/Solicitation AFLCMC/PZI Installation Contracting Support Wrigh
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/cdf6c12bb60842488e0f2fe4b171f0b7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cdf6c12bb60842488e0f2fe4b171f0b7/view)

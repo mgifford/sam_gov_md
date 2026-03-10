@@ -26,4 +26,4 @@ Building 1916-T2 Stormwater Drainage Repair and Parking Lot Asphalt Re-sealing P
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6c955cba1b884fffa29d16891c829ef1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6c955cba1b884fffa29d16891c829ef1/view)

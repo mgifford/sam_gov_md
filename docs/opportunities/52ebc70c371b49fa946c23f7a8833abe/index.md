@@ -30,4 +30,4 @@ Please see Attached Notice of Cancellation document. RFQ 47QSWC26Q0021 is cancel
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/52ebc70c371b49fa946c23f7a8833abe/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/52ebc70c371b49fa946c23f7a8833abe/view)

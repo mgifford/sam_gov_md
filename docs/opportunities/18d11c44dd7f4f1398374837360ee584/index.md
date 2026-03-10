@@ -30,4 +30,4 @@ The Contractor shall provide the 402 Commodities Maintenance Group (CMXG), Robin
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/18d11c44dd7f4f1398374837360ee584/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/18d11c44dd7f4f1398374837360ee584/view)

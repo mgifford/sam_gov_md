@@ -26,4 +26,4 @@ Solicitation amendment to extend the deadline for quotations to 3/11/2026 at noo
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2aacf562b19440c8b22715bc387efdfa/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2aacf562b19440c8b22715bc387efdfa/view)

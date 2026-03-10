@@ -28,4 +28,4 @@ THIS ANNOUNCEMENT IS NOT A REQUEST FOR PROPOSAL. THE GOVERNMENT WILL NOT PAY NOR
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/db2e8b85276345b4a3b7ee7296ec935a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/db2e8b85276345b4a3b7ee7296ec935a/view)

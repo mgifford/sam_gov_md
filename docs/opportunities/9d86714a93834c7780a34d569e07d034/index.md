@@ -30,4 +30,4 @@ This notice is issued by the Department of the Navy, Naval Sea Systems Command (
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9d86714a93834c7780a34d569e07d034/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9d86714a93834c7780a34d569e07d034/view)

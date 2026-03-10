@@ -30,4 +30,4 @@ Increase current base pavements Indefinite Delivery Indefinite Quantity Contract
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f578f6fecae34f45984bcaaf67d20bd8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f578f6fecae34f45984bcaaf67d20bd8/view)

@@ -28,4 +28,4 @@ The project is located at Dinosaur National Monument, Dinosaur, CO
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/46b217a4080b4a6a8025c7877f2cf154/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/46b217a4080b4a6a8025c7877f2cf154/view)

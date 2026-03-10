@@ -25,4 +25,4 @@ Proposed procurement for NSN 1730014225286 ROLLER-AFT,ENGINE I: Line 0001 Qty 1 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/38a4eaaa6fca414e9d1d5ca176cc4b2c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/38a4eaaa6fca414e9d1d5ca176cc4b2c/view)

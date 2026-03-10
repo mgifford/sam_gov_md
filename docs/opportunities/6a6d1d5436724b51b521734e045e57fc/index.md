@@ -30,4 +30,4 @@ Notice of Intent to Sole Source – Submersible Electric pump rated for 20cfs @ 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6a6d1d5436724b51b521734e045e57fc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6a6d1d5436724b51b521734e045e57fc/view)

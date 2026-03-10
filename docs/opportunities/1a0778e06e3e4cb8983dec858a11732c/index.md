@@ -28,4 +28,4 @@ SYNOPSIS: INTRODUCTION: This Sources Sought Notice is for market research and in
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1a0778e06e3e4cb8983dec858a11732c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1a0778e06e3e4cb8983dec858a11732c/view)

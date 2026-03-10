@@ -25,4 +25,4 @@ The Biological Technologies Office (BTO) of the Defense Advanced Research Projec
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0044ae8d4fb64ace8a5b00e4b7982b87/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0044ae8d4fb64ace8a5b00e4b7982b87/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 2590014821662 CAP,FILLER OPENING: Line 0001 Qty 317
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bdd72e85d5084e40980af1545de0c914/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bdd72e85d5084e40980af1545de0c914/view)

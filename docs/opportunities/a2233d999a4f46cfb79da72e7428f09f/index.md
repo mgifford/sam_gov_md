@@ -31,4 +31,4 @@ Delivery Order SPRDL1-26-F-0074 was awarded on MAR-05-2026 in the amount of $433
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a2233d999a4f46cfb79da72e7428f09f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a2233d999a4f46cfb79da72e7428f09f/view)

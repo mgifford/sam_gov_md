@@ -25,4 +25,4 @@ Proposed procurement for NSN 1560007805692 DUCT,AIR,FLOOR HEAT: Line 0001 Qty 3 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d8925021d0324e7bbfa312100735ddd2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d8925021d0324e7bbfa312100735ddd2/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 6505013856328 TYPHOID VI POLYSACC: Line 0001 Qty 10
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ec87c3e2e68541759745254179e01d5d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ec87c3e2e68541759745254179e01d5d/view)

@@ -26,4 +26,4 @@ COMBINED SYNOPSIS/SOLICITATION: N0017826Q6695 Submitted by: Marcia Rennie NAICS 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/832d32875c324bfda85d71097b7e44db/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/832d32875c324bfda85d71097b7e44db/view)

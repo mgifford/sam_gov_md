@@ -32,4 +32,4 @@ SOURCES SOUGHT NOTICE The Arnold Engineering Development Complex (AEDC) at Arnol
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fbd1b0f7c2034a9584ce80ab1cdce006/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fbd1b0f7c2034a9584ce80ab1cdce006/view)

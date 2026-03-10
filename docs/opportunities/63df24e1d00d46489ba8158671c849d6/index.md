@@ -25,4 +25,4 @@ NSN 1H-5305-016059396-SQ, TDP VER 011, REF NR 8214192, QTY 584 EA, DELIVER TO SW
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/63df24e1d00d46489ba8158671c849d6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/63df24e1d00d46489ba8158671c849d6/view)

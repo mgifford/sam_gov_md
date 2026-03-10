@@ -30,4 +30,4 @@ Federal Contract Opportunity 100% Set-Aside for Small Businesses: Commercial Kit
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f210dfbeeb6e400482e542e6dd9f3803/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f210dfbeeb6e400482e542e6dd9f3803/view)

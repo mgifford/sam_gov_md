@@ -28,4 +28,4 @@ Access Control System (ACS) maintenance services capable of managing control of 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6b4052dd30d94c12b4d5ec00c95fc846/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6b4052dd30d94c12b4d5ec00c95fc846/view)

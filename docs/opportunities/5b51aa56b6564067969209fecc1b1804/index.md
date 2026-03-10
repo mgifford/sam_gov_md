@@ -25,4 +25,4 @@ Proposed procurement for NSN 4820014840543 VALVE,BALL: Line 0001 Qty 11 UI EA De
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5b51aa56b6564067969209fecc1b1804/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5b51aa56b6564067969209fecc1b1804/view)

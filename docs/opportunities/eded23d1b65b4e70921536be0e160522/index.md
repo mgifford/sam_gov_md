@@ -34,4 +34,4 @@ The F-35 Lightning II Joint Program Office (JPO), Arlington, Virginia, will host
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/eded23d1b65b4e70921536be0e160522/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/eded23d1b65b4e70921536be0e160522/view)

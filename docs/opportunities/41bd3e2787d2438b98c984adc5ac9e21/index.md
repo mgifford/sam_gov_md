@@ -26,4 +26,4 @@ AMENDMENT 1 - please be sure to acknowledge all amendments when responding to th
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/41bd3e2787d2438b98c984adc5ac9e21/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/41bd3e2787d2438b98c984adc5ac9e21/view)

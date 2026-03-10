@@ -28,4 +28,4 @@ Powered Flight Program (PFP) United States Naval Academy Sources Sought Announce
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6e1d3a5db3254fe4892053192916c61f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6e1d3a5db3254fe4892053192916c61f/view)

@@ -29,4 +29,4 @@ This is a new requirement. Please read all attachments. The subject requirement 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9e7e933a0dba4ce5b4192ad175db695f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9e7e933a0dba4ce5b4192ad175db695f/view)

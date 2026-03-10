@@ -25,4 +25,4 @@ Proposed procurement for NSN 2530015223510 PARTS KIT,BRAKE ADJ: Line 0001 Qty 22
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/aa9ce5138d934d6890dd7f33cea1aabe/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/aa9ce5138d934d6890dd7f33cea1aabe/view)

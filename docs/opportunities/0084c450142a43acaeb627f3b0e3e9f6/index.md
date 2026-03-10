@@ -32,4 +32,4 @@ The 59th Medical Wing True North Religious Support Team (RST) in San Antonio, Te
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0084c450142a43acaeb627f3b0e3e9f6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0084c450142a43acaeb627f3b0e3e9f6/view)

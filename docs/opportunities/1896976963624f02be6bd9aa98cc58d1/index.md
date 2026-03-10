@@ -30,4 +30,4 @@ Mountain Home Air Force Base (MHAFB) located in Idaho, is initiating a re-compet
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1896976963624f02be6bd9aa98cc58d1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1896976963624f02be6bd9aa98cc58d1/view)

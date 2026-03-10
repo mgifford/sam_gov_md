@@ -28,4 +28,4 @@ The U.S. Government is conducting additional market research to support a potent
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/25ecd706be314bce9efee9542a96cea0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/25ecd706be314bce9efee9542a96cea0/view)

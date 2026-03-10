@@ -29,4 +29,4 @@ notice_id: 21cab22b575044de8e29491a2ef2869d
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/21cab22b575044de8e29491a2ef2869d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/21cab22b575044de8e29491a2ef2869d/view)

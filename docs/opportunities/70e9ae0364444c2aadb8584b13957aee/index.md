@@ -28,4 +28,4 @@ Associated Sole Source Justification and Approval (SSJ) for BEP Part #MAP3911, G
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/70e9ae0364444c2aadb8584b13957aee/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/70e9ae0364444c2aadb8584b13957aee/view)

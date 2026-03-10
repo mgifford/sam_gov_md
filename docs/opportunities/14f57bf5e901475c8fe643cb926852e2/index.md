@@ -25,4 +25,4 @@ Proposed procurement for NSN 3040997765701 BELL CRANK: Line 0001 Qty 9 UI EA Del
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/14f57bf5e901475c8fe643cb926852e2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/14f57bf5e901475c8fe643cb926852e2/view)

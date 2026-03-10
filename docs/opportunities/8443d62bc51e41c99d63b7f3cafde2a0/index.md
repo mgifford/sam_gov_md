@@ -26,4 +26,4 @@ Supply Chain Management (SCM) General Products Branch is issuing this RFQ for tw
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8443d62bc51e41c99d63b7f3cafde2a0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8443d62bc51e41c99d63b7f3cafde2a0/view)

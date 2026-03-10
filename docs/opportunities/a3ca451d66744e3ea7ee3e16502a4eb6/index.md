@@ -28,4 +28,4 @@ This is a Notice of Intent (NOI) to sole source. This requirement is for continu
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a3ca451d66744e3ea7ee3e16502a4eb6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a3ca451d66744e3ea7ee3e16502a4eb6/view)

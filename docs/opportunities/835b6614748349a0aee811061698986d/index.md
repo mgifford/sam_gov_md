@@ -25,4 +25,4 @@ NSN 1H-5840-014379529, TDP VER 018, REF NR 7338391, QTY 8 EA, DELIVER TO W25G1U,
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/835b6614748349a0aee811061698986d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/835b6614748349a0aee811061698986d/view)

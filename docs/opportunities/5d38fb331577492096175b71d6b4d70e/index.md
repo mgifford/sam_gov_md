@@ -25,4 +25,4 @@ Proposed procurement for NSN 5315011917605 PIN,STRAIGHT,HEADLE: Line 0001 Qty 20
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5d38fb331577492096175b71d6b4d70e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5d38fb331577492096175b71d6b4d70e/view)

@@ -27,4 +27,4 @@ The purpose of this amendment is to respond to vendor questions, update the Stat
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/cdd13b31e6414643998c40afd7563a51/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cdd13b31e6414643998c40afd7563a51/view)

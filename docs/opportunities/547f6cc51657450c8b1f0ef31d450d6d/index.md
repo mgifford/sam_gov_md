@@ -25,4 +25,4 @@ NASA/NSSC has a requirement for Environmentally Assisted Cracking EAC susceptibi
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/547f6cc51657450c8b1f0ef31d450d6d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/547f6cc51657450c8b1f0ef31d450d6d/view)

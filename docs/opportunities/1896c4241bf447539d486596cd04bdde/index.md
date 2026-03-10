@@ -25,4 +25,4 @@ Proposed procurement for NSN 2510015357759 PLATE,FIREWALL: Line 0001 Qty 21 UI E
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1896c4241bf447539d486596cd04bdde/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1896c4241bf447539d486596cd04bdde/view)

@@ -25,4 +25,4 @@ To support industry partners in their planning and market research efforts, the 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1a053b1b2fa344ebbed33d9b7f4cef55/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1a053b1b2fa344ebbed33d9b7f4cef55/view)

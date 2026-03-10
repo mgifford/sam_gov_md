@@ -29,4 +29,4 @@ SOLICITATION NO. N40192-26-R-9100, Integrated Solid Waste Management and Pavemen
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/69864d83d29b4be8a23f9beb663c9b49/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/69864d83d29b4be8a23f9beb663c9b49/view)

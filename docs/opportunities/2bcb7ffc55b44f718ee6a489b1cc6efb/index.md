@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340011545268 PLATE,MENDING: Line 0001 Qty 13 UI EA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2bcb7ffc55b44f718ee6a489b1cc6efb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2bcb7ffc55b44f718ee6a489b1cc6efb/view)

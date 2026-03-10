@@ -30,4 +30,4 @@ Project Title: Repair and Recapitalization of Wharf Bravo, Naval Air Station (NA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d5fddc0b098d4ad2b2e5c433195d03cc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d5fddc0b098d4ad2b2e5c433195d03cc/view)

@@ -25,4 +25,4 @@ NSN 7H-5996-014314290, TDP VER 004, REF NR 6991116, QTY 6 EA, DELIVERY FOB ORIGI
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ccf6818291204673890e60230179030f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ccf6818291204673890e60230179030f/view)

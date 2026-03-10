@@ -25,4 +25,4 @@ Proposed procurement for NSN 4730010100998 SHIELD,SAFETY,PIPE: Line 0001 Qty 454
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5db4cc63ea5f434184c6c7c15b1da9dc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5db4cc63ea5f434184c6c7c15b1da9dc/view)

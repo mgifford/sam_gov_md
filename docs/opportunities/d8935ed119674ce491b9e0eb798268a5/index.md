@@ -39,4 +39,4 @@ March 6, 2026: The purpose of this amendment is as follows: A. Proposal due date
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d8935ed119674ce491b9e0eb798268a5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d8935ed119674ce491b9e0eb798268a5/view)

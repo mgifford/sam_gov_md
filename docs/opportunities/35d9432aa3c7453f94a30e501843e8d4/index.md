@@ -25,4 +25,4 @@ Proposed procurement for NSN 1650015420110 DIFFUSER,AIRCRAFT,M: Line 0001 Qty 16
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/35d9432aa3c7453f94a30e501843e8d4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/35d9432aa3c7453f94a30e501843e8d4/view)

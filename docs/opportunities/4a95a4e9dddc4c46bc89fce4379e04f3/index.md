@@ -31,4 +31,4 @@ CONTACT INFORMATION|4|N743.22|WVY|771-229-0561|LYDIA.M.SHALOKA.CIV@US.NAVY.MIL| 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4a95a4e9dddc4c46bc89fce4379e04f3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4a95a4e9dddc4c46bc89fce4379e04f3/view)

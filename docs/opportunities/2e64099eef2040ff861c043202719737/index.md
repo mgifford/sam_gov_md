@@ -30,4 +30,4 @@ Amendment 0003: The purpose of this amendment is to remove the previous CLIN XX0
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2e64099eef2040ff861c043202719737/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2e64099eef2040ff861c043202719737/view)

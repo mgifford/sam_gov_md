@@ -28,4 +28,4 @@ FL-CHASSAHOWITZKA NWR-INVASIVE TREATMENT
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/aadb8056111d486ca0ee2308b7a4c93b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/aadb8056111d486ca0ee2308b7a4c93b/view)

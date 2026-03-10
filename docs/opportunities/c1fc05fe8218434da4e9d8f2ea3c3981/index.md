@@ -25,4 +25,4 @@ THE USCG SURFACE FORCE LOGISTICS CENTER HAS A REQUIREMENT TO OPEN, INSPECT, REPO
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c1fc05fe8218434da4e9d8f2ea3c3981/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c1fc05fe8218434da4e9d8f2ea3c3981/view)

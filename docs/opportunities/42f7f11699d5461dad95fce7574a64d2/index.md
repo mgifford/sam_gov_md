@@ -34,4 +34,4 @@ UPDATE: AMENDMENT 0001 (1240LT26Q0029_A0001), PROVIDES THE CORRECTED SITE VISIT 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/42f7f11699d5461dad95fce7574a64d2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/42f7f11699d5461dad95fce7574a64d2/view)

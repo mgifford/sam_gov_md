@@ -25,4 +25,4 @@ Proposed procurement for NSN 9330012498426 PLASTIC SHEET: Line 0001 Qty 2545 UI 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d42034b18b4a4c1f8c511c98eeabbc85/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d42034b18b4a4c1f8c511c98eeabbc85/view)

@@ -26,4 +26,4 @@ Solicitation for Low Pressure Gage Calibrators. For proposal instructions, refer
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/cec0318ca29d44b3b42ae08e09020e94/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cec0318ca29d44b3b42ae08e09020e94/view)

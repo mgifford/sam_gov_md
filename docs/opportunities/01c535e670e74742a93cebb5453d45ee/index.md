@@ -25,4 +25,4 @@ Proposed procurement for NSN 4010014832304 CHAIN ASSEMBLY,SING: Line 0001 Qty 36
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/01c535e670e74742a93cebb5453d45ee/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/01c535e670e74742a93cebb5453d45ee/view)

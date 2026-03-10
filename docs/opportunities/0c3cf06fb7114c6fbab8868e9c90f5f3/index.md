@@ -25,4 +25,4 @@ Proposed procurement for NSN 1560007869844 DUCT ASSEMBLY,BLEED: Line 0001 Qty 31
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0c3cf06fb7114c6fbab8868e9c90f5f3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0c3cf06fb7114c6fbab8868e9c90f5f3/view)

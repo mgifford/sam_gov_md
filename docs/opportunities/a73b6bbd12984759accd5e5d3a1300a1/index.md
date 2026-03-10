@@ -31,4 +31,4 @@ CONTACT INFORMATION|4|N774.9|BSB|771-229-0467|DARIAN.M.HOLLEY.CIV@US.NAVY.MIL| H
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a73b6bbd12984759accd5e5d3a1300a1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a73b6bbd12984759accd5e5d3a1300a1/view)

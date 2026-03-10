@@ -25,4 +25,4 @@ Proposed procurement for NSN 6650200004546 FILTER,LIGHT,OPTICA: Line 0001 Qty 69
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/64c7646237f948f4b271485e8c341fef/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/64c7646237f948f4b271485e8c341fef/view)

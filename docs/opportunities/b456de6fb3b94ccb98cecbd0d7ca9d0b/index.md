@@ -25,4 +25,4 @@ Proposed procurement for NSN 4730012960531 RING SUPPORT END: Line 0001 Qty 86 UI
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b456de6fb3b94ccb98cecbd0d7ca9d0b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b456de6fb3b94ccb98cecbd0d7ca9d0b/view)

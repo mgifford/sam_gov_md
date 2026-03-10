@@ -25,4 +25,4 @@ Proposed procurement for NSN 5310997304731 WASHER,RECESSED: Line 0001 Qty 275 UI
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/30bc087e0fac48abbe8bf64e0603f06b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/30bc087e0fac48abbe8bf64e0603f06b/view)

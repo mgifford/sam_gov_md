@@ -25,4 +25,4 @@ Proposed procurement for NSN 2910006237986 GOVERNOR,DIESEL ENG: Line 0001 Qty 13
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/da9232a1eec74f29b3ae39212b965438/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/da9232a1eec74f29b3ae39212b965438/view)

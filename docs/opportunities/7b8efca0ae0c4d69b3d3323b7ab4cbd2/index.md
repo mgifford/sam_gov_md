@@ -25,4 +25,4 @@ Proposed procurement for NSN 1730011819275 KIT,HYDRAULIC HOSES: Line 0001 Qty 5 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7b8efca0ae0c4d69b3d3323b7ab4cbd2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7b8efca0ae0c4d69b3d3323b7ab4cbd2/view)

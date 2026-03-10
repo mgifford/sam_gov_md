@@ -25,4 +25,4 @@ COMMERCIAL PRODUCT PROCUREMENT NOTICE|5||X|||| ITEM UNIQUE IDENTIFICATION AND VA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/718a9e5c358e40c381e2be1f9ec2f937/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/718a9e5c358e40c381e2be1f9ec2f937/view)

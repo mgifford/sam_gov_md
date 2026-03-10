@@ -28,4 +28,4 @@ IMPLAN economic modeling software license USA National Package
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3f48e62d7660441584c1a17d144fc586/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3f48e62d7660441584c1a17d144fc586/view)

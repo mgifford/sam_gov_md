@@ -25,4 +25,4 @@ Proposed procurement for NSN 4520016453262 HEATER,SPACE,ELECTR: Line 0001 Qty 10
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4aaa35b6b44c4bdc9b0442099afa03b1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4aaa35b6b44c4bdc9b0442099afa03b1/view)

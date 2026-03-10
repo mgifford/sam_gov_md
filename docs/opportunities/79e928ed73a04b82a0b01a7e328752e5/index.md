@@ -34,4 +34,4 @@ Provide janitorial services at Pisgah Ranger District (RD) Recreation Facilities
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/79e928ed73a04b82a0b01a7e328752e5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/79e928ed73a04b82a0b01a7e328752e5/view)

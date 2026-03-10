@@ -25,4 +25,4 @@ NSN: 7R2925015238171// PN : 206-062-200-125 // NOMENCLATURE :STARTER,ENGINE,ELEC
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d0aa2a03a34f4c44989de02b0995b7c0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d0aa2a03a34f4c44989de02b0995b7c0/view)

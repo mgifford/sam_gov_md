@@ -25,4 +25,4 @@ This project is intended as a repair-level roof replacement (re-roof) of two mod
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0ff3839e7afd45e896f5a42be42dfda7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0ff3839e7afd45e896f5a42be42dfda7/view)

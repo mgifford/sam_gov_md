@@ -29,4 +29,4 @@ This is a combined synopsis/solicitation 0f the United States Coast Guard's inte
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4749d922860e4d8c8d0878aef0844eb0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4749d922860e4d8c8d0878aef0844eb0/view)

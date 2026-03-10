@@ -32,4 +32,4 @@ A0011 - The purpose of this amendment is to correct the BQ log that inadvertentl
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/63e6457114694e0ba2759a3b9220c938/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/63e6457114694e0ba2759a3b9220c938/view)
