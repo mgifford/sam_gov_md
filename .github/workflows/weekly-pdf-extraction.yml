@@ -31,7 +31,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests pyyaml pdfplumber beautifulsoup4 lxml
+          pip install requests pyyaml pdfplumber python-docx beautifulsoup4 lxml
 
       - name: Download latest CSV
         run: |
