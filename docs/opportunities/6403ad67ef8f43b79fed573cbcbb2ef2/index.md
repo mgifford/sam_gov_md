@@ -25,4 +25,4 @@ Request for Information (RFI) for C-sUAS Kinetic Hard-Kill Solutions for Group 1
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6403ad67ef8f43b79fed573cbcbb2ef2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6403ad67ef8f43b79fed573cbcbb2ef2/view)

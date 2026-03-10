@@ -25,4 +25,4 @@ Proposed procurement for NSN 5930016055097 SWITCH ASSEMBLY: Line 0001 Qty 8 UI E
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4c8f4a4acd7c418dbc49cfc6d5321509/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4c8f4a4acd7c418dbc49cfc6d5321509/view)

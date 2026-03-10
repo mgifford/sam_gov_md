@@ -32,4 +32,4 @@ Building Filters - Only bids submitted through the solicitation will be accepted
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0908e23d248941e38bc71889e6d43630/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0908e23d248941e38bc71889e6d43630/view)

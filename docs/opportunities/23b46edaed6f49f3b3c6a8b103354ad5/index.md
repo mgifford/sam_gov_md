@@ -26,4 +26,4 @@ Hardin Ridge Wastewater Treatment Plant Operation & Maintenance to perform dutie
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/23b46edaed6f49f3b3c6a8b103354ad5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/23b46edaed6f49f3b3c6a8b103354ad5/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 1560003281350 BUSHING,ECCENTRIC: Line 0001 Qty 807 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2f85d35493d243a9a8ffe169aeb1d5b9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2f85d35493d243a9a8ffe169aeb1d5b9/view)

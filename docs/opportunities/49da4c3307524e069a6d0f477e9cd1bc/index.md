@@ -30,4 +30,4 @@ Hanel Lean Vertical Lift Module Repairs and Maintenance for Joint Armament Facil
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/49da4c3307524e069a6d0f477e9cd1bc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/49da4c3307524e069a6d0f477e9cd1bc/view)

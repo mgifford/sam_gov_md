@@ -25,4 +25,4 @@ NSN 7H-4320-014860356, TDP VER 006, REF NR 082682MP, QTY 140 EA, DELIVERY FOB OR
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/17eab8a9890041f68b7a1a75cdc33830/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/17eab8a9890041f68b7a1a75cdc33830/view)

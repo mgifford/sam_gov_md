@@ -30,4 +30,4 @@ Offers due 3/13/2026. Include a signed version of each of our three (3) amendmen
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b73d86a2226b43318ec8681150e2f6b9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b73d86a2226b43318ec8681150e2f6b9/view)

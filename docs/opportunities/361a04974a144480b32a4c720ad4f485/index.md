@@ -25,4 +25,4 @@ Proposed procurement for NSN 4820006178075 VALVE,CHECK: Line 0001 Qty 21 UI EA D
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/361a04974a144480b32a4c720ad4f485/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/361a04974a144480b32a4c720ad4f485/view)

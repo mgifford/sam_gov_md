@@ -30,4 +30,4 @@ RFI – SOW Feedback THIS IS A NOTICE FOR INFORMATION ONLY. THIS IS NOT A REQUES
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f10604c085b14d909c7688c61ca7a632/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f10604c085b14d909c7688c61ca7a632/view)

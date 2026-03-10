@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340016051205 IR BEACON RING: Line 0001 Qty 14 UI E
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1a02b9cfc458440e9b553e57a51c46c7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1a02b9cfc458440e9b553e57a51c46c7/view)

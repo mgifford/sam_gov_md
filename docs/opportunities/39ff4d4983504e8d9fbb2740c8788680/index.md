@@ -25,4 +25,4 @@ Proposed procurement for NSN 1680008185073 CURTAIN ASSEMBLY,AI: Line 0001 Qty 17
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/39ff4d4983504e8d9fbb2740c8788680/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/39ff4d4983504e8d9fbb2740c8788680/view)

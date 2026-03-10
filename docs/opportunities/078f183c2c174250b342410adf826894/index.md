@@ -28,4 +28,4 @@ Combined Synopsis-Solicitation for Commercial Products and Commercial Services T
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/078f183c2c174250b342410adf826894/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/078f183c2c174250b342410adf826894/view)

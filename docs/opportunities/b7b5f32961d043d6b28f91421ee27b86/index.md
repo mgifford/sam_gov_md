@@ -25,4 +25,4 @@ Proposed procurement for NSN 1740015382581 WHEEL,REAR,AIRCRAFT: Line 0001 Qty 52
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b7b5f32961d043d6b28f91421ee27b86/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b7b5f32961d043d6b28f91421ee27b86/view)

@@ -28,4 +28,4 @@ Town of Coulee Dam Underground Feeders 1, 3, 4 Replacement Project, Washington, 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/dfc013f2e26a4f10be8065896ca19967/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/dfc013f2e26a4f10be8065896ca19967/view)

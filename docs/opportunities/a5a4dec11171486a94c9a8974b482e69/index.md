@@ -28,4 +28,4 @@ The Veterans Integrated Service Network #04 (VISN 04) Contracting Office / Wilmi
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a5a4dec11171486a94c9a8974b482e69/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a5a4dec11171486a94c9a8974b482e69/view)

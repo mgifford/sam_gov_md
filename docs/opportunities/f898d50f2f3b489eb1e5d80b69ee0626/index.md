@@ -26,4 +26,4 @@ The U.S. Fish and Wildlife Service, Office of Law Enforcement, is seeking a qual
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f898d50f2f3b489eb1e5d80b69ee0626/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f898d50f2f3b489eb1e5d80b69ee0626/view)

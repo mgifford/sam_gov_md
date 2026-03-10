@@ -30,4 +30,4 @@ THIS IS A NOTICE OF INTENT TO SOLE SOURCE, NOT A REQUEST FOR A QUOTE (RFQ). A RF
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f21f561d656b45479130cd614c8d26a7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f21f561d656b45479130cd614c8d26a7/view)

@@ -28,4 +28,4 @@ U.S. Army Combat Capabilities Development Command ? Armaments Center (DEVCOM-AC)
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8d8c653a85f7458fa251957aa8678341/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8d8c653a85f7458fa251957aa8678341/view)

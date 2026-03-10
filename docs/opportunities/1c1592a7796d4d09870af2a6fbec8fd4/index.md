@@ -30,4 +30,4 @@ P1360: Joint Maritime Facility, Newfoundland, Canada, Amendment 0001.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1c1592a7796d4d09870af2a6fbec8fd4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1c1592a7796d4d09870af2a6fbec8fd4/view)

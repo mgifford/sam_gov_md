@@ -25,4 +25,4 @@ Proposed procurement for NSN 7310015880876 KETTLE,STEAM JACKET: Line 0001 Qty 1 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/99e6609ad037482ebcfd3ea0e19bdea8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/99e6609ad037482ebcfd3ea0e19bdea8/view)

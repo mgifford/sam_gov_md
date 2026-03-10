@@ -25,4 +25,4 @@ Proposed procurement for NSN 5995015311105 CABLE ASSEMBLY,RADI: Line 0001 Qty 13
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/91f6dc3e7c4148e7995162f607b03988/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/91f6dc3e7c4148e7995162f607b03988/view)

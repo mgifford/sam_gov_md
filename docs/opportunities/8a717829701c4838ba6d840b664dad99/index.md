@@ -36,4 +36,4 @@ Amendment 006: 1. Upload updated Attachment 3 due to Technical Questions and Ans
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8a717829701c4838ba6d840b664dad99/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8a717829701c4838ba6d840b664dad99/view)

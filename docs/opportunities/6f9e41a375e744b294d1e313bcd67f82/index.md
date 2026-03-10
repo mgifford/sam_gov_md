@@ -29,4 +29,4 @@ THIS SYNOPSIS IS NOT A REQUEST FOR OFFERS/PROPOSALS. The Marine Corps Installati
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6f9e41a375e744b294d1e313bcd67f82/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6f9e41a375e744b294d1e313bcd67f82/view)

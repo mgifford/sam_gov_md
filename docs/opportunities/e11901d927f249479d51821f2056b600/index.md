@@ -25,4 +25,4 @@ Product Manager, Engineer Systems (PdM ES), Marine Corps Systems Command (MARCOR
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e11901d927f249479d51821f2056b600/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e11901d927f249479d51821f2056b600/view)

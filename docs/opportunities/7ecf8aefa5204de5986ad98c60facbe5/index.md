@@ -29,4 +29,4 @@ Site visit roster and visit are now posted. ------------------------------------
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7ecf8aefa5204de5986ad98c60facbe5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7ecf8aefa5204de5986ad98c60facbe5/view)

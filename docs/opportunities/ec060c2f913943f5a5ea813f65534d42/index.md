@@ -25,4 +25,4 @@ Proposed procurement for NSN 3432016509422 WELDING MACHINE,RES: Line 0001 Qty 2 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ec060c2f913943f5a5ea813f65534d42/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ec060c2f913943f5a5ea813f65534d42/view)

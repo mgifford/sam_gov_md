@@ -28,4 +28,4 @@ IA-DESOTO NWR-TRAINING AMMUNITION
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/83d9a50f41be4335a3e2272fbde26bbd/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/83d9a50f41be4335a3e2272fbde26bbd/view)

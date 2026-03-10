@@ -28,4 +28,4 @@ Special Notice: Sources Sought The Department of Veterans Affairs, VISN 08, Orla
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/58abf906f4934b08810c67ecf6a3ab32/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/58abf906f4934b08810c67ecf6a3ab32/view)

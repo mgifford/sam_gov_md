@@ -28,4 +28,4 @@ Amendment 001 to Solicitation #36C25926Q0234 (Grease Trap Cleaning and Maintenan
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d1085bdcbbfb4e6e8dd926165834d2c4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d1085bdcbbfb4e6e8dd926165834d2c4/view)

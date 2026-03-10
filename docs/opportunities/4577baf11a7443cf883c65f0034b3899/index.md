@@ -32,4 +32,4 @@ NAVSUP Fleet Logistics Center Yokosuka (FLCY) Site Singapore issues a competitiv
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4577baf11a7443cf883c65f0034b3899/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4577baf11a7443cf883c65f0034b3899/view)

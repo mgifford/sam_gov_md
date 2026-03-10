@@ -28,4 +28,4 @@ This market survey and request for information is being conducted to identify po
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/09830a9f027f44b9ac5e6eacb4d0ef16/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/09830a9f027f44b9ac5e6eacb4d0ef16/view)

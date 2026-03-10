@@ -25,4 +25,4 @@ Proposed procurement for NSN 1420016869216 GYRO-OPTICS ASSEMBL: Line 0001 Qty 4 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/61375c877f314968b8e657c0d2d2c90a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/61375c877f314968b8e657c0d2d2c90a/view)

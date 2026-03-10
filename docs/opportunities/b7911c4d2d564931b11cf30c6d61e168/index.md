@@ -27,4 +27,4 @@ Fire Extinguisher Inspection and Testing The Purpose of this amendment 0003 is t
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b7911c4d2d564931b11cf30c6d61e168/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b7911c4d2d564931b11cf30c6d61e168/view)

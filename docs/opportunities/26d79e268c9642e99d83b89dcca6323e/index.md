@@ -25,4 +25,4 @@ To purchase six (6) each 20ft conex boxes that are manufactured to comply with I
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/26d79e268c9642e99d83b89dcca6323e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/26d79e268c9642e99d83b89dcca6323e/view)

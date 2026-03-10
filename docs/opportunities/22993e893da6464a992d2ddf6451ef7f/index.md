@@ -26,4 +26,4 @@ Office Furniture removal and installation, and painting. The Government intents 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/22993e893da6464a992d2ddf6451ef7f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/22993e893da6464a992d2ddf6451ef7f/view)

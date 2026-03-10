@@ -25,4 +25,4 @@ Proposed procurement for NSN 6150012474780 CABLE ASSEMBLY: Line 0001 Qty 69 UI E
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/101de7cfcbff4336841b7c4397fff5d9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/101de7cfcbff4336841b7c4397fff5d9/view)

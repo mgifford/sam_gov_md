@@ -30,4 +30,4 @@ This solicitation is not ready to be issued as of this date. The Embassy of the 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a4fa9811c1c34f98b820894b70bd4101/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a4fa9811c1c34f98b820894b70bd4101/view)

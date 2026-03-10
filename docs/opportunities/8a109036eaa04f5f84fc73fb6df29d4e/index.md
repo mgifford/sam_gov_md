@@ -25,4 +25,4 @@ Proposed procurement for NSN 5330015329440 PARTS KIT,SEAL REPL: Line 0001 Qty 58
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8a109036eaa04f5f84fc73fb6df29d4e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8a109036eaa04f5f84fc73fb6df29d4e/view)

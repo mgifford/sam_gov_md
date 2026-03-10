@@ -28,4 +28,4 @@ The U.S. Forest Service is issuing this formal Request for Information (RFI) in 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8d09b9d075ed4d28aab25aa85e1855df/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8d09b9d075ed4d28aab25aa85e1855df/view)

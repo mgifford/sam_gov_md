@@ -25,4 +25,4 @@ Proposed procurement for NSN 6625015652261 METER,SPECIAL SCALE: Line 0001 Qty 4 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/94f1c13c1acf4d6ba3841a0673fcd200/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/94f1c13c1acf4d6ba3841a0673fcd200/view)

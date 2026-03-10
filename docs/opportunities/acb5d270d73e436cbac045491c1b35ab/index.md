@@ -25,4 +25,4 @@ Proposed procurement for NSN 1680016262552 BED ASSEMBLY: Line 0001 Qty 5 UI EA D
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/acb5d270d73e436cbac045491c1b35ab/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/acb5d270d73e436cbac045491c1b35ab/view)

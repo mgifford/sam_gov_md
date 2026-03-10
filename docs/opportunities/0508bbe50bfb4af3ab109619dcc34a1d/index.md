@@ -26,4 +26,4 @@ Solicitation Defense Supply Center Richmond (DSCR) Replace 5th Floor Glass at Bu
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0508bbe50bfb4af3ab109619dcc34a1d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0508bbe50bfb4af3ab109619dcc34a1d/view)

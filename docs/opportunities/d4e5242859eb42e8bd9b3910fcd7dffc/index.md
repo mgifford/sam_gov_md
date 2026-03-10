@@ -25,4 +25,4 @@ Solicitation for maintenance on NewEra Stand Alone Environment (SAE) software. A
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d4e5242859eb42e8bd9b3910fcd7dffc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d4e5242859eb42e8bd9b3910fcd7dffc/view)

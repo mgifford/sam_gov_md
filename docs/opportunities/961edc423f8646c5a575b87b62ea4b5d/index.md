@@ -26,4 +26,4 @@ Energy Dominance Financing (EDF) has a need for Financial advisory services to a
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/961edc423f8646c5a575b87b62ea4b5d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/961edc423f8646c5a575b87b62ea4b5d/view)

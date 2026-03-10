@@ -25,4 +25,4 @@ Proposed procurement for NSN 6350017291154 DETECTOR,HEAT: Line 0001 Qty 29 UI EA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ccafada624634e63a45aa006047fd24b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ccafada624634e63a45aa006047fd24b/view)

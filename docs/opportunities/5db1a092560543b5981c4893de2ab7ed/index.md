@@ -30,4 +30,4 @@ The Advanced Propulsor Management Office (APMO, Code 808) in the Naval Architect
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5db1a092560543b5981c4893de2ab7ed/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5db1a092560543b5981c4893de2ab7ed/view)

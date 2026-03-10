@@ -26,4 +26,4 @@ This posting is a solicitation to award a contract for a tug boat rental for the
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9414544a251741fdb18eb54d106ebdce/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9414544a251741fdb18eb54d106ebdce/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 3950014653509 CABLE ASSEMBLY,SAFE: Line 0001 Qty 58
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/11b67c8efb9c4f3dad2554e646cbd1bc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/11b67c8efb9c4f3dad2554e646cbd1bc/view)

@@ -28,4 +28,4 @@ Request for Quote (RFQ) #: 36C25926Q0261 Trash Removal and Recycling Services Th
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0a4d739a1953410c90037b41576f776c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0a4d739a1953410c90037b41576f776c/view)

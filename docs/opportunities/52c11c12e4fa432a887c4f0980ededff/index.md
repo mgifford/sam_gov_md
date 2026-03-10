@@ -28,4 +28,4 @@ The date for the issuance of the solicitation has been extended. It is anticipat
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/52c11c12e4fa432a887c4f0980ededff/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/52c11c12e4fa432a887c4f0980ededff/view)

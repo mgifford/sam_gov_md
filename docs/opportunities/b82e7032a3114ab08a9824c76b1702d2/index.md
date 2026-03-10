@@ -25,4 +25,4 @@ Sources Sought Notice only. Janitorial services at the Rock Island National Ceme
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b82e7032a3114ab08a9824c76b1702d2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b82e7032a3114ab08a9824c76b1702d2/view)

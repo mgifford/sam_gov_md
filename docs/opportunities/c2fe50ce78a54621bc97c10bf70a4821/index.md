@@ -31,4 +31,4 @@ E.2 ADDENDUM to FAR 52.212-1 INSTRUCTIONS TO OFFERORS COMMERCIAL PRODUCTS AND CO
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c2fe50ce78a54621bc97c10bf70a4821/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c2fe50ce78a54621bc97c10bf70a4821/view)

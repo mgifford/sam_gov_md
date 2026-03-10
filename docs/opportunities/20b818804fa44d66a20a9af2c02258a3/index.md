@@ -25,4 +25,4 @@ Proposed procurement for NSN 2040017014327 SUPPORT,STRUCTURAL: Line 0001 Qty 6 U
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/20b818804fa44d66a20a9af2c02258a3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/20b818804fa44d66a20a9af2c02258a3/view)

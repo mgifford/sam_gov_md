@@ -25,4 +25,4 @@ Proposed procurement for NSN 2815003439821 CONNECTING ROD,PIST: Line 0001 Qty 6 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/19faa0cf83cc47e689ec5e0ced2291b9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/19faa0cf83cc47e689ec5e0ced2291b9/view)

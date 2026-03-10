@@ -25,4 +25,4 @@ Proposed procurement for NSN 5325007266701 STUD ASSEMBLY,TURNL: Line 0001 Qty 43
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bbb6e47316444f2596f7d06ea037ff5f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bbb6e47316444f2596f7d06ea037ff5f/view)

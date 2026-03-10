@@ -25,4 +25,4 @@ Proposed procurement for NSN 5355005442987 KNOB: Line 0001 Qty 43 UI EA Deliver 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a8c5cbec83fb461fae3bbfdc470a0162/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a8c5cbec83fb461fae3bbfdc470a0162/view)

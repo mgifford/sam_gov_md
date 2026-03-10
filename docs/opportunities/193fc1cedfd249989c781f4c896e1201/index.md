@@ -28,4 +28,4 @@ ROCKY MOUNTAIN MEDICAL EQUIPMENT, LLC Home Oxygen Services GRAND JUNCTION, CO De
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/193fc1cedfd249989c781f4c896e1201/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/193fc1cedfd249989c781f4c896e1201/view)

@@ -29,4 +29,4 @@ Annual rental and fills of Hydrogen and Nitrogen 12 packs as used in the Metal S
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e8b7259e274e45429b39c6fd9d5a8c59/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e8b7259e274e45429b39c6fd9d5a8c59/view)

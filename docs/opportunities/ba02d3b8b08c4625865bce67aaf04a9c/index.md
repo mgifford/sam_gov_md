@@ -25,4 +25,4 @@ NSN 1H-2090-012244913-ST, TDP VER 033, QTY 653 EA, DELIVERY FOB ORIGIN. " This p
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ba02d3b8b08c4625865bce67aaf04a9c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ba02d3b8b08c4625865bce67aaf04a9c/view)

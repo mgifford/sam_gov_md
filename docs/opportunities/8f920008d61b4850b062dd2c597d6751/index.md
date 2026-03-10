@@ -34,4 +34,4 @@ The purpose of the amendment is as follows: 1. Extend the due date to March 13, 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8f920008d61b4850b062dd2c597d6751/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8f920008d61b4850b062dd2c597d6751/view)

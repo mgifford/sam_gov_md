@@ -28,4 +28,4 @@ The Contractor shall provide all personnel, materials, equipment, tools, transpo
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f406ecc5f9f44800a77f5e74cfeaa9c8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f406ecc5f9f44800a77f5e74cfeaa9c8/view)

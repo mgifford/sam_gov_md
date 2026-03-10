@@ -25,4 +25,4 @@ Proposed procurement for NSN 1680015877928 VHF UHF IFF ATC ANT: Line 0001 Qty 1 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/aaae5bd96e1a479aaecc1e9a02b6c444/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/aaae5bd96e1a479aaecc1e9a02b6c444/view)

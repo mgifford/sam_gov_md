@@ -30,4 +30,4 @@ General Services Administration (GSA) seeks to lease the following space: State:
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/103a414f023348daa6ea15bfb6b56ff5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/103a414f023348daa6ea15bfb6b56ff5/view)

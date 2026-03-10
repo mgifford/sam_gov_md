@@ -27,4 +27,4 @@ Solicitation Number: 36C78626B0006 Project Number: 823CM3024 Description: Renova
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8e05cfee3fff41099a90cae69a9617b9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8e05cfee3fff41099a90cae69a9617b9/view)

@@ -28,4 +28,4 @@ Mission and Installation Contracting Command (MICC) Fort Hood is issuing a SOLIC
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/11044d56b2414db9af49aba45030e201/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/11044d56b2414db9af49aba45030e201/view)

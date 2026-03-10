@@ -25,4 +25,4 @@ This acquisition is being solicited as a Women Owned Small Business Set-Aside. T
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d7944cc047c04998bf42d72a5d35c831/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d7944cc047c04998bf42d72a5d35c831/view)

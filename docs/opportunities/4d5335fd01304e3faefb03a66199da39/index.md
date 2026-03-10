@@ -25,4 +25,4 @@ Paper copies will not be provided. Procurement is restricted to General Dynamics
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4d5335fd01304e3faefb03a66199da39/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4d5335fd01304e3faefb03a66199da39/view)

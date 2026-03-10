@@ -25,4 +25,4 @@ Proposed procurement for NSN 2610015463433 INNER TUBE,PNEUMATI: Line 0001 Qty 30
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6370474edfd84be1a3f6cc198c2d4159/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6370474edfd84be1a3f6cc198c2d4159/view)

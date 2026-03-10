@@ -26,4 +26,4 @@ Synopsis This solicitation originated from a purchase request for two Modalai, S
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0fdd2a1f13bd41c491e3521a182bdf13/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0fdd2a1f13bd41c491e3521a182bdf13/view)

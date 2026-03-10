@@ -25,4 +25,4 @@ The anticipated contract action is for a 5 Year Indefinite Delivery Indefinite Q
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/295e01d676a14fe2a54bd562136b1c6e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/295e01d676a14fe2a54bd562136b1c6e/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 4130002746715 FILTER-DRIER,REFRIG: Line 0001 Qty 6 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/cac5b9fc49d74a33a3793b75b2c041da/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cac5b9fc49d74a33a3793b75b2c041da/view)

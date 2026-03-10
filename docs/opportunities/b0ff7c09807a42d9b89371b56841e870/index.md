@@ -26,4 +26,4 @@ PRESOLICITATION NOTICE: Defense Logistics Agency (DLA) Land and Maritime in Colu
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b0ff7c09807a42d9b89371b56841e870/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b0ff7c09807a42d9b89371b56841e870/view)

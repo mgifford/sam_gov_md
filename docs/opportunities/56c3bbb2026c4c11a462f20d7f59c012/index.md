@@ -30,4 +30,4 @@ FY26 SpecBuilder Software Renewal
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/56c3bbb2026c4c11a462f20d7f59c012/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/56c3bbb2026c4c11a462f20d7f59c012/view)

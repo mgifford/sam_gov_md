@@ -25,4 +25,4 @@ Proposed procurement for NSN 4910011795047 COUNTERWEIGHT,STUD: Line 0001 Qty 3 U
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e57169df29124b39bbe01f188b31f10a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e57169df29124b39bbe01f188b31f10a/view)

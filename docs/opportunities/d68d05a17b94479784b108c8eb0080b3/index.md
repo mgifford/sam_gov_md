@@ -25,4 +25,4 @@ Proposed procurement for NSN 4820015617746 VALVE,FLOW CONTROL: Line 0001 Qty 28 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d68d05a17b94479784b108c8eb0080b3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d68d05a17b94479784b108c8eb0080b3/view)

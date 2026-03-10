@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340015072864 CAP-PLUG,PROTECTIVE,DU: Line 0001 Qty
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/89113006e6ab4c8da18b623e598ef9ef/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/89113006e6ab4c8da18b623e598ef9ef/view)

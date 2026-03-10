@@ -31,4 +31,4 @@ Amendment 0003 Posted 03/04/2026 Amendment 0002 Posted 02/25/2026 Amendment 0001
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a7254cf2c0c749eda925540d364c7970/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a7254cf2c0c749eda925540d364c7970/view)

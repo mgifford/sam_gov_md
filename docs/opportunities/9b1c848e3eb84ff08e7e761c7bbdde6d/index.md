@@ -19,4 +19,4 @@ Headquarters Supreme Allied Command Transformation (HQ SACT) has issued a Reques
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9b1c848e3eb84ff08e7e761c7bbdde6d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9b1c848e3eb84ff08e7e761c7bbdde6d/view)

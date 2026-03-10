@@ -25,4 +25,4 @@ The Defense Microelectronics Activity (DMEA), McClellan, CA is issuing this Sour
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/98569890c3e44b9da809ca5106ddbf60/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/98569890c3e44b9da809ca5106ddbf60/view)

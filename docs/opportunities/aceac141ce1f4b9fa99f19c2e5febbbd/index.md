@@ -25,4 +25,4 @@ This requirement is for elbows. Please see the attached combined synopsis.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/aceac141ce1f4b9fa99f19c2e5febbbd/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/aceac141ce1f4b9fa99f19c2e5febbbd/view)

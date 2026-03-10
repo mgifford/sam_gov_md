@@ -25,4 +25,4 @@ User and Entity Behavior Analytics (UEBA) Solution (VA-26-00050029)
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4ccb6d88657b4e63be4817d5557dff16/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4ccb6d88657b4e63be4817d5557dff16/view)

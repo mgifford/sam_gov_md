@@ -30,4 +30,4 @@ SPECIAL NOTICE PHASE 2 THIS IS A SPECIAL NOTICE ONLY. The U.S. Government curren
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c8a97492edc14455b9a64f6ae4af0059/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c8a97492edc14455b9a64f6ae4af0059/view)

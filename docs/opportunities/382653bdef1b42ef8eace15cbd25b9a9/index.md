@@ -29,4 +29,4 @@ Please refer to Call 003 and all associated attachments, in addition to the rela
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/382653bdef1b42ef8eace15cbd25b9a9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/382653bdef1b42ef8eace15cbd25b9a9/view)

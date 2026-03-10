@@ -25,4 +25,4 @@ Proposed procurement for NSN 3020014108092 GEAR SET,BEVEL,MATC: Line 0001 Qty 95
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/772f49da7af14fbfa4388daf978802ab/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/772f49da7af14fbfa4388daf978802ab/view)

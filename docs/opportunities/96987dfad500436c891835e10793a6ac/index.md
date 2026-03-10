@@ -28,4 +28,4 @@ TSC MINER FLAT GEOTECH TECH REVIEW PANEL
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/96987dfad500436c891835e10793a6ac/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/96987dfad500436c891835e10793a6ac/view)

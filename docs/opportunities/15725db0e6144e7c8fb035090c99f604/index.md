@@ -27,4 +27,4 @@ The intent of this solicitation is to select one contractor to provide professio
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/15725db0e6144e7c8fb035090c99f604/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/15725db0e6144e7c8fb035090c99f604/view)

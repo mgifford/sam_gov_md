@@ -25,4 +25,4 @@ Proposed procurement for NSN 5925009424708 CIRCUIT BREAKER: Line 0001 Qty 86 UI 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3cdfb49fdd944844985a34c9a5019510/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3cdfb49fdd944844985a34c9a5019510/view)

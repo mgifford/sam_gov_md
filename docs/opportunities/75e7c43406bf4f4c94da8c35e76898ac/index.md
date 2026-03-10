@@ -34,4 +34,4 @@ TOBYHANNA ARMY DEPOT CONSTRUCTION MATOC FY26 The intent of this requirement is t
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/75e7c43406bf4f4c94da8c35e76898ac/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/75e7c43406bf4f4c94da8c35e76898ac/view)

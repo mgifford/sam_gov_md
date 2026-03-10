@@ -28,4 +28,4 @@ The Bureau of Indian Affairs (BIA), Colorado River-Electrical Services (CR-ES) m
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/06ba32fb79d648c1821065840b61a91d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/06ba32fb79d648c1821065840b61a91d/view)

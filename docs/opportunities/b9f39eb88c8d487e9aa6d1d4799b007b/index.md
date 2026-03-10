@@ -26,4 +26,4 @@ This advertisement is hereby incorporated into the RLP 25REG04 by way of referen
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b9f39eb88c8d487e9aa6d1d4799b007b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b9f39eb88c8d487e9aa6d1d4799b007b/view)

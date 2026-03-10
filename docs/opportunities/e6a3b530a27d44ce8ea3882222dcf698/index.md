@@ -28,4 +28,4 @@ Posting of Pre-Solicitation Notice. See attached document: Pre-Solicitation Noti
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e6a3b530a27d44ce8ea3882222dcf698/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e6a3b530a27d44ce8ea3882222dcf698/view)

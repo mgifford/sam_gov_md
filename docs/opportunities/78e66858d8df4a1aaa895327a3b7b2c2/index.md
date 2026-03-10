@@ -25,4 +25,4 @@ The Space Development Agency (SDA) is soliciting executive summaries, proposal a
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/78e66858d8df4a1aaa895327a3b7b2c2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/78e66858d8df4a1aaa895327a3b7b2c2/view)

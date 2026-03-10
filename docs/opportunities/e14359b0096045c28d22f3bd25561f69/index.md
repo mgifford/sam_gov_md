@@ -28,4 +28,4 @@ The USDA-Forest Service, Shawnee National Forest has a requirement for repaving 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e14359b0096045c28d22f3bd25561f69/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e14359b0096045c28d22f3bd25561f69/view)

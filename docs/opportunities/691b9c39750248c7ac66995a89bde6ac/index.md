@@ -28,4 +28,4 @@ The contractor shall provide comprehensive meeting and conference support servic
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/691b9c39750248c7ac66995a89bde6ac/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/691b9c39750248c7ac66995a89bde6ac/view)

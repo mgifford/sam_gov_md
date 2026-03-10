@@ -25,4 +25,4 @@ This notice is provided for informational purposes only to publicize the Brand-N
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/33013ffa26384f3da4ae983587f2e309/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/33013ffa26384f3da4ae983587f2e309/view)

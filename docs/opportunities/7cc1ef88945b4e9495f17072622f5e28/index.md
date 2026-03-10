@@ -25,4 +25,4 @@ Please review the NSN below and provide us with any sources that are able to man
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7cc1ef88945b4e9495f17072622f5e28/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7cc1ef88945b4e9495f17072622f5e28/view)

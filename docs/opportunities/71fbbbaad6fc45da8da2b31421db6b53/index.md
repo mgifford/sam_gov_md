@@ -25,4 +25,4 @@ Proposed procurement for NSN 1680011101495 HANDLE ASSY,CONTROL: Line 0001 Qty 4 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/71fbbbaad6fc45da8da2b31421db6b53/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/71fbbbaad6fc45da8da2b31421db6b53/view)

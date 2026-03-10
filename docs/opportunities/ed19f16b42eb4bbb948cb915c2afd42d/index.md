@@ -25,4 +25,4 @@ Proposed procurement for NSN 4820001024424 STEM,FLUID VALVE: Line 0001 Qty 62 UI
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ed19f16b42eb4bbb948cb915c2afd42d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ed19f16b42eb4bbb948cb915c2afd42d/view)

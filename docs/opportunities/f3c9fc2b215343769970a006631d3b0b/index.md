@@ -30,4 +30,4 @@ This is a sources sought in accordance with FAR 15.201 and in anticipation of a 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f3c9fc2b215343769970a006631d3b0b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f3c9fc2b215343769970a006631d3b0b/view)

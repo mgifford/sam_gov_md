@@ -25,4 +25,4 @@ Proposed procurement for NSN 2510015664325 HOOD,ENGINE COMPART: Line 0001 Qty 6 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bdcbce250183419db6cb8e4ea9aabab7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bdcbce250183419db6cb8e4ea9aabab7/view)

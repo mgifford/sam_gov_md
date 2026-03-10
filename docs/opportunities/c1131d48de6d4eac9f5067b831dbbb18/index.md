@@ -26,4 +26,4 @@ This post is for market research purposes only. THIS IS NOT A SOLICITATION FOR P
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c1131d48de6d4eac9f5067b831dbbb18/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c1131d48de6d4eac9f5067b831dbbb18/view)

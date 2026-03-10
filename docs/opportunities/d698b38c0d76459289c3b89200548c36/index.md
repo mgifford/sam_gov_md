@@ -27,4 +27,4 @@ Replace Site Underground Chilled Water Piping
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d698b38c0d76459289c3b89200548c36/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d698b38c0d76459289c3b89200548c36/view)

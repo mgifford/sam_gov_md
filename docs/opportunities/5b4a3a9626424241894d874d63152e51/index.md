@@ -26,4 +26,4 @@ Blood Bank Control System (BBCS) Server System IBM Hardware and Software Support
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5b4a3a9626424241894d874d63152e51/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5b4a3a9626424241894d874d63152e51/view)

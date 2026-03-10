@@ -27,4 +27,4 @@ SERVICES REQUIRED: The Department of Veterans Affairs (VA) Healthcare Network Do
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9fd7ee6fa7e1423d9f35dc3933194f4a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9fd7ee6fa7e1423d9f35dc3933194f4a/view)

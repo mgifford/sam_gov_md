@@ -31,4 +31,4 @@ Award of Solicitation W9126G26RA033. This solicitation was issued under Full and
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3e8a7b820fe64c23b5b7869f562cb8e4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3e8a7b820fe64c23b5b7869f562cb8e4/view)

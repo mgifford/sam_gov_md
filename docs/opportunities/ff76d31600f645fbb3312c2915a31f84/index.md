@@ -25,4 +25,4 @@ Proposed procurement for NSN 4710015351807 TUBING ASSEMBLY SET: Line 0001 Qty 19
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ff76d31600f645fbb3312c2915a31f84/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ff76d31600f645fbb3312c2915a31f84/view)

@@ -28,4 +28,4 @@ DLA-Weapons Support Richmond (DLA-WSR, formally DLA Aviation) issued solicitatio
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8babc7fc74064affad063bbb3f9987c8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8babc7fc74064affad063bbb3f9987c8/view)

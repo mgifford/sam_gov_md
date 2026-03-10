@@ -29,4 +29,4 @@ Contractor must provide supervision, labor, material, and equipment required to 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/eb9f54a9dbd64ed2910a2c149ef55f5d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/eb9f54a9dbd64ed2910a2c149ef55f5d/view)

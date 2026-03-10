@@ -25,4 +25,4 @@ Proposed procurement for NSN 6230007675573 REFLECTOR,LIGHT: Line 0001 Qty 79 UI 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7578b7f738244c5c825bf12724ccf543/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7578b7f738244c5c825bf12724ccf543/view)

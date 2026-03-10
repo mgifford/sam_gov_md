@@ -27,4 +27,4 @@ This is a special notice that the Government intends to annouce an upcoming Indu
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8c5a781d524f47aca38680eb51812c65/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8c5a781d524f47aca38680eb51812c65/view)

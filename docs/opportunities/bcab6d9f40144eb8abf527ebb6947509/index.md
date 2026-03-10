@@ -28,4 +28,4 @@ Joint Base Charleston requires the procurement and delivery of the following ite
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bcab6d9f40144eb8abf527ebb6947509/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bcab6d9f40144eb8abf527ebb6947509/view)

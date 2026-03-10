@@ -28,4 +28,4 @@ This is for market research purposes and not for solicitation. In accordance wit
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2202bfdcc0284fadadd31f0a85eca340/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2202bfdcc0284fadadd31f0a85eca340/view)

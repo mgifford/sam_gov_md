@@ -25,4 +25,4 @@ NSN 7H-5925-015311771-PP, TDP VER 002, QTY 16 EA, DELIVERY FOB ORIGIN
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/445afe811f3c461da29217d706624865/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/445afe811f3c461da29217d706624865/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 4620015544278 CELL,SALINITY DETEC: Line 0001 Qty 28
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/984bd3856e544d579e9f681aecec720b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/984bd3856e544d579e9f681aecec720b/view)

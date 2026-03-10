@@ -18,4 +18,4 @@ On behalf of the Joint Interagency Task Force 401 (JIATF 401), we would like to 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/454291c1b4614894b1f30779280dfb28/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/454291c1b4614894b1f30779280dfb28/view)

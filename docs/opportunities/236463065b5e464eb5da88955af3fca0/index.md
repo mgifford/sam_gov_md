@@ -28,4 +28,4 @@ USCGC BEAR POC: KS Petal Donald at Petal.C.Donald@uscg.mil
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/236463065b5e464eb5da88955af3fca0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/236463065b5e464eb5da88955af3fca0/view)

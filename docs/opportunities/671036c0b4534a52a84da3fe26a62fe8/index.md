@@ -30,4 +30,4 @@ The Bureau of International Narcotics and Law Enforcement Affairs (INL) Section 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/671036c0b4534a52a84da3fe26a62fe8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/671036c0b4534a52a84da3fe26a62fe8/view)

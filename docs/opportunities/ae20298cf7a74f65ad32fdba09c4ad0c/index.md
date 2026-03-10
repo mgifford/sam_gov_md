@@ -26,4 +26,4 @@ Notice of Intent to Sole Source for a proprietary service contract agreement for
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ae20298cf7a74f65ad32fdba09c4ad0c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ae20298cf7a74f65ad32fdba09c4ad0c/view)

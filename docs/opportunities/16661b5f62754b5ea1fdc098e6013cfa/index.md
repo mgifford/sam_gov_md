@@ -28,4 +28,4 @@ Notice of Intent to Sole Source Requirement Department of Veterans Affairs, VISN
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/16661b5f62754b5ea1fdc098e6013cfa/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/16661b5f62754b5ea1fdc098e6013cfa/view)

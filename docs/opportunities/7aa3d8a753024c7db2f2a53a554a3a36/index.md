@@ -25,4 +25,4 @@ Social Worker Services, TDS
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7aa3d8a753024c7db2f2a53a554a3a36/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7aa3d8a753024c7db2f2a53a554a3a36/view)

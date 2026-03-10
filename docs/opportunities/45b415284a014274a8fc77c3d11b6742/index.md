@@ -25,4 +25,4 @@ One (1) each of NSN 5998-01-548-4190, AND One (1) eacn of NSN 5998-01-548-4187. 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/45b415284a014274a8fc77c3d11b6742/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/45b415284a014274a8fc77c3d11b6742/view)

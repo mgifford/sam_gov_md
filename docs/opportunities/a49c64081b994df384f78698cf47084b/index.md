@@ -31,4 +31,4 @@ A00001 This notice is extended from 02/17/2026 to 03/04/2026. A00002 This notice
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a49c64081b994df384f78698cf47084b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a49c64081b994df384f78698cf47084b/view)

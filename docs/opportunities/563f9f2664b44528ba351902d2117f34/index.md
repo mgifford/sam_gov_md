@@ -26,4 +26,4 @@ Amendment 1 is to update language in SOW Paragraph 2 regarding licensing agreeme
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/563f9f2664b44528ba351902d2117f34/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/563f9f2664b44528ba351902d2117f34/view)

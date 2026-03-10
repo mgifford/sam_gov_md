@@ -25,4 +25,4 @@ Proposed procurement for NSN 5305012608940 SCREW,CLOSE TOLERAN: Line 0001 Qty 36
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3343db56b41b4ae7a5620821ed66ec0c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3343db56b41b4ae7a5620821ed66ec0c/view)

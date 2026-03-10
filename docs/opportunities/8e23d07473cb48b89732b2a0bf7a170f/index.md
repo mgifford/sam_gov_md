@@ -25,4 +25,4 @@ Q&A as of 04MAR2026: Q1: Is breakfast the only meal required for the duration of
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8e23d07473cb48b89732b2a0bf7a170f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8e23d07473cb48b89732b2a0bf7a170f/view)

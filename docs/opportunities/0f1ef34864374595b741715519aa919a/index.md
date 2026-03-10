@@ -30,4 +30,4 @@ In response to Solicitation 19AQMM25R0073, Contract 19AQMM26C0232 was awarded to
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0f1ef34864374595b741715519aa919a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0f1ef34864374595b741715519aa919a/view)

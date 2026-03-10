@@ -25,4 +25,4 @@ Proposed procurement for NSN 4510014199646 SEAT,WATER CLOSET: Line 0001 Qty 25 U
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/cfdbb761141046ce91dbbfddb12dcc1c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cfdbb761141046ce91dbbfddb12dcc1c/view)

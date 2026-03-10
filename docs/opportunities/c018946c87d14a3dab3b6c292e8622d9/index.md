@@ -25,4 +25,4 @@ Proposed procurement for NSN 3020002682497 GEAR ASSEMBLY,INTER: Line 0001 Qty 3 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c018946c87d14a3dab3b6c292e8622d9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c018946c87d14a3dab3b6c292e8622d9/view)

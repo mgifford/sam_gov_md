@@ -31,4 +31,4 @@ CONTACT INFORMATION|4|N713.26|HGA|(771) 229-1473|JOSEPH.D.WEAVER22.CIV@US.NAVY.M
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d4de091dccb846aab2f2b628e3c7c337/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d4de091dccb846aab2f2b628e3c7c337/view)

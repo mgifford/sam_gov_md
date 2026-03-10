@@ -28,4 +28,4 @@ Amendment 0001 - Please note Amendment 0001. The purpose of this amendment is to
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/110209fafe30416fa12ef1d51af98bb8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/110209fafe30416fa12ef1d51af98bb8/view)

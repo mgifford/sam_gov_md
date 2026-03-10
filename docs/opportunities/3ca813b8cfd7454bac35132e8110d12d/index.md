@@ -25,4 +25,4 @@ Proposed procurement for NSN 1730012863279 TWIST-LOCK ASSEMBLY: Line 0001 Qty 6 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3ca813b8cfd7454bac35132e8110d12d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3ca813b8cfd7454bac35132e8110d12d/view)

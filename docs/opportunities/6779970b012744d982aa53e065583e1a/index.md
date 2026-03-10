@@ -26,4 +26,4 @@ The Request for Quote (RFQ) is for the purchase of Flexible Concrete Matting for
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6779970b012744d982aa53e065583e1a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6779970b012744d982aa53e065583e1a/view)

@@ -34,4 +34,4 @@ A00004 - Solicitation extended to 3/12/2026 at 12:00 PM EST A00003 - Solicitatio
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f5f912f993804e08913beece2eb39520/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f5f912f993804e08913beece2eb39520/view)

@@ -26,4 +26,4 @@ This is a notice of intent to sole source contract pursuant to Federal Acquisiti
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/52cf2bfc5a3b480ba2958afe038a075a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/52cf2bfc5a3b480ba2958afe038a075a/view)

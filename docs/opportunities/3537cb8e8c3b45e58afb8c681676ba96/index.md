@@ -28,4 +28,4 @@ The National Institute of Standards and Technology (NIST) is seeking capable con
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3537cb8e8c3b45e58afb8c681676ba96/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3537cb8e8c3b45e58afb8c681676ba96/view)

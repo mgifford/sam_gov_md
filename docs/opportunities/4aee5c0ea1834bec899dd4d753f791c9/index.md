@@ -29,4 +29,4 @@ INTRODUCTION: This is a Sources Sought Notice (SSN) for vendors interested in pr
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4aee5c0ea1834bec899dd4d753f791c9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4aee5c0ea1834bec899dd4d753f791c9/view)

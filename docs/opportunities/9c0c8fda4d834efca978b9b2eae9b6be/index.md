@@ -26,4 +26,4 @@ Please see Sources Sought Notice for details. All questions must be answered in 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9c0c8fda4d834efca978b9b2eae9b6be/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9c0c8fda4d834efca978b9b2eae9b6be/view)

@@ -30,4 +30,4 @@ Contractor shall furnish all labor, materials and equipment necessary to perform
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1c21e6b74eea40819473cf1cbd7c8941/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1c21e6b74eea40819473cf1cbd7c8941/view)

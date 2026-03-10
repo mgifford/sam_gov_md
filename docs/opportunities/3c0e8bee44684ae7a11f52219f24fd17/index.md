@@ -25,4 +25,4 @@ ITEM UNIQUE IDENTIFICATION AND VALUATION (JAN 2023)|19|||||||||||||||||||| HIGHE
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3c0e8bee44684ae7a11f52219f24fd17/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3c0e8bee44684ae7a11f52219f24fd17/view)

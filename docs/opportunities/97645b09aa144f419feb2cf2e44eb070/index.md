@@ -25,4 +25,4 @@ DLA Weapons Support Mechanicsburg is seeking sources capable of supplying the fo
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/97645b09aa144f419feb2cf2e44eb070/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/97645b09aa144f419feb2cf2e44eb070/view)

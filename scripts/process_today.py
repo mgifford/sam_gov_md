@@ -404,9 +404,14 @@ def write_markdown_opportunities(records: list[dict[str, Any]], output_dir: Path
         
         markdown_lines.extend(["", "## Links", ""])
         if sam_link:
-            markdown_lines.append(f"- SAM.gov: {sam_link}")
+            markdown_lines.append(f"- [SAM.gov opportunity page]({sam_link})")
         if pdf_link:
-            markdown_lines.append(f"- PDF / Additional Info: {pdf_link}")
+            if pdf_link.lower().endswith(".pdf"):
+                markdown_lines.append(f"- [PDF Attachment]({pdf_link})")
+            else:
+                markdown_lines.append(f"- [Additional Information]({pdf_link})")
+        if not sam_link and not pdf_link:
+            markdown_lines.append("_No links are available for this opportunity._")
 
         (doc_dir / "index.md").write_text("\n".join(markdown_lines), encoding="utf-8")
         row["has_markdown"] = True

@@ -28,4 +28,4 @@ Notice of Intent to Award to a Single Source Notice ID: 75N98026Q00079 Agency: U
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e72807bf031840e58c0d3d57fc1e2f73/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e72807bf031840e58c0d3d57fc1e2f73/view)

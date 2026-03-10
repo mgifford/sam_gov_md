@@ -25,4 +25,4 @@ Proposed procurement for NSN 6130016824645 BATTERY POWER SUPPL: Line 0001 Qty 14
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a38e529940ff430b81ca1cb27b87027c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a38e529940ff430b81ca1cb27b87027c/view)

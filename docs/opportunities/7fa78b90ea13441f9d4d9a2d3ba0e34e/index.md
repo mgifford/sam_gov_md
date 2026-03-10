@@ -25,4 +25,4 @@ Proposed procurement for NSN 1710004389231 PLATE,REEL DRUM: Line 0001 Qty 411 UI
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7fa78b90ea13441f9d4d9a2d3ba0e34e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7fa78b90ea13441f9d4d9a2d3ba0e34e/view)

@@ -25,4 +25,4 @@ March 4, 2026 - Procurement Special Notice - A Special Notice was posted on SAM.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f13ce93da11142bda93f7da3f46f9d99/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f13ce93da11142bda93f7da3f46f9d99/view)

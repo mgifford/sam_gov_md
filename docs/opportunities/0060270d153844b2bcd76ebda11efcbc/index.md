@@ -32,4 +32,4 @@ This serves as notice that the United States Government has executed a 9-years, 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0060270d153844b2bcd76ebda11efcbc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0060270d153844b2bcd76ebda11efcbc/view)

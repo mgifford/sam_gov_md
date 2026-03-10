@@ -28,4 +28,4 @@ RFQ 36C24526Q0336 Amendment 0001 This amendment performs the following actions: 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6ca24d710040415887ced85f56baadda/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6ca24d710040415887ced85f56baadda/view)

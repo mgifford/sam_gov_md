@@ -30,4 +30,4 @@ The Naval Sea Systems Command (NAVSEA) intends to negotiate and award FY27-31 LC
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/aa0539f0f8464e2f92305ba2ce35c7db/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/aa0539f0f8464e2f92305ba2ce35c7db/view)

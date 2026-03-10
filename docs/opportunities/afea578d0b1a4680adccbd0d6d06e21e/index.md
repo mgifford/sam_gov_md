@@ -26,4 +26,4 @@ MARKET RESEARCH PURPOSES ONLY NOT A REQUEST FOR PROPOSAL OR SOLICITATION The U.S
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/afea578d0b1a4680adccbd0d6d06e21e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/afea578d0b1a4680adccbd0d6d06e21e/view)

@@ -25,4 +25,4 @@ This contract action is for the acquisition of services for which the Government
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/398592f57db34264ae21839aeecdf95d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/398592f57db34264ae21839aeecdf95d/view)

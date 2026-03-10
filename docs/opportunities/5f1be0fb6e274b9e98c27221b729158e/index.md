@@ -26,4 +26,4 @@ FY26 3rd Quarter Fresh Eggs and Dairy Products for FCI Cumberland in Cumberland,
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5f1be0fb6e274b9e98c27221b729158e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5f1be0fb6e274b9e98c27221b729158e/view)

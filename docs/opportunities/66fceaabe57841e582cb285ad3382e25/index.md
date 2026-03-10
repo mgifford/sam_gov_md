@@ -32,4 +32,4 @@ SOMERVILLE LAKE FACILITY AND PARK CLEANING SERVICES ? W9126G26QA050 (i) This is 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/66fceaabe57841e582cb285ad3382e25/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/66fceaabe57841e582cb285ad3382e25/view)

@@ -28,4 +28,4 @@ Page 3 of 3 This is a combined synopsis/solicitation for commercial items prepar
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d7a9889ddc9141ce805bfecb4b18654d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d7a9889ddc9141ce805bfecb4b18654d/view)

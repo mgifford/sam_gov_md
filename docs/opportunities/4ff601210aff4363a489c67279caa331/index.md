@@ -25,4 +25,4 @@ Proposed procurement for NSN 3950016720098 WINCH,DRUM,POWER OP: Line 0001 Qty 2 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4ff601210aff4363a489c67279caa331/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4ff601210aff4363a489c67279caa331/view)

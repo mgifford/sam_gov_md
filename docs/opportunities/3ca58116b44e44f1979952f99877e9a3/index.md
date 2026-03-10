@@ -26,4 +26,4 @@ U.S. MARINE CORPS STEEL TO BOOTS
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3ca58116b44e44f1979952f99877e9a3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3ca58116b44e44f1979952f99877e9a3/view)

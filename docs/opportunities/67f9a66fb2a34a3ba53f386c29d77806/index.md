@@ -25,4 +25,4 @@ Proposed procurement for NSN 6150015559349 CABLE ASSEMBLY,SPEC: Line 0001 Qty 17
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/67f9a66fb2a34a3ba53f386c29d77806/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/67f9a66fb2a34a3ba53f386c29d77806/view)

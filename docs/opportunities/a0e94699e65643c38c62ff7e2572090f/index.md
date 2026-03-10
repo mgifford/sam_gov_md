@@ -25,4 +25,4 @@ Proposed procurement for NSN 3040010317490 SHAFT ASSEMBLY,DRIV: Line 0001 Qty 13
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a0e94699e65643c38c62ff7e2572090f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a0e94699e65643c38c62ff7e2572090f/view)

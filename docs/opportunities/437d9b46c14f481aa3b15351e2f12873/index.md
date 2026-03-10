@@ -36,4 +36,4 @@ COMBINED SYNOPSIS/SOLICITATION [FAR 5.207(a)(16) Description] (i)This is a combi
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/437d9b46c14f481aa3b15351e2f12873/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/437d9b46c14f481aa3b15351e2f12873/view)

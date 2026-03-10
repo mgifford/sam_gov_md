@@ -28,4 +28,4 @@ See Below Combined Synopsis-Solicitation on Liquid Nitrogen Pipe Freezing kit fo
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2c041e6490614f7d96f4f2ea807f7b06/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2c041e6490614f7d96f4f2ea807f7b06/view)

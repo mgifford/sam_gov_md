@@ -25,4 +25,4 @@ The purpose of Amendment 0001 is to provide the government's response to questio
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/640eb38c6d8e4741be89ae0dfa05e26f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/640eb38c6d8e4741be89ae0dfa05e26f/view)

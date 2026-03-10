@@ -30,4 +30,4 @@ Mahoning Buildings and Grounds
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/31972106f7d94237a01c898cafb32c6d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/31972106f7d94237a01c898cafb32c6d/view)

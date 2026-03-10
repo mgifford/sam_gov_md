@@ -28,4 +28,4 @@ PRESOLICITATION NOTICE Request for Architect Services (A/E) 330 submission Solic
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ee8eb686d5d544e780bd1576359064ec/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ee8eb686d5d544e780bd1576359064ec/view)

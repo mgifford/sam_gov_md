@@ -26,4 +26,4 @@ THE U.S. SECRET SERVICE WILL CONTINUE PLANNING THE MARCH 26, 2026 VIRTUAL INDUST
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/33ca9323e9a94de88c541c5866c8d841/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/33ca9323e9a94de88c541c5866c8d841/view)

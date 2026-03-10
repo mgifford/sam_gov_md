@@ -30,4 +30,4 @@ This award is an Indefinite Delivery, Indefinite Quantity (IDIQ) Multiple Award 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2e5dd7842d664238b5b297ec0a917c2a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2e5dd7842d664238b5b297ec0a917c2a/view)

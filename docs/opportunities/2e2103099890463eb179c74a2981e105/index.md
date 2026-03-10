@@ -28,4 +28,4 @@ El Yunque National Forest (EYNF) is requesting Translator/Interpreter services t
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2e2103099890463eb179c74a2981e105/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2e2103099890463eb179c74a2981e105/view)

@@ -27,4 +27,4 @@ NOTICE OF INTENT TO AWARD BPA CALL THIS IS NOT A SOLICITATION. This synopsis is 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2294a03371e94f34855ee8cc09bd6cc1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2294a03371e94f34855ee8cc09bd6cc1/view)

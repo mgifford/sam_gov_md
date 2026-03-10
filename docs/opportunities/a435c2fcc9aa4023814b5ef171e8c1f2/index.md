@@ -26,4 +26,4 @@ QTY: 1 NSN: 6680010387817 Noun: ACCELEROMETER ASSEM
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a435c2fcc9aa4023814b5ef171e8c1f2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a435c2fcc9aa4023814b5ef171e8c1f2/view)

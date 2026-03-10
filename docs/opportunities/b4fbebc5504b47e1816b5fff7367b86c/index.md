@@ -36,4 +36,4 @@ AMENDMENT 004: EXTENSION OF THE SOLICITATION DUE DATE, EXTENSION OF SUBMITTING Q
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b4fbebc5504b47e1816b5fff7367b86c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b4fbebc5504b47e1816b5fff7367b86c/view)

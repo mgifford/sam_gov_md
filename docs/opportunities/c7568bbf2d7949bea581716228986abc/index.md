@@ -25,4 +25,4 @@ Proposed procurement for NSN 9530012705490 BAR,METAL: Line 0001 Qty 24 UI FT Del
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c7568bbf2d7949bea581716228986abc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c7568bbf2d7949bea581716228986abc/view)

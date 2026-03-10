@@ -36,4 +36,4 @@ This is a Combined Synopsis/Solicitation for simplified acquisition of a constru
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5c2966085264415ea2075eeac8ac8fdb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5c2966085264415ea2075eeac8ac8fdb/view)

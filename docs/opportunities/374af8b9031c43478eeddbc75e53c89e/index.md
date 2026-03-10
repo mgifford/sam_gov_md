@@ -25,4 +25,4 @@ NSN 7H-4420-016967414, TDP VER 001, REF NR LT-C-0362-00, QTY 6 EA, DELIVER TO W2
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/374af8b9031c43478eeddbc75e53c89e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/374af8b9031c43478eeddbc75e53c89e/view)

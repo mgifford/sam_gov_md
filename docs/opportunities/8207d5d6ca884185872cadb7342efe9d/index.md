@@ -26,4 +26,4 @@ The U.S. Army Corps of Engineers, Southwestern Division (SWD), Tulsa District (S
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8207d5d6ca884185872cadb7342efe9d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8207d5d6ca884185872cadb7342efe9d/view)

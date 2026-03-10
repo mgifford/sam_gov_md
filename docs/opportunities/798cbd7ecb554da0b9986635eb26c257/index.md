@@ -29,4 +29,4 @@ Aluminum Powder 601-STD, AM-601-STD-600
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/798cbd7ecb554da0b9986635eb26c257/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/798cbd7ecb554da0b9986635eb26c257/view)

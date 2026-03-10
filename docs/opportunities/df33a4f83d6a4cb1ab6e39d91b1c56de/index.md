@@ -27,4 +27,4 @@ Extend due date of offers
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/df33a4f83d6a4cb1ab6e39d91b1c56de/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/df33a4f83d6a4cb1ab6e39d91b1c56de/view)

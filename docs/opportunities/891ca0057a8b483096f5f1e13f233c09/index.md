@@ -26,4 +26,4 @@ See Sources Sought document and PWS for more information. This notice is for pla
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/891ca0057a8b483096f5f1e13f233c09/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/891ca0057a8b483096f5f1e13f233c09/view)

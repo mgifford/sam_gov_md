@@ -25,4 +25,4 @@ SOLICITATION FOR COMMERICAL ITEMS DLA MARITIME PUGET SOUND intends to procure, D
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/55191905c55047d48e87e9496f0cc203/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/55191905c55047d48e87e9496f0cc203/view)

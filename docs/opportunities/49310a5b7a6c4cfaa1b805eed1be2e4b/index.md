@@ -36,4 +36,4 @@ Pursuant to FAR 5.202(a) (12), this is a non-mandatory synopsis. This solicitati
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/49310a5b7a6c4cfaa1b805eed1be2e4b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/49310a5b7a6c4cfaa1b805eed1be2e4b/view)

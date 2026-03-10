@@ -26,4 +26,4 @@ The purpose of this solicitation amendment is to:Extend the due date from 10 Mar
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8de822d68673447f93d70f353b2b7f55/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8de822d68673447f93d70f353b2b7f55/view)

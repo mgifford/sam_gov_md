@@ -30,4 +30,4 @@ Page 1 of 3 STATEMENT OF WORK PART A GENERAL INFORMATION A.1 INTRODUCTION The He
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/10ba310478c94e529f2a4b372f837a29/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/10ba310478c94e529f2a4b372f837a29/view)

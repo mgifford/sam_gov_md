@@ -29,4 +29,4 @@ DLA Disposition Services Is holding an Industry Day forum focused on Contracting
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/909ad8f25f964acb9d236411884b4095/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/909ad8f25f964acb9d236411884b4095/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 2040011110336 SKID,TIEDOWN: Line 0001 Qty 100 UI EA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d538956851e14ee2a11e3ea78e0db040/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d538956851e14ee2a11e3ea78e0db040/view)

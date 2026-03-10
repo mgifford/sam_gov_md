@@ -25,4 +25,4 @@ Proposed procurement for NSN 4320013453940 PUMP,RECIPROCATING: Line 0001 Qty 10 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5c4d9c53a4794649b21a60065a768c0a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5c4d9c53a4794649b21a60065a768c0a/view)

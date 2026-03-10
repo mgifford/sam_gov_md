@@ -28,4 +28,4 @@ Award for Emergency Replace Food Service Sewer Pipe at MDC Guaynabo. JOFOC attac
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/895d97624afe4c18943e75227d5bd9c9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/895d97624afe4c18943e75227d5bd9c9/view)

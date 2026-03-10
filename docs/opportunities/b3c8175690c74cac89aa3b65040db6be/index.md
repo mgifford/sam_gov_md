@@ -26,4 +26,4 @@ High-Speed Flight Data Acquisition Printed Circuit Board Assembly
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b3c8175690c74cac89aa3b65040db6be/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b3c8175690c74cac89aa3b65040db6be/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 5330014441227 PACKING,PREFORMED: Line 0001 Qty 9788
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/faaaf305f29442049774923fbd8e96f0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/faaaf305f29442049774923fbd8e96f0/view)

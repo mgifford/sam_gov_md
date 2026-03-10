@@ -25,4 +25,4 @@ Proposed procurement for NSN 2540011553662 LADDER,VEHICLE BOAR: Line 0001 Qty 79
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/64a7201e656d421a9f79ac60a6c09487/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/64a7201e656d421a9f79ac60a6c09487/view)

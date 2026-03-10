@@ -26,4 +26,4 @@ THIS NOT A NOTICE OF SOLICITATION ISSURANCE, BUT RATHER A REQUEST FOR INFORMATIO
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/329328ff92e74b249ca1914d8f492a1b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/329328ff92e74b249ca1914d8f492a1b/view)

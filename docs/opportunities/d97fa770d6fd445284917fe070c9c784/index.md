@@ -30,4 +30,4 @@ Amended: 3/4/2026 NAICS Code 541330 is welcomed to submit information. This is a
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d97fa770d6fd445284917fe070c9c784/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d97fa770d6fd445284917fe070c9c784/view)

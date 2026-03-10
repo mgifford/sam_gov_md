@@ -28,4 +28,4 @@ This is an amendment to attach additional photos, add questions and answers, and
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0e90acce0f9e47eb812ece92e84dbe75/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0e90acce0f9e47eb812ece92e84dbe75/view)

@@ -25,4 +25,4 @@ CONTACT INFORMATION|4|N791.13|LZZ|771-229-0606|Destiny.n.wiatr.civ@us.navy.mil| 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8bf5fadb8ca343b9a3f460ad224dc9a2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8bf5fadb8ca343b9a3f460ad224dc9a2/view)

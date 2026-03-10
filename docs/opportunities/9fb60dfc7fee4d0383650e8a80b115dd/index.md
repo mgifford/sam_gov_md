@@ -25,4 +25,4 @@ CONTACT INFORMATION|4|N762.43|T5Y|215-697-1396|Andrew.N.Phillips10.civ@us.navy.m
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9fb60dfc7fee4d0383650e8a80b115dd/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9fb60dfc7fee4d0383650e8a80b115dd/view)

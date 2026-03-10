@@ -26,4 +26,4 @@ NSN: 2840-01-436-9105NZ NOUN: SEAL, METALLIC, AIRCR TOP DRAWING: 4082667-01 EDL 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2dd3714500dd45c782e0bfe1bc547fbe/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2dd3714500dd45c782e0bfe1bc547fbe/view)

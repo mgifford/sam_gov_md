@@ -25,4 +25,4 @@ Proposed procurement for NSN 2510015342358 PANEL,VEHICULAR OPE: Line 0001 Qty 11
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/55d3a72e502648fe85901692256f22f3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/55d3a72e502648fe85901692256f22f3/view)

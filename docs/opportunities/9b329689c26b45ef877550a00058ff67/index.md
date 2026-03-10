@@ -25,4 +25,4 @@ Proposed procurement for NSN 1680015855284 GRIP ASSEMBLY,CONTR: Line 0001 Qty 9 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9b329689c26b45ef877550a00058ff67/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9b329689c26b45ef877550a00058ff67/view)

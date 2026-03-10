@@ -29,4 +29,4 @@ This solicitation is to integrate Intrusion Detection System for the 353 SOW to 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/342904f16e6c4fc69ce4e6f78fbfae7a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/342904f16e6c4fc69ce4e6f78fbfae7a/view)

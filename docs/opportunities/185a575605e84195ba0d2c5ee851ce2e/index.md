@@ -30,4 +30,4 @@ The attached document is the justification and approval for awarding contract N0
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/185a575605e84195ba0d2c5ee851ce2e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/185a575605e84195ba0d2c5ee851ce2e/view)

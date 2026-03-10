@@ -30,4 +30,4 @@ This Sources Sought Notice is issued for market research purposes only and does 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/72994615b47b45418f4b943071001696/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/72994615b47b45418f4b943071001696/view)

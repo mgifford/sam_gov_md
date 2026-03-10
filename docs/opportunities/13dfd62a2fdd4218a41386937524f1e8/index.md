@@ -25,4 +25,4 @@ Proposed procurement for NSN 5355003214661 WINDOW,DIAL: Line 0001 Qty 83 UI EA D
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/13dfd62a2fdd4218a41386937524f1e8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/13dfd62a2fdd4218a41386937524f1e8/view)

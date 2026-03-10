@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340012167640 COVER,ACCESS: Line 0001 Qty 9 UI AY D
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/232de0f7b8ee43019ef4c7a78cd2edc7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/232de0f7b8ee43019ef4c7a78cd2edc7/view)

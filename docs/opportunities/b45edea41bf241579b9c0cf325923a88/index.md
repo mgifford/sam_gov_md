@@ -25,4 +25,4 @@ Proposed procurement for NSN 5330010709702 SEAL,RUBBER: Line 0001 Qty 1193 UI EA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b45edea41bf241579b9c0cf325923a88/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b45edea41bf241579b9c0cf325923a88/view)

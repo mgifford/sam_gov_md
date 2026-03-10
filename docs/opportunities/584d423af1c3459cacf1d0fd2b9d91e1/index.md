@@ -30,4 +30,4 @@ Services to provide all management, transportation, tools, supplies, equipment, 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/584d423af1c3459cacf1d0fd2b9d91e1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/584d423af1c3459cacf1d0fd2b9d91e1/view)

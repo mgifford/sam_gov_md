@@ -25,4 +25,4 @@ Proposed procurement for NSN 2990016621984 FOOT LH MOUNTING: Line 0001 Qty 15 UI
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0c6fd87cfbac416c9fcb14e0c17ac5b9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0c6fd87cfbac416c9fcb14e0c17ac5b9/view)

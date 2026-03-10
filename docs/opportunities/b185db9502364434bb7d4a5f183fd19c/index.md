@@ -30,4 +30,4 @@ The purpose of this Market Survey is to solicit statements of interest and capab
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b185db9502364434bb7d4a5f183fd19c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b185db9502364434bb7d4a5f183fd19c/view)

@@ -26,4 +26,4 @@ Defense Logistics Agency (DLA) Troop Support Philadelphia intends to issue a ful
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8dbb1941e59645f98033f9fb791ea2fc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8dbb1941e59645f98033f9fb791ea2fc/view)

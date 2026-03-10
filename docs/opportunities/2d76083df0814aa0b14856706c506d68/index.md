@@ -26,4 +26,4 @@ DLA has a requirement for brand-name "System Applications and Products (SAP)" En
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2d76083df0814aa0b14856706c506d68/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2d76083df0814aa0b14856706c506d68/view)

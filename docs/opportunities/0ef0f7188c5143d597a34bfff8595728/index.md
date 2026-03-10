@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340002862289 SEAT,HELICAL COMPRE: Line 0001 Qty 30
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0ef0f7188c5143d597a34bfff8595728/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0ef0f7188c5143d597a34bfff8595728/view)

@@ -25,4 +25,4 @@ Buy #:1206673 https://protect2.fireeye.com/v1/url?k=85eab564-e0a6dc34-85ed9181-7
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/586300ddc3264afbae881cb60867b77b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/586300ddc3264afbae881cb60867b77b/view)

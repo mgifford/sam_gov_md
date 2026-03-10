@@ -28,4 +28,4 @@ The U.S. Department of Veterans Affairs, Network Contracting Office 20, in suppo
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2bce40de6cfb4c1ba79dea4362d6d961/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2bce40de6cfb4c1ba79dea4362d6d961/view)

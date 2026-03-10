@@ -25,4 +25,4 @@ Request for Information/Sources Sought Notice for providers of 110 GHz Cryogenic
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1a5cf9e6f2b946349af02929847bc6e2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1a5cf9e6f2b946349af02929847bc6e2/view)

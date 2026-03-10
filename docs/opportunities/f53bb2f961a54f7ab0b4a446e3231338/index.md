@@ -36,4 +36,4 @@ THIS IS NOT A REQUEST FOR COMPETITIVE PROPOSALS/QUOTES The 97th Maintenance Grou
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f53bb2f961a54f7ab0b4a446e3231338/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f53bb2f961a54f7ab0b4a446e3231338/view)

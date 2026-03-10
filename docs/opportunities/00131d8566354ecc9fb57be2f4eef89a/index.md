@@ -26,4 +26,4 @@ The U.S. Army Corps of Engineers (USACE), Chicago District will host its annual 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/00131d8566354ecc9fb57be2f4eef89a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/00131d8566354ecc9fb57be2f4eef89a/view)

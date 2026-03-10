@@ -28,4 +28,4 @@ The Joint All Domain Persistent Adaptive Collaborative Technologies Project is H
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/85c931003c3e4a32becbb441d130ce08/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/85c931003c3e4a32becbb441d130ce08/view)

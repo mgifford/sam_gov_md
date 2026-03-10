@@ -25,4 +25,4 @@ Pursuant to FAR 15.101(c), this is a Request for Information (RFI) only and no s
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4543e754c1c4455a8dc334b03b772b99/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4543e754c1c4455a8dc334b03b772b99/view)

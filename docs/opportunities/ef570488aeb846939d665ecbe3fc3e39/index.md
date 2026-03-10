@@ -26,4 +26,4 @@ a. The purpose of this SSN is to gain knowledge regarding the types of intereste
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ef570488aeb846939d665ecbe3fc3e39/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ef570488aeb846939d665ecbe3fc3e39/view)

@@ -33,4 +33,4 @@ Amendment No. 0004 is issued by the VA to address RFI's under this procurement e
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/17663dbaed774ddbae2aa2ff92aff986/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/17663dbaed774ddbae2aa2ff92aff986/view)

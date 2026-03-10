@@ -26,4 +26,4 @@ The purpose of this Amendment is to correct the Source Sought Response date, cha
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e32ca48a91744f7c80d3f737c00668ad/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e32ca48a91744f7c80d3f737c00668ad/view)

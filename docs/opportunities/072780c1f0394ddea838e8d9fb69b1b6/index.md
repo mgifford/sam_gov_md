@@ -25,4 +25,4 @@ Proposed procurement for NSN 2590014840440 SUPPORT,RETRACTABLE: Line 0001 Qty 12
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/072780c1f0394ddea838e8d9fb69b1b6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/072780c1f0394ddea838e8d9fb69b1b6/view)

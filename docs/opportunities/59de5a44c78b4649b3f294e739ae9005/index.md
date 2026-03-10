@@ -25,4 +25,4 @@ Proposed procurement for NSN 3040123915957 CYLINDER,ACTUATING,: Line 0001 Qty 24
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/59de5a44c78b4649b3f294e739ae9005/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/59de5a44c78b4649b3f294e739ae9005/view)

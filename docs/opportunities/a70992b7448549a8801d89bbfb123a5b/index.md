@@ -26,4 +26,4 @@ NOI - Thermo NA, LLC Parts and Service visit to repair iCAP TQ Mass Spectrometer
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a70992b7448549a8801d89bbfb123a5b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a70992b7448549a8801d89bbfb123a5b/view)

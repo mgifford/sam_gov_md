@@ -28,4 +28,4 @@ Hazardous Waste Removal and Disposal Services for Yosemite National Park.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3b95b78ea9c0429686b1bc8ceefb8bac/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3b95b78ea9c0429686b1bc8ceefb8bac/view)

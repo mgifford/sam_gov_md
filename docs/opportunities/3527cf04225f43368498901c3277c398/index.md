@@ -32,4 +32,4 @@ A firm fixed price award was issued to Haley & Aldrich, Inc. against Broad Agenc
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3527cf04225f43368498901c3277c398/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3527cf04225f43368498901c3277c398/view)

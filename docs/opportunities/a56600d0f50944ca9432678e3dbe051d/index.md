@@ -25,4 +25,4 @@ Proposed procurement for NSN 4810013195093 VALVE,GATE: Line 0001 Qty 17 UI EA De
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a56600d0f50944ca9432678e3dbe051d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a56600d0f50944ca9432678e3dbe051d/view)

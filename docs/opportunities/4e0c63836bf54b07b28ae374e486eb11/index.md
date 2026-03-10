@@ -25,4 +25,4 @@ Proposed procurement for NSN 5930014221090 SWITCH,TOGGLE: Line 0001 Qty 55 UI EA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4e0c63836bf54b07b28ae374e486eb11/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4e0c63836bf54b07b28ae374e486eb11/view)

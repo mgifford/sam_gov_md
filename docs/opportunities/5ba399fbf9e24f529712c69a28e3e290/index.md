@@ -27,4 +27,4 @@ Combined Synopsis
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5ba399fbf9e24f529712c69a28e3e290/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5ba399fbf9e24f529712c69a28e3e290/view)

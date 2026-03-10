@@ -25,4 +25,4 @@ Proposed procurement for NSN 2540013529175 BELT,VEHICULAR SAFE: Line 0001 Qty 82
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4dfd68e53cff4cd583ee536c392341b6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4dfd68e53cff4cd583ee536c392341b6/view)

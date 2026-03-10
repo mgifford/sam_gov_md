@@ -30,4 +30,4 @@ Cape Cod Space Force Station (CCSFS) is an active-duty military installation con
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1be057333602426e88afcafaf0add068/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1be057333602426e88afcafaf0add068/view)

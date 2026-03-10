@@ -25,4 +25,4 @@ This is a combined synopsis/solicitation for commercial items, prepared in accor
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9bdc0390fcd94ac9b77eff6e69c4c162/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9bdc0390fcd94ac9b77eff6e69c4c162/view)

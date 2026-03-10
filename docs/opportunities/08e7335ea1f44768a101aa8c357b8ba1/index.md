@@ -25,4 +25,4 @@ Proposed procurement for NSN 4310013373829 COMPRESSOR,RECIPROC: Line 0001 Qty 15
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/08e7335ea1f44768a101aa8c357b8ba1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/08e7335ea1f44768a101aa8c357b8ba1/view)

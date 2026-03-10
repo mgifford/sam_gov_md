@@ -26,4 +26,4 @@ COMBO SYNOPSIS SOLICITATION FOR COMMERCIAL ITEMS 1. Class Code: 7B20 2. NAICS Co
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/722959464e40468f91ca0e70d855c0ea/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/722959464e40468f91ca0e70d855c0ea/view)

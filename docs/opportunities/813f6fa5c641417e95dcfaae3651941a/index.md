@@ -25,4 +25,4 @@ Proposed procurement for NSN 3830016770179 DRUM,WINCH: Line 0001 Qty 14 UI EA De
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/813f6fa5c641417e95dcfaae3651941a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/813f6fa5c641417e95dcfaae3651941a/view)

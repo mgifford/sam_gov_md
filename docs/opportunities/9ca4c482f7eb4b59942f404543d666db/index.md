@@ -26,4 +26,4 @@ To solicit and award a new non-personal services contract to provide all labor, 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9ca4c482f7eb4b59942f404543d666db/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9ca4c482f7eb4b59942f404543d666db/view)

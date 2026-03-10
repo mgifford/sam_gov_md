@@ -25,4 +25,4 @@ Proposed procurement for NSN 2910015519806 SWITCH,LIQUID LEVEL: Line 0001 Qty 39
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/27f881570dbd48a49a8dd5c294ba33bd/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/27f881570dbd48a49a8dd5c294ba33bd/view)

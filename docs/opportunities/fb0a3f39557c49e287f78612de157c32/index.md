@@ -26,4 +26,4 @@ Shotgun Clay Targets
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fb0a3f39557c49e287f78612de157c32/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fb0a3f39557c49e287f78612de157c32/view)

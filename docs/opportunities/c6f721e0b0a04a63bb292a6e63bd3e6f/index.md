@@ -25,4 +25,4 @@ Proposed procurement for NSN 2990010706278 MUFFLER,EXHAUST: Line 0001 Qty 63 UI 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c6f721e0b0a04a63bb292a6e63bd3e6f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c6f721e0b0a04a63bb292a6e63bd3e6f/view)

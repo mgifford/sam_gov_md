@@ -25,4 +25,4 @@ Proposed procurement for NSN 5980015697741 DISPLAY,OPTOELECTRO: Line 0001 Qty 75
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1a536827d7be4cfbb16f29b93b5a7a05/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1a536827d7be4cfbb16f29b93b5a7a05/view)

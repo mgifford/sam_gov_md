@@ -25,4 +25,4 @@ Proposed procurement for NSN 2040017246157 FENDER,MARINE: Line 0001 Qty 6 UI AY 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/53a5d93516ac4cd4b442229d4ea7bc9e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/53a5d93516ac4cd4b442229d4ea7bc9e/view)

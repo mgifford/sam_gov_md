@@ -30,4 +30,4 @@ Solicitation is Restricted to the Region 5 FERM ZONE 3 BPA Holders
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/701655773b8f4f6da9a515d181ed5e5b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/701655773b8f4f6da9a515d181ed5e5b/view)

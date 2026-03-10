@@ -26,4 +26,4 @@ COMBINED SYNOPSIS/SOLICITATION #: N0017826Q6686 Submitted by: Heather Hostinsky 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8b048ad8513548d1ac7a370f07b284e8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8b048ad8513548d1ac7a370f07b284e8/view)

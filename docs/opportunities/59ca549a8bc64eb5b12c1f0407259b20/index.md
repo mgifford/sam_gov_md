@@ -32,4 +32,4 @@ Custom Cable Assemblies awarded on a competitive basis.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/59ca549a8bc64eb5b12c1f0407259b20/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/59ca549a8bc64eb5b12c1f0407259b20/view)

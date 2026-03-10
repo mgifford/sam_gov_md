@@ -25,4 +25,4 @@ Proposed procurement for NSN 1095013341214 PISTON EJECTOR LINE: Line 0001 Qty 43
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9f8abec98b7a42f1b900afe0162fe874/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9f8abec98b7a42f1b900afe0162fe874/view)

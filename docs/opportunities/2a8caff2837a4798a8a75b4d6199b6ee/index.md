@@ -26,4 +26,4 @@ This is a Request for Information (RFI) notice issued to conduct market research
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2a8caff2837a4798a8a75b4d6199b6ee/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2a8caff2837a4798a8a75b4d6199b6ee/view)

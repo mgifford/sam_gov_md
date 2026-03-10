@@ -25,4 +25,4 @@ Proposed procurement for NSN 5342014970740 MOUNT,RESILIENT,WEA: Line 0001 Qty 4 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/39293ce985704a888337ca686c619a84/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/39293ce985704a888337ca686c619a84/view)

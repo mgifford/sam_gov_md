@@ -26,4 +26,4 @@ Ammunition Components and Rifle Cartridges
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/342c50426f7f4690b3f9fb288101ced5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/342c50426f7f4690b3f9fb288101ced5/view)

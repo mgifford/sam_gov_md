@@ -25,4 +25,4 @@ Proposed procurement for NSN 7910012551776 CLEANING,VENTILATIO: Line 0001 Qty 7 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6cb00d940ffe402aad1b75791d35d505/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6cb00d940ffe402aad1b75791d35d505/view)

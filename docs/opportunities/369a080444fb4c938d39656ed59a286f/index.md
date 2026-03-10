@@ -28,4 +28,4 @@ Sources Sought Notice Sources Sought Notice Page 6 of 6 Page 6 of 6 Sources Soug
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/369a080444fb4c938d39656ed59a286f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/369a080444fb4c938d39656ed59a286f/view)

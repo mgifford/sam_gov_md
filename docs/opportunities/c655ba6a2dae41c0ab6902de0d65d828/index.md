@@ -28,4 +28,4 @@ Request for quote N6883626QS038. See attached RFQ for further instructions.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c655ba6a2dae41c0ab6902de0d65d828/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c655ba6a2dae41c0ab6902de0d65d828/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 3040012523798 BRAKE BAND AND LINI: Line 0001 Qty 10
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fab5fd88953d4a20a9ec2469601ea3a4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fab5fd88953d4a20a9ec2469601ea3a4/view)

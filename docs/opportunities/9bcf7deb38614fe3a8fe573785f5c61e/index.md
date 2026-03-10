@@ -29,4 +29,4 @@ THIS REQUIREMENT IS RESTRICTED TO AAR SUPPLY CHAIN, INC. (CAGE: 1Y249), IAW 10 U
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9bcf7deb38614fe3a8fe573785f5c61e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9bcf7deb38614fe3a8fe573785f5c61e/view)

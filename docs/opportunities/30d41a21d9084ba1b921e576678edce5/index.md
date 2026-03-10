@@ -25,4 +25,4 @@ Amendment 0002 Posted. Amendment 0001 Posted This is a combined synopsis/solicit
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/30d41a21d9084ba1b921e576678edce5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/30d41a21d9084ba1b921e576678edce5/view)

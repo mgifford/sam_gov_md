@@ -26,4 +26,4 @@ TIME ZONE (PACIFIC) WEST COAST USA ALL QUESTIONS REGARDING THE SOLICITATION SHAL
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/487e67cd2220448ca3cc889c6857eac4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/487e67cd2220448ca3cc889c6857eac4/view)

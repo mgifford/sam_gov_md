@@ -36,4 +36,4 @@ COMBINED SYNOPSIS/SOLICITATION (COMBO) FA5575-26-Q-0002 - Contingency Dorm Linen
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/935a1dac10cd444680691df2bf93c15a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/935a1dac10cd444680691df2bf93c15a/view)

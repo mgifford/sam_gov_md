@@ -30,4 +30,4 @@ The United States Coast Guard is accepting proposals for qualified individuals o
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c616ca4a0db14a05a0214abe60ed0201/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c616ca4a0db14a05a0214abe60ed0201/view)

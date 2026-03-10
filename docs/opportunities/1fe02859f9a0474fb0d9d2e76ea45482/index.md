@@ -31,4 +31,4 @@ AMENDMENT 01 The purpose of Amendment 01 is to post the Vendor Questions & Answe
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1fe02859f9a0474fb0d9d2e76ea45482/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1fe02859f9a0474fb0d9d2e76ea45482/view)

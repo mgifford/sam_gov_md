@@ -29,4 +29,4 @@ The contractor shall provide portable toilets, handicap accessible portable toil
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c17e6afedae846ed9d1965af77202a3b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c17e6afedae846ed9d1965af77202a3b/view)

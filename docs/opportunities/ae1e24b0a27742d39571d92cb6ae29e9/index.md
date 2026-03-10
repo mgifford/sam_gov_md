@@ -36,4 +36,4 @@ The 2014 Quadrennial Defense Review (QDR) established innovation as a central li
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ae1e24b0a27742d39571d92cb6ae29e9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ae1e24b0a27742d39571d92cb6ae29e9/view)

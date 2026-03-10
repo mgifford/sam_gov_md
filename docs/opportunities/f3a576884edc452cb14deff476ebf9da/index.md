@@ -26,4 +26,4 @@ The U.S. Government is seeking a full service lease for retail office space with
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f3a576884edc452cb14deff476ebf9da/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f3a576884edc452cb14deff476ebf9da/view)

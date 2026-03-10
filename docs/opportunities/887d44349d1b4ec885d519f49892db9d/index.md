@@ -28,4 +28,4 @@ SOLICITATON NOTICE: The 700th Contracting Squadron (700 CONS) intends to award a
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/887d44349d1b4ec885d519f49892db9d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/887d44349d1b4ec885d519f49892db9d/view)

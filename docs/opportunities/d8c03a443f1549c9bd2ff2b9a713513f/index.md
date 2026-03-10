@@ -36,4 +36,4 @@ Amendment 0001, Attachment 1-Schedule of Services Rev1, and Attachment 2-Spec Re
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d8c03a443f1549c9bd2ff2b9a713513f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d8c03a443f1549c9bd2ff2b9a713513f/view)

@@ -25,4 +25,4 @@ Machine Learning-Enhanced Spectroscopy Technology for High-Resolution Radiation 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8fdb327019674bd4bb897658ea0bf82c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8fdb327019674bd4bb897658ea0bf82c/view)

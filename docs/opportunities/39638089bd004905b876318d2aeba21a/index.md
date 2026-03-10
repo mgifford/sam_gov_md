@@ -26,4 +26,4 @@ Electrical Apparatus and Equipment in accordance with the item list attached for
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/39638089bd004905b876318d2aeba21a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/39638089bd004905b876318d2aeba21a/view)

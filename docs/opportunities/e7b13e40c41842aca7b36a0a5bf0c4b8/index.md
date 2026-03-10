@@ -26,4 +26,4 @@ The purpose of this action is to procure brand name Amazon Web Services (AWS) to
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e7b13e40c41842aca7b36a0a5bf0c4b8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e7b13e40c41842aca7b36a0a5bf0c4b8/view)

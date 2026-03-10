@@ -28,4 +28,4 @@ THERE IS NO SOLICITATION AVAILABLE AT THIS TIME. REQUEST FOR A SOLICITATION WILL
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d959c05533234dc2b5ca21b5bff19f58/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d959c05533234dc2b5ca21b5bff19f58/view)

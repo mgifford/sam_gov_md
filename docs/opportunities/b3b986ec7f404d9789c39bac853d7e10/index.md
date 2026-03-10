@@ -25,4 +25,4 @@ The NATO Communications and Information Agency (NCIA) intends to issue an Invita
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b3b986ec7f404d9789c39bac853d7e10/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b3b986ec7f404d9789c39bac853d7e10/view)

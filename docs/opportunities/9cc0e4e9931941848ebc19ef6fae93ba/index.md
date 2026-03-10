@@ -25,4 +25,4 @@ Proposed procurement for NSN 3040001333592 GEARSHAFT,HELICAL-S: Line 0001 Qty 27
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9cc0e4e9931941848ebc19ef6fae93ba/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9cc0e4e9931941848ebc19ef6fae93ba/view)

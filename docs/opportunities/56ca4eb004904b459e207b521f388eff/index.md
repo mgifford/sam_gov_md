@@ -25,4 +25,4 @@ See attached solicitation. Amendment 0005 issued 03/04/2026 to address opening o
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/56ca4eb004904b459e207b521f388eff/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/56ca4eb004904b459e207b521f388eff/view)

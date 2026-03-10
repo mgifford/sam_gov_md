@@ -28,4 +28,4 @@ SEE THE ATTACHED PERFORMANCE WORK STATEMENT (pws)
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4a97aeb170a74fbd8eda58e0412c5bcc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4a97aeb170a74fbd8eda58e0412c5bcc/view)

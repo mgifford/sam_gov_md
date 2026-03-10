@@ -34,4 +34,4 @@ Please see attachment RFP SPRRA2-26-R-0034 for a full description. Please see at
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/31ff6bad663c4543ac7c82816bd8bab0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/31ff6bad663c4543ac7c82816bd8bab0/view)

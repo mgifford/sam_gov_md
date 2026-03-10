@@ -25,4 +25,4 @@ SUBJECT: Synopsis Waiver Exception is taken to this requirement solicitation SPR
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/895fc109eaac41efaac0789359d5b0eb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/895fc109eaac41efaac0789359d5b0eb/view)

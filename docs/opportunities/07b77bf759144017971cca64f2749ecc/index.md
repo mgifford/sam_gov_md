@@ -30,4 +30,4 @@ The Government hereby provides notice of its intent to exercise the Option to Ex
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/07b77bf759144017971cca64f2749ecc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/07b77bf759144017971cca64f2749ecc/view)

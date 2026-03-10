@@ -26,4 +26,4 @@ This is a sole source procurement with Physical Electronics USA, Inc. All Respon
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/77b981e7ccbf4da6bfbfa0a92ad25d83/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/77b981e7ccbf4da6bfbfa0a92ad25d83/view)

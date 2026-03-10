@@ -29,4 +29,4 @@ THIS IS A REQUEST FOR QUOTATION The United States Marine Corps Silent Drill Plat
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3f6af46fde3d45718a363a33fb75652e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3f6af46fde3d45718a363a33fb75652e/view)

@@ -25,4 +25,4 @@ THIS IS A PRE-SOLICITATION NOTICE ONLY This is not a Request for Proposal (RFP).
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5d9fac5e94c848539a9ae7d44830929f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5d9fac5e94c848539a9ae7d44830929f/view)

@@ -28,4 +28,4 @@ WV_NORTHANDCENTRAL_D26
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fc02685beb684d9da2d1cf197026de91/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fc02685beb684d9da2d1cf197026de91/view)

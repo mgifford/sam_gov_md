@@ -25,4 +25,4 @@ USCGC Eagle Crane-Barge Services for Figurehead Installation This is a combined 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/11e1d274084645f4bb07666b4635a520/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/11e1d274084645f4bb07666b4635a520/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 2815004101211 RING SET,PISTON: Line 0001 Qty 689 UI
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5d05ab9fb70e45acbe5d377b4811cfe4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5d05ab9fb70e45acbe5d377b4811cfe4/view)

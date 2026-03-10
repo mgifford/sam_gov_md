@@ -25,4 +25,4 @@ Proposed procurement for NSN 5330014132118 GASKET: Line 0001 Qty 265 UI EA Deliv
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2f03864a3bd04522a1cfc81dc31ded57/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2f03864a3bd04522a1cfc81dc31ded57/view)

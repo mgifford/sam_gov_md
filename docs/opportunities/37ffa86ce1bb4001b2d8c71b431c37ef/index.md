@@ -26,4 +26,4 @@ The Veterans Health Administration, Network Contracting Office 15, is soliciting
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/37ffa86ce1bb4001b2d8c71b431c37ef/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/37ffa86ce1bb4001b2d8c71b431c37ef/view)

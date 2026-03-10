@@ -31,4 +31,4 @@ CONTACT INFORMATION|4|N743.23|WVE|N/A|ALANA.M.BOYER2.CIV@US.NAVY.MIL| ITEM UNIQU
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ce8e94e2585a4ae5a71610ddf75656cf/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ce8e94e2585a4ae5a71610ddf75656cf/view)

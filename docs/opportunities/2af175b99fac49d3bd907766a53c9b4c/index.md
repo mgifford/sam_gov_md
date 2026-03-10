@@ -26,4 +26,4 @@ This acquisition is a 100 percent small business set-aside. The North American I
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2af175b99fac49d3bd907766a53c9b4c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2af175b99fac49d3bd907766a53c9b4c/view)

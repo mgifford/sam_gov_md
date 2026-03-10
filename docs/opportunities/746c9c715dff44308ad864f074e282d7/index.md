@@ -25,4 +25,4 @@ THIS IS A Sources Sought Notice ONLY. The New Mexico Army National Guard is issu
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/746c9c715dff44308ad864f074e282d7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/746c9c715dff44308ad864f074e282d7/view)

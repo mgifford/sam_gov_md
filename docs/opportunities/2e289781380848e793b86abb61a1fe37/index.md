@@ -25,4 +25,4 @@ Proposed procurement for NSN 2590011067847 FRAME,BLACKOUT: Line 0001 Qty 400 UI 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2e289781380848e793b86abb61a1fe37/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2e289781380848e793b86abb61a1fe37/view)

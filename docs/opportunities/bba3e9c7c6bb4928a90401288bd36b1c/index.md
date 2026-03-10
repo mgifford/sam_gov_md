@@ -25,4 +25,4 @@ Proposed procurement for NSN 4920010174482 SUPPORT ASSEMBLY,MO: Line 0001 Qty 2 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bba3e9c7c6bb4928a90401288bd36b1c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bba3e9c7c6bb4928a90401288bd36b1c/view)

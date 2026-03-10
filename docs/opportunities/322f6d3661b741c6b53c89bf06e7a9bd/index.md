@@ -26,4 +26,4 @@ Note: This is an amendment to previously posted RFQ N66604-26-Q-0069. Naval Unde
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/322f6d3661b741c6b53c89bf06e7a9bd/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/322f6d3661b741c6b53c89bf06e7a9bd/view)

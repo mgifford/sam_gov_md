@@ -34,4 +34,4 @@ Amendment 2, dated 04 Mar 2026 1. Purpose of this Amendment: To provide interest
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2d209f51e04b485cb97096d028526a51/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2d209f51e04b485cb97096d028526a51/view)

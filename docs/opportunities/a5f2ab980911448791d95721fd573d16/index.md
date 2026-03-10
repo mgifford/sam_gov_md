@@ -27,4 +27,4 @@ Marine Corps Installations-National Capital Region (MCI-NCR) Regional Contractin
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a5f2ab980911448791d95721fd573d16/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a5f2ab980911448791d95721fd573d16/view)

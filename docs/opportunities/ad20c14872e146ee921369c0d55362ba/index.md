@@ -32,4 +32,4 @@ GAOA Strawberry Kamas Bunkhouse Renovations Uinta/Wasatch/Cache National Forest 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ad20c14872e146ee921369c0d55362ba/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ad20c14872e146ee921369c0d55362ba/view)

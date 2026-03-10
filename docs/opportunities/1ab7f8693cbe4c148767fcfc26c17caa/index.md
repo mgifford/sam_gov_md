@@ -25,4 +25,4 @@ Proposed procurement for NSN 3020012011735 GEAR,SPUR: Line 0001 Qty 38 UI EA Del
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1ab7f8693cbe4c148767fcfc26c17caa/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1ab7f8693cbe4c148767fcfc26c17caa/view)

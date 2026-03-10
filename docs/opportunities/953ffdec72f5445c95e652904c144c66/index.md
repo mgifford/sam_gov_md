@@ -26,4 +26,4 @@ The U.S. Fish and Wildlife Service, Office of Law Enforcement, BPA RFQ ¿ Snow P
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/953ffdec72f5445c95e652904c144c66/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/953ffdec72f5445c95e652904c144c66/view)

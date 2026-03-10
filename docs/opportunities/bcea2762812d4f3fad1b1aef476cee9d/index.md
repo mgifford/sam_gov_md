@@ -26,4 +26,4 @@ North Cascades National Park has a need for the delivery and placement of 3-man 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bcea2762812d4f3fad1b1aef476cee9d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bcea2762812d4f3fad1b1aef476cee9d/view)

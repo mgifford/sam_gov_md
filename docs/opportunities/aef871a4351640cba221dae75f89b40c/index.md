@@ -32,4 +32,4 @@ The 18th Contracting Squadron cordially invites you to our upcoming Kadena Multi
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/aef871a4351640cba221dae75f89b40c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/aef871a4351640cba221dae75f89b40c/view)

@@ -26,4 +26,4 @@ The Navajo Area Indian Health Service, Chinle Service Unit in Chinle, AZ intends
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/945a7a9517994f288d4ba470e5eafdce/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/945a7a9517994f288d4ba470e5eafdce/view)

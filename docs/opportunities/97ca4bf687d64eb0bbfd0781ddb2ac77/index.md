@@ -28,4 +28,4 @@ Modification to a Previous Notice Modification to a Previous Notice Page 4 of 4 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/97ca4bf687d64eb0bbfd0781ddb2ac77/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/97ca4bf687d64eb0bbfd0781ddb2ac77/view)

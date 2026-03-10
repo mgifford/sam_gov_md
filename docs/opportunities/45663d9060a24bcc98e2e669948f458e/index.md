@@ -29,4 +29,4 @@ Nomenclature: VALVE, REGULATING, FL FMS Case: KU-P-GHY NSN: 7RE 4820 013485128 G
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/45663d9060a24bcc98e2e669948f458e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/45663d9060a24bcc98e2e669948f458e/view)

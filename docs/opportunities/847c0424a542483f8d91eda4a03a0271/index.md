@@ -25,4 +25,4 @@ This is a non-personal services contract to provide services to manage, operate,
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/847c0424a542483f8d91eda4a03a0271/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/847c0424a542483f8d91eda4a03a0271/view)

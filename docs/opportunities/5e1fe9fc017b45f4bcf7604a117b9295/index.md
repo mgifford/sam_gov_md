@@ -30,4 +30,4 @@ F-16 DED Power Supply Pre-Solicitation Synopsis: FA8251-26-DED_PwrSupply NOTICE:
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5e1fe9fc017b45f4bcf7604a117b9295/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5e1fe9fc017b45f4bcf7604a117b9295/view)

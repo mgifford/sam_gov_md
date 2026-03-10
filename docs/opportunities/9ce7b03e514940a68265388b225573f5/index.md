@@ -28,4 +28,4 @@ This is a Draft RFP for the Arnold Engineering Development Complex (AEDC) Facili
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9ce7b03e514940a68265388b225573f5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9ce7b03e514940a68265388b225573f5/view)

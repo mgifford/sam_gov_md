@@ -30,4 +30,4 @@ AMD01 09 March 2026: Addtional questions were added to the "GOVERNMENT QUESTIONS
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8bc2cc4a5ce54ce082ecef2b92f0e1c4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8bc2cc4a5ce54ce082ecef2b92f0e1c4/view)

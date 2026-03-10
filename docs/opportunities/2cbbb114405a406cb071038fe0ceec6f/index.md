@@ -30,4 +30,4 @@ This acquisition represents a mission-critical investment to mitigate risk of a 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2cbbb114405a406cb071038fe0ceec6f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2cbbb114405a406cb071038fe0ceec6f/view)

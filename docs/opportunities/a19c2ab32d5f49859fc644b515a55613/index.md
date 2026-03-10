@@ -25,4 +25,4 @@ Proposed procurement for NSN 3010014435061 COUPLING,SHAFT,FLEX: Line 0001 Qty 25
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a19c2ab32d5f49859fc644b515a55613/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a19c2ab32d5f49859fc644b515a55613/view)

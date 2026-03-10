@@ -34,4 +34,4 @@ Update 09 March 2026 Questions & Answers: Q31. §3.3 requires that the proposal 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/aacf2e8b4f3442ca97db1fcfd843b4c3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/aacf2e8b4f3442ca97db1fcfd843b4c3/view)

@@ -30,4 +30,4 @@ The Federal Bureau of Prisons, FCC Florence, intends to issue a single/multiple-
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9240367e2b814443a98fd06d4e53c310/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9240367e2b814443a98fd06d4e53c310/view)

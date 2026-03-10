@@ -25,4 +25,4 @@ Proposed procurement for NSN 4310011439434 CYLINDER: Line 0001 Qty 3 UI EA Deliv
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/153e91b73467459a954e1a4c6650f7f0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/153e91b73467459a954e1a4c6650f7f0/view)

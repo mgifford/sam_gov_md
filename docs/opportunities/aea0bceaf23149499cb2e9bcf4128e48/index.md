@@ -25,4 +25,4 @@ Synopsis Title: CH-53K Program O-Level Bag Group B The Naval Air Warfare Center,
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/aea0bceaf23149499cb2e9bcf4128e48/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/aea0bceaf23149499cb2e9bcf4128e48/view)

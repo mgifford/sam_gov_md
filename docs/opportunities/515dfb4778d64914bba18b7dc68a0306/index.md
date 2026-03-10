@@ -29,4 +29,4 @@ This is a solicitation for the procurement of a Banner Printer for The Massachus
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/515dfb4778d64914bba18b7dc68a0306/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/515dfb4778d64914bba18b7dc68a0306/view)

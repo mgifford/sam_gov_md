@@ -26,4 +26,4 @@ This Sources Sought announcement is published FOR MARKET RESEARCH PURPOSES ONLY,
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ef621c08332b44b7a5c1a601eafa5783/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ef621c08332b44b7a5c1a601eafa5783/view)

@@ -32,4 +32,4 @@ Argonne National Laboratory is seeking to create a Blanket Purchasing Agreement 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/70d36525e5ef4c86b87c87f594d5b06a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/70d36525e5ef4c86b87c87f594d5b06a/view)

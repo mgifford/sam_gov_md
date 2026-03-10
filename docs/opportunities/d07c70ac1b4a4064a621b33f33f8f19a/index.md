@@ -26,4 +26,4 @@ SIPI Financial Review, Base and Four Option Years
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d07c70ac1b4a4064a621b33f33f8f19a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d07c70ac1b4a4064a621b33f33f8f19a/view)

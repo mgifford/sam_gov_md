@@ -25,4 +25,4 @@ Electrochemical Rare Earth Recovery from Coal Fly Ash: Turn Waste Stockpiles int
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a244c6b2730c4f6a8ddbb42ee852ace3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a244c6b2730c4f6a8ddbb42ee852ace3/view)

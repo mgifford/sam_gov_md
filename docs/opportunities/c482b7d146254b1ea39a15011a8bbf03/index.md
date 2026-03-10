@@ -83,4 +83,4 @@ CONTACT INFORMATION|4|N742.16|WVN|N/A|robert.h.langel.civ@us.navy.mil| ITEM UNIQ
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c482b7d146254b1ea39a15011a8bbf03/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c482b7d146254b1ea39a15011a8bbf03/view)

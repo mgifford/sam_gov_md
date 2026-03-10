@@ -25,4 +25,4 @@ NAVSUP Fleet Logistics Center Puget Sound intends to solicit and contract a firm
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/15d012b933a54fcda724aac392a205f0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/15d012b933a54fcda724aac392a205f0/view)

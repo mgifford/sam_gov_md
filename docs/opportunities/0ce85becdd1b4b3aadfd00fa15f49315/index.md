@@ -29,4 +29,4 @@ PRESOLICITATION NOTICE W912WJ26BA011 The U.S. Army Corps of Engineers, New Engla
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0ce85becdd1b4b3aadfd00fa15f49315/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0ce85becdd1b4b3aadfd00fa15f49315/view)

@@ -29,4 +29,4 @@ An Unrestricted solicitation will be issued to establish an Indefinite Quantity 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7361c53d856e40c8a596959a0b7262d7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7361c53d856e40c8a596959a0b7262d7/view)

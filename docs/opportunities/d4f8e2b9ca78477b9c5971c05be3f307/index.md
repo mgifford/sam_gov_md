@@ -28,4 +28,4 @@ REQUEST FOR QUOTE (RFQ) NAICS: 339115 SEEKING US-MANUFACTURED PRODUCT - VISUAL F
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d4f8e2b9ca78477b9c5971c05be3f307/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d4f8e2b9ca78477b9c5971c05be3f307/view)

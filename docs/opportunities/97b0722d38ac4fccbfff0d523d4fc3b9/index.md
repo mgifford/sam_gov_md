@@ -27,4 +27,4 @@ Intent to Sole Source. The MV Davenport has experienced poor engine performance 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/97b0722d38ac4fccbfff0d523d4fc3b9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/97b0722d38ac4fccbfff0d523d4fc3b9/view)

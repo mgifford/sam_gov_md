@@ -30,4 +30,4 @@ USCGC WEDGE (WLR 75307), USCG 90B BARGE (90012) DRYDOCK REPAIRS Combined Synopsi
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a0204a6375114e598218c307a406c1cf/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a0204a6375114e598218c307a406c1cf/view)

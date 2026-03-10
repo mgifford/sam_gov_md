@@ -26,4 +26,4 @@ The Naval Sea Systems Command (NAVSEA) issues solicitation N0002426R4428 for the
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1f879bce319b460e9f63c0df793b5510/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1f879bce319b460e9f63c0df793b5510/view)

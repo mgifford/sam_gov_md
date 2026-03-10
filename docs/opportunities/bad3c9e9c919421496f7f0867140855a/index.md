@@ -36,4 +36,4 @@ March 9th 2026 - Amendment 02 – The purpose of this amendment is to: 1. Add th
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bad3c9e9c919421496f7f0867140855a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bad3c9e9c919421496f7f0867140855a/view)

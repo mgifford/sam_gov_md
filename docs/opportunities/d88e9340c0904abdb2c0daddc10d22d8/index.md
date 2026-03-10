@@ -26,4 +26,4 @@ The United States Air Force (USAF) is seeking marcket research quotes for the to
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d88e9340c0904abdb2c0daddc10d22d8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d88e9340c0904abdb2c0daddc10d22d8/view)

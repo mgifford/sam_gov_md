@@ -26,4 +26,4 @@ Amendment 1 has been issued to update offers due date reflected on the 1449 to m
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a1f57f8978ed4c8faeb4c56c83b2395a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a1f57f8978ed4c8faeb4c56c83b2395a/view)

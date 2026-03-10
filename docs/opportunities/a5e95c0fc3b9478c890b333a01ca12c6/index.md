@@ -25,4 +25,4 @@ U.S. Department of Justice Federal Bureau of Prisons Field Acquisition Office On
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a5e95c0fc3b9478c890b333a01ca12c6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a5e95c0fc3b9478c890b333a01ca12c6/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 2910009183051 INJECTOR,FUEL: Line 0001 Qty 313 UI E
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c7daeafa4ea6498fb442f5d7335f18f6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c7daeafa4ea6498fb442f5d7335f18f6/view)

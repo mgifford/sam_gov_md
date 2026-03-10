@@ -25,4 +25,4 @@ Amendment 1 is issued to attach updated clauses to syn/sol. Due date remains Mar
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/832f56773a3c40b9817c6a500f99ff5d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/832f56773a3c40b9817c6a500f99ff5d/view)

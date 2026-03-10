@@ -28,4 +28,4 @@ SOURCES SOUGHT NOTICE REQUEST FOR INFORMATION (RFI)/SOURCES SOUGHT Phacoemulsifi
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/75ebcf6a93e849f4a919205b75d519b1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/75ebcf6a93e849f4a919205b75d519b1/view)

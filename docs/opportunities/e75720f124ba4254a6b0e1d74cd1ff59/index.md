@@ -25,4 +25,4 @@ Solicitation for End Item: F-16 Aircraft, NSN: 1660-011610577, 1000225901. DELIV
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e75720f124ba4254a6b0e1d74cd1ff59/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e75720f124ba4254a6b0e1d74cd1ff59/view)

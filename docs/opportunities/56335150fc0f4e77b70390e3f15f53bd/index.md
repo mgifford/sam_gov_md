@@ -25,4 +25,4 @@ Proposed procurement for NSN 2815016553782 MANIFOLD,EXHAUST: Line 0001 Qty 5 UI 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/56335150fc0f4e77b70390e3f15f53bd/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/56335150fc0f4e77b70390e3f15f53bd/view)

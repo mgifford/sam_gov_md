@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340014691482 STRAP,WEBBING: Line 0001 Qty 56 UI EA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4ff3642be08a48878b9454123946f624/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4ff3642be08a48878b9454123946f624/view)

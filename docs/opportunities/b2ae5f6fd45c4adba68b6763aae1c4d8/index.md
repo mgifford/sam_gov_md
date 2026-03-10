@@ -36,4 +36,4 @@ REQUEST FOR SF 330 36C25226Q0231 Project 578-25-002: Renovate 15th Floor Buildin
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b2ae5f6fd45c4adba68b6763aae1c4d8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b2ae5f6fd45c4adba68b6763aae1c4d8/view)

@@ -25,4 +25,4 @@ Please see N6660426Q0125 and attachments for complete requirement details. Pleas
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bf9f18171bd8447c896e7b61f00952fa/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bf9f18171bd8447c896e7b61f00952fa/view)

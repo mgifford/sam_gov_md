@@ -25,4 +25,4 @@ Proposed procurement for NSN 4820010031390 VALVE,REGULATOR: Line 0001 Qty 15 UI 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fd7ab804d5844c5a952a4a6a44004e92/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fd7ab804d5844c5a952a4a6a44004e92/view)

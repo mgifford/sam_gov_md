@@ -30,4 +30,4 @@ Provide Abbott RALS Software Licensing to Evans Army Community Hospital, Patholo
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ac7b0a37674b452993baef7637e339d3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ac7b0a37674b452993baef7637e339d3/view)

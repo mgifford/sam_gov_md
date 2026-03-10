@@ -25,4 +25,4 @@ Proposed procurement for NSN 2530016136955 INSERT,HUB CAP,VEHI: Line 0001 Qty 12
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b2b5a28853d54436936ada0b39445058/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b2b5a28853d54436936ada0b39445058/view)

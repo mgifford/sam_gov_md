@@ -25,4 +25,4 @@ Proposed procurement for NSN 5330011951941 INSULATION,THERMAL,: Line 0001 Qty 26
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e46218b841334928a926da9176491273/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e46218b841334928a926da9176491273/view)

@@ -26,4 +26,4 @@ Muskrat Water Well Repair
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/767c86c25d354dcaa1482321d7966164/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/767c86c25d354dcaa1482321d7966164/view)

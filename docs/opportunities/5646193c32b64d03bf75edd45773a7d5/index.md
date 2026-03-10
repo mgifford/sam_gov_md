@@ -25,4 +25,4 @@ Proposed procurement for NSN 1055011504728 ROLLER ASSEMBLY: Line 0001 Qty 63 UI 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5646193c32b64d03bf75edd45773a7d5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5646193c32b64d03bf75edd45773a7d5/view)

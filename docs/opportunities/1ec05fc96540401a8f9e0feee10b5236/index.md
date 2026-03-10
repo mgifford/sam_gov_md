@@ -26,4 +26,4 @@ This is request for quote for Diagnostic Radiologic Technologist Nonpersonal Ser
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1ec05fc96540401a8f9e0feee10b5236/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1ec05fc96540401a8f9e0feee10b5236/view)

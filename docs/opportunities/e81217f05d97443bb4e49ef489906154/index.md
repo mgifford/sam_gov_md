@@ -25,4 +25,4 @@ Proposed procurement for NSN 2930015804186 RADIATOR,ENGINE COO: Line 0001 Qty 30
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e81217f05d97443bb4e49ef489906154/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e81217f05d97443bb4e49ef489906154/view)

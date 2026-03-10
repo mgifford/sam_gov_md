@@ -25,4 +25,4 @@ Proposed procurement for NSN 4820016695464 VALVE,LINEAR,DIRECT: Line 0001 Qty 5 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d4bd4bfe6ec94674aa35d77e273ff6bc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d4bd4bfe6ec94674aa35d77e273ff6bc/view)

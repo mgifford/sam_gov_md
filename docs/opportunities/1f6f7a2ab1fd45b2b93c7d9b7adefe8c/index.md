@@ -25,4 +25,4 @@ Proposed procurement for NSN 5330014453796 GASKET SET: Line 0001 Qty 3 UI SE Del
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1f6f7a2ab1fd45b2b93c7d9b7adefe8c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1f6f7a2ab1fd45b2b93c7d9b7adefe8c/view)

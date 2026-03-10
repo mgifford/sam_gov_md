@@ -25,4 +25,4 @@ Proposed procurement for NSN 4810013500234 ACTUATOR,ELECTRO-ME: Line 0001 Qty 3 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c3161409088d45628c780a2b5cddae38/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c3161409088d45628c780a2b5cddae38/view)

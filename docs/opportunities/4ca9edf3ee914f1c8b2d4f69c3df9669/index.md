@@ -28,4 +28,4 @@ THIS IS NOT A REQUEST FOR QUOTES. THIS IS A NOTICE OF THE GOVERNMENT’S INTENT 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4ca9edf3ee914f1c8b2d4f69c3df9669/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4ca9edf3ee914f1c8b2d4f69c3df9669/view)

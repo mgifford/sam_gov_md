@@ -27,4 +27,4 @@ No summary provided.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9e1225cab13a4808b75fdb20fd91de22/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9e1225cab13a4808b75fdb20fd91de22/view)

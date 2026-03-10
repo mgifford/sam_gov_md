@@ -25,4 +25,4 @@ Solicitation for End Item: BLACK HAWK UH-60A, UH-60L, NSN: 1615-011585782, 10002
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c229f41a092a437f93b9d402ea55da7f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c229f41a092a437f93b9d402ea55da7f/view)

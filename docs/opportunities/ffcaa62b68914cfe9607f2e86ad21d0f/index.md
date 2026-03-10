@@ -25,4 +25,4 @@ Unison RFQ for MOLLE Pistol Belts (W912R1-26-Q-7007 Unison Solicitation Number) 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ffcaa62b68914cfe9607f2e86ad21d0f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ffcaa62b68914cfe9607f2e86ad21d0f/view)

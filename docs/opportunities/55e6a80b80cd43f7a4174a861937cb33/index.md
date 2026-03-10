@@ -25,4 +25,4 @@ Proposed procurement for NSN 6130015625472 FILTER,INTAKE,AIRCR: Line 0001 Qty 24
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/55e6a80b80cd43f7a4174a861937cb33/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/55e6a80b80cd43f7a4174a861937cb33/view)

@@ -27,4 +27,4 @@ NOTICE OF INTENT TO SOLE SOURCE The Department of Veterans Affairs, Veterans Int
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6c593e2ab8414dd38edc21cd15639e72/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6c593e2ab8414dd38edc21cd15639e72/view)

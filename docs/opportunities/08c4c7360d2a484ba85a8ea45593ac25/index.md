@@ -25,4 +25,4 @@ Proposed procurement for NSN 1650001994945 CYLINDER BLOCK UNIT: Line 0001 Qty 42
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/08c4c7360d2a484ba85a8ea45593ac25/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/08c4c7360d2a484ba85a8ea45593ac25/view)

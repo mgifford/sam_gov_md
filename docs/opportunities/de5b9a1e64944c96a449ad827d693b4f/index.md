@@ -25,4 +25,4 @@ Dept of Defense - Operational Medicine (OPMED) is seeking to procure either a Fo
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/de5b9a1e64944c96a449ad827d693b4f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/de5b9a1e64944c96a449ad827d693b4f/view)

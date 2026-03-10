@@ -25,4 +25,4 @@ Proposed procurement for NSN 4730000900765 ADAPTER,STRAIGHT,TU: Line 0001 Qty 15
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0336e5e871fd48e885e2732cb3a976c3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0336e5e871fd48e885e2732cb3a976c3/view)

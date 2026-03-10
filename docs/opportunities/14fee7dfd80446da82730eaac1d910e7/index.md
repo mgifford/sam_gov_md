@@ -28,4 +28,4 @@ The United States Air Force through the Air Force Sustainment Center (AFSC) at t
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/14fee7dfd80446da82730eaac1d910e7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/14fee7dfd80446da82730eaac1d910e7/view)

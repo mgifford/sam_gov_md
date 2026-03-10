@@ -25,4 +25,4 @@ Proposed procurement for NSN 3040016660618 PAWL: Line 0001 Qty 28 UI EA Deliver 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d5c6d91383cb49ca8e28d3292fff5302/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d5c6d91383cb49ca8e28d3292fff5302/view)

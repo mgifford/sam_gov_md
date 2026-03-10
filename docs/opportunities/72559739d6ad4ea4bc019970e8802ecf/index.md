@@ -27,4 +27,4 @@ Request for Information Pharmacy Staff Scheduling Software Access and Support Se
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/72559739d6ad4ea4bc019970e8802ecf/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/72559739d6ad4ea4bc019970e8802ecf/view)

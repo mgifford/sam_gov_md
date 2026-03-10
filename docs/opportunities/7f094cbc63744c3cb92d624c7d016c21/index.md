@@ -26,4 +26,4 @@ Lake City Army Ammunition Plant (LCAAP) Contaminated Waste Plant Independence, M
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7f094cbc63744c3cb92d624c7d016c21/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7f094cbc63744c3cb92d624c7d016c21/view)

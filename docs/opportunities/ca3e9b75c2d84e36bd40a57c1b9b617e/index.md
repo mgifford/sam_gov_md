@@ -29,4 +29,4 @@ Posting was updated on November 5, 2025 to add Amendment 0002, Conformed Synopsi
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ca3e9b75c2d84e36bd40a57c1b9b617e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ca3e9b75c2d84e36bd40a57c1b9b617e/view)

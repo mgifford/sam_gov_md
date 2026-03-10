@@ -28,4 +28,4 @@ NOTICE OF INTENT TO SOLE SOURCE The 502d Contracting Squadron intends to award a
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/37b647127f7b4c14a8876d9ff0c2cd6e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/37b647127f7b4c14a8876d9ff0c2cd6e/view)

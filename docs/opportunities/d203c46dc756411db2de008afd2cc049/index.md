@@ -26,4 +26,4 @@ SEE BELOW FOR UPDATE - SITE VISIT The government is seeking log removal services
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d203c46dc756411db2de008afd2cc049/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d203c46dc756411db2de008afd2cc049/view)

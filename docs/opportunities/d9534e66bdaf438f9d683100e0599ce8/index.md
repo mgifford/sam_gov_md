@@ -25,4 +25,4 @@ Proposed procurement for NSN 3020004314206 GEAR ASSY,BEVEL: Line 0001 Qty 25 UI 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d9534e66bdaf438f9d683100e0599ce8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d9534e66bdaf438f9d683100e0599ce8/view)

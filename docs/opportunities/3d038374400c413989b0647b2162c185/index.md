@@ -30,4 +30,4 @@ Combined Synopsis/Solicitation – W912PM26RA006, Island Creek Switchyard Transf
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3d038374400c413989b0647b2162c185/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3d038374400c413989b0647b2162c185/view)

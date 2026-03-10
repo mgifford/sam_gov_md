@@ -25,4 +25,4 @@ Mount Rainier NP FY26 WATER FILTERS
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7e39bbfb70dc4748a6746727d2147340/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7e39bbfb70dc4748a6746727d2147340/view)

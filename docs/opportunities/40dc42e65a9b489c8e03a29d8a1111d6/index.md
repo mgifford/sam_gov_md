@@ -30,4 +30,4 @@ This is a notification that the RFP for this acquisition has changed to N6893626
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/40dc42e65a9b489c8e03a29d8a1111d6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/40dc42e65a9b489c8e03a29d8a1111d6/view)

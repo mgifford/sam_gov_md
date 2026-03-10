@@ -54,4 +54,4 @@ CONTACT INFORMATION|4|N97113A|FAA|771-229-0509|JOSHUA.D.MARTIN76.CIV@US.NAVY.MIL
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/28679a7f14de4daeb3cca61e5fc28183/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/28679a7f14de4daeb3cca61e5fc28183/view)

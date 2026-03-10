@@ -25,4 +25,4 @@ This Sources Sought Notice (SSN) supports Market Research being conducted by the
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b3cab786457f4211a3960edc76fe63ec/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b3cab786457f4211a3960edc76fe63ec/view)

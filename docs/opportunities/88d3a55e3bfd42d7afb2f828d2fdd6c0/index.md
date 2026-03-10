@@ -29,4 +29,4 @@ USCGC FORWARD- #2 MDE Hot Oil Flush This is a combined synopsis/solicitation for
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/88d3a55e3bfd42d7afb2f828d2fdd6c0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/88d3a55e3bfd42d7afb2f828d2fdd6c0/view)

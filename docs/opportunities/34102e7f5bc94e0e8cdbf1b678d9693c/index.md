@@ -25,4 +25,4 @@ Proposed procurement for NSN 3950016094265 HOIST,HOOK: Line 0001 Qty 6 UI AY Del
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/34102e7f5bc94e0e8cdbf1b678d9693c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/34102e7f5bc94e0e8cdbf1b678d9693c/view)

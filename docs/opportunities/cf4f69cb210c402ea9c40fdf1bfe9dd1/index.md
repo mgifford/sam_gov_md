@@ -28,4 +28,4 @@ Request for Information Project Manager, Short and Intermediate Effectors for La
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/cf4f69cb210c402ea9c40fdf1bfe9dd1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cf4f69cb210c402ea9c40fdf1bfe9dd1/view)

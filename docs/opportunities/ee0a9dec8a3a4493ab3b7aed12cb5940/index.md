@@ -28,4 +28,4 @@ THIS IS A PROJECT LABOR AGREEMENT (PLA) SURVEY ONLY. This is a SPECIAL NOTICE. N
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ee0a9dec8a3a4493ab3b7aed12cb5940/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ee0a9dec8a3a4493ab3b7aed12cb5940/view)

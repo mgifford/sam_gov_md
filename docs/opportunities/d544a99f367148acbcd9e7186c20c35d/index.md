@@ -28,4 +28,4 @@ The Washington Headquarters Services, Acquisition Directorate (WHS/AD) is an ess
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d544a99f367148acbcd9e7186c20c35d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d544a99f367148acbcd9e7186c20c35d/view)

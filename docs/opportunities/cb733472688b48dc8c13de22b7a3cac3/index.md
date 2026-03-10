@@ -27,4 +27,4 @@ NEW Base+4-Preventive Maintenance and repair of AMSCO Decontamination Sinks
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/cb733472688b48dc8c13de22b7a3cac3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cb733472688b48dc8c13de22b7a3cac3/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 6210002238434 LIGHT FIXTURE ASSEM: Line 0001 Qty 18
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f48bea87b748448d9c5a07c6f2c679f0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f48bea87b748448d9c5a07c6f2c679f0/view)

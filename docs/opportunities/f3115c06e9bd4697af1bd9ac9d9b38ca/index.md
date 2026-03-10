@@ -26,4 +26,4 @@ NOTICE OF INTENT TO AWARD A SOLE SOURCE This Notice of Intent is not a request f
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f3115c06e9bd4697af1bd9ac9d9b38ca/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f3115c06e9bd4697af1bd9ac9d9b38ca/view)

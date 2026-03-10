@@ -25,4 +25,4 @@ F-16 Flap, Wing Dive Brake 10 EA of NSN: 1560-01-282-1028 15 EA of NSN: 1560-01-
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/28b6820a85ce45a6878e9cec5d1904d4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/28b6820a85ce45a6878e9cec5d1904d4/view)

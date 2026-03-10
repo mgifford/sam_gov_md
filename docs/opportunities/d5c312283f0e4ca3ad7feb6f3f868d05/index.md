@@ -25,4 +25,4 @@ Proposed procurement for NSN 4810LN0030850 HOUSING: Line 0001 Qty 35 UI EA Deliv
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d5c312283f0e4ca3ad7feb6f3f868d05/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d5c312283f0e4ca3ad7feb6f3f868d05/view)

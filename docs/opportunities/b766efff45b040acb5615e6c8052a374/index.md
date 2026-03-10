@@ -25,4 +25,4 @@ Proposed procurement for NSN 4810000917635 PARTS KIT,SAFETY RE: Line 0001 Qty 96
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b766efff45b040acb5615e6c8052a374/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b766efff45b040acb5615e6c8052a374/view)

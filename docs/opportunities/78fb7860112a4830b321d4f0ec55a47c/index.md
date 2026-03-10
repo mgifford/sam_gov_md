@@ -28,4 +28,4 @@ NON-COMPETITIVE COMBINED SYNOPSIS / SOLICITATION Title: Nanopore Sequencing (i) 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/78fb7860112a4830b321d4f0ec55a47c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/78fb7860112a4830b321d4f0ec55a47c/view)

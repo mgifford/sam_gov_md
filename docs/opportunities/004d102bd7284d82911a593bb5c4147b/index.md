@@ -28,4 +28,4 @@ REQUEST FOR INFORMATION Summit Data Platform (Summit) Solution Introduction: Thi
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/004d102bd7284d82911a593bb5c4147b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/004d102bd7284d82911a593bb5c4147b/view)

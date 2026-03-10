@@ -25,4 +25,4 @@ Proposed procurement for NSN 1630010982057 VALVE,DUAL PARKING: Line 0001 Qty 71 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bd842a05d15342959cfa7e299d17efff/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bd842a05d15342959cfa7e299d17efff/view)

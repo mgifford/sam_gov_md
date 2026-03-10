@@ -25,4 +25,4 @@ Proposed procurement for NSN 5996015007828 AMPLIFIER,DIRECT CU: Line 0001 Qty 15
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3ab9cf711ce149038ef8de4af296ec34/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3ab9cf711ce149038ef8de4af296ec34/view)

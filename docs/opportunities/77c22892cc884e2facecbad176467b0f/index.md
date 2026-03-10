@@ -28,4 +28,4 @@ FL ARM-LOXAHATCHEE NWR UTV PURCHASE
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/77c22892cc884e2facecbad176467b0f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/77c22892cc884e2facecbad176467b0f/view)

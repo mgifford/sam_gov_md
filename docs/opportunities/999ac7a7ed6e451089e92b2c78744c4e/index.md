@@ -25,4 +25,4 @@ NSN 1R-5935-LLF02N948-P8, REF NR BACC63CT21-11SN, QTY 1 EA, DELIVERY FOB ORIGIN.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/999ac7a7ed6e451089e92b2c78744c4e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/999ac7a7ed6e451089e92b2c78744c4e/view)

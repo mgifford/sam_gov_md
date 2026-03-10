@@ -25,4 +25,4 @@ Proposed procurement for NSN 1560014858153 SUPPORT,STRUCTURAL: Line 0001 Qty 2 U
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2f90f23c2d3c44b7abff0f59405e576f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2f90f23c2d3c44b7abff0f59405e576f/view)

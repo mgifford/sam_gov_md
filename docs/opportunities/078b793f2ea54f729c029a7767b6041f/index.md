@@ -29,4 +29,4 @@ US Army Corps of Engineers�Norfolk District has determined a consolidation of 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/078b793f2ea54f729c029a7767b6041f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/078b793f2ea54f729c029a7767b6041f/view)

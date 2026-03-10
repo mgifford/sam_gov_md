@@ -25,4 +25,4 @@ See attached RFQ and SOW
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/79d098dd9a61402facfe9809b9f0e3cd/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/79d098dd9a61402facfe9809b9f0e3cd/view)

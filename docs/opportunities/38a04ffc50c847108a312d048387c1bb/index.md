@@ -25,4 +25,4 @@ Proposed procurement for NSN 1680011258663 HOUSING,TRANSMISSIO: Line 0001 Qty 5 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/38a04ffc50c847108a312d048387c1bb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/38a04ffc50c847108a312d048387c1bb/view)

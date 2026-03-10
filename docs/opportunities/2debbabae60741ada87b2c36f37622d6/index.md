@@ -30,4 +30,4 @@ This is a non-personal services contract to provide Custodial Services for the U
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2debbabae60741ada87b2c36f37622d6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2debbabae60741ada87b2c36f37622d6/view)

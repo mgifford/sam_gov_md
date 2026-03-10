@@ -28,4 +28,4 @@ The U.S. Army Contracting Command – New Jersey, Warfighter Support Division ha
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f4b26770874447088590568e8e0c44eb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f4b26770874447088590568e8e0c44eb/view)

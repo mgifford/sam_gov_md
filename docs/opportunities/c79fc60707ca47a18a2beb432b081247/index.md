@@ -27,4 +27,4 @@ As a result of the Contracting Officer's determination that the circumstances of
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c79fc60707ca47a18a2beb432b081247/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c79fc60707ca47a18a2beb432b081247/view)

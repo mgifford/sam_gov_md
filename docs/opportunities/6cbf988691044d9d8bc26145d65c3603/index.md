@@ -30,4 +30,4 @@ This Domestic Workload Forecast reflects the workload estimate as of Q2 M2 FY202
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6cbf988691044d9d8bc26145d65c3603/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6cbf988691044d9d8bc26145d65c3603/view)

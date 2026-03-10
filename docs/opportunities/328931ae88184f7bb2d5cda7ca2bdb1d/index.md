@@ -25,4 +25,4 @@ The U.S. Department of Agriculture (USDA) seeks to lease the following space: Lo
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/328931ae88184f7bb2d5cda7ca2bdb1d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/328931ae88184f7bb2d5cda7ca2bdb1d/view)

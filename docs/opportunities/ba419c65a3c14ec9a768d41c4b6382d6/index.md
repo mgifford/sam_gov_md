@@ -35,4 +35,4 @@ W9126G26QA061 ? Facility and Park Cleaning Services at Canyon Lake, Capital Regi
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ba419c65a3c14ec9a768d41c4b6382d6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ba419c65a3c14ec9a768d41c4b6382d6/view)

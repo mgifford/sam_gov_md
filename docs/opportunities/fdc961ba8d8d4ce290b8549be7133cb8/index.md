@@ -26,4 +26,4 @@ The United States Army Corps of Engineers (USACE) - Rock Island District has a s
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fdc961ba8d8d4ce290b8549be7133cb8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fdc961ba8d8d4ce290b8549be7133cb8/view)

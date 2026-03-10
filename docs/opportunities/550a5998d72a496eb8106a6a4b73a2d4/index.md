@@ -25,4 +25,4 @@ NSN 7H-5998-015702881, TDP VER 008, REF NR 6868057, QTY 15 EA, DELIVERY FOB ORIG
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/550a5998d72a496eb8106a6a4b73a2d4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/550a5998d72a496eb8106a6a4b73a2d4/view)

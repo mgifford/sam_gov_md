@@ -28,4 +28,4 @@ Presolicitation Notice Action: Presolicitation Notice for Purchase of Gravel Age
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/974a2eea49a54686b1db4236f2c8c142/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/974a2eea49a54686b1db4236f2c8c142/view)

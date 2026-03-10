@@ -28,4 +28,4 @@ This is a combined synopsis/solicitation for Systems Engineering and Technical A
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/507680cae94343b98d9055c13dce19f8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/507680cae94343b98d9055c13dce19f8/view)

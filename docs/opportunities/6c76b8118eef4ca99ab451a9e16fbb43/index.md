@@ -34,4 +34,4 @@ This RFP was amended 01/13/2026 to provide administrative changes to add the NGA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6c76b8118eef4ca99ab451a9e16fbb43/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6c76b8118eef4ca99ab451a9e16fbb43/view)

@@ -25,4 +25,4 @@ Pre-solictation Synopsis This is not the solicitation, please continue to monito
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b3d3f431dd1a46068caf73b72c0666e1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b3d3f431dd1a46068caf73b72c0666e1/view)

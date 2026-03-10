@@ -25,4 +25,4 @@ Proposed procurement for NSN 5310015065641 WASHER,SEAL: Line 0001 Qty 269 UI EA 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/756613e0663b407086c0480f00f880ef/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/756613e0663b407086c0480f00f880ef/view)

@@ -28,4 +28,4 @@ Combined Synopsis/Solicitation Notice Solicitation Number: 36C25726Q0340 The Dep
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/414b8dfac4cf49169be6cbb4da85e6e0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/414b8dfac4cf49169be6cbb4da85e6e0/view)

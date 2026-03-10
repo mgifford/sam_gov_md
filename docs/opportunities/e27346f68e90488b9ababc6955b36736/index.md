@@ -28,4 +28,4 @@ Page 1 of 1 Under Statutory Authority Public Law 109 Sec. 502 and VAAR 819.7008,
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e27346f68e90488b9ababc6955b36736/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e27346f68e90488b9ababc6955b36736/view)

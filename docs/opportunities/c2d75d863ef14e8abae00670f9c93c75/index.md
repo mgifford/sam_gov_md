@@ -26,4 +26,4 @@ Pojoaque Basin Regional Water System Phase II Design-Build
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c2d75d863ef14e8abae00670f9c93c75/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c2d75d863ef14e8abae00670f9c93c75/view)

@@ -26,4 +26,4 @@ Project Title: N4008525R2639 DESIGN-BID-BUILD P-222: MQ-25 AIRCRAFT LAYDOWN FACI
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/759d1896dc084d2893bb56b28e14ab1b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/759d1896dc084d2893bb56b28e14ab1b/view)

@@ -25,4 +25,4 @@ Statement of Work Facility Key Control (Key box) Acquisition Requirements Contra
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/84e78501c26546aaa4c59b2ee6f6b9ac/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/84e78501c26546aaa4c59b2ee6f6b9ac/view)

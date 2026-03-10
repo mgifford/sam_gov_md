@@ -29,4 +29,4 @@ MHE Forklift. See attached PWS.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c7e57c2131b548bd9e115117c2f64adb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c7e57c2131b548bd9e115117c2f64adb/view)

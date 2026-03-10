@@ -27,4 +27,4 @@ UPDATE - March 5, 2026: AMENDMENT 0002 ISSUED The purpose of Amendment 0002 is t
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d570d87eafbf44788e95725743829f03/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d570d87eafbf44788e95725743829f03/view)

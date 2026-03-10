@@ -25,4 +25,4 @@ Proposed procurement for NSN 5305011144965 SCREW: Line 0001 Qty 7 UI EA Deliver 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ebc4c9df0d9b40b491f0891ca9b56c2d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ebc4c9df0d9b40b491f0891ca9b56c2d/view)

@@ -32,4 +32,4 @@ March 6th, 2026 - Amendment 01 Amendment 01 is issued to provide a consolidated 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/383d80eb8c634b1aa8483cdd14537a41/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/383d80eb8c634b1aa8483cdd14537a41/view)

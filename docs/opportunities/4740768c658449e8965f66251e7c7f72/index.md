@@ -26,4 +26,4 @@ Tool Chests and Cabinet Combinations
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4740768c658449e8965f66251e7c7f72/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4740768c658449e8965f66251e7c7f72/view)

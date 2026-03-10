@@ -25,4 +25,4 @@ SOURCES SOUGHT ANNOUNCEMENT Navy Supply Command Fleet Logistics Center Puget Sou
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/89067df51236464498226a8c3cb1d800/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/89067df51236464498226a8c3cb1d800/view)

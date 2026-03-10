@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340001370160 CATCH,FLUSH: Line 0001 Qty 9 UI EA De
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1c556602822442e6a54d085f5b2a9cb8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1c556602822442e6a54d085f5b2a9cb8/view)

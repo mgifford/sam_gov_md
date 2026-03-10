@@ -30,4 +30,4 @@ This is a requirement to provide a Music Coordinator which is required for conte
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/406e80503b444d56bc734148c9c41655/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/406e80503b444d56bc734148c9c41655/view)

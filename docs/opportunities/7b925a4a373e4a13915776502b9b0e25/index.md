@@ -25,4 +25,4 @@ Naval Undersea Warfare Center Division (NUWC) Keyport is soliciting a supply req
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7b925a4a373e4a13915776502b9b0e25/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7b925a4a373e4a13915776502b9b0e25/view)

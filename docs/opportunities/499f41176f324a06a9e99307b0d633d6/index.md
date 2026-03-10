@@ -25,4 +25,4 @@ Proposed procurement for NSN 1620012376000 JACK POINT,LANDING: Line 0001 Qty 3 U
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/499f41176f324a06a9e99307b0d633d6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/499f41176f324a06a9e99307b0d633d6/view)

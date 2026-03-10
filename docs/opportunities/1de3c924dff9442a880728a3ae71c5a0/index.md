@@ -34,4 +34,4 @@ See attached documents for the Sale Item General Details. This attachment includ
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1de3c924dff9442a880728a3ae71c5a0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1de3c924dff9442a880728a3ae71c5a0/view)

@@ -26,4 +26,4 @@ THIS IS A PRE-SOLICITATION NOTICE / SYNOPSIS This procurement is for Vehicular T
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e684e13bf9394eacba481355ac7fe617/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e684e13bf9394eacba481355ac7fe617/view)

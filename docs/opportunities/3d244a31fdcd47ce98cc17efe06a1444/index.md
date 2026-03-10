@@ -25,4 +25,4 @@ The purpose of this modificaiton is to attach the questions and answers for this
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3d244a31fdcd47ce98cc17efe06a1444/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3d244a31fdcd47ce98cc17efe06a1444/view)

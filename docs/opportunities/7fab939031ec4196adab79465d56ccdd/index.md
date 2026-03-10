@@ -25,4 +25,4 @@ Proposed procurement for NSN 3040002390286 GEARSHAFT,SPUR: Line 0001 Qty 6 UI EA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7fab939031ec4196adab79465d56ccdd/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7fab939031ec4196adab79465d56ccdd/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 5330015286325 RETAINER,PACKING: Line 0001 Qty 20 UI
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/eab529f7e82544f388159f2e2f92f45e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/eab529f7e82544f388159f2e2f92f45e/view)

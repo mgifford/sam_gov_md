@@ -29,4 +29,4 @@ Contractor shall replace Atlona A/V equipment with equipment compliant with Secu
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/949544405e2b475796f1d10b626fc12d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/949544405e2b475796f1d10b626fc12d/view)

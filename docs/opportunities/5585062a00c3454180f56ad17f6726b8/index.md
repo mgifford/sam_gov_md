@@ -25,4 +25,4 @@ Proposed procurement for NSN 4130015040553 FILTER ELEMENT,AIR: Line 0001 Qty 261
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5585062a00c3454180f56ad17f6726b8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5585062a00c3454180f56ad17f6726b8/view)

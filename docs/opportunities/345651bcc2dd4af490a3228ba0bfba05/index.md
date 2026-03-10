@@ -30,4 +30,4 @@ Amendment 01 Extend the "Responses Due Date" from 03/06/2026 by noon MST to 03/1
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/345651bcc2dd4af490a3228ba0bfba05/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/345651bcc2dd4af490a3228ba0bfba05/view)

@@ -42,4 +42,4 @@ Subject: Sources Sought, Hemosphere bundle Veterans Health Administration (VHA) 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/49228bb61f70427392d08cbc883af052/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/49228bb61f70427392d08cbc883af052/view)

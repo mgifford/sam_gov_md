@@ -28,4 +28,4 @@ Fixed Wing On Call Flight Services
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1290191b27b04ac8b0b72553f2a92a5a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1290191b27b04ac8b0b72553f2a92a5a/view)

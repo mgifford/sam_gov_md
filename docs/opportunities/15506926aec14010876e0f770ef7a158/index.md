@@ -26,4 +26,4 @@ This is the official notice to the public that the draft Request for Proposal (R
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/15506926aec14010876e0f770ef7a158/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/15506926aec14010876e0f770ef7a158/view)

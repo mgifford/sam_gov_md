@@ -25,4 +25,4 @@ Proposed procurement for NSN 8010015687046 PRIMER COATING: Line 0001 Qty 100 UI 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f40f7b7f2df54f0283610817aeab3fdd/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f40f7b7f2df54f0283610817aeab3fdd/view)

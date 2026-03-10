@@ -25,4 +25,4 @@ Proposed procurement for NSN 4910011802648 TOOL,SCREW,CONNECTI: Line 0001 Qty 3 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0921c0a5139347498ec97388b5b2d385/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0921c0a5139347498ec97388b5b2d385/view)

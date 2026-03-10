@@ -28,4 +28,4 @@ The purpose of this amendment is to respond to RFIs submitted by the RFI submitt
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/dd64cc679b4444fbbdef2997839711fe/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/dd64cc679b4444fbbdef2997839711fe/view)

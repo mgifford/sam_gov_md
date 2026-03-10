@@ -25,4 +25,4 @@ March 4, 2026 Dear Sir or Ma'am, Enclosed is a solicitation package prepared by 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8e8ca1c29bf34b49a636b5eba0d1a694/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8e8ca1c29bf34b49a636b5eba0d1a694/view)

@@ -26,4 +26,4 @@ NSN: 2840-01-308-4465NZ NOUN: AUGMENTOR NOZZLE SE TOP DRAWING: 4071142 EDL REVIS
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5c64f55505a14ab7be6b55fd07c5085c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5c64f55505a14ab7be6b55fd07c5085c/view)

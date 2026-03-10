@@ -25,4 +25,4 @@ DLA Land and Maritime is preparing to solicit a one-time buy of 514 Each of NSN 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/579b244a53cd4397a6834209b94e92ce/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/579b244a53cd4397a6834209b94e92ce/view)

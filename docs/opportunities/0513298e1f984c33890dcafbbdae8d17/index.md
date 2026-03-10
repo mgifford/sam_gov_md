@@ -30,4 +30,4 @@ Please see attached Synopsis/ Solicitation, Redacted J&A, Q&A, and Pictures. Rec
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0513298e1f984c33890dcafbbdae8d17/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0513298e1f984c33890dcafbbdae8d17/view)

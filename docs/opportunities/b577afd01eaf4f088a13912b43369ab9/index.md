@@ -25,4 +25,4 @@ There will be no written solicitation issued. This is an intent to pruchse a sol
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b577afd01eaf4f088a13912b43369ab9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b577afd01eaf4f088a13912b43369ab9/view)

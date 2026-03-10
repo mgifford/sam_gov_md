@@ -28,4 +28,4 @@ Amendment 0002 has been issued for solicitation HC102126QA036. This is a combine
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fdf19e2e3f16402bb995ef5d825b888e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fdf19e2e3f16402bb995ef5d825b888e/view)

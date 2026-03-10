@@ -31,4 +31,4 @@ SEE ATTACHMENT FOR DRAFT STATEMENT OF WORK AND THE FOLLOWING NOTICE OF INTENT De
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6cd346d82add4515a23c5534e6e42c19/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6cd346d82add4515a23c5534e6e42c19/view)

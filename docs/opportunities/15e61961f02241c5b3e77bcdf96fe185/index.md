@@ -25,4 +25,4 @@ Proposed procurement for NSN 5310000873055 WASHER,LOCK: Line 0001 Qty 412 UI EA 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/15e61961f02241c5b3e77bcdf96fe185/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/15e61961f02241c5b3e77bcdf96fe185/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 3040016554607 SHAFT,SHOULDERED: Line 0001 Qty 23 UI
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/85c547eaf85043e7a112c04625317fce/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/85c547eaf85043e7a112c04625317fce/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 3040200010603 BALLSCREW ASSEMBLY: Line 0001 Qty 2 U
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1e175422f4dd4f0aa9361c78d3f68700/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1e175422f4dd4f0aa9361c78d3f68700/view)

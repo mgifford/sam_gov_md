@@ -27,4 +27,4 @@ TRICARE Medicare Eligible Program 2nd Generation (TMEP2) Industry Forum Solicita
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/30da3e049af947a7b2937d41fa4bc9bf/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/30da3e049af947a7b2937d41fa4bc9bf/view)

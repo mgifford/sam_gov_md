@@ -29,4 +29,4 @@ A 100% Small Business Set-Aside solicitation will be issued to establish an Inde
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/780daf96c2f3472087a3a486a9e3031a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/780daf96c2f3472087a3a486a9e3031a/view)

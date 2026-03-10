@@ -28,4 +28,4 @@ This notice was posted to identify sources that can manufacture NSN 3020-0117607
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c1856742ee3b48919e405b5d97a13143/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c1856742ee3b48919e405b5d97a13143/view)

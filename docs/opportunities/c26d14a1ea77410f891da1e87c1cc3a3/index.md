@@ -28,4 +28,4 @@ Mechanical Mulching,Okefenokee NWR National Fuels Reduction BPA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c26d14a1ea77410f891da1e87c1cc3a3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c26d14a1ea77410f891da1e87c1cc3a3/view)

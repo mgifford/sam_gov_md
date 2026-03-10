@@ -26,4 +26,4 @@ HAVO Replace Fire Protection System
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6a366a2c97f64f6ea794db800f1ccca0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6a366a2c97f64f6ea794db800f1ccca0/view)

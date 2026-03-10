@@ -26,4 +26,4 @@ Brand Name "OR EQUAL" Delta TL-2+ Crash Cushions
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a74764f7ec2a494cba4f1178969f1830/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a74764f7ec2a494cba4f1178969f1830/view)

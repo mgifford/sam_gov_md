@@ -28,4 +28,4 @@ The amendment 0001 is issued. Date Offers Due (Solicitation closing date) has be
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/97edbd39b6164143aee6dd2fe0f7a311/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/97edbd39b6164143aee6dd2fe0f7a311/view)

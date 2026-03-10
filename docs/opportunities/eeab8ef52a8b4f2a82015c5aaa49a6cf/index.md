@@ -34,4 +34,4 @@ The Defense Health Agency Contracting Activity (DHACA) Research & Development (R
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/eeab8ef52a8b4f2a82015c5aaa49a6cf/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/eeab8ef52a8b4f2a82015c5aaa49a6cf/view)

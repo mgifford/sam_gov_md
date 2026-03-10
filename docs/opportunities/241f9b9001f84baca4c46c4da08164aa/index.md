@@ -25,4 +25,4 @@ Proposed procurement for NSN 6680013311065 INDICATOR,SIGHT,LIQ: Line 0001 Qty 2 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/241f9b9001f84baca4c46c4da08164aa/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/241f9b9001f84baca4c46c4da08164aa/view)

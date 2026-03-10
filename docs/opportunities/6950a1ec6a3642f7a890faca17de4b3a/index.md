@@ -26,4 +26,4 @@ Please see SPRDL1-26-R-0017-0001.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6950a1ec6a3642f7a890faca17de4b3a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6950a1ec6a3642f7a890faca17de4b3a/view)

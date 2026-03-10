@@ -25,4 +25,4 @@ NSN 0Q-5120-017062725-QH, REF NR 4158AS0503-1, QTY 6 EA, DELIVERY FOB ORIGIN. NA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/01436366c6214e41b7d0922735234af3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/01436366c6214e41b7d0922735234af3/view)

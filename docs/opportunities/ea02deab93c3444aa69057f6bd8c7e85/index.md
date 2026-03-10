@@ -28,4 +28,4 @@ The U.S. Government desires to procure Maintenance and Services for Integrated C
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ea02deab93c3444aa69057f6bd8c7e85/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ea02deab93c3444aa69057f6bd8c7e85/view)

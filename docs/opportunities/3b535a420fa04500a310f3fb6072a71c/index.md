@@ -25,4 +25,4 @@ Proposed procurement for NSN 3010012294799 LAMINATION,FLEX: Line 0001 Qty 5 UI S
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3b535a420fa04500a310f3fb6072a71c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3b535a420fa04500a310f3fb6072a71c/view)

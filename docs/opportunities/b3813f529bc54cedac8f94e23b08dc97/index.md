@@ -25,4 +25,4 @@ CONTACT INFORMATION|4|N791.03|LRJ|564-230-2148|MACKENZIE.CANNATARO.CIV@US.NAVY.M
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b3813f529bc54cedac8f94e23b08dc97/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b3813f529bc54cedac8f94e23b08dc97/view)

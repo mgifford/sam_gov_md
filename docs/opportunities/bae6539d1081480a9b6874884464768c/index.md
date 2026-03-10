@@ -25,4 +25,4 @@ Proposed procurement for NSN 5330013008653 SEAL,NONMETALLIC AN: Line 0001 Qty 52
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bae6539d1081480a9b6874884464768c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bae6539d1081480a9b6874884464768c/view)

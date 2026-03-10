@@ -25,4 +25,4 @@ Proposed procurement for NSN 5855016178619 HOUSING SECTION,NIG: Line 0001 Qty 80
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3cd039638a054372a21fde772fd493dd/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3cd039638a054372a21fde772fd493dd/view)

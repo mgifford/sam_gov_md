@@ -25,4 +25,4 @@ Proposed procurement for NSN 6625013128743 SENSOR,RADIO FREQUE: Line 0001 Qty 15
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d17164d532154b0a9001b1b1159e23ea/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d17164d532154b0a9001b1b1159e23ea/view)

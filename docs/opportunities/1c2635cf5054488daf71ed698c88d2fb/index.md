@@ -25,4 +25,4 @@ Proposed procurement for NSN 1630006305164 LAP,METERING VALVE,: Line 0001 Qty 36
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1c2635cf5054488daf71ed698c88d2fb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1c2635cf5054488daf71ed698c88d2fb/view)

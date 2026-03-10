@@ -26,4 +26,4 @@ DESIGN-BUILD (DB) BARRACKS INITIATIVE (PACKAGE #2), MARINE CORPS BASE (MCB) CAMP
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9139c8b4c9864d009f41af82297308ae/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9139c8b4c9864d009f41af82297308ae/view)

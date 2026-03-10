@@ -26,4 +26,4 @@ This is a request for quote for the supplies listed on page 2 (Schedule). This R
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d7beec9ee5af41d7912199a4316c7b03/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d7beec9ee5af41d7912199a4316c7b03/view)

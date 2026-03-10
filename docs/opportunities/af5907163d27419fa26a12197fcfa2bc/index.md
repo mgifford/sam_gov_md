@@ -25,4 +25,4 @@ Proposed procurement for NSN 2910011538205 PUMP,FUEL METERING: Line 0001 Qty 39 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/af5907163d27419fa26a12197fcfa2bc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/af5907163d27419fa26a12197fcfa2bc/view)

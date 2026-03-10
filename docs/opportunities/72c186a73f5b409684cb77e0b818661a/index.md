@@ -25,4 +25,4 @@ Proposed procurement for NSN 6130012926971 POWER SUPPLY: Line 0001 Qty 3 UI EA D
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/72c186a73f5b409684cb77e0b818661a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/72c186a73f5b409684cb77e0b818661a/view)

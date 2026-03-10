@@ -32,4 +32,4 @@ DLA Disposition Services 10K Telehandler to DLA Disposition Services - Kuwait Th
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/40104668a4cf40fba96700539f50b016/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/40104668a4cf40fba96700539f50b016/view)

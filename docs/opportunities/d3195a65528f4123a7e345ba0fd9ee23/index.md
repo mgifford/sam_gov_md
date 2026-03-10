@@ -25,4 +25,4 @@ Instrumentation Feedthrough ORNL is requesting a quote for the same or domestic 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d3195a65528f4123a7e345ba0fd9ee23/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d3195a65528f4123a7e345ba0fd9ee23/view)

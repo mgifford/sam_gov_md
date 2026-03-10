@@ -25,4 +25,4 @@ Proposed procurement for NSN 1560002202883 PANEL,WING: Line 0001 Qty 2 UI EA Del
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/22ed570545fa4cf0ae92ef51ca59dac5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/22ed570545fa4cf0ae92ef51ca59dac5/view)

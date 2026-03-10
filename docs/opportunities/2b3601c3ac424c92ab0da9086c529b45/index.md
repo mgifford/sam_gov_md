@@ -25,4 +25,4 @@ Proposed procurement for NSN 2540017260064 CUSHION,SEAT,VEHICU: Line 0001 Qty 15
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2b3601c3ac424c92ab0da9086c529b45/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2b3601c3ac424c92ab0da9086c529b45/view)

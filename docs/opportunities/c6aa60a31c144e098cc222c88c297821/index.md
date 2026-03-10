@@ -28,4 +28,4 @@ DFARS clause 252.232-7007 (Limitation of the Government’s Obligation) needs to
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c6aa60a31c144e098cc222c88c297821/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c6aa60a31c144e098cc222c88c297821/view)

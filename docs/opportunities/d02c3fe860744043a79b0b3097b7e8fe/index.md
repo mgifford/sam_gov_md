@@ -31,4 +31,4 @@ CONTACT INFORMATION|4|COMBO|HS0|771-229-0478|XAVIER.A.KELLAM.CIV@US.NAVY.MIL| IT
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d02c3fe860744043a79b0b3097b7e8fe/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d02c3fe860744043a79b0b3097b7e8fe/view)

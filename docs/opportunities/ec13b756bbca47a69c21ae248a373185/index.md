@@ -25,4 +25,4 @@ Proposed procurement for NSN 6250016183444 BALLAST,LAMP: Line 0001 Qty 1000 UI E
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ec13b756bbca47a69c21ae248a373185/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ec13b756bbca47a69c21ae248a373185/view)

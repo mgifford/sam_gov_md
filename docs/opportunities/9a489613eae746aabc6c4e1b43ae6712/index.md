@@ -29,4 +29,4 @@ Line Item 0001 First Article, NSN: 1430001122607AH Shear Stud Assembly, PN 200-5
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9a489613eae746aabc6c4e1b43ae6712/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9a489613eae746aabc6c4e1b43ae6712/view)

@@ -25,4 +25,4 @@ SDVAHCS has an urgent requirement for a contractor to provide Non-Emergent Medic
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f2af6f81b45340969e15f81754b3a434/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f2af6f81b45340969e15f81754b3a434/view)

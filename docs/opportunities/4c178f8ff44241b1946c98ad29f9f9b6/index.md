@@ -25,4 +25,4 @@ Proposed procurement for NSN 5930002598890 SWITCH,ROTARY: Line 0001 Qty 261 UI E
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4c178f8ff44241b1946c98ad29f9f9b6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4c178f8ff44241b1946c98ad29f9f9b6/view)

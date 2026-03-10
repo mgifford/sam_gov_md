@@ -26,4 +26,4 @@ This notice is a request for quote for Emergency Medicine Physician Nonpersonal 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/af6d85cb8e9a422ca6b78a4986782698/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/af6d85cb8e9a422ca6b78a4986782698/view)

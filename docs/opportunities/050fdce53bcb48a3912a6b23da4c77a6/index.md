@@ -26,4 +26,4 @@ The Apalachicola NF Wakulla RD has a requirement for a Dozer transport trailer f
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/050fdce53bcb48a3912a6b23da4c77a6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/050fdce53bcb48a3912a6b23da4c77a6/view)

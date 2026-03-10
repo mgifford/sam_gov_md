@@ -29,4 +29,4 @@ This is a SOURCES SOUGHT NOTICE/MARKET RESEARCH SURVEY to request information fo
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d2c6c9427f3b40d189678bfd09b69ec0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d2c6c9427f3b40d189678bfd09b69ec0/view)

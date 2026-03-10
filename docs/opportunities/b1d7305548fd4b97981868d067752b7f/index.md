@@ -26,4 +26,4 @@ The Kansas City District, United States Army Corps of Engineers (USACE), has a n
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b1d7305548fd4b97981868d067752b7f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b1d7305548fd4b97981868d067752b7f/view)

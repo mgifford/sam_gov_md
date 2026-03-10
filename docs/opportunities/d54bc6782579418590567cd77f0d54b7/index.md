@@ -31,4 +31,4 @@ The attachment is the Solicitation SPMYM2-26-Q-5716 for a Quote Request. ** Only
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d54bc6782579418590567cd77f0d54b7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d54bc6782579418590567cd77f0d54b7/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 9330016983414 FILAMENT,ADDITIVE M: Line 0001 Qty 63
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/20cd6d703831447fa74362a0081bf6a7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/20cd6d703831447fa74362a0081bf6a7/view)

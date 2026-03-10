@@ -25,4 +25,4 @@ Proposed procurement for NSN 3040010106500 SHAFT,BRAKE VALVE: Line 0001 Qty 10 U
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/cd1d6a2006f240c7ab8d4680ed7bfa9c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cd1d6a2006f240c7ab8d4680ed7bfa9c/view)

@@ -26,4 +26,4 @@ Non-Personal Custodial Services at IA058 Multi-Site. The POP shall be for one (1
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d107e86b6efa46799d1036349a365cca/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d107e86b6efa46799d1036349a365cca/view)

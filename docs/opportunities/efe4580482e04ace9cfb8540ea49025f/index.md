@@ -26,4 +26,4 @@ Fitting, Connectors and TubingMust be authorized Swagelok Dealer*The offeror mus
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/efe4580482e04ace9cfb8540ea49025f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/efe4580482e04ace9cfb8540ea49025f/view)

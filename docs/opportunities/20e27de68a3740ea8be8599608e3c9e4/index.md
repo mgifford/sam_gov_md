@@ -26,4 +26,4 @@ PRCA ELECTRICAL COMPONENT See Attached Combined Synopsis Solicitation for comple
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/20e27de68a3740ea8be8599608e3c9e4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/20e27de68a3740ea8be8599608e3c9e4/view)

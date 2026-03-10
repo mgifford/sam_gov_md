@@ -28,4 +28,4 @@ GENERAL INTENTION: It is the intent of this solicitation to result in a Firm Fix
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bb219dbc8cc44674a6c985610e51a045/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bb219dbc8cc44674a6c985610e51a045/view)

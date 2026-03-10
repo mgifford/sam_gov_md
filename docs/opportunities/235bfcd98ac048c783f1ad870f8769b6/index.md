@@ -29,4 +29,4 @@ SEE ATTACHED RFP N3220526R6062
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/235bfcd98ac048c783f1ad870f8769b6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/235bfcd98ac048c783f1ad870f8769b6/view)

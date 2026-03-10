@@ -25,4 +25,4 @@ Proposed procurement for NSN 2990014807638 THROTTLE SOLENOID,E: Line 0001 Qty 14
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/79d59b9288d44c5c9855f096a1b80da9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/79d59b9288d44c5c9855f096a1b80da9/view)

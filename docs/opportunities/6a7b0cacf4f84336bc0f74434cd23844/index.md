@@ -25,4 +25,4 @@ Hands on Throttle and Stick (HOTAS) assembly hardware for use with F-22 Virtual 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6a7b0cacf4f84336bc0f74434cd23844/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6a7b0cacf4f84336bc0f74434cd23844/view)

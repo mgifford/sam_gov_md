@@ -34,4 +34,4 @@ The purpose of this amendment is provide answers to the questions submitted. Ple
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1298fdc4868c44ae907c7b76e4108a1c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1298fdc4868c44ae907c7b76e4108a1c/view)

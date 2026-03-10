@@ -36,4 +36,4 @@ The contractor shall prepare for and accomplish the voyage repair availability (
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b8b07531465849a186d19f8fe626e050/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b8b07531465849a186d19f8fe626e050/view)

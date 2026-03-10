@@ -59,4 +59,4 @@ CONTACT INFORMATION|4|N744.2|AW9|771-229-0568|NARYAN.SMITH.CIV@US.NAVY.MIL| ITEM
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a1b4ee25a9f84a2597a0be75f8c74e0e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a1b4ee25a9f84a2597a0be75f8c74e0e/view)

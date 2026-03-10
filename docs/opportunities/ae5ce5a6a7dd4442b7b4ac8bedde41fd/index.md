@@ -27,4 +27,4 @@ Procurement Item Description Text: Actuator, Hydraulic- RP001: DLA Packaging Req
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ae5ce5a6a7dd4442b7b4ac8bedde41fd/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ae5ce5a6a7dd4442b7b4ac8bedde41fd/view)

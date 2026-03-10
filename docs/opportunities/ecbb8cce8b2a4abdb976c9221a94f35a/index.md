@@ -29,4 +29,4 @@ NSN --016879444-, TDP VER 001, REF , QTY 4 , DELIVERY FOB Origin (Shipping Point
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ecbb8cce8b2a4abdb976c9221a94f35a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ecbb8cce8b2a4abdb976c9221a94f35a/view)

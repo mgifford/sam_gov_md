@@ -31,4 +31,4 @@ Sumitomo/Gifford-McMahon Cryocooler, compressor, power cord, hose assembly, cabl
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f3b4d20a08eb47f9828a1fbae22651eb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f3b4d20a08eb47f9828a1fbae22651eb/view)

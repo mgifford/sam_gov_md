@@ -25,4 +25,4 @@ A determination not to compete this proposed contract was made pursuant to the F
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3bce21ca71f042b89679f8974065f3b2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3bce21ca71f042b89679f8974065f3b2/view)

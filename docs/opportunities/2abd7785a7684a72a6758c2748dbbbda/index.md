@@ -31,4 +31,4 @@ The Federal Election Commission (FEC) is seeking information from qualified, exp
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2abd7785a7684a72a6758c2748dbbbda/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2abd7785a7684a72a6758c2748dbbbda/view)

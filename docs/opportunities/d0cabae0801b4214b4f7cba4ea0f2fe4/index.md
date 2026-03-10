@@ -30,4 +30,4 @@ The 366th Fighter Wing at Mountain Home Air Force Base requires a multiple-award
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d0cabae0801b4214b4f7cba4ea0f2fe4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d0cabae0801b4214b4f7cba4ea0f2fe4/view)

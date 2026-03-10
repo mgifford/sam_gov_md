@@ -25,4 +25,4 @@ Proposed procurement for NSN 2910014475774 PUMP,FUEL,CAM ACTUA: Line 0001 Qty 18
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d3518f2a24004263938b301c3096bf4f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d3518f2a24004263938b301c3096bf4f/view)

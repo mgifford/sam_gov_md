@@ -31,4 +31,4 @@ AMD 001: Corrected email addresses for site visit point of contacts. -----------
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4fefda656657465e9024a17c690e81ae/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4fefda656657465e9024a17c690e81ae/view)

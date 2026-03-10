@@ -26,4 +26,4 @@ NSN : 2530-01-472-9842 Approved Source(s) – OSHKOSH DEFENSE LLC (75Q65); P/N 3
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/34608fe118a0490ba612d0a204bb7a84/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/34608fe118a0490ba612d0a204bb7a84/view)

@@ -27,4 +27,4 @@ Related Notice: Solicitation #SPRTA125R0356
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4ee8d98de0754ceea3c1c0a8808fb17c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4ee8d98de0754ceea3c1c0a8808fb17c/view)

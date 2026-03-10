@@ -25,4 +25,4 @@ This special notice is to inform all interested vendors that, due to recent orga
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9784c3544b9c404ca4ffe9b8174be338/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9784c3544b9c404ca4ffe9b8174be338/view)

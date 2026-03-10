@@ -26,4 +26,4 @@ Login at https://piee.eb.mil and search for 'W91QVN26RA029' to obtain more detai
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/23155a71beda4999bc7673261c103797/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/23155a71beda4999bc7673261c103797/view)

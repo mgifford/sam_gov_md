@@ -26,4 +26,4 @@ SOURCES SOUGHT NOTICE W9127826RA045 (see attached)
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/11cf1a5805ea46fabd6e42a406e4c8df/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/11cf1a5805ea46fabd6e42a406e4c8df/view)

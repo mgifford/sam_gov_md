@@ -25,4 +25,4 @@ Proposed procurement for NSN 2090012844308 FAN ASSEMBLY: Line 0001 Qty 3154 UI E
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/830c6e7c81194bcfb72eae9e8660cae4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/830c6e7c81194bcfb72eae9e8660cae4/view)

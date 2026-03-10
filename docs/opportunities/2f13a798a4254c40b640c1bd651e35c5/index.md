@@ -26,4 +26,4 @@ RFQ - 36C77026Q0049 Pricing Schedule - Excel JnA - NMR - Waiver
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2f13a798a4254c40b640c1bd651e35c5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2f13a798a4254c40b640c1bd651e35c5/view)

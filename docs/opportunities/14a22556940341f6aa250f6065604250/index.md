@@ -26,4 +26,4 @@ The U.S. Army Corps of Engineers - Tulsa District is soliciting for the construc
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/14a22556940341f6aa250f6065604250/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/14a22556940341f6aa250f6065604250/view)

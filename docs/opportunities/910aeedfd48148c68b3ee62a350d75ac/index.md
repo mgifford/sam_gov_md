@@ -27,4 +27,4 @@ Indefinite Delivery Contract: Estimated quantity 123.000 ; Not to Exceed 350,000
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/910aeedfd48148c68b3ee62a350d75ac/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/910aeedfd48148c68b3ee62a350d75ac/view)

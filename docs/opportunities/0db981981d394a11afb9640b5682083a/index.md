@@ -34,4 +34,4 @@ Navy Region NW, Washington Casegoods This is a combined synopsis/solicitation fo
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0db981981d394a11afb9640b5682083a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0db981981d394a11afb9640b5682083a/view)

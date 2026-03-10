@@ -26,4 +26,4 @@ WI-TREMPEALEAU NWR-PC DIKE GRAVEL
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8f21387115fd432e861fceb034e2d727/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8f21387115fd432e861fceb034e2d727/view)

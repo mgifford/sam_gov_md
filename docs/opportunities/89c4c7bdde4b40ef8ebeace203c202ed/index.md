@@ -26,4 +26,4 @@ Fairchild Air Force Base (AFB) Optimized Remediation Contract (ORC) Draft Reques
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/89c4c7bdde4b40ef8ebeace203c202ed/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/89c4c7bdde4b40ef8ebeace203c202ed/view)

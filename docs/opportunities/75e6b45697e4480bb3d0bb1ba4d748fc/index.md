@@ -25,4 +25,4 @@ Proposed procurement for NSN 5330011232162 SEAL,PLAIN ENCASED: Line 0001 Qty 12 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/75e6b45697e4480bb3d0bb1ba4d748fc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/75e6b45697e4480bb3d0bb1ba4d748fc/view)

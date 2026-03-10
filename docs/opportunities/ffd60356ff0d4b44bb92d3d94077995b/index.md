@@ -25,4 +25,4 @@ Proposed procurement for NSN 3010014769255 YOKE,UNIVERSAL JOIN: Line 0001 Qty 31
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ffd60356ff0d4b44bb92d3d94077995b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ffd60356ff0d4b44bb92d3d94077995b/view)

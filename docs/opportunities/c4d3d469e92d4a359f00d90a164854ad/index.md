@@ -26,4 +26,4 @@ Posted Amendment 0001, new site visit date 12 March 2026 (see attached for detai
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c4d3d469e92d4a359f00d90a164854ad/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c4d3d469e92d4a359f00d90a164854ad/view)

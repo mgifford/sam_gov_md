@@ -26,4 +26,4 @@ This solicitation is for the repair of 1 ea. NSN 7RH 1660 009094310 BP (Part Num
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f1e7f2ed423a4b198c074822cbf2242e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f1e7f2ed423a4b198c074822cbf2242e/view)

@@ -30,4 +30,4 @@ Solicitation FA6606-26-B-0001 is now available. The documents have been uploaded
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/09980ee52589407fb56865e10b9f34ab/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/09980ee52589407fb56865e10b9f34ab/view)

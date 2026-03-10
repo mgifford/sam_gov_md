@@ -25,4 +25,4 @@ Proposed procurement for NSN 4140013256666 IMPELLER,FAN,AXIAL: Line 0001 Qty 60 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1ee4f62d34c54ab69de4326533805cc5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1ee4f62d34c54ab69de4326533805cc5/view)

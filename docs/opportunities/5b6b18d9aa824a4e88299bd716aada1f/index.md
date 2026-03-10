@@ -25,4 +25,4 @@ Proposed procurement for NSN 3010001274574 ACTUATOR,ELECTRO-MECHA: Line 0001 Qty
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5b6b18d9aa824a4e88299bd716aada1f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5b6b18d9aa824a4e88299bd716aada1f/view)

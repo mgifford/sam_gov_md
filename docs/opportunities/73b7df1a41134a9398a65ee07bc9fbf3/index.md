@@ -57,4 +57,4 @@ CONTACT INFORMATION|4|N7M3.9 Desiree Meyers|EKR|Desiree.D.Meyers.civ@us.navy.mil
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/73b7df1a41134a9398a65ee07bc9fbf3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/73b7df1a41134a9398a65ee07bc9fbf3/view)

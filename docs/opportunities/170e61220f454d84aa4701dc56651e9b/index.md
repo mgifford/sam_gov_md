@@ -27,4 +27,4 @@ Presolicitation Notice Presolicitation Notice Page 3 of 3 Solicitation Notice *=
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/170e61220f454d84aa4701dc56651e9b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/170e61220f454d84aa4701dc56651e9b/view)

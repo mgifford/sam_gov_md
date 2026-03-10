@@ -25,4 +25,4 @@ NSN 1H-6080-017277274-X3, TDP VER 001, QTY 192 EA, DELIVER TO W25G1U, W1A8 DLA D
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/107363754bec4e5698ef5002bd6723db/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/107363754bec4e5698ef5002bd6723db/view)

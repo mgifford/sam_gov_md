@@ -28,4 +28,4 @@ AMENDMENT 0003 has been issued to provide responses to technical questions, the 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4b03510de638460b80c46bbc9f309522/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4b03510de638460b80c46bbc9f309522/view)

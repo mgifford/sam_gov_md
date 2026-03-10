@@ -25,4 +25,4 @@ Proposed procurement for NSN 2590009379277 PAD,CUSHIONING: Line 0001 Qty 70 UI E
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fc7d47d110794d44a69c4f79a340faa0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fc7d47d110794d44a69c4f79a340faa0/view)

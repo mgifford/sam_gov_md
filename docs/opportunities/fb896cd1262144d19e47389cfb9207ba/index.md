@@ -26,4 +26,4 @@ Unmanned Aircraft System Kinetic Strike Payload
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fb896cd1262144d19e47389cfb9207ba/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fb896cd1262144d19e47389cfb9207ba/view)

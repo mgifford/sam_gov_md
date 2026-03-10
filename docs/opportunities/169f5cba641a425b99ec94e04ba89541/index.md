@@ -30,4 +30,4 @@ This announcement constitutes an award notice for solicitation HC102126QA015. Te
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/169f5cba641a425b99ec94e04ba89541/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/169f5cba641a425b99ec94e04ba89541/view)

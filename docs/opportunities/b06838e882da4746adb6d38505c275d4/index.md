@@ -25,4 +25,4 @@ Proposed procurement for NSN 8150014638553 CONTAINER,FREIGHT,G: Line 0001 Qty 5 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b06838e882da4746adb6d38505c275d4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b06838e882da4746adb6d38505c275d4/view)

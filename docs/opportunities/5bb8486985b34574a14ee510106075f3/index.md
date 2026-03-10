@@ -26,4 +26,4 @@ This is a Sources Sought Announcement for the Bar Island Dam Reconstruction proj
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5bb8486985b34574a14ee510106075f3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5bb8486985b34574a14ee510106075f3/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 3020005470776 GEAR,ANTIBACKLASH,S: Line 0001 Qty 71
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c450c2f581244614a3a2e4202ee06a73/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c450c2f581244614a3a2e4202ee06a73/view)

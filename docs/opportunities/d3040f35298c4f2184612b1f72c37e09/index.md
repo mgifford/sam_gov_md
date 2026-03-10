@@ -28,4 +28,4 @@ Award Notice Attached!
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d3040f35298c4f2184612b1f72c37e09/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d3040f35298c4f2184612b1f72c37e09/view)

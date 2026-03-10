@@ -26,4 +26,4 @@ Update 3/09/2026: Amendment A002 and QA_03-09-2026.pdf posted to attachments. Up
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fcc4a85ec2f249b694bbb0bb9a6f3d1e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fcc4a85ec2f249b694bbb0bb9a6f3d1e/view)

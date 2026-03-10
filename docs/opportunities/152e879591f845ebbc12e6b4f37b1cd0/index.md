@@ -30,4 +30,4 @@ Updated the Solicitation document SF1449 Block 8 which had a due date of 3 APR 2
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/152e879591f845ebbc12e6b4f37b1cd0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/152e879591f845ebbc12e6b4f37b1cd0/view)

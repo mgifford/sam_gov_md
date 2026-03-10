@@ -28,4 +28,4 @@ THIS IS A SOURCES SOUGHT ANNOUNCEMENT ONLY. No Solicitation is currently availab
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/67be655526fb403da4691e66c4d29228/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/67be655526fb403da4691e66c4d29228/view)

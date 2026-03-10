@@ -28,4 +28,4 @@ This is a non-personal service(s) contract to update the cushioned draft gear on
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c3acf7a3de08458c8aaaa69ed3102184/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c3acf7a3de08458c8aaaa69ed3102184/view)

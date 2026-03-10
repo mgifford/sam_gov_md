@@ -26,4 +26,4 @@ Commercial Dryers
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/72e8a6f8bfa04bbab93848ff6ca280ef/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/72e8a6f8bfa04bbab93848ff6ca280ef/view)

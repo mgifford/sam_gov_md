@@ -30,4 +30,4 @@ Please join us March 16, 2026, at 1:00 P.M. Eastern Time for a virtual Industry 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5766f25de0b14ddfa49c0ed3acc505ae/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5766f25de0b14ddfa49c0ed3acc505ae/view)

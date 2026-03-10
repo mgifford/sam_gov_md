@@ -30,4 +30,4 @@ UPDATE 3/8/2026 Submission date updated from March 08, 2026, to March 25, 2026, 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/86491b11f9b64a43a9a01af36f7f7124/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/86491b11f9b64a43a9a01af36f7f7124/view)

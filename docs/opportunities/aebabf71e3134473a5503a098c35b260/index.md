@@ -28,4 +28,4 @@ The Centers for Disease Control and Prevention (CDC) awards one or more Indefini
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/aebabf71e3134473a5503a098c35b260/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/aebabf71e3134473a5503a098c35b260/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 2990014673238 ARRESTER,SPARK EXHA: Line 0001 Qty 81
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/aefbfd9596534762af9ed5aee7b9f3af/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/aefbfd9596534762af9ed5aee7b9f3af/view)

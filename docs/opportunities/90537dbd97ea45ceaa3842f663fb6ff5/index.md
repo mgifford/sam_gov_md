@@ -26,4 +26,4 @@ Sources Sought: Firm Fixed-Price, Brand Name or Equal, Commercial Item Purchase 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/90537dbd97ea45ceaa3842f663fb6ff5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/90537dbd97ea45ceaa3842f663fb6ff5/view)

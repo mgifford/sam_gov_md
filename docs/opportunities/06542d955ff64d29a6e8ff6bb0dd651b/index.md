@@ -30,4 +30,4 @@ The NAWCAD WOLF Identification Systems (IDS) Division, operating under the oLSIÂ
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/06542d955ff64d29a6e8ff6bb0dd651b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/06542d955ff64d29a6e8ff6bb0dd651b/view)

@@ -25,4 +25,4 @@ This is a 100% small business set aside. 24 each of NSN: 6110014651082WF 12 each
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/71c16097402b4fa78ac5501587d38fd8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/71c16097402b4fa78ac5501587d38fd8/view)

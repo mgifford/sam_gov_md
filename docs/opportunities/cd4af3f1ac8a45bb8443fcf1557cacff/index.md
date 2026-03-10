@@ -31,4 +31,4 @@ AMENDMENT 02 - Extends the proposal due date, incorporates Questions and Answers
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/cd4af3f1ac8a45bb8443fcf1557cacff/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cd4af3f1ac8a45bb8443fcf1557cacff/view)

@@ -26,4 +26,4 @@ MNCC Identification Card Administration (ICA)- Open to SeaPort MAC holders only
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f651f8d6fea845b4a8c513129c5eb254/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f651f8d6fea845b4a8c513129c5eb254/view)

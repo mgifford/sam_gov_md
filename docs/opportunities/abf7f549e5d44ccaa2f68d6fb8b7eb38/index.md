@@ -29,4 +29,4 @@ This is a non-personal services contract to provide support for 304 Cadets and 7
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/abf7f549e5d44ccaa2f68d6fb8b7eb38/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/abf7f549e5d44ccaa2f68d6fb8b7eb38/view)

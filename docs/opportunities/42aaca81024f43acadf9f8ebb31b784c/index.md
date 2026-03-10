@@ -25,4 +25,4 @@ Proposed procurement for NSN 5330002629436 PACKING MATERIAL: Line 0001 Qty 646 U
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/42aaca81024f43acadf9f8ebb31b784c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/42aaca81024f43acadf9f8ebb31b784c/view)

@@ -30,4 +30,4 @@ Award notice for contract 70Z03826DB0000005.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5240e65635d248ab9bb91f5362717386/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5240e65635d248ab9bb91f5362717386/view)

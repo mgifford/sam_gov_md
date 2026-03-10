@@ -27,4 +27,4 @@ SOLICITATION DESCRIPTION: B105 HVAC CONTROL PANEL REPLACEMENT (UPDATED PER AMEND
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a122198513204f8bb58c4d248d948bc3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a122198513204f8bb58c4d248d948bc3/view)

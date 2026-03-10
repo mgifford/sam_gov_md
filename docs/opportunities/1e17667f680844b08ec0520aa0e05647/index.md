@@ -35,4 +35,4 @@ This is a solicitation for commercial products or commercial services prepared i
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1e17667f680844b08ec0520aa0e05647/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1e17667f680844b08ec0520aa0e05647/view)

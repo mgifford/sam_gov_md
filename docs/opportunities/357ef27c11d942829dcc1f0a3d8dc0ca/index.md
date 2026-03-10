@@ -30,4 +30,4 @@ This is a Sources Sought announcement for market research purposes for the Long 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/357ef27c11d942829dcc1f0a3d8dc0ca/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/357ef27c11d942829dcc1f0a3d8dc0ca/view)

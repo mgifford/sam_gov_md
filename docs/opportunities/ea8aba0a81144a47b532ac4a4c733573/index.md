@@ -25,4 +25,4 @@ Proposed procurement for NSN 5915012962204 FILTER,LOW PASS: Line 0001 Qty 19 UI 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ea8aba0a81144a47b532ac4a4c733573/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ea8aba0a81144a47b532ac4a4c733573/view)

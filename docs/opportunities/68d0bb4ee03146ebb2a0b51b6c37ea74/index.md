@@ -30,4 +30,4 @@ SOURCES SOUGHT PLEASE REVIEW THE BELOW NSN AND PROVIDE US WITH ANY SOURCES THAT 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/68d0bb4ee03146ebb2a0b51b6c37ea74/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/68d0bb4ee03146ebb2a0b51b6c37ea74/view)

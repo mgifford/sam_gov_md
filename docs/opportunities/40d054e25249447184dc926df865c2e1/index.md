@@ -25,4 +25,4 @@ Proposed procurement for NSN 5330014231501 SEAL,PLAIN: Line 0001 Qty 24 UI EA De
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/40d054e25249447184dc926df865c2e1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/40d054e25249447184dc926df865c2e1/view)

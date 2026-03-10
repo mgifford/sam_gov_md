@@ -28,4 +28,4 @@ The Department of Veterans Affairs, VISN 10, located at 24 Frank Lloyd Wright Dr
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b449ffaae3264d9e8bf93ed49c0e459c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b449ffaae3264d9e8bf93ed49c0e459c/view)

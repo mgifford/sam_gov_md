@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340014517762 LATCH,THUMB: Line 0001 Qty 39 UI EA D
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7ae3c9947a8f476a87f5ed9837639c2a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7ae3c9947a8f476a87f5ed9837639c2a/view)

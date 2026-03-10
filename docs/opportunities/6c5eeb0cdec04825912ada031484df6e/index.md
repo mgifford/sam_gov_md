@@ -55,4 +55,4 @@ ITEM UNIQUE IDENTIFICATION AND VALUATION (JAN 2023)|19|EXEMPTED BY MILITARY SERV
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6c5eeb0cdec04825912ada031484df6e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6c5eeb0cdec04825912ada031484df6e/view)

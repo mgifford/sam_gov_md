@@ -46,4 +46,4 @@ This combined synopsis/solicitation for construction services prepared in accord
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d6fe81bb213f45daa6b09cceaa643cc1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d6fe81bb213f45daa6b09cceaa643cc1/view)

@@ -30,4 +30,4 @@ MUST BE ON BID SHEET: VENDOR'S NAME: PHONE NUMBER: EMAIL: UEI# TIN# Firm Fixed P
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/abc8061956364002b4cac0444e56e4a2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/abc8061956364002b4cac0444e56e4a2/view)

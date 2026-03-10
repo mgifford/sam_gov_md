@@ -29,4 +29,4 @@ WHAT: Marine Forces Special Operations Command (MARFORSOC) Industry Day WHERE: H
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ea5b81c4655443e3b8a89d5894b6a143/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ea5b81c4655443e3b8a89d5894b6a143/view)

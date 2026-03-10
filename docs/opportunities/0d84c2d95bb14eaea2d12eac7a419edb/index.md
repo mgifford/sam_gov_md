@@ -27,4 +27,4 @@ IAW FAR 13.106-1(b)(2), this contract action was not awarded competitively. Comp
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0d84c2d95bb14eaea2d12eac7a419edb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0d84c2d95bb14eaea2d12eac7a419edb/view)

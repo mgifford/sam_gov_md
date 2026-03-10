@@ -25,4 +25,4 @@ This is a request for information for sources that are able to provide CDL train
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/157c323335d6446e815475eca8d9354c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/157c323335d6446e815475eca8d9354c/view)

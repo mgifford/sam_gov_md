@@ -29,4 +29,4 @@ The United States Secret Service (USSS) procurement is issuing a Request for Inf
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9cffdccadd514d3b90e36b86cd249f43/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9cffdccadd514d3b90e36b86cd249f43/view)

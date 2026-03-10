@@ -25,4 +25,4 @@ NSN 1R-1680-999202200-CB, REF NR MBCS15065-101, QTY 66 EA, DELIVERY FOB ORIGIN. 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a7df890d5e134de29df864d090c65319/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a7df890d5e134de29df864d090c65319/view)

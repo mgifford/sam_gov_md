@@ -25,4 +25,4 @@ The San Juan National Forest Dolores Public Lands Office in Dolores CO requires 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d02bab631c2947ef9274fea078d1ef06/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d02bab631c2947ef9274fea078d1ef06/view)

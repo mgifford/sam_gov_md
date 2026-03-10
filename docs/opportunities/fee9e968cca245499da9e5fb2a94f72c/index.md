@@ -26,4 +26,4 @@ NSN: 6610012531448WF Qty: 1
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fee9e968cca245499da9e5fb2a94f72c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fee9e968cca245499da9e5fb2a94f72c/view)

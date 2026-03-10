@@ -25,4 +25,4 @@ Proposed procurement for NSN 3950016909573 PARTS KIT,HOIST: Line 0001 Qty 2 UI K
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/816d1e96830f41048203cb4d525f29fc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/816d1e96830f41048203cb4d525f29fc/view)

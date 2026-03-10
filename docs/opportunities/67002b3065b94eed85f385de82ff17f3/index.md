@@ -26,4 +26,4 @@ Notice of Intent to Sole Source to OLI Systems Inc., for OLI Studio, OLI Flowshe
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/67002b3065b94eed85f385de82ff17f3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/67002b3065b94eed85f385de82ff17f3/view)

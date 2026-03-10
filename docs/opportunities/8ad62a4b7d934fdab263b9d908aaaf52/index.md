@@ -30,4 +30,4 @@ This is a notification that the RFQ for this acquisition has changed to N6893626
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8ad62a4b7d934fdab263b9d908aaaf52/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8ad62a4b7d934fdab263b9d908aaaf52/view)

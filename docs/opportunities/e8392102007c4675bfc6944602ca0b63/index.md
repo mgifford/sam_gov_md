@@ -25,4 +25,4 @@ Proposed procurement for NSN 1005010595052 END ASSEMBLY,CHUTE: Line 0001 Qty 93 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e8392102007c4675bfc6944602ca0b63/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e8392102007c4675bfc6944602ca0b63/view)

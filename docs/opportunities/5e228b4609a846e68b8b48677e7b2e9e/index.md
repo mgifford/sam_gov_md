@@ -32,4 +32,4 @@ notice_id: 5e228b4609a846e68b8b48677e7b2e9e
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5e228b4609a846e68b8b48677e7b2e9e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5e228b4609a846e68b8b48677e7b2e9e/view)

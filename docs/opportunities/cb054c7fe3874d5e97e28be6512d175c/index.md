@@ -25,4 +25,4 @@ NSN 7H-5855-016830442, TDP VER 002, REF NR 8605761, QTY 2 EA, DELIVERY FOB ORIGI
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/cb054c7fe3874d5e97e28be6512d175c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cb054c7fe3874d5e97e28be6512d175c/view)

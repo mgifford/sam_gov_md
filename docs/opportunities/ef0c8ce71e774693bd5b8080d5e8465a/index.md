@@ -28,4 +28,4 @@ The Dog Creek Paving contract was both fixed-priced and competitive,
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ef0c8ce71e774693bd5b8080d5e8465a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ef0c8ce71e774693bd5b8080d5e8465a/view)

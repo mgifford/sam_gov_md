@@ -30,4 +30,4 @@ General Information Document Type: Sources Sought Posted Date: March 4, 2026 Res
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2ad8c2700c4547df9b7884553b416487/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2ad8c2700c4547df9b7884553b416487/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 6650001051418 REFRACTOMETER: Line 0001 Qty 129 UI E
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/aac51275b579408cbda31d0e2b89aabe/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/aac51275b579408cbda31d0e2b89aabe/view)

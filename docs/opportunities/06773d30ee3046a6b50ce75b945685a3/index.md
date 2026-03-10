@@ -25,4 +25,4 @@ Proposed procurement for NSN 6110012660685 CONTACTOR,MAGNETIC: Line 0001 Qty 31 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/06773d30ee3046a6b50ce75b945685a3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/06773d30ee3046a6b50ce75b945685a3/view)

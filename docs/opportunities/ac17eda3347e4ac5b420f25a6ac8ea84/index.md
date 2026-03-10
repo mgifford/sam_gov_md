@@ -25,4 +25,4 @@ The Department of Veterans Affairs, Network Contracting Officer (NCO 01) located
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ac17eda3347e4ac5b420f25a6ac8ea84/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ac17eda3347e4ac5b420f25a6ac8ea84/view)

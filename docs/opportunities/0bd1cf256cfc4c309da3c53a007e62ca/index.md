@@ -29,4 +29,4 @@ Sole source solicitation for manufacture of CONTROL,INTERCOMMUN for the B-2 airc
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0bd1cf256cfc4c309da3c53a007e62ca/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0bd1cf256cfc4c309da3c53a007e62ca/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 5930003278000 SWITCH,THERMOSTATIC: Line 0001 Qty 45
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7074189a1c1d4bf28427e1a58ec4018f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7074189a1c1d4bf28427e1a58ec4018f/view)

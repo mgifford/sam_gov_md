@@ -25,4 +25,4 @@ JA POSTING.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b7dc4588220541aca9f920d4d86915b7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b7dc4588220541aca9f920d4d86915b7/view)

@@ -29,4 +29,4 @@ Airshow Buses 2026: Questions due: Friday, March 6 at 12pm EST Quotes due: Monda
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2e63ad8ca6e34dc2b1ac7255f3370dc3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2e63ad8ca6e34dc2b1ac7255f3370dc3/view)

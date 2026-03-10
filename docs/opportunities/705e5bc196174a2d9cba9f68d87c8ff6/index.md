@@ -31,4 +31,4 @@ CONTACT INFORMATION|4|N774.9|PF1|717-605-1339|DARIAN.M.HOLLEY.CIV@US.NAVY.MIL| I
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/705e5bc196174a2d9cba9f68d87c8ff6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/705e5bc196174a2d9cba9f68d87c8ff6/view)

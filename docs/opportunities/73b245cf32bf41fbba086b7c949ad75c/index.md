@@ -26,4 +26,4 @@ The Defense Logistics Agency (DLA) Aviation is issuing this synopis as a means t
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/73b245cf32bf41fbba086b7c949ad75c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/73b245cf32bf41fbba086b7c949ad75c/view)

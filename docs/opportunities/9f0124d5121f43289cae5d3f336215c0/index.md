@@ -26,4 +26,4 @@ REVISED STATEMENT OF WORK--GLCA REPLACE PAVEMENT AT LF CAMPGROUND
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9f0124d5121f43289cae5d3f336215c0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9f0124d5121f43289cae5d3f336215c0/view)

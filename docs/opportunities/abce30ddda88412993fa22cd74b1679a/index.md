@@ -26,4 +26,4 @@ Military Sealift Command is seeking elifgible buisnesses that can provide the fo
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/abce30ddda88412993fa22cd74b1679a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/abce30ddda88412993fa22cd74b1679a/view)

@@ -28,4 +28,4 @@ Amended to provide award memo.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bc244c7079574006957e99e320b22d4b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bc244c7079574006957e99e320b22d4b/view)

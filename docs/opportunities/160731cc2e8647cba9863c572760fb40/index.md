@@ -28,4 +28,4 @@ Attached is the synopsis/solicitation seeking the repainting of all curbs, cross
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/160731cc2e8647cba9863c572760fb40/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/160731cc2e8647cba9863c572760fb40/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 2990014792450 HEAT SHIELD,EXHAUST: Line 0001 Qty 12
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4c0c0b8c58a44a05b46e65bbcd776877/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4c0c0b8c58a44a05b46e65bbcd776877/view)

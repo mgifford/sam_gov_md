@@ -55,4 +55,4 @@ CONTACT INFORMATION|4|N713.23|GJG|7712290566|cody.s.smith26.civ@us.navy.mil| ITE
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e8387df88f2143ffa41de7381d5f7993/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e8387df88f2143ffa41de7381d5f7993/view)

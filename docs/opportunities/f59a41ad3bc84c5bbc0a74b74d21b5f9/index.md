@@ -25,4 +25,4 @@ Proposed procurement for NSN 5360012758597 SPRING,GARTER,EXTEN: Line 0001 Qty 38
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f59a41ad3bc84c5bbc0a74b74d21b5f9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f59a41ad3bc84c5bbc0a74b74d21b5f9/view)

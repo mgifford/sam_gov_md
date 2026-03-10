@@ -25,4 +25,4 @@ Proposed procurement for NSN 4610015898131 FILTER ELEMENT,REVE: Line 0001 Qty 10
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4713534d25044a34a3387608bd62bb73/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4713534d25044a34a3387608bd62bb73/view)

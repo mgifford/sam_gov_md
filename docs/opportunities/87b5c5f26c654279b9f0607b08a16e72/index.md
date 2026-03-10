@@ -25,4 +25,4 @@ Proposed procurement for NSN 2520015450390 PROPELLER SHAFT WITH U: Line 0001 Qty
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/87b5c5f26c654279b9f0607b08a16e72/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/87b5c5f26c654279b9f0607b08a16e72/view)

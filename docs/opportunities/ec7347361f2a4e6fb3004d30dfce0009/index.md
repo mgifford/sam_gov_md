@@ -25,4 +25,4 @@ Proposed procurement for NSN 5330014913116 RING,RETAINING,AIRC: Line 0001 Qty 22
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ec7347361f2a4e6fb3004d30dfce0009/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ec7347361f2a4e6fb3004d30dfce0009/view)

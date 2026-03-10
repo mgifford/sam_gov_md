@@ -25,4 +25,4 @@ Proposed procurement for NSN 5365010608918 BUSHING,CHANNEL RIN: Line 0001 Qty 18
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/573615bf16c54ab185ea542cf66e66ac/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/573615bf16c54ab185ea542cf66e66ac/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 5330005990391 SEA L,NONMETALLIC SP: Line 0001 Qty 5
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c9502c455a574a489a9e0dfdc4a22bbf/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c9502c455a574a489a9e0dfdc4a22bbf/view)

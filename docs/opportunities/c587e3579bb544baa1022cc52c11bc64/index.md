@@ -25,4 +25,4 @@ Proposed procurement for NSN 4730016936899 PLATE,ORIFICE,FLUID: Line 0001 Qty 3 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c587e3579bb544baa1022cc52c11bc64/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c587e3579bb544baa1022cc52c11bc64/view)

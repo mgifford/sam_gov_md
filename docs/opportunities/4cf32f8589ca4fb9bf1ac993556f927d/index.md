@@ -28,4 +28,4 @@ Special Needs Ground Transportation Contract IAW Performance Work Statement. Thi
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4cf32f8589ca4fb9bf1ac993556f927d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4cf32f8589ca4fb9bf1ac993556f927d/view)

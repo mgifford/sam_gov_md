@@ -25,4 +25,4 @@ Proposed procurement for NSN 6130015869394 AUDIO POWER SUPPLY: Line 0001 Qty 20 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8f2735e88eae42f483b767a2d7c10524/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8f2735e88eae42f483b767a2d7c10524/view)

@@ -28,4 +28,4 @@ This is an amendment to the original solicitation posting (040ADV-26-R-0013). Th
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4a74b2a89a074a05a5d2d78439e0667f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4a74b2a89a074a05a5d2d78439e0667f/view)

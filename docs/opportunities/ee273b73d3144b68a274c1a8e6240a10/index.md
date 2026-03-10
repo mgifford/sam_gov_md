@@ -25,4 +25,4 @@ Proposed procurement for NSN 6630010135279 DETECTOR,COMBINED C: Line 0001 Qty 25
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ee273b73d3144b68a274c1a8e6240a10/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ee273b73d3144b68a274c1a8e6240a10/view)

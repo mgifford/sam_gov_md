@@ -26,4 +26,4 @@ Amended to include set aside code. Commercial Laundry Washers 2 ea
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/cfaf1480713744c7bd700d159ae798a6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cfaf1480713744c7bd700d159ae798a6/view)

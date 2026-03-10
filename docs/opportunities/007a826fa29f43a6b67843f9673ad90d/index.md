@@ -25,4 +25,4 @@ Request for Information (RFI) & Sources Sought Notice Field Support Equipment Re
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/007a826fa29f43a6b67843f9673ad90d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/007a826fa29f43a6b67843f9673ad90d/view)

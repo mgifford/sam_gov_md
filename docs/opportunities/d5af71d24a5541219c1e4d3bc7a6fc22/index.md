@@ -25,4 +25,4 @@ USS RUSHMORE (LSD-47) NONSKID DECK COVERING ON FLIGHT DECK; REPLACE Pursuant to 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d5af71d24a5541219c1e4d3bc7a6fc22/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d5af71d24a5541219c1e4d3bc7a6fc22/view)

@@ -26,4 +26,4 @@ GLCA 210865 Replace Wahweap Government Dock DB
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9f423ea2ade749c0ab0702ed813e714d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9f423ea2ade749c0ab0702ed813e714d/view)

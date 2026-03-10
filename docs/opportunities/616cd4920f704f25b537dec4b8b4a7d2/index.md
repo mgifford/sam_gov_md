@@ -25,4 +25,4 @@ THE PURPOSE OF THIS AMENDMENT 0005 IS TO EXTEND THE PROPOSAL DUE DATE TO 13 Marc
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/616cd4920f704f25b537dec4b8b4a7d2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/616cd4920f704f25b537dec4b8b4a7d2/view)

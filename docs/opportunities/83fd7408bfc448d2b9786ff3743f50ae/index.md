@@ -30,4 +30,4 @@ The purpose of this fixed price contract is to obtain janitorial services for re
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/83fd7408bfc448d2b9786ff3743f50ae/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/83fd7408bfc448d2b9786ff3743f50ae/view)

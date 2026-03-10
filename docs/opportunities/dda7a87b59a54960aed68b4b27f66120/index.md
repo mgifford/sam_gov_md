@@ -26,4 +26,4 @@ NSN: 2915-01-075-9723RK NOUN: VALVE, FUEL FLOW DIV. TOP DRAWING: 16VP035-2 EDL R
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/dda7a87b59a54960aed68b4b27f66120/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/dda7a87b59a54960aed68b4b27f66120/view)

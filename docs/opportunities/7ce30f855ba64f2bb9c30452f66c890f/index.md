@@ -25,4 +25,4 @@ Proposed procurement for NSN 5840017271942 MONITOR,PHASE: Line 0001 Qty 6 UI EA 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7ce30f855ba64f2bb9c30452f66c890f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7ce30f855ba64f2bb9c30452f66c890f/view)

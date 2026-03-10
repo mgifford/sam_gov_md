@@ -25,4 +25,4 @@ Proposed procurement for NSN 4730010228263 CAP,HOSE: Line 0001 Qty 902 UI EA Del
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ac40e6e2d3b84cc6b5e695ec1a1a3067/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ac40e6e2d3b84cc6b5e695ec1a1a3067/view)

@@ -29,4 +29,4 @@ This Sources Sought Synopsis (SSS) is being issued by the Air Force Life Cycle M
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/77d0f437f113438f8ae90ecd90a7c2b0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/77d0f437f113438f8ae90ecd90a7c2b0/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 2530015508252 CYLINDER ASSEMBLY,H: Line 0001 Qty 48
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/13b489fbb17c4040b834fb869995da68/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/13b489fbb17c4040b834fb869995da68/view)

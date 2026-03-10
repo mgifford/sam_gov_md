@@ -28,4 +28,4 @@ FY26 I612287 UPFIT for Rocky Mountain National Park
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/cf01eaa784f84b108dd259e6d256b158/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cf01eaa784f84b108dd259e6d256b158/view)

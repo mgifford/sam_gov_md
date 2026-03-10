@@ -36,4 +36,4 @@ SUBJECT: Combined Synopsis/Solicitation for, Telephony System Technician; Aviano
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/00c93fedf6b74fefba50e5b967668016/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/00c93fedf6b74fefba50e5b967668016/view)

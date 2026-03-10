@@ -26,4 +26,4 @@ The Historic Preservation Training Center requires visually uniform, precision-m
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/42f0cd1e84a94b87a7a3fc677167f0e2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/42f0cd1e84a94b87a7a3fc677167f0e2/view)

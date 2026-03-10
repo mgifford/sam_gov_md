@@ -25,4 +25,4 @@ Proposed procurement for NSN 1560016240419 ADAPTER AAI: Line 0001 Qty 1 UI EA De
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a187209900ad4d2aa755e4e31f091e11/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a187209900ad4d2aa755e4e31f091e11/view)

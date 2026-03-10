@@ -25,4 +25,4 @@ Proposed procurement for NSN 6625007226351 AMMETER: Line 0001 Qty 3 UI EA Delive
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/47781d667c3448e0aabbd7114f9bc794/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/47781d667c3448e0aabbd7114f9bc794/view)

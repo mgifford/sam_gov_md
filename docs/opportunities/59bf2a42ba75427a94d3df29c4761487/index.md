@@ -25,4 +25,4 @@ Proposed procurement for NSN 1005012388187 CONTACT BOX ASSEMBLY: Line 0001 Qty 1
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/59bf2a42ba75427a94d3df29c4761487/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/59bf2a42ba75427a94d3df29c4761487/view)

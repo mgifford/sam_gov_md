@@ -26,4 +26,4 @@ PROJECT TITLE: NAO HQ EMERGENCY OPERATIONS CENTER - REPAIRS AND UPGRADES; PROJEC
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5d400381bce6423e958b83c39a81d1a4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5d400381bce6423e958b83c39a81d1a4/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 5945013084230 ARMATURE,RELAY: Line 0001 Qty 66 UI E
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/03a11b7b1d474a75b4b29f8f153d7feb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/03a11b7b1d474a75b4b29f8f153d7feb/view)

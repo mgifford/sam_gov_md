@@ -25,4 +25,4 @@ NSN 7R-6610-146056585-H1, REF NR C19696CA, QTY 65 EA, DELIVERY FOB ORIGIN. This 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/38a4ab51928e4b5c93c742a090606fc7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/38a4ab51928e4b5c93c742a090606fc7/view)

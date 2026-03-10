@@ -25,4 +25,4 @@ Proposed procurement for NSN 1005015897062 ADAPTER,SLING RAIL: Line 0001 Qty 441
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b9ba03aa9aa74b30890a92b47955b455/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b9ba03aa9aa74b30890a92b47955b455/view)

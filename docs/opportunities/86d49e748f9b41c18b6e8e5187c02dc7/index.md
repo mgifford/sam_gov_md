@@ -27,4 +27,4 @@ Solicitation 36C26026R0035 Project 663A4-23-201 Replace 40 Ton Condenser at Bldg
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/86d49e748f9b41c18b6e8e5187c02dc7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/86d49e748f9b41c18b6e8e5187c02dc7/view)

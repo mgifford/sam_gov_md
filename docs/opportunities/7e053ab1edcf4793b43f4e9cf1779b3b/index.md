@@ -28,4 +28,4 @@ THIS IS A SOURCES SOUGHT NOTICE ONLY. This is not a solicitation for bids, propo
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7e053ab1edcf4793b43f4e9cf1779b3b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7e053ab1edcf4793b43f4e9cf1779b3b/view)

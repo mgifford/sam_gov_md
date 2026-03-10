@@ -25,4 +25,4 @@ Paper copies will not be provided. Procurement is restricted To Roberts Research
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8838344a06504d0286654972459d4844/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8838344a06504d0286654972459d4844/view)

@@ -31,4 +31,4 @@ Awarded to North Point Marine on 3/4/26
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bd7cf850a3df4eac9d97dad111735199/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bd7cf850a3df4eac9d97dad111735199/view)

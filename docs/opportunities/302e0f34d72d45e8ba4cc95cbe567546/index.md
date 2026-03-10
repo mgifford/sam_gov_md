@@ -28,4 +28,4 @@ This acquisition is to acquire the remanufacture of the F108 Turbine Clearance C
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/302e0f34d72d45e8ba4cc95cbe567546/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/302e0f34d72d45e8ba4cc95cbe567546/view)

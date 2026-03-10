@@ -26,4 +26,4 @@ The purpose of Amendment 1 is to upload the revised Requirement and Specificatio
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4a9dc6b5b05845e3b47538e93e0ba76e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4a9dc6b5b05845e3b47538e93e0ba76e/view)

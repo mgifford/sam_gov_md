@@ -25,4 +25,4 @@ The Justification and Approval (J&A) authorizes and approves an exception to fai
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f708b55cf59b433c9fd39811e7f652f0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f708b55cf59b433c9fd39811e7f652f0/view)

@@ -26,4 +26,4 @@ The U.S. Army Corps of Engineers - New England District is issuing a Solicitatio
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c1337e0f5cab4b6abc86af213d68e2dc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c1337e0f5cab4b6abc86af213d68e2dc/view)

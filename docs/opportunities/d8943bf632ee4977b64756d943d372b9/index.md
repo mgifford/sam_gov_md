@@ -34,4 +34,4 @@ March 9, 2026 Amendment 3: 1. Attachment 7 - Floor Plan - added February 27, 202
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d8943bf632ee4977b64756d943d372b9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d8943bf632ee4977b64756d943d372b9/view)

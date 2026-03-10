@@ -30,4 +30,4 @@ Federal Contract Opportunity 100% Set-Aside for Small Businesses Commercial Kitc
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/329c4086fc78470b8c507fb24aa9d0d0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/329c4086fc78470b8c507fb24aa9d0d0/view)

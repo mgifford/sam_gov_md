@@ -25,4 +25,4 @@ CONTACT INFORMATION|4|N791.08|T1L|215-697-3765|michael.j.brown1069.civ@us.navy.m
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0b4a490910b14608a4dc8c4c218ecf22/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0b4a490910b14608a4dc8c4c218ecf22/view)

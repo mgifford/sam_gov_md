@@ -31,4 +31,4 @@ This is a combined synopsis/solicitation for Janitorial Services prepared in acc
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/acebdc6becdf41f391d2464a2f75fbea/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/acebdc6becdf41f391d2464a2f75fbea/view)

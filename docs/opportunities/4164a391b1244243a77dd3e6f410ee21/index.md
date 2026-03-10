@@ -28,4 +28,4 @@ The United States Patent and Trademark Office (USPTO), Office of General Counsel
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4164a391b1244243a77dd3e6f410ee21/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4164a391b1244243a77dd3e6f410ee21/view)

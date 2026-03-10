@@ -28,4 +28,4 @@ PRE-SOLICITATION SYNOPSIS Bonneville Powerhouse 1 Trash Rack Replacement The U.S
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2b957751d37f48e192b446493913b927/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2b957751d37f48e192b446493913b927/view)

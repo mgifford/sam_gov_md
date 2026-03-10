@@ -26,4 +26,4 @@ Provide and install new windows, doors, and new trim around the doors and window
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/909d6b16bd394a8db4b6514b5ea98097/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/909d6b16bd394a8db4b6514b5ea98097/view)

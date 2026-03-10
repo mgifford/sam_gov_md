@@ -26,4 +26,4 @@ This solicitation is for the repair of 1 ea. NSN 7R 2835 013692818 VH (Part Numb
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/996193231f134a4f8d34d70204fa0270/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/996193231f134a4f8d34d70204fa0270/view)

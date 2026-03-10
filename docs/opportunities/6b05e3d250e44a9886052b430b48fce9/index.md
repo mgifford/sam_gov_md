@@ -25,4 +25,4 @@ Proposed procurement for NSN 4460013113732 FILTER,AIR,ELECTROS: Line 0001 Qty 1 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6b05e3d250e44a9886052b430b48fce9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6b05e3d250e44a9886052b430b48fce9/view)

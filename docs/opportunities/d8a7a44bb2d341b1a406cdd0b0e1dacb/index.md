@@ -26,4 +26,4 @@ Attached is the justification and approval for other-than-full-and-open competit
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d8a7a44bb2d341b1a406cdd0b0e1dacb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d8a7a44bb2d341b1a406cdd0b0e1dacb/view)

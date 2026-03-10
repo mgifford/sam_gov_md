@@ -26,4 +26,4 @@ SASPO Strategic Sourcing Brochure
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/aeafde762e6d4ce1a0bb6ce15f4a7e22/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/aeafde762e6d4ce1a0bb6ce15f4a7e22/view)

@@ -30,4 +30,4 @@ THE P.R ARMY NATIONAL GUARD UNITED STATES FISCAL & PROPERTY OFFICE IS REQUESTING
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/79260cac1793481ba1636c9a06080f51/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/79260cac1793481ba1636c9a06080f51/view)

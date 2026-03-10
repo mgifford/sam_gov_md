@@ -25,4 +25,4 @@ Proposed procurement for NSN 5320012155423 RIVET,SOLID: Line 0001 Qty 95 UI LB D
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4ca9d31fc5d54dcc876e272cc9e102c5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4ca9d31fc5d54dcc876e272cc9e102c5/view)

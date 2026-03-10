@@ -26,4 +26,4 @@ RFP - SOLICITATION SPRHA2-26-R-0029 CLIN NSN NOUN Quantity 0001 6150004062752 CA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/721065fa614449d79c13a361eb948740/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/721065fa614449d79c13a361eb948740/view)

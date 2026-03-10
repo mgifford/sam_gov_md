@@ -25,4 +25,4 @@ Proposed procurement for NSN 4820014116278 VALVE ASSEMBLY: Line 0001 Qty 1 UI EA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/862019a7cbef49a296df94a7e09d7a55/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/862019a7cbef49a296df94a7e09d7a55/view)

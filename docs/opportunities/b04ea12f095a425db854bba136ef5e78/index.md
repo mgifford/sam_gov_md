@@ -28,4 +28,4 @@ This amendment is issued to inform all interested vendors of the following chang
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b04ea12f095a425db854bba136ef5e78/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b04ea12f095a425db854bba136ef5e78/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 2590011689865 VENT,WINCH: Line 0001 Qty 120 UI EA D
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3473ae0a7bb346549b175e188e2f3dfb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3473ae0a7bb346549b175e188e2f3dfb/view)

@@ -30,4 +30,4 @@ The U.S. Army Combat Capabilities Development Command – Armaments Center (DEVC
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/757ee36ad0c24bda980eaafb9a1f9c38/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/757ee36ad0c24bda980eaafb9a1f9c38/view)

@@ -25,4 +25,4 @@ The Combined Synopsis/Solicitation and its associated attachments are included i
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7c201c82e4ab422d8ef618a138e4d619/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7c201c82e4ab422d8ef618a138e4d619/view)

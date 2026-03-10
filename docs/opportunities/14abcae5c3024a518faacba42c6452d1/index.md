@@ -25,4 +25,4 @@ REDACTED J&A SPE4A7-26-R-0335
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/14abcae5c3024a518faacba42c6452d1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/14abcae5c3024a518faacba42c6452d1/view)

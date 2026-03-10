@@ -26,4 +26,4 @@ This is a Sources Sought Notice regarding RFP number 75N94026R00006 entitled "Re
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/220139653d4a4d978039b5b05fa82e47/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/220139653d4a4d978039b5b05fa82e47/view)

@@ -34,4 +34,4 @@ Providing the DRAFT RFP allows potential Offerors to submit questions to the Gov
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1db8d9eb53854cb097271595776530cb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1db8d9eb53854cb097271595776530cb/view)

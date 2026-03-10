@@ -26,4 +26,4 @@ The Indian Health Service, Gallup Service Unit, is issuing this sources-sought s
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7dd497e7df9c4699b893a5716ba6d203/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7dd497e7df9c4699b893a5716ba6d203/view)

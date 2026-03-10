@@ -26,4 +26,4 @@ MN-FERGUS FALLS WMD-JANITORIAL SERVICES
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/aa95d6cccb0a49cba8cd87eecf7c6a04/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/aa95d6cccb0a49cba8cd87eecf7c6a04/view)

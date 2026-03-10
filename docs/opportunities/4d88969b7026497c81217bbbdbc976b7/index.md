@@ -28,4 +28,4 @@ SD_LOWERMISSOURIBLACKHILLS_D26
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4d88969b7026497c81217bbbdbc976b7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4d88969b7026497c81217bbbdbc976b7/view)

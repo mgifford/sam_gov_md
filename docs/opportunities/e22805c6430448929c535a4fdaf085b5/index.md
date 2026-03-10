@@ -30,4 +30,4 @@ Presolicitation Notice Action: Presolicitation Notice Subject: Sterilizer Equipm
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e22805c6430448929c535a4fdaf085b5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e22805c6430448929c535a4fdaf085b5/view)

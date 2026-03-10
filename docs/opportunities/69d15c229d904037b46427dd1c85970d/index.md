@@ -29,4 +29,4 @@ Naval Supply Systems Command (NAVSUP) Fleet Logistics Center Yokosuka (FLCY) Sit
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/69d15c229d904037b46427dd1c85970d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/69d15c229d904037b46427dd1c85970d/view)

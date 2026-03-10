@@ -28,4 +28,4 @@ Wheel Loader for Cheyenne River Agency
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b6cac16641c542638c843e3e6377b9c7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b6cac16641c542638c843e3e6377b9c7/view)

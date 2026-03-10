@@ -28,4 +28,4 @@ AMENDMENT 0002 - The purpose of Amendment 0002 to Solicitation W15QKN-26-Q-A050,
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3fe3c541ca78415d8910bf072e7631ef/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3fe3c541ca78415d8910bf072e7631ef/view)

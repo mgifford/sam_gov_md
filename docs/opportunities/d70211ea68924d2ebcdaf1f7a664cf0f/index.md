@@ -79,4 +79,4 @@ CONTACT INFORMATION|4|N743.30|WVE|717-605-2379|scott.r.youngblood2.civ@us.navy.m
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d70211ea68924d2ebcdaf1f7a664cf0f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d70211ea68924d2ebcdaf1f7a664cf0f/view)

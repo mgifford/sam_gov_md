@@ -25,4 +25,4 @@ Turbo HiPace 300 DN100 CF ORNL is requesting a quote for the same or domestic eq
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bbe5b3bbf24d4e2ba3f67ef6a5ee0acc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bbe5b3bbf24d4e2ba3f67ef6a5ee0acc/view)

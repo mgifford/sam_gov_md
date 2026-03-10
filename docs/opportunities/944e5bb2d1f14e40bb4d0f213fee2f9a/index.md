@@ -26,4 +26,4 @@ Snow and Ice Removal Services in Bellefonte, PA on behalf of the U.S. Army, 99th
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/944e5bb2d1f14e40bb4d0f213fee2f9a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/944e5bb2d1f14e40bb4d0f213fee2f9a/view)

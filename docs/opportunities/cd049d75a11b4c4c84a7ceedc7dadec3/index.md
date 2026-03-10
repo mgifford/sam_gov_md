@@ -28,4 +28,4 @@ PRESOLICITATION NOTICE Project # 659-24-903 Steam Line Replacement Department of
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/cd049d75a11b4c4c84a7ceedc7dadec3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cd049d75a11b4c4c84a7ceedc7dadec3/view)

@@ -28,4 +28,4 @@ Posted Amendment for answers to questions. Offer due date is the same. Site visi
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/94bb0fa2cb5e4ae982c0a95a5888eedd/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/94bb0fa2cb5e4ae982c0a95a5888eedd/view)

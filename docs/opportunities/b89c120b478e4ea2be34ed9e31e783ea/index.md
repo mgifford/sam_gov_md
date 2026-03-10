@@ -32,4 +32,4 @@ Amendment 2 is issued to complete the responses to contractors and correct the r
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b89c120b478e4ea2be34ed9e31e783ea/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b89c120b478e4ea2be34ed9e31e783ea/view)

@@ -31,4 +31,4 @@ INSPECTION OF SUPPLIES--FIXED-PRICE (AUG 1996)|2||| INSPECTION AND ACCEPTANCE - 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6e3b1ffd4962454da2448a226b5914a1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6e3b1ffd4962454da2448a226b5914a1/view)

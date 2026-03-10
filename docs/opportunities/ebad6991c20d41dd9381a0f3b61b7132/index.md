@@ -25,4 +25,4 @@ NSN 7H-5961-015566866, TDP VER 002, REF NR 600-42100-3, QTY 40 EA, DELIVERY FOB 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ebad6991c20d41dd9381a0f3b61b7132/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ebad6991c20d41dd9381a0f3b61b7132/view)

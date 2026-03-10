@@ -26,4 +26,4 @@ This solicitation is intended only for sources duly authorized to operate and do
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d0e86b375213498e99ef516fad475af0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d0e86b375213498e99ef516fad475af0/view)

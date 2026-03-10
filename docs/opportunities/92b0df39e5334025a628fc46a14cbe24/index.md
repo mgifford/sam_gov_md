@@ -28,4 +28,4 @@ Notice of Intent to Sole Source Notice ID: 75N98026Q00079 Agency: U.S. Departmen
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/92b0df39e5334025a628fc46a14cbe24/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/92b0df39e5334025a628fc46a14cbe24/view)

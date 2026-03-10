@@ -28,4 +28,4 @@ Naval Surface Warfare Center (NSWC) Crane has a requirement for services associa
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/635121c8b9df4a1aa2c118f758440953/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/635121c8b9df4a1aa2c118f758440953/view)

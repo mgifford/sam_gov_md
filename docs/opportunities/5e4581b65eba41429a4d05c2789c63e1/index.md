@@ -30,4 +30,4 @@ The Embassy of the United States in Barbados requires janitorial services. The a
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5e4581b65eba41429a4d05c2789c63e1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5e4581b65eba41429a4d05c2789c63e1/view)

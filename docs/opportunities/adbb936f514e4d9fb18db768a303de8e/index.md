@@ -25,4 +25,4 @@ Proposed procurement for NSN 3020010906213 GEAR,BEVEL: Line 0001 Qty 50 UI EA De
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/adbb936f514e4d9fb18db768a303de8e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/adbb936f514e4d9fb18db768a303de8e/view)

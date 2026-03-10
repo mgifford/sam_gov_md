@@ -26,4 +26,4 @@ ALT-9000 Radar Altimeter Test Set QTY 1 Please see attachement. Solicitation - W
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9229ebe7f0d84e82ab2035e7d0fb32bd/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9229ebe7f0d84e82ab2035e7d0fb32bd/view)

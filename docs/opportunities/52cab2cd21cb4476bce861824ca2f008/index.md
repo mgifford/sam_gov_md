@@ -29,4 +29,4 @@ See Advance Notice in PIEE for further details. Construct maintenance hangar at 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/52cab2cd21cb4476bce861824ca2f008/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/52cab2cd21cb4476bce861824ca2f008/view)

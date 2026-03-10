@@ -28,4 +28,4 @@ The U.S. Army Contracting Command - Rock Island, in support of Project Manager C
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/19753dadcd0b4f7ea64ad7fb31786ad0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/19753dadcd0b4f7ea64ad7fb31786ad0/view)

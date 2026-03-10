@@ -25,4 +25,4 @@ Proposed procurement for NSN 3010010904359 GEAR ASSEMBLY,SPEED: Line 0001 Qty 17
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8a8c5089832440c88647b6b3658db0d3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8a8c5089832440c88647b6b3658db0d3/view)

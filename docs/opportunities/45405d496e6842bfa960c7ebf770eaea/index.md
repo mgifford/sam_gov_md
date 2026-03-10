@@ -25,4 +25,4 @@ Proposed procurement for NSN 5985015718941 ANTENNA: Line 0001 Qty 182 UI EA Deli
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/45405d496e6842bfa960c7ebf770eaea/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/45405d496e6842bfa960c7ebf770eaea/view)

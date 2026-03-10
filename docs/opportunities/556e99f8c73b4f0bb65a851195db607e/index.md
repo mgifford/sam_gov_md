@@ -29,4 +29,4 @@ This RFQ is for Safety Stations in support of the Executive Office for Immigrati
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/556e99f8c73b4f0bb65a851195db607e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/556e99f8c73b4f0bb65a851195db607e/view)

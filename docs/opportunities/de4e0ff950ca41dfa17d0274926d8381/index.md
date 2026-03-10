@@ -29,4 +29,4 @@ Solicitation No: 36C26126Q0289 Posted to SAM.gov: 02/24/2026 Awardee: SENTEC, IN
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/de4e0ff950ca41dfa17d0274926d8381/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/de4e0ff950ca41dfa17d0274926d8381/view)

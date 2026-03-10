@@ -30,4 +30,4 @@ Solicitation questions and answers were uploaded to the attachments section. The
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/10db474a979f4146a1686418bc9be49b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/10db474a979f4146a1686418bc9be49b/view)

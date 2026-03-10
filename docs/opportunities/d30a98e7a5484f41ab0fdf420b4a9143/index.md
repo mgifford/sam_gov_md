@@ -27,4 +27,4 @@ Reference Laboratory testing services.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d30a98e7a5484f41ab0fdf420b4a9143/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d30a98e7a5484f41ab0fdf420b4a9143/view)

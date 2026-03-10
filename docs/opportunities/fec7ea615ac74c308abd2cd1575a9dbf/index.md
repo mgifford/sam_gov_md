@@ -30,4 +30,4 @@ SOURCES SOUGHT MARKET SURVEY W912HV-26-Z-0011 FY27 AFHC Renovate Tower B743 CZ C
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fec7ea615ac74c308abd2cd1575a9dbf/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fec7ea615ac74c308abd2cd1575a9dbf/view)

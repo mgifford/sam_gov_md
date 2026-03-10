@@ -30,4 +30,4 @@ Misawa AB, Japan is in need of Construction Escorts who are U.S. Citizens and ho
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/01f5ac12f5354fb8a574c5edd1cd1c5a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/01f5ac12f5354fb8a574c5edd1cd1c5a/view)

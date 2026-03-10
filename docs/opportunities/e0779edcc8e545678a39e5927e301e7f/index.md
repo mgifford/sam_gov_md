@@ -30,4 +30,4 @@ The Space Acquisition and Integration Office (SAIO), on behalf of the 21st Commu
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e0779edcc8e545678a39e5927e301e7f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e0779edcc8e545678a39e5927e301e7f/view)

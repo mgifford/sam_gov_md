@@ -26,4 +26,4 @@ Amendment 001 - The purpose of this amendment is to publish contractor questions
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/65d11d4755a54b58b58c31b84fe647a9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/65d11d4755a54b58b58c31b84fe647a9/view)

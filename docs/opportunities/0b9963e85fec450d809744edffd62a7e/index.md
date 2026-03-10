@@ -28,4 +28,4 @@ Amendment is attached.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0b9963e85fec450d809744edffd62a7e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0b9963e85fec450d809744edffd62a7e/view)

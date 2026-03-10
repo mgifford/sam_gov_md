@@ -25,4 +25,4 @@ Proposed procurement for NSN 4730012759585 ELBOW,PIPE: Line 0001 Qty 12 UI EA De
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6505a22bbbc54409bf57df8dff73e5e0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6505a22bbbc54409bf57df8dff73e5e0/view)

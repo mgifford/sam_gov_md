@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340013369365 HOLDER,SPRING: Line 0001 Qty 16 UI EA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/06e358231e5142648166e14981b96e3a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/06e358231e5142648166e14981b96e3a/view)

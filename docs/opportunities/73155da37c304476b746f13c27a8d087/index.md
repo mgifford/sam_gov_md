@@ -25,4 +25,4 @@ Proposed procurement for NSN 3020014616886 PULLEY,TIMING BELT: Line 0001 Qty 9 U
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/73155da37c304476b746f13c27a8d087/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/73155da37c304476b746f13c27a8d087/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 5330000582134 PACKING ASSORTMENT,: Line 0001 Qty 11
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4954056dff2842ebabd90599d5aa9128/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4954056dff2842ebabd90599d5aa9128/view)

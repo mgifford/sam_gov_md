@@ -26,4 +26,4 @@ Login at https://piee.eb.mil and search for 'N6449826Q5075' to obtain more detai
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e614fee782f24824ba8a5d28535128ea/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e614fee782f24824ba8a5d28535128ea/view)

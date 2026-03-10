@@ -27,4 +27,4 @@ The Fort Lee MA IDIQ was completed among HUBZone contractors to award firm fixed
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8fae67b2fcbb4df99ef5ff02daf4d19a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8fae67b2fcbb4df99ef5ff02daf4d19a/view)

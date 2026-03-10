@@ -55,4 +55,4 @@ CONTACT INFORMATION|4|N7M2.19|BSA|SEE EMAIL|LOGAN.W.MANN.CIV@US.NAVY.MIL| ITEM U
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/de2839a61b044339a1dfb24f8008ec04/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/de2839a61b044339a1dfb24f8008ec04/view)

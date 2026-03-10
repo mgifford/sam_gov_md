@@ -31,4 +31,4 @@ Amendment 0001 - This amendement includes vendor-submitted questions during the 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4de5cb7e8d8f40209bfa0191d7d29ada/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4de5cb7e8d8f40209bfa0191d7d29ada/view)

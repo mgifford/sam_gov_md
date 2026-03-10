@@ -30,4 +30,4 @@ This is a sole-source commodities contract to provide 100 David Clark Dichotic H
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/30be99ed1c6a43118a68f13e8f29a5dd/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/30be99ed1c6a43118a68f13e8f29a5dd/view)

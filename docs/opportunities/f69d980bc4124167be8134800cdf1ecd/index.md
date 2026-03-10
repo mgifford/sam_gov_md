@@ -25,4 +25,4 @@ Wednesday with the Deputy for Small Business is an opportunity for Industry part
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f69d980bc4124167be8134800cdf1ecd/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f69d980bc4124167be8134800cdf1ecd/view)

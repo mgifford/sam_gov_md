@@ -25,4 +25,4 @@ Proposed procurement for NSN 1560004423789 CLAMP RING,FUEL BOO: Line 0001 Qty 20
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8c0e66b4e5034a248b1a6b041496bd67/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8c0e66b4e5034a248b1a6b041496bd67/view)

@@ -30,4 +30,4 @@ Special Notice of Intent to Sole Source: The MCIEast Cherry Point Satellite Cont
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2f481a724b684bfea39195cb60f67f0a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2f481a724b684bfea39195cb60f67f0a/view)

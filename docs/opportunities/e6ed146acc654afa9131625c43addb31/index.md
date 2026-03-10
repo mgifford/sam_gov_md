@@ -26,4 +26,4 @@ Chamizal National Memorial to replace shade structures in picnic area
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e6ed146acc654afa9131625c43addb31/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e6ed146acc654afa9131625c43addb31/view)

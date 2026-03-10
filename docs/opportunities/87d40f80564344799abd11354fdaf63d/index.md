@@ -36,4 +36,4 @@ Amandment 1: Extended the solicitation period to 20 FEB, 2026. This allows for v
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/87d40f80564344799abd11354fdaf63d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/87d40f80564344799abd11354fdaf63d/view)

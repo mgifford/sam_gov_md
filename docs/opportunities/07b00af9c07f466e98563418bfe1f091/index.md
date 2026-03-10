@@ -26,4 +26,4 @@ Solicitation for FY26 CCSC INNER BASIN TO VIOLA MAINTENANCE DREDGING
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/07b00af9c07f466e98563418bfe1f091/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/07b00af9c07f466e98563418bfe1f091/view)

@@ -26,4 +26,4 @@ The United States Geological Survey (USGS) is seeking qualified firms capable of
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/59a60d9b7cc84a428ce9eda524fabca3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/59a60d9b7cc84a428ce9eda524fabca3/view)

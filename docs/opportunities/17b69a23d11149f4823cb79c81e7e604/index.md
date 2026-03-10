@@ -24,4 +24,4 @@ The purpose of the modification is to incorporate the following contractural cha
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/17b69a23d11149f4823cb79c81e7e604/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/17b69a23d11149f4823cb79c81e7e604/view)

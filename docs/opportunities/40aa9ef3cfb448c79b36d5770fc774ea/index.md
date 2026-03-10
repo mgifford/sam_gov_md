@@ -30,4 +30,4 @@ U.S. Embassy would like to procure the comprehensive training support service fo
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/40aa9ef3cfb448c79b36d5770fc774ea/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/40aa9ef3cfb448c79b36d5770fc774ea/view)

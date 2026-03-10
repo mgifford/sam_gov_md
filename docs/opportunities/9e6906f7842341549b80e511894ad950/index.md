@@ -35,4 +35,4 @@ This acquisition will result in the award of a performance based, Firm-Fixed Pri
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9e6906f7842341549b80e511894ad950/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9e6906f7842341549b80e511894ad950/view)

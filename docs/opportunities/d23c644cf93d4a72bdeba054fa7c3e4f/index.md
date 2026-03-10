@@ -25,4 +25,4 @@ Proposed procurement for NSN 5680011987955 GRID,SAND CONFINEME: Line 0001 Qty 25
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d23c644cf93d4a72bdeba054fa7c3e4f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d23c644cf93d4a72bdeba054fa7c3e4f/view)

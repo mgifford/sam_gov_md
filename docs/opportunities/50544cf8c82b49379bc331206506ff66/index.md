@@ -25,4 +25,4 @@ Proposed procurement for NSN 2940016707363 AIR CLEANER,INTAKE: Line 0001 Qty 283
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/50544cf8c82b49379bc331206506ff66/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/50544cf8c82b49379bc331206506ff66/view)

@@ -27,4 +27,4 @@ The Pension Benefit Guaranty Corporation (PBGC) intends to make a sole source br
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7e1bea8ae60e42beaa58be2116425be4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7e1bea8ae60e42beaa58be2116425be4/view)

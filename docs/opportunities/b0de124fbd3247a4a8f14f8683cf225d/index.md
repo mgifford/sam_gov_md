@@ -29,4 +29,4 @@ Request for Quote - N6883626QS0037 for Shear Maintenance in Gulfport, MS. This a
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b0de124fbd3247a4a8f14f8683cf225d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b0de124fbd3247a4a8f14f8683cf225d/view)

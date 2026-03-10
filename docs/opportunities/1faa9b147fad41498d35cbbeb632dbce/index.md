@@ -26,4 +26,4 @@ NSN: 2910011355681RP Qty: 11
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1faa9b147fad41498d35cbbeb632dbce/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1faa9b147fad41498d35cbbeb632dbce/view)

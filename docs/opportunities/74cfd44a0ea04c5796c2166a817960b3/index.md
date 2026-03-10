@@ -28,4 +28,4 @@ Ultra-Light Tactical Vehicle (ULTV) Production of Logistics (ULTV-L) and High-Po
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/74cfd44a0ea04c5796c2166a817960b3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/74cfd44a0ea04c5796c2166a817960b3/view)

@@ -28,4 +28,4 @@ Solicitation Amendment 1 extending response date to 3 Apr 2026.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7d311cb92d754e38b409ee20d8211c0c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7d311cb92d754e38b409ee20d8211c0c/view)

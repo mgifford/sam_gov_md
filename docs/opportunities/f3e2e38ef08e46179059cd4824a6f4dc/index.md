@@ -27,4 +27,4 @@ This is a combined synopsis/solicitation for commercial products or commercial s
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f3e2e38ef08e46179059cd4824a6f4dc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f3e2e38ef08e46179059cd4824a6f4dc/view)

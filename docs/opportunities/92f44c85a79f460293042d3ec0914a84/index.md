@@ -25,4 +25,4 @@ Proposed procurement for NSN 3990014181732 PALLET,MATERIAL STA: Line 0001 Qty 16
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/92f44c85a79f460293042d3ec0914a84/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/92f44c85a79f460293042d3ec0914a84/view)

@@ -26,4 +26,4 @@ Fort Bayard National Cemetery Grounds Maintenance -- S208 The Contractor shall p
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/94a722bccff543aba220f222f48b48e6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/94a722bccff543aba220f222f48b48e6/view)

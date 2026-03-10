@@ -30,4 +30,4 @@ RETROFIT OF EXISTING HANGAR. Category: Z ? Maintenance, Repair, Alteration of St
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4216cde98aa34024b13b12a1a264c3ff/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4216cde98aa34024b13b12a1a264c3ff/view)

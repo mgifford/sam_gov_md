@@ -28,4 +28,4 @@ CA SAN JOAQUIN RIV NWR HAZMAT INVEST
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6a1672d7a3ec47509378ecb13172b6f3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6a1672d7a3ec47509378ecb13172b6f3/view)

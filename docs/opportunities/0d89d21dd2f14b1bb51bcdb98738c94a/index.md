@@ -25,4 +25,4 @@ Proposed procurement for NSN 2040011349592 DIE,NON-ADJUSTABLE: Line 0001 Qty 105
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0d89d21dd2f14b1bb51bcdb98738c94a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0d89d21dd2f14b1bb51bcdb98738c94a/view)

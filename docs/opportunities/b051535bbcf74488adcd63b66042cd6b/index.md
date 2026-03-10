@@ -29,4 +29,4 @@ The Request for Proposal (RFP) provides parameters for a design-build project fo
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b051535bbcf74488adcd63b66042cd6b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b051535bbcf74488adcd63b66042cd6b/view)

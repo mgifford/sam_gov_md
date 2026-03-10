@@ -25,4 +25,4 @@ Proposed procurement for NSN 1680015993963 SEAT,AIRCRAFT: Line 0001 Qty 44 UI EA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/dde2ee9a53ba4822885e057e9081e2c5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/dde2ee9a53ba4822885e057e9081e2c5/view)

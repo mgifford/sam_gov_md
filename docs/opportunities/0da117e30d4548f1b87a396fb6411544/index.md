@@ -28,4 +28,4 @@ The Mission Installation and Contracting Command (MICC) ? Fort Gordon is conduct
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0da117e30d4548f1b87a396fb6411544/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0da117e30d4548f1b87a396fb6411544/view)

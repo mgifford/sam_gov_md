@@ -25,4 +25,4 @@ CLIN 0001: 4820-01-538-6178 VALVE, SAFETY RELIEF Approved Source(s) � NORTHROP
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1d870dfd8d6b49819ef302cc1c04df30/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1d870dfd8d6b49819ef302cc1c04df30/view)

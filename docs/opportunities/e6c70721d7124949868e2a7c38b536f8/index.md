@@ -39,4 +39,4 @@ March 9, 2026: The purpose of this RFP Amendment is as follows: A. Attachment 3,
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e6c70721d7124949868e2a7c38b536f8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e6c70721d7124949868e2a7c38b536f8/view)

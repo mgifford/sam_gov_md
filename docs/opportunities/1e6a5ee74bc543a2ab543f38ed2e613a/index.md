@@ -26,4 +26,4 @@ Sources Sought Notice ID: CL25328002 The Defense Logistics Agency (DLA) Weapons 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1e6a5ee74bc543a2ab543f38ed2e613a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1e6a5ee74bc543a2ab543f38ed2e613a/view)

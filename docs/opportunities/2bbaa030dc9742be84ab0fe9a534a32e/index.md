@@ -29,4 +29,4 @@ Please be advised that only the Multiple Award Construction Contract (MACC) Cont
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2bbaa030dc9742be84ab0fe9a534a32e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2bbaa030dc9742be84ab0fe9a534a32e/view)

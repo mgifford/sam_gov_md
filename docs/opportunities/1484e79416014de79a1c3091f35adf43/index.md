@@ -28,4 +28,4 @@ Update 3/6/2026: QA_03-06-2026.pdf posted to attachments. Invitation for Bids: W
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1484e79416014de79a1c3091f35adf43/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1484e79416014de79a1c3091f35adf43/view)

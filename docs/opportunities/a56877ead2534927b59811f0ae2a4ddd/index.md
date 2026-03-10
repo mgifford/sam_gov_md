@@ -25,4 +25,4 @@ The proposed contract action is for construction services for which the Governme
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a56877ead2534927b59811f0ae2a4ddd/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a56877ead2534927b59811f0ae2a4ddd/view)

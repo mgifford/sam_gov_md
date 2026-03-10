@@ -31,4 +31,4 @@ U.S. DEPARTMENT OF STATE BUREAU OF INTERNATIONAL NARCOTICS AND LAW ENFORCEMENT A
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/50ee1feeb91e46419ac9d5c96540aaaa/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/50ee1feeb91e46419ac9d5c96540aaaa/view)

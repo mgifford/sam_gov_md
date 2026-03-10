@@ -26,4 +26,4 @@ Container Assembly and Sealing Disk
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/43f24dab55114067906a974d74586b74/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/43f24dab55114067906a974d74586b74/view)

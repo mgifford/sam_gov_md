@@ -25,4 +25,4 @@ The Fleet Logistics Center Norfolk, Virginia is seeking information for planning
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/89a077edee8b4d36a2e88ce8ded10dfe/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/89a077edee8b4d36a2e88ce8ded10dfe/view)

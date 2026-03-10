@@ -29,4 +29,4 @@ The contractor shall provide Brief 101 modules, Introductory Concepts, Brief Map
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f9855ff8b2b64f3eb9d2b8be2c09e96f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f9855ff8b2b64f3eb9d2b8be2c09e96f/view)

@@ -26,4 +26,4 @@ Felt Spacers
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/734dc56f22a54abba181c66dda0392a8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/734dc56f22a54abba181c66dda0392a8/view)

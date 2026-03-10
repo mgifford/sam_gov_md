@@ -25,4 +25,4 @@ Proposed procurement for NSN 2510016776618 MODIFICATION KIT,VE: Line 0001 Qty 1 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/63b703d2f49349b390beb6cabf601cf4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/63b703d2f49349b390beb6cabf601cf4/view)

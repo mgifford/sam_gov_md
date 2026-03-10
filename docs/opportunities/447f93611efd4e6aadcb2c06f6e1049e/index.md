@@ -28,4 +28,4 @@ Attached is the synopsis/solicitation seeking the reglazing of atrium skylights 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/447f93611efd4e6aadcb2c06f6e1049e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/447f93611efd4e6aadcb2c06f6e1049e/view)

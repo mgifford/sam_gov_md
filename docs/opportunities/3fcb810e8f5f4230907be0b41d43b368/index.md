@@ -25,4 +25,4 @@ CONTACT INFORMATION|4|APBB.07|YZA|(445) 737-3576|KAILEIGH.BLAKER@DLA.MIL| ITEM U
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3fcb810e8f5f4230907be0b41d43b368/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3fcb810e8f5f4230907be0b41d43b368/view)

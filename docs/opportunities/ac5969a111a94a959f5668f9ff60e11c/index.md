@@ -28,4 +28,4 @@ Contract Award for Mowing Services for Fort Supply Lake, OK.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ac5969a111a94a959f5668f9ff60e11c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ac5969a111a94a959f5668f9ff60e11c/view)

@@ -26,4 +26,4 @@ Notice to Offeror(s)/Supplier(s): Funds are not presently available for this con
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0eb8718b95cf406cb6c1fcee0ab7962b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0eb8718b95cf406cb6c1fcee0ab7962b/view)

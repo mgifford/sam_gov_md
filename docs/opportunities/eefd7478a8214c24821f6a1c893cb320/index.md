@@ -26,4 +26,4 @@ Rehab Office Building - WV
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/eefd7478a8214c24821f6a1c893cb320/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/eefd7478a8214c24821f6a1c893cb320/view)

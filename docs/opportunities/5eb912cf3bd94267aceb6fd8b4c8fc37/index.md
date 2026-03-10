@@ -25,4 +25,4 @@ Proposed procurement for NSN 1560011828707 CAP ASSY: Line 0001 Qty 8 UI EA Deliv
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5eb912cf3bd94267aceb6fd8b4c8fc37/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5eb912cf3bd94267aceb6fd8b4c8fc37/view)

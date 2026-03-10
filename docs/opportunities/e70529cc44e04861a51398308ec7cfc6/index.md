@@ -33,4 +33,4 @@ Sources Sought Notice Sources Sought Notice Sources Sought Notice *= Required Fi
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e70529cc44e04861a51398308ec7cfc6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e70529cc44e04861a51398308ec7cfc6/view)

@@ -28,4 +28,4 @@ KS QUIVIRA NWR JANITORIAL SERVICES CONTRACT
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1cc2afb004654afd9ce0ce106c4565ad/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1cc2afb004654afd9ce0ce106c4565ad/view)

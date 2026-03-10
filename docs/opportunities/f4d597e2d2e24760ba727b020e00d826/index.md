@@ -28,4 +28,4 @@ Matthew Newell
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f4d597e2d2e24760ba727b020e00d826/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f4d597e2d2e24760ba727b020e00d826/view)

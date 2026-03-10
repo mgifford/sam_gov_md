@@ -26,4 +26,4 @@ The purpose of Amendment 1 is to extend the quotation due date to 3/12/2026.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a7cca79e42954f3693ffd06cc5e05708/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a7cca79e42954f3693ffd06cc5e05708/view)

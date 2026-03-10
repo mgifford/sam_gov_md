@@ -26,4 +26,4 @@ Project Locations/Directions: NM BL CRUC 4101(1) Aguirre Spring Road The work is
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/26fc83ed471e489f97b093f283d2509d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/26fc83ed471e489f97b093f283d2509d/view)

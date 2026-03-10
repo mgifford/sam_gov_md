@@ -28,4 +28,4 @@ Uninterruptible Power Supply (UPS) / Power Distribution Unit (PDU) Maintenance a
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6352e3133e2a4b5d8f9b5ebc4dac4cf5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6352e3133e2a4b5d8f9b5ebc4dac4cf5/view)

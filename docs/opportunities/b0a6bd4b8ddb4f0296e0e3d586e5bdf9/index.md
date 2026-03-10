@@ -25,4 +25,4 @@ Proposed procurement for NSN 2040009125769 DOOR,METAL,MARINE S: Line 0001 Qty 6 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b0a6bd4b8ddb4f0296e0e3d586e5bdf9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b0a6bd4b8ddb4f0296e0e3d586e5bdf9/view)

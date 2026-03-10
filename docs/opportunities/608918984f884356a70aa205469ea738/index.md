@@ -25,4 +25,4 @@ Proposed procurement for NSN 5306004457358 BOLT,EXTERNALLY REL: Line 0001 Qty 22
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/608918984f884356a70aa205469ea738/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/608918984f884356a70aa205469ea738/view)

@@ -25,4 +25,4 @@ Solid Waste Removal and Disposal Services, Table Rock Lake Project Set Aside, NA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b49653fd817443d1a5755a7b16eaa827/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b49653fd817443d1a5755a7b16eaa827/view)

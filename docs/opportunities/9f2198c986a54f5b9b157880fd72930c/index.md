@@ -26,4 +26,4 @@ Furnish all necessary labor, equipment, tools, materials, repair service, softwa
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9f2198c986a54f5b9b157880fd72930c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9f2198c986a54f5b9b157880fd72930c/view)

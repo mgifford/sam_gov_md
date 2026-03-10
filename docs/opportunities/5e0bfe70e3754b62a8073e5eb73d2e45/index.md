@@ -34,4 +34,4 @@ The Mission and Installation Contracting Command (MICC), Fort Lee is issuing a S
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5e0bfe70e3754b62a8073e5eb73d2e45/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5e0bfe70e3754b62a8073e5eb73d2e45/view)

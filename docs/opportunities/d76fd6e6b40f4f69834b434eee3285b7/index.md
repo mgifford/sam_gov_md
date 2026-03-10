@@ -25,4 +25,4 @@ Proposed procurement for NSN 6220016458829 LIGHT,LANDING,AIRCR: Line 0001 Qty 2 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d76fd6e6b40f4f69834b434eee3285b7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d76fd6e6b40f4f69834b434eee3285b7/view)

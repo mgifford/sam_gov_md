@@ -28,4 +28,4 @@ New Dental Water testing OKCVAMC IDIQ 5 Ordering Periods POP (03/06/2026 - 02/28
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/71add0171598407fb9e22ec4a765ead7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/71add0171598407fb9e22ec4a765ead7/view)

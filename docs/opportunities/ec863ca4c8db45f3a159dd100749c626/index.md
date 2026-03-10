@@ -25,4 +25,4 @@ Proposed procurement for NSN 2920002916518 PARTS KIT,STARTER,F: Line 0001 Qty 70
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ec863ca4c8db45f3a159dd100749c626/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ec863ca4c8db45f3a159dd100749c626/view)

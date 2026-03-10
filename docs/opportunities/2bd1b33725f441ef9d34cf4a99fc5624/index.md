@@ -25,4 +25,4 @@ The subject solicitation is cancelled. There is no intent to re-solicit. The Gov
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2bd1b33725f441ef9d34cf4a99fc5624/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2bd1b33725f441ef9d34cf4a99fc5624/view)

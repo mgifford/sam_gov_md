@@ -26,4 +26,4 @@ Skid Steer for Kasitsna Bay Laboratory in Seldovia, AK
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8c7ff8b576be490fb539eb790c8ab325/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8c7ff8b576be490fb539eb790c8ab325/view)

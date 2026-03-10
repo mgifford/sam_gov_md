@@ -26,4 +26,4 @@ WAREHOUSE OVERHEAD DOORS FOR LOCATIONS IN PLATTE AND NATRONA COUNTIES.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/06c29004a25843eb93a9d5e82c404428/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/06c29004a25843eb93a9d5e82c404428/view)

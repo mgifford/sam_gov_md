@@ -25,4 +25,4 @@ Proposed procurement for NSN 3010015403812 TORQUE LIMITER ASSE: Line 0001 Qty 39
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/797b007efb8b44a0a7604d7fbbbb2c9a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/797b007efb8b44a0a7604d7fbbbb2c9a/view)

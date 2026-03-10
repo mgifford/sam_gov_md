@@ -32,4 +32,4 @@ THIS SOLICITATION NOTIFICATION OF THE GOVERNMENT'S INTENT TO AWARD A SOLE SOURCE
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/caef15b2b4d3443c9c6ebb18fc8403c3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/caef15b2b4d3443c9c6ebb18fc8403c3/view)

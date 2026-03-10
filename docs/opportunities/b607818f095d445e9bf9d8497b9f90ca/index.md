@@ -28,4 +28,4 @@ MI SENEY NWR INTERPRETIVE PANELS AND KIOSK BASES
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b607818f095d445e9bf9d8497b9f90ca/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b607818f095d445e9bf9d8497b9f90ca/view)

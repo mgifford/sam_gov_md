@@ -25,4 +25,4 @@ The U.S. Government currently occupies general office and related space under le
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/000e6a5bf21c42f4a4e93201d9d168e0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/000e6a5bf21c42f4a4e93201d9d168e0/view)

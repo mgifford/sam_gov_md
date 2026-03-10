@@ -34,4 +34,4 @@ A00001 - This is to advise that solicitation 70Z03826QJ0000106 has been extended
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/55ef5674850c4fc489ec62d4afbaacc8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/55ef5674850c4fc489ec62d4afbaacc8/view)

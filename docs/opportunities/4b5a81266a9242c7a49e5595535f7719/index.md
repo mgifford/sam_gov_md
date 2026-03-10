@@ -26,4 +26,4 @@ Statement of Requirement This contract is to provide services for planting gover
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4b5a81266a9242c7a49e5595535f7719/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4b5a81266a9242c7a49e5595535f7719/view)

@@ -30,4 +30,4 @@ The project is to construct an aircraft parking apron with associated taxiways a
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ce673d0b3ddf40e7b96fb6b6a01497b1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ce673d0b3ddf40e7b96fb6b6a01497b1/view)

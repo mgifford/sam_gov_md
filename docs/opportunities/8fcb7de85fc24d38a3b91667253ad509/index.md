@@ -28,4 +28,4 @@ NPS FY 26-1 AMMO - HORN FBI 9MM
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8fcb7de85fc24d38a3b91667253ad509/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8fcb7de85fc24d38a3b91667253ad509/view)

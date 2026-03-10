@@ -30,4 +30,4 @@ Please see attached document. Brand Name: ALWAYS ON UPS SYSTEMS CANADA INC
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a5dec6c4008f4b3db39c914acb403572/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a5dec6c4008f4b3db39c914acb403572/view)

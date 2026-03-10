@@ -26,4 +26,4 @@ This is a test.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e205d9dca54647db855c194060878c7b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e205d9dca54647db855c194060878c7b/view)

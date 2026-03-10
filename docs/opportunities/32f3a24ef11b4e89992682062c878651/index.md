@@ -28,4 +28,4 @@ DINO 310253 - TITLE III SERVICES DURING
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/32f3a24ef11b4e89992682062c878651/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/32f3a24ef11b4e89992682062c878651/view)

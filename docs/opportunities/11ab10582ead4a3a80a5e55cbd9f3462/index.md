@@ -25,4 +25,4 @@ Proposed procurement for NSN 4520015244261 HEATING ELEMENT,ELE: Line 0001 Qty 8 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/11ab10582ead4a3a80a5e55cbd9f3462/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/11ab10582ead4a3a80a5e55cbd9f3462/view)

@@ -26,4 +26,4 @@ The work for this project will construct (design-bid-build (DBB)) a two-story Ba
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d02753031c8d4f73b96054f740ff1002/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d02753031c8d4f73b96054f740ff1002/view)

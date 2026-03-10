@@ -36,4 +36,4 @@ This is a Sources Sought notice only. This is not a request for proposals and do
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/26115000f12c441ebce129c91ee9e1ff/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/26115000f12c441ebce129c91ee9e1ff/view)

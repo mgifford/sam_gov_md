@@ -25,4 +25,4 @@ Proposed procurement for NSN 1005016560421 CHARGING TRIGGER AY: Line 0001 Qty 62
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fdeeca96604a41ab995c78a29dae6851/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fdeeca96604a41ab995c78a29dae6851/view)

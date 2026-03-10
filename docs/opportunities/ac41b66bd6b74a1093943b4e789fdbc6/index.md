@@ -26,4 +26,4 @@ AMENDMENT 0003 The purpose of this amendment is to change the response due date 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ac41b66bd6b74a1093943b4e789fdbc6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ac41b66bd6b74a1093943b4e789fdbc6/view)

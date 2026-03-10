@@ -25,4 +25,4 @@ Proposed procurement for NSN 2995011617441 HOUSING ASSEMBLY,BL: Line 0001 Qty 13
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5d1d46ce4e424369b97a69bc6b7c956e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5d1d46ce4e424369b97a69bc6b7c956e/view)

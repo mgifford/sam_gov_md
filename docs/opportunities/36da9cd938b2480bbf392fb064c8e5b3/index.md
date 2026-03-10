@@ -25,4 +25,4 @@ AFD Visitor Center Remodel 1240LU26Q0022 Project Location: Missoula, Montana All
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/36da9cd938b2480bbf392fb064c8e5b3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/36da9cd938b2480bbf392fb064c8e5b3/view)

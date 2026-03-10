@@ -25,4 +25,4 @@ Proposed procurement for NSN 4930015675426 PARTS KIT,REEL ASSE: Line 0001 Qty 52
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/53127dbedd9045d18207601d720a3f5a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/53127dbedd9045d18207601d720a3f5a/view)

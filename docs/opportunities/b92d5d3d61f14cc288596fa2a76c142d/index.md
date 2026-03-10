@@ -25,4 +25,4 @@ Proposed procurement for NSN 2930014730595 CLUTCH,FAN,ENGINE: Line 0001 Qty 49 U
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b92d5d3d61f14cc288596fa2a76c142d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b92d5d3d61f14cc288596fa2a76c142d/view)

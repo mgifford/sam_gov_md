@@ -32,4 +32,4 @@ MEDICAL EDUCATION AND TRAINING CAMPUS DORM 1. See attachment for details.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/07b1787ecd184dbcbbe6d615d3047fca/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/07b1787ecd184dbcbbe6d615d3047fca/view)

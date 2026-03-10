@@ -26,4 +26,4 @@ Sources are being sought to determine if there are manufacturers/contractors ava
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9773f8f9747e4d6aaa948048d0e0eb5a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9773f8f9747e4d6aaa948048d0e0eb5a/view)

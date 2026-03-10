@@ -25,4 +25,4 @@ The requirement is for manufacturer-authorized service and maintenance of an exi
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/81deae9f27a24cfb978810ce6364724a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/81deae9f27a24cfb978810ce6364724a/view)

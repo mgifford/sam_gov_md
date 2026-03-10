@@ -25,4 +25,4 @@ Proposed procurement for NSN 2530012953113 PARTS KIT,TRACK END: Line 0001 Qty 10
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/699f500c4f49466d87261e9888bb2e3d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/699f500c4f49466d87261e9888bb2e3d/view)

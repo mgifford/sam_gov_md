@@ -26,4 +26,4 @@ DLA Maritime Mechanicsburg is seeking sources capable of supplying the following
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/63873492cc6d488f9a6e6054f34b6f63/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/63873492cc6d488f9a6e6054f34b6f63/view)

@@ -28,4 +28,4 @@ Award Notice: MTP DRIVETRAIN SERVICES, L.L.C. AXLE ASSEMBLY, AUTOMOTIVE NSN: 252
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/015a14a1c1344c1bba498e81ce54b823/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/015a14a1c1344c1bba498e81ce54b823/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 3120014973477 BEARING,SLEEVE: Line 0001 Qty 2 UI EA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/71d9339be80b425faad09581123ad707/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/71d9339be80b425faad09581123ad707/view)

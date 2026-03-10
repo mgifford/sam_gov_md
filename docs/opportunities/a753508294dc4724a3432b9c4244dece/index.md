@@ -26,4 +26,4 @@ Amended to include Set aside code. BBA Broadband amplifier system. R and S, High
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a753508294dc4724a3432b9c4244dece/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a753508294dc4724a3432b9c4244dece/view)

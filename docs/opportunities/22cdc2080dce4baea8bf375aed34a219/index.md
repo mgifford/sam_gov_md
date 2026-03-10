@@ -28,4 +28,4 @@ The Mission and Installation Contracting Command – Fort Jackson, SC has a requ
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/22cdc2080dce4baea8bf375aed34a219/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/22cdc2080dce4baea8bf375aed34a219/view)

@@ -62,4 +62,4 @@ CONTACT INFORMATION|4|N744.17|BL6|771-229-2110|stephen.a.knox.mil@us.navy.mil| I
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d08088a237f0426e833700a1fd63dda3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d08088a237f0426e833700a1fd63dda3/view)

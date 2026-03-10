@@ -26,4 +26,4 @@ The purpose of this contract is to assist the U.S. Army Corps of Engineers (USAC
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6f880dfcae484425aedeb58d79ab9d5e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6f880dfcae484425aedeb58d79ab9d5e/view)

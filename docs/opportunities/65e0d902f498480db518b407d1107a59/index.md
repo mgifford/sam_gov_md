@@ -25,4 +25,4 @@ Proposed procurement for NSN 5307016990744 STUD,CONTINUOUS THR: Line 0001 Qty 25
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/65e0d902f498480db518b407d1107a59/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/65e0d902f498480db518b407d1107a59/view)

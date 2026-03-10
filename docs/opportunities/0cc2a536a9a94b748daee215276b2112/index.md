@@ -25,4 +25,4 @@ Proposed procurement for NSN 2530007307621 BRAKE,SHOE TYPE: Line 0001 Qty 113 UI
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0cc2a536a9a94b748daee215276b2112/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0cc2a536a9a94b748daee215276b2112/view)

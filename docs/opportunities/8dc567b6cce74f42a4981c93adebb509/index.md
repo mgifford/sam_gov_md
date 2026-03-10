@@ -25,4 +25,4 @@ NSN 7R-6650-016076891-SX, REF NR 815430-320, QTY 24 EA, DELIVERY FOB ORIGIN. Thi
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8dc567b6cce74f42a4981c93adebb509/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8dc567b6cce74f42a4981c93adebb509/view)

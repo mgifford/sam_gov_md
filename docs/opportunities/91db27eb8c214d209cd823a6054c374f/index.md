@@ -30,4 +30,4 @@ Only Roofing MACC Contractors listed on the General Requirements cover page may 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/91db27eb8c214d209cd823a6054c374f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/91db27eb8c214d209cd823a6054c374f/view)

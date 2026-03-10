@@ -27,4 +27,4 @@ RELAY
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a0a8764196e6494a90d30c752cfd3bea/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a0a8764196e6494a90d30c752cfd3bea/view)

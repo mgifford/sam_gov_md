@@ -34,4 +34,4 @@ A00001 - The response date for this contract opportunity has been extended until
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/50e07b5c2678467ebe0f645ae0b8aa2d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/50e07b5c2678467ebe0f645ae0b8aa2d/view)

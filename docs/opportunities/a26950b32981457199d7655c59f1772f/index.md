@@ -25,4 +25,4 @@ See attached solicitation and drawings. See Addendum to Instructions to Offerors
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a26950b32981457199d7655c59f1772f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a26950b32981457199d7655c59f1772f/view)

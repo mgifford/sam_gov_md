@@ -25,4 +25,4 @@ Proposed procurement for NSN 4820004760402 VALVE,START NOZZLE: Line 0001 Qty 50 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f05ee40e8a3a48c9905a19b7451d8499/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f05ee40e8a3a48c9905a19b7451d8499/view)

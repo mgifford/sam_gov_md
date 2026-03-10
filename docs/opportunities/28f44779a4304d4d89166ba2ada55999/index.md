@@ -27,4 +27,4 @@ The Federal Aviation Administration (FAA) has a requirement for air traffic cont
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/28f44779a4304d4d89166ba2ada55999/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/28f44779a4304d4d89166ba2ada55999/view)

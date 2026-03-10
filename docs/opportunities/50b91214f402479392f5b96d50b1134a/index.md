@@ -25,4 +25,4 @@ Catering Solicitation No. 693JK426R500001
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/50b91214f402479392f5b96d50b1134a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/50b91214f402479392f5b96d50b1134a/view)

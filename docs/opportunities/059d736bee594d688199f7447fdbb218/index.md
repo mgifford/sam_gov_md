@@ -26,4 +26,4 @@ Please see the RFQ N6523626QE128 AND RFQ N6523626QE128 Attachments: To be consid
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/059d736bee594d688199f7447fdbb218/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/059d736bee594d688199f7447fdbb218/view)

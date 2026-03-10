@@ -28,4 +28,4 @@ The Minneapolis VA Health Care System requires a pharmacy package/dose packaging
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/dc5c67f611b448088018e48eb21b2d79/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/dc5c67f611b448088018e48eb21b2d79/view)

@@ -32,4 +32,4 @@ Award notice to Solicitation 15BFA024R00000021.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c04d36ddc16744f49250fa1116c86e20/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c04d36ddc16744f49250fa1116c86e20/view)

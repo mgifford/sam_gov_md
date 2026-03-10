@@ -26,4 +26,4 @@ Login at https://piee.eb.mil and search for 'N4008526R0113' to obtain more detai
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3440d2f7edcc4cc7858ad1c0b313e00d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3440d2f7edcc4cc7858ad1c0b313e00d/view)

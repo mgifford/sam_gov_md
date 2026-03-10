@@ -25,4 +25,4 @@ Proposed procurement for NSN 4520014932804 SHC COMBUSTION BLOW: Line 0001 Qty 17
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ec8f93a894fd47feb216a54ffe273acd/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ec8f93a894fd47feb216a54ffe273acd/view)

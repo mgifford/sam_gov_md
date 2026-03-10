@@ -29,4 +29,4 @@ Sole source solicitation for the manufacture of the weapons bay door for the B-2
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/170e48d9d7ca41a78b5972ea82ed3128/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/170e48d9d7ca41a78b5972ea82ed3128/view)

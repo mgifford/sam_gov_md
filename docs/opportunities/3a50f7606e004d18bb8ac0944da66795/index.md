@@ -25,4 +25,4 @@ The subject requirement is for the acquisition of NSNs 5330-01-660-7189 plain en
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3a50f7606e004d18bb8ac0944da66795/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3a50f7606e004d18bb8ac0944da66795/view)

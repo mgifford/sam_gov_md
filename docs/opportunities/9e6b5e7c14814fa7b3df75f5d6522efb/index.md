@@ -25,4 +25,4 @@ Proposed procurement for NSN 2990012590589 HOUSING,OIL PUMP AS: Line 0001 Qty 4 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9e6b5e7c14814fa7b3df75f5d6522efb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9e6b5e7c14814fa7b3df75f5d6522efb/view)

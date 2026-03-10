@@ -28,4 +28,4 @@ The purpose of this requirement is to provide contract Engineering Support for t
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/59735c75500b4d38ae59c62084f4e0cf/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/59735c75500b4d38ae59c62084f4e0cf/view)

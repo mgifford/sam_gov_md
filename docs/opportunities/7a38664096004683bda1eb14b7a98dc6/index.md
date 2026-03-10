@@ -30,4 +30,4 @@ This is the U.S. Embassy Riga Pre-Solicitation Notice only. Contractors are requ
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7a38664096004683bda1eb14b7a98dc6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7a38664096004683bda1eb14b7a98dc6/view)

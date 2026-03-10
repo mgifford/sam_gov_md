@@ -25,4 +25,4 @@ The United States Special Operations Command (USSOCOM) is hosting a Virtual Smal
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/22a685377b064cf9831448af8c2b0ab6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/22a685377b064cf9831448af8c2b0ab6/view)

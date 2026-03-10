@@ -28,4 +28,4 @@ Amendment 0001
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/012ecb1de2f2441fb8371de621302bb0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/012ecb1de2f2441fb8371de621302bb0/view)

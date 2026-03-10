@@ -26,4 +26,4 @@ THIS IS NOT A REQUEST FOR PROPOSAL. NO PROPOSALS ARE TO BE SUBMITTED IN RESPONSE
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8e17e583381f4a94bd2019faff448f42/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8e17e583381f4a94bd2019faff448f42/view)

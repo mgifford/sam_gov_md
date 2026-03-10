@@ -36,4 +36,4 @@ SCOPE OF WORK U. S. COAST GUARD CUTTER GEORGE COBB NAVSEA Doors and Scuttles. SE
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b4d984aa5a6140049a8b3386a1b46b5e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b4d984aa5a6140049a8b3386a1b46b5e/view)

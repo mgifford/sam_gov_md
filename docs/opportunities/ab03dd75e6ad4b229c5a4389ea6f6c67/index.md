@@ -25,4 +25,4 @@ Proposed procurement for NSN 2540016763774 RADIATOR,VEHICULAR: Line 0001 Qty 5 U
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ab03dd75e6ad4b229c5a4389ea6f6c67/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ab03dd75e6ad4b229c5a4389ea6f6c67/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 6210013040089 LIGHT ASSEMBLY,INDI: Line 0001 Qty 68
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/53d7f6ac1d664beaa93a81261d6fed2d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/53d7f6ac1d664beaa93a81261d6fed2d/view)

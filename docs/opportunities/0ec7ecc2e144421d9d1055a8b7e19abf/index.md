@@ -28,4 +28,4 @@ Modification 7 This modification 7 is to notify industry of Data Drop 5 (Control
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0ec7ecc2e144421d9d1055a8b7e19abf/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0ec7ecc2e144421d9d1055a8b7e19abf/view)

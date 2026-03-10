@@ -25,4 +25,4 @@ Proposed procurement for NSN 5935010614628 COVER,ELECTRICAL CO: Line 0001 Qty 43
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ed28a59d63774bdcb948402e11f0b83e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ed28a59d63774bdcb948402e11f0b83e/view)

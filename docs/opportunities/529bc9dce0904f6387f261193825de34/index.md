@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340011481640 GRIP,HANDLE: Line 0001 Qty 20 UI EA D
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/529bc9dce0904f6387f261193825de34/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/529bc9dce0904f6387f261193825de34/view)

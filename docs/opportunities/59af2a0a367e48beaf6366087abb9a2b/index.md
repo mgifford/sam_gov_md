@@ -25,4 +25,4 @@ Description: Solicitation# SPE7M5-26-R-0010 Purchase Requisition#: 7013009345 NS
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/59af2a0a367e48beaf6366087abb9a2b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/59af2a0a367e48beaf6366087abb9a2b/view)

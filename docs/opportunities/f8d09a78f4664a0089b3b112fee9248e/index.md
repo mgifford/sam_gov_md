@@ -26,4 +26,4 @@ FOOD: OILS/FATS FOR AFS/GALENA DINING H
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f8d09a78f4664a0089b3b112fee9248e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f8d09a78f4664a0089b3b112fee9248e/view)

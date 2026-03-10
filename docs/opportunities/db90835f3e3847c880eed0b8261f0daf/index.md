@@ -25,4 +25,4 @@ Proposed procurement for NSN 3040015816598 CONTROL ASSEMBLY,PU: Line 0001 Qty 7 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/db90835f3e3847c880eed0b8261f0daf/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/db90835f3e3847c880eed0b8261f0daf/view)

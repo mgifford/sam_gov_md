@@ -28,4 +28,4 @@ The U.S. Army Corps of Engineers, Jacksonville District is issuing this sources 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/70b387aa39b54196a3d321dc433e9693/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/70b387aa39b54196a3d321dc433e9693/view)

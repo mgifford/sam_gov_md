@@ -30,4 +30,4 @@ The Federal Bureau of Prisons, Federal Correctional Complex, Petersburg, Virgini
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/aab484a1344b4bcd8956fe690aaafad5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/aab484a1344b4bcd8956fe690aaafad5/view)

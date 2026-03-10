@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340012097841 HANDLE,EXTENSION: Line 0001 Qty 516 U
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/da28ae2f8e5c4eacb42c450077fb30a0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/da28ae2f8e5c4eacb42c450077fb30a0/view)

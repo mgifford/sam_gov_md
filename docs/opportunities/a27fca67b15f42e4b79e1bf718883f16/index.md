@@ -28,4 +28,4 @@ The Minneapolis VA Healthcare System requires Catholic chaplain services in acco
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a27fca67b15f42e4b79e1bf718883f16/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a27fca67b15f42e4b79e1bf718883f16/view)

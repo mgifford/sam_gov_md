@@ -31,4 +31,4 @@ ITEM UNIQUE IDENTIFICATION AND VALUATION (JAN 2023)|19|N741.3|||||||||||||||||||
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f24de16e4e8c4ffbbac9de6a786b7630/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f24de16e4e8c4ffbbac9de6a786b7630/view)

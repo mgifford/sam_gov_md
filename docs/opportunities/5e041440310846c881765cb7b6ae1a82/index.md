@@ -28,4 +28,4 @@ Department of Veterans Affairs intends to issue a sole source delivery award to 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5e041440310846c881765cb7b6ae1a82/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5e041440310846c881765cb7b6ae1a82/view)

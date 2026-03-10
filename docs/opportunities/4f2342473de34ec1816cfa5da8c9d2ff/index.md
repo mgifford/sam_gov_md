@@ -32,4 +32,4 @@ SEE ATTACHMENT FOR QUESTIONS AND ANSWERS ADDED. ********************************
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4f2342473de34ec1816cfa5da8c9d2ff/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4f2342473de34ec1816cfa5da8c9d2ff/view)

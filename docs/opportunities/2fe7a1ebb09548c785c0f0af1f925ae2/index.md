@@ -30,4 +30,4 @@ The Federal Deposit Insurance Corporation (FDIC) invites vendors to submit a quo
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2fe7a1ebb09548c785c0f0af1f925ae2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2fe7a1ebb09548c785c0f0af1f925ae2/view)

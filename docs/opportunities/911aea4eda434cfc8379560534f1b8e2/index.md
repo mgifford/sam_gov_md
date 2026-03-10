@@ -25,4 +25,4 @@ Proposed procurement for NSN 4820002768968 VALVE,REGULATING,TE: Line 0001 Qty 12
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/911aea4eda434cfc8379560534f1b8e2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/911aea4eda434cfc8379560534f1b8e2/view)

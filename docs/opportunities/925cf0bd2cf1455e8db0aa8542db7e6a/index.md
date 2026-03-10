@@ -26,4 +26,4 @@ WA-Jim Creek Recreation Area Interpretive Concept Plan
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/925cf0bd2cf1455e8db0aa8542db7e6a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/925cf0bd2cf1455e8db0aa8542db7e6a/view)

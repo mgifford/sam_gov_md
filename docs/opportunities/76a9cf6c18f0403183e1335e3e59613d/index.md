@@ -28,4 +28,4 @@ NASA/Johnson Space Center is issuing a Request for Proposal (RFP) for the Johnso
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/76a9cf6c18f0403183e1335e3e59613d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/76a9cf6c18f0403183e1335e3e59613d/view)

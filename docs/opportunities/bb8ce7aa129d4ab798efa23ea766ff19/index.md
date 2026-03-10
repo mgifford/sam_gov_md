@@ -28,4 +28,4 @@ NAVSUP Fleet Logistics Center Puget Sound, in support CFAY Port Operationss, is 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bb8ce7aa129d4ab798efa23ea766ff19/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bb8ce7aa129d4ab798efa23ea766ff19/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 2915006543705 BODY ASSEMBLY,FUEL: Line 0001 Qty 11 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/254d3a33b0c04945baac2416aa9de4fb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/254d3a33b0c04945baac2416aa9de4fb/view)

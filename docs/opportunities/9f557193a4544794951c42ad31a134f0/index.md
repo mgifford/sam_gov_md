@@ -25,4 +25,4 @@ Proposed procurement for NSN 4440013106604 CARTRIDGE,DEHYDRATO: Line 0001 Qty 22
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9f557193a4544794951c42ad31a134f0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9f557193a4544794951c42ad31a134f0/view)

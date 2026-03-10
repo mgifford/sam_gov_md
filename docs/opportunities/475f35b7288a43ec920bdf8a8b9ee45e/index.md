@@ -34,4 +34,4 @@ The U.S. Army Corps of Engineers, Nashville District awarded a firm fixed-price 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/475f35b7288a43ec920bdf8a8b9ee45e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/475f35b7288a43ec920bdf8a8b9ee45e/view)

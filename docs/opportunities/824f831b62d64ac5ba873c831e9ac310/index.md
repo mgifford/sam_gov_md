@@ -26,4 +26,4 @@ CANAL MODEL INSTRUMENTS
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/824f831b62d64ac5ba873c831e9ac310/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/824f831b62d64ac5ba873c831e9ac310/view)

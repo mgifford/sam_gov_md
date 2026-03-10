@@ -32,4 +32,4 @@ A00005 - Solicitation 70Z03825RJ0000006 has been amended to incorporate the chan
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/16bd52403a7f4aac8723e15cc79539f5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/16bd52403a7f4aac8723e15cc79539f5/view)

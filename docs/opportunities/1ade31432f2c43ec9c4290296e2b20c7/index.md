@@ -28,4 +28,4 @@ The purpose of the acquisition is to execute a six-month follow-on contract to p
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1ade31432f2c43ec9c4290296e2b20c7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1ade31432f2c43ec9c4290296e2b20c7/view)

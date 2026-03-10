@@ -31,4 +31,4 @@ CONTACT INFORMATION|4|N744.24|BLB|771-229-0476|HEATHER.R.JONES52.CIV@US.NAVY.MIL
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3cd780bfe3d54aacbd550335942e6a99/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3cd780bfe3d54aacbd550335942e6a99/view)

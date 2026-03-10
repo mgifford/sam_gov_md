@@ -25,4 +25,4 @@ CONTACT INFORMATION|4|N723.13|B5H|215-697-2974|natalie.toroni.civ@us.navy.mil| I
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/deda8659b3e844f98aa200a63a29ac98/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/deda8659b3e844f98aa200a63a29ac98/view)

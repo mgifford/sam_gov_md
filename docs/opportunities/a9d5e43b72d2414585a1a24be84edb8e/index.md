@@ -26,4 +26,4 @@ Hill AFB has a requirement for the following: Nomenclature: Housing, motor, asse
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a9d5e43b72d2414585a1a24be84edb8e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a9d5e43b72d2414585a1a24be84edb8e/view)

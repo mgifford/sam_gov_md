@@ -28,4 +28,4 @@ MONTHLY IV ROOM CLEANING
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/068f4a70762d4f0c97a55ba5a1fd06c3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/068f4a70762d4f0c97a55ba5a1fd06c3/view)

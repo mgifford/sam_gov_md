@@ -32,4 +32,4 @@ THIS IS A SOURCES SOUGHT NOTICE. THIS NOTICE IS ISSUED FOR MARKET RESEARCH PURPO
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f18a9620a84541c597d90fadbddb069e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f18a9620a84541c597d90fadbddb069e/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 3020010836974 GEAR,INTERNAL: Line 0001 Qty 3 UI EA 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b628f51aed3d4759902899ff5d3b97d1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b628f51aed3d4759902899ff5d3b97d1/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 3110009232565 BEARING, ROLLER, CYLIN: Line 0001 Qty
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0c1183ff789445e787e4c24fa794240e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0c1183ff789445e787e4c24fa794240e/view)

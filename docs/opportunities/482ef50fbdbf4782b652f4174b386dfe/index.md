@@ -25,4 +25,4 @@ Solicitation N0042126P1062 is issued as an intent to sole source. The Government
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/482ef50fbdbf4782b652f4174b386dfe/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/482ef50fbdbf4782b652f4174b386dfe/view)
