@@ -34,4 +34,4 @@ PLEASE NOTE: THE INFORMATION PROVIDED BELOW IS A SUMMARY ONLY. FOR THE COMPLETE 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/40c14cc79d4f4f87a152468bcd3f2615/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/40c14cc79d4f4f87a152468bcd3f2615/view)

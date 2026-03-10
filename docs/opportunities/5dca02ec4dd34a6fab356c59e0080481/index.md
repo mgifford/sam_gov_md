@@ -25,4 +25,4 @@ Proposed procurement for NSN 5977011146652 BRUSH SET,ELECTRICA: Line 0001 Qty 17
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5dca02ec4dd34a6fab356c59e0080481/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5dca02ec4dd34a6fab356c59e0080481/view)

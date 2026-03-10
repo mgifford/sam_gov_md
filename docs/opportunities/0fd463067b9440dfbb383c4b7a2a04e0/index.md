@@ -25,4 +25,4 @@ Proposed procurement for NSN 5180015485086 TOOL KIT,AIRCRAFT M: Line 0001 Qty 2 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0fd463067b9440dfbb383c4b7a2a04e0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0fd463067b9440dfbb383c4b7a2a04e0/view)

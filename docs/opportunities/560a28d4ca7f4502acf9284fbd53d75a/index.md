@@ -28,4 +28,4 @@ The VA Office of Information Technology (OIT), End User Services (EUS), Space an
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/560a28d4ca7f4502acf9284fbd53d75a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/560a28d4ca7f4502acf9284fbd53d75a/view)

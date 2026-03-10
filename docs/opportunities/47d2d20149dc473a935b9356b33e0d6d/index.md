@@ -30,4 +30,4 @@ FR26RDI20000000023 - NOTICE OF INTENT TO AWARD A SOLE SOURCE CONTRACT THIS IS A 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/47d2d20149dc473a935b9356b33e0d6d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/47d2d20149dc473a935b9356b33e0d6d/view)

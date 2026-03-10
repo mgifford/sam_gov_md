@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340123522404 DOOR,ACCESS,GENERAL: Line 0001 Qty 10
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2d92663f689c4560b91a74a66d2997cc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2d92663f689c4560b91a74a66d2997cc/view)

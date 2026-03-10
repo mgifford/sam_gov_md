@@ -37,4 +37,4 @@ The due date for submission of PACRM II proposals has been suspended. The Govern
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a09deeee94d04f65a3fc1dd1afb65648/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a09deeee94d04f65a3fc1dd1afb65648/view)

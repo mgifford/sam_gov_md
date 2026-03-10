@@ -31,4 +31,4 @@ Design, construction, support, and tear down of exhibit at Eurosatory 2026 for D
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1342850c15794a28abebbbd851215de3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1342850c15794a28abebbbd851215de3/view)

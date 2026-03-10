@@ -25,4 +25,4 @@ Update 3/6/2026: The Government is in the final review of the Q&A's and revision
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4ca14756a77b4355a171f9bb1a478199/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4ca14756a77b4355a171f9bb1a478199/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 5970007872335 INSULATION SLEEVING: Line 0001 Qty 16
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6940a593d3e74493b838001055cc5cd3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6940a593d3e74493b838001055cc5cd3/view)

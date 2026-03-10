@@ -30,4 +30,4 @@ ALL FREIGHT AND SHIPPING CHARGES SHALL BE ADDED TO THE TOTAL PRICE 1) NSN: 3040 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7ed32b3c878c4c52a3cdecaf68dee507/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7ed32b3c878c4c52a3cdecaf68dee507/view)

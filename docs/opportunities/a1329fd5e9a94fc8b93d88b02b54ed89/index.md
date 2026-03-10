@@ -25,4 +25,4 @@ Proposed procurement for NSN 5330012987343 PACKING WITH RETAIN: Line 0001 Qty 43
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a1329fd5e9a94fc8b93d88b02b54ed89/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a1329fd5e9a94fc8b93d88b02b54ed89/view)

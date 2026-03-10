@@ -25,4 +25,4 @@ Proposed procurement for NSN 3439014777033 WELDING POWDER,META: Line 0001 Qty 23
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/cbcb0d14e3624dbbab1f9dc6ed813852/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cbcb0d14e3624dbbab1f9dc6ed813852/view)

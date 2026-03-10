@@ -36,4 +36,4 @@ Project Title: NFSR 205 Pavement Reconstruction LOUISIANA Original Set Aside: Th
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6313b7f06adf491dabd7356c1d39f7c1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6313b7f06adf491dabd7356c1d39f7c1/view)

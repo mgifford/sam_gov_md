@@ -25,4 +25,4 @@ Proposed procurement for NSN 3120003409507 BEARING,WASHER,THRUST: Line 0001 Qty 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c478be4459924476b04d8e653af21410/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c478be4459924476b04d8e653af21410/view)

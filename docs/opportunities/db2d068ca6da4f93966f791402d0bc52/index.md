@@ -30,4 +30,4 @@ The 509th Contracting Squadron is conducting market research to identify parties
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/db2d068ca6da4f93966f791402d0bc52/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/db2d068ca6da4f93966f791402d0bc52/view)

@@ -26,4 +26,4 @@ Design Build Service Photovoltaic
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1c73deea7676497d982d71f0df88b36b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1c73deea7676497d982d71f0df88b36b/view)

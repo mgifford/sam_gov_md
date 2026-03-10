@@ -29,4 +29,4 @@ Sources Sought Notice N61331-26-SN-Q19For Advanced Synthetic Aperture Sonar Imag
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6b8270b695b640e093a13da43c713c65/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6b8270b695b640e093a13da43c713c65/view)

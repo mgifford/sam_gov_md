@@ -26,4 +26,4 @@ Amendment 001: The purpose of this amendment is to extend the closing date of th
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f47285f219764bdf8e93af79ac7586a8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f47285f219764bdf8e93af79ac7586a8/view)

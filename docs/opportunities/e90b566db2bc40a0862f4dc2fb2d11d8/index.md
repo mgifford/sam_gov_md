@@ -30,4 +30,4 @@ The NYARNG Medical command is requesting a Dental Panoramic X-Ray Imaging System
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e90b566db2bc40a0862f4dc2fb2d11d8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e90b566db2bc40a0862f4dc2fb2d11d8/view)

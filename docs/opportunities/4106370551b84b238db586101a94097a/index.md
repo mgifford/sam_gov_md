@@ -25,4 +25,4 @@ Proposed procurement for NSN 5360012246927 SPRING,HELICAL,COMP: Line 0001 Qty 22
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4106370551b84b238db586101a94097a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4106370551b84b238db586101a94097a/view)

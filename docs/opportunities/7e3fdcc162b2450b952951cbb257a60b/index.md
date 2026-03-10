@@ -25,4 +25,4 @@ Proposed procurement for NSN 1650007240212 PISTON,LINEAR ACTUA: Line 0001 Qty 1 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7e3fdcc162b2450b952951cbb257a60b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7e3fdcc162b2450b952951cbb257a60b/view)

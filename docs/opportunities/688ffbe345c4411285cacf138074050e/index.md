@@ -25,4 +25,4 @@ NSN 7R-1680-015854821-P8, TDP VER 002, QTY 40 EA, DELIVERY FOB ORIGIN. All contr
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/688ffbe345c4411285cacf138074050e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/688ffbe345c4411285cacf138074050e/view)

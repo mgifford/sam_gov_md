@@ -25,4 +25,4 @@ Proposed procurement for NSN 5999012922048 SHIELDING GASKET,EL: Line 0001 Qty 33
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/65e50882d130498583aaf38f17935954/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/65e50882d130498583aaf38f17935954/view)

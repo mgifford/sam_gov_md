@@ -30,4 +30,4 @@ The United States Army Band (TUSAB), traditionally known as "Pershing�s Own," 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/30d76da90ab04e4e94b367fd4a2dc3d4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/30d76da90ab04e4e94b367fd4a2dc3d4/view)

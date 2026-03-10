@@ -26,4 +26,4 @@ Structural Reinforcement and Porch Support Installation, Martin Luther King Jr N
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f68060c418894bfbb3996562dfa117bb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f68060c418894bfbb3996562dfa117bb/view)

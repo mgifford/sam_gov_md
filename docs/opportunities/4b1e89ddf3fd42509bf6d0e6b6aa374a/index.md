@@ -25,4 +25,4 @@ The Wilkes Barre VA Medical Center, located at 1111 East End Blvd., Wilkes Barre
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4b1e89ddf3fd42509bf6d0e6b6aa374a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4b1e89ddf3fd42509bf6d0e6b6aa374a/view)

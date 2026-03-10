@@ -36,4 +36,4 @@ This is a Combined Synopsis/Solicitation for commercial items prepared in accord
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8c39f17d159c455f987189db0e994172/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8c39f17d159c455f987189db0e994172/view)

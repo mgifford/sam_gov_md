@@ -24,4 +24,4 @@ The purpose of this modification is to incorporate the following contractual cha
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1e5f76ea205e460b876c8ff9d682cd1e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1e5f76ea205e460b876c8ff9d682cd1e/view)

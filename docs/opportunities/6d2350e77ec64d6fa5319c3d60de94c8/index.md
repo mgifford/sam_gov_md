@@ -28,4 +28,4 @@ THIS IS NOT A NOTICE OF SOLICITATION ISSUANCE. The Naval Air Systems Command (NA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6d2350e77ec64d6fa5319c3d60de94c8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6d2350e77ec64d6fa5319c3d60de94c8/view)

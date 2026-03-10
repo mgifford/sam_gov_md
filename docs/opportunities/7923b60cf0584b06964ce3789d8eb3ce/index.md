@@ -29,4 +29,4 @@ AWARD NOTICE : The U.S Embassy � Brasilia has completed its analysis of the pr
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7923b60cf0584b06964ce3789d8eb3ce/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7923b60cf0584b06964ce3789d8eb3ce/view)

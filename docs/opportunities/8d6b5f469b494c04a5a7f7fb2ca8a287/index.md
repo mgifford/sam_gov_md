@@ -25,4 +25,4 @@ Proposed procurement for NSN 1005015520376 DRIVE ASSEMBLY,ELEC: Line 0001 Qty 5 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8d6b5f469b494c04a5a7f7fb2ca8a287/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8d6b5f469b494c04a5a7f7fb2ca8a287/view)

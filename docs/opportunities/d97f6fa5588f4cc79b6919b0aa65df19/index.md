@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340012834056 TURNBUCKLE: Line 0001 Qty 20 UI EA De
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d97f6fa5588f4cc79b6919b0aa65df19/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d97f6fa5588f4cc79b6919b0aa65df19/view)

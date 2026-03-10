@@ -26,4 +26,4 @@ E21/E40 PRCA & YMCA PIPELINE COMPONENTS See Attached Combined Synopsis Solicitat
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/19160af0a2274a948a84cacb9f3f1673/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/19160af0a2274a948a84cacb9f3f1673/view)

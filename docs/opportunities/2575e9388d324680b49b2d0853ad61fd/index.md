@@ -30,4 +30,4 @@ SP8000-26-R-0007 amendment 0001 is issued to extend the solicitation closing dat
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2575e9388d324680b49b2d0853ad61fd/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2575e9388d324680b49b2d0853ad61fd/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 4730014858165 ASSEMBLY BASE: Line 0001 Qty 89 UI EA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2b5a76eeb40549ee951fe5d8e1b84a8a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2b5a76eeb40549ee951fe5d8e1b84a8a/view)

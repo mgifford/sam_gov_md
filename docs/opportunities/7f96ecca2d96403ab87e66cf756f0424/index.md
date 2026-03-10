@@ -32,4 +32,4 @@ MAYFIELD HOUSE FIRE SPRINKLER SYSTEM INSTALLATION - The purpose of this modifica
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7f96ecca2d96403ab87e66cf756f0424/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7f96ecca2d96403ab87e66cf756f0424/view)

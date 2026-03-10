@@ -28,4 +28,4 @@ LEGIONELLA TESTING AND ANALYSIS SERVICES AMENDMENT SUMMARY: Questions and Answer
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/698b883b9dcd4a9b980387d8d0e60618/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/698b883b9dcd4a9b980387d8d0e60618/view)

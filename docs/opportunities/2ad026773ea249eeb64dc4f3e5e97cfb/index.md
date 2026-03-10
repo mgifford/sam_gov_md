@@ -27,4 +27,4 @@ Audiology Probe Microphone Measurement Devices and Accessories Firm-fixed-price,
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2ad026773ea249eeb64dc4f3e5e97cfb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2ad026773ea249eeb64dc4f3e5e97cfb/view)

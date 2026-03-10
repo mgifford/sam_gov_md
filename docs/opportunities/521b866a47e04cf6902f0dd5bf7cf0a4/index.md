@@ -30,4 +30,4 @@ The C-5 Galaxy aircraft relies on varius adhesive bonded honeycomb panels to pro
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/521b866a47e04cf6902f0dd5bf7cf0a4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/521b866a47e04cf6902f0dd5bf7cf0a4/view)

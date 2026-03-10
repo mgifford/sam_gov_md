@@ -31,4 +31,4 @@ Amendment 0001, this solicitation is amended as follows: 1. Responses to vendor 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bf75ce35b8084069a35cad3c9ea7092e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bf75ce35b8084069a35cad3c9ea7092e/view)

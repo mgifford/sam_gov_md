@@ -30,4 +30,4 @@ Please see Attached RFQ document. Questions must be submitted via email to Domin
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e6e3901404684f67959d7376fd2612ef/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e6e3901404684f67959d7376fd2612ef/view)

@@ -32,4 +32,4 @@ USNS GUADALUPE FY26 MTA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a13f2168a5f948d898a7f51c72982727/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a13f2168a5f948d898a7f51c72982727/view)

@@ -26,4 +26,4 @@ This request is for the procurement of two Tire and Wheel dollies, two Brake Ass
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d3493e6d0f2d4b33b7adb3c192216916/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d3493e6d0f2d4b33b7adb3c192216916/view)

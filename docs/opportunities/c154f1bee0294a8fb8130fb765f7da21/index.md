@@ -28,4 +28,4 @@ This notice is for planning purposes only and does not constitute a Request for 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c154f1bee0294a8fb8130fb765f7da21/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c154f1bee0294a8fb8130fb765f7da21/view)

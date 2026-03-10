@@ -25,4 +25,4 @@ Proposed procurement for NSN 4810004428094 SLEEVE AND SLIDE,DI: Line 0001 Qty 3 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e1894f85a50741b0871f0ce9aa7c128a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e1894f85a50741b0871f0ce9aa7c128a/view)

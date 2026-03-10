@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340012334258 BRACKET,ANGLE: Line 0001 Qty 66 UI EA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/72df92c4b92c40fcac904b7942293337/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/72df92c4b92c40fcac904b7942293337/view)

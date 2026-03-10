@@ -25,4 +25,4 @@ Proposed procurement for NSN 5360011354746 SPRING: Line 0001 Qty 2 UI EA Deliver
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c1938542d0254589a6a5580719e6f464/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c1938542d0254589a6a5580719e6f464/view)

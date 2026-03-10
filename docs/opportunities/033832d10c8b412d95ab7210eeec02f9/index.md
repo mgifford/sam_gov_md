@@ -25,4 +25,4 @@ Proposed procurement for NSN 3040013578642 CAP,LINEAR ACTUATIN: Line 0001 Qty 4 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/033832d10c8b412d95ab7210eeec02f9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/033832d10c8b412d95ab7210eeec02f9/view)

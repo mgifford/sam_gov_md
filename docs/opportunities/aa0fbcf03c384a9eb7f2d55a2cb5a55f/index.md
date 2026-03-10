@@ -28,4 +28,4 @@ see attached NRL NOTICE OF INTENT TO AWARD A SOLE SOURCE
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/aa0fbcf03c384a9eb7f2d55a2cb5a55f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/aa0fbcf03c384a9eb7f2d55a2cb5a55f/view)

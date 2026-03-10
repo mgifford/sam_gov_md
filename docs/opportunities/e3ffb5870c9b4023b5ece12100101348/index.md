@@ -29,4 +29,4 @@ INTRODUCTION Mission and Installation Contracting Command (MICC), Fort Leonard W
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e3ffb5870c9b4023b5ece12100101348/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e3ffb5870c9b4023b5ece12100101348/view)

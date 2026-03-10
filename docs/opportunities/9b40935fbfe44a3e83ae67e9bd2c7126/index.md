@@ -26,4 +26,4 @@ THIS IS A SOLICITATION NOTICE ITEM: Ring Assembly, Elect NSN: 5977-01-458-4322 P
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9b40935fbfe44a3e83ae67e9bd2c7126/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9b40935fbfe44a3e83ae67e9bd2c7126/view)

@@ -32,4 +32,4 @@ This award notice announces the contract award to Ocean Construction Services IN
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/65d94bcc56c143cb92c3783b3c527eb7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/65d94bcc56c143cb92c3783b3c527eb7/view)

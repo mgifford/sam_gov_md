@@ -28,4 +28,4 @@ NPS FY 26-1 AMMO - OLIN DHS RHTA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fa69c177a06447299f2eea14b73397bf/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fa69c177a06447299f2eea14b73397bf/view)

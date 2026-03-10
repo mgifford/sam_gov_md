@@ -25,4 +25,4 @@ Proposed procurement for NSN 1005015789617 ASSEMBLY,RHCROSSBEA: Line 0001 Qty 6 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4b148dd141da4006aa1f04c3160462ce/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4b148dd141da4006aa1f04c3160462ce/view)

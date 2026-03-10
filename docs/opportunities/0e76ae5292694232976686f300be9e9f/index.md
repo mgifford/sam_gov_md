@@ -25,4 +25,4 @@ ITEM UNIQUE IDENTIFICATION AND VALUATION (MAR 2016)|19|||||||||||||||||||| HIGHE
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0e76ae5292694232976686f300be9e9f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0e76ae5292694232976686f300be9e9f/view)

@@ -26,4 +26,4 @@ The Naval Air Warfare Center, Aircraft Division, Lakehurst, New Jersey intends t
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0e81869f1d52484a9575f7c61c7f1573/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0e81869f1d52484a9575f7c61c7f1573/view)

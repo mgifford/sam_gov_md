@@ -30,4 +30,4 @@ Amendment 0001 (03/09/26): The purpose of this amendment is to add a Regenerativ
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/dc5093bacc254059a5decb0dfaaa535f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/dc5093bacc254059a5decb0dfaaa535f/view)

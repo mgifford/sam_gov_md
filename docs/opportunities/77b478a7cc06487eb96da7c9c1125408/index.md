@@ -30,4 +30,4 @@ Solicitation HT940826RE007 is issued as a Request for Proposal (RFP) for Laundry
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/77b478a7cc06487eb96da7c9c1125408/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/77b478a7cc06487eb96da7c9c1125408/view)

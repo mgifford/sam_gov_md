@@ -30,4 +30,4 @@ MAJOR REPAIRS TO BOILER PLANT, PSN 21590583 Contractor shall furnish all labor, 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f7424140ee2140cf9522614524db0009/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f7424140ee2140cf9522614524db0009/view)

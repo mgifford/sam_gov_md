@@ -31,4 +31,4 @@ The Department of Homeland Security (DHS), U.S. Customs and Border Protection (C
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e1eb1c822f08468a8b1965fa6531b81b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e1eb1c822f08468a8b1965fa6531b81b/view)

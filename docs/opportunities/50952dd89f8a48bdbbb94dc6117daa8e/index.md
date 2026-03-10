@@ -30,4 +30,4 @@ Notice of Intent to Sole Source Great Lakes Coastal Resiliency Study (GLCRS) Exp
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/50952dd89f8a48bdbbb94dc6117daa8e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/50952dd89f8a48bdbbb94dc6117daa8e/view)

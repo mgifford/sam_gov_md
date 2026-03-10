@@ -29,4 +29,4 @@ The American Lake VAMC is seeking a general contractor to furnish all labor, mat
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9bd41acab43f41e09d99a1a225abeafe/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9bd41acab43f41e09d99a1a225abeafe/view)

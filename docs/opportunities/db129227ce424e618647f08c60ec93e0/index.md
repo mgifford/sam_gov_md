@@ -29,4 +29,4 @@ SOURCES SOUGHT NOTICE This is a Sources Sought Notice ONLY. The U.S. Government 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/db129227ce424e618647f08c60ec93e0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/db129227ce424e618647f08c60ec93e0/view)

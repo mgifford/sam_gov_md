@@ -28,4 +28,4 @@ Demolition of Maintenance Hangar, Building 3542, Kadena Air Base, Okinawa, Japan
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e3b5651b87cb4b46aa9ef5afaa3f305d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e3b5651b87cb4b46aa9ef5afaa3f305d/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 5999012379901 CONNECTOR-SWITCH: Line 0001 Qty 133 U
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6d6c372c3d184a42acd2428f117d76b1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6d6c372c3d184a42acd2428f117d76b1/view)

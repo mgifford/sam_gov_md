@@ -25,4 +25,4 @@ Proposed procurement for NSN 5330011388080 SEAL,STRIP,NOZZLE: Line 0001 Qty 1404
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/15a741b46a804839a23310a554b46ade/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/15a741b46a804839a23310a554b46ade/view)

@@ -26,4 +26,4 @@ Montezuma NWR & NY Ecological Services New Multipurpose Facility
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ea26e1d99a1b4d30b3242c768b7082a8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ea26e1d99a1b4d30b3242c768b7082a8/view)

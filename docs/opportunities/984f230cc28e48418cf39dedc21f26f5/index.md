@@ -29,4 +29,4 @@ Award of the USDA New World Screwworm Sterile Fly Facility Moore Air Base TX
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/984f230cc28e48418cf39dedc21f26f5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/984f230cc28e48418cf39dedc21f26f5/view)

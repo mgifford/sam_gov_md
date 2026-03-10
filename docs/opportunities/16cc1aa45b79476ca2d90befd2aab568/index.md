@@ -25,4 +25,4 @@ NASA/NSSC has a requirement for FY26 Comsouth Renewal. NASA/NSSC intends to issu
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/16cc1aa45b79476ca2d90befd2aab568/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/16cc1aa45b79476ca2d90befd2aab568/view)

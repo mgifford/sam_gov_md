@@ -27,4 +27,4 @@ Purchase of 1/2" non-heat treated mooring chain
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/90b3911eab1b446fa9feb9621eac67a0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/90b3911eab1b446fa9feb9621eac67a0/view)

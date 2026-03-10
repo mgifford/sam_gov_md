@@ -31,4 +31,4 @@ March 6, 2026 A new attachment titled "24040 US Forest Service-Revised PS Detail
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/88b7ba8f428744c686abb42ddd550703/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/88b7ba8f428744c686abb42ddd550703/view)

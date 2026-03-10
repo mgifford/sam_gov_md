@@ -28,4 +28,4 @@ Student Service Contract EMMA AMBROSI
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b78e343ee1814d409e405a79a9a410f3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b78e343ee1814d409e405a79a9a410f3/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 1730013066973 SLING,AIRCRAFT MAIN: Line 0001 Qty 21
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f1cac8399e8742ff8f9055851ef06813/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f1cac8399e8742ff8f9055851ef06813/view)

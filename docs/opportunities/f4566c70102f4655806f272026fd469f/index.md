@@ -25,4 +25,4 @@ Proposed procurement for NSN 5330012257763 PACKING ASSEMBLY: Line 0001 Qty 6 UI 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f4566c70102f4655806f272026fd469f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f4566c70102f4655806f272026fd469f/view)

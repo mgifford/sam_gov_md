@@ -26,4 +26,4 @@ LAW ENFORCEMENT VEHICLE BUILD
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d8956dd432944ebe8ce779788d349e44/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d8956dd432944ebe8ce779788d349e44/view)

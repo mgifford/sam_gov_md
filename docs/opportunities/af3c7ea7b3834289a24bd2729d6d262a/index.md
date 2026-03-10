@@ -26,4 +26,4 @@ Please see the attached solicitation. DLA Maritime Pearl Harbor requests qualifi
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/af3c7ea7b3834289a24bd2729d6d262a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/af3c7ea7b3834289a24bd2729d6d262a/view)

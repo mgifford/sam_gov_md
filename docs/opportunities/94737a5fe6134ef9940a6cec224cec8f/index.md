@@ -25,4 +25,4 @@ The Internal Revenue Service (IRS) has a requirement for Cardboard & Paper and T
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/94737a5fe6134ef9940a6cec224cec8f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/94737a5fe6134ef9940a6cec224cec8f/view)

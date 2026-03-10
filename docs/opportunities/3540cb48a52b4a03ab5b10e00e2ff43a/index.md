@@ -25,4 +25,4 @@ Proposed procurement for NSN 4730997899835 CAP,SEALING,ASSEMBL: Line 0001 Qty 5 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3540cb48a52b4a03ab5b10e00e2ff43a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3540cb48a52b4a03ab5b10e00e2ff43a/view)

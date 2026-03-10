@@ -25,4 +25,4 @@ WIDE AREA WORKFLOW PAYMENT INSTRUCTIONS (JAN 2023)|16|invoice and receiving repo
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d3cb119c758a4b8ebdb4276213850958/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d3cb119c758a4b8ebdb4276213850958/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 4330016741710 PARTS KIT,FLUID PRE: Line 0001 Qty 38
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/33ec2fcb97c84e8a9cf8d3a8fd2c10ec/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/33ec2fcb97c84e8a9cf8d3a8fd2c10ec/view)

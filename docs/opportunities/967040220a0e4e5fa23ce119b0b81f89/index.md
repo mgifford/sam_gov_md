@@ -26,4 +26,4 @@ The Naval Information Warfare Systems Command (NAVWAR), on behalf of Program Exe
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/967040220a0e4e5fa23ce119b0b81f89/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/967040220a0e4e5fa23ce119b0b81f89/view)

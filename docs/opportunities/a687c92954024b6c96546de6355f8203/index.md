@@ -28,4 +28,4 @@ THIS REQUEST FOR INFORMATION (RFI) / SOURCES SOUGHT NOTICE ISSUED SOLELY FOR INF
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a687c92954024b6c96546de6355f8203/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a687c92954024b6c96546de6355f8203/view)

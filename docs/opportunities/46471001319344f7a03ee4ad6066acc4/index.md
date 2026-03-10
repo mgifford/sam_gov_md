@@ -25,4 +25,4 @@ Proposed procurement for NSN 4820014463661 VALVE,VENT-CHECK: Line 0001 Qty 5 UI 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/46471001319344f7a03ee4ad6066acc4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/46471001319344f7a03ee4ad6066acc4/view)

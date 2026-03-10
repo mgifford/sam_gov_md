@@ -31,4 +31,4 @@ CONTACT INFORMATION|4|N713.36|GLF|771-229-0926|carlos.f.vega-cortez.civ@us.navy.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/05daf7da5bdb4e7aa7d8a5c6050ef70e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/05daf7da5bdb4e7aa7d8a5c6050ef70e/view)

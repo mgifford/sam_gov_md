@@ -30,4 +30,4 @@ The contractor shall provide operators, a rigging team, and one (I) Crane capabl
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/408833532a0f4e8ab0dcd5ef720ab0d4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/408833532a0f4e8ab0dcd5ef720ab0d4/view)

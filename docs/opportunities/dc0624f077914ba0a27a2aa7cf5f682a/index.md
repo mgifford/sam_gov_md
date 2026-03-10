@@ -30,4 +30,4 @@ The purpose of Amendment 0004 is to cancel the solicitaion in its entirety. Gove
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/dc0624f077914ba0a27a2aa7cf5f682a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/dc0624f077914ba0a27a2aa7cf5f682a/view)

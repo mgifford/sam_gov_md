@@ -28,4 +28,4 @@ Sierra Army Depot located in Herlong, California has a requirement for: One (1);
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/121d28ef2ef44bda9b55839f1380b64d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/121d28ef2ef44bda9b55839f1380b64d/view)

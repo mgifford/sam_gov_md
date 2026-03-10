@@ -30,4 +30,4 @@ Project No.: CL25224006 Classification Code: 6140 NAICS: 334514, Title: MISCELLA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6b405c10c2494291abf2d008cc7343ac/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6b405c10c2494291abf2d008cc7343ac/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 2540015553701 HEATER,VEHICULAR,CO: Line 0001 Qty 11
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1069f3b730e6406db04ffcebe0dfdeb8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1069f3b730e6406db04ffcebe0dfdeb8/view)

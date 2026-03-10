@@ -25,4 +25,4 @@ Proposed procurement for NSN 3040010317565 CYLINDER,HYDRAULIC: Line 0001 Qty 59 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/08d3c571f51e4499bfd160a0ed038492/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/08d3c571f51e4499bfd160a0ed038492/view)

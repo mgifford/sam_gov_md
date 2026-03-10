@@ -26,4 +26,4 @@ USNS OSCAR V. PETERSON Chill Water Pump Cartridge Seals. See RFQ (1449)
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2c19812125d341deb955869c1c6b5649/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2c19812125d341deb955869c1c6b5649/view)

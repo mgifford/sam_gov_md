@@ -28,4 +28,4 @@ In accordance with FAR PART 12.202(b)(1)(i), this is a combined synopsis/solicit
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5fb1fef885ec47e9b7ed9011287d0481/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5fb1fef885ec47e9b7ed9011287d0481/view)

@@ -36,4 +36,4 @@ Amendment 0001: Please review updates and attachemnts carefully. The contractor 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e0f0521ab1a14dc89162d545d87a2cde/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e0f0521ab1a14dc89162d545d87a2cde/view)

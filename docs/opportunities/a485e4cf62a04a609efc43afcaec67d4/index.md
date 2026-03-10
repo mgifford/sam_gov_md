@@ -29,4 +29,4 @@ The Federal Bureau of Prisons, Federal Correctional Complex Hazelton, West Virgi
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a485e4cf62a04a609efc43afcaec67d4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a485e4cf62a04a609efc43afcaec67d4/view)

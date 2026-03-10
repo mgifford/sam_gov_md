@@ -25,4 +25,4 @@ Proposed procurement for NSN 2510012263456 PLUG ASSEMBLY,DRAIN: Line 0001 Qty 68
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/dcc0805f781941bfa53f506204f949f2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/dcc0805f781941bfa53f506204f949f2/view)

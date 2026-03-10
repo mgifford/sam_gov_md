@@ -28,4 +28,4 @@ Statement of Need Philips Patient Information Center Ix 4 upgrade The Philadelph
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/cdd7af4100284f109589dfc4b7ef2480/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cdd7af4100284f109589dfc4b7ef2480/view)

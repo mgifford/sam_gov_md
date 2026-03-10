@@ -26,4 +26,4 @@ The Hoosier National Forest has three earthen dams that have maintenance needs w
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9fe71ea0254247cd9d98838634df48a1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9fe71ea0254247cd9d98838634df48a1/view)

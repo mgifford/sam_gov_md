@@ -30,4 +30,4 @@ The 463L Cargo Pallet (P/N: HCU-6/E & HCU-12/E) is used to transport cargo up to
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/599fb9a66ba548f58a85eec52883da18/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/599fb9a66ba548f58a85eec52883da18/view)

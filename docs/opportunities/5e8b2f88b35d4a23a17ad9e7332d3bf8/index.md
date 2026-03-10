@@ -28,4 +28,4 @@ AFNWC/NDB is seeking information from Industry to assist with the establishment 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5e8b2f88b35d4a23a17ad9e7332d3bf8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5e8b2f88b35d4a23a17ad9e7332d3bf8/view)

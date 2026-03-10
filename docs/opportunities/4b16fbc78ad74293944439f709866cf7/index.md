@@ -25,4 +25,4 @@ Proposed procurement for NSN 5305015409393 SETSCREW: Line 0001 Qty 6272 UI EA De
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4b16fbc78ad74293944439f709866cf7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4b16fbc78ad74293944439f709866cf7/view)

@@ -30,4 +30,4 @@ The Air Force Life Cycle Management Center is hosting an Industry Day to activel
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/20b46d457e034189a9a37bccff7fef86/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/20b46d457e034189a9a37bccff7fef86/view)

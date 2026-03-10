@@ -25,4 +25,4 @@ Proposed procurement for NSN 2920001609346 ROTOR,GENERATOR: Line 0001 Qty 54 UI 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/46a9ea5441a64b348ab9fd76a319a133/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/46a9ea5441a64b348ab9fd76a319a133/view)

@@ -28,4 +28,4 @@ STATEMENT OF WORK PART A GENERAL INFORMATION A.1 INTRODUCTION The VAMC located a
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/38610f485e2a496f91182f638393940a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/38610f485e2a496f91182f638393940a/view)

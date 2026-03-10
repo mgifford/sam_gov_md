@@ -25,4 +25,4 @@ Proposed procurement for NSN 2530013326240 DRAG LINK,STEERING: Line 0001 Qty 204
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7b2aa589cc8f4b6ea5e8e35f8b379b76/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7b2aa589cc8f4b6ea5e8e35f8b379b76/view)

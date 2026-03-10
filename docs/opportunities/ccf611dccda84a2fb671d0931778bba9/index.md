@@ -25,4 +25,4 @@ Proposed procurement for NSN 1560000177919 RIB,AIRFOIL: Line 0001 Qty 4 UI EA De
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ccf611dccda84a2fb671d0931778bba9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ccf611dccda84a2fb671d0931778bba9/view)

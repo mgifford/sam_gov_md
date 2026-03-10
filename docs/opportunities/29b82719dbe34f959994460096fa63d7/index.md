@@ -30,4 +30,4 @@ The Naval Air Warfare Center, Weapons Division at China Lake, CA intends to proc
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/29b82719dbe34f959994460096fa63d7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/29b82719dbe34f959994460096fa63d7/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 4820014339857 COCK,DRAIN: Line 0001 Qty 52 UI EA De
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7b513a931c594d28898da90092e3196f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7b513a931c594d28898da90092e3196f/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 2590014956900 PARTS KIT,SPECIALIZ: Line 0001 Qty 11
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/365093774e1f4c3186fcd9179afa6656/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/365093774e1f4c3186fcd9179afa6656/view)

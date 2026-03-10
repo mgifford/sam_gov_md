@@ -34,4 +34,4 @@ A00001 - The response date for this special notice has been extended until March
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f6d79616fd0d452cbe0506161e2d6c0f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f6d79616fd0d452cbe0506161e2d6c0f/view)

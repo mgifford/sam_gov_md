@@ -29,4 +29,4 @@ Amendment 0003- W912CM-26-Q-A006-0003 Dated:6 March 2026 The purpose of this ame
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fd8f9e5fe0844876bba4703a2643cc83/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fd8f9e5fe0844876bba4703a2643cc83/view)

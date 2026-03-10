@@ -28,4 +28,4 @@ Line Hardware
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fc42c5c1296544debb650eefc620d6c7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fc42c5c1296544debb650eefc620d6c7/view)

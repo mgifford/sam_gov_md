@@ -30,4 +30,4 @@ SOURCES SOUGHT for 15kV Switchgear & Station Service Replacement at Lake Tenkill
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fc07f25c548d4fd0806083693005097f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fc07f25c548d4fd0806083693005097f/view)

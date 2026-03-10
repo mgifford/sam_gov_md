@@ -25,4 +25,4 @@ NSN 7R-5998-016718115-EY, TDP VER 007, QTY 1 EA, DELIVERY FOB ORIGIN. NAVSUP Wea
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ddda2ebc909e43faacc0502184e62a8e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ddda2ebc909e43faacc0502184e62a8e/view)

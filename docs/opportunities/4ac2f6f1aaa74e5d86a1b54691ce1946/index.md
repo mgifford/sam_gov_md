@@ -26,4 +26,4 @@ BPA Call Order Exceeding $25,000 Synopsis Requisition 1164510. The USDA Forest S
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4ac2f6f1aaa74e5d86a1b54691ce1946/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4ac2f6f1aaa74e5d86a1b54691ce1946/view)

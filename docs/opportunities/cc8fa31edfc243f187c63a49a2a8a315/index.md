@@ -30,4 +30,4 @@ This is a requirement for Delivery and Injection of Deicing/Anti-icing Fluid for
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/cc8fa31edfc243f187c63a49a2a8a315/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cc8fa31edfc243f187c63a49a2a8a315/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 4820015132480 GEAR OPERATOR,VALVE: Line 0001 Qty 2 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ba193ef37c3a408bb0985bce7b3097c5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ba193ef37c3a408bb0985bce7b3097c5/view)

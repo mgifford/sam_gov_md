@@ -36,4 +36,4 @@ SOURCES SOUGHT: THIS IS NOT A NOTICE OF REQUEST FOR QUOTATION BUT INFORMATION AN
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/19e10be3a2ad468db4f5bda070d530ab/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/19e10be3a2ad468db4f5bda070d530ab/view)

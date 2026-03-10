@@ -30,4 +30,4 @@ This Draft Request for Proposal (DRFP) is issued by the Mission and Installation
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/259757181b05424bafb96cb5f8898541/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/259757181b05424bafb96cb5f8898541/view)

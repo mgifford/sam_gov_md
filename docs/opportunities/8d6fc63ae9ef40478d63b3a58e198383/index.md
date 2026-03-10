@@ -28,4 +28,4 @@ This notice is a combined synopsis/solicitation for commercial products or comme
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8d6fc63ae9ef40478d63b3a58e198383/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8d6fc63ae9ef40478d63b3a58e198383/view)

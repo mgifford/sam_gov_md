@@ -25,4 +25,4 @@ Proposed procurement for NSN 1660009237158 PARTS KIT,AIR FLOW: Line 0001 Qty 20 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3308536c9a2446918c167b123f1f16c5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3308536c9a2446918c167b123f1f16c5/view)

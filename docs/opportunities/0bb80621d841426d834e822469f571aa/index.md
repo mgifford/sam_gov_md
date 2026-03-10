@@ -26,4 +26,4 @@ USGS FLAGPOLE LIGHTING INSTALLATION This is a combined synopsis/solicitation for
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0bb80621d841426d834e822469f571aa/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0bb80621d841426d834e822469f571aa/view)

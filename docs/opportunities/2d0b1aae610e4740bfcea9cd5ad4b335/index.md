@@ -28,4 +28,4 @@ Page 1 of Page 1 of Page 1 of Page 1 of This is not a solicitation but rather a 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2d0b1aae610e4740bfcea9cd5ad4b335/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2d0b1aae610e4740bfcea9cd5ad4b335/view)

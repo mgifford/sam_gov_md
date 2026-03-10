@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340008727937 CAT CH,FLUSH: Line 0001 Qty 94 UI EA 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f6352eed766c4f21b4aace2a4dcc4a49/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f6352eed766c4f21b4aace2a4dcc4a49/view)

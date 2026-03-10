@@ -25,4 +25,4 @@ Synopsis: NASA/NSSC has a requirement for Custom InRoDES Bearing Manufacturing. 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/79f31ac1f997474986250dde7be1810e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/79f31ac1f997474986250dde7be1810e/view)

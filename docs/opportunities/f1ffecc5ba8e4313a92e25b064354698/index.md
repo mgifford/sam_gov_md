@@ -25,4 +25,4 @@ Proposed procurement for NSN 6830016423624 CALIBRATING GAS MIX: Line 0001 Qty 61
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f1ffecc5ba8e4313a92e25b064354698/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f1ffecc5ba8e4313a92e25b064354698/view)

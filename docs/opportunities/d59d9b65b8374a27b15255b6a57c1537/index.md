@@ -26,4 +26,4 @@ NASA Headquarters (NASA HQ) intends to extend the ordering period and increase t
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d59d9b65b8374a27b15255b6a57c1537/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d59d9b65b8374a27b15255b6a57c1537/view)

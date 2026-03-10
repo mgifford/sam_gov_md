@@ -28,4 +28,4 @@ Special Notice Special Notice Page 3 of 3 Special Notice *= Required Field Speci
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8ccd499840bd403da04897132fde5bc5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8ccd499840bd403da04897132fde5bc5/view)

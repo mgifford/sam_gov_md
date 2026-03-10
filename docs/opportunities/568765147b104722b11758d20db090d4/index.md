@@ -30,4 +30,4 @@ AMENDMENT 003: TO EXTEND THE SOLICITATION CLOSING DATE TO 3/13/2026. UPLOAD ANSW
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/568765147b104722b11758d20db090d4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/568765147b104722b11758d20db090d4/view)

@@ -32,4 +32,4 @@ The Contractor shall provide all labor and technical services to maintain tools 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7af71f924fc041c2a6fb923835a6ab22/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7af71f924fc041c2a6fb923835a6ab22/view)

@@ -26,4 +26,4 @@ Tube Condition Oven
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0064432539454372ae8bdf72bf7b9a19/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0064432539454372ae8bdf72bf7b9a19/view)

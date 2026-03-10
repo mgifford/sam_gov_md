@@ -25,4 +25,4 @@ Proposed procurement for NSN 3020000152167 GEAR,SPUR: Line 0001 Qty 10 UI EA Del
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3b36c037dc404bc89128c680c8a29e1a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3b36c037dc404bc89128c680c8a29e1a/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 5330003276011 SEAL RING,METAL: Line 0001 Qty 170 UI
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/99f5cbf5ba7a42939ebebd1e9dde6d66/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/99f5cbf5ba7a42939ebebd1e9dde6d66/view)

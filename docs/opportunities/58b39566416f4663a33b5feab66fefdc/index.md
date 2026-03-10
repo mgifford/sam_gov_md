@@ -25,4 +25,4 @@ DLA-Aviation is issuing this sources sought as a means of conducting market rese
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/58b39566416f4663a33b5feab66fefdc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/58b39566416f4663a33b5feab66fefdc/view)

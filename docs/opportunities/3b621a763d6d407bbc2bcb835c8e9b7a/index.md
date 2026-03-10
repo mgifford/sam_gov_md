@@ -26,4 +26,4 @@ The General Services Administration (GSA) anticipates issuing a solicitation for
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3b621a763d6d407bbc2bcb835c8e9b7a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3b621a763d6d407bbc2bcb835c8e9b7a/view)

@@ -30,4 +30,4 @@ The contractor shall provide construction services in accordance with the Statem
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/964a3e2c32294ffa97119078cf6787ad/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/964a3e2c32294ffa97119078cf6787ad/view)

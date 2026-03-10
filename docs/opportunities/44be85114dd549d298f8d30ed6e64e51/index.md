@@ -27,4 +27,4 @@ Notice of Sources Sought The purpose of this Sources Sought Announcement is for 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/44be85114dd549d298f8d30ed6e64e51/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/44be85114dd549d298f8d30ed6e64e51/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 2825010066121 ROD,VALVE GEAR: Line 0001 Qty 9 UI EA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/12e54325839440578211659773f10fd3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/12e54325839440578211659773f10fd3/view)

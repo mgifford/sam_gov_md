@@ -25,4 +25,4 @@ TLETS Upgrade: 82 SFS has a requirement for a comprehensive upgrade and maintena
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/eee34e6e791d430ead0a2f2ad378ccd2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/eee34e6e791d430ead0a2f2ad378ccd2/view)

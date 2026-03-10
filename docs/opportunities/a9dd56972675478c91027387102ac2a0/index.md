@@ -26,4 +26,4 @@ Amendment 0002 to change base/option periods and add Air Turbine Starter items.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a9dd56972675478c91027387102ac2a0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a9dd56972675478c91027387102ac2a0/view)

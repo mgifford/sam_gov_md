@@ -26,4 +26,4 @@ UPDATE 03/04/2026: RFI: Would the government be willing to consider replacement 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/882ee7b31e0a47bc859724c731c6ca19/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/882ee7b31e0a47bc859724c731c6ca19/view)

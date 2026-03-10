@@ -25,4 +25,4 @@ Proposed procurement for NSN 4820013063275 COCK,POPPET DRAIN: Line 0001 Qty 529 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9abc15ffc18948e1b70c9713f42f42e9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9abc15ffc18948e1b70c9713f42f42e9/view)

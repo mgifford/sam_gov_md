@@ -25,4 +25,4 @@ Notice of Combined Synopsis/Solicitation This is a combined synopsis/solicitatio
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/68e141439a90460f8d8701ebcad1ff5a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/68e141439a90460f8d8701ebcad1ff5a/view)

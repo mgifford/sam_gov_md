@@ -31,4 +31,4 @@ CONTACT INFORMATION|4|N744.16|WVP|N/A|jocelyne.dzonangfouego.civ@us.navy.mil | I
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b3a191b1e2c64a44a0d8c1e0b34d601b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b3a191b1e2c64a44a0d8c1e0b34d601b/view)

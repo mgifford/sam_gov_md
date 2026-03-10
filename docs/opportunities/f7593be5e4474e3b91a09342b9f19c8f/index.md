@@ -25,4 +25,4 @@ Proposed procurement for NSN 6110014950005 PANEL,POWER DISTRIB: Line 0001 Qty 2 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f7593be5e4474e3b91a09342b9f19c8f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f7593be5e4474e3b91a09342b9f19c8f/view)

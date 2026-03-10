@@ -29,4 +29,4 @@ This is for Fort Bliss Solid Waste Management (SWM) Refuse and Recycling Service
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/297ab8b0bab84302970bfba9bdbd942d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/297ab8b0bab84302970bfba9bdbd942d/view)

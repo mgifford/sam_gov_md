@@ -25,4 +25,4 @@ NSN 7H-4520-013850997, TDP VER 009, REF NR 5223397-69, QTY 8 EA, DELIVERY FOB OR
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c402c47ce2ac439eac40ba7dec185fb1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c402c47ce2ac439eac40ba7dec185fb1/view)

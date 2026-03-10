@@ -25,4 +25,4 @@ NIST-SS26-80 PLEASE NOTE THIS A SOURCES SOUGHT NOTICE ONLY Title: Spent Fuel Shi
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/161e373dc77a49b6962823ffb0bb6857/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/161e373dc77a49b6962823ffb0bb6857/view)

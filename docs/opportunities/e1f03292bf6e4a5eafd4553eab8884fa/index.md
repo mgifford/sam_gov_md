@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340014935219 HANDRAIL,STAIRS: Line 0001 Qty 1 UI E
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e1f03292bf6e4a5eafd4553eab8884fa/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e1f03292bf6e4a5eafd4553eab8884fa/view)

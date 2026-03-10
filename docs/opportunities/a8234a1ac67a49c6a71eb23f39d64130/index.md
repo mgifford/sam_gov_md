@@ -26,4 +26,4 @@ Construct a dormitory with all necessary spaces to house 144 enlisted personnel 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a8234a1ac67a49c6a71eb23f39d64130/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a8234a1ac67a49c6a71eb23f39d64130/view)

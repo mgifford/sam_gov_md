@@ -30,4 +30,4 @@ Project YTPM 25-3002, Repair Airfield Pavement Crack Seal (Notice ID F5N3FQ6022A
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d6ab85cc9e9242a88cfadeda8f2cc0db/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d6ab85cc9e9242a88cfadeda8f2cc0db/view)

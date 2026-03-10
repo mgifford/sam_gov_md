@@ -25,4 +25,4 @@ Proposed procurement for NSN 5330015618402 GASKET,AIRCRAFT,MAT: Line 0001 Qty 65
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1489749dce324623b6f78da6ff284e81/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1489749dce324623b6f78da6ff284e81/view)

@@ -25,4 +25,4 @@ Amendment 001 posted, RFQ response date extended, and small business set aside r
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/63adf241bf9344cfaed4b2f6dc0b3c43/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/63adf241bf9344cfaed4b2f6dc0b3c43/view)

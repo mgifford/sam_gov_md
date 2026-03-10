@@ -30,4 +30,4 @@ This is the official synopsis for the REPAIR HVAC AND ROOF, B220 requirement at 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8416e344a3f74321bf393d52b1c604e5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8416e344a3f74321bf393d52b1c604e5/view)

@@ -27,4 +27,4 @@ Page 7 of 7 Page 1 of 2 THIS REQUEST FOR INFORMATION (RFI) /� SOURCES SOUGHT N
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a081408906034674bc1cf47aa983fbe3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a081408906034674bc1cf47aa983fbe3/view)

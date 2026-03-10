@@ -25,4 +25,4 @@ Proposed procurement for NSN 5996013373516 AMPLIFIER,RADIO FRE: Line 0001 Qty 10
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/21f3a2a517d743cf823810a77695e334/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/21f3a2a517d743cf823810a77695e334/view)

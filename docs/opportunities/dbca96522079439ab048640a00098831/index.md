@@ -28,4 +28,4 @@ This program supports CMS in implementing the Affordable Care Act and the No Sur
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/dbca96522079439ab048640a00098831/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/dbca96522079439ab048640a00098831/view)

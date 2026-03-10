@@ -30,4 +30,4 @@ The Iowa Army National Guard Midwest Counterdrug Training Center (MCTC) is seeki
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6be36c34ee384c938fdeccf717cc88c5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6be36c34ee384c938fdeccf717cc88c5/view)

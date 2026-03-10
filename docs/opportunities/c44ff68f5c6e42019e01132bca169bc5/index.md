@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340015232015 PIPE CLAMP ASSY: Line 0001 Qty 11 UI 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c44ff68f5c6e42019e01132bca169bc5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c44ff68f5c6e42019e01132bca169bc5/view)

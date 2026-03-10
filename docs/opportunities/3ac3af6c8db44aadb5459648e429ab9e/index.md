@@ -29,4 +29,4 @@ Please see attached Sources Sought Notice Amendment 0001. Please see attached So
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3ac3af6c8db44aadb5459648e429ab9e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3ac3af6c8db44aadb5459648e429ab9e/view)

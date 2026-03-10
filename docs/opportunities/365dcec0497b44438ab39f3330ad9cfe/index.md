@@ -29,4 +29,4 @@ Please see the attached Sources Sought Notice.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/365dcec0497b44438ab39f3330ad9cfe/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/365dcec0497b44438ab39f3330ad9cfe/view)

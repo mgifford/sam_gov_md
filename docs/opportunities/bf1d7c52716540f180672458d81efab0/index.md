@@ -26,4 +26,4 @@ AMENDMENT 0001: UPDATE RFO 52.222-42 Statement of Equivalent Rates for Federal H
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bf1d7c52716540f180672458d81efab0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bf1d7c52716540f180672458d81efab0/view)

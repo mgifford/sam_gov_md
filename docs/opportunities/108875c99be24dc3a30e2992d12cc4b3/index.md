@@ -25,4 +25,4 @@ Proposed procurement for NSN 3040013027732 BALL JOINT: Line 0001 Qty 74 UI EA De
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/108875c99be24dc3a30e2992d12cc4b3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/108875c99be24dc3a30e2992d12cc4b3/view)

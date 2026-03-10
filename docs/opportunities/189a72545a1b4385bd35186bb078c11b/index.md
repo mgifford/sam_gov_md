@@ -28,4 +28,4 @@ Title: Regulated Medical Waste and Sharps Management at Central Arkansas Veteran
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/189a72545a1b4385bd35186bb078c11b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/189a72545a1b4385bd35186bb078c11b/view)

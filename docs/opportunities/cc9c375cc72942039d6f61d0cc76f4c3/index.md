@@ -30,4 +30,4 @@ Preventive Maintenance Service Contract for Fuel Distribution Systems for Chance
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/cc9c375cc72942039d6f61d0cc76f4c3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cc9c375cc72942039d6f61d0cc76f4c3/view)

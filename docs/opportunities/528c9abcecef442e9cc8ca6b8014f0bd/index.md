@@ -24,4 +24,4 @@ In accordance with FAR 6.302-1, NAVSUP Fleet Logistics Center Norfolk, Mechanics
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/528c9abcecef442e9cc8ca6b8014f0bd/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/528c9abcecef442e9cc8ca6b8014f0bd/view)

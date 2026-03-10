@@ -29,4 +29,4 @@ ALL PROPOSALS MUST INCLUDE A QUOTE FOR BOTH BID A (FIRST ARTICLE REQUIRED), AND 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/13693498749b43d8bc2d53fff869d09e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/13693498749b43d8bc2d53fff869d09e/view)

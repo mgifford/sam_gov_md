@@ -25,4 +25,4 @@ Proposed procurement for NSN 1660010925376 FILLER VALVE,AIRCRA: Line 0001 Qty 15
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/00de866c338c45a1a523c32d0b88215d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/00de866c338c45a1a523c32d0b88215d/view)

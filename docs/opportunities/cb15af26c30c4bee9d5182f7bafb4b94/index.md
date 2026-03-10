@@ -25,4 +25,4 @@ Proposed procurement for NSN 5905012092714 RESISTOR,VARIABLE,W: Line 0001 Qty 30
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/cb15af26c30c4bee9d5182f7bafb4b94/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cb15af26c30c4bee9d5182f7bafb4b94/view)

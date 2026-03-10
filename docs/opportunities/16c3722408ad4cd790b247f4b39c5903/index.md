@@ -26,4 +26,4 @@ Firm Fixed-Price, Non-Personal Commercial Services, Indefinite-Delivery/Indefini
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/16c3722408ad4cd790b247f4b39c5903/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/16c3722408ad4cd790b247f4b39c5903/view)

@@ -28,4 +28,4 @@ Phoenix AZ VA Health Care System Ground Ambulance Service CON71
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/37e5f76338ce490cb8a89b73228e90a0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/37e5f76338ce490cb8a89b73228e90a0/view)

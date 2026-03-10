@@ -25,4 +25,4 @@ Proposed procurement for NSN 4730013370783 RESTRICTOR,FLUID FL: Line 0001 Qty 19
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/745129f80088494eb98384e2a463f54a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/745129f80088494eb98384e2a463f54a/view)

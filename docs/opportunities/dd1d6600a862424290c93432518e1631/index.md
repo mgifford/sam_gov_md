@@ -25,4 +25,4 @@ Proposed procurement for NSN 4540010272304 IMPELLER,MACERATOR: Line 0001 Qty 29 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/dd1d6600a862424290c93432518e1631/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/dd1d6600a862424290c93432518e1631/view)

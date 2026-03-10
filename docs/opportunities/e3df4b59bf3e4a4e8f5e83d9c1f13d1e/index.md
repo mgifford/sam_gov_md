@@ -25,4 +25,4 @@ Notice of Intent to Sole Source Department of Veterans Affairs, VISN 10, Bloomin
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e3df4b59bf3e4a4e8f5e83d9c1f13d1e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e3df4b59bf3e4a4e8f5e83d9c1f13d1e/view)

@@ -25,4 +25,4 @@ Two each of NSN: 5895-01-593-8172
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/03e184ed5c6c4b37ba9c2b1c1bed90e7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/03e184ed5c6c4b37ba9c2b1c1bed90e7/view)

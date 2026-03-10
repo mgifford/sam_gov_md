@@ -29,4 +29,4 @@ This is a sole source acquisition for the establishment of an indefinite deliver
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a50de7890011401bba9975fb4cb0ee42/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a50de7890011401bba9975fb4cb0ee42/view)

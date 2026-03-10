@@ -30,4 +30,4 @@ UPDATE as of 9 MAR 2026: The Government's forecast date to issue a solicitation 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fbbf30c2db5d4199b16a031fabc6db9a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fbbf30c2db5d4199b16a031fabc6db9a/view)

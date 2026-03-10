@@ -25,4 +25,4 @@ Proposed procurement for NSN 3010009720943 BELLOWS,PRESSURE: Line 0001 Qty 121 U
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/82a9782125f14429b79a4ac016d7c23d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/82a9782125f14429b79a4ac016d7c23d/view)

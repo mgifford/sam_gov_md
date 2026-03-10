@@ -28,4 +28,4 @@ General Services Administration (GSA) Assisted Acquisition Services (AAS) is iss
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/30c4043f6a994260b55c6f155e6f9748/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/30c4043f6a994260b55c6f155e6f9748/view)

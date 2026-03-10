@@ -28,4 +28,4 @@ This notice was posted to identify sources that can manufacture NSN 2910-0101783
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a428e9d08fda4789849b3f880c6d9c80/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a428e9d08fda4789849b3f880c6d9c80/view)

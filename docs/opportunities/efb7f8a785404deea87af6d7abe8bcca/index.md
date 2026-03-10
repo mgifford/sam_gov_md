@@ -26,4 +26,4 @@ FDO JANITORIAL SERVICES – This sources sought notice has been amended to incor
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/efb7f8a785404deea87af6d7abe8bcca/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/efb7f8a785404deea87af6d7abe8bcca/view)

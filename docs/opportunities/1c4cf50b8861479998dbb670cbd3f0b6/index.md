@@ -25,4 +25,4 @@ Proposed procurement for NSN 1680011589661 PUSH ROD ASSEMBLY: Line 0001 Qty 112 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1c4cf50b8861479998dbb670cbd3f0b6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1c4cf50b8861479998dbb670cbd3f0b6/view)

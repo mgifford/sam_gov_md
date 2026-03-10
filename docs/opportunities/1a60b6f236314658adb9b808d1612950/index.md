@@ -25,4 +25,4 @@ Proposed procurement for NSN 6105012341037 ROTOR,MOTOR: Line 0001 Qty 312 UI EA 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1a60b6f236314658adb9b808d1612950/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1a60b6f236314658adb9b808d1612950/view)

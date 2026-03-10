@@ -25,4 +25,4 @@ NSN 7H-7021-015582880-VN, TDP VER 005, QTY 8 EA, DELIVER TO W25G1U, W1A8 DLA DIS
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ffa377a4b20246e4b2c0c54dc72ab19d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ffa377a4b20246e4b2c0c54dc72ab19d/view)

@@ -30,4 +30,4 @@ The U.S. Army Corps of Engineers, Pittsburgh District, has a need for a Commerci
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3924144a6ffa4b958f6a7fb04f10c89e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3924144a6ffa4b958f6a7fb04f10c89e/view)

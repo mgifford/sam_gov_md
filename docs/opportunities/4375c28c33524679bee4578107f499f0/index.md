@@ -26,4 +26,4 @@ The U.S. Navy, Commander, Fleet Activities Chinhae (CFAC), Republic of Korea, in
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4375c28c33524679bee4578107f499f0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4375c28c33524679bee4578107f499f0/view)

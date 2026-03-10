@@ -30,4 +30,4 @@ AMENDMENT 0002 - PROVISION OF PRE-BID QUESTIONS AND ANSWERS. BID OPENING DATE RE
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6f8af9ffe3a14e76bd08399edde1f43c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6f8af9ffe3a14e76bd08399edde1f43c/view)

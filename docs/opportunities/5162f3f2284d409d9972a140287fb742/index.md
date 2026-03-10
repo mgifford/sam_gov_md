@@ -28,4 +28,4 @@ Service Agreement for Eppendorf epMotion 5075 PACKAGE SHOULD INCLUDE: This servi
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5162f3f2284d409d9972a140287fb742/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5162f3f2284d409d9972a140287fb742/view)

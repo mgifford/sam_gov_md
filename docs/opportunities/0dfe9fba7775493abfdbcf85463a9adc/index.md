@@ -29,4 +29,4 @@ RFP N3220526R6060 AND ITS ASSOCIATED DOCUMENTS ARE HEREBY POSTED.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0dfe9fba7775493abfdbcf85463a9adc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0dfe9fba7775493abfdbcf85463a9adc/view)

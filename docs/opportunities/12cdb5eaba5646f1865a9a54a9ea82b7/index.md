@@ -57,4 +57,4 @@ CONTACT INFORMATION|4|N7M1.12|HFA|7712290409|alexander.s.craft.civ@us.navy.mil| 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/12cdb5eaba5646f1865a9a54a9ea82b7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/12cdb5eaba5646f1865a9a54a9ea82b7/view)

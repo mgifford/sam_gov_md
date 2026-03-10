@@ -30,4 +30,4 @@ Amendment 3: The purpose of this amendment is to revise the Evaluation Criteria 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bbed1d44fe614b7da941197781ef8e50/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bbed1d44fe614b7da941197781ef8e50/view)

@@ -31,4 +31,4 @@ PLEASE SEE THE ATTAHCED FILES, THE ATTACHMENT 3 Q&A..
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2e58937a4a0e434da8bfdbc95356cb62/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2e58937a4a0e434da8bfdbc95356cb62/view)

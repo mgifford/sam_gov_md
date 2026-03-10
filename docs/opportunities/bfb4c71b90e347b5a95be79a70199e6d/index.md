@@ -26,4 +26,4 @@ This is a sources sought synopsis for the General Services Administration (GSA),
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bfb4c71b90e347b5a95be79a70199e6d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bfb4c71b90e347b5a95be79a70199e6d/view)

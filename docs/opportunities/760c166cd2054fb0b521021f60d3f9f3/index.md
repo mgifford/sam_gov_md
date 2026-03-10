@@ -28,4 +28,4 @@ See attached combined solitication and it's attachments. See attached solicitati
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/760c166cd2054fb0b521021f60d3f9f3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/760c166cd2054fb0b521021f60d3f9f3/view)

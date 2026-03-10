@@ -28,4 +28,4 @@ FL-PELICAN ISLAND NWR-GOOSENECK TRAILER
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/75ea18edca084089a46fe3a0245d7016/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/75ea18edca084089a46fe3a0245d7016/view)

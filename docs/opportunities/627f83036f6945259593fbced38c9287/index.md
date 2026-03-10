@@ -26,4 +26,4 @@ ITEM: Cylinder Assembly, Linear, Actuating NSN: 3040-01-207-6375 MFR / CAGE: Gro
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/627f83036f6945259593fbced38c9287/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/627f83036f6945259593fbced38c9287/view)

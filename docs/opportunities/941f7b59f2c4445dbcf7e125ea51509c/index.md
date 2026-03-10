@@ -25,4 +25,4 @@ Proposed procurement for NSN 8305016309236 CLOTH,IMPREGNATED: Line 0001 Qty 4 UI
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/941f7b59f2c4445dbcf7e125ea51509c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/941f7b59f2c4445dbcf7e125ea51509c/view)

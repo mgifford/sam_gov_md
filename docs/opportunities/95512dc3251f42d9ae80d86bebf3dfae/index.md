@@ -25,4 +25,4 @@ Proposed procurement for NSN 2910007856350 TAPPET ASSEMBLY,FUE: Line 0001 Qty 50
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/95512dc3251f42d9ae80d86bebf3dfae/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/95512dc3251f42d9ae80d86bebf3dfae/view)

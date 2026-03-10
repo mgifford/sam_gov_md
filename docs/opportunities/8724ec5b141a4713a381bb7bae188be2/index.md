@@ -26,4 +26,4 @@ The United States Air Force (USAF) is seeking market research quotes for the too
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8724ec5b141a4713a381bb7bae188be2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8724ec5b141a4713a381bb7bae188be2/view)

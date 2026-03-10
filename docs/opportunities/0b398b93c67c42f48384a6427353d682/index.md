@@ -32,4 +32,4 @@ The purpose of this amendment is to: 1. Incorporate the questions and answers. 2
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0b398b93c67c42f48384a6427353d682/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0b398b93c67c42f48384a6427353d682/view)

@@ -30,4 +30,4 @@ Please see attachments for more details. All attendees shall park in the Parking
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c4c9489659f7455c90b74c04c6592f43/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c4c9489659f7455c90b74c04c6592f43/view)

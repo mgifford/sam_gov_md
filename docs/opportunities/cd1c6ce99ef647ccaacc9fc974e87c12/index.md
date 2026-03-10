@@ -26,4 +26,4 @@ The National Park Service (NPS) is conducting a market survey to determine the i
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/cd1c6ce99ef647ccaacc9fc974e87c12/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cd1c6ce99ef647ccaacc9fc974e87c12/view)

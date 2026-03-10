@@ -25,4 +25,4 @@ Proposed procurement for NSN 4910017012394 LIFT,TRANSMISSION A: Line 0001 Qty 14
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0c7acb1f9a76454085ad0802e280f9a4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0c7acb1f9a76454085ad0802e280f9a4/view)

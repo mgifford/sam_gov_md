@@ -28,4 +28,4 @@ DESCRIPTION This notice does NOT constitute a request for proposal, request for 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/792d76d6efc34dfbba4771fec9168471/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/792d76d6efc34dfbba4771fec9168471/view)

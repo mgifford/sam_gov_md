@@ -28,4 +28,4 @@ This is solicitation for a commercial service. W91243-26-Q-P014 is being issued 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6d56cee58f0140979f7a037ac27f7e03/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6d56cee58f0140979f7a037ac27f7e03/view)

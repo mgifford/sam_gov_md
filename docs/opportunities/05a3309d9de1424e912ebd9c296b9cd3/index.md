@@ -30,4 +30,4 @@ The US Army Corps of Engineers (USACE), Walla Walla District is seeking business
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/05a3309d9de1424e912ebd9c296b9cd3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/05a3309d9de1424e912ebd9c296b9cd3/view)

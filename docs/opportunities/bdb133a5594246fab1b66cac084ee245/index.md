@@ -25,4 +25,4 @@ NOTICE OF INTENT TO SOLE SOURCE: The Defense Health Agency Contracting Activity,
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bdb133a5594246fab1b66cac084ee245/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bdb133a5594246fab1b66cac084ee245/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 3040015321803 HUB,BODY: Line 0001 Qty 55 UI EA Deli
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e1ac38701186443cb77d16224afd2ff3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e1ac38701186443cb77d16224afd2ff3/view)

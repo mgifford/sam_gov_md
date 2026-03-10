@@ -25,4 +25,4 @@ Proposed procurement for NSN 3439016794809 WELDING QUALIFICATI: Line 0001 Qty 65
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9cdbcb1e80494eef8ce83b4b2a3f7936/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9cdbcb1e80494eef8ce83b4b2a3f7936/view)

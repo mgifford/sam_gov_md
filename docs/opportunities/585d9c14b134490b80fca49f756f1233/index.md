@@ -26,4 +26,4 @@ Commercial Laundry Washers 2 ea
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/585d9c14b134490b80fca49f756f1233/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/585d9c14b134490b80fca49f756f1233/view)

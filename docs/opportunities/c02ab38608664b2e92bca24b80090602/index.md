@@ -26,4 +26,4 @@ ITEM: Carrier, Gear Assembly NSN: 3010-01-570-7426 MFR CAGE / PART NO: Meritor, 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c02ab38608664b2e92bca24b80090602/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c02ab38608664b2e92bca24b80090602/view)

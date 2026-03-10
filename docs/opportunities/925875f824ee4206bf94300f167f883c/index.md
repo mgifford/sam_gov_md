@@ -30,4 +30,4 @@ Construction NRM Project 663A4-23-201 � Replace 40 Ton Condenser Bldg 200
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/925875f824ee4206bf94300f167f883c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/925875f824ee4206bf94300f167f883c/view)

@@ -26,4 +26,4 @@ HPTC NCR CEASAR RODNEY STATUE
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b2bf878021e14bdc9bb2266630b4d2ae/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b2bf878021e14bdc9bb2266630b4d2ae/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 1005015629457 SLING,SMALL ARMS: Line 0001 Qty 1152 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/62362c6616be4e078054d5fcbd3a307e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/62362c6616be4e078054d5fcbd3a307e/view)

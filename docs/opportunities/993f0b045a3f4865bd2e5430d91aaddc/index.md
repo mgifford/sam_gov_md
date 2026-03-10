@@ -28,4 +28,4 @@ Please see attached Contract Award Synopsis.Contract award date 18 February 2026
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/993f0b045a3f4865bd2e5430d91aaddc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/993f0b045a3f4865bd2e5430d91aaddc/view)

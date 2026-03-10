@@ -30,4 +30,4 @@ This is the award announcement for Letter RFP number SPRRA2-26-R-0007. No hard c
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5f7081e764c946ab9cc1bf702ea8bf00/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5f7081e764c946ab9cc1bf702ea8bf00/view)

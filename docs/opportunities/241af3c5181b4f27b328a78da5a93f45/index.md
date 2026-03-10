@@ -25,4 +25,4 @@ UPDATE 06 MARCH 2026 The effort is continuing to go through the government revie
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/241af3c5181b4f27b328a78da5a93f45/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/241af3c5181b4f27b328a78da5a93f45/view)

@@ -26,4 +26,4 @@ Mechanical Unloading of Islands and Dredging in the Mississippi and Minnesota Ri
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/19b272c78edf4dbdbe90c91347d62302/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/19b272c78edf4dbdbe90c91347d62302/view)

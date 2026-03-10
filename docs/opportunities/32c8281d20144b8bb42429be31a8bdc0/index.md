@@ -27,4 +27,4 @@ This Amendment is to answer questions received by possible vendors and upload li
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/32c8281d20144b8bb42429be31a8bdc0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/32c8281d20144b8bb42429be31a8bdc0/view)

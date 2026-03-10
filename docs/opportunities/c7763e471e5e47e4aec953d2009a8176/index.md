@@ -34,4 +34,4 @@ This request for A-E firm qualifications packages is 100% set-aside for Service-
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c7763e471e5e47e4aec953d2009a8176/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c7763e471e5e47e4aec953d2009a8176/view)

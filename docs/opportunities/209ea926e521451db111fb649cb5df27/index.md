@@ -75,4 +75,4 @@ CONTACT INFORMATION|4|N743.6|WVF|564-230-3066|francine.a.pommells.civ@us.navy.mi
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/209ea926e521451db111fb649cb5df27/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/209ea926e521451db111fb649cb5df27/view)

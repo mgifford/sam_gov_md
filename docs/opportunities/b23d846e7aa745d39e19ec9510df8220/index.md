@@ -34,4 +34,4 @@ DLA TROOP SUPPORT INDO-PACIFIC intends to issue a solicitation and ultimately aw
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b23d846e7aa745d39e19ec9510df8220/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b23d846e7aa745d39e19ec9510df8220/view)

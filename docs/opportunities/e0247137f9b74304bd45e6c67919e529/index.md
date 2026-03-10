@@ -25,4 +25,4 @@ Proposed procurement for NSN 2540015891119 LOCK,SEAT,BACK: Line 0001 Qty 25 UI E
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e0247137f9b74304bd45e6c67919e529/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e0247137f9b74304bd45e6c67919e529/view)

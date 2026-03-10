@@ -25,4 +25,4 @@ NASA/NSSC has a requirement for BK Connect Renewal/Migration. NASA/NSSC intends 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/44575e8a60f5415e991bcc3cb7bb3076/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/44575e8a60f5415e991bcc3cb7bb3076/view)

@@ -25,4 +25,4 @@ Synopsis: NASA/NSSC has a requirement for FY26 Zeiss ATOS SMA Renewal. NASA/NSSC
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5e405cd4df2b40f4b86f654566676682/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5e405cd4df2b40f4b86f654566676682/view)

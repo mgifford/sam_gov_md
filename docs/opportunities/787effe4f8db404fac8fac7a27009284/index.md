@@ -25,4 +25,4 @@ DESCRIPTION This Sources Sought Notice (SSN) is issued under FAR Part 10 to dete
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/787effe4f8db404fac8fac7a27009284/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/787effe4f8db404fac8fac7a27009284/view)

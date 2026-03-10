@@ -30,4 +30,4 @@ The work performed under this contract will consist of furnishing all labor, mat
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a461a469d70f4112bab5d175b11433f6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a461a469d70f4112bab5d175b11433f6/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 6105008960190 MOTOR,DIRECT CURREN: Line 0001 Qty 35
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/69d84cedf28e4b0c97610782c4d723d5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/69d84cedf28e4b0c97610782c4d723d5/view)

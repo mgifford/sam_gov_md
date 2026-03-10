@@ -26,4 +26,4 @@ NSN: 1560-01-105-9521FG NOUN: DOOR, ACCESS, AIRCRAF TOP DRAWING: 35-10868-505 ED
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d16dc6cbda864d0a84b2338a11876892/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d16dc6cbda864d0a84b2338a11876892/view)

@@ -26,4 +26,4 @@ The Indian Health Service, Kayenta Service Unit is issuing this sources-sought s
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ba0c9c00ad1b41f9b4857e5e7cc06c20/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ba0c9c00ad1b41f9b4857e5e7cc06c20/view)

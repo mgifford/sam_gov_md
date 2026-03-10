@@ -26,4 +26,4 @@ The Executive Office for United States Attorneys (EOUSA) on behalf of United Sta
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/98fc68a7573649b6a5a90195502b23df/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/98fc68a7573649b6a5a90195502b23df/view)

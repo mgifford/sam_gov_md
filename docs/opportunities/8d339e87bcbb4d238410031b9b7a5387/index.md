@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340009325666 CLAMP,LOOP: Line 0001 Qty 22 UI EA De
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8d339e87bcbb4d238410031b9b7a5387/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8d339e87bcbb4d238410031b9b7a5387/view)

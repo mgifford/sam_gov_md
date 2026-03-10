@@ -31,4 +31,4 @@ CONTACT INFORMATION|4|N7M1.15|HEJ|771-229-0523|Kailyn.m.muro.civ@us.navy.mil| IT
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/495ecf14fd684cb29210dadfb3c5c243/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/495ecf14fd684cb29210dadfb3c5c243/view)

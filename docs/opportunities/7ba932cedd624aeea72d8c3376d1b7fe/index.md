@@ -31,4 +31,4 @@ Firm-fixed-priced contract competitively awarded full and open.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7ba932cedd624aeea72d8c3376d1b7fe/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7ba932cedd624aeea72d8c3376d1b7fe/view)

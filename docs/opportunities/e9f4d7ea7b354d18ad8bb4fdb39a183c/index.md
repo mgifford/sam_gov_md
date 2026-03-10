@@ -26,4 +26,4 @@ A0001 - The purpose of this amendment is to respond to BQ 1 - 4, extend the prop
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e9f4d7ea7b354d18ad8bb4fdb39a183c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e9f4d7ea7b354d18ad8bb4fdb39a183c/view)

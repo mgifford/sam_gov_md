@@ -25,4 +25,4 @@ Proposed procurement for NSN 6635009822364 TENSIOMETER: Line 0001 Qty 21 UI EA D
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5556160ffc9e4e1891f4b380e600c087/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5556160ffc9e4e1891f4b380e600c087/view)

@@ -30,4 +30,4 @@ Amendment 1: Extended the date of which questions are due to 4 March, 2026; exte
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6245112618cc41238766ce2838a8663e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6245112618cc41238766ce2838a8663e/view)

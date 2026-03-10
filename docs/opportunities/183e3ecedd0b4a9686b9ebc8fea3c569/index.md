@@ -25,4 +25,4 @@ This procurement is a Small Business Set Aside per the requirment in the attache
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/183e3ecedd0b4a9686b9ebc8fea3c569/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/183e3ecedd0b4a9686b9ebc8fea3c569/view)

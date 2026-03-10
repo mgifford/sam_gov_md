@@ -25,4 +25,4 @@ Proposed procurement for NSN 3040015329164 PIVOT SHAFT ASSEMBL: Line 0001 Qty 96
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/70283324c7db48fa8ff2293a002a42b1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/70283324c7db48fa8ff2293a002a42b1/view)

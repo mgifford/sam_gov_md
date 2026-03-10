@@ -28,4 +28,4 @@ RFQ- TOTAL SDVOSB SET-ASIDE
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b197268cf0fc4926abcd8f91e028effa/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b197268cf0fc4926abcd8f91e028effa/view)

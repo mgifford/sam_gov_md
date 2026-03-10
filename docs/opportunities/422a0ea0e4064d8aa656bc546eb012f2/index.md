@@ -32,4 +32,4 @@ UTV - Only bids submitted through the solicitation will be accepted, please do n
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/422a0ea0e4064d8aa656bc546eb012f2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/422a0ea0e4064d8aa656bc546eb012f2/view)

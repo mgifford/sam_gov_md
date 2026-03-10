@@ -27,4 +27,4 @@ This synopsis/notice of intent to sole source is issued in accordance with Feder
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a8e100d5a0bf430a8a46f31a631ea3f3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a8e100d5a0bf430a8a46f31a631ea3f3/view)

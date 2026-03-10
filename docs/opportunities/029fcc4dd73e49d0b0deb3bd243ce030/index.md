@@ -25,4 +25,4 @@ Proposed procurement for NSN 1005123802000 DECKEL,GRIFFBAUGRU: Line 0001 Qty 93 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/029fcc4dd73e49d0b0deb3bd243ce030/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/029fcc4dd73e49d0b0deb3bd243ce030/view)

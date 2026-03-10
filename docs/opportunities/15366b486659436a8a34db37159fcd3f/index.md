@@ -30,4 +30,4 @@ Please see the attached Limited Source Justification.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/15366b486659436a8a34db37159fcd3f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/15366b486659436a8a34db37159fcd3f/view)

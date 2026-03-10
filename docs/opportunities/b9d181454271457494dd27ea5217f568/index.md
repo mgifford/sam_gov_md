@@ -30,4 +30,4 @@ This is a combined synopsis/solicitation for the removal and installation of Ver
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b9d181454271457494dd27ea5217f568/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b9d181454271457494dd27ea5217f568/view)

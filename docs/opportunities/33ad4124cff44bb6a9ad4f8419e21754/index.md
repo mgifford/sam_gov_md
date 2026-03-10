@@ -30,4 +30,4 @@ The Westwind Inn & Fisher House lodging at Travis AFB, CA has a requirement for 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/33ad4124cff44bb6a9ad4f8419e21754/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/33ad4124cff44bb6a9ad4f8419e21754/view)

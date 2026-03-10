@@ -28,4 +28,4 @@ The Naval Surface Warfare Center Philadelphia intends to procure Leica Cleaning 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b1547f5027804520ae3de3cbe8e0c416/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b1547f5027804520ae3de3cbe8e0c416/view)

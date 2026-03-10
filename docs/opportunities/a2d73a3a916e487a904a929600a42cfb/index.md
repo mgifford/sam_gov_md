@@ -30,4 +30,4 @@ THIS IS A PRE-SOLICITATION / SYNOPSIS NOTICE ITEM: Circuit Card Assembly NSN: 59
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a2d73a3a916e487a904a929600a42cfb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a2d73a3a916e487a904a929600a42cfb/view)

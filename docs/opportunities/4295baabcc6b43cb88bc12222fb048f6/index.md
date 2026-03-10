@@ -57,4 +57,4 @@ CONTACT INFORMATION|4|N713.32|GAE|717-605-1313|KARA.K.HALE2.CIV@US.NAVY.MIL| ITE
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4295baabcc6b43cb88bc12222fb048f6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4295baabcc6b43cb88bc12222fb048f6/view)

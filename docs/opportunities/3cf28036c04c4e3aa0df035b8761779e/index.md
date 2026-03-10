@@ -30,4 +30,4 @@ This is a Presolicitation Notice issued in accordance with (IAW) Revolutionary F
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3cf28036c04c4e3aa0df035b8761779e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3cf28036c04c4e3aa0df035b8761779e/view)

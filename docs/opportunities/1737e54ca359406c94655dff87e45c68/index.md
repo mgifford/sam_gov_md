@@ -25,4 +25,4 @@ Proposed procurement for NSN 6655009321353 BATHYTHERMOGRAPH,PR: Line 0001 Qty 34
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1737e54ca359406c94655dff87e45c68/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1737e54ca359406c94655dff87e45c68/view)

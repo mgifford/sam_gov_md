@@ -25,4 +25,4 @@ Proposed procurement for NSN 5342016881399 LEVER,MANUAL CONTRO: Line 0001 Qty 29
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/520e8023273949beb357606f0430cce6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/520e8023273949beb357606f0430cce6/view)

@@ -26,4 +26,4 @@ See attached Sources Sought Notice (SSN) for a Mettler Toledo HX204 Halogen Mois
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1c3d976c287c499ca7ba9ec3c85d9145/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1c3d976c287c499ca7ba9ec3c85d9145/view)

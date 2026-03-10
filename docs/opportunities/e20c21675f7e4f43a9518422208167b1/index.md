@@ -26,4 +26,4 @@ THIS IS A SOLICITATION NOTICE ITEM: Bar, Guide, Vehicular NSN: 2540-01-706-3324 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e20c21675f7e4f43a9518422208167b1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e20c21675f7e4f43a9518422208167b1/view)

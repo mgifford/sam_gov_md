@@ -28,4 +28,4 @@ KIMBROUGH AMBULATORY CARE CENTER (ACC), FORT MEADE, MD THIS IS A SOURCES SOUGHT 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d4d9c03b9f1f45cf88e9f55b5fcfa802/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d4d9c03b9f1f45cf88e9f55b5fcfa802/view)

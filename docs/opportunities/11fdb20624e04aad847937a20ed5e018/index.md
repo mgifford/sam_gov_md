@@ -27,4 +27,4 @@ This is a combined synopsis/solicitation for the Community Care Network (CCN) Ne
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/11fdb20624e04aad847937a20ed5e018/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/11fdb20624e04aad847937a20ed5e018/view)

@@ -27,4 +27,4 @@ SPS RO SYSTEM REPLACEMENT SERVICE
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c378e9c08fcd4dc5bf09167e812ddf60/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c378e9c08fcd4dc5bf09167e812ddf60/view)

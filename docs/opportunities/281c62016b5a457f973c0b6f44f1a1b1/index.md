@@ -28,4 +28,4 @@ The purpose of this notice is to post the Justification for Limited Sources unde
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/281c62016b5a457f973c0b6f44f1a1b1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/281c62016b5a457f973c0b6f44f1a1b1/view)

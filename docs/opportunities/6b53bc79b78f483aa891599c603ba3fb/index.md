@@ -27,4 +27,4 @@ SOLICITATION DESCRIPTION This amendment is to extend the proposal due date to re
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6b53bc79b78f483aa891599c603ba3fb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6b53bc79b78f483aa891599c603ba3fb/view)

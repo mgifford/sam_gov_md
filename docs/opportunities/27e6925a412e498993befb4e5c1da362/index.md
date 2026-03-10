@@ -25,4 +25,4 @@ Proposed procurement for NSN 3990011327473 RAMP,LOADING,VEHICL: Line 0001 Qty 6 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/27e6925a412e498993befb4e5c1da362/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/27e6925a412e498993befb4e5c1da362/view)

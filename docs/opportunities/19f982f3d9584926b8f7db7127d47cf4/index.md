@@ -28,4 +28,4 @@ No phone calls. Send any responses by e-mail only. As this is a Sources Sought N
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/19f982f3d9584926b8f7db7127d47cf4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/19f982f3d9584926b8f7db7127d47cf4/view)

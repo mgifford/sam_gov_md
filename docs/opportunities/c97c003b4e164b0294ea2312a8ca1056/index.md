@@ -28,4 +28,4 @@ Boiler Plant Control Systems GEORGE E. WAHLEN VAMC 500 foothill Blvd Engineering
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c97c003b4e164b0294ea2312a8ca1056/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c97c003b4e164b0294ea2312a8ca1056/view)

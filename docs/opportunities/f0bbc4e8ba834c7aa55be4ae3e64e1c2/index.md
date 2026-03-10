@@ -25,4 +25,4 @@ Proposed procurement for NSN 3110002710009 BEARING,ROLLER,AIRF: Line 0001 Qty 17
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f0bbc4e8ba834c7aa55be4ae3e64e1c2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f0bbc4e8ba834c7aa55be4ae3e64e1c2/view)

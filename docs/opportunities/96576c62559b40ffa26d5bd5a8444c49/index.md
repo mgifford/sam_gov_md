@@ -57,4 +57,4 @@ CONTACT INFORMATION|4|N7M1.23|GX0|7712291604|KRISTEN.L.WARDECKER.CIV@US.NAVY.MIL
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/96576c62559b40ffa26d5bd5a8444c49/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/96576c62559b40ffa26d5bd5a8444c49/view)

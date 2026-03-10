@@ -28,4 +28,4 @@ INSTALL NEW GREENSAND FILTER - WELLHOUSE
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/dccd738876524206a7c4f3664dee44a6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/dccd738876524206a7c4f3664dee44a6/view)

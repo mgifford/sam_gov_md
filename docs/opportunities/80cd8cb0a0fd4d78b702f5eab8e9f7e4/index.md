@@ -27,4 +27,4 @@ Solicitation Number: 36C78626B0007 Project Number: 810CM3033 Description: Graves
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/80cd8cb0a0fd4d78b702f5eab8e9f7e4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/80cd8cb0a0fd4d78b702f5eab8e9f7e4/view)

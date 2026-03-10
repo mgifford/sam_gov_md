@@ -26,4 +26,4 @@ Changes Voyage Repair (VR) in support of the USNS SHIP (T-AKE).
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e56a102ff44949ea86d91cc8ff9a159e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e56a102ff44949ea86d91cc8ff9a159e/view)

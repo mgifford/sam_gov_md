@@ -28,4 +28,4 @@ In accordance with FAR 13.106-1(b)/8.405-6(a)(2), this Notice of Intent is to in
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fa6c3d73d4ca4deb80dd2b70ff747db9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fa6c3d73d4ca4deb80dd2b70ff747db9/view)

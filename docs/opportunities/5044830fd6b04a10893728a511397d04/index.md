@@ -30,4 +30,4 @@ PIEE Submission. Offerors SHALL deliver proposal through the Solicitation Module
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5044830fd6b04a10893728a511397d04/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5044830fd6b04a10893728a511397d04/view)

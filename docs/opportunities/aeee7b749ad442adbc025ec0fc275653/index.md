@@ -30,4 +30,4 @@ Presolicitation Notice/Advertisement RLP Procurement Summary GSA Public Building
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/aeee7b749ad442adbc025ec0fc275653/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/aeee7b749ad442adbc025ec0fc275653/view)

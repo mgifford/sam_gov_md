@@ -28,4 +28,4 @@ The U.S. Army Contracting Command, Rock Island, on behalf of PM-CCS (Project Man
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/55decea4475b41d8bde86bf52db437c0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/55decea4475b41d8bde86bf52db437c0/view)

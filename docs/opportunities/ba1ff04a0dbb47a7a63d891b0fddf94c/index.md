@@ -25,4 +25,4 @@ Proposed procurement for NSN 4320009104547 SLEEVE,SHAFT,PUMP: Line 0001 Qty 5 UI
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ba1ff04a0dbb47a7a63d891b0fddf94c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ba1ff04a0dbb47a7a63d891b0fddf94c/view)

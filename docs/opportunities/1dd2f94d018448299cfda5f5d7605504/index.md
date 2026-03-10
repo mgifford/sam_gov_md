@@ -28,4 +28,4 @@ NOTE: All sources may submit a quote or quote as applicable. However, the Republ
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1dd2f94d018448299cfda5f5d7605504/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1dd2f94d018448299cfda5f5d7605504/view)

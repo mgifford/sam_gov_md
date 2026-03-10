@@ -26,4 +26,4 @@ This is a Solicitation notice for the Department of Veterans Affairs, Network Co
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2e49804347b04b378a1fc318ef75650f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2e49804347b04b378a1fc318ef75650f/view)

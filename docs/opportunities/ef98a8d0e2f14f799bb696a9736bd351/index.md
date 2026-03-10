@@ -28,4 +28,4 @@ Pre-Solicitation Notice for the notice of intent to award a sole source contract
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ef98a8d0e2f14f799bb696a9736bd351/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ef98a8d0e2f14f799bb696a9736bd351/view)

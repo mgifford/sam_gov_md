@@ -31,4 +31,4 @@ Naval Surface Warfare Center (NSWC) Crane has a requirement for Illinois Tool Wo
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a2d80e73a66c4251b89653bb7ac7f7b4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a2d80e73a66c4251b89653bb7ac7f7b4/view)

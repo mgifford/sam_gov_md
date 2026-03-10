@@ -26,4 +26,4 @@ Amended to add set aside code. Container Assembly and Sealing Disk
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1a8f739e9c1a4098b8aeec2e13be9b04/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1a8f739e9c1a4098b8aeec2e13be9b04/view)

@@ -30,4 +30,4 @@ The purpose of this amendment is: 1. To upload "Solicitation - W912LR26QA011' in
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/60bc9af043684420b456772814dbf8ce/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/60bc9af043684420b456772814dbf8ce/view)

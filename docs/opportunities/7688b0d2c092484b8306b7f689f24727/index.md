@@ -25,4 +25,4 @@ Proposed procurement for NSN 5995013947038 B-B PHN AND DISTANCE L: Line 0001 Qty
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7688b0d2c092484b8306b7f689f24727/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7688b0d2c092484b8306b7f689f24727/view)

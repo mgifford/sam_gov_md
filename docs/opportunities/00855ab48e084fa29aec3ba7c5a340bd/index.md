@@ -26,4 +26,4 @@ Synopsis This solicitation originated from a purchase request for two FlightWave
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/00855ab48e084fa29aec3ba7c5a340bd/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/00855ab48e084fa29aec3ba7c5a340bd/view)

@@ -29,4 +29,4 @@ SPARE. QTY 19 - ACTUATOR, HYDRAULIC. See details outlined in the solicitation.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7ab954f2526f47feb0ca69b4bc52dbe9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7ab954f2526f47feb0ca69b4bc52dbe9/view)

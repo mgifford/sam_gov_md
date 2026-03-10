@@ -25,4 +25,4 @@ Proposed procurement for NSN 2815015329533 PARTS KIT,DIESEL EN: Line 0001 Qty 24
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2e26bcabb381466493209c646a0a8670/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2e26bcabb381466493209c646a0a8670/view)

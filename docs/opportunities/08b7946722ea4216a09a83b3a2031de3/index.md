@@ -25,4 +25,4 @@ THIS IS A FIRM FIXED-PRICE SERVICE TYPE CONTRACT NAVSUP Fleet Logistics Center P
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/08b7946722ea4216a09a83b3a2031de3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/08b7946722ea4216a09a83b3a2031de3/view)

@@ -26,4 +26,4 @@ Amendment 0004: Extends solicitation until March 13th, 2026 at 1:00 PM EDT. END 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0fa24cf844b147e89c5af64b86627b58/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0fa24cf844b147e89c5af64b86627b58/view)

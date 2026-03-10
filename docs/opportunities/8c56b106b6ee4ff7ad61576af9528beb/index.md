@@ -26,4 +26,4 @@ This is a SOURCES SOUGHT SYNOPSIS and is NOT a solicitation announcement.Market 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8c56b106b6ee4ff7ad61576af9528beb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8c56b106b6ee4ff7ad61576af9528beb/view)

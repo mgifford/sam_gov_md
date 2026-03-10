@@ -25,4 +25,4 @@ Proposed procurement for NSN 5330013779844 GASKET,SPIRAL WOUND: Line 0001 Qty 17
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/93556f05e3f74a92bf365583af017fbe/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/93556f05e3f74a92bf365583af017fbe/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 2540002179372 DRAWBAR,TRAILER: Line 0001 Qty 2 UI E
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/89469717cf3f43a695a08d41a2fa2e85/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/89469717cf3f43a695a08d41a2fa2e85/view)

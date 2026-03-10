@@ -31,4 +31,4 @@ CONTACT INFORMATION|4|N743.25|WVE|771-229-1462|jordan.d.neely2.civ@us.navy.mil| 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b7fe14edacfe472c994e38c32c4e7f48/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b7fe14edacfe472c994e38c32c4e7f48/view)

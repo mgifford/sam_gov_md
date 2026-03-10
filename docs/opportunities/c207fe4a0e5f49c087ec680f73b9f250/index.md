@@ -26,4 +26,4 @@ ARMY CONTRACTING COMMAND - ROCK ISLAND has issued a Simplified Acquisition under
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c207fe4a0e5f49c087ec680f73b9f250/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c207fe4a0e5f49c087ec680f73b9f250/view)

@@ -36,4 +36,4 @@ Project Title: Various Roof Repairs B1601, B1822, B1693, B160 Project Location: 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2b3cc7681ac74c71a28e6c04fd51987b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2b3cc7681ac74c71a28e6c04fd51987b/view)

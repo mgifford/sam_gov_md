@@ -26,4 +26,4 @@ AMENDMENT 1 The purpose of amendment number 1 is to add the requirement for an N
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2ae3ff06df19402fa6b31d871620b1e6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2ae3ff06df19402fa6b31d871620b1e6/view)

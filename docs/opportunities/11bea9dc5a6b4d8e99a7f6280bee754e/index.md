@@ -29,4 +29,4 @@ Amendment 0003 to RFP 1605C3-25-R-00007 is hereby published.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/11bea9dc5a6b4d8e99a7f6280bee754e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/11bea9dc5a6b4d8e99a7f6280bee754e/view)

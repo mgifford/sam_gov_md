@@ -25,4 +25,4 @@ Proposed procurement for NSN 2590016643068 MANIFOLD ASSEMBLY,H: Line 0001 Qty 4 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ef46b60ca26a45558aa3ea9766476fb3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ef46b60ca26a45558aa3ea9766476fb3/view)

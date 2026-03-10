@@ -57,4 +57,4 @@ CONTACT INFORMATION|4|N713.33|GLM|771-229-0386|ASHLEY.H.BETLOCK.CIV@US.NAVY.MIL|
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b7a0b8e824f64c4ab45f34b8256ab98f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b7a0b8e824f64c4ab45f34b8256ab98f/view)

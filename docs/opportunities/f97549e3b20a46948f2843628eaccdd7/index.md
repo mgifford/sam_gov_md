@@ -31,4 +31,4 @@ CONTACT INFORMATION|4|Ryan Powell N744.3|WVM|N/A|ryan.m.powell22.civ@us.navy.mil
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f97549e3b20a46948f2843628eaccdd7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f97549e3b20a46948f2843628eaccdd7/view)

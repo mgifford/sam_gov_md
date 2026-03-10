@@ -25,4 +25,4 @@ NOAA Ship HENRY B. BIGELOW Modernization & Revitalization Program (MRP)
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3c1d724b3b894ef4aa0174b522679f50/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3c1d724b3b894ef4aa0174b522679f50/view)

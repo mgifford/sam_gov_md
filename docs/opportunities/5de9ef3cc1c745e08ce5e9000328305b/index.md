@@ -32,4 +32,4 @@ Spray Dryer - Only bids submitted through the solicitation will be accepted, ple
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5de9ef3cc1c745e08ce5e9000328305b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5de9ef3cc1c745e08ce5e9000328305b/view)

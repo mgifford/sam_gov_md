@@ -26,4 +26,4 @@ FX74 Strategic Airlift Hangar, Naval Station Rota, Spain - Amendment 0003. Amend
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2178553ff08a46f1a248de3a8deb7408/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2178553ff08a46f1a248de3a8deb7408/view)

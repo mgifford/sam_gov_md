@@ -25,4 +25,4 @@ THIS IS A NOTICE OF INTENT TO AWARD A SOLE-SOURCE CONTRACT AND IS NOT A REQUEST 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bad094ab9d63413c94c7c161d2a98171/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bad094ab9d63413c94c7c161d2a98171/view)

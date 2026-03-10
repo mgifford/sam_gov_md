@@ -25,4 +25,4 @@ The purpose of this amendment (0002) is to: 1. Publish the following documents. 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/033429affd5940a19e3c746a54faf831/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/033429affd5940a19e3c746a54faf831/view)

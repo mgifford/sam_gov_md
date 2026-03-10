@@ -32,4 +32,4 @@ The contractor shall provide a Crane operator, a rigging crew, and one (1) Crane
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c311334cffad498fa198a8f319e242ac/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c311334cffad498fa198a8f319e242ac/view)

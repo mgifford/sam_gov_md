@@ -25,4 +25,4 @@ NSN 7R-5845-016590089-CB, REF NR H420805-2, QTY 3 EA, DELIVERY FOB ORIGIN. This 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e3366de10f874b7dbd441a971084f27e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e3366de10f874b7dbd441a971084f27e/view)

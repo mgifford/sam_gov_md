@@ -34,4 +34,4 @@ Amendment 0004: This amendment is being issued to change or update the following
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e1f35c9cc0684c21a8656a48a13b8974/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e1f35c9cc0684c21a8656a48a13b8974/view)

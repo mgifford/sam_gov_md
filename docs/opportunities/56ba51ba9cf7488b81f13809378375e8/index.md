@@ -34,4 +34,4 @@ The Defense Logistics Agency-Aberdeen, on behalf of the Army Integrated Logistic
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/56ba51ba9cf7488b81f13809378375e8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/56ba51ba9cf7488b81f13809378375e8/view)

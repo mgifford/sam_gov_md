@@ -26,4 +26,4 @@ A site visit will be held on Thursday, March 19, 2026 at 10:00 AM (EDT). Partici
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/61cbd0257daa4499acec9ef8181f0215/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/61cbd0257daa4499acec9ef8181f0215/view)

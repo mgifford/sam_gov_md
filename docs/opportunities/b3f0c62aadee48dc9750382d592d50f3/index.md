@@ -26,4 +26,4 @@ The Regional Contracting Office - Wiesbaden (RCO-W) intends to issue a sole sour
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b3f0c62aadee48dc9750382d592d50f3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b3f0c62aadee48dc9750382d592d50f3/view)

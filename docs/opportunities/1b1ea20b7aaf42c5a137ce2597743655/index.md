@@ -24,4 +24,4 @@ CRADA ANNOUNCEMENT Title: Cooperative Research and Development Agreement (CRADA)
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1b1ea20b7aaf42c5a137ce2597743655/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1b1ea20b7aaf42c5a137ce2597743655/view)

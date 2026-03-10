@@ -30,4 +30,4 @@ THIS IS NOT A REQUEST FOR QUOTE (RFQ). THE GOVERNMENT WILL NOT PAY FOR ANY COSTS
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e5c480eb9ba6407c8479043dcf0cd7ba/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e5c480eb9ba6407c8479043dcf0cd7ba/view)

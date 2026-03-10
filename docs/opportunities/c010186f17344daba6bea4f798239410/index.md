@@ -30,4 +30,4 @@ Amendment 01 Questions and Answers document added and extend quotes due date to 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c010186f17344daba6bea4f798239410/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c010186f17344daba6bea4f798239410/view)

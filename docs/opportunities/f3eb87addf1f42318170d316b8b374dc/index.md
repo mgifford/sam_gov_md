@@ -29,4 +29,4 @@ This is a Request for Quote (RFQ) Solicitation for the acquisition of a VP1500D 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f3eb87addf1f42318170d316b8b374dc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f3eb87addf1f42318170d316b8b374dc/view)

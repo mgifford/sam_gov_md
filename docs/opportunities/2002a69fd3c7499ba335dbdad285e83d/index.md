@@ -25,4 +25,4 @@ NASA Environmental Support Services (NESS) at John C. Stennis Space Center (SSC)
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2002a69fd3c7499ba335dbdad285e83d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2002a69fd3c7499ba335dbdad285e83d/view)

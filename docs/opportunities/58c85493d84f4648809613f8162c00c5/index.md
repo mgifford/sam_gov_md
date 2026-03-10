@@ -36,4 +36,4 @@ Amendment #0004 09 March 2026 The purpose of this amendment is to update 52.212-
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/58c85493d84f4648809613f8162c00c5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/58c85493d84f4648809613f8162c00c5/view)

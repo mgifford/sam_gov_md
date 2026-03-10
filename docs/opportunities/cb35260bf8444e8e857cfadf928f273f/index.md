@@ -25,4 +25,4 @@ Proposed procurement for NSN 5310006256427 NUT,GAS TURBINE: Line 0001 Qty 325 UI
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/cb35260bf8444e8e857cfadf928f273f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cb35260bf8444e8e857cfadf928f273f/view)

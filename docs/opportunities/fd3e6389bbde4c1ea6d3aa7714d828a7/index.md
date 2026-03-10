@@ -30,4 +30,4 @@ At the request of the Federal Communications Commission (FCC) Office of Managing
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fd3e6389bbde4c1ea6d3aa7714d828a7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fd3e6389bbde4c1ea6d3aa7714d828a7/view)

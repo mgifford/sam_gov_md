@@ -26,4 +26,4 @@ USNS GRASP Pilot House Windows sources sought is attached.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/71508f1f611e4f24ba74675f6eb3f467/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/71508f1f611e4f24ba74675f6eb3f467/view)

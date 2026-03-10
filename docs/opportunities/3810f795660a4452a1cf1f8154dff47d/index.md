@@ -28,4 +28,4 @@ The Bureau of Engraving and Printing (BEP) has a requirement for Uninterruptible
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3810f795660a4452a1cf1f8154dff47d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3810f795660a4452a1cf1f8154dff47d/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340001919406 TRACK,SLIDING DOOR: Line 0001 Qty 23 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3465f639084246ef800ca3978b07427d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3465f639084246ef800ca3978b07427d/view)

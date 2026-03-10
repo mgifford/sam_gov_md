@@ -25,4 +25,4 @@ CONTACT INFORMATION|4|TBD|TBD|TBD|TBD| ITEM UNIQUE IDENTIFICATION AND VALUATION 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/78315650043f4390830767f0b4c7ef02/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/78315650043f4390830767f0b4c7ef02/view)

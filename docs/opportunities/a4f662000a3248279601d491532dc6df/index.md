@@ -25,4 +25,4 @@ Proposed procurement for NSN 8145GM5024318 Containers IST - Phila: Line 0001 Qty
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a4f662000a3248279601d491532dc6df/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a4f662000a3248279601d491532dc6df/view)

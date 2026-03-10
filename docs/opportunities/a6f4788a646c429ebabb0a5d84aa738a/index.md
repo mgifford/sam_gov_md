@@ -28,4 +28,4 @@ The National Institute of Standards and Technology (NIST), Boulder, Colorado, is
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a6f4788a646c429ebabb0a5d84aa738a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a6f4788a646c429ebabb0a5d84aa738a/view)

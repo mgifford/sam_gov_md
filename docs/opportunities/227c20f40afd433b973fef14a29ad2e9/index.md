@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340014976745 STOP,MECHANICAL: Line 0001 Qty 3 UI E
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/227c20f40afd433b973fef14a29ad2e9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/227c20f40afd433b973fef14a29ad2e9/view)

@@ -26,4 +26,4 @@ The US Government currently occupies office and related space in a building unde
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/aacb323ab67c4a7ea7369712b60a5948/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/aacb323ab67c4a7ea7369712b60a5948/view)

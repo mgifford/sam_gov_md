@@ -28,4 +28,4 @@ The U.S. Embassy in Mexico City requires a contractor to provide vacant property
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a98ef391e20d4477b6f60aea5e351898/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a98ef391e20d4477b6f60aea5e351898/view)

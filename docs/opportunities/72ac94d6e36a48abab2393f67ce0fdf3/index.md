@@ -31,4 +31,4 @@ This effort is for the manufacture and delivery F/A-18 Peculiar Support Equipmen
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/72ac94d6e36a48abab2393f67ce0fdf3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/72ac94d6e36a48abab2393f67ce0fdf3/view)

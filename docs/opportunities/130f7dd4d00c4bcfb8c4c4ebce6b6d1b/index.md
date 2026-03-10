@@ -25,4 +25,4 @@ Proposed procurement for NSN 3120013323369 BEARING,PLAIN,ROD E: Line 0001 Qty 30
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/130f7dd4d00c4bcfb8c4c4ebce6b6d1b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/130f7dd4d00c4bcfb8c4c4ebce6b6d1b/view)

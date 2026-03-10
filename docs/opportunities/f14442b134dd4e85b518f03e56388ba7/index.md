@@ -25,4 +25,4 @@ Proposed procurement for NSN 2040017068291 MODIFICATION KIT,MA: Line 0001 Qty 2 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f14442b134dd4e85b518f03e56388ba7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f14442b134dd4e85b518f03e56388ba7/view)

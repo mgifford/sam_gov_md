@@ -30,4 +30,4 @@ Sources sought notice N32205-SS-N103-26-066 is hereby amended. Please see attach
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a711251192f343c38f7481550e7c1e6f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a711251192f343c38f7481550e7c1e6f/view)

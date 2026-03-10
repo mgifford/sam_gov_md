@@ -19,4 +19,4 @@ The U.S. Department of Commerce (DOC), Office of Acquisition Management, Shared 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/cda046c68afb4b28bcfd67ccb920bed1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cda046c68afb4b28bcfd67ccb920bed1/view)

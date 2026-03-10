@@ -26,4 +26,4 @@ NV-PAHRANAGAT NWR - Southwestern Willow Flycatcher (SWLF) Assessment SWLF is an 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b6c3b096a5ae4b8192acef3431371f5a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b6c3b096a5ae4b8192acef3431371f5a/view)

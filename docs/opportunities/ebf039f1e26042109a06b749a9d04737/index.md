@@ -26,4 +26,4 @@ The Portland VA Medical Center requires testing, balancing and certification of 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ebf039f1e26042109a06b749a9d04737/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ebf039f1e26042109a06b749a9d04737/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340016277924 SHIELD,EXPANSION: Line 0001 Qty 800 U
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e850f68bf64a4de3b19f88ebfc0bbfc4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e850f68bf64a4de3b19f88ebfc0bbfc4/view)

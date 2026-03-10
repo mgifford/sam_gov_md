@@ -28,4 +28,4 @@ Special Notice Page 1 of Page 1 of 1 NOTICE OF INTENT TO SOLE-SOURCE The Sherida
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/39a7ec92bc77479d8de89893e534562f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/39a7ec92bc77479d8de89893e534562f/view)

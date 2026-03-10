@@ -27,4 +27,4 @@ Abdominal Insufflator
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7b1b4a46487041f4be74065df400b08e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7b1b4a46487041f4be74065df400b08e/view)

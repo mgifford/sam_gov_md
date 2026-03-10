@@ -34,4 +34,4 @@ A00003 - The response date for this Synopsis/Solicitation has been updated to Ma
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6dfe78a2870147a188adf7fa9fa4b49f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6dfe78a2870147a188adf7fa9fa4b49f/view)

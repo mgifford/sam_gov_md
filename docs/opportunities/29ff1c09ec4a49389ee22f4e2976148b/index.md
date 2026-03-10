@@ -30,4 +30,4 @@ Amendment: Attaching Questions and Answers Document and the Inspection List Orig
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/29ff1c09ec4a49389ee22f4e2976148b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/29ff1c09ec4a49389ee22f4e2976148b/view)

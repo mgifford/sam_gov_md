@@ -35,4 +35,4 @@ USS MIGUEL KEITH (ESB-5) MSC CIVMAR Voyage Repair Availability KR The contractor
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2e2f83ef96f345649505859bfac0086d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2e2f83ef96f345649505859bfac0086d/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 5935003274491 ADAPTER,CONNECTOR: Line 0001 Qty 13 U
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e6fd6949c8944c95b8b4914ac8d76827/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e6fd6949c8944c95b8b4914ac8d76827/view)

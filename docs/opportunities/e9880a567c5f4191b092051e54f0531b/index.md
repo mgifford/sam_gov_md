@@ -27,4 +27,4 @@ SOURCES SOUGHT FOR INDEFINITE DELIVERY INDEFINITE QUANTITY (IDIQ) MULTIPLE AWARD
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e9880a567c5f4191b092051e54f0531b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e9880a567c5f4191b092051e54f0531b/view)

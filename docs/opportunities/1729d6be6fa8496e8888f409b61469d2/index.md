@@ -25,4 +25,4 @@ Proposed procurement for NSN 1650005109088 PARTS KIT,SERVO VAL: Line 0001 Qty 18
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1729d6be6fa8496e8888f409b61469d2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1729d6be6fa8496e8888f409b61469d2/view)

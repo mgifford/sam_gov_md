@@ -25,4 +25,4 @@ See attached Redacted J&A
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/122a614d2f5c45d8934f86a9ad5df7ec/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/122a614d2f5c45d8934f86a9ad5df7ec/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 4730016930309 CONNECTOR,AIR HOSE: Line 0001 Qty 348
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/dd7d6d23408c4dfc9b0a5e46ddbd580b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/dd7d6d23408c4dfc9b0a5e46ddbd580b/view)

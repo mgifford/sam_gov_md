@@ -26,4 +26,4 @@ SEE ATTACHED FOR RESPONSES TO INQUIRIES SUBMITTED PRIOR TO THE QUESTIONS DEADLIN
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/029e1b6c551f42d396f90c14dd261c2b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/029e1b6c551f42d396f90c14dd261c2b/view)

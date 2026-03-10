@@ -29,4 +29,4 @@ This is a SOURCES SOUGHT notice that is issued solely for informational and plan
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5c4fc8f614f44182921eff354270d173/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5c4fc8f614f44182921eff354270d173/view)

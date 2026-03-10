@@ -28,4 +28,4 @@ INTENT TO SOLE SOURCE The Department of Veterans Affairs, Network Contracting Of
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b4bbb0630cca4605a2d28b3d2639ac47/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b4bbb0630cca4605a2d28b3d2639ac47/view)

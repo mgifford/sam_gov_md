@@ -25,4 +25,4 @@ Proposed procurement for NSN 4520015036159 HEATER,WATER,ELECTR: Line 0001 Qty 1 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c2ab0c63f2084d4bb553b57c39915816/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c2ab0c63f2084d4bb553b57c39915816/view)

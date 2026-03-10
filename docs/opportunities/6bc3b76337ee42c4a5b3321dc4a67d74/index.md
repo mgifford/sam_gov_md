@@ -34,4 +34,4 @@ This is a brand name only request for two AcuDose Chemistry Dosing Systems, two 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6bc3b76337ee42c4a5b3321dc4a67d74/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6bc3b76337ee42c4a5b3321dc4a67d74/view)

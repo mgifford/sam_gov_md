@@ -25,4 +25,4 @@ Proposed procurement for NSN 1710009190548 BASE,FAIRLEAD SHEAV: Line 0001 Qty 29
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8da4620dbb854f209542421b593093e4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8da4620dbb854f209542421b593093e4/view)

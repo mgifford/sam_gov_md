@@ -28,4 +28,4 @@ THE PURPOSE OF THIS NOTICE IS TO IDENTIFY VIABLE SOURCES I/A/W/ DFARS REGULATION
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7565907529684276adf00244bf4781e0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7565907529684276adf00244bf4781e0/view)

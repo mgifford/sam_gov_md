@@ -25,4 +25,4 @@ Proposed procurement for NSN 6210013431481 READOUT,INCANDESCEN: Line 0001 Qty 67
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/58d6780369f24201a9b31ac8cece5c68/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/58d6780369f24201a9b31ac8cece5c68/view)

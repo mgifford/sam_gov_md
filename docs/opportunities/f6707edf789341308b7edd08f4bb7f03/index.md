@@ -27,4 +27,4 @@ PLEASE SEE THE ATTACHED PDF. Solicitation #36C24226Q0322 Amendment 0001 answers 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f6707edf789341308b7edd08f4bb7f03/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f6707edf789341308b7edd08f4bb7f03/view)

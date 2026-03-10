@@ -29,4 +29,4 @@ The Department of War Information Activity (DWIA) is seeking information from in
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/116e2640cf2242b7b3d0da4e5ebdce44/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/116e2640cf2242b7b3d0da4e5ebdce44/view)

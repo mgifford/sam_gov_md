@@ -25,4 +25,4 @@ DESCRIPTION: The U.S. Army Corps of Engineers (USACE), Louisville District inten
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b05fe700291e4d62824d7a32b5e02ccc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b05fe700291e4d62824d7a32b5e02ccc/view)

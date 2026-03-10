@@ -26,4 +26,4 @@ Perform anodize process (Magnaplate HCR) on M284 Pre-Reservoirs for Watervliet A
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d3a39e7b12a645eba7b48a8dc8d03336/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d3a39e7b12a645eba7b48a8dc8d03336/view)

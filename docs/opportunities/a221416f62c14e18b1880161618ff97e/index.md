@@ -25,4 +25,4 @@ Pre-solicitation Notice Synopsis Subj: MK 77 Housing Anodes and Connector Plates
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a221416f62c14e18b1880161618ff97e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a221416f62c14e18b1880161618ff97e/view)

@@ -30,4 +30,4 @@ The Mission and Installation Contracting Command (MICC) Fort Sill, has a require
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/aa629f43494248d28e47234d23540df3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/aa629f43494248d28e47234d23540df3/view)

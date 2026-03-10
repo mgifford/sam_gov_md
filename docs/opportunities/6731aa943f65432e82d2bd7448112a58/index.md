@@ -30,4 +30,4 @@ SOURCES SOUGHT: THIS IS NOT A NOTICE OF REQUEST FOR PROPOSAL OR QUOTATION BUT IN
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6731aa943f65432e82d2bd7448112a58/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6731aa943f65432e82d2bd7448112a58/view)

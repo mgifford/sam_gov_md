@@ -34,4 +34,4 @@ Amendment 0001: Extend response date to 3/12/2026 @ 11am to allow adequate time 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/66f9855806b645f4afe972c3908651b8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/66f9855806b645f4afe972c3908651b8/view)

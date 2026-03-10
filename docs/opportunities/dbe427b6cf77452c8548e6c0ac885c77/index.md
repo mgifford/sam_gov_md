@@ -30,4 +30,4 @@ One award was made to Crest Switchback DxP Stewardship IRSC, BPA Call Quote Requ
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/dbe427b6cf77452c8548e6c0ac885c77/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/dbe427b6cf77452c8548e6c0ac885c77/view)

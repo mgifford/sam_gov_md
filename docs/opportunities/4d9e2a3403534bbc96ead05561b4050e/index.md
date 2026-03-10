@@ -25,4 +25,4 @@ Proposed procurement for NSN 4130200106611 REPAIR KIT,AIR COND: Line 0001 Qty 3 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4d9e2a3403534bbc96ead05561b4050e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4d9e2a3403534bbc96ead05561b4050e/view)

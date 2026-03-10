@@ -25,4 +25,4 @@ NSN 1R-6625-014318615-TX, REF NR ANV-20/20, QTY 100 EA, DELIVERY FOB ORIGIN. Int
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d7c05a8be9d14a7a8f6d36de539721d2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d7c05a8be9d14a7a8f6d36de539721d2/view)

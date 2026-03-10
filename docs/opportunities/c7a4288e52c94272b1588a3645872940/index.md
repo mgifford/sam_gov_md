@@ -25,4 +25,4 @@ Proposed procurement for NSN 1680011644905 SHAFT ASSEMBLY,FLEX: Line 0001 Qty 10
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c7a4288e52c94272b1588a3645872940/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c7a4288e52c94272b1588a3645872940/view)

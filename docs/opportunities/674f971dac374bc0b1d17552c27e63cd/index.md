@@ -32,4 +32,4 @@ In order to maintain the efficiency and effectiveness of the HVAC systems in the
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/674f971dac374bc0b1d17552c27e63cd/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/674f971dac374bc0b1d17552c27e63cd/view)

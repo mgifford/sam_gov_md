@@ -25,4 +25,4 @@ This is a Sources Sought Notice for Market Research. Please review the attached 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/41d39809a60f480f8a1ddd60694621fc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/41d39809a60f480f8a1ddd60694621fc/view)

@@ -29,4 +29,4 @@ The proposed contract action is for a maintenance/service on both Port and Starb
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6def1f840eab4d1ba3748add4f91563b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6def1f840eab4d1ba3748add4f91563b/view)

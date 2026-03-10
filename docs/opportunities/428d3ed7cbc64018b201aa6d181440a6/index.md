@@ -87,4 +87,4 @@ CONTACT INFORMATION|4|ZIC7|GHC|NA|DAVID.T.SEROTKIN@DLA.MIL| ITEM UNIQUE IDENTIFI
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/428d3ed7cbc64018b201aa6d181440a6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/428d3ed7cbc64018b201aa6d181440a6/view)

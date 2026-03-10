@@ -25,4 +25,4 @@ Proposed procurement for NSN 4930015412481 PUMP,LUBRICANT TRAN: Line 0001 Qty 4 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5a38f73c494e41b0b3e103e8d70d4f88/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5a38f73c494e41b0b3e103e8d70d4f88/view)

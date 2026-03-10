@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340011424714 STANDOFF,THREADED,S: Line 0001 Qty 10
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2c775a677c944a47baf42cc825e5f52f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2c775a677c944a47baf42cc825e5f52f/view)

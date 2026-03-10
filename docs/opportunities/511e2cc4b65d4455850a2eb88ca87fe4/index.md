@@ -34,4 +34,4 @@ Continously Open Interest Period AF CyberWorx is interested in capturing innovat
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/511e2cc4b65d4455850a2eb88ca87fe4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/511e2cc4b65d4455850a2eb88ca87fe4/view)

@@ -29,4 +29,4 @@ The Contractor shall provide all the parts, materials, equipment, and delivery f
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/212a6ead3ce9441eb7fb125afbfc6a29/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/212a6ead3ce9441eb7fb125afbfc6a29/view)

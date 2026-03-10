@@ -26,4 +26,4 @@ The subject item requires Government source approval prior to contract award, as
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3ae8c92187f04fe0a640d68254672bd6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3ae8c92187f04fe0a640d68254672bd6/view)

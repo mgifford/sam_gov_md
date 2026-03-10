@@ -26,4 +26,4 @@ U.S. COAST GUARD Sector San Diego requires a one (1) year bridge contract to man
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/21ef300c5e1247f98045fedd535f07e4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/21ef300c5e1247f98045fedd535f07e4/view)

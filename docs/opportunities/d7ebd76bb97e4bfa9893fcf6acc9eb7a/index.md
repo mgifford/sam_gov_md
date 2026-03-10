@@ -34,4 +34,4 @@ STATEMENT OF OBJECTIVES Veterans Integrated Service Network (VISN) 21 Patient El
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d7ebd76bb97e4bfa9893fcf6acc9eb7a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d7ebd76bb97e4bfa9893fcf6acc9eb7a/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 3040007856351 GEARSHAFT,BEVEL: Line 0001 Qty 18 UI 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3f171c755b98456fb8fdfed4b680eb78/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3f171c755b98456fb8fdfed4b680eb78/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340016310341 COVER,ACCESS: Line 0001 Qty 137 UI EA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e7f9de0509764c95b7bed772092ed178/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e7f9de0509764c95b7bed772092ed178/view)

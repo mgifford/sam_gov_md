@@ -30,4 +30,4 @@ Please see attachments for more details. All attendees shall park in the gravel 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/35e902839c9245358bf0855ee201e170/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/35e902839c9245358bf0855ee201e170/view)

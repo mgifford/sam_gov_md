@@ -26,4 +26,4 @@ AERIAL IGNITION DEVICES (NFES 003411)FY26
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ab3d8df610514abbadfe3a141cb20f8f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ab3d8df610514abbadfe3a141cb20f8f/view)

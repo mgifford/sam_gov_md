@@ -28,4 +28,4 @@ TIMBER, SIZE: 8" (H) X 16" (W) X 56" (L), MATERIAL: OAK QUALITY: SQUARE EDGED, S
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5fcf5daf9a0341bebed9c73426dd3e30/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5fcf5daf9a0341bebed9c73426dd3e30/view)

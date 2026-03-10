@@ -29,4 +29,4 @@ The Government intends to post a solicitation for Decking Hardware & Lumber Mate
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3244c13159c1405a9e5b4c486615395d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3244c13159c1405a9e5b4c486615395d/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 6115007883532 ADAPTER,GENERATOR T: Line 0001 Qty 6 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1969efc9f53248da9dc3358deaaa03c4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1969efc9f53248da9dc3358deaaa03c4/view)

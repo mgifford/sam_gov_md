@@ -25,4 +25,4 @@ Proposed procurement for NSN 1560008746326 PANEL,STRUCTURAL,AI: Line 0001 Qty 6 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0496da5660e1446baf9468f54142e6a0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0496da5660e1446baf9468f54142e6a0/view)

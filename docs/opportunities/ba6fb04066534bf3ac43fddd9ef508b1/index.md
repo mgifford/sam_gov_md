@@ -25,4 +25,4 @@ Spring 2026 Destruction - The DEA intends to award a firm-fixed price sole sourc
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ba6fb04066534bf3ac43fddd9ef508b1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ba6fb04066534bf3ac43fddd9ef508b1/view)

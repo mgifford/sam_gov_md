@@ -25,4 +25,4 @@ NSN 7R-4810-014721429-KB, TDP VER 003, QTY 15 EA, DELIVERY FOB ORIGIN. NAVSUP We
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/60d17d0b18b741b498ab2d785e1a92af/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/60d17d0b18b741b498ab2d785e1a92af/view)

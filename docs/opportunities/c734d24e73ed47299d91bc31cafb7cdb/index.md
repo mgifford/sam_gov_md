@@ -28,4 +28,4 @@ This is a pre-solicitation notice-The official solicitation will be posted 03/05
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c734d24e73ed47299d91bc31cafb7cdb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c734d24e73ed47299d91bc31cafb7cdb/view)

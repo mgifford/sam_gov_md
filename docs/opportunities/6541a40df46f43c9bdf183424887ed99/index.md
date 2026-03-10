@@ -25,4 +25,4 @@ Long Beach Veterans Affairs Healthcare System: On-Site Technical Support Service
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6541a40df46f43c9bdf183424887ed99/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6541a40df46f43c9bdf183424887ed99/view)

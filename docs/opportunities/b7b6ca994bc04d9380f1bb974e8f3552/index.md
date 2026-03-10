@@ -30,4 +30,4 @@ This is a Sources Sought notice to determine potential sources for information a
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b7b6ca994bc04d9380f1bb974e8f3552/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b7b6ca994bc04d9380f1bb974e8f3552/view)

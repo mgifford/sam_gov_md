@@ -25,4 +25,4 @@ Proposed procurement for NSN 6110013895905 PANEL,PROTECTION,EL: Line 0001 Qty 1 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ee975ca44b7945ebb4227799e67fe6f1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ee975ca44b7945ebb4227799e67fe6f1/view)

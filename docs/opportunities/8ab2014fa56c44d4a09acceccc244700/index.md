@@ -26,4 +26,4 @@ Please be advised that this opportunity is only open to Contractors on INDEFINIT
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8ab2014fa56c44d4a09acceccc244700/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8ab2014fa56c44d4a09acceccc244700/view)

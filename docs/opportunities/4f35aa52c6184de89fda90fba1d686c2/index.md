@@ -25,4 +25,4 @@ Proposed procurement for NSN 5999014251220 PARTS KIT,ELECTRONI: Line 0001 Qty 1 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4f35aa52c6184de89fda90fba1d686c2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4f35aa52c6184de89fda90fba1d686c2/view)

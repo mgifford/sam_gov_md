@@ -26,4 +26,4 @@ Sources Sought to Replace Telecommunications Lines from Headquarters to the Visi
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/185c0a8ccfec47d2a1b199bc8fe4695c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/185c0a8ccfec47d2a1b199bc8fe4695c/view)

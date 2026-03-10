@@ -25,4 +25,4 @@ Proposed procurement for NSN 1560001024912 CONNECTOR,RAIL RAMP: Line 0001 Qty 5 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/115d1c0379b04f7c87e164f6491728a7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/115d1c0379b04f7c87e164f6491728a7/view)

@@ -29,4 +29,4 @@ Provide Boxed Meals (sub sandwiches) to applicants processing through the El Pas
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8bb32667f42a4ffbab98d6eba2e26b47/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8bb32667f42a4ffbab98d6eba2e26b47/view)

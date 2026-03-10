@@ -25,4 +25,4 @@ Amendment N6660426Q0199-001 March 9, 2026 This amendment is to clarify the follo
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6e57d2b513584b6aa9baa797a59cbb01/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6e57d2b513584b6aa9baa797a59cbb01/view)

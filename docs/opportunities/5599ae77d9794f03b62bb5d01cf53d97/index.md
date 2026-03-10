@@ -27,4 +27,4 @@ This amendment corrects the new end date for this solicitation stated in amendme
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5599ae77d9794f03b62bb5d01cf53d97/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5599ae77d9794f03b62bb5d01cf53d97/view)

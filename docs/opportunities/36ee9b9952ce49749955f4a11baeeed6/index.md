@@ -32,4 +32,4 @@ AMENDMENT- 0006 Extend Proposal Due Date for (RFP) N62473-26-R-0014 PTO TBD, R50
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/36ee9b9952ce49749955f4a11baeeed6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/36ee9b9952ce49749955f4a11baeeed6/view)

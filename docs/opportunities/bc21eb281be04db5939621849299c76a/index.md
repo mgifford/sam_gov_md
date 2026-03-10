@@ -28,4 +28,4 @@ The Department of War (DoW) is required by law (10 U.S.C. § 1074g) to establish
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bc21eb281be04db5939621849299c76a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bc21eb281be04db5939621849299c76a/view)

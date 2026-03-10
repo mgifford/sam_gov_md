@@ -25,4 +25,4 @@ Dilution Refrigerator for Superconducting Quantum Circuits (DRSQ) for the Co-des
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5072c93709914ba1b0050710cf299957/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5072c93709914ba1b0050710cf299957/view)

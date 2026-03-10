@@ -28,4 +28,4 @@ The U.S. Army Corps of Engineers (USACE), Louisville District, is conducting a M
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/36c91f6c17ab49308e8a56ba434a918b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/36c91f6c17ab49308e8a56ba434a918b/view)

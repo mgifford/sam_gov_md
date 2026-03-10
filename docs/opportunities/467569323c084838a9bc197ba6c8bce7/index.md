@@ -25,4 +25,4 @@ This is a Request for Information (RFI) and Sources Sought Notice for market res
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/467569323c084838a9bc197ba6c8bce7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/467569323c084838a9bc197ba6c8bce7/view)

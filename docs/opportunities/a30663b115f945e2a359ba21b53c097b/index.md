@@ -25,4 +25,4 @@ SOURCES SOUGHT NOTICE The United States Department of Agriculture (USDA), Animal
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a30663b115f945e2a359ba21b53c097b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a30663b115f945e2a359ba21b53c097b/view)

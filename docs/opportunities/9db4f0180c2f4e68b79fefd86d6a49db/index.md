@@ -30,4 +30,4 @@ W91QF4-26-R-A007 Combined Synopsis/Solicitation – Asbestos Abatement BPA (i) T
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9db4f0180c2f4e68b79fefd86d6a49db/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9db4f0180c2f4e68b79fefd86d6a49db/view)

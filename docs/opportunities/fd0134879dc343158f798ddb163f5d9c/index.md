@@ -28,4 +28,4 @@ As described in the attached Combined Synopsis Solicitation, Statement of Work a
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fd0134879dc343158f798ddb163f5d9c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fd0134879dc343158f798ddb163f5d9c/view)

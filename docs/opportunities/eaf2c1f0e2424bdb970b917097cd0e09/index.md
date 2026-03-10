@@ -25,4 +25,4 @@ Proposed procurement for NSN 2540015779759 MIRROR ASSEMBLY,REA: Line 0001 Qty 12
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/eaf2c1f0e2424bdb970b917097cd0e09/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/eaf2c1f0e2424bdb970b917097cd0e09/view)

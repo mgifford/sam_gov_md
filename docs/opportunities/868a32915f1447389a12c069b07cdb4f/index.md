@@ -27,4 +27,4 @@ AWARDED
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/868a32915f1447389a12c069b07cdb4f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/868a32915f1447389a12c069b07cdb4f/view)

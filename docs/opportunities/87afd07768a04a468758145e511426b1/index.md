@@ -26,4 +26,4 @@ The purpose of this amendment 0001 to solicitation SPRDL1-25-R-0006 is to update
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/87afd07768a04a468758145e511426b1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/87afd07768a04a468758145e511426b1/view)

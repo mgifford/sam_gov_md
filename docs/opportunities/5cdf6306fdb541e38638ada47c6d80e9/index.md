@@ -31,4 +31,4 @@ CONTACT INFORMATION|4|N7M3.5|HFB|771-229-0387|WILLIAM.G.BIGGS4.CIV@US.NAVY.MIL| 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5cdf6306fdb541e38638ada47c6d80e9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5cdf6306fdb541e38638ada47c6d80e9/view)

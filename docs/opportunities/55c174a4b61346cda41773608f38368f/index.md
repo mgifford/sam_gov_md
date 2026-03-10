@@ -28,4 +28,4 @@ Contract was firm-fixed price.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/55c174a4b61346cda41773608f38368f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/55c174a4b61346cda41773608f38368f/view)

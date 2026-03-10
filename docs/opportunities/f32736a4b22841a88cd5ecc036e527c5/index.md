@@ -25,4 +25,4 @@ Solicitation SPRHA1-26-R-4646 is for the KC-46 Landing Gear Performance Based Lo
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f32736a4b22841a88cd5ecc036e527c5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f32736a4b22841a88cd5ecc036e527c5/view)

@@ -27,4 +27,4 @@ SDA-SN-26-0002 announced an intent to Sole Source an extension of support under 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/429949c181464a01916802bae3b12c86/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/429949c181464a01916802bae3b12c86/view)

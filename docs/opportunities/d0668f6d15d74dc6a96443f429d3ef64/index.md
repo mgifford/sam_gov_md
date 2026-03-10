@@ -25,4 +25,4 @@ Proposed procurement for NSN 4020002402016 SEIZING STUFF: Line 0001 Qty 103 UI C
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d0668f6d15d74dc6a96443f429d3ef64/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d0668f6d15d74dc6a96443f429d3ef64/view)

@@ -27,4 +27,4 @@ Contract cancelled for convenience.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bfb3dae7f8f643748d2d9d78c6a6c478/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bfb3dae7f8f643748d2d9d78c6a6c478/view)

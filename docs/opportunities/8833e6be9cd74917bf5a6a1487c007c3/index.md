@@ -25,4 +25,4 @@ Delivery of 200,000 wooden stakes. Desired product is described in the product c
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8833e6be9cd74917bf5a6a1487c007c3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8833e6be9cd74917bf5a6a1487c007c3/view)

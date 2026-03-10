@@ -30,4 +30,4 @@ The contractor shall provide all personnel, equipment, supplies, facilities, tra
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/13e2fea1db4a40388ac8a5e41077cc20/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/13e2fea1db4a40388ac8a5e41077cc20/view)

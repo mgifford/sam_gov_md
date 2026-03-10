@@ -26,4 +26,4 @@ Amended to add Set aside Code. Indexing Table, CD-12-AL-MS-720 B .5 Acr Manual M
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/899a51dfb498433a92a7d20a34ace87b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/899a51dfb498433a92a7d20a34ace87b/view)

@@ -30,4 +30,4 @@ REQUEST FOR INFORMATION SPE603-26-R-5X22 FUEL SERVICES AND OPERATIONS SUPPORT IN
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/749391f92e8140d8a9e8d4dac086a8ff/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/749391f92e8140d8a9e8d4dac086a8ff/view)

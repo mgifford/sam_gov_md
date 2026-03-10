@@ -25,4 +25,4 @@ Proposed procurement for NSN 5310004119786 WASHER,SPRING TENSI: Line 0001 Qty 13
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0750daa454624eb887eaca53b32da11f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0750daa454624eb887eaca53b32da11f/view)

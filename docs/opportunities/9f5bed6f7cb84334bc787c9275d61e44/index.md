@@ -29,4 +29,4 @@ Type: Cancellation Notice – No Award Made DESCRIPTION The U.S. Section of the 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9f5bed6f7cb84334bc787c9275d61e44/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9f5bed6f7cb84334bc787c9275d61e44/view)

@@ -29,4 +29,4 @@ SOURCES SOUGHT NOTICE The Army Contracting Command � Detroit Arsenal (ACC-DTA)
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9d19875262bc42a69ff8faac7885f77a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9d19875262bc42a69ff8faac7885f77a/view)

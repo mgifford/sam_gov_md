@@ -25,4 +25,4 @@ Proposed procurement for NSN 5945014810579 RELAY,ELECTROMAGNET: Line 0001 Qty 13
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f19890c1aac242de922e5ebbb4d72135/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f19890c1aac242de922e5ebbb4d72135/view)

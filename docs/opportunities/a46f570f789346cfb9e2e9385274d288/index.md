@@ -28,4 +28,4 @@ NO PROPOSALS ARE BEING REQUESTED AT THIS TIME. THIS NOTICE SERVES AS THE 15 DAY 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a46f570f789346cfb9e2e9385274d288/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a46f570f789346cfb9e2e9385274d288/view)

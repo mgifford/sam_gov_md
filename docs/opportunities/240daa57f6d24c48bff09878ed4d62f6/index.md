@@ -36,4 +36,4 @@ Amendment 0002: See SOW Rev 1. Changes is red. See Q&A 2 as well. Amendment 0001
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/240daa57f6d24c48bff09878ed4d62f6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/240daa57f6d24c48bff09878ed4d62f6/view)

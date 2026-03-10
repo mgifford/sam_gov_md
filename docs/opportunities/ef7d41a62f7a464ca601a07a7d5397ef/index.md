@@ -25,4 +25,4 @@ Proposed procurement for NSN 6220010450306 HOUSING,LIGHT: Line 0001 Qty 4 UI EA 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ef7d41a62f7a464ca601a07a7d5397ef/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ef7d41a62f7a464ca601a07a7d5397ef/view)

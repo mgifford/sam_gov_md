@@ -25,4 +25,4 @@ Proposed procurement for NSN 4510016243348 VALVE,FLOAT,WATER C: Line 0001 Qty 23
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a58a634c393f4cedac633195b3ec6345/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a58a634c393f4cedac633195b3ec6345/view)

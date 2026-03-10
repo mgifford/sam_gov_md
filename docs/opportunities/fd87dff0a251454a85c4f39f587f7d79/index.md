@@ -28,4 +28,4 @@ The objective of this requirement is to establish an Indefinite Delivery Indefin
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fd87dff0a251454a85c4f39f587f7d79/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fd87dff0a251454a85c4f39f587f7d79/view)

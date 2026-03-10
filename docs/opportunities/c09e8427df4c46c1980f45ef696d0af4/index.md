@@ -26,4 +26,4 @@ BLM-CO WRFO SUPPRESSION REPAIR SEEDING The BLM Colorado White River Field Office
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c09e8427df4c46c1980f45ef696d0af4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c09e8427df4c46c1980f45ef696d0af4/view)

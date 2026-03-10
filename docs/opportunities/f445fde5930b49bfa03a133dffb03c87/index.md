@@ -31,4 +31,4 @@ March 4, 2026 The purpose of this announcement is to provide the updated bid gur
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f445fde5930b49bfa03a133dffb03c87/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f445fde5930b49bfa03a133dffb03c87/view)

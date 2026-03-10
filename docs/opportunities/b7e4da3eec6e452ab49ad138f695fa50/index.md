@@ -29,4 +29,4 @@ THIS POSTING IS FOR TINKER AFB - MAC BOA HOLDERS ONLY Updated 9 March 26 1) RFIs
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b7e4da3eec6e452ab49ad138f695fa50/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b7e4da3eec6e452ab49ad138f695fa50/view)

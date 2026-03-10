@@ -26,4 +26,4 @@ Sources Sought: Demolition and disposal of one (Building 28) quarters located at
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8b2f2626fc64468a9db07cfe5b4b57d1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8b2f2626fc64468a9db07cfe5b4b57d1/view)

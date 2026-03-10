@@ -28,4 +28,4 @@ VAFO P4222F0074 WASH HQ TITLE III MOD
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/98a029ea9d1b4985a07907b71617638c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/98a029ea9d1b4985a07907b71617638c/view)

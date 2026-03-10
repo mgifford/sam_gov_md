@@ -26,4 +26,4 @@ Update 3/06/2026: QA_03-06-2026_3 and QA_03-06-2026_2.pdf posted to attachments.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/026efca9962945538eb22a97f41d00e2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/026efca9962945538eb22a97f41d00e2/view)

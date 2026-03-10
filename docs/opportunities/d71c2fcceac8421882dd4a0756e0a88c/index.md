@@ -27,4 +27,4 @@ Request for Quotes for Monthly Grounds Maintenance, Salt and Sand Spreading, Ice
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d71c2fcceac8421882dd4a0756e0a88c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d71c2fcceac8421882dd4a0756e0a88c/view)

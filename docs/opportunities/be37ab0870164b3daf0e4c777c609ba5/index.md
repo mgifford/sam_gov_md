@@ -29,4 +29,4 @@ Special Notice Title of Event: GEC MD8060 Automated Scale Presses Industry Day A
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/be37ab0870164b3daf0e4c777c609ba5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/be37ab0870164b3daf0e4c777c609ba5/view)

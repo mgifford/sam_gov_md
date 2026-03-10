@@ -28,4 +28,4 @@ US Army is looking for a complete kit that contains the following items. REALTi 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/aef36a5ab6b440e9b0c9404b48dfac22/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/aef36a5ab6b440e9b0c9404b48dfac22/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 5330008656143 RUBBER STRIP: Line 0001 Qty 97 UI EA 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/dab554b95b584866a0274ace35494852/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/dab554b95b584866a0274ace35494852/view)

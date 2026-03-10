@@ -25,4 +25,4 @@ Proposed procurement for NSN 5977006865201 RING,ELECTRICAL CON: Line 0001 Qty 63
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b6296fe53374418f8b85c7d5ffa4df21/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b6296fe53374418f8b85c7d5ffa4df21/view)

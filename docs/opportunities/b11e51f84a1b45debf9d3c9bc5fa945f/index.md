@@ -25,4 +25,4 @@ This is a solicitation for commercial items prepared in accordance with 12.201-1
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b11e51f84a1b45debf9d3c9bc5fa945f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b11e51f84a1b45debf9d3c9bc5fa945f/view)

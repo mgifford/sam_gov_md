@@ -26,4 +26,4 @@ Sources Sought ONLY, this is not a Request for Quote (RFQ) and in no way obligat
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0a4fcfc1a59e443185c2b733b7f81daa/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0a4fcfc1a59e443185c2b733b7f81daa/view)

@@ -34,4 +34,4 @@ READ THE ATTACHED SOLICITATION DOCUMENT IN ITS ENTIRETY. YOU WILL NEED TO REQUES
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/cd4df910d08a460d84e284c27b9fce02/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cd4df910d08a460d84e284c27b9fce02/view)

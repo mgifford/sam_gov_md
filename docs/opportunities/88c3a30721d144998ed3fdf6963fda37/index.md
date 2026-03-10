@@ -25,4 +25,4 @@ Request for Information (RFI) for C-sUAS and sUAS Solutions FA4659-RFI-CSUAS+SUA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/88c3a30721d144998ed3fdf6963fda37/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/88c3a30721d144998ed3fdf6963fda37/view)

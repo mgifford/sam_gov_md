@@ -25,4 +25,4 @@ Proposed procurement for NSN 5320005574714 RIVET,BLIND: Line 0001 Qty 527 UI EA 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/64616696bec648dfa58a4c76943650f5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/64616696bec648dfa58a4c76943650f5/view)

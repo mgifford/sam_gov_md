@@ -28,4 +28,4 @@ Response due date is extended to 11 March 2026 13:00 EST. Response due date is e
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f47a2e9f5d7d4ffe9beade67dff49adb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f47a2e9f5d7d4ffe9beade67dff49adb/view)

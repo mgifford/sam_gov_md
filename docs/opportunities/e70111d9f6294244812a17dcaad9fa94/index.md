@@ -28,4 +28,4 @@ Please visit the following link to submit any questions and bids: https://market
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e70111d9f6294244812a17dcaad9fa94/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e70111d9f6294244812a17dcaad9fa94/view)

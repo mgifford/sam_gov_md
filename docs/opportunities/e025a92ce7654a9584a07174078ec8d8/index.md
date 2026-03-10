@@ -26,4 +26,4 @@ Demolish and remove existing SCADA UPS and installation of new SCADA UPS.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e025a92ce7654a9584a07174078ec8d8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e025a92ce7654a9584a07174078ec8d8/view)

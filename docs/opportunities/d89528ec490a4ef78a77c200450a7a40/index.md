@@ -34,4 +34,4 @@ This is a non-personnel services contract to provide technical JTA TSD support f
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d89528ec490a4ef78a77c200450a7a40/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d89528ec490a4ef78a77c200450a7a40/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 3020013799239 GEAR,HELICAL: Line 0001 Qty 2 UI EA D
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b508f7599d5e48f48a1154238fae5d62/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b508f7599d5e48f48a1154238fae5d62/view)

@@ -26,4 +26,4 @@ SJG SOLAR/BPS/POWER CONDITIONING - Amendment 004
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a1018e15ef444fab93eea9f83dff742b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a1018e15ef444fab93eea9f83dff742b/view)

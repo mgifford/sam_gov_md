@@ -27,4 +27,4 @@ Award of RFQ 36C25626Q0422 was made to Wonder State Solutions LLC on contract 36
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0f9155e7aeb4408286c64854d87183a5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0f9155e7aeb4408286c64854d87183a5/view)

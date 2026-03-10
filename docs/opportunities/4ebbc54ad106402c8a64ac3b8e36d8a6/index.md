@@ -28,4 +28,4 @@ The purpose of this task order (TO) is to establish new annual domestic commerci
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4ebbc54ad106402c8a64ac3b8e36d8a6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4ebbc54ad106402c8a64ac3b8e36d8a6/view)

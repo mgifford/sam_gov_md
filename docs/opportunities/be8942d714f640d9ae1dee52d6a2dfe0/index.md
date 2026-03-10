@@ -25,4 +25,4 @@ Proposed procurement for NSN 4140004807885 FAN,CENTRIFUGAL: Line 0001 Qty 10 UI 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/be8942d714f640d9ae1dee52d6a2dfe0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/be8942d714f640d9ae1dee52d6a2dfe0/view)

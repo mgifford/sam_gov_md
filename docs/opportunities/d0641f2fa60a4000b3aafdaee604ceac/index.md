@@ -27,4 +27,4 @@ Small Business Set-Aside for Preventative Maintenance and Service for 1 Canon Im
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d0641f2fa60a4000b3aafdaee604ceac/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d0641f2fa60a4000b3aafdaee604ceac/view)

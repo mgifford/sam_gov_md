@@ -25,4 +25,4 @@ Proposed procurement for NSN 3940002644770 BLOCK,TACKLE: Line 0001 Qty 14 UI EA 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/851f025dba154ceb8ce410a4b00aacba/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/851f025dba154ceb8ce410a4b00aacba/view)

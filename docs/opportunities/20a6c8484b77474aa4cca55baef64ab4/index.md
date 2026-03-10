@@ -25,4 +25,4 @@ Proposed procurement for NSN 2930001598824 TANK,SURGE COOLANT: Line 0001 Qty 97 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/20a6c8484b77474aa4cca55baef64ab4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/20a6c8484b77474aa4cca55baef64ab4/view)

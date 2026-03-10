@@ -25,4 +25,4 @@ RFP SPE4A2-26-R-0002 for the Hardware Acquisition Recompete-DLA Direct (HARDD) h
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b0dd105213624918955f5d5f5979629b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b0dd105213624918955f5d5f5979629b/view)

@@ -29,4 +29,4 @@ The 82d Contracting Squadron, Sheppard AFB, TX intends to award a sole source, f
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8c9efc271bc44439b571dfc9b739addf/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8c9efc271bc44439b571dfc9b739addf/view)

@@ -25,4 +25,4 @@ The National Park Service (NPS) has issued Amendment No. 2 to the solicitation f
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e9f933572d314f1bb649acdd87033ad4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e9f933572d314f1bb649acdd87033ad4/view)

@@ -28,4 +28,4 @@ Special Notice Notice of Intent to Award a Sole Source Procurement The Departmen
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/feba1d53a2bc4e39a9bd6731eb39fbc7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/feba1d53a2bc4e39a9bd6731eb39fbc7/view)

@@ -26,4 +26,4 @@ PD- DOMESTIC WATER TREATMENT SYSTEM
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c090170370fa43d8bcf0ccb494c28410/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c090170370fa43d8bcf0ccb494c28410/view)

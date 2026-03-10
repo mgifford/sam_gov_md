@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340015216384 LOCK,ELECTROMAGNETI: Line 0001 Qty 10
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/af5c59d250bc43aabf062f14b75bfc15/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/af5c59d250bc43aabf062f14b75bfc15/view)

@@ -25,4 +25,4 @@ The purpose of this amendment is to extend the solicitation to 06 April 2026.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e73c9186d07e4b1b9bcfccf92905d43e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e73c9186d07e4b1b9bcfccf92905d43e/view)

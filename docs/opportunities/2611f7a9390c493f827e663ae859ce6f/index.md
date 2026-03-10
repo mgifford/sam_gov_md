@@ -25,4 +25,4 @@ Proposed procurement for NSN 6350017248409 ALARM,SMOKE,AUTOMAT: Line 0001 Qty 43
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2611f7a9390c493f827e663ae859ce6f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2611f7a9390c493f827e663ae859ce6f/view)

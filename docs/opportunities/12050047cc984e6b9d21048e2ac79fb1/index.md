@@ -29,4 +29,4 @@ This is a Request for Information (RFI) ONLY. The Internal Revenue Service (IRS)
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/12050047cc984e6b9d21048e2ac79fb1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/12050047cc984e6b9d21048e2ac79fb1/view)

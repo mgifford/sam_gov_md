@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340012594643 CRANK,HAND: Line 0001 Qty 30 UI EA De
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fe12a1350dc940deaaf97f89cd0c09da/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fe12a1350dc940deaaf97f89cd0c09da/view)

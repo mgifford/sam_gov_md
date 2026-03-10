@@ -36,4 +36,4 @@ ClaimsCore Combined Synopsis/Solicitation Amendment 0001 - The purpose of this a
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/36c40d92c3e7416eac7a80658b0d971b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/36c40d92c3e7416eac7a80658b0d971b/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 1730015637046 JACK,HYDRAULIC,TRIP: Line 0001 Qty 8 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/effa275f07634945bf6b6e21539d1765/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/effa275f07634945bf6b6e21539d1765/view)

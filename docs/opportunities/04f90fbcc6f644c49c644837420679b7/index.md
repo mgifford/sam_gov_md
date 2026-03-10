@@ -25,4 +25,4 @@ Proposed procurement for NSN 4930015464146 TANK AND PUMP UNIT,: Line 0001 Qty 5 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/04f90fbcc6f644c49c644837420679b7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/04f90fbcc6f644c49c644837420679b7/view)

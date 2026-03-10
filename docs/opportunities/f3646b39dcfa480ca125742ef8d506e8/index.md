@@ -26,4 +26,4 @@ This contract will provide warehouse support, supporting all aspects of warehous
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f3646b39dcfa480ca125742ef8d506e8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f3646b39dcfa480ca125742ef8d506e8/view)

@@ -25,4 +25,4 @@ NASA/NSSC has a requirement for C-20 Engine Technical Variance. NASA/NSSC intend
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9e241699878545a3affd31d3c7523e5a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9e241699878545a3affd31d3c7523e5a/view)

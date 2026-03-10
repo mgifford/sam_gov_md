@@ -25,4 +25,4 @@ Proposed procurement for NSN 5365013932886 PLUG,MACHINE THREAD: Line 0001 Qty 12
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4de2647456fc41699641c06650e482d2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4de2647456fc41699641c06650e482d2/view)

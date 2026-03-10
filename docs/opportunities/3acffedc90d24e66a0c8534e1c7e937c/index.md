@@ -28,4 +28,4 @@ The purpose of this amendment to RFP 36C24226R0043; Project Number 630-26-104 is
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3acffedc90d24e66a0c8534e1c7e937c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3acffedc90d24e66a0c8534e1c7e937c/view)

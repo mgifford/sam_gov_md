@@ -28,4 +28,4 @@ Sources Sought Notice: 36C776-26-AP-1114 American Psychological Association (APA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/19613584c0654cb4a4fc4c3aa1aee7b6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/19613584c0654cb4a4fc4c3aa1aee7b6/view)

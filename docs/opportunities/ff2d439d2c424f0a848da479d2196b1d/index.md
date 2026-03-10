@@ -28,4 +28,4 @@ RFQ 36C256260332 Question and Answer Reponses The purpose of this amendment is t
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ff2d439d2c424f0a848da479d2196b1d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ff2d439d2c424f0a848da479d2196b1d/view)

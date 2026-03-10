@@ -26,4 +26,4 @@ NSN: 1560-00-575-6307FG NOUN: DOOR, AIRCRAFT TOP DRAWING: 4-3904-177 EDL REVISIO
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/32b9fb37135f4fe8a3b2efebd9a65c96/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/32b9fb37135f4fe8a3b2efebd9a65c96/view)

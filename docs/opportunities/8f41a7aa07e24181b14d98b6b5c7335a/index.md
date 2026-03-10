@@ -25,4 +25,4 @@ Proposed procurement for NSN 3040012915208 ELEMENT,SPIROFLEX: Line 0001 Qty 2 UI
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8f41a7aa07e24181b14d98b6b5c7335a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8f41a7aa07e24181b14d98b6b5c7335a/view)

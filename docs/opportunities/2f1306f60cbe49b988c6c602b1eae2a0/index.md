@@ -25,4 +25,4 @@ The subject requirement is for the acquisition of NSN 5965014169564 (PARTS KIT,H
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2f1306f60cbe49b988c6c602b1eae2a0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2f1306f60cbe49b988c6c602b1eae2a0/view)

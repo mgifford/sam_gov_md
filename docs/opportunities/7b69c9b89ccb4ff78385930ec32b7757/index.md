@@ -31,4 +31,4 @@ Delivery Order SPRDL1-26-F-0073 was awarded on March 4, 2026 in the amount of $1
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7b69c9b89ccb4ff78385930ec32b7757/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7b69c9b89ccb4ff78385930ec32b7757/view)

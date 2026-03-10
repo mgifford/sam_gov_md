@@ -30,4 +30,4 @@ This justification is for an exception to fair opportunity for a one-month bridg
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bdaec9bc767049c99f480cb307dfff0f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bdaec9bc767049c99f480cb307dfff0f/view)

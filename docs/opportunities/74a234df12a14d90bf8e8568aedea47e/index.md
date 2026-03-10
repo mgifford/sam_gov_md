@@ -77,4 +77,4 @@ CONTACT INFORMATION|4|N743.49|WVE|771-229-0573|benjamin.t.spangler.civ@us.navy.m
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/74a234df12a14d90bf8e8568aedea47e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/74a234df12a14d90bf8e8568aedea47e/view)

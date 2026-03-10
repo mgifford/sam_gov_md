@@ -29,4 +29,4 @@ Award Notice Award Notice Page 4 of 4 Award Notice *= Required FieldAward Notice
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/770037f111b6450e88ebcad96bf69327/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/770037f111b6450e88ebcad96bf69327/view)

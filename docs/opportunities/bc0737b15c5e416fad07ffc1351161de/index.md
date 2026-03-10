@@ -26,4 +26,4 @@ USNS OSCAR V. PETERSON FY 26 MTA NEW/ADDITIONAL WORK
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bc0737b15c5e416fad07ffc1351161de/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bc0737b15c5e416fad07ffc1351161de/view)

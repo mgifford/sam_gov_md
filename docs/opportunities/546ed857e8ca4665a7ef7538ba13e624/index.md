@@ -26,4 +26,4 @@ THIS SOLICITATION WAS AMENDED ON 3/4 TO REVISE THE HOURS FOR CLIN 0001 FROM 15 H
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/546ed857e8ca4665a7ef7538ba13e624/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/546ed857e8ca4665a7ef7538ba13e624/view)

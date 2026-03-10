@@ -25,4 +25,4 @@ Proposed procurement for NSN 1710007982636 GLAND ASSY,VALVE: Line 0001 Qty 136 U
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4b83102473df46c58531797f2ad73d5d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4b83102473df46c58531797f2ad73d5d/view)

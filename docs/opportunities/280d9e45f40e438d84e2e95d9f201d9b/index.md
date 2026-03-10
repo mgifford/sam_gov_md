@@ -30,4 +30,4 @@ The purpose of this contract is to provide technical and professional support to
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/280d9e45f40e438d84e2e95d9f201d9b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/280d9e45f40e438d84e2e95d9f201d9b/view)

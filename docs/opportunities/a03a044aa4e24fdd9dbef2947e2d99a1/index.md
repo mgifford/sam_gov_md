@@ -25,4 +25,4 @@ Proposed procurement for NSN 2920011939911 HARNESS ASSEMBLY: Line 0001 Qty 15 UI
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a03a044aa4e24fdd9dbef2947e2d99a1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a03a044aa4e24fdd9dbef2947e2d99a1/view)

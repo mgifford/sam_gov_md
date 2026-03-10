@@ -28,4 +28,4 @@ The South Texas Veterans Health Care System at Audie L. Murphy VA Medical Center
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ab12c4a5425e4a3cbd38bd46b107cbba/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ab12c4a5425e4a3cbd38bd46b107cbba/view)

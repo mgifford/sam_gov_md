@@ -34,4 +34,4 @@ The United States Department of Agriculture (USDA), Animal and Plant Health Insp
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/07a6fba77952425ca84bdb3e36d0ce2c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/07a6fba77952425ca84bdb3e36d0ce2c/view)

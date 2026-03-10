@@ -25,4 +25,4 @@ Proposed procurement for NSN 5315014177740 PIN,GROOVED,HEADLES: Line 0001 Qty 7 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/04d677bc9956410d8dbd91213053b87c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/04d677bc9956410d8dbd91213053b87c/view)

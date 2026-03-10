@@ -57,4 +57,4 @@ CONTACT INFORMATION|4|N7M2.21|BSB|SEE EMAIL|AMY.S.REYNOLDS3.CIV@US.NAVY.MIL| ITE
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3efb5601f7204e23b616d9029960ea95/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3efb5601f7204e23b616d9029960ea95/view)

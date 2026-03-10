@@ -28,4 +28,4 @@ The purpose of this amendment is to provide answers for questions asked during t
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d9cc951c33214bcdaf3585f1616b2724/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d9cc951c33214bcdaf3585f1616b2724/view)

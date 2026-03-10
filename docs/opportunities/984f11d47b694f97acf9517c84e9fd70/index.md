@@ -26,4 +26,4 @@ The Navajo Area Indian Health Service, Chinle Comprehensive Health Care Facility
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/984f11d47b694f97acf9517c84e9fd70/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/984f11d47b694f97acf9517c84e9fd70/view)

@@ -36,4 +36,4 @@ The Defense Health Agency Contracting Activity (DHACA), Healthcare Contracting D
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/15c547926a674df4907495513f99b137/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/15c547926a674df4907495513f99b137/view)

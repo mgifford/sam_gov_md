@@ -28,4 +28,4 @@ OPPORTUNITIES-DESCRIPTION
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a1a72c1d514d46ba9dac56d5795c62bf/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a1a72c1d514d46ba9dac56d5795c62bf/view)

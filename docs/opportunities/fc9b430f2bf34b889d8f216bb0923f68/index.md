@@ -26,4 +26,4 @@ The Service Member and Family Support (SMFS) Office has a non-personal services 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fc9b430f2bf34b889d8f216bb0923f68/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fc9b430f2bf34b889d8f216bb0923f68/view)

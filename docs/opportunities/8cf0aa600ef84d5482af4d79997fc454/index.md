@@ -30,4 +30,4 @@ This is a sole source direct 8(a) construction effort for Unami, LLC. This RFP i
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8cf0aa600ef84d5482af4d79997fc454/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8cf0aa600ef84d5482af4d79997fc454/view)

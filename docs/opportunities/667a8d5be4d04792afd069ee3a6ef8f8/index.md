@@ -28,4 +28,4 @@ The Contractor shall install new epoxy flooring in Operating Room 2 and install 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/667a8d5be4d04792afd069ee3a6ef8f8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/667a8d5be4d04792afd069ee3a6ef8f8/view)

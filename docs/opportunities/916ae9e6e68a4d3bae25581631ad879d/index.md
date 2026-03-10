@@ -25,4 +25,4 @@ Proposed procurement for NSN 6140017137559 BATTERY,STORAGE: Line 0001 Qty 3 UI E
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/916ae9e6e68a4d3bae25581631ad879d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/916ae9e6e68a4d3bae25581631ad879d/view)

@@ -31,4 +31,4 @@ SOURCES SOUGHT Fo rThree Rivers Region (7 Lakes) MATOC Posted 06 March 2026 Resp
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e8f688022c764d04adf09acfa3b21269/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e8f688022c764d04adf09acfa3b21269/view)

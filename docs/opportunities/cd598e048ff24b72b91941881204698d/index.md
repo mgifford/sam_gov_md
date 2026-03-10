@@ -30,4 +30,4 @@ The United States Embassy in Riga is seeking professional services for the remov
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/cd598e048ff24b72b91941881204698d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cd598e048ff24b72b91941881204698d/view)

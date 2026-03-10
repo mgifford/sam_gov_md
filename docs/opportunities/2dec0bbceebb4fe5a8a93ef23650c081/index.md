@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340010840008 BOOT,DUST AND MOISTURE: Line 0001 Qty
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2dec0bbceebb4fe5a8a93ef23650c081/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2dec0bbceebb4fe5a8a93ef23650c081/view)

@@ -30,4 +30,4 @@ CANCEL SOLICITATION
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d0574b26513549a9967d699cb71737a5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d0574b26513549a9967d699cb71737a5/view)

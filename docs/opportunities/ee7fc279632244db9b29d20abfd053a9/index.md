@@ -26,4 +26,4 @@ NRL NOTICE OF INTENT TO AWARD A SOLE SOURCE This Notice of Intent is not a reque
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ee7fc279632244db9b29d20abfd053a9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ee7fc279632244db9b29d20abfd053a9/view)

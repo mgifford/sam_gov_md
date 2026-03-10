@@ -26,4 +26,4 @@ The MICC - Fort Drum, is releasing this Draft Request for Proposal (RFP) for a p
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d84cc95136ea402084cc216b60d28d9f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d84cc95136ea402084cc216b60d28d9f/view)

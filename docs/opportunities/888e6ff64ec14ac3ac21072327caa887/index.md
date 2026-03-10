@@ -25,4 +25,4 @@ Synopsis PR: FD2030-25-00620 1. Estimated issue date and estimated closing/respo
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/888e6ff64ec14ac3ac21072327caa887/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/888e6ff64ec14ac3ac21072327caa887/view)

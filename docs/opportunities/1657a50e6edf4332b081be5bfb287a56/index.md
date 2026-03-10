@@ -28,4 +28,4 @@ P215 Joint Interagency Task Force - South (JIATF-S) Command and Control Facility
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1657a50e6edf4332b081be5bfb287a56/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1657a50e6edf4332b081be5bfb287a56/view)

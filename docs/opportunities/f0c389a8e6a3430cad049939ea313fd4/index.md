@@ -25,4 +25,4 @@ Proposed procurement for NSN 1005015485193 SIGHT,REAR: Line 0001 Qty 20 UI EA De
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f0c389a8e6a3430cad049939ea313fd4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f0c389a8e6a3430cad049939ea313fd4/view)

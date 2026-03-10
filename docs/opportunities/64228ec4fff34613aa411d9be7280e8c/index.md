@@ -25,4 +25,4 @@ Proposed procurement for NSN 1005012158178 SUPPORT,BARREL: Line 0001 Qty 40 UI E
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/64228ec4fff34613aa411d9be7280e8c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/64228ec4fff34613aa411d9be7280e8c/view)

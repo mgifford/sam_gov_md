@@ -59,4 +59,4 @@ CONTACT INFORMATION|4|N741.12|AV8|N/A|uyencatherine.h.tran.civ@us.navy.mil| ITEM
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1d0e1278b2ed48969371012d2757fa5c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1d0e1278b2ed48969371012d2757fa5c/view)

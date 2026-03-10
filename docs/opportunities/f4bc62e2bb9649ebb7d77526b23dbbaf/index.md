@@ -26,4 +26,4 @@ SOURCES SOUGHT (MARKET SURVEY): The National Park Service (NPS) is conducting a 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f4bc62e2bb9649ebb7d77526b23dbbaf/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f4bc62e2bb9649ebb7d77526b23dbbaf/view)

@@ -25,4 +25,4 @@ CONTACT INFORMATION|4|APBB.07|VS3|(445) 737-3576|Kaileigh.Blaker@dla.mil| ITEM U
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/86f3c8586e314d4aaf331c41fa1885b0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/86f3c8586e314d4aaf331c41fa1885b0/view)

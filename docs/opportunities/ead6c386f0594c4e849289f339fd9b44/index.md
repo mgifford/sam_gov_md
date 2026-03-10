@@ -25,4 +25,4 @@ Proposed procurement for NSN 1560015261204 DOOR,AIRCRAFT: Line 0001 Qty 1 UI EA 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ead6c386f0594c4e849289f339fd9b44/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ead6c386f0594c4e849289f339fd9b44/view)

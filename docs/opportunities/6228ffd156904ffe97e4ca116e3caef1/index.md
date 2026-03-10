@@ -26,4 +26,4 @@ The National Oceanic and Atmospheric Administration (NOAA) intends to award a so
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6228ffd156904ffe97e4ca116e3caef1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6228ffd156904ffe97e4ca116e3caef1/view)

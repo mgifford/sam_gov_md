@@ -28,4 +28,4 @@ The purpose of this RFI is to identify sources capable of providing a comprehens
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c0005a2d6ac040c98946f13291ffb6de/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c0005a2d6ac040c98946f13291ffb6de/view)

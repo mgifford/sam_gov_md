@@ -26,4 +26,4 @@ Notice Number: NOI-CC-26-002367 Description: This is a notice of intent, not a r
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b61a89e278594c4483bf672473bb280c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b61a89e278594c4483bf672473bb280c/view)

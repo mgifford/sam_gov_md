@@ -25,4 +25,4 @@ Proposed procurement for NSN 4210014765017 STEAMBLOCK GLOVE: Line 0001 Qty 416 U
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9009ab870574449ba0538ae478871650/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9009ab870574449ba0538ae478871650/view)

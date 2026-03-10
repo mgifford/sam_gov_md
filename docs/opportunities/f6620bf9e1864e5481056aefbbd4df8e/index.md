@@ -25,4 +25,4 @@ Proposed procurement for NSN 2540011805570 PEDAL,CONTROL: Line 0001 Qty 5 UI EA 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f6620bf9e1864e5481056aefbbd4df8e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f6620bf9e1864e5481056aefbbd4df8e/view)

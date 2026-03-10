@@ -25,4 +25,4 @@ Proposed procurement for NSN 4140016066071 FAN,VANEAXIAL: Line 0001 Qty 8 UI EA 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7293e861b01e44048cae78b54c8086cd/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7293e861b01e44048cae78b54c8086cd/view)

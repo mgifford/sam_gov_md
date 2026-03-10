@@ -25,4 +25,4 @@ This synopsis is hereby amended to include the following CMMC Requirement: Cyber
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/77b9ce6462584b019a89b2ae1e77ce46/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/77b9ce6462584b019a89b2ae1e77ce46/view)

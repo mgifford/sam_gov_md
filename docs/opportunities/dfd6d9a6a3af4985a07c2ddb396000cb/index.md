@@ -26,4 +26,4 @@ Pre-soliciation (listed below) was performed under Solicitation SPRTA1-25-R-0498
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/dfd6d9a6a3af4985a07c2ddb396000cb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/dfd6d9a6a3af4985a07c2ddb396000cb/view)

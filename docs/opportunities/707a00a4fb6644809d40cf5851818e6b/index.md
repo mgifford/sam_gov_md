@@ -25,4 +25,4 @@ Solicitation for End Item: Engine, Aircraft, NSN: 2835-010380487, 1000225900. DE
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/707a00a4fb6644809d40cf5851818e6b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/707a00a4fb6644809d40cf5851818e6b/view)

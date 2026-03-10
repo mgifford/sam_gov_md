@@ -28,4 +28,4 @@ GS-04 SSC ARROW MYERS
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c3ebfb15dc674106aec028047223cde2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c3ebfb15dc674106aec028047223cde2/view)

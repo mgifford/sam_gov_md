@@ -34,4 +34,4 @@ This solicitation has been updated and extended to allow ALL vendors time to re-
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ae15272cd59940f1bf68750c51a27615/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ae15272cd59940f1bf68750c51a27615/view)

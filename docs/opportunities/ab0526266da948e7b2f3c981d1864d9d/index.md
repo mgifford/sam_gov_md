@@ -34,4 +34,4 @@ This Announcement for Proposal (AFP) solicits proposals from proposers (herein, 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ab0526266da948e7b2f3c981d1864d9d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ab0526266da948e7b2f3c981d1864d9d/view)

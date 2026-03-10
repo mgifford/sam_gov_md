@@ -30,4 +30,4 @@ The Government seeks a minimum of 12,941 rsf to a maximum of 13,588 rsf of conti
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/edcd2386f34c423fb6f91461ff14b5b8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/edcd2386f34c423fb6f91461ff14b5b8/view)

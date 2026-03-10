@@ -28,4 +28,4 @@ ALL INTERESTED OFFERORS WILL NEED TO COMPLETE AND RETURN A RESTRICTED ACCESS REQ
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/df705d86ede443aea63cf45456a43237/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/df705d86ede443aea63cf45456a43237/view)

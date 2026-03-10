@@ -30,4 +30,4 @@ Request for Information - 3rd Party Airline Travel Information The US Secret Ser
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ce8dcdca1a3a4921be2005d64430ee62/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ce8dcdca1a3a4921be2005d64430ee62/view)

@@ -33,4 +33,4 @@ Amendment 0001 extending closing date only from 03/06/2026 to 03/13/2026. No oth
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9dc2a62296ad4ca7b0219921f518c130/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9dc2a62296ad4ca7b0219921f518c130/view)

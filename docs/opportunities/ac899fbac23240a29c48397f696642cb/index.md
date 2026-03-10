@@ -25,4 +25,4 @@ Proposed procurement for NSN 2540017077959 PARTS KIT,SEAT,VEHI: Line 0001 Qty 12
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ac899fbac23240a29c48397f696642cb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ac899fbac23240a29c48397f696642cb/view)

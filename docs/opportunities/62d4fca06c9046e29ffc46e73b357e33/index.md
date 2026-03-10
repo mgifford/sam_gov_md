@@ -25,4 +25,4 @@ Proposed procurement for NSN 4020016643952 FIBER ROPE ASSEMBLY: Line 0001 Qty 16
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/62d4fca06c9046e29ffc46e73b357e33/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/62d4fca06c9046e29ffc46e73b357e33/view)

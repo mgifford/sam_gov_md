@@ -28,4 +28,4 @@ This is a notice of the Government's intent to solicit, negotiate and award a so
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a9a32e07c61e485c93e344c3dfa2fab6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a9a32e07c61e485c93e344c3dfa2fab6/view)

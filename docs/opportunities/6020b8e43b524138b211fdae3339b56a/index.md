@@ -25,4 +25,4 @@ Proposed procurement for NSN 5895014677784 CONTROL-POWER SUPPL: Line 0001 Qty 29
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6020b8e43b524138b211fdae3339b56a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6020b8e43b524138b211fdae3339b56a/view)

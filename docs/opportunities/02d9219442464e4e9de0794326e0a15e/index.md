@@ -28,4 +28,4 @@ This is a Sources Sought Notice ONLY. The U.S. Government desires to procure mor
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/02d9219442464e4e9de0794326e0a15e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/02d9219442464e4e9de0794326e0a15e/view)

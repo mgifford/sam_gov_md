@@ -25,4 +25,4 @@ Proposed procurement for NSN 4520014932800 SHC TENT CONTROLLER: Line 0001 Qty 18
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7e098f42977b45ed9327638093b075cd/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7e098f42977b45ed9327638093b075cd/view)

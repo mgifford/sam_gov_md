@@ -29,4 +29,4 @@ This is a Sources Sought Notice for the purpose of conducting a market survey fo
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a2c2718d1bad4d82952114706afa00b9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a2c2718d1bad4d82952114706afa00b9/view)

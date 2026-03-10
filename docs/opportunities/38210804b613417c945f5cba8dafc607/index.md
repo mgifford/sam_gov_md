@@ -26,4 +26,4 @@ This requirement is hereby cancelled. Any quotes that were received will no long
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/38210804b613417c945f5cba8dafc607/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/38210804b613417c945f5cba8dafc607/view)

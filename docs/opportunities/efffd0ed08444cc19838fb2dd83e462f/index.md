@@ -28,4 +28,4 @@ Western Area Power Administration (WAPA) Sierra Nevada Region (SNR) requirement 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/efffd0ed08444cc19838fb2dd83e462f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/efffd0ed08444cc19838fb2dd83e462f/view)

@@ -28,4 +28,4 @@ NOTICE OF INTENT TO SOLE SOURCE The Department of Veterans Affairs Dayton VAMC, 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b0bd3921a6814fe99a59d61e125145d5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b0bd3921a6814fe99a59d61e125145d5/view)

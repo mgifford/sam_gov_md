@@ -27,4 +27,4 @@ The Mission and Installation Contracting Command (MICC), Fort McCoy, Wisconsin h
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c9b9ba03325045e2bbec89e4d8703f9d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c9b9ba03325045e2bbec89e4d8703f9d/view)

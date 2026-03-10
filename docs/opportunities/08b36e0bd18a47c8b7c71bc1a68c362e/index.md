@@ -25,4 +25,4 @@ Proposed procurement for NSN 6640016779591 FILTERGRAM: Line 0001 Qty 51 UI PG De
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/08b36e0bd18a47c8b7c71bc1a68c362e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/08b36e0bd18a47c8b7c71bc1a68c362e/view)

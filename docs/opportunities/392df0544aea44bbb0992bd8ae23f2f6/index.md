@@ -26,4 +26,4 @@ This Request for Quote (RFQ) is for Nurse Call System Support at the Joseph Maxw
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/392df0544aea44bbb0992bd8ae23f2f6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/392df0544aea44bbb0992bd8ae23f2f6/view)

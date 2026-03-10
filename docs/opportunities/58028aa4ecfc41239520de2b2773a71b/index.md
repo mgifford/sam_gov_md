@@ -26,4 +26,4 @@ Treadmill
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/58028aa4ecfc41239520de2b2773a71b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/58028aa4ecfc41239520de2b2773a71b/view)

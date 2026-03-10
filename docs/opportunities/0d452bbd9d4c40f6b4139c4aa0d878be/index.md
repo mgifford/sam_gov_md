@@ -28,4 +28,4 @@ The Naval Air Systems Command (NAVAIR), Patuxent River, MD, intends to award a s
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0d452bbd9d4c40f6b4139c4aa0d878be/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0d452bbd9d4c40f6b4139c4aa0d878be/view)

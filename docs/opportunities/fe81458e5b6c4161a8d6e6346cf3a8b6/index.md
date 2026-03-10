@@ -28,4 +28,4 @@ Sole Surce award made to SDVOSB Government Marketing and Procurement LLC with at
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fe81458e5b6c4161a8d6e6346cf3a8b6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fe81458e5b6c4161a8d6e6346cf3a8b6/view)

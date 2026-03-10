@@ -25,4 +25,4 @@ Proposed procurement for NSN 1680015665095 NO LE ASSY,MAIN,AI: Line 0001 Qty 161
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/14d5c5129e1a4c759e74ba78902b02a7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/14d5c5129e1a4c759e74ba78902b02a7/view)

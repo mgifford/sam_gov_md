@@ -28,4 +28,4 @@ Berks County, PA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/667b0f43d65a4061b5d7beef6204a98b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/667b0f43d65a4061b5d7beef6204a98b/view)

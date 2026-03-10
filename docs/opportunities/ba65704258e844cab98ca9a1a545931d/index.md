@@ -26,4 +26,4 @@ Please see the attached Request for Proposal and associated enclosures.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ba65704258e844cab98ca9a1a545931d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ba65704258e844cab98ca9a1a545931d/view)

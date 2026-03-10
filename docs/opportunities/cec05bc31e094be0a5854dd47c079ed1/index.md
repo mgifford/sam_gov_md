@@ -25,4 +25,4 @@ Proposed procurement for NSN 4730016588977 SPOOL PIECE: Line 0001 Qty 6 UI EA De
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/cec05bc31e094be0a5854dd47c079ed1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cec05bc31e094be0a5854dd47c079ed1/view)

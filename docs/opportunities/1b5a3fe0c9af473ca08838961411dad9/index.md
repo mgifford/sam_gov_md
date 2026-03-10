@@ -29,4 +29,4 @@ NOTICE OF INTENT TO SOLE SOURCE The U.S. Government currently intends to award a
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1b5a3fe0c9af473ca08838961411dad9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1b5a3fe0c9af473ca08838961411dad9/view)

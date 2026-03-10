@@ -29,4 +29,4 @@ RFID Labels and Hangtags for various UNICOR factories. Please see the attahced S
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/957aef69156348f2a1cd7af4344aa0bd/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/957aef69156348f2a1cd7af4344aa0bd/view)

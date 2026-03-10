@@ -25,4 +25,4 @@ Proposed procurement for NSN 6625011597957 ADAPTER,TEST: Line 0001 Qty 451 UI EA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4d36d22f74624b578c61bc1f30d643ea/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4d36d22f74624b578c61bc1f30d643ea/view)

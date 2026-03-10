@@ -26,4 +26,4 @@ MaxCyte ExPERT GTx Electroporation Device and Installation/Operational Qualifica
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7e20c9cfb4864134a62b5475e84af08f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7e20c9cfb4864134a62b5475e84af08f/view)

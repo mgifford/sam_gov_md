@@ -25,4 +25,4 @@ Proposed procurement for NSN 3040012519858 DISK BRAKE SHOE: Line 0001 Qty 122 UI
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7c00c91db9694a13a416f149d6ffb9f5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7c00c91db9694a13a416f149d6ffb9f5/view)

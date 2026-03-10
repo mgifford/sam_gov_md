@@ -25,4 +25,4 @@ Proposed procurement for NSN 5330015270048 KIT,SEAL: Line 0001 Qty 52 UI EA Deli
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/59a0777d41c14824b21853fba79ccc21/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/59a0777d41c14824b21853fba79ccc21/view)

@@ -28,4 +28,4 @@ Sources Sought Notice (SSN) Department of Veterans Affairs, Veterans Health Admi
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/09eededd50934ff19b84a6e1d5f6d52d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/09eededd50934ff19b84a6e1d5f6d52d/view)

@@ -28,4 +28,4 @@ Amendment to respond to vendor questions, no more questions will be answered bef
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d56a02a870b245a0b4e84edceac8e3bb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d56a02a870b245a0b4e84edceac8e3bb/view)

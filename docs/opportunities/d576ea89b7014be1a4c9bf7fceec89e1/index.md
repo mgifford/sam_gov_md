@@ -28,4 +28,4 @@ The Department of Veterans Affairs, VISN 08, Orlando Veterans Administration Hea
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d576ea89b7014be1a4c9bf7fceec89e1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d576ea89b7014be1a4c9bf7fceec89e1/view)

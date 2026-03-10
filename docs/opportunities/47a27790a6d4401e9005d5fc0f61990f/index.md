@@ -32,4 +32,4 @@ PROCEED TO PROVIDE, INSTALL, AND MAINTAIN A 64 KB COMMERCIAL BUSINESS LINE (CBL)
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/47a27790a6d4401e9005d5fc0f61990f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/47a27790a6d4401e9005d5fc0f61990f/view)

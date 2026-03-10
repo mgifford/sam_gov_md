@@ -25,4 +25,4 @@ Proposed procurement for NSN 5306005389082 BOLT,SHEAR: Line 0001 Qty 1591 UI EA 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/edfb1ba3a2bf4467ad574b63ea2a64c8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/edfb1ba3a2bf4467ad574b63ea2a64c8/view)

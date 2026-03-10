@@ -26,4 +26,4 @@ Amendment 0002 - The purpose of this amendment is to publish Amendment 0001's do
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e2a18983aae042a7a574a0b13137c670/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e2a18983aae042a7a574a0b13137c670/view)

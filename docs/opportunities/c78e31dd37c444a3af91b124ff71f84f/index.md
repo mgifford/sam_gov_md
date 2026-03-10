@@ -28,4 +28,4 @@ See Attached Document.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c78e31dd37c444a3af91b124ff71f84f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c78e31dd37c444a3af91b124ff71f84f/view)

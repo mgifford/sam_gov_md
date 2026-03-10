@@ -28,4 +28,4 @@ NOTICE OF INTENT TO SOLE SOURCE NOTICE OF INTENT TO SOLE SOURCE This notice is b
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2803351c94db47a59d9671bf2b04049b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2803351c94db47a59d9671bf2b04049b/view)

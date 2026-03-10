@@ -28,4 +28,4 @@ Amendment 1: The purpose of this amanedment is to cancel the solicitation due to
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/eb7e49e9808c4b7f8c4564a775ae224d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/eb7e49e9808c4b7f8c4564a775ae224d/view)

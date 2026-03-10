@@ -28,4 +28,4 @@ Amendment 1 - The purpose of this amendment is to extend the solicitation period
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a64563d83259440e981bc589cbbf8c7c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a64563d83259440e981bc589cbbf8c7c/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 1680001457159 CUSHION,AIRCRAFT SE: Line 0001 Qty 12
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/17a8686a66ed4746bf324bd0bd094d15/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/17a8686a66ed4746bf324bd0bd094d15/view)

@@ -26,4 +26,4 @@ Amendment 3 / Questions and Answers 03/06/2026 Hello - Amendment 3 has been issu
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4fdc6d0c8cfc4807b5dfa5365c129af5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4fdc6d0c8cfc4807b5dfa5365c129af5/view)

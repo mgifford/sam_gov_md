@@ -25,4 +25,4 @@ Proposed procurement for NSN 3040015494080 AXLE,SHOULDERED: Line 0001 Qty 17 UI 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/00976ebcc115427e9f827a727b062810/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/00976ebcc115427e9f827a727b062810/view)

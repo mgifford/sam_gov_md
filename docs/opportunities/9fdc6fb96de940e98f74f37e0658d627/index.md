@@ -25,4 +25,4 @@ Proposed procurement for NSN 5895012017700 DIVIDER,POWER,RADIO: Line 0001 Qty 10
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9fdc6fb96de940e98f74f37e0658d627/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9fdc6fb96de940e98f74f37e0658d627/view)

@@ -28,4 +28,4 @@ The work to be done under these specifications consists of furnishing and delive
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e69f9295e2c649db950b03106a9aa4a3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e69f9295e2c649db950b03106a9aa4a3/view)

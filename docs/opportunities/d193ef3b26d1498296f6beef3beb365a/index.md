@@ -28,4 +28,4 @@ AFLCMC/ESSK office is issuing this Request for Information (RFI) to improve unde
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d193ef3b26d1498296f6beef3beb365a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d193ef3b26d1498296f6beef3beb365a/view)

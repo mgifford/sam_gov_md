@@ -25,4 +25,4 @@ Proposed procurement for NSN 2530014129564 CAP,GREASE: Line 0001 Qty 1230 UI EA 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/75d2ed86bc4e43dabac303a710aa700b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/75d2ed86bc4e43dabac303a710aa700b/view)

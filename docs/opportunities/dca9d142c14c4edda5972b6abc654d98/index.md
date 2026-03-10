@@ -27,4 +27,4 @@ The Defense Health Agency (DHA) intends to award a sole-source contract with ROC
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/dca9d142c14c4edda5972b6abc654d98/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/dca9d142c14c4edda5972b6abc654d98/view)

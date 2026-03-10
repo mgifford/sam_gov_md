@@ -26,4 +26,4 @@ Construction Services for the FY26 National Roofing Program (NRP) Project #01 - 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/593e3ebca6f24d60a57498daef809067/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/593e3ebca6f24d60a57498daef809067/view)

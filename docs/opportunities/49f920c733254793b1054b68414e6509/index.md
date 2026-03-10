@@ -28,4 +28,4 @@ The Department of Veteran s Affairs will solicit for vendors capable of providin
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/49f920c733254793b1054b68414e6509/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/49f920c733254793b1054b68414e6509/view)

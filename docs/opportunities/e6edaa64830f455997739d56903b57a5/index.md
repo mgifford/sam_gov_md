@@ -25,4 +25,4 @@ Proposed procurement for NSN 5310011689823 NUT,SELF-LOCKING,PL: Line 0001 Qty 13
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e6edaa64830f455997739d56903b57a5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e6edaa64830f455997739d56903b57a5/view)

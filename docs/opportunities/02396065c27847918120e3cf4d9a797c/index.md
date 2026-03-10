@@ -25,4 +25,4 @@ Proposed procurement for NSN 1615012027131 ROTOR ASSEMBLY,ACTU: Line 0001 Qty 12
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/02396065c27847918120e3cf4d9a797c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/02396065c27847918120e3cf4d9a797c/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 3040001182780 SHAFT ASSEMBLY,TORQ: Line 0001 Qty 8 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c6c722eade5d41b4970793946d2986f9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c6c722eade5d41b4970793946d2986f9/view)

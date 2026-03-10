@@ -25,4 +25,4 @@ Proposed procurement for NSN 2520015138165 COUPLING,ASSY AXIA: Line 0001 Qty 67 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/61f0b6a61f5f4bd6b41e8cd88fe4cd53/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/61f0b6a61f5f4bd6b41e8cd88fe4cd53/view)

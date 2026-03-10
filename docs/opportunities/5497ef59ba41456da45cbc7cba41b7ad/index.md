@@ -30,4 +30,4 @@ The Federal Correctional Complex Victorville, Victorville, California, issued So
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5497ef59ba41456da45cbc7cba41b7ad/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5497ef59ba41456da45cbc7cba41b7ad/view)

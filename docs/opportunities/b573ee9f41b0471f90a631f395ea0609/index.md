@@ -28,4 +28,4 @@ The US Army Corp of Engineers - Rock Island District (MVR) intends to issue a so
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b573ee9f41b0471f90a631f395ea0609/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b573ee9f41b0471f90a631f395ea0609/view)

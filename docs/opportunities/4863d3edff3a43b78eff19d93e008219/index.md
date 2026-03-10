@@ -25,4 +25,4 @@ Proposed procurement for NSN 5330005325466 PACKING AND RETAINE: Line 0001 Qty 91
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4863d3edff3a43b78eff19d93e008219/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4863d3edff3a43b78eff19d93e008219/view)

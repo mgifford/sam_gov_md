@@ -26,4 +26,4 @@ The U.S. Army Corps of Engineers - New England District is issuing a Presolicita
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/38378aad33e94788a974a2a67835953d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/38378aad33e94788a974a2a67835953d/view)

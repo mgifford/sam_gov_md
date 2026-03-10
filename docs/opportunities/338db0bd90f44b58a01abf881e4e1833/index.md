@@ -18,4 +18,4 @@ The Government shall aard a sole source contract to PearsonVUE for DoD Cyber Wor
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/338db0bd90f44b58a01abf881e4e1833/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/338db0bd90f44b58a01abf881e4e1833/view)

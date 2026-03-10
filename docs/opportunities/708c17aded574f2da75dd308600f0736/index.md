@@ -25,4 +25,4 @@ Proposed procurement for NSN 4210010578478 VALVE,PILOT: Line 0001 Qty 20 UI EA D
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/708c17aded574f2da75dd308600f0736/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/708c17aded574f2da75dd308600f0736/view)

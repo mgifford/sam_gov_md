@@ -25,4 +25,4 @@ NSN 7H-6695-015428290, TDP VER 002, QTY 8 EA, DELIVERY FOB ORIGIN. The Governmen
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/63c4375ba4e34894bebfc8c2070f384c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/63c4375ba4e34894bebfc8c2070f384c/view)

@@ -32,4 +32,4 @@ SOLE SOURCE PROCUREMENT- The proposed contract action is for the supplies or ser
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/da049f8f2d584857b5af44b4cb53dd18/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/da049f8f2d584857b5af44b4cb53dd18/view)

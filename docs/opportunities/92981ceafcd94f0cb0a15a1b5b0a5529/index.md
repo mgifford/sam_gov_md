@@ -29,4 +29,4 @@ N3220526R6007 Q&A 0002 IS HEREBY ATTACHED N3220526R6007 A0001 AND Q&A 0001 ARE H
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/92981ceafcd94f0cb0a15a1b5b0a5529/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/92981ceafcd94f0cb0a15a1b5b0a5529/view)

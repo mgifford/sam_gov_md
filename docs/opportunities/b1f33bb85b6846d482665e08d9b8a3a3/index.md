@@ -36,4 +36,4 @@ In September of 2026, the Library of Congress will open the Alive in Many Hands 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b1f33bb85b6846d482665e08d9b8a3a3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b1f33bb85b6846d482665e08d9b8a3a3/view)

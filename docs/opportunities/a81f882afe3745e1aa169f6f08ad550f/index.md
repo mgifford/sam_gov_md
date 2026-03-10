@@ -25,4 +25,4 @@ Proposed procurement for NSN 2540006537589 TARPAULIN: Line 0001 Qty 241 UI EA De
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a81f882afe3745e1aa169f6f08ad550f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a81f882afe3745e1aa169f6f08ad550f/view)

@@ -28,4 +28,4 @@ This is a SOURCES SOUGHT and is for informational/market research purposes only.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3adccd3f72e54359a33c70988a20ff78/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3adccd3f72e54359a33c70988a20ff78/view)

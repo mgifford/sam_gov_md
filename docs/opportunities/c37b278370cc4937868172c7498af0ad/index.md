@@ -25,4 +25,4 @@ Proposed procurement for NSN 2520011060125 REPAIR KIT FAN DRIV: Line 0001 Qty 41
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c37b278370cc4937868172c7498af0ad/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c37b278370cc4937868172c7498af0ad/view)

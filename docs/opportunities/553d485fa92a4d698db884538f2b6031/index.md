@@ -25,4 +25,4 @@ NSN 0R-0098-LLZ98S302-EX, IAW REF NR 001-008690-0003, QTY 25 EA, DELIVERY FOB OR
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/553d485fa92a4d698db884538f2b6031/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/553d485fa92a4d698db884538f2b6031/view)

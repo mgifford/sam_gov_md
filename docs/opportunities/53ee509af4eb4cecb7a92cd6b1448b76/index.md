@@ -28,4 +28,4 @@ Sealed bids from all business concerns will be accepted for the George Washingto
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/53ee509af4eb4cecb7a92cd6b1448b76/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/53ee509af4eb4cecb7a92cd6b1448b76/view)

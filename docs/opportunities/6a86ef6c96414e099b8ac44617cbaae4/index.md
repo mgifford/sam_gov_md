@@ -25,4 +25,4 @@ Proposed procurement for NSN 2590016537295 STEP ASSEMBLY,VECHI: Line 0001 Qty 20
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6a86ef6c96414e099b8ac44617cbaae4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6a86ef6c96414e099b8ac44617cbaae4/view)

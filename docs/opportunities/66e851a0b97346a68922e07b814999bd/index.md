@@ -28,4 +28,4 @@ Line item 1- PUMP W/MOTOR, SUBMERSIBLE,
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/66e851a0b97346a68922e07b814999bd/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/66e851a0b97346a68922e07b814999bd/view)

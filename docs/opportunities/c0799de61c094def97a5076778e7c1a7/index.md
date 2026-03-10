@@ -30,4 +30,4 @@ This is a five-year, firm-fixed-price IDIQ contract for the repair of F-16 SST C
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c0799de61c094def97a5076778e7c1a7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c0799de61c094def97a5076778e7c1a7/view)

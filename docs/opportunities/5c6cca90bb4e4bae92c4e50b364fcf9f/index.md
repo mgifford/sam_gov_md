@@ -25,4 +25,4 @@ Proposed procurement for NSN 6240015391507 LAMP,FLUORESCENT: Line 0001 Qty 2597 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5c6cca90bb4e4bae92c4e50b364fcf9f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5c6cca90bb4e4bae92c4e50b364fcf9f/view)

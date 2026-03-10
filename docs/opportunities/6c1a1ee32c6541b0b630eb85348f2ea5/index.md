@@ -25,4 +25,4 @@ Proposed procurement for NSN 2590014427346 COUNTERWEIGHT,REMOV: Line 0001 Qty 62
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6c1a1ee32c6541b0b630eb85348f2ea5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6c1a1ee32c6541b0b630eb85348f2ea5/view)

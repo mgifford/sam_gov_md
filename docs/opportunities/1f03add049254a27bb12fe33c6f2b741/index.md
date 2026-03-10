@@ -29,4 +29,4 @@ NOTICE OF INTENT This Notice of Intent is not a request for competitive proposal
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1f03add049254a27bb12fe33c6f2b741/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1f03add049254a27bb12fe33c6f2b741/view)

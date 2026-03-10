@@ -25,4 +25,4 @@ Hello, this is the notice of the publication of the VHA Black Hills HCS Air Bala
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0ab52e24c2854bc1b3f8f5fe71df81a8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0ab52e24c2854bc1b3f8f5fe71df81a8/view)

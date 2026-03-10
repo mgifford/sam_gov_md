@@ -25,4 +25,4 @@ Proposed procurement for NSN 3020004875971 GEAR,RING: Line 0001 Qty 15 UI EA Del
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/03f64cee239548f7a2e6a8f55e4a3343/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/03f64cee239548f7a2e6a8f55e4a3343/view)

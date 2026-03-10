@@ -25,4 +25,4 @@ The Naval Air Systems Command (NAVAIR) at Naval Air Station (NAS) Patuxent River
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/cdac7e1f3bff4c5ab2a5f95600702555/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cdac7e1f3bff4c5ab2a5f95600702555/view)

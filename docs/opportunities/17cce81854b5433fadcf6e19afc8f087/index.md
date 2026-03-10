@@ -26,4 +26,4 @@ Special Education (SPED) Teacher, SS
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/17cce81854b5433fadcf6e19afc8f087/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/17cce81854b5433fadcf6e19afc8f087/view)

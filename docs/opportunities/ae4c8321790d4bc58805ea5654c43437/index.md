@@ -30,4 +30,4 @@ AMENDMENT 0001 : REVISED TITLE AND PERFORMANCE WORK STATEMENT (PWS) REVISED TITL
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ae4c8321790d4bc58805ea5654c43437/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ae4c8321790d4bc58805ea5654c43437/view)

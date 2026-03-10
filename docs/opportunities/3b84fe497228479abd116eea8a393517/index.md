@@ -28,4 +28,4 @@ The Contractor shall furnish all personnel, supervision, supplies, equipment, to
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3b84fe497228479abd116eea8a393517/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3b84fe497228479abd116eea8a393517/view)

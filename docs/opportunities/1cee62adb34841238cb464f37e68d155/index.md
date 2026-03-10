@@ -25,4 +25,4 @@ NABR-ROAD-SUPPLY UBC MATERIAL
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1cee62adb34841238cb464f37e68d155/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1cee62adb34841238cb464f37e68d155/view)

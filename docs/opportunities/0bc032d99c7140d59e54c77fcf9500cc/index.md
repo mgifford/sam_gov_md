@@ -29,4 +29,4 @@ Amendment 1 The purpose of this Amendment 1 is to: 1. Extend the deadline date f
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0bc032d99c7140d59e54c77fcf9500cc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0bc032d99c7140d59e54c77fcf9500cc/view)

@@ -25,4 +25,4 @@ This is a combined synopsis/solicitation for commercial items/services prepared 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5b74f53438cf40d6bbdc2d247e709a0a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5b74f53438cf40d6bbdc2d247e709a0a/view)

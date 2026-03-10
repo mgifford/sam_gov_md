@@ -27,4 +27,4 @@ W.G. (Bill) Hefner Department of Veterans Affairs Medical Center 1601 Brenner Av
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fd598f7704c84892b603cd3728f27aba/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fd598f7704c84892b603cd3728f27aba/view)

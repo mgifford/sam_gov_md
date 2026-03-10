@@ -25,4 +25,4 @@ Proposed procurement for NSN 5930011473295 SWITCH,SENSITIVE: Line 0001 Qty 141 U
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9add44330adf46268beb9b7163594f6d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9add44330adf46268beb9b7163594f6d/view)

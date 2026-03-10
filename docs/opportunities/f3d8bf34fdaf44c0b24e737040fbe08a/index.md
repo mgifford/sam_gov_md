@@ -30,4 +30,4 @@ A new Firm Fixed Price (FFP) contract W9127826CA006 is being contemplated for aw
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f3d8bf34fdaf44c0b24e737040fbe08a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f3d8bf34fdaf44c0b24e737040fbe08a/view)

@@ -26,4 +26,4 @@ Provide, install, and test 6-strand and 12-strand fiber optic cables, accessorie
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f179647679a04bc2af98e4ae49dd3120/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f179647679a04bc2af98e4ae49dd3120/view)

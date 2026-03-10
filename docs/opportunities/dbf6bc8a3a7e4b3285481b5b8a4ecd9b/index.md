@@ -30,4 +30,4 @@ This effort was awarded a a sole source effort to prevent a break in service due
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/dbf6bc8a3a7e4b3285481b5b8a4ecd9b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/dbf6bc8a3a7e4b3285481b5b8a4ecd9b/view)

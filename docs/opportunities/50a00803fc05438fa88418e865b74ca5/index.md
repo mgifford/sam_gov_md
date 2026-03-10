@@ -25,4 +25,4 @@ Proposed procurement for NSN 1730000276466 SHIELD,AIRCRAFT GRO: Line 0001 Qty 16
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/50a00803fc05438fa88418e865b74ca5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/50a00803fc05438fa88418e865b74ca5/view)

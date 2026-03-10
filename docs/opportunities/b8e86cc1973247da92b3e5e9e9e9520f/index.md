@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340016300390 HARDWARE KIT,MECHAN: Line 0001 Qty 1 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b8e86cc1973247da92b3e5e9e9e9520f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b8e86cc1973247da92b3e5e9e9e9520f/view)

@@ -26,4 +26,4 @@ The United States Coast Guard Surface Forces Logistics Center has a requirement 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c5fecef693c64035bacf32a06a721d5b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c5fecef693c64035bacf32a06a721d5b/view)

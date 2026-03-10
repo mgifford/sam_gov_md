@@ -25,4 +25,4 @@ CURE SURFACE TREATMENT OF GRAVEL ROADS
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f6917bf68a2a4ece8c7bd196628b4b4c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f6917bf68a2a4ece8c7bd196628b4b4c/view)

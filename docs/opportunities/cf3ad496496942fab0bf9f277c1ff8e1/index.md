@@ -25,4 +25,4 @@ THIS NOTICE OF INTENT IS NOT A REQUEST FOR QUOTES. A DETERMINATION NOT TO COMPET
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/cf3ad496496942fab0bf9f277c1ff8e1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cf3ad496496942fab0bf9f277c1ff8e1/view)

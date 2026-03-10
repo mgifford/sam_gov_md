@@ -29,4 +29,4 @@ Combined Synopsis/Solicitation for Commercial Services Solicitation Number: 5200
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d90956a960ba4101bec8b8537b062540/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d90956a960ba4101bec8b8537b062540/view)

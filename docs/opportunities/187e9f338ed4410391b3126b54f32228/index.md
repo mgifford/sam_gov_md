@@ -25,4 +25,4 @@ Proposed procurement for NSN 5895015208158 CONVERTER,SIGNAL DA: Line 0001 Qty 14
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/187e9f338ed4410391b3126b54f32228/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/187e9f338ed4410391b3126b54f32228/view)

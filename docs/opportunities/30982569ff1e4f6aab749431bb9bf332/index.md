@@ -28,4 +28,4 @@ DeCA OCONUS (EUROPE) 2026 WTO/FTA and Yearly Acquisition Strategy Defense Commis
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/30982569ff1e4f6aab749431bb9bf332/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/30982569ff1e4f6aab749431bb9bf332/view)

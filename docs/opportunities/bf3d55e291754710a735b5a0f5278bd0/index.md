@@ -28,4 +28,4 @@ Custom Corrugated Boxes Rescind and Cancelled Pre-Solicitation Notice
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bf3d55e291754710a735b5a0f5278bd0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bf3d55e291754710a735b5a0f5278bd0/view)

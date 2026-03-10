@@ -26,4 +26,4 @@ Short term extension of three years to protect occupancy until long term action 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/61e4aec73c004eeb87b08e3849218968/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/61e4aec73c004eeb87b08e3849218968/view)

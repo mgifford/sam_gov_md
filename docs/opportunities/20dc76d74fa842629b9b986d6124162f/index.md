@@ -25,4 +25,4 @@ Proposed procurement for NSN 6340013520080 CONTROL,ALARM: Line 0001 Qty 20 UI EA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/20dc76d74fa842629b9b986d6124162f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/20dc76d74fa842629b9b986d6124162f/view)

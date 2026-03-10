@@ -25,4 +25,4 @@ Proposed procurement for NSN 1680016451879 PAD ASSY: Line 0001 Qty 66 UI EA Deli
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6f7924441d3b4c039876a93dca541b65/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6f7924441d3b4c039876a93dca541b65/view)

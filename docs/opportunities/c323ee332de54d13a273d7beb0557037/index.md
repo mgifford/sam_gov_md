@@ -25,4 +25,4 @@ The Federal Bureau of Investigation (FBI), Procurement Section, is seeking quali
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c323ee332de54d13a273d7beb0557037/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c323ee332de54d13a273d7beb0557037/view)

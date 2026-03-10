@@ -26,4 +26,4 @@ The USGS New York Water Science Center has a requirement to purchase an autosamp
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9d07bbc046cb485eb5f50592524e50fa/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9d07bbc046cb485eb5f50592524e50fa/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 1025011962176 BRUSH AND BAG ASSEM: Line 0001 Qty 31
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/dfc45e94f0ba46e58d950b75b7514411/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/dfc45e94f0ba46e58d950b75b7514411/view)

@@ -28,4 +28,4 @@ The purpose of this solicitation to clarify the requirement and to provide an ex
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/611f2e78cabd4168998d7064056d52b7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/611f2e78cabd4168998d7064056d52b7/view)

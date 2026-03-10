@@ -28,4 +28,4 @@ Lowest Price Technically Acceptable
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e2cb4858105043c8adebb0836b269912/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e2cb4858105043c8adebb0836b269912/view)

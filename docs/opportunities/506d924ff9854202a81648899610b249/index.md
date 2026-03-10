@@ -26,4 +26,4 @@ Update 0001 (6 March 2026): This acquisition has been updated to include Design-
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/506d924ff9854202a81648899610b249/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/506d924ff9854202a81648899610b249/view)

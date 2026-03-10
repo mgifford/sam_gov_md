@@ -25,4 +25,4 @@ Payment for the scrap metal will be for the weight of the metal removed from Ard
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ca0cad427dda462abb2ea76dd3a18f72/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ca0cad427dda462abb2ea76dd3a18f72/view)

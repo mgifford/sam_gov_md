@@ -25,4 +25,4 @@ West Coast Region 24/7 Marine Mammal Hotline Service
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6490b7f2547047bb802ab380bc14d4a6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6490b7f2547047bb802ab380bc14d4a6/view)

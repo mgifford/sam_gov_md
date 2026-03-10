@@ -30,4 +30,4 @@ March 9th, 2026 Dear Prospective Quoter: Subject: Request for Quotations number 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5de0b0be1b09467991149ab097197c28/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5de0b0be1b09467991149ab097197c28/view)

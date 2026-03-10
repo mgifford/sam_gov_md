@@ -25,4 +25,4 @@ Proposed procurement for NSN 2510016585618 WINDOW,VEHICULAR: Line 0001 Qty 6 UI 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0936ad2210d3460595b18197174cc899/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0936ad2210d3460595b18197174cc899/view)

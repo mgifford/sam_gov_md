@@ -25,4 +25,4 @@ Equipment, SSIS
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2113a769552141eb89cbd987075038ef/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2113a769552141eb89cbd987075038ef/view)

@@ -28,4 +28,4 @@ This market survey RFI is being conducted to identify potential sources that may
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/12e526bf2aec4d9399ca2c6b5f03006f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/12e526bf2aec4d9399ca2c6b5f03006f/view)

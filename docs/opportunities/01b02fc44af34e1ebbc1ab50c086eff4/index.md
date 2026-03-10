@@ -25,4 +25,4 @@ This is a solicitation for commercial items prepared in accordance with (IAW) th
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/01b02fc44af34e1ebbc1ab50c086eff4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/01b02fc44af34e1ebbc1ab50c086eff4/view)

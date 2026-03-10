@@ -28,4 +28,4 @@ Please see attached SF1449 15M10226QA4700054 for Technical Specifications/Statem
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2d5d782f88d941fab97df3d41566f38e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2d5d782f88d941fab97df3d41566f38e/view)

@@ -28,4 +28,4 @@ This is the award notice for the CAT6a Cable Pull for the Kansas City VAMC.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/18ab2381d63f4e97a80f62ad55caab35/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/18ab2381d63f4e97a80f62ad55caab35/view)

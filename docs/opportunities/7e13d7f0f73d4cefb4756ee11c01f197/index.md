@@ -28,4 +28,4 @@ Please see the attached Single Source Justification for full details. Please con
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7e13d7f0f73d4cefb4756ee11c01f197/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7e13d7f0f73d4cefb4756ee11c01f197/view)

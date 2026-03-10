@@ -25,4 +25,4 @@ The Department of Veterans Affairs, National Cemetery Administration, intends to
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b4062c2a511e4bbaa6bb83ecdbd4a6f3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b4062c2a511e4bbaa6bb83ecdbd4a6f3/view)

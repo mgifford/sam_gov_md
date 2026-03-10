@@ -25,4 +25,4 @@ NSN 7H-6130-016130039, TDP VER 004, QTY 5 EA, DELIVER TO W25G1U, W1A8 DLA DISTRI
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b88f6b1fe2854e1382913da9c8fe357e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b88f6b1fe2854e1382913da9c8fe357e/view)

@@ -26,4 +26,4 @@ The attached justification is for solicitation SPE7LX25R0050 for Award SPE7LX26D
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c4640627b49e4d59a3f0c75633c359dc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c4640627b49e4d59a3f0c75633c359dc/view)

@@ -26,4 +26,4 @@ Amendment 0001 has been posted on 9 March 2026 to extend the proposal due date t
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/57f6dd087c0742539beba5609f4e5233/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/57f6dd087c0742539beba5609f4e5233/view)

@@ -26,4 +26,4 @@ The Deschutes National Forest (DNF) seeks a cultural resource contractor to comp
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/601232551a2e4445b946e930847be63f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/601232551a2e4445b946e930847be63f/view)

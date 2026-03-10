@@ -25,4 +25,4 @@ Proposed procurement for NSN 2540200014066 LATCH,DOOR,VEHICULA: Line 0001 Qty 11
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c2275daaef7a4997ac5cc238b1d4ff12/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c2275daaef7a4997ac5cc238b1d4ff12/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 1005014985156 CONVEYOR ELEMENT,AM: Line 0001 Qty 5 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/513877f78670459c9d02694a35be3cc7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/513877f78670459c9d02694a35be3cc7/view)

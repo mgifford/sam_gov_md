@@ -25,4 +25,4 @@ This is a solicitation for the repair of Navy Weapon System P-8A POSEIDON AIRCRA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/18a6fb3aacbd4543b98ce35836cb48d6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/18a6fb3aacbd4543b98ce35836cb48d6/view)

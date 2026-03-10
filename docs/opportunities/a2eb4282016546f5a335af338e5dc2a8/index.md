@@ -30,4 +30,4 @@ The Mountain Home VAMC is seeking a general contractor to coordinate all design 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a2eb4282016546f5a335af338e5dc2a8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a2eb4282016546f5a335af338e5dc2a8/view)

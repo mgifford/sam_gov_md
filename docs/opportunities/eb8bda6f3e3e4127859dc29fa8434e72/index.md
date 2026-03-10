@@ -25,4 +25,4 @@ Proposed procurement for NSN 5935003377770 CONNECTOR,RECEPTACL: Line 0001 Qty 69
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/eb8bda6f3e3e4127859dc29fa8434e72/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/eb8bda6f3e3e4127859dc29fa8434e72/view)

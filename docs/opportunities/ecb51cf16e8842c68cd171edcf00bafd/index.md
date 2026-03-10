@@ -31,4 +31,4 @@ This is a Sources Sought notice only, not a solicitation announcement and is iss
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ecb51cf16e8842c68cd171edcf00bafd/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ecb51cf16e8842c68cd171edcf00bafd/view)

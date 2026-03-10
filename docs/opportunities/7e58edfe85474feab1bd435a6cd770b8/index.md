@@ -28,4 +28,4 @@ The contractor shall provide all personnel, equipment, tools, materials, vehicle
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7e58edfe85474feab1bd435a6cd770b8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7e58edfe85474feab1bd435a6cd770b8/view)

@@ -34,4 +34,4 @@ HE125426RE015: Daily Commute Student Transportation Services for the Ansbach Mil
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/58a748963fc9468f8ae54accc6301346/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/58a748963fc9468f8ae54accc6301346/view)

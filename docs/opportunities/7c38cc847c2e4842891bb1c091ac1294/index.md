@@ -60,4 +60,4 @@ CONTACT INFORMATION|4|N741.3|GDS|717.605.1309|alison.n.bruker.civ@us.navy.mil| I
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7c38cc847c2e4842891bb1c091ac1294/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7c38cc847c2e4842891bb1c091ac1294/view)

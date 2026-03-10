@@ -25,4 +25,4 @@ Proposed procurement for NSN 6650011188140 PRISM,OPTICAL INSTR: Line 0001 Qty 6 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7bee717dbe2b475a98d971ed866f363b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7bee717dbe2b475a98d971ed866f363b/view)

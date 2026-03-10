@@ -25,4 +25,4 @@ Proposed procurement for NSN 5610016787735 AGGREGATE,CONSTRUCT: Line 0001 Qty 10
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3de539313a334c3ab244fffba6cfa931/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3de539313a334c3ab244fffba6cfa931/view)

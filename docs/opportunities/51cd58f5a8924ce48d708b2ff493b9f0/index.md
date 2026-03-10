@@ -27,4 +27,4 @@ Ambulatory EKG monitoring and Data processing
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/51cd58f5a8924ce48d708b2ff493b9f0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/51cd58f5a8924ce48d708b2ff493b9f0/view)

@@ -28,4 +28,4 @@ WI-NECEDAH NWR-MACK TRUCK INJECTORS REPAIR
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e2b93b8a51f5409e8780d51a38f985c3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e2b93b8a51f5409e8780d51a38f985c3/view)

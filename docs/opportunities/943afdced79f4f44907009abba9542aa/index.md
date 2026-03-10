@@ -26,4 +26,4 @@ GATE-TROUBLESHOOT & REPAIR HVAC-BLDG 26 The purpose of this amendment is to resp
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/943afdced79f4f44907009abba9542aa/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/943afdced79f4f44907009abba9542aa/view)

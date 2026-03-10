@@ -25,4 +25,4 @@ NSN 3H-3110-009910945-NT, TDP VER 017, QTY 9 EA, DELIVERY FOB ORIGIN. This part 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6dca15d25ea84b619098237070fbde6b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6dca15d25ea84b619098237070fbde6b/view)

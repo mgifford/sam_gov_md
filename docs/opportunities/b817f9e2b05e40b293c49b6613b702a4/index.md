@@ -31,4 +31,4 @@ CONTACT INFORMATION|4|N713.33|HQ0|771-229-0386|ASHLEY.H.BETLOCK.CIV@US.NAVY.MIL|
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b817f9e2b05e40b293c49b6613b702a4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b817f9e2b05e40b293c49b6613b702a4/view)

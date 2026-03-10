@@ -25,4 +25,4 @@ Proposed procurement for NSN 2030011271220 TRANSDUCER: Line 0001 Qty 13 UI EA De
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4b296fb884ff41ec908dbac40149aa53/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4b296fb884ff41ec908dbac40149aa53/view)

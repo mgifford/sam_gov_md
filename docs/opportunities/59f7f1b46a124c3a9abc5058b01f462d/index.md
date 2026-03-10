@@ -25,4 +25,4 @@ Industry Day: Host Nation Payroll and Timekeeping Software Services NAVSUP Fleet
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/59f7f1b46a124c3a9abc5058b01f462d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/59f7f1b46a124c3a9abc5058b01f462d/view)

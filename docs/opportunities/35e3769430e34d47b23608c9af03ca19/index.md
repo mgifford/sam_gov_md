@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340013882638 CONNECTOR,ROD END: Line 0001 Qty 2 UI
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/35e3769430e34d47b23608c9af03ca19/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/35e3769430e34d47b23608c9af03ca19/view)

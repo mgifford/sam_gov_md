@@ -25,4 +25,4 @@ Proposed procurement for NSN 4220014709908 CHEMICAL PILLS,REPL: Line 0001 Qty 18
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/60f270b6fa2742648e0c440e27602b9b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/60f270b6fa2742648e0c440e27602b9b/view)

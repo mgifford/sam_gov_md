@@ -26,4 +26,4 @@ SPED Teacher, SRDS
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7840ca4ba1ca49b3aa6ba990d80c03f8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7840ca4ba1ca49b3aa6ba990d80c03f8/view)

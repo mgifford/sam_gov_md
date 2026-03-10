@@ -26,4 +26,4 @@ Sources Sought: Non-Hazardous Waste Removal Service for Washington Crossing Nati
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c9882eece3ff4c97a6c4d3d7ee31497c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c9882eece3ff4c97a6c4d3d7ee31497c/view)

@@ -28,4 +28,4 @@ This is a notice of intent to award a noncompetitive contract action. The Nation
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c616c0cd01784764886f9b11b3ad4519/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c616c0cd01784764886f9b11b3ad4519/view)

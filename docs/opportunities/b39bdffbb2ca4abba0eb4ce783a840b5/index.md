@@ -30,4 +30,4 @@ Only Mechanical MACC Contractors listed on the General Requirements cover page m
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b39bdffbb2ca4abba0eb4ce783a840b5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b39bdffbb2ca4abba0eb4ce783a840b5/view)

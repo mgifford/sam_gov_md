@@ -30,4 +30,4 @@ PLEASE SEE ATTACHED *********SOLICITATION HAS BEEN EXTENDED TO 19 MARCH 2026 AND
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3e523646d71b4ad5bfc14fa94b71024e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3e523646d71b4ad5bfc14fa94b71024e/view)

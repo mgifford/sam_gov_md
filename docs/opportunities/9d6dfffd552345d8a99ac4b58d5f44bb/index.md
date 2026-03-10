@@ -30,4 +30,4 @@ ATTENTION: INTERESTED AND CAPABLE VENDORS Request for Information (RFI) / Source
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9d6dfffd552345d8a99ac4b58d5f44bb/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9d6dfffd552345d8a99ac4b58d5f44bb/view)

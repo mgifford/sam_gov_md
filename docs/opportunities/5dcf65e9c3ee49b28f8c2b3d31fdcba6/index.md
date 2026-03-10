@@ -25,4 +25,4 @@ Proposed procurement for NSN 4310014808596 TANK,SURGE: Line 0001 Qty 109 UI EA D
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5dcf65e9c3ee49b28f8c2b3d31fdcba6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5dcf65e9c3ee49b28f8c2b3d31fdcba6/view)

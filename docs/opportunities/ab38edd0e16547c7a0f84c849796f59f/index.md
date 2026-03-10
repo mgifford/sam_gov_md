@@ -25,4 +25,4 @@ Proposed procurement for NSN 3010013529283 ADAPTER,DRIVE UNIT,: Line 0001 Qty 31
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ab38edd0e16547c7a0f84c849796f59f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ab38edd0e16547c7a0f84c849796f59f/view)

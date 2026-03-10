@@ -25,4 +25,4 @@ NSN 4130-00-595-0135 FILTER ELEMENT, AIR The AMC/AMSC for the NSNs listed above 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/09868e2736f84c7683de97581bf3ecfa/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/09868e2736f84c7683de97581bf3ecfa/view)

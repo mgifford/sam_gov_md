@@ -26,4 +26,4 @@ THIS IS NOT A REQUEST FOR QUOTE ? THIS IS A PRESOLICITATION NOTICE /// GENERAL I
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/686592a76963433e9c0e26b47b69d6cf/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/686592a76963433e9c0e26b47b69d6cf/view)

@@ -30,4 +30,4 @@ Awarded.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d4106cedfba046b0b482093025657364/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d4106cedfba046b0b482093025657364/view)

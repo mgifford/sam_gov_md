@@ -28,4 +28,4 @@ AMENDMENT 0003 - The purpose of this amendment 0003 is to extend the due date fo
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c359bcda864c40f0983bea1f072ee6f3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c359bcda864c40f0983bea1f072ee6f3/view)

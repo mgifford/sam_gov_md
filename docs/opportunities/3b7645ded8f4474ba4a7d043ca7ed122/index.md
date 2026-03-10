@@ -28,4 +28,4 @@ Request for Information ***Amendment Two*** Staff Scheduling Software Access and
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3b7645ded8f4474ba4a7d043ca7ed122/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3b7645ded8f4474ba4a7d043ca7ed122/view)

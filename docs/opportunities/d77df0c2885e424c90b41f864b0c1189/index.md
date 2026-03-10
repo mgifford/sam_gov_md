@@ -28,4 +28,4 @@ The Department of Veterans Affairs, National CMOP Contracting Office has a(n) ST
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d77df0c2885e424c90b41f864b0c1189/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d77df0c2885e424c90b41f864b0c1189/view)

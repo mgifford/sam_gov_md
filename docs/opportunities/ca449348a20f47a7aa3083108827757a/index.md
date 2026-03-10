@@ -30,4 +30,4 @@ LLA Navigation Lock Switchgear Sources Sought Notice: W912EF26RSS12 The US Army 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ca449348a20f47a7aa3083108827757a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ca449348a20f47a7aa3083108827757a/view)

@@ -28,4 +28,4 @@ The National Cemetery Administration (NCA), Fort Mitchell National Cemetery have
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1cff0213074d48cfab572c75bfec12ce/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1cff0213074d48cfab572c75bfec12ce/view)

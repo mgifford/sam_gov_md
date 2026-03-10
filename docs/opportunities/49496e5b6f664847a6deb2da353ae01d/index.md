@@ -28,4 +28,4 @@ Automated Advanced Acquisition Program (AAAP) lease awarded pursuant to RLP 22-R
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/49496e5b6f664847a6deb2da353ae01d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/49496e5b6f664847a6deb2da353ae01d/view)

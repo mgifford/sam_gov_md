@@ -26,4 +26,4 @@ REPLACEMENT Of ROOFS FORT MASON CHAPEL & Quarters 35
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f3f7a7fad9cb44bb859d4511b43c4e32/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f3f7a7fad9cb44bb859d4511b43c4e32/view)

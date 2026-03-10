@@ -25,4 +25,4 @@ Proposed procurement for NSN 4320015400319 PUMP UNIT,ROTARY: Line 0001 Qty 6 UI 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/22a241a1e60246448679e9588ab2e9a6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/22a241a1e60246448679e9588ab2e9a6/view)

@@ -31,4 +31,4 @@ CONTACT INFORMATION|4|N741.6|GDH|N/A|TYREESE.SMITH@NAVY.MIL| ITEM UNIQUE IDENTIF
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/754ce555919b4833a9d36929f2b63e4b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/754ce555919b4833a9d36929f2b63e4b/view)

@@ -28,4 +28,4 @@ Page 3 of 3 This is a Pre-Solicitation announcement to inform potential offerors
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b9b28ba7acaf412eb0d939896d79dd27/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b9b28ba7acaf412eb0d939896d79dd27/view)

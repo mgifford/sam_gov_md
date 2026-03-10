@@ -30,4 +30,4 @@ Amended 3/6/2026; Added Q&As Request for Information - 3rd Party Airline Travel 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/996f91f49cb54a4fb1d0882830d14104/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/996f91f49cb54a4fb1d0882830d14104/view)

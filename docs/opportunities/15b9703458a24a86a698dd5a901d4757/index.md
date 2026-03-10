@@ -25,4 +25,4 @@ Proposed procurement for NSN 5360013031661 SPRING,SPIRAL,TORSI: Line 0001 Qty 10
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/15b9703458a24a86a698dd5a901d4757/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/15b9703458a24a86a698dd5a901d4757/view)

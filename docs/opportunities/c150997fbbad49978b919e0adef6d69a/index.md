@@ -25,4 +25,4 @@ Proposed procurement for NSN 5306015703850 BOLT,ASSEMBLED SLEE: Line 0001 Qty 10
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c150997fbbad49978b919e0adef6d69a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c150997fbbad49978b919e0adef6d69a/view)

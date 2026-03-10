@@ -25,4 +25,4 @@ Proposed procurement for NSN 5965016671910 HANDSET: Line 0001 Qty 218 UI EA Deli
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/cd5afdd1cb124e5b9d0018d897e8e6d1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cd5afdd1cb124e5b9d0018d897e8e6d1/view)

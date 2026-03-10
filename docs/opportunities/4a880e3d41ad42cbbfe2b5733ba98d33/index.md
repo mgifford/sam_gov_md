@@ -28,4 +28,4 @@ PRE-SOLICITATION NOTICE OF INTENT TO SOLE SOURCE Department of Veterans Affairs 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4a880e3d41ad42cbbfe2b5733ba98d33/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4a880e3d41ad42cbbfe2b5733ba98d33/view)

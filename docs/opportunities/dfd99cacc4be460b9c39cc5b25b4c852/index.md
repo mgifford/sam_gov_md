@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340011976509 SLIDE,DRAWER,EXTENS: Line 0001 Qty 8 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/dfd99cacc4be460b9c39cc5b25b4c852/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/dfd99cacc4be460b9c39cc5b25b4c852/view)

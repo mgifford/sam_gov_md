@@ -33,4 +33,4 @@ Please see attachment S02 36C24826Q0328_Final for the solicitation
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f5a0c1c2e05545da9cadb32aaf2f1ec9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f5a0c1c2e05545da9cadb32aaf2f1ec9/view)

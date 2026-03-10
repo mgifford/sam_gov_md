@@ -28,4 +28,4 @@ DISTRIBUTION STATEMENT A. Approved for public release; distribution is unlimited
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/336c9ece69af4563ae0f019cff0743ab/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/336c9ece69af4563ae0f019cff0743ab/view)

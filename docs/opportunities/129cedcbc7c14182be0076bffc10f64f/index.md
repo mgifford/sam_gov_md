@@ -26,4 +26,4 @@ U.S. GOVERNMENT General Services Administration (GSA) seeks to lease the followi
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/129cedcbc7c14182be0076bffc10f64f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/129cedcbc7c14182be0076bffc10f64f/view)

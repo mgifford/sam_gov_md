@@ -36,4 +36,4 @@ This Sources Sought Notice is for informational purposes only. A sources sought 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1af6c8a3ae1d4b58b65b26246b88d13c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1af6c8a3ae1d4b58b65b26246b88d13c/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 4130015680736 FILTER MEDIA,AIR CO: Line 0001 Qty 15
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1223a43ff0804ce4ab26121042852f91/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1223a43ff0804ce4ab26121042852f91/view)

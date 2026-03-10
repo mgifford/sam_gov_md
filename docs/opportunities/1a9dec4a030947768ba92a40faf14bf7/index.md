@@ -25,4 +25,4 @@ Proposed procurement for NSN 4240014996698 PARTS KIT,REGULATOR: Line 0001 Qty 61
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1a9dec4a030947768ba92a40faf14bf7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1a9dec4a030947768ba92a40faf14bf7/view)

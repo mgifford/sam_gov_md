@@ -25,4 +25,4 @@ NSN 0Q-5306-016933755-P8, REF NR BACB31V4-7W, QTY 1000 EA, DELIVERY FOB ORIGIN. 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3312c7241fc844f39dc5bf6777d9d69b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3312c7241fc844f39dc5bf6777d9d69b/view)

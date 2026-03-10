@@ -25,4 +25,4 @@ NSN 6X-3040-LWM050534, TDP VER 016, QTY 160 EA, DELIVER TO N68733, RECEIVING OFF
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f0fa684d304f4b6aba1bbaca872865d4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f0fa684d304f4b6aba1bbaca872865d4/view)

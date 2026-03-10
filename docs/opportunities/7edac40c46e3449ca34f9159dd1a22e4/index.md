@@ -25,4 +25,4 @@ The 366th Fighter Wing Chapel has a requirement for a service contract for a Cat
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7edac40c46e3449ca34f9159dd1a22e4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7edac40c46e3449ca34f9159dd1a22e4/view)

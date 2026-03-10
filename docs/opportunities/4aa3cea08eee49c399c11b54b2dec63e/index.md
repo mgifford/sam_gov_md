@@ -26,4 +26,4 @@ The purpose of this requirement is to acquire 4 activation boxes and 320 JSATS-c
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4aa3cea08eee49c399c11b54b2dec63e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4aa3cea08eee49c399c11b54b2dec63e/view)

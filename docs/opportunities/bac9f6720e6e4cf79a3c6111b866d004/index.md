@@ -25,4 +25,4 @@ Proposed procurement for NSN 1730012061709 PART KIT,JACK: Line 0001 Qty 12 UI KT
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bac9f6720e6e4cf79a3c6111b866d004/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bac9f6720e6e4cf79a3c6111b866d004/view)

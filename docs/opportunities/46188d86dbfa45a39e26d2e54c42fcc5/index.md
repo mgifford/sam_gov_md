@@ -26,4 +26,4 @@ Amendment 0005: The purpose of this amendment is to extend the proposal due date
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/46188d86dbfa45a39e26d2e54c42fcc5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/46188d86dbfa45a39e26d2e54c42fcc5/view)

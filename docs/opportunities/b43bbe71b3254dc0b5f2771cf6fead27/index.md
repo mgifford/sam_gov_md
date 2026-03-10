@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340012043862 STRAP,RETAINING: Line 0001 Qty 158 UI
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b43bbe71b3254dc0b5f2771cf6fead27/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b43bbe71b3254dc0b5f2771cf6fead27/view)

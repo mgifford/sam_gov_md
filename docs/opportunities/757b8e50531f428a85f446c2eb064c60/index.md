@@ -28,4 +28,4 @@ THIS POSTING IS FOR TINKER AFB - MAC BOA HOLDERS ONLY UPDATE 02 - March 04, 2026
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/757b8e50531f428a85f446c2eb064c60/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/757b8e50531f428a85f446c2eb064c60/view)

@@ -28,4 +28,4 @@ This is a Pre-Solicitation Notice regarding project: 636-26-504, Correct Grand I
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4a19829b9bb14e23a108538078af5cf4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4a19829b9bb14e23a108538078af5cf4/view)

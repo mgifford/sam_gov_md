@@ -26,4 +26,4 @@ See attached SOLICITATION NOTICE for solicitation number 75H70126Q00019 for a co
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/71742a4aba994b9cad0d92c80bcd3c4b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/71742a4aba994b9cad0d92c80bcd3c4b/view)

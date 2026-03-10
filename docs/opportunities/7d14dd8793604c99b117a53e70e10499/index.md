@@ -28,4 +28,4 @@ CA-SAN LUIS NWR CPLX-FIRE ENG STRIPING
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7d14dd8793604c99b117a53e70e10499/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7d14dd8793604c99b117a53e70e10499/view)

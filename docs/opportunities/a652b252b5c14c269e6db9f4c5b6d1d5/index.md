@@ -25,4 +25,4 @@ Proposed procurement for NSN 6680004568857 GAGE,LIQUID QUANTIT: Line 0001 Qty 60
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a652b252b5c14c269e6db9f4c5b6d1d5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a652b252b5c14c269e6db9f4c5b6d1d5/view)

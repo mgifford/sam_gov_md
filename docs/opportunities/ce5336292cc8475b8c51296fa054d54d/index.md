@@ -25,4 +25,4 @@ Proposed procurement for NSN 2990009215372 SHAFT AND CARRIER A: Line 0001 Qty 53
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ce5336292cc8475b8c51296fa054d54d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ce5336292cc8475b8c51296fa054d54d/view)

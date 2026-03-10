@@ -28,4 +28,4 @@ THIS IS A NOTICE OF INTENT TO AWARD A SOLE SOURCE CONTRACT MODIFICATION WITHOUT 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c39347ea7969408ebd4b12d4bdd9c9cc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c39347ea7969408ebd4b12d4bdd9c9cc/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 2510016079554 GRILLE,METAL: Line 0001 Qty 32 UI EA 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e529f13b598f43908e259125b9167c44/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e529f13b598f43908e259125b9167c44/view)

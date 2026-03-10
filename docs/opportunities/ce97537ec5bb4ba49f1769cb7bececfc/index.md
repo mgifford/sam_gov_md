@@ -26,4 +26,4 @@ This is a construction requirement to build a new 120ft tower at the Poinsett Ra
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ce97537ec5bb4ba49f1769cb7bececfc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ce97537ec5bb4ba49f1769cb7bececfc/view)

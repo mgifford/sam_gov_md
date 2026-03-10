@@ -28,4 +28,4 @@ The U.S. General Services Administration (GSA), Public Buildings Service, Northe
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4cbf2b8ca80f417bb86dff260c978310/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4cbf2b8ca80f417bb86dff260c978310/view)

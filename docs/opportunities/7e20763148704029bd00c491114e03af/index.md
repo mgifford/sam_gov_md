@@ -28,4 +28,4 @@ Nationwide General Architect/Engineering (A/E) Professional Services - Multiple 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7e20763148704029bd00c491114e03af/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7e20763148704029bd00c491114e03af/view)

@@ -26,4 +26,4 @@ AMENDMENT 01, TO POST ATTACHMENTS 05 - SIGN IN SHEET and 06 - QUESTIONS AND ANSW
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/43d97cd6c93c4617a2e935853501faf6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/43d97cd6c93c4617a2e935853501faf6/view)

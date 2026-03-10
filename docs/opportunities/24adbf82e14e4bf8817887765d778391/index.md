@@ -26,4 +26,4 @@ Sources Sought: Firm Fixed-Price, Non-Personal Service Type, Commercial Item Pur
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/24adbf82e14e4bf8817887765d778391/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/24adbf82e14e4bf8817887765d778391/view)

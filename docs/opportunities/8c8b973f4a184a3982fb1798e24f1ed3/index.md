@@ -25,4 +25,4 @@ A CORRECTION HAS BEEN MADE TO THE PRESOLICITATION NOTICE ID SPE7L126R0054. THE A
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8c8b973f4a184a3982fb1798e24f1ed3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8c8b973f4a184a3982fb1798e24f1ed3/view)

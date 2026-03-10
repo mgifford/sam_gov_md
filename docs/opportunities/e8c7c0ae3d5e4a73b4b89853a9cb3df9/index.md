@@ -50,4 +50,4 @@ Amendement 1 Amendment 1 is issued to provide answers to vendor questions regard
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e8c7c0ae3d5e4a73b4b89853a9cb3df9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e8c7c0ae3d5e4a73b4b89853a9cb3df9/view)

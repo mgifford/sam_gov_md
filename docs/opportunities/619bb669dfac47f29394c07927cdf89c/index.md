@@ -55,4 +55,4 @@ COMMERCIAL PRODUCT PROCUREMENT NOTICE|5|||||| ITEM UNIQUE IDENTIFICATION AND VAL
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/619bb669dfac47f29394c07927cdf89c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/619bb669dfac47f29394c07927cdf89c/view)

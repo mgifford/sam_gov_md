@@ -26,4 +26,4 @@ The Army Contracting Command ? Redstone Arsenal intends to issue solicitation nu
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/95a86838928d44089f803ccfb608798e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/95a86838928d44089f803ccfb608798e/view)

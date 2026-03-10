@@ -26,4 +26,4 @@ See attachments 1240BG26Q0011 RFQ and attachments 1-11
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/af491324f2fe4b8e98c08a7ec895cdca/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/af491324f2fe4b8e98c08a7ec895cdca/view)

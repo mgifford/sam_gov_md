@@ -32,4 +32,4 @@ Contract #70Z08026CPBPL0024 awarded to Steven's Towing Co. 06 March 2026. Period
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e78e70a1026c4cd0a3017df3d5647b3b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e78e70a1026c4cd0a3017df3d5647b3b/view)

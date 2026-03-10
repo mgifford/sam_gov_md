@@ -25,4 +25,4 @@ This is a Sources Sought Notice to conduct market research for developing a proc
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/92931248600f42a7aaafd064e207c0b3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/92931248600f42a7aaafd064e207c0b3/view)

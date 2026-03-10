@@ -30,4 +30,4 @@ SUBJECT: COMBINED SYNOPSIS /SOLICITATION: Latin America and the Caribbean: Digit
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7a1aa01e037d4d1389aea49ded700fcd/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7a1aa01e037d4d1389aea49ded700fcd/view)

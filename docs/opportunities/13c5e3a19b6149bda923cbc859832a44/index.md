@@ -30,4 +30,4 @@ Expired Hand Sanitizer (Hazardous Material) Disposal Services. This contract act
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/13c5e3a19b6149bda923cbc859832a44/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/13c5e3a19b6149bda923cbc859832a44/view)

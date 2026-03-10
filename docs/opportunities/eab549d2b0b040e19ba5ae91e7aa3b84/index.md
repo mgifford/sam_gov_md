@@ -25,4 +25,4 @@ NOTICE OF INTENT TO SOLE SOURCE Notice Number/Title: USPTO- ACQ-26-0859- Arbitra
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/eab549d2b0b040e19ba5ae91e7aa3b84/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/eab549d2b0b040e19ba5ae91e7aa3b84/view)

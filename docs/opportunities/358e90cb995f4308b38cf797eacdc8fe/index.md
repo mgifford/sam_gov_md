@@ -28,4 +28,4 @@ SUPPLY: FL ARML NWR WATER MONITORING SONDES
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/358e90cb995f4308b38cf797eacdc8fe/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/358e90cb995f4308b38cf797eacdc8fe/view)

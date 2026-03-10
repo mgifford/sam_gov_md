@@ -29,4 +29,4 @@ The U.S. Army invites proposals from qualified Service-Disabled Veteran-Owned Sm
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/332e349c2457435688c822aed3520b09/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/332e349c2457435688c822aed3520b09/view)

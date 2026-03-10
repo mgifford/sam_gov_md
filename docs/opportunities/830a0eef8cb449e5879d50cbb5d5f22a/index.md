@@ -27,4 +27,4 @@ End of amendment.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/830a0eef8cb449e5879d50cbb5d5f22a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/830a0eef8cb449e5879d50cbb5d5f22a/view)

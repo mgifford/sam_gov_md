@@ -27,4 +27,4 @@ Award notice for tree debris removal services - Augusta VAMC
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/351c10c9d3bb4ae09e18b1bcc7a346be/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/351c10c9d3bb4ae09e18b1bcc7a346be/view)

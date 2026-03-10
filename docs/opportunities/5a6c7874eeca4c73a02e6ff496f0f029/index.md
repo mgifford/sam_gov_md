@@ -27,4 +27,4 @@ RFQ 36C24626Q356 Telephone Switchboard Operator Service
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5a6c7874eeca4c73a02e6ff496f0f029/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5a6c7874eeca4c73a02e6ff496f0f029/view)

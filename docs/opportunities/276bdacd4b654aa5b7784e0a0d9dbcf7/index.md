@@ -26,4 +26,4 @@ Amendment 0001 - Extended the closing date from 2026 March 13, 3:00 PM EST to 20
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/276bdacd4b654aa5b7784e0a0d9dbcf7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/276bdacd4b654aa5b7784e0a0d9dbcf7/view)

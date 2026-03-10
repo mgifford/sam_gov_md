@@ -25,4 +25,4 @@ The subject requirement is for the acquisition of NSN 3040-01-483-9133 gear mech
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/089ae76e27cc4438825fe927ba94a8d2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/089ae76e27cc4438825fe927ba94a8d2/view)

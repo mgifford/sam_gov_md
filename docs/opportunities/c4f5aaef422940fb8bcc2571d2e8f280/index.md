@@ -30,4 +30,4 @@ THIS IS A TOTAL SMALL BUSINESS SET-ASIDE under NAICS 334511. The subject solicit
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c4f5aaef422940fb8bcc2571d2e8f280/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c4f5aaef422940fb8bcc2571d2e8f280/view)

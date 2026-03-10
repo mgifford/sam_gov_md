@@ -29,4 +29,4 @@ The Regional Maintenance Center at Puget Sound Naval Shipyard & Intermediate Mai
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a355d56eca624414b3ef0fd098f374b2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a355d56eca624414b3ef0fd098f374b2/view)

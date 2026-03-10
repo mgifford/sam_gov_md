@@ -25,4 +25,4 @@ Proposed procurement for NSN 2530014969645 LINK,TRACK SHOE,CON: Line 0001 Qty 17
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1a43e19dbb9b496cbed968a692ab374a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1a43e19dbb9b496cbed968a692ab374a/view)

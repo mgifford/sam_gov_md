@@ -25,4 +25,4 @@ Proposed procurement for NSN 4330008266115 FILTER ELEMENT,FLUI: Line 0001 Qty 77
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9520d4fd39a4442baff672a80659aae5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9520d4fd39a4442baff672a80659aae5/view)

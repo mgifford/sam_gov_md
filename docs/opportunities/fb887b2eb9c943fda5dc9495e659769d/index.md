@@ -28,4 +28,4 @@ The Air Force Test Center (AFTC) intends to award a sole source contract to Ansy
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fb887b2eb9c943fda5dc9495e659769d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fb887b2eb9c943fda5dc9495e659769d/view)

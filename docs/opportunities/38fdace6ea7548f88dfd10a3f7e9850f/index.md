@@ -25,4 +25,4 @@ Proposed procurement for NSN 2815014351384 CAMSHAFT,ENGINE: Line 0001 Qty 8 UI E
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/38fdace6ea7548f88dfd10a3f7e9850f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/38fdace6ea7548f88dfd10a3f7e9850f/view)

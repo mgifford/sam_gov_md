@@ -30,4 +30,4 @@ The purpose of this firm fixed price contract is to hire Catering + Lodging Serv
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d41c266e85ac4986a44ef7d3c57e1f73/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d41c266e85ac4986a44ef7d3c57e1f73/view)

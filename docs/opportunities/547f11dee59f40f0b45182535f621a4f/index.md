@@ -29,4 +29,4 @@ THIS IS A REQUEST FOR QUOTATION USMC has a requirement for a Wireless Receiver a
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/547f11dee59f40f0b45182535f621a4f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/547f11dee59f40f0b45182535f621a4f/view)

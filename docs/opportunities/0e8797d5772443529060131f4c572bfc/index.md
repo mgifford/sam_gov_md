@@ -31,4 +31,4 @@ This award was Firm Fixed Price and was a competitive solicitation.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0e8797d5772443529060131f4c572bfc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0e8797d5772443529060131f4c572bfc/view)

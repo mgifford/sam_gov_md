@@ -26,4 +26,4 @@ NAVSUP Fleet Logistics Center San Diego is seeking capable sources and industry 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a306bfdfffe24cf9bf317aa614072926/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a306bfdfffe24cf9bf317aa614072926/view)

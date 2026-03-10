@@ -25,4 +25,4 @@ The Alexandria LA VAMC in Pineville LA requires the replacement of two chiller c
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ffe64b0b20ec4bd9990d284d0ad59913/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ffe64b0b20ec4bd9990d284d0ad59913/view)

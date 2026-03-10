@@ -25,4 +25,4 @@ Proposed procurement for NSN 2815011653166 JET,OIL PUMP: Line 0001 Qty 3 UI EA D
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c6cf59bbaba34c6b89c95320e5b8b008/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c6cf59bbaba34c6b89c95320e5b8b008/view)

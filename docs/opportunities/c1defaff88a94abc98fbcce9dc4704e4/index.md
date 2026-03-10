@@ -25,4 +25,4 @@ Proposed procurement for NSN 5305011747044 SCREW,MACHINE: Line 0001 Qty 2995 UI 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c1defaff88a94abc98fbcce9dc4704e4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c1defaff88a94abc98fbcce9dc4704e4/view)

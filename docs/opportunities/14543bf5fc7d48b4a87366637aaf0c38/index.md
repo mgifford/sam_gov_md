@@ -28,4 +28,4 @@ PFAS sampling round 2
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/14543bf5fc7d48b4a87366637aaf0c38/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/14543bf5fc7d48b4a87366637aaf0c38/view)

@@ -30,4 +30,4 @@ This is a controlled access requirement and attachments will be made available o
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9a443a6f84c74aa1956c728d6a4702d7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9a443a6f84c74aa1956c728d6a4702d7/view)

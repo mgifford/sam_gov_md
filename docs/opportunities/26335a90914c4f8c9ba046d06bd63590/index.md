@@ -30,4 +30,4 @@ Peterson Space Force base is requesting quotes for the 21st Civil Engineering Sq
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/26335a90914c4f8c9ba046d06bd63590/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/26335a90914c4f8c9ba046d06bd63590/view)

@@ -25,4 +25,4 @@ Product Director Common Tactical Truck (PdD CTT) Cordially Invites Government an
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e1f3d48245fd480ca23d91b6165753a7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e1f3d48245fd480ca23d91b6165753a7/view)

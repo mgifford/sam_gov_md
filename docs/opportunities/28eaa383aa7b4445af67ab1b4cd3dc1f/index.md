@@ -25,4 +25,4 @@ Title: Radar Development Contract (RDC) Notice Type: Notice of Intent PSC: 5840 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/28eaa383aa7b4445af67ab1b4cd3dc1f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/28eaa383aa7b4445af67ab1b4cd3dc1f/view)

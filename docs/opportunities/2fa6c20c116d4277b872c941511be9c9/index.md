@@ -25,4 +25,4 @@ Proposed procurement for NSN 5975016845099 CHASSIS,ELECTRICAL-: Line 0001 Qty 7 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2fa6c20c116d4277b872c941511be9c9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2fa6c20c116d4277b872c941511be9c9/view)

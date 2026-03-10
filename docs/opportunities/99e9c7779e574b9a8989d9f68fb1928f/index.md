@@ -25,4 +25,4 @@ Proposed procurement for NSN 5995016743455 WIRING HARNESS,BRAN: Line 0001 Qty 9 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/99e9c7779e574b9a8989d9f68fb1928f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/99e9c7779e574b9a8989d9f68fb1928f/view)

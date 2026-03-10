@@ -26,4 +26,4 @@ Synopsis and Justification and Approval posting for other than full and open com
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/098b4fdd380d45cf8775da3383d62cb9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/098b4fdd380d45cf8775da3383d62cb9/view)

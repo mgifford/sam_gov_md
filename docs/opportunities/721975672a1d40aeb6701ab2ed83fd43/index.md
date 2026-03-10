@@ -36,4 +36,4 @@ The Indian Health Service, Yakama Service Unit, in Toppenish, Washington, intend
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/721975672a1d40aeb6701ab2ed83fd43/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/721975672a1d40aeb6701ab2ed83fd43/view)

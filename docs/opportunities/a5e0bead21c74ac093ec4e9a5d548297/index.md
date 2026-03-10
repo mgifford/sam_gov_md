@@ -28,4 +28,4 @@ This is action was for the procurement of NEW BRAND NAME Dell Laptops purchased 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a5e0bead21c74ac093ec4e9a5d548297/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a5e0bead21c74ac093ec4e9a5d548297/view)

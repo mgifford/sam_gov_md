@@ -25,4 +25,4 @@ Proposed procurement for NSN 4130015506484 COMPRESSOR UNIT,REF: Line 0001 Qty 5 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/eba0fd6fa3404d94b0ee6d4970872bcc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/eba0fd6fa3404d94b0ee6d4970872bcc/view)

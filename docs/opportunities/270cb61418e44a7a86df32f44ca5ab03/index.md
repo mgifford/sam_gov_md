@@ -25,4 +25,4 @@ Proposed procurement for NSN 5430015678835 TANK,FABRIC,COLLAPS: Line 0001 Qty 9 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/270cb61418e44a7a86df32f44ca5ab03/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/270cb61418e44a7a86df32f44ca5ab03/view)

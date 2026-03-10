@@ -25,4 +25,4 @@ Proposed procurement for NSN 4730007569499 COUPLING ASSEMBLY,Q: Line 0001 Qty 36
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/519612fed90f4f28bd0cb7a48fded48d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/519612fed90f4f28bd0cb7a48fded48d/view)

@@ -26,4 +26,4 @@ Expressions of Interest Due: 3/28/2026 Market Survey (Estimated): N/A Occupancy 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6807c692783b46d0a764c3f0ed3433b9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6807c692783b46d0a764c3f0ed3433b9/view)

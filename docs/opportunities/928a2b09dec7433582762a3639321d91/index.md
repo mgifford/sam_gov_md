@@ -29,4 +29,4 @@ This project will include removal and demo of existing pumps and pump motors, re
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/928a2b09dec7433582762a3639321d91/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/928a2b09dec7433582762a3639321d91/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340014601440 CLAMP,BLOCK: Line 0001 Qty 44 UI EA D
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/dafcfb10700d4e67b026e8bd85080e0f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/dafcfb10700d4e67b026e8bd85080e0f/view)

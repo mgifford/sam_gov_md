@@ -29,4 +29,4 @@ Solicitation Number: W9127N26Q1BBA Agency: Department of the Army Office U.S. Ar
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/dbe6179e4aaf41319d86cc05fffca916/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/dbe6179e4aaf41319d86cc05fffca916/view)

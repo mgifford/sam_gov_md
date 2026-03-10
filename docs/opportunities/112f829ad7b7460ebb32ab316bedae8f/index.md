@@ -25,4 +25,4 @@ FY26 NMFS-RACE Onlogic PC purchase for FY26 Sea Surveys. NOAA Approval #OR-26-01
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/112f829ad7b7460ebb32ab316bedae8f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/112f829ad7b7460ebb32ab316bedae8f/view)

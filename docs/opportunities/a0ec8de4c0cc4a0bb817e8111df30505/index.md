@@ -28,4 +28,4 @@ Justification to solicit and award on a sole-source basis a contract to Dhipaya 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a0ec8de4c0cc4a0bb817e8111df30505/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a0ec8de4c0cc4a0bb817e8111df30505/view)

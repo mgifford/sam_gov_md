@@ -25,4 +25,4 @@ Proposed procurement for NSN 4010015975794 WIRE ROPE ASSEMBLY,: Line 0001 Qty 39
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/89433ccf3be946f0b31552c9f3af3a09/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/89433ccf3be946f0b31552c9f3af3a09/view)

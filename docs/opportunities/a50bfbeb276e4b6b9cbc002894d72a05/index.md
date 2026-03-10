@@ -26,4 +26,4 @@ Amended to change NAICS Industrial Press Equipment. Recompete from W911S226U2637
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a50bfbeb276e4b6b9cbc002894d72a05/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a50bfbeb276e4b6b9cbc002894d72a05/view)

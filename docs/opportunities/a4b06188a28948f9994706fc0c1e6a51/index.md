@@ -30,4 +30,4 @@ Solicitation for Make-ready/Residential Renovation Services
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a4b06188a28948f9994706fc0c1e6a51/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a4b06188a28948f9994706fc0c1e6a51/view)

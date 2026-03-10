@@ -26,4 +26,4 @@ Contractor to provide full annual maintenance service for the Hexagon Global S G
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a7e3cd8cc45b4d58a1e351775c852253/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a7e3cd8cc45b4d58a1e351775c852253/view)

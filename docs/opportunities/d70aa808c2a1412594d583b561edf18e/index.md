@@ -28,4 +28,4 @@ The purpose of this amendment is to clarify/add the NTE amounts for the Cost No 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d70aa808c2a1412594d583b561edf18e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d70aa808c2a1412594d583b561edf18e/view)

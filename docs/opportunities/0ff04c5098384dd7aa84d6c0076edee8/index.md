@@ -29,4 +29,4 @@ SOURCES SOUGHT W58RGZ-26-R-0056 UH-60 SUPPORT ASSEMBLY, BELLCRANK INSPECTION AND
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0ff04c5098384dd7aa84d6c0076edee8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0ff04c5098384dd7aa84d6c0076edee8/view)

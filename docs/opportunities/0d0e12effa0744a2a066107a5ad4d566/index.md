@@ -30,4 +30,4 @@ This is for Sources Sought Only for interested Vendors regarding the removal of 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0d0e12effa0744a2a066107a5ad4d566/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0d0e12effa0744a2a066107a5ad4d566/view)

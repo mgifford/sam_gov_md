@@ -25,4 +25,4 @@ Proposed procurement for NSN 5965017225331 HEADSET-MICROPHONE: Line 0001 Qty 205
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5b6462d6522b4bb289a6d3ad5d8ed19a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5b6462d6522b4bb289a6d3ad5d8ed19a/view)

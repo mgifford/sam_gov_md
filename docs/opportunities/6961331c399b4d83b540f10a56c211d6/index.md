@@ -28,4 +28,4 @@ MN_WI_PENOKEAN_AEM_MAG_D26
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6961331c399b4d83b540f10a56c211d6/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6961331c399b4d83b540f10a56c211d6/view)

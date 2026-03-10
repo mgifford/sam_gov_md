@@ -27,4 +27,4 @@ New facility at Crooked Creek (CJX)
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/85553fc85d73480ab1fd52bf25192f99/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/85553fc85d73480ab1fd52bf25192f99/view)

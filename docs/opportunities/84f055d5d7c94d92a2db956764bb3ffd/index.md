@@ -28,4 +28,4 @@ CA_LOSANGELESDERIVATIVES_D26
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/84f055d5d7c94d92a2db956764bb3ffd/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/84f055d5d7c94d92a2db956764bb3ffd/view)

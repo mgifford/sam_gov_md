@@ -25,4 +25,4 @@ Proposed procurement for NSN 6105015022571 MOTOR,ALTERNATING C: Line 0001 Qty 6 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ba40dc13717549d8b263d1f60e8d06a3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ba40dc13717549d8b263d1f60e8d06a3/view)

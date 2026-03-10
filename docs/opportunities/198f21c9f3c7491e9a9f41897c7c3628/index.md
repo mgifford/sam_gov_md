@@ -25,4 +25,4 @@ Synthesis of Tungsten Tetraboride (WB4) by Electric Field Assisted Sintering (EF
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/198f21c9f3c7491e9a9f41897c7c3628/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/198f21c9f3c7491e9a9f41897c7c3628/view)

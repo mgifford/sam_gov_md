@@ -28,4 +28,4 @@ Please note this solicitation is not ready to be issued as of this date. The U.S
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e64341ec162a4569be9409602a7fa476/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e64341ec162a4569be9409602a7fa476/view)

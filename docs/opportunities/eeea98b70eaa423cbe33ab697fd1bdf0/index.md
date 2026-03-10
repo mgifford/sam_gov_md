@@ -26,4 +26,4 @@ Release of solicitation for up to 38 each Engine, Diesel (NSN 2815-01-517-1809) 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/eeea98b70eaa423cbe33ab697fd1bdf0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/eeea98b70eaa423cbe33ab697fd1bdf0/view)

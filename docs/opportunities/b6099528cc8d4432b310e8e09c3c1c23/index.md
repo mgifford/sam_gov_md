@@ -26,4 +26,4 @@ Naval Sea Systems Command (NAVSEA), Norfolk Naval Shipyard (NNSY) intends to awa
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b6099528cc8d4432b310e8e09c3c1c23/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b6099528cc8d4432b310e8e09c3c1c23/view)

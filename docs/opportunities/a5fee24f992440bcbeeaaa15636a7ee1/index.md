@@ -25,4 +25,4 @@ Proposed procurement for NSN 5826310187735 BEACON SET,RADIO: Line 0001 Qty 160 U
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a5fee24f992440bcbeeaaa15636a7ee1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a5fee24f992440bcbeeaaa15636a7ee1/view)

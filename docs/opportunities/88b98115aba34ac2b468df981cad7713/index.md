@@ -30,4 +30,4 @@ The contractor shall provide collection services and servicing of defaulted loan
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/88b98115aba34ac2b468df981cad7713/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/88b98115aba34ac2b468df981cad7713/view)

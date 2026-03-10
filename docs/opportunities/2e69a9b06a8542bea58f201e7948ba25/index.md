@@ -28,4 +28,4 @@ PLEASE SEE ATTACHED COMBINED SYNOPSIS SOLICITATION FOR RESPONSE INSTRUCTIONS AND
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2e69a9b06a8542bea58f201e7948ba25/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2e69a9b06a8542bea58f201e7948ba25/view)

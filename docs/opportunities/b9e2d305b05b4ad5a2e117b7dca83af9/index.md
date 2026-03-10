@@ -28,4 +28,4 @@ Enclosed is a Request for Quotations (RFQ) for one year software license subscri
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b9e2d305b05b4ad5a2e117b7dca83af9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b9e2d305b05b4ad5a2e117b7dca83af9/view)

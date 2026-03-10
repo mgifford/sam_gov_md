@@ -32,4 +32,4 @@ The Naval Air Systems Command (NAVAIR), Precision Strike Weapons Program Office 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e8652a5c241a407aa946fb0213c4d4e3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e8652a5c241a407aa946fb0213c4d4e3/view)

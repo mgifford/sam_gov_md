@@ -55,4 +55,4 @@ CONTACT INFORMATION|4|N711.15|GXA|771-229-1542|KATE.C.HEIDELBERGER.CIV@US.NAVY.M
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ffda7a7e5a084e5c9b6f406bc718f815/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ffda7a7e5a084e5c9b6f406bc718f815/view)

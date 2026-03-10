@@ -26,4 +26,4 @@ Please find the attached RFQ 75H71025Q00266 and 75H71025Q00266 Amendment One (1)
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/97847b6bac784594ad6e540f1891371b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/97847b6bac784594ad6e540f1891371b/view)

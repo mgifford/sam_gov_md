@@ -26,4 +26,4 @@ Notice of Intent to Sole Source to Werfen USA LLC for the lease of two ACL Top 7
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ef7f709c2a5b4a5ebdda8f4b0d276411/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ef7f709c2a5b4a5ebdda8f4b0d276411/view)

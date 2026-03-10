@@ -38,4 +38,4 @@ Subject: Sources Sought, Brand Name or Equal: Evoqua Water Technologies Ultra-Pu
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a0ea906749ed4da78749aa176ef0352f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a0ea906749ed4da78749aa176ef0352f/view)

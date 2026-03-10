@@ -25,4 +25,4 @@ Proposed procurement for NSN 4120015519191 ENVIRONMENTAL CONTR: Line 0001 Qty 1 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/48e60a63ace844c5a17dd1d88a612f81/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/48e60a63ace844c5a17dd1d88a612f81/view)

@@ -26,4 +26,4 @@ The Medical Readiness Contracting Office – Pacific intends to issue a within s
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/48c612968a8641d08ab66c2910a792d1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/48c612968a8641d08ab66c2910a792d1/view)

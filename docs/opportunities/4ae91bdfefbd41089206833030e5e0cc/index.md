@@ -30,4 +30,4 @@ Stringout Construction (Rehabilitation) at Ensley Engineer Yard (EEY) The work c
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4ae91bdfefbd41089206833030e5e0cc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4ae91bdfefbd41089206833030e5e0cc/view)

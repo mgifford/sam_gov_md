@@ -25,4 +25,4 @@ Proposed procurement for NSN 3110009932312 BEARING, BALL, ANNULAR: Line 0001 Qty
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f19fa3d4450b427fb6fab9b62e985842/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f19fa3d4450b427fb6fab9b62e985842/view)

@@ -30,4 +30,4 @@ The U.S. Army Contracting Command � New Jersey, on behalf of the Army Combat C
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ba6d23dcc44c49edb68d1cc34850f004/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ba6d23dcc44c49edb68d1cc34850f004/view)

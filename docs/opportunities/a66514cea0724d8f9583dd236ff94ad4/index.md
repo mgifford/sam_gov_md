@@ -26,4 +26,4 @@ THIS IS A SDVOSB SET ASIDE ONLY. THIS SOLICITATION AND ANY SUBSEQUENT AMENDMENTS
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/a66514cea0724d8f9583dd236ff94ad4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a66514cea0724d8f9583dd236ff94ad4/view)

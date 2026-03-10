@@ -30,4 +30,4 @@ Pre-Solicitation Notice: Intent to solicit a RPRSS III, and award Third Generati
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5a8b9e0527d744d78155adb4df5d9189/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5a8b9e0527d744d78155adb4df5d9189/view)

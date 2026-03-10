@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340011824043 PLATE,MOUNTING: Line 0001 Qty 94 UI E
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c79abf86b20a47fc985cca420e1fde8b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c79abf86b20a47fc985cca420e1fde8b/view)

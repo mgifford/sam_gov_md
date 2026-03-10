@@ -26,4 +26,4 @@ THIS IS A PRE-SOLICITATION NOTICE ONLY: This PRE-solicitation notice is for issu
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8987530756d14526ab6a1eb8580e40dd/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8987530756d14526ab6a1eb8580e40dd/view)

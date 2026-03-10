@@ -30,4 +30,4 @@ This is a Firm-fixed price contract for the rental of ONE 40ft X60ft (2,400sqft.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/75553a5dab444ed7ba38171591ebb62b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/75553a5dab444ed7ba38171591ebb62b/view)

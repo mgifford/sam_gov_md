@@ -31,4 +31,4 @@ Wild Rice award.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/feb4d21d088d4a41837b63751f66dd85/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/feb4d21d088d4a41837b63751f66dd85/view)

@@ -30,4 +30,4 @@ Western Oregon Roofing Replacement
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2397517472a4421db28a634c80b58fcd/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2397517472a4421db28a634c80b58fcd/view)

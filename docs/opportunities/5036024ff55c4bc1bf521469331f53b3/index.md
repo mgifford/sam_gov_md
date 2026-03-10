@@ -26,4 +26,4 @@ The purpose of this Request for Information (RFI) is to seek interested industry
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5036024ff55c4bc1bf521469331f53b3/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5036024ff55c4bc1bf521469331f53b3/view)

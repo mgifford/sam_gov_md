@@ -25,4 +25,4 @@ Proposed procurement for NSN 4320012699674 IMPELLER,PUMP,CENTR: Line 0001 Qty 2 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/605dec0245f4488cb63ce0052fff7db7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/605dec0245f4488cb63ce0052fff7db7/view)

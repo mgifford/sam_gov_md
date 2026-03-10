@@ -25,4 +25,4 @@ NSN 1R-5999-017244883-P8, REF NR 06-0302-11998, QTY 48 EA, DELIVERY FOB ORIGIN. 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c7fca48fc93c4adb8c240ab41187a4b7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c7fca48fc93c4adb8c240ab41187a4b7/view)

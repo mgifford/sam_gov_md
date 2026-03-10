@@ -25,4 +25,4 @@ This solicitation is for the procurement of 1 Lot - Maintenance to Autoclaves an
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fee508c0f2824b45aade74f9700ff67c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fee508c0f2824b45aade74f9700ff67c/view)

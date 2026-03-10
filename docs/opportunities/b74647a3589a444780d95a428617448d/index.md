@@ -26,4 +26,4 @@ N6833526Q1086- VXP Vibration Analysis System Synopsis PSC: 4920 NAICS: 334511 Th
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b74647a3589a444780d95a428617448d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b74647a3589a444780d95a428617448d/view)

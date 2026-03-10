@@ -28,4 +28,4 @@ PROJECT TITLE: Design Build (DB) Install CT Scanner (LDCT), Project No. 673-CSI-
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1311ae21fe734b1f94ce13b50587f6f8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1311ae21fe734b1f94ce13b50587f6f8/view)

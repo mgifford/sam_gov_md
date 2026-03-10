@@ -26,4 +26,4 @@ Janitorial Services Riverside National Cemetery -- S201 The contractor shall pro
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/48390c8915a8415d8fcdc29b85b1d393/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/48390c8915a8415d8fcdc29b85b1d393/view)

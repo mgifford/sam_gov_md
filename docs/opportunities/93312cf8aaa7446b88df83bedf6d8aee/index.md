@@ -28,4 +28,4 @@ SOLICITATION AMENDMENT 2 IS POSTED TO EXTEND THE CLOSING DATE TO 11 MAR 2026 AT 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/93312cf8aaa7446b88df83bedf6d8aee/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/93312cf8aaa7446b88df83bedf6d8aee/view)

@@ -29,4 +29,4 @@ The General Services Administration, Office of General Supplies and Services (GS
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/bc589b79f36942ce9ba752caa51970d4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bc589b79f36942ce9ba752caa51970d4/view)

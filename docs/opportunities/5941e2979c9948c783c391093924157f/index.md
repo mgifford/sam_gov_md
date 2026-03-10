@@ -31,4 +31,4 @@ SLAC National Accelerator Laboratory is operated by Stanford University for the 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5941e2979c9948c783c391093924157f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5941e2979c9948c783c391093924157f/view)

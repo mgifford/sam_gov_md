@@ -29,4 +29,4 @@ The subject solicitation has been CANCELED due to changes in the Government’s 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0265581e66ee47078faee2d61ced8f14/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0265581e66ee47078faee2d61ced8f14/view)

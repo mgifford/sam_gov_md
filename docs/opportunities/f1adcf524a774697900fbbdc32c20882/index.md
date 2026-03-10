@@ -28,4 +28,4 @@ CA-LODI FISH AND WIL-PICKUP AND DISPOSAL
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f1adcf524a774697900fbbdc32c20882/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f1adcf524a774697900fbbdc32c20882/view)

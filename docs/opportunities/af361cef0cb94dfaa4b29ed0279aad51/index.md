@@ -25,4 +25,4 @@ Proposed procurement for NSN 8020012497736 BRUSH,PAINT: Line 0001 Qty 39000 UI E
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/af361cef0cb94dfaa4b29ed0279aad51/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/af361cef0cb94dfaa4b29ed0279aad51/view)

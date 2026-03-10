@@ -26,4 +26,4 @@ GAOA - Nulhegan Basin Reroof Admin Building at Silvio O. Conte NFWR
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7d0df3542f0d4166bd4943f427c75a3f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7d0df3542f0d4166bd4943f427c75a3f/view)

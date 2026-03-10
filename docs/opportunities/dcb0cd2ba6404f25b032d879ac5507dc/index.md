@@ -25,4 +25,4 @@ Proposed procurement for NSN 4140014477282 FAN,TUBEAXIAL: Line 0001 Qty 24 UI EA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/dcb0cd2ba6404f25b032d879ac5507dc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/dcb0cd2ba6404f25b032d879ac5507dc/view)

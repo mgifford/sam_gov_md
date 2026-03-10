@@ -30,4 +30,4 @@ Amendment #1 Extend Solicitation to closing at 1600 on Tuesday 17 March 2026. MN
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/246b17756dab4621b4f981752c09d4b4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/246b17756dab4621b4f981752c09d4b4/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 2530015990031 HUB,WHEEL,VEHICULAR: Line 0001 Qty 5 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1c5724c73d5b40ed986c62e2a80a3f62/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1c5724c73d5b40ed986c62e2a80a3f62/view)

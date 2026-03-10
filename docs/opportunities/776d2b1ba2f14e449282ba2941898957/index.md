@@ -28,4 +28,4 @@ SUBJECT: FY26 Quarter 3 Solicitation 15B40826Q00000007 Subsistence Award The fol
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/776d2b1ba2f14e449282ba2941898957/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/776d2b1ba2f14e449282ba2941898957/view)

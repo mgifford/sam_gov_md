@@ -25,4 +25,4 @@ Proposed procurement for NSN 5340011169263 INSERT,SELF-LOCKING: Line 0001 Qty 10
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fcfe0d4704284b85874d3d668dd4386b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fcfe0d4704284b85874d3d668dd4386b/view)

@@ -29,4 +29,4 @@ Heavy Equipment Short-term Lease - AGS Taxiway Project - Quarry Dump Truck (X2)
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9474832428354c26a8647bb3f6a2079d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9474832428354c26a8647bb3f6a2079d/view)

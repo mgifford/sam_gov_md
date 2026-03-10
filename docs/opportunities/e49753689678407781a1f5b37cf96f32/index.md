@@ -25,4 +25,4 @@ Proposed procurement for NSN 2510016501222 PANEL,DOOR,ROLLER C: Line 0001 Qty 3 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e49753689678407781a1f5b37cf96f32/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e49753689678407781a1f5b37cf96f32/view)

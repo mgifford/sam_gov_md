@@ -28,4 +28,4 @@ The Broad Agency Announcement (BAA) associated with this BAA Call, 693JJ3-24-BAA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/67a91e636e034c10bdadd1982b8d2fd8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/67a91e636e034c10bdadd1982b8d2fd8/view)

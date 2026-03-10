@@ -27,4 +27,4 @@ Attachment: Solicitation 36C26026R0022 Refurbish Elevators Bldg 61 Cars 1-3
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f3c896fed16549899560e98d76954051/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f3c896fed16549899560e98d76954051/view)

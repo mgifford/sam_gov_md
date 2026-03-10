@@ -27,4 +27,4 @@ AMENDMENT TWO IS IN RESPONDS TO ADDITIONAL QUESTIONS
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7646524eb877491dab7ba5ccc367263c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7646524eb877491dab7ba5ccc367263c/view)

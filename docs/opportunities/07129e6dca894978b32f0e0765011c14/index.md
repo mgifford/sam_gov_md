@@ -25,4 +25,4 @@ NASA/NSSC has a requirement for Physics-Informed Particle Impact Ignition Model.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/07129e6dca894978b32f0e0765011c14/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/07129e6dca894978b32f0e0765011c14/view)

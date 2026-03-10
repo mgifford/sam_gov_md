@@ -34,4 +34,4 @@ PRESOLICITATION NOTICE Request for Architectural and Engineer (A/E) 330 submissi
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d68d61b4221244b69566af5b739d3124/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d68d61b4221244b69566af5b739d3124/view)

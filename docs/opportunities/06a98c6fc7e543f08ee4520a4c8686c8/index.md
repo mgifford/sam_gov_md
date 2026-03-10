@@ -25,4 +25,4 @@ PROJECT TITLE: CONSTRUCT GROUND BASED STRATEGIC DETERRENT (GBSD) CONSOLIDATED MA
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/06a98c6fc7e543f08ee4520a4c8686c8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/06a98c6fc7e543f08ee4520a4c8686c8/view)

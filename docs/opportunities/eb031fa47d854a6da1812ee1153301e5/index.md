@@ -36,4 +36,4 @@ RELOCATABLE OVER-THE-HORIZON RADAR SERVICE CONTINUATION IN KINGSVILLE TEXAS SEE 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/eb031fa47d854a6da1812ee1153301e5/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/eb031fa47d854a6da1812ee1153301e5/view)

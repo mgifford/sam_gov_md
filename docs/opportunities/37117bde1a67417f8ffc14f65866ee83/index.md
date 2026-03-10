@@ -28,4 +28,4 @@ DESCRIPTION This pre-solicitation notice is to inform that the VA Medical Center
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/37117bde1a67417f8ffc14f65866ee83/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/37117bde1a67417f8ffc14f65866ee83/view)

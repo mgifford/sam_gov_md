@@ -26,4 +26,4 @@ LAUNDRY SERVICE
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/cc92e98eacdc4ee2939c4ec74e1e291c/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cc92e98eacdc4ee2939c4ec74e1e291c/view)

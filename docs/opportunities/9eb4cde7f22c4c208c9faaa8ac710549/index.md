@@ -25,4 +25,4 @@ Proposed procurement for NSN 2530012896363 HOUSING,HUB CAP: Line 0001 Qty 87 UI 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9eb4cde7f22c4c208c9faaa8ac710549/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9eb4cde7f22c4c208c9faaa8ac710549/view)

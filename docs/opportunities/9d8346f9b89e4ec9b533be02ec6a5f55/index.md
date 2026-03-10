@@ -28,4 +28,4 @@ THIS IS A PROJECT LABOR AGREEMENT (PLA) SURVEY ONLY. THIS IS NOT A REQUEST FOR P
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/9d8346f9b89e4ec9b533be02ec6a5f55/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9d8346f9b89e4ec9b533be02ec6a5f55/view)

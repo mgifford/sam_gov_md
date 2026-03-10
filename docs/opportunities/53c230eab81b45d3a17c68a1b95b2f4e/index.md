@@ -27,4 +27,4 @@ Update as of March 4, 2026: The TMEP2 Industry Forum slides presented on January
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/53c230eab81b45d3a17c68a1b95b2f4e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/53c230eab81b45d3a17c68a1b95b2f4e/view)

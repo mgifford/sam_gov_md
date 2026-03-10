@@ -32,4 +32,4 @@ Combined Synopsis/Solicitation RFQ-OALM-26-003783 This is a combined synopsis/so
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6fb4e9f724014250b5c3d16766155c8b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6fb4e9f724014250b5c3d16766155c8b/view)

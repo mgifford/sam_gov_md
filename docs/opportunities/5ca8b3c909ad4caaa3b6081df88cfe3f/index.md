@@ -25,4 +25,4 @@ Proposed procurement for NSN 2510013374125 PANEL,BODY,VEHICULA: Line 0001 Qty 15
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5ca8b3c909ad4caaa3b6081df88cfe3f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5ca8b3c909ad4caaa3b6081df88cfe3f/view)

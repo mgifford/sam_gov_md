@@ -36,4 +36,4 @@ Amendment 02 - (03/06/2026) - The purpose of this Amendment is to address the fo
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f891ada39cfc448c876504dba56c24c7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f891ada39cfc448c876504dba56c24c7/view)

@@ -25,4 +25,4 @@ Proposed procurement for NSN 4820014889746 VALVE,RELIEF,PRESSU: Line 0001 Qty 1 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/6f006fd461ad4f00ae9a404241e0c1e8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6f006fd461ad4f00ae9a404241e0c1e8/view)

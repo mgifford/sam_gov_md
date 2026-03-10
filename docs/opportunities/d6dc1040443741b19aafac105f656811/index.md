@@ -25,4 +25,4 @@ NSN 1H-5342-017079096, TDP VER 002, REF NR 8725062, QTY 7 EA, DELIVER TO SW3117,
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d6dc1040443741b19aafac105f656811/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d6dc1040443741b19aafac105f656811/view)

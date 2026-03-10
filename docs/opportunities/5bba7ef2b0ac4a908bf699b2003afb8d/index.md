@@ -25,4 +25,4 @@ The Defense Advanced Research Projects Agency (DARPA) is soliciting innovative p
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5bba7ef2b0ac4a908bf699b2003afb8d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5bba7ef2b0ac4a908bf699b2003afb8d/view)

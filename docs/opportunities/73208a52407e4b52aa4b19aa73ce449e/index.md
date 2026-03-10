@@ -30,4 +30,4 @@ The Contractor must provide all plant, labor, equipment, transportation, and too
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/73208a52407e4b52aa4b19aa73ce449e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/73208a52407e4b52aa4b19aa73ce449e/view)

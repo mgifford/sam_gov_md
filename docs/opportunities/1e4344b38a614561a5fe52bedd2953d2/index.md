@@ -25,4 +25,4 @@ Interface Rack Assembly Kit and ESB Adapter Plate Solicitation N0042126Q1089 is 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1e4344b38a614561a5fe52bedd2953d2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1e4344b38a614561a5fe52bedd2953d2/view)

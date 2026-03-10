@@ -27,4 +27,4 @@ See attached site visit sign in
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/71242b22238e4e1b814fa1327e1d5799/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/71242b22238e4e1b814fa1327e1d5799/view)

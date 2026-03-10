@@ -28,4 +28,4 @@ Army Contracting Command - Detroit Arsenal (ACC-DTA) is conducting a Market Surv
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b1ffbc0bd3a34319841ed0d5c179b4e0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b1ffbc0bd3a34319841ed0d5c179b4e0/view)

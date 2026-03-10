@@ -26,4 +26,4 @@ The RFQ number for this announcement is N0018926QD032 The solicitation documents
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ca46b90c47994b3c8111f8675b526f9b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ca46b90c47994b3c8111f8675b526f9b/view)

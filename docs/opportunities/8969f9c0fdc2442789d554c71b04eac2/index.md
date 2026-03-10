@@ -18,4 +18,4 @@ The Commander Fleet Readiness Centers (COMFRC) Procurement Group, Patuxent River
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8969f9c0fdc2442789d554c71b04eac2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8969f9c0fdc2442789d554c71b04eac2/view)

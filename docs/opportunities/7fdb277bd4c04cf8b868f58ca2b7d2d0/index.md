@@ -26,4 +26,4 @@ The objective of this effort is to purchase two mini-split style ductless air co
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7fdb277bd4c04cf8b868f58ca2b7d2d0/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7fdb277bd4c04cf8b868f58ca2b7d2d0/view)

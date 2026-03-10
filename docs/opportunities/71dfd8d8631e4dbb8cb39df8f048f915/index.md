@@ -26,4 +26,4 @@ Non-Personal Intrusion Detection System Maintenance Services at various location
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/71dfd8d8631e4dbb8cb39df8f048f915/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/71dfd8d8631e4dbb8cb39df8f048f915/view)

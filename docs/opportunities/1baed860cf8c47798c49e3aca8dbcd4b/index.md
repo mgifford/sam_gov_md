@@ -26,4 +26,4 @@ G3 NATIVE FISH DATABASE SERVICES *** Please see attached Combined Synopsis/Solic
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/1baed860cf8c47798c49e3aca8dbcd4b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1baed860cf8c47798c49e3aca8dbcd4b/view)

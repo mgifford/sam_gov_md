@@ -27,4 +27,4 @@ The contract was awarded to JA MOODY LLC based on a Brand Name requirement in ac
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4248615845794198a2163dc2f8a589f1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4248615845794198a2163dc2f8a589f1/view)

@@ -28,4 +28,4 @@ Sources Sought Notice Page 7 of 10 The U.S. Department of Veterans Affairs (VA) 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0ac8f05826d54ad1ac016d8fa49c815f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0ac8f05826d54ad1ac016d8fa49c815f/view)

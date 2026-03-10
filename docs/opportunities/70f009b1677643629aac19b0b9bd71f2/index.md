@@ -25,4 +25,4 @@ Proposed procurement for NSN 4440014348057 DEHYDRATOR UNIT,NON: Line 0001 Qty 4 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/70f009b1677643629aac19b0b9bd71f2/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/70f009b1677643629aac19b0b9bd71f2/view)

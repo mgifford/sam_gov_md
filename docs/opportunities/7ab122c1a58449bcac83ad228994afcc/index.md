@@ -32,4 +32,4 @@ The Subcontractor shall perform Natural Gas Valve Bi-Annual Grease and Exercisin
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/7ab122c1a58449bcac83ad228994afcc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7ab122c1a58449bcac83ad228994afcc/view)

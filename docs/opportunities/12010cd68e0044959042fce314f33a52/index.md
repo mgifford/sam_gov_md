@@ -30,4 +30,4 @@ This pre-solicitation is to provide notice of a upcoming requirement to renovate
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/12010cd68e0044959042fce314f33a52/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/12010cd68e0044959042fce314f33a52/view)

@@ -32,4 +32,4 @@ Modification SPE2D224D0005 P00003 to exercise Option Year 2 effective April 4, 2
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/f1abaa8c7320409b8fe6460265139052/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f1abaa8c7320409b8fe6460265139052/view)

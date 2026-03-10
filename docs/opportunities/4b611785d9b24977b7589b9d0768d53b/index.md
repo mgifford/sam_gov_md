@@ -25,4 +25,4 @@ Proposed procurement for NSN 3010012419142 COUPLING,SHAFT,RIGI: Line 0001 Qty 20
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/4b611785d9b24977b7589b9d0768d53b/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4b611785d9b24977b7589b9d0768d53b/view)

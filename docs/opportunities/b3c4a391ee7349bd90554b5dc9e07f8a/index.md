@@ -30,4 +30,4 @@ This is a SOURCES SOUGHT NOTICE for a Market Research ONLY to determine the avai
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b3c4a391ee7349bd90554b5dc9e07f8a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b3c4a391ee7349bd90554b5dc9e07f8a/view)

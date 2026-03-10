@@ -35,4 +35,4 @@ This is a combined synopsis/solicitation for the installation of temporary fenci
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/352a54ba779f42d7b1066d0a6c6a33d1/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/352a54ba779f42d7b1066d0a6c6a33d1/view)

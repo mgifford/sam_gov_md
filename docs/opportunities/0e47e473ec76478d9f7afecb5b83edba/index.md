@@ -27,4 +27,4 @@ Sources Sought Notice Sources Sought Notice Page 7 of 7 Sources Sought Notice *=
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0e47e473ec76478d9f7afecb5b83edba/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0e47e473ec76478d9f7afecb5b83edba/view)

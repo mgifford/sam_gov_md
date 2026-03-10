@@ -25,4 +25,4 @@ Proposed procurement for NSN 1055010931235 LOCKING CLAMP ASSEM: Line 0001 Qty 35
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/633ed48e08034799a6b12d3b35b8a27f/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/633ed48e08034799a6b12d3b35b8a27f/view)

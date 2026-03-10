@@ -25,4 +25,4 @@ Proposed procurement for NSN 1005123768679 BREECHBLOCK: Line 0001 Qty 137 UI EA 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/017f9e341813470ba2cae010ecf8d518/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/017f9e341813470ba2cae010ecf8d518/view)

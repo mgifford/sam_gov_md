@@ -25,4 +25,4 @@ Proposed procurement for NSN 2540123593455 BOX,ACCESSORIES STO: Line 0001 Qty 5 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/00a2408f1d1c4607966fa4759609b8da/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/00a2408f1d1c4607966fa4759609b8da/view)

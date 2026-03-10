@@ -26,4 +26,4 @@ PROJECT DESCRIPTION: The U.S. Army Corps of Engineer (USACE), Philadelphia Distr
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/69a246c2817449c6bf500303b6df9ff9/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/69a246c2817449c6bf500303b6df9ff9/view)

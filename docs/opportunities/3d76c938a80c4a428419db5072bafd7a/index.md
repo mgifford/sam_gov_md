@@ -29,4 +29,4 @@ This is a Combined Synopsis/Solicitation issued under FAR Part 12 (SAP) for comm
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3d76c938a80c4a428419db5072bafd7a/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3d76c938a80c4a428419db5072bafd7a/view)

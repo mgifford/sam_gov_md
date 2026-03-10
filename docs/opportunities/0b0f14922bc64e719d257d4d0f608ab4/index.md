@@ -26,4 +26,4 @@ NDM (LINE HARDWARE FOR STK REPL)
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/0b0f14922bc64e719d257d4d0f608ab4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0b0f14922bc64e719d257d4d0f608ab4/view)

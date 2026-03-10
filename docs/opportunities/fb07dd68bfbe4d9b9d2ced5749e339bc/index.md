@@ -26,4 +26,4 @@ Renovate Sijan Hall - Phase One at US Air Force Academy, Colorado - Am-0001: The
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fb07dd68bfbe4d9b9d2ced5749e339bc/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fb07dd68bfbe4d9b9d2ced5749e339bc/view)

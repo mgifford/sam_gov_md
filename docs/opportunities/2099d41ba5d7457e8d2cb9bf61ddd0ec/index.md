@@ -25,4 +25,4 @@ The National Institute of Standards and Technology (NIST), Office of Acquisition
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/2099d41ba5d7457e8d2cb9bf61ddd0ec/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2099d41ba5d7457e8d2cb9bf61ddd0ec/view)

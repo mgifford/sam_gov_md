@@ -28,4 +28,4 @@ Advertising and Website development for Gunfighter Skies 2026 Airshow.
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/8fccb252e870498786003ef84e11fbc4/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8fccb252e870498786003ef84e11fbc4/view)

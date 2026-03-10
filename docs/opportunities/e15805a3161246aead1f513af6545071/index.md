@@ -34,4 +34,4 @@ This acquisition will provide Architectural and Engineering (A&E) services in su
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/e15805a3161246aead1f513af6545071/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e15805a3161246aead1f513af6545071/view)

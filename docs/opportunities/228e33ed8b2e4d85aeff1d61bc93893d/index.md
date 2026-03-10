@@ -25,4 +25,4 @@ NSN 1H-5985-001273306, TDP VER 018, REF NR AS-1735SRC, QTY 180 EA, DELIVERY FOB 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/228e33ed8b2e4d85aeff1d61bc93893d/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/228e33ed8b2e4d85aeff1d61bc93893d/view)

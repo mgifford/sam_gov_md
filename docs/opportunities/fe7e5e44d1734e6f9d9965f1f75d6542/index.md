@@ -25,4 +25,4 @@ Proposed procurement for NSN 5950014636788 TRANSFORMER,POWER: Line 0001 Qty 7 UI
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fe7e5e44d1734e6f9d9965f1f75d6542/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fe7e5e44d1734e6f9d9965f1f75d6542/view)

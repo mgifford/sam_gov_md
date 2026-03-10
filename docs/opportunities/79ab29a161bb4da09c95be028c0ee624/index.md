@@ -34,4 +34,4 @@ DISCLAIMER: THIS SOURCES SOUGHT IS FOR INFORMATIONAL PURPOSES ONLY. THIS IS NOT 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/79ab29a161bb4da09c95be028c0ee624/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/79ab29a161bb4da09c95be028c0ee624/view)

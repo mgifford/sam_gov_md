@@ -27,4 +27,4 @@ Solicitation 36C26026R0011 - 668-22-104 Replace Windows Building 1
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/fa46cd69e8804b7aa73bd0dcb297feac/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fa46cd69e8804b7aa73bd0dcb297feac/view)

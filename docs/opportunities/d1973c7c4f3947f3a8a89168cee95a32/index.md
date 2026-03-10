@@ -26,4 +26,4 @@ Employee Assistance Program Services
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/d1973c7c4f3947f3a8a89168cee95a32/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d1973c7c4f3947f3a8a89168cee95a32/view)

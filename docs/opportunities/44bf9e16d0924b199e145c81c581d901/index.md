@@ -30,4 +30,4 @@ March 6, 2026 — Solicitation amended, please see attached. The contractor shal
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/44bf9e16d0924b199e145c81c581d901/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/44bf9e16d0924b199e145c81c581d901/view)

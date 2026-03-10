@@ -24,4 +24,4 @@ Notice of Intent to Award Sole Source Cut Suit and Supplies
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/b90f467d0ace4cc48d33026c837484f8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b90f467d0ace4cc48d33026c837484f8/view)

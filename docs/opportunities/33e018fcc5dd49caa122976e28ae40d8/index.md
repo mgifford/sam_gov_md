@@ -34,4 +34,4 @@ F-15 FMS Repair and Return Support Services RSAF (Follow-On) MARCH 4, 2026 RFP A
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/33e018fcc5dd49caa122976e28ae40d8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/33e018fcc5dd49caa122976e28ae40d8/view)

@@ -31,4 +31,4 @@ CONTACT INFORMATION|4|N7M3.11|HFB|771-229-0419|nicole.diehl@navy.mil| COMMERCIAL
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/ef34fb1f439643bb82e0618cb6ed551e/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ef34fb1f439643bb82e0618cb6ed551e/view)

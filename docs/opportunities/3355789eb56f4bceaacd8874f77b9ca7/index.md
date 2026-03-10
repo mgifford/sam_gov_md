@@ -25,4 +25,4 @@ Three (3) each of NSN 2835-01-456-6510. This acquisition is restricted to approv
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/3355789eb56f4bceaacd8874f77b9ca7/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3355789eb56f4bceaacd8874f77b9ca7/view)

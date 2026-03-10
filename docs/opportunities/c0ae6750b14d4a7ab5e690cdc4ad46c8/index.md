@@ -35,4 +35,4 @@ The USDA Farm Service Agency and Natural Resources Conservation Service located 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/c0ae6750b14d4a7ab5e690cdc4ad46c8/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c0ae6750b14d4a7ab5e690cdc4ad46c8/view)

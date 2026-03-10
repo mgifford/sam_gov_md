@@ -27,4 +27,4 @@ Improve Roads, Olin E. Teague Veterans Medical Center at 1901 Veterans Memorial 
 
 ## Links
 
-- SAM.gov: https://sam.gov/workspace/contract/opp/5e1116266fc24db18016d19a4f3e2596/view
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5e1116266fc24db18016d19a4f3e2596/view)
