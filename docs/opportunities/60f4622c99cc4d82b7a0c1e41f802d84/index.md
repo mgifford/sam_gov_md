@@ -1,0 +1,28 @@
+---
+layout: default
+title: HEAT EXCHANGER,AIR,HEAT EXCHANGER,AIR
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 60f4622c99cc4d82b7a0c1e41f802d84
+---
+
+# HEAT EXCHANGER,AIR,HEAT EXCHANGER,AIR
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-03-10 12:55:51.485-04
+- Solicitation Number: N00383-26-Q-B053
+
+## Summary
+
+This RFQ is for an FMS repair for the country of Kuwait and will be using limited source procedures. NIIN: 013501156 P/N: 2340472-3-1 NOMENCLATURE: HEAT EXCHANGER,AIR QTY: 11 This requirement will be awarded to the offeror with the lowest price technically acceptable (LPTA) quote. The Small Business Administration representative at NAVSUP WSS has reviewed this requirement and determined that a set-aside recommendation was not applicable for this procurement. Quotes may be emailed to the address below and must be received on or before on the closing date listed on page 1 of the solicitation. devon.m.mcnamee.civ@us.navy.mil This solicitation is for the repair of 1 unit of National Stock Number (NSN) 1660 013501156 • Induction Period The induction period for the initial units in this order is 365 calendar days from the date of contract award. The Government reserves the right to extend this period by an additional 365 days, for a total of two years. Any unused induction slots from the initial year may be carried over into the second year. • Pricing and Options The contractor shall propose option pricing for a maximum of 227 units over the entire contract period, inclusive of the initial quantity. If pricing will change after the first 365 days, please provide separate pricing for the second year. • Contract Award The Government reserves the right to place the initial order for any number of units up to the specified maximum. For threshold purposes, the total contract value will be calculated by multiplying the highest proposed unit price by the maximum number of units. NOTE: NO FAST PAY. DO NOT INDUCT TO CAV. THE CONTRACTOR IS REQUIRED TO SHIP BY TRACEABLE MEANS. PLEASE SEND A COMPLETED COPY OF THE DD250 TO NAVSUP WSS CODES M0213 AND M85242. GOVERNMENT SOURCE INSPECTION IS REQUIRED. CONTACT DCMC TRANSPORTATION OFFICER FOR SHIPPING INSTRUCTIONS. PACKAGING AND MARKING SHALL BE IN ACCORDANCE WITH BEST STANDARD COMMERCIAL PACKAGING FOR OVERSEAS SHIPMENT. IF AN ITEM IS FOUND TO BE EITHER BEYOND ECONOMICAL REPAIR (BER) OR BEYOND REPAIR (BR), THE CONTRACTOR SHALL NOTIFY THE DEFENSE CONTRACT MANAGEMENT AGENCY (DCMA) QUALITY ASSURANCE REPRESENTATIVE (QAR) FOR VERIFICATION OF THE ITEM'S CONDITION. THE QAR WILL PROVIDE THEIR ASSESSMENT OF THE ITEM'S CONDITION ALONG WITH ANY OTHER PERTINENT INFORMATION TO THE DCMA ADMINISTRATIVE CONTRACTING OFFICER (ACO). THE ACO WILL ROUTE THE INFORMATION TO THE NAVSUP WSS PROCUREMENT CONTRACTING OFFICER (PCO). THE CONTRACTOR SHALL NOT SCRAP OR CANNIBALIZE THE ITEM UNTIL WRITTEN AUTHORIZATION IS PROVIDED BY THE NAVSUP WSS PCO. Repair Turnaround Time (RTAT) definition: The contractual delivery requirement is measured from asset.Return to the date of asset acceptance under the terms of the contract. For purposes of this section, Return isdefined as physical receipt of the F-condition asset at the contractor’s facility as reflected in the Action Dateentry in the Commercial Asset Visibility (CAV) system. In accordance with the CAV Statement of Work, the contractor is required to accurately report all transactions by the end of the fifth regular business day after receipt and the Action Date entered in CAV must be dated to reflect the actual date of physical receipt. The Contractor must obtain final inspection and acceptance by the Government for all assets within the RTATs established in the subsequent contract. Required RTAT: X days after receipt of asset Throughput Constraint: Contractor must provide a throughput Constraint for each NSN(s). Total assets to be repaired monthly after initial delivery commences X/month (contractor fill in #). A throughput of 000 per month reflects no throughput constraint. Induction Expiration Date: 365 days after contract award date. Any asset received after this date in days is not authorized for repair without bi-lateral agreement between the Contractor and NAVSUP WSS Contracting Officer. Reconciliation: A reconciliation modification will be issued after final Inspection and acceptance of all assets inducted under the subsequent contract. The parties have agreed to a price (shown on the schedule page) for each unit at the negotiated RTAT. Such prices are based on the Contractor meeting the RTAT requirements described within the schedule page. If the Contractor does not meet the applicable RTAT requirement, consideration will be assessed and subject to negotiation. All contractual documents (i.e. contracts, purchase orders, task orders, delivery orders, and modifications) related to the instant procurement are considered to be "issued" by the Government when copies are either deposited in the mail, transmitted by facsimile, or sent by other electronic commerce methods, such as email. The Government's acceptance of the contractor's proposal constitutes bilateral agreement to "issue" contractual documents as detailed herein. Early and incremental deliveries accepted and preferred.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Devon McNamee
+  - Email: DEVON.M.MCNAMEE.CIV@US.NAVY.MIL
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/60f4622c99cc4d82b7a0c1e41f802d84/view)

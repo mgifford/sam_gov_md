@@ -1,0 +1,29 @@
+---
+layout: default
+title: WIRING HARNESS
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: 9994e64c7ff34ffbad8e571a44fec2bc
+---
+
+# WIRING HARNESS
+
+- Agency: DEPT OF DEFENSE
+- Type: Presolicitation
+- Posted: 2026-03-10 07:40:59.687-04
+- Solicitation Number: SPRDL1-26-R-0066
+
+## Summary
+
+THIS REQUIREMENT IS A TOTAL SMALL BUSINESS SET-ASIDE. ITEM: WIRING HARNESS NSN: 6150-01-465-3771 Quantity/Option %: 70/100% FOB: Destination. THE DUE DATE IS ON OR ABOUT 23 April 2026 (SEE SOLICITATION FOR ACTUAL DUE DATE). SEE WEBPAGE AT WWW.SAM.GOV FOR A COPY OF THE SOLICITATION. THE SOLICITATION WILL INSTRUCT HOW TO OBTAIN DRAWINGS. SMALL BUSINESS SET-ASIDE. ONLY OFFERS FROM SMALL BUSINESS CONCERNS WILL BE CONSIDERED.
+
+## Contacts
+
+- Primary Contact:
+  - Name: JANECA DENT
+  - Email: JANECA.DENT@DLA.MIL
+  - Phone: 3855910897
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9994e64c7ff34ffbad8e571a44fec2bc/view)

@@ -1,0 +1,33 @@
+---
+layout: default
+title: DAFB Integrated Solid Waste Management
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 1702f35dc6e3420494100cccc6e431ab
+---
+
+# DAFB Integrated Solid Waste Management
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-03-10 10:45:42.715-04
+- Solicitation Number: DAFB_Integrated_Solid_Waste_Management
+
+## Summary
+
+THIS IS A SOURCES SOUGHT REQUEST FOR INFORMATION ONLY. 1. This Sources Sought (SS)/Request for Information (RFI) is issued solely for market research purposes to determine potential sources. This notice does not constitute a Request for Proposal (RFP), Request for Quotation (RFQ), or an Invitation for Bid (IFB) and is not to be construed as a commitment by the Government to issue an order or otherwise pay for the information solicited, nor is it a guarantee of a forthcoming solicitation or contract. Respondents will not be notified of the results since this is an RFI announcement. No reimbursement will be made for any costs associated with providing information in response to this announcement. The Government is not at this time seeking proposals and will not accept unsolicited proposals. Not responding to this RFI does not preclude participation in any potential future RFQ. It is the responsibility of potential offerors to monitor SAM.gov for additional information pertaining to this requirement. The purpose of this notice is to conduct market research, a continuous process for collecting and analyzing information about capabilities within the market to satisfy agency needs. The acquisition strategy has not yet been determined and market research results will assist in determining the direction this acquisition may take. No telephone calls will be accepted requesting a bid package or solicitation. A solicitation does not presently exist. All responses shall comply with the criteria established in this RFI to be considered for review. 2. Purpose: The Government is performing market research to support acquisition strategy decisions as they relate to determining if a small business set aside is appropriate as well as the best execution method. Therefore, we further invite offerors to provide a capability statement in response to this requirement as well as the information below. Prospective contractors shall be registered in the System for Award Management (SAM) prior to award of any Federal Government contract. Contractors are encouraged to obtain further information on SAM registration at the following website: https://sam.gov/. 3. Description of Requirement: The contractor shall provide all personnel, equipment, tools, materials, vehicles, supervisions, and other items and services necessary to perform integrated solid waste management (Municipal Solid Waste (MSW) and select Recycling Services) at the base. The Contractor shall perform to the standards in the contract as well as all local, state, and federal regulations. 4. Current Contract and Incumbent: N/A 5. Responses must address the following: a. Name, address, CAGE Code, SAM UEI, and main point of contact of your company. b. Provide a capability statement to show the ability to meet requirement. c. Specify your business type (large business, small business, Small Disadvantaged Business, Section 8(a), Historically Underutilized Business Zones (HUBZone), Woman-Owned Small Business (WOSB), Economically Disadvantage Woman-Owned Small Business (EDWOSB), Service-Disabled Veteran-Owned Small Business (SDVOSB) based upon NAICS 562111, Solid Waste Collection. d. The anticipated NAICS 562111 Solid Waste Collection. The anticipated Product Service Code (PSC) is S205, Housekeeping—Trash/Garbage Collection. Please provide information if the NAICS/PSC is correct or if a different NAICS/PSC is a better fit. Please specify the different NAICS/PSC, if applicable, and explain why. e. Does your company currently provide these services under an existing contract such as an Indefinite Delivery Indefinite Quantity (IDIQ) or Government-Wide Acquisition Contract? If so, please provide the contract number, point of contact name/number, and managing agency (e.g., Air Force, DoD, GSA). f. Identify any projects completed in the past five years for the same or similar scope to help determine capability and capacity in meeting the requirement for the services listed in the DRAFT PWS. Include any Government contracts (Federal, State, or local) awarded for this type of requirement. Include the contract number and a government point of contact. Identify if the work was as the prime contractor or a subcontractor for these projects and their dollar values. g. For the PWS, interested offerors are encouraged to submit questions/feedback for Government review. The intent of obtaining questions/feedback on the PWS is to further assist industry when proposing on the PWS and to streamline the solicitation process. The Government will not post official responses to the questions/feedback, but they will be reviewed by the Government. h. Is it clear what is outlined in 2. Service Summary? If no, please provide specifics to include paragraph number and an explanation of what is unclear. i Are there any other aspects of the PWS that are unclear? Please provide specifics to include paragraph number and an explanation of what is unclear. j. Is a Phase-In needed for this requirement? If yes, how long should it be? What activities are expected during the Phase-In? 6. Industry Response: All responses shall be received by 24 March 3:00 PM EDT. No extension to the response date will be considered. Send responses via e-mail to Daniel Kim daniel.kim.55@us.af.mil, Jordon Bongcayao jordon.bongcayao.1@us.af.mil, or 436CONS.PKB.ORG@us.af.mil by the response date. Responses shall be no more than TWO pages (single spaced, front and back, no smaller than Times New Roman, font size 12 or equivalent). If submissions exceed the page count noted, the Government reserves the right to only review the first five pages and may disregard the remainder of the submission. Extraneous materials (brochures, manuals, etc.) will not be considered. 7. Any questions regarding this Sources Sought can be directed to both the CO and CS listed above. LIST OF ATTACHMENTS: Draft PWS
+
+## Contacts
+
+- Primary Contact:
+  - Name: Daniel Kim
+  - Email: daniel.kim.55@us.af.mil
+  - Phone: 3026775218
+- Secondary Contact:
+  - Name: Jordon Bongcayao
+  - Email: jordon.bongcayao.1@us.af.mil
+  - Phone: 3026775211
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1702f35dc6e3420494100cccc6e431ab/view)

@@ -1,0 +1,31 @@
+---
+layout: default
+title: Fort Benning Job Order Contract (JOC)
+agency: DEPT OF DEFENSE
+notice_type: Special Notice
+notice_id: 19bf6006db664cf68e021030f2ddc75a
+---
+
+# Fort Benning Job Order Contract (JOC)
+
+- Agency: DEPT OF DEFENSE
+- Type: Special Notice
+- Posted: 2026-03-10 09:55:37.892-04
+- Solicitation Number: W5168W25RA013
+
+## Summary
+
+Update as of 10 MAR 2026 - NOTICE: THERE IS NO REQUIREMENT OF NEED TO RESPOND TO THIS ANNOUNCEMENT, THIS IS NOT A SOURCES SOUGHT ANNOUNCEMENT. The solicitation release is anticipated to be posted in March 2026. The solicitation number is W5168W26RA006. Update as of 9 Feb 2026- NOTICE: THERE IS NO REQUIREMENT OR NEED TO RESPOND TO THIS ANNOUNCEMENT, THIS IS NOT A SOURCES SOUGHT ANNOUNCEMENT. The solicitation release is anticipated to be posted in March 2026. The solicitation number is W5168W26RA006. ____________________________________________ NOTICE: THERE IS NO REQUIREMENT OR NEED TO RESPOND TO THIS ANNOUNCEMENT, THIS IS NOT a Solicitation nor a SOURCES SOUGHT ANNOUNCEMENT. Today’s Date: 24 NOV 2025 RE: Strategic Communication Plan with Industry Fort Benning JOC Update: The anticipated date for the issuance of a potential draft solicitation is: 16 JAN 2026 NOTICE: THERE IS NO REQUIREMENT OR NEED TO RESPOND TO THIS ANNOUNCEMENT, THIS IS NOT A Solicitation nor a SOURCES SOUGHT ANNOUNCEMENT. ________________________________________________ NOTICE: THERE IS NO REQUIREMENT OR NEED TO RESPOND TO THIS ANNOUNCEMENT, THIS IS NOT A Solicitation nor a SOURCES SOUGHT ANNOUNCEMENT. Special Notice of a change in the Solicitation number. Today’s Date: 18 NOV 2025 RE: Strategic Communication Plan with Industry Fort Benning JOC Update: Former/Previous solicitation number: W5168W25RA013 New solicitation number for Fiscal Year 2026: W5168W26RA006 – use the new solicitation number when making inquiries, all updates will be posted using the new solicitation number. The anticipated date for the issuance of a potential draft solicitation is: To be Determined, the government will update SAM.GOV when appropriate. NOTICE: THERE IS NO REQUIREMENT OR NEED TO RESPOND TO THIS ANNOUNCEMENT, THIS IS NOT A Solicitation nor a SOURCES SOUGHT ANNOUNCEMENT. ________________________________________________ NOTICE: THERE IS NO REQUIREMENT OR NEED TO RESPOND TO THIS ANNOUNCEMENT, THIS IS NOT A SOURCES SOUGHT ANNOUNCEMENT. 3 SEP 2025 Strategic Communication Plan with Industry W5168W25RA013, Fort Benning JOC Update: No Change from previous: The anticipated date for the issuance of a potential solicitation is: 9 OCT 2025 End……………………………………………………………………………………. NOTICE: THERE IS NO REQUIREMENT OR NEED TO RESPOND TO THIS ANNOUNCEMENT, THIS IS NOT A SOURCES SOUGHT ANNOUNCEMENT. ……………………………………………………………………………………………….. NOTICE: THERE IS NO REQUIREMENT OR NEED TO RESPOND TO THIS ANNOUNCEMENT, THIS IS NOT A SOURCES SOUGHT ANNOUNCEMENT. 3 AUG 2025 Strategic Communication Plan with Industry W5168W25RA013, Fort Benning JOC Update: The anticipated date for the issuance of a potential solicitation is: 9 OCT 2025 End……………………………………………………………………………………. NOTICE: THERE IS NO REQUIREMENT OR NEED TO RESPOND TO THIS ANNOUNCEMENT, THIS IS NOT A SOURCES SOUGHT ANNOUNCEMENT. ……………………………………………………………………………………………….. NOTICE: THERE IS NO REQUIREMENT OR NEED TO RESPOND TO THIS ANNOUNCEMENT, THIS IS NOT A SOURCES SOUGHT ANNOUNCEMENT. 3 JUL 2025 Strategic Communication Plan with Industry W5168W25RA013, Fort Benning JOC Update: The anticipated date for the issuance of a potential solicitation is: 1 AUG 2025 End……………………………………………………………………………………. NOTICE: THERE IS NO REQUIREMENT OR NEED TO RESPOND TO THIS ANNOUNCEMENT, THIS IS NOT A SOURCES SOUGHT ANNOUNCEMENT. ……………………………………………………………………………………………….. 2 JUN 2025 Strategic Communication Plan with Industry W5168W25RA013, Fort Benning JOC Update: No updates available at this time. End…………………………………………………………………………………………. NOTICE: THERE IS NO REQUIREMENT OR NEED TO RESPOND TO THIS ANNOUNCEMENT, THIS IS NOT A SOURCES SOUGHT ANNOUNCEMENT. …………………………………………………………………………………………………... May 1, 2025 NOTICE: THERE IS NO REQUIREMENT OR NEED TO RESPOND TO THIS ANNOUNCEMENT, THIS IS NOT A SOURCES SOUGHT ANNOUNCEMENT. Strategic Communication Plan with Industry Fort Benning, Job Order Contract, W5168W25RA013 Notice: The anticipated date of the potential solicitation is 30 JUN 2025. End…………………………………………………………………….. NOTICE: THERE IS NO REQUIREMENT OR NEED TO RESPOND TO THIS ANNOUNCEMENT, THIS IS NOT A SOURCES SOUGHT ANNOUNCEMENT. April 3, 2025 Strategic Communication Plan with Industry Special Notice This special notice is referencing New and Updated information regarding a former sources sought synopsis announcement: Announcements Formerly identified as W5168W25BA001 Fort Moore Is now identified by W5168W25RA013, Fort Benning Job Order Contract (JOC) ………………………………………………………………………………………………….. NOTICE: THERE IS NO REQUIREMENT OR NEED TO RESPOND TO THIS ANNOUNCEMENT, THIS IS NOT A SOURCES SOUGHT ANNOUNCEMENT. …………………………………………………………………………………………………... New updates: New Identification Number: W5168W25RA013 New Name: Fort Benning Job Order Contract (JOC) Locations: The U.S. ARMY GARRISON FORT BENNING, ALABAMA/GEORGIA, CAMP MERRILL NEAR DAHLONEGA, GEORGIA, AND OTHER SATELLITE LOCATIONS. The anticipated date for the potential issuance of a solicitation is: 28 MAY 2025 Please note: Camp Merrill is located approximately 192 miles from Fort Benning, taking the fastest route between Camp Merrill and Fort Benning could take over 4 hours by automobile. End……………………………………………………………………………………………... NOTICE: THERE IS NO REQUIREMENT OR NEED TO RESPOND TO THIS ANNOUNCEMENT, THIS IS NOT A SOURCES SOUGHT ANNOUNCEMENT. End…………………………………………………………………………………………………
+
+## Contacts
+
+- Primary Contact:
+  - Name: Deidra Hicks
+  - Email: deidra.l.hicks.civ@army.mil
+- Secondary Contact:
+  - Name: Christopher Weber
+  - Email: christopher.weber11.civ@army.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/19bf6006db664cf68e021030f2ddc75a/view)

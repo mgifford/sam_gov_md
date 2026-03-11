@@ -1,0 +1,28 @@
+---
+layout: default
+title: HOUSING,LIGHT
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 3e6b3207db4a4980be772cb4b9aa5082
+---
+
+# HOUSING,LIGHT
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-03-10 07:55:07.987-04
+- Solicitation Number: SPRPA126QYB62
+
+## Summary
+
+ITEM UNIQUE IDENTIFICATION AND VALUATION (JAN 2023)|19|||||||||||||||||||| HIGHER-LEVEL CONTRACT QUALITY REQUIREMENT|8|||X|ISO 9001 OR HIGHER||||| WIDE AREA WORKFLOW PAYMENT INSTRUCTIONS (JAN 2023)|16|TBD||TBD|TBD|TBD|TBD|TBD|TBD||||||||| EQUAL OPPORTUITY FOR WORKERS WITH DISABILITIES (DEV 2026-O0040)(FEB 2026)|4||||| BUY AMERICAN-FREE TRADE AGREEMENTS-BALANCE OF PAYMENTS PROGRAM-BASIC (FEB 2024)|11|||||||||||| SECURITY PROHIBITIONS AND EXCLUSIONS (CLASS DEVIATION 2026-O0025)(FEB 2026)|7|||||||| BUY AMERICAN-FREE TRADE AGREEMENTS-BALANCE OF PAYMENTS PROGRAM CERTIFICATE-BASIC (FEB 2024))|5|||||| BUY AMERICAN--BALANCE OF PAYMENTS PROGRAM CERTIFICATE-BASIC (FEB 2024)|1|| ALTERNATE A, ANNUAL REPRESENTATIONS AND CERTIFICATIONS (DEVIATION 2026-O0043)(FEB 2026))|13|||||||||||||| ROYALTY INFORMATION (APR 1984)|1|| FACSIMILE PROPOSALS (OCT 1997)|1|| NOTICE OF PRIORITY RATING FOR NATIONAL DEFENSE, EMERGENCY PREPAREDNESS, ANDENERGY PROGRAM USE (APR 2008))|2||X| Please submit all Post Award Requests (PARs) to dlawsphlpostawd@dla.mil . Include the Contract, Solicitation, and PR number, the Contracting Officer?s Name, and the purpose of the request. Please be as specific as possible. Whole order or specific CLIN/CLINs? Include all relevant information and supporting documentation, if necessary. This solicitation is being issued under Emergency Acquisition Flexibilities (EAF) Authority formally known as Special Emergency Procurement Authority (SEPA). 100 Percent Small Business Set Aside applies to this procurement. For Critical Safety Items (CSI), DFARS clause 252.209-7010, Identification of Critical Safety Items, is incorporated by reference. This solicitation includes procurement note L09 Reverse Auction (Oct 2016) from DLAD 15.407-90. The Government may conduct a reverse auction. The following is included in section M of this solicitation: The Government will consider all responsible offerors/quoters for the award. The Government will evaluate offerors/quoters based on price, delivery timeframe, and past performance. All evaluation factors other than cost or price, when combined, are approximately equal to cost or price. Please email copy of proposal to kenneth.lauber@dla.mil \ 1. SCOPE NO TDP REQUIRED. 2. APPLICABLE DOCUMENTS - NOT APPLICABLE 3. REQUIREMENTS - NOT APPLICABLE 4. QUALITY ASSURANCE NO TDP REQUIRED. 5. PACKAGING- MIL-STD 2073 PACKAGING APPLIES AS FOUND ELSEWHERE IN THE SCHEDULE 6. NOTES THIS ALRE ITEM HAS BEEN DEEM NON-CRITICAL BY LKE ENGINEER BRANDON CAPONE 2/28/20024. SCOTT A. JENSEN N98225.19. THIS ALRE ITEM HAS BEEN DEEM NON-CRITICAL BY LKE ENGINEER BRANDON CAPONE2/28/20024. SCOTT A. JENSEN N98225.19. \
+
+## Contacts
+
+- Primary Contact:
+  - Name: Telephone: 2137373962
+  - Email: KENNETH.LAUBER@DLA.MIL
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3e6b3207db4a4980be772cb4b9aa5082/view)

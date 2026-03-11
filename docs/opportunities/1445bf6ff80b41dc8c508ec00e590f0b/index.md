@@ -1,0 +1,31 @@
+---
+layout: default
+title: DD01--Marquis Project Parking System SLA [VA-26-00041479]
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: 1445bf6ff80b41dc8c508ec00e590f0b
+---
+
+# DD01--Marquis Project Parking System SLA [VA-26-00041479]
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-03-10 16:29:03.697-04
+- Solicitation Number: 36C77626Q0130
+- Awardee: null
+
+## Summary
+
+Department of Veterans Affairs Program Contracting Activity Central ** IMPORTANT: Please read this email notice in full BEFORE responding! ** The Veterans Health Administration (VHA), Program Contracting Activity Central (PCAC) is in the process of planning a requirement in which a contractor will be required to provide the Marquis Project Parking System, for the Institute for Learning, Education and Development [ILEAD], Production and Delivery [PD] Service Line in Saint Louis, MO and Salt Lake City, UT. See the attached DRAFT Product Description regarding the Marquis Project Parking System Support Agreement for full details. The VA is conducting market research and is seeking written responses with information to assist with identifying potential sources that are interested in, and capable of, providing the products described (in whole or in part). Please review the information contained herein and identify whether your company has the capability and interest to provide the Marquis Project Parking as described. Below is the information included in that form for your company s response. Any response to this notice shall submit clear and convincing documentation demonstrating their capability to satisfy the requirement. The capability documentation should include, at a minimum, the following information with their response: Company Name and Address: Point of Contact (POC) Name: Email Address: Phone Number: DUNS Number: UEI Number: Mark if your firm is eligible for participation in one of the following small business programs. If so, please indicate the program: [ ] yes [ ] no - Small Business (SB) [ ] yes [ ] no - HUBZone [ ] yes [ ] no - Small Business 8(a) [ ] yes [ ] no - Small Disadvantaged Business (SDB) [ ] yes [ ] no - Women-Owned (WO) Small Business [ ] yes [ ] no - Service Disabled Veteran Owned Small Business (SDVOSB) [ ] yes [ ] no - Veteran Owned Small Business (VOSB) [ ] yes [ ] no - Large Business [ ] yes [ ] no - Other (please specify) The VA is requesting vendors answer the following questions in response to this notice. Are you an authorized dealer of Marquis Software? Please provide an authorized dealer/distributor letter as part of your response to this notice. Can you meet the Limitations on Subcontracting? Please provide a complete Limitations on Subcontracting (attached) as part of your response to this notice. Do you have any questions or comments that may otherwise assist us? In addition to providing the information requested above, responding companies are encouraged to include any relevant information to confirm the company s ability to meet the requirements outlined in this request. SET-ASIDE Complete responses to this notice will assist the VA in determining any potential set-aside for the requirement. Not providing all information requested in response to this notice may result in the VA being unable to determine a vendor potentially capable of satisfying the requirement and, subsequently, if the rule of two criteria is not met, a specific set-aside category may not be decided by the Contracting Officer. SUBMITTAL OF RFI RESPONSE If you believe you are capable of meeting this requirement please provide a complete response no later than Wednesday March 18, 2026 at 1:00 pm (Eastern) to Contract Specialist Rachael Avery at rachael.avery@va.gov and Contracting Officer Kymberly Morgan at kymberly.morgan@va.gov. Further, if you believe a different NAICS code or Product Service Code (PSC) is a better fit for the subject requirement, please provide that information to us as well. NAICS: 541519 Other Computer Related Services PSC: DD01 IT and Telecom Service Delivery Support Services: ITSM, Operations Center, IT Programs/Project Management (Labor) NOTE: This email is being sent solely for information and planning purposes and does not constitute a solicitation or obligation on the part of the Government. Per FAR 15.201(e), responses to this notice are not considered offers, shall not be used as a proposal, and cannot be accepted by the Government to form a binding contract. Neither unsolicited proposals nor any other kinds of offer will be considered in response to this notice. No evaluation letters and/or results will be issued to the respondents; however, the Government does reserve the right to contact any respondent and/or respondent reference to obtain additional information. At this time, no solicitation exists; therefore, please do not request a copy of the solicitation. Any resulting procurement action will be the subject of a separate, future announcement. The information is provided for discussion purposes and any potential strategy for this acquisition may change prior to any solicitation release. The acquisition strategy, evaluation methodology, contract type, and any other acquisition decisions are to be determined.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Rachael Avery
+  - Title: Contract Specialist
+  - Email: rachael.avery@va.gov
+  - Phone: 216-447-8300
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1445bf6ff80b41dc8c508ec00e590f0b/view)

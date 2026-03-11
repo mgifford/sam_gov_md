@@ -1,0 +1,29 @@
+---
+layout: default
+title: Repair Waterfront – Phase 2 at USCG Station Portsmouth Harbor (New Castle, New Hampshire)
+agency: HOMELAND SECURITY, DEPARTMENT OF
+notice_type: Presolicitation
+notice_id: c1e077b293f940c6a4dff38a7d7f2bb2
+---
+
+# Repair Waterfront – Phase 2 at USCG Station Portsmouth Harbor (New Castle, New Hampshire)
+
+- Agency: HOMELAND SECURITY, DEPARTMENT OF
+- Type: Presolicitation
+- Posted: 2026-03-10 13:28:04.312-04
+- Solicitation Number: 70Z0G126BSNNE8241
+
+## Summary
+
+Repair Waterfront – Phase 2 at USCG Station Portsmouth Harbor (New Castle, New Hampshire) THIS IS A PRESOLICITATION NOTICE ONLY. THIS IS NOT A REQUEST FOR PROPOSAL. NO SPECIFICATIONS OR DRAWINGS ARE AVAILABLE AT THIS TIME. United States Coast Guard Civil Engineering Unit (CEU) Providence announces a requirement for a Firm Fixed Price (FFP) contract for Repair Waterfront – Phase 2 at USCG Station Portsmouth Harbor This solicitation will be advertised as a 100% Total Small Business Set Aside. The Northern American Industry Classification System (NAICS) code for this project is 237990. The Invitation for Bid (IFB) will be issued on or about 26 March 2026. The procurement method is Sealed Bidding, FAR Part 14. The offeror is responsible to monitor and download any amendments for the solicitation from the Contract Opportunities (https://sam.gov) website. Project Description: The project consists of (1) base bid and (2) options. Base Bid Item: RPUID 816511, Bulkheads – North Quay Wall: Work includes chinking and repointing the quay wall. RPUID 816511, Bulkheads – North Quay Wall/RPUID 9383, Paving: Work includes repairing sinkholes/voids in the dumpster pad area at the east of the quay wall, including partial demolition and removal of the concrete slab and debris, excavation and installation of a concrete closure wall, backfill, and placement of base course and bituminous pavement. RPUID 816511, Bulkheads – North Quay Wall/RPUID 810801 Fence/RPUID 858649 Waterfront Fence: Work includes removing and replacing the existing fence on the north quay wall, along the limits of repairs. RPUID 816511, Bulkheads - South Quay Wall: Work includes repairing the east wall with interim stone berm, repairing voids in the face of the quay wall, and repairing a sinkhole behind the quay wall. RPUID 857029, Rip-rap: Work includes restoring the north rip-rap revetment. RPUID 857029, Rip-rap/RPUID 9383, Paving: Work includes repairing sinkhole/voids in the west parking area just behind the north revetment, including partial demolition and removal of the existing pavement, backfill, and placement of base course and bituminous pavement. RPUID 857029, Rip-rap/RPUID 810801 Fence/RPUID 858649 Waterfront Fence: Work includes removing and replacing the existing fence at the top of the north revetment, along the limits of repairs. RPUID 50109, Wave Screen: Work includes recoating guide piles from mean-low water to the top of the piles, replacing a broken cleat, and installing sacrificial anodes. RPUID 848538, Floating Dock - Boathouse: Work includes installing a new timber floating dock to replace the previous concrete floating dock that was damaged during a storm and has been removed from the site. Option Bid Item 1: RPUID 816511, Bulkheads - South Quay Wall: Option item includes providing a riprap revetment as an extension to the west end of the existing south quay wall, to fill in lower-elevation areas of the adjacent ledge outcropping. Option Bid Item #2: RPUID 50109, Wave screen/Float dock: Option item includes installing high density polyethylene (HDPE) pile sleeves on the existing steel pile piles. All work shall be accomplished in accordance with the project specifications (PSN 16654142), project drawings, all local, State, and Federal Codes. and all required permitting Period of Performance: The period of performance for the project is 189 calendar days from issuance of Notice to Proceed. *If options 1 & 2 are exercised the Contract Completion Date will be extended as such: - Option Bid Item 1 – 7 Additional Calendar Days ; - Option Bid Item 2 – 14 Additional Calendar Days Contract Magnitude: The magnitude of this construction project is between $1,000,000 and $5,000,000 IAW FAR 36.204. General Information: Please be advised of on-line registration requirements in the System for Awards Management (SAM) database www.sam.gov; Representation and Certifications are required to be updated annually as a minimum to keep information current, accurate and complete. The electronic annual representations and certifications are effective until one year from date of submission. Contractors will be searched against SAM to ensure they are eligible for federal contract awards. The information being requested does not constitute a commitment on the part of the Government to award a contract nor to pay for any costs incurred as a result of replying to this notice. QUESTIONS REGARDING THE PROCUREMENT WILL NOT BE ANSWERED DURING THE PRESOLICITATION PHASE. SUBMIT QUESTIONS TO THE CONTRACT SPECIALIST AFTER THE SOLICITATION AND ASSOCIATED DOCUMENTS HAVE BEEN POSTED. NOTE: Funds are not presently available for this effort. No award will be made under this solicitation until funds are available. The Government reserves the right to cancel this solicitation, either before or after the closing date. In the event the Government cancels this solicitation, the Government has no obligation to reimburse an offeror for any costs. (End of Pre-Solicitation Notice)
+
+## Contacts
+
+- Primary Contact:
+  - Name: Cam Ormiston
+  - Email: cameron.h.ormiston@uscg.mil
+  - Phone: 4017361731
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c1e077b293f940c6a4dff38a7d7f2bb2/view)

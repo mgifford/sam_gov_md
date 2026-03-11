@@ -1,0 +1,30 @@
+---
+layout: default
+title: Y1PZ--663A4-24-201 - Refurbish Elevators BLDG 61 Cars 1-3
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Solicitation
+notice_id: c5ffcabd38d446dea29afa351ec1d325
+---
+
+# Y1PZ--663A4-24-201 - Refurbish Elevators BLDG 61 Cars 1-3
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Solicitation
+- Posted: 2026-03-10 14:01:15.803-04
+- Solicitation Number: 36C26026R0022
+- Awardee: null
+
+## Summary
+
+Attachment: Solicitation 36C26026R0022 Refurbish Elevators Bldg 61 Cars 1-3
+
+## Contacts
+
+- Primary Contact:
+  - Name: Kaycee D Benson, Contractor
+  - Title: Contract Specialist
+  - Email: kaycee.benson@va.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c5ffcabd38d446dea29afa351ec1d325/view)

@@ -1,0 +1,34 @@
+---
+layout: default
+title: Weed Control Services ORD MDW DPA
+agency: TRANSPORTATION, DEPARTMENT OF
+notice_type: Solicitation
+notice_id: 094c8151225c4615816276146372568d
+---
+
+# Weed Control Services ORD MDW DPA
+
+- Agency: TRANSPORTATION, DEPARTMENT OF
+- Type: Solicitation
+- Posted: 2026-03-10 17:47:03.203-04
+- Solicitation Number: 697DCK-26-R-00130
+
+## Summary
+
+Amendment 0001 Posted 3/10/26 to: Provide copy of 697DCK-26-R-00130 SIR Amendment 0001- Weed Control Svcs ORD MDW DPA with answers to submitted questions Provide Maps (Attachments J-6, a-f) Provide updated square footage data for Midway SSC. Attachment J-2 v2 attached Hereby extend the offer due date for this solicitation to March 16, 2026 at 5:00 PM CT *Submission of signed copy of this amendment is required for acknowledgement (Per SIR Amendment Block # 11). Request for Offer/Solicitation # 697DCK-26-R-00130 for Weed Control Services for the FAA, Illinois O'Hare, Midway and DuPage Area Facilities. To view the solicitation and applicable attachments for this procurement, please visit: https://sam.gov/. Select “Contract Opportunities" and then select "Search Contract Opportunities." You can input the solicitation number in the search field. This is a firm, fixed price (FFP) procurement set as full and open competition and a Total Small Business Set-Aside. The Principal North American Industry Classification System (NAICS) size standard code for this requirement is 561210, Facility Support Services. QUESTIONS All Questions/Requests for Information (RFI) must be emailed to alicia.prince@faa.gov (Contracting Officer) no later than February 25, 2026 at 5:00 PM CT to allow sufficient time to respond. Please include Solicitation/SIR # 697DCK-26-R-00130 in subject line of email correspondence. NO PHONE CALLS, PLEASE. Potential offerors should note that the FAA reserves the right to communicate with one or more offerors at any time during the RFO process Proposals must be received by email no later than the specified date and time listed in Section 8 of the SIR/Solicitation document, to the Contracting Officer at alicia.m.grant@faa.gov. Any responses received after the closing date and time, may not be considered in accordance with AMS provision 3.2.2.3-14, Late Submissions, Modifications, and Withdrawals of Submittals. This RFO is not to be construed as a contract or a commitment of any kind. The Government shall not be liable for payment of any costs attributed to the preparation and submission of requested proposal documentation. LIST OF ATTACHMENTS 697DCK-26-R-00130 SIR- Weed Control Svcs ORD MDW DPA Attachment J-1- Statement of Work Weed Control ORD MDW DPA Attachment J-2- Square Footage for ORD MDW DPA Weed Control Attachment J-3- Wage Determination Attachment J-4- Customer Satisfaction Survey Attachment J-5- Contractor Staffing Questionnaire NOTICE for informational purposes for Minority, Women-owned and Disadvantaged Business Enterprises: The Department of Transportation (DOT), Office of Small and Disadvantaged Business Utilization (OSDBU), has a program to assist small businesses, small businesses owned and controlled by socially and economically disadvantaged individuals, and women-owned concerns to acquire short-term working capital assistance for transportation-related contracts. Loans are available under the DOT Short Term Lending Program (STLP) at prime interest rates to provide accounts receivable financing. The maximum line of credit is $750,000. For further information and applicable forms concerning STLP, call the OSDBU at (800) 532-1169.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Alicia Grant
+  - Email: alicia.m.grant@faa.gov
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: -2 v2 attached Hereby extend the offer due date for this solicitation to March 16, 2026 at 5:00 PM CT *Submission of signed copy of this amendment is required for acknowledgement (Per SIR Amendment Block # 11). Request for Offer/Solicitation # 697DCK-26-R-00130 for Weed Control Services for the FAA, Illinois O"Hare, Midway and DuPage Area Facilities. To view the solicitation and applicable attachments for this procurement, please visit: https://sam.gov/. Select “Contract Opportunities" and then select "Search Contract Opportunities." You can input the solicitation number in the search field. This is a firm, fixed price (FFP) procurement set as full and open competition and a Total Small Business Set-Aside. The Principal North American Industry Classification System (NAICS) size standard code for this requirement is 561210, Facility Support Services. QUESTIONS All Questions/Requests for Information (RFI) must be emailed to alicia.prince@faa.gov (Contracting Officer) no later than February 25, 2026 at 5:00 PM CT to allow sufficient time to respond. Please include Solicitation/SIR # 697DCK-26-R-00130 in subject line of email correspondence. NO PHONE CALLS, PLEASE. Potential offerors should note that the FAA reserves the right to communicate with one or more offerors at any time during the RFO process Proposals must be received by email no later than the specified date and time listed in Section 8 of the SIR/Solicitation document, to the Contracting Officer at alicia.m.grant@faa.gov. Any responses received after the closing date and time, may not be considered in accordance with AMS provision 3.2.2.3-14, Late Submissions, Modifications, and Withdrawals of Submittals. This RFO is not to be construed as a contract or a commitment of any kind. The Government shall not be liable for payment of any costs attributed to the preparation and submission of requested proposal documentation. LIST OF ATTACHMENTS 697DCK-26-R-00130 SIR- Weed Control Svcs ORD MDW DPA Attachment J-1- Statement of Work Weed Control ORD MDW DPA Attachment J-2- Square Footage for ORD MDW DPA Weed Control Attachment J-3- Wage Determination Attachment J-4- Customer Satisfaction Survey Attachment J-5- Contractor Staffing Questionnaire NOTICE for informational purposes for Minority, Women-owned and Disadvantaged Business Enterprises: The Department of Transportation (DOT), Office of Small and Disadvantaged Business Utilization (OSDBU), has a program to assist small businesses, small businesses owned and controlled by socially and economically disadvantaged individuals, and women-owned concerns to acquire short-term working capital assistance for transportation-related contracts. Loans are available under the DOT Short Term Lending Program (STLP) at prime interest rates to provide accounts receivable financing. The maximum line of credit is $750,000. For further information and applicable forms concerning STLP, call the OSDBU at (800) 532-1169
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/094c8151225c4615816276146372568d/view)

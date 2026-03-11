@@ -1,0 +1,37 @@
+---
+layout: default
+title: Cranes and Hoists Maintenance and Repair - Wright Patterson AFB
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 0fb04fa08c53437c9ea081786d3264b2
+---
+
+# Cranes and Hoists Maintenance and Repair - Wright Patterson AFB
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-03-10 09:45:11.43-04
+- Solicitation Number: FA860126R0002
+
+## Summary
+
+This is a combined synopsis/solicitation (“synopsitation” hereafter), which is expected to result in award of a Firm Fixed Price contract for commercial items, Cranes and Hoists Maintenance and Repair, as described in the Performance Work Statement (attachment 3). The synopsitation is prepared in accordance with the format in the Federal Acquisition Regulation (FAR) Subpart 12.2, as supplemented with additional information included in this notice. This announcement constitutes the only solicitation; proposals are being requested and a written solicitation will not be issued. An award, if any, will be made to the responsible offeror who submits a proposal that (1) conforms to the requirements of the synopsitation; (2) that receives a rating of “Acceptable” on the Technical Capability evaluation factor (attachment 2); and (3) that submits the proposal with the lowest total evaluated price (TEP), provided that the TEP is not unbalanced and is fair and reasonable. The Government reserves the right to award without discussions or make no award at all depending upon (1) the quality of proposals received and (2) the price fair and reasonableness of proposals received. Synopsitation Number: FA860126R0002 NAICS Code: 811310 Small Business Size Standard: $12,500,000.00 Set-Aside: 100% Small Business Set Aside Synopsitation Closing Date: 1:00pm EDT, 2 April 2026 Submit electronic proposals via e-mail to: matthew.bigelow.1@us.af.mil Any correspondence sent via e-mail must contain the subject line “Synopsitation FA860126R0002.” The entire proposal must be contained in a single e-mail that does not exceed 15 megabytes including attachments, if any. E-mails with compressed files are not permitted. Note that e-mail filters at Wright-Patterson Air Force Base are designed to filter e-mails without subject lines or with suspicious subject lines or contents (i.e., .exe or .zip files). Therefore, if the specified subject line is not included, the e-mail may not get through the e-mail filters. Also be advised that .zip or .exe files are not allowable attachments and may be deleted by the email filters at Wright-Patterson. If sending attachments with email, ensure only .pdf, .doc, .docx, .xls or .xlsx documents are sent. The email filter may delete any other form of attachments. Amendment FA860126R00020001: Revises the solicitation to include updated attachments as follows: 1. Attachment 3 - PWS Cranes and Hoists 4 March 2026 2. Attachment 6 - General Environmental Protection Requirements (Dec 2020) Address questions regarding this synopsitation to Matthew Bigelow via e-mail at matthew.bigelow.1@us.af.mil A detailed description of the requirement including a draft contract with line items, delivery schedule, period of performance, inspection and acceptance information, other terms and conditions, provisions and clauses, representations and certifications, specific instructions for submission of proposals,an explanation of how proposals will be evaluated, performance work statement, and wage determinations, are pvovided in the attached documents. Upon award, any provisions that were in the draft contract (including representations and certifications) will be removed from the award document. The solicitation document and incorporated provisions and clauses are those in effect through Federal Acquisition Circular 2025-06.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Matthew Bigelow
+  - Email: matthew.bigelow.1@us.af.mil
+- Secondary Contact:
+  - Name: Edward A. Huchison
+  - Email: edward.huchison@us.af.mil
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: . The synopsitation is prepared in accordance with the format in the Federal Acquisition Regulation (FAR) Subpart 12.2, as supplemented with additional information included in this notice. This announcement constitutes the only solicitation; proposals are being requested and a written solicitation will not be issued. An award, if any, will be made to the responsible offeror who submits a proposal that (1) conforms to the requirements of the synopsitation; (2) that receives a rating of “Acceptable” on the Technical Capability evaluation factor (attachment 2); and (3) that submits the proposal with the lowest total evaluated price (TEP), provided that the TEP is not unbalanced and is fair and reasonable. The Government reserves the right to award without discussions or make no award at all depending upon (1) the quality of proposals received and (2) the price fair and reasonableness of proposals received. Synopsitation Number: FA860126R0002 NAICS Code: 811310 Small Business Size Standard: $12,500,000.00 Set-Aside: 100% Small Business Set Aside Synopsitation Closing Date: 1:00pm EDT, 2 April 2026 Submit electronic proposals via e-mail to: matthew.bigelow.1@us.af.mil Any correspondence sent via e-mail must contain the subject line “Synopsitation FA860126R0002.” The entire proposal must be contained in a single e-mail that does not exceed 15 megabytes including attachments, if any. E-mails with compressed files are not permitted. Note that e-mail filters at Wright-Patterson Air Force Base are designed to filter e-mails without subject lines or with suspicious subject lines or contents (i.e., .exe or .zip files). Therefore, if the specified subject line is not included, the e-mail may not get through the e-mail filters. Also be advised that .zip or .exe files are not allowable attachments and may be deleted by the email filters at Wright-Patterson. If sending attachments with email, ensure only .pdf, .doc, .docx, .xls or .xlsx documents are sent. The email filter may delete any other form of attachments. Amendment FA860126R00020001: Revises the solicitation to include updated attachments as follows: 1. Attachment 3 - PWS Cranes and Hoists 4 March 2026 2. Attachment 6 - General Environmental Protection Requirements (Dec 2020) Address questions regarding this synopsitation to Matthew Bigelow via e-mail at matthew.bigelow.1@us.af.mil A detailed description of the requirement including a draft contract with line items, delivery schedule, period of performance, inspection and acceptance information, other terms and conditions, provisions and clauses, representations and certifications, specific instructions for submission of proposals,an explanation of how proposals will be evaluated, performance work statement, and wage determinations, are pvovided in the attached documents. Upon award, any provisions that were in the draft contract (including representations and certifications) will be removed from the award document. The solicitation document and incorporated provisions and clauses are those in effect through Federal Acquisition Circular 2025-06
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0fb04fa08c53437c9ea081786d3264b2/view)

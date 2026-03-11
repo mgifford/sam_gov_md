@@ -1,0 +1,33 @@
+---
+layout: default
+title: Circuit Card Assembly
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 9d48031406d6498cae219e789286efcd
+---
+
+# Circuit Card Assembly
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-03-10 15:59:18.264-04
+- Solicitation Number: SPRDL1-26-R-0007
+
+## Summary
+
+AMENDMENT NOTICE 1. The purpose of this Amendment 0001 to solicitation SPRDL1-26-R-0007 is to update with a revised TDP link. 2. If you have previously submitted an RFP, please advise if your proposal is still valid or resubmit. 3. The new closing date is March 27, 2026 4. All other terms and conditions remain unchanged. ************************************************************************************ THIS IS A SOLICITATION NOTICE Item: Circuit Card Assembly NSN: 5998-01-706-2284 P/N: 13074673 Quantity: 30 each Option Quantity: 30 (not exercised at time of award) FOB: Destination This is a Firm Fixed Price Requirement and will be set aside for Total Small Business Competition **************************************************************************************************** THE OFFER DUE DATE IS ON OR ABOUT 3.27.2026. SEE SAM.GOV FOR A COPY OF THE SOLICITATION. THE SOLICITATION WILL INSTRUCT HOW TO OBTAIN DRAWINGS. SMALL BUSINESS SET-ASIDE. ONLY OFFERS FROM SMALL BUSINESS CONCERNS WILL BE CONSIDERED. REVERSE AUCTION The solicitation will contain DLAD provision 52.215-9023, Reverse Auction, which allows for the use of a reverse auction as a pricing technique. After the solicitation closes, the contracting officer will determine if a reverse auction will be held. If a reverse auction is held, contractors must be registered in the reverse auction system in order to participate in the auction. Additionally, the contractor representative participating in the auction must have taken the on-line reverse auction training prior to the auction. Registration, on-line training, and other information regarding the reverse auction can be found at https://dla.procurexinc.com.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Michelle Stojkovski
+  - Email: michelle.stojkovski@dla.mil
+  - Phone: 5864671186
+- Secondary Contact:
+  - Name: Sabrina Krafft
+  - Email: sabrina.krafft@dla.mil
+  - Phone: 5864671177
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9d48031406d6498cae219e789286efcd/view)

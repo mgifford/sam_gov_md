@@ -1,0 +1,29 @@
+---
+layout: default
+title: AI Model Hosting and Inference
+agency: COMMERCE, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: fd17041e54ff4c2ea2cf638937a94ccb
+---
+
+# AI Model Hosting and Inference
+
+- Agency: COMMERCE, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-03-10 08:09:19.918-04
+- Solicitation Number: NIST-CAISI-26-SS01
+
+## Summary
+
+REVISED SOURCES SOUGHT (Revisions underlined) SOURCES SOUGHT NOTICE Notice ID: NIST-CAISI-26-SS01 Title: AI Model Hosting and Inference GENERAL INFORMATION This is a Sources Sought Notice ONLY and is issued for market research purposes in accordance with FAR Part 10. This notice does not constitute a Request for Proposal (RFP), Request for Quotation (RFQ), Invitation for Bids (IFB), or any commitment by the Government to issue a solicitation or award a contract. The National Institute of Standards and Technology (NIST) will not pay for any information submitted in response to this notice. Submission of information is voluntary and will not result in any obligation on the part of the Government. NO SOLICITATION DOCUMENTS EXIST AT THIS TIME Requests for solicitation documents will not receive a response. Respondents shall clearly mark any proprietary or restricted information. In the absence of such markings, NIST will assume unlimited rights to all technical data submitted. CONTRACTING OFFICE National Institute of Standards and Technology (NIST) Acquisition Management Division 100 Bureau Drive, Mail Stop 1640 Gaithersburg, MD 20899-1640 NAICS CODE NAICS: 518210 – Computing Infrastructure Providers, Data Processing, Web Hosting, and Other Related Services Small Business Size Standard: $40 Million BACKGROUND President Trump’s AI Action Plan tasks CAISI with evaluating frontier AI systems, including open weight AI models, for national security risks. In order to deliver on this tasking, CAISI requires access to open-weight AI model hosting and inference services. DESCRIPTION OF REQUIRED SERVICES NIST is seeking information from contractors capable of providing open-weight AI model hosting and inference services. Requirements include, but are not limited to, the following: Quick-turn hosting: Support newly-released models within the first few business days after they become available. Accurate inference: Configured for accurate inference, including but not limited to reasoning and tool calling performance. The service must have a validation checklist in place to test that models are served correctly. Automatic and rapid inference scaling: Support rapid scaling of inference usage, without requiring that CAISI reserve all needed inference capacity in advance including ability to support high amounts of throughput (input and output tokens) and high concurrency (number of inference requests at a time). Hosting access to many models: Host a large selection of models by default and be able to quickly host open-weight models on-demand for CAISI. Data retention: Not retain inference data. Reliability: High uptime for its inference services. Cost: Hosting and inference for models at a price that is in line with typical industry pricing. Raw model prompting: Provide CAISI with unfiltered API access for raw model prompting (model access without a chat template). Direct Compute Accelerator Access: The ability to access GPUs directly either in a bare-metal or passthrough configuration. This access should allow the execution of arbitrary workloads that require GPU acceleration. Security: NIST SP 800-171 Rev 3 (“Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations”) security controls implemented for all system components involved in storing, processing, or transmitting Controlled Unclassified Information (CUI). Cryptographic operations executed by FIPS 140-3 validated cryptographic modules. Authentication capabilities implement phishing-resistant MFA. All physical infrastructure, data storage, and processing activities restricted exclusively to the United States. Sources with the following certifications are preferred: FedRAMP, SOC 2 Type 2, CMMC Level 2 MARKET RESEARCH OBJECTIVES The purpose of this Sources Sought Notice is to: Identify responsible sources capable of performing the required services Determine the availability of small businesses, including socio-economic categories Assess industry experience with AI model hosting and inference services Information received may be used to support acquisition strategy decisions, including potential set-aside determinations. ANTICIPATED ACQUISITION NIST anticipates issuing a Request for Quotation (RFQ) in the second quarter of FY 2026, with contract award anticipated no later than the third quarter of FY 2026. RESPONSE INSTRUCTIONS Interested parties shall submit a written capability statement addressing the following: Company name, address, Unique Entity Identifier (UEI) number, CAGE code, and point-of-contact information Business size and socio-economic status (if applicable) Description of company capabilities relevant to the services described above Description of prior experience performing similar services Identification of applicable contract vehicles (e.g., GSA FSS, GWACs), including contract numbers Any other information the Government should consider for market research purposes SUBMISSION REQUIREMENTS Submission Method: Email Email Address: donald.graham@nist.gov Format: Microsoft Word Page Limit: 12 pages maximum Font: Times New Roman, 11-point Paper Size: 8.5 x 11 inches Margins: Minimum 1 inch on all sides Header and footer information that does not contain evaluative content may be included within the margin space.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Don Graham
+  - Email: deg@NIST.GOV
+  - Phone: 3019758567
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fd17041e54ff4c2ea2cf638937a94ccb/view)
