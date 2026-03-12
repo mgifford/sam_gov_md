@@ -1,0 +1,28 @@
+---
+layout: default
+title: 20260311 Construction Mgmt Services and Industry Analytics
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: f780b212197c4657be3d7b9657de54e9
+---
+
+# 20260311 Construction Mgmt Services and Industry Analytics
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-03-11 20:32:51.666-04
+- Solicitation Number: 20260311_CMSandIA
+
+## Summary
+
+This Sources Sought Notice does NOT constitute a request for proposal, request for quote, or invitation for bid. The intent of this notice is to identify potential offerors for market research purposes. No contract/task order will be awarded from this notice and no reimbursement will be made for any costs associated The intent of this Sources Sought Notice is to identify potential sources capable of performing Construction Management Services (CMS) and Industry Analytics located within the Naval Facilities Engineering Systems Command (NAVFAC) Enterprise. For the purpose of this procurement, Enterprise is defined to include all of the regional Facilities Engineering Commands (FECs), such as the Echelon III Component Commands of NAVFAC Atlantic and NAVFAC Pacific, and their subordinate commands. The primary objective is to provide professional and technical services to ensure that construction, renovation, and engineering projects are completed on schedule, within budget, and to the highest standards of quality and safety. The source of the requirement is to support projects/programs of the Mega-Project or Strategic Mega-Project category, to include Military Construction (MILCON) and other programs in the $10M to $10B range. Anticipated deliverables may include: CONSTRUCTION MANAGEMENT SERVICES CONSTRUCTION SITE VISITS AND INSPECTIONS CONSTRUCTION ADMINISTRATION AND ACCESS COORDINATION QUALITY ASSURANCE SUPPORT SAFETY PROGRAM AUDIT STAKEHOLDER COMMUNICATION AND COORDINATION REQUEST FOR INFORMATION (RFI) REVIEW SUBMITTAL REVIEW SCHEDULE REVIEW AND ANALYSIS COST ENGINEERING AND CHANGE MANAGEMENT MANAGEMENT OF PERFORMANCE GUARANTEES AND LIQUDATED DAMAGES COMMISSIONING SYSTEM INSPECTION PROGRAM MANAGEMENT SUPPORT PROCUREMENT AND CONTRACT ADMINISTRATATION SERVICES COMMISSIONING AND ACCEPTANCE OVERSIGHT ENTERPRISE PROGRAM MANAGEMENT COORDINATION UTILITY OUTAGE COORDINATION AND SUPPORT CONSTRUCTION PROJECT RISK ANALYSIS INDUSTRY ANALYTICS CONSTRUCTION PROJECT RISK ANALYSIS In accordance with (IAW) Deputy Assistant Secretary of the Navy (Procurement) (DASN(P)) and Executive Order (EO)14240 with implementation guidance from Office of Management and Budget (OMB) M-25-31, this procurement will be using Seaport-NxG. OMB released memo M-19-13, “Category Management: Making Smarter Use of Common Contract Solutions and Practices,” which has made CM to continue to grow in importance across the Federal Government. The primary North American Industry Classification System (NAICS) Code for this potential requirement is 236220, Commercial and Institutional Building Construction – Construction Management Services, with a Size Standard of $45 million. The contract term is anticipated to include a 12-month base period, and four (4) 12-month option periods. All deliverables performed during the life of the requirement will be ordered by the Government on an as-needed basis. This procurement action is being conducted in accordance with FAR 16.505(b)(1) Fair Opportunity Procedures. Per FAR 16.505(b)(1)(ii), competition requirements in part 6 and the policies in subpart 15.3 do not apply to the ordering process. FAR 16.505(b), allows this TO to order off of the SeaPort-NxG. The existing SeaPort-NxG contract is non-commercial, and therefore this task order being ordered off the SeaPort-NxG may be non-commercial. The services being ordered does not meet the definition of Commercial Services in FAR 12. The services are not being procured for support of a commercial product. Fair opportunity will be given to all MAC holders utilizing SeaPort-NxG IAW FAR 16.505(b)(1)(iii)(B) which states that the contracting officer shall provide fair notice of intent to make a purchase and afford all contractors a fair opportunity to submit and offer that will be fairly considered. This Task Order (TO) will be procured through Seaport-NxG. The PWS will follow performance based contracting principles and comply with the Office of Management and Budget (OMB) and DoD’s Performance Based Service Acquisition requirements. The PWS will include measurable performance standards, requirements, and deliverables to be achieved. The Government will assess the contractor performance against the stated performance standards in the PWS to determine whether or not the contractor is meeting the performance objectives. Interested sources are invited to respond by filling out the Statement of Interest Questionnaire, provided under separate file. NAVFAC Pacific will utilize the information for acquisition planning purposes. Respondents will not be notified of the results of the evaluation. All information will be held in a confidential manner and will only be used for the purposes intended. Please respond to this Sources Sought Notice no later than Tuesday, March 17, 2026 @ 2:00 P.M. HST and direct any questions to Shelly Torres at shelly.k.torres.civ@us.navy.mil
+
+## Contacts
+
+- Primary Contact:
+  - Name: SHELLY TORRES
+  - Email: shelly.k.torres.civ@us.navy.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f780b212197c4657be3d7b9657de54e9/view)

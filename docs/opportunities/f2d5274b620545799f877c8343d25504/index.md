@@ -1,0 +1,31 @@
+---
+layout: default
+title: Two Phase Design Build IDIQ MATOC in Support of the Western Region
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: f2d5274b620545799f877c8343d25504
+---
+
+# Two Phase Design Build IDIQ MATOC in Support of the Western Region
+
+- Agency: DEPT OF DEFENSE
+- Type: Presolicitation
+- Posted: 2026-03-11 15:35:02.187-04
+- Solicitation Number: W9127826RA017
+
+## Summary
+
+THIS ANNOUNCEMENT IS TO NOTIFIY THE PUBLIC THAT SOLICITATION W9127826RA017 WILL POST AT PIEE.EB.MIL ON OR AROUND 13 March 2026 (Phase One). W9127826RA017 – TWO PHASE DESIGN-BUILD INDEFINITE DELIVERY INDEFINITE QUANTITY (IDIQ) MULTIPLE AWARD TASK ORDER CONTRACTS (MATOC) IN SUPPORT OF THE DEFENSE HEALTH AGENCY (DHA) PROGRAM, WESTERN REGION. THIS PROJECT IS ADVERTISED ON AN UNRESTRICTED BASIS WITH A SMALL BUSINESS RESERVE THE NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODE FOR THIS PROJECT IS 236220. This project will be a Firm-Fixed-Price MATOC to provide design-build, and repair in support of DHA Medical Facilities in the Western Region of the United States of America. The Mobile Regional Contracting Center proposes to utilize a diverse mix of contractors via Multiple Award Task Order Contracts (MATOCs). A detailed project description and overall project performance requirements will be included in the solicitation package. The intent of the design-build contracts are to provide quick response for performing repair and minor construction relating, but not limited, to the architectural, mechanical, electrical, instrumentation, security and safety areas of military healthcare and research laboratory facilities in a cost-effective manner. The following are the places of performance for the subject requirement: Western Region – Alaska, Arizona, California, Colorado, Idaho, Montana, Nevada, New Mexico, Oregon, Utah, Washington, Wyoming. Western Region IDIQ MATOC - $249,000,000.00 capacity. There will be a site visit and pre-proposal conference during Phase Two. The site visit information will be included in the Phase Two solicitation (amendment) package. Seed Project Information, to include site and magnitude of construction, will be included with the Phase Two amendment. Offers Covering The Project Restricted to Small Business Yes_ No_X *Restricted to 8(a) Competitive Yes_ No_X_ Subcontracting Plan Required (if applicable) Yes_X_ No_ - Phase Two Note No. 1: All prospective contractors and their subcontractors and suppliers must be registered in SAM.gov before they will be allowed to download solicitation information. Contractors must be registered in the System for Award Management (SAM) at https://www.sam.gov/portal/public/SAM/ prior to award of this contract. Solicitation documents, plans and specifications will only be available via the Procurement Integrated Enterprise Environment (PIEE) website https://piee.eb.mil and ProjNet (https://www.projnet.org). See attachments PIEE Solicitation Module Vendor Access Instructions and SOP PIEE Proposal Manager Offeror for instructions on getting access to the PIEE Solicitation Module and submitting your proposal. Registration for plans and specifications should be made via the Procurement Integrated Enterprise Environment (PIEE) website https://piee.eb.mil. lf you are not registered; the United States Government is not responsible for providing you with notifications of any changes to this solicitation. The solicitation will be available only as a direct download. This solicitation will not be issued on CD-ROM. Neither telephonic, mailed, nor fax requests will be accepted. Registration should be completed one week prior to the issue date. It is the Contractor's responsibility to monitor the website daily for the solicitation to be posted, and for any posted changes or amendments to this solicitation. The plans and specifications and all notifications of changes to this solicitation shall only be made through this posting and modifications hereto. Plans and specifications will not be provided in a printed-paper format; however, the Government reserves the right to revert to paper medium when it is determined to be in the Government's best interest. NOTE: The solicitation will be in .pdf format and requires Adobe Acrobat Reader. Adobe Acrobat Reader may be downloaded free of charge at http://www.adobe.com/products/reader. Note No. 2: All bid forms, bid bonds, and other normal documents required for the bid submittal, including amendments to the bid submittal, shall be electronic format with the proposal. Note No. 3: Critical path method (network analysis system) is not required. Note No. 4: For this job, a small business is defined as having average annual receipts of less than $45,000,000.00 Note No. 5: All advertisements of Mobile District projects will be through the Procurement Integrated Enterprise Environment (PIEE) website https://piee.eb.mil. Detailed information on this and other Mobile District Projects (Ordering Solicitations, Points of Contact, Synopsis of Work, etc.) are available on the Internet at: Procurement Integrated Enterprise Environment (PIEE) website https://piee.eb.mil. Note No. 6: The request for information (RFI) process for bidder inquiries during the advertisement period will be through the ProjNet internet-based system, and specifics will be contained in the RFP solicitation package available exclusively from the Procurement Integrated Enterprise Environment (PIEE) website https://piee.eb.mil. Other forms of communicating RFls to the Government will not be honored. The Government will try to respond to all questions. Please use one of the following links to access PIEE. https://wawf.eb.mil/ https://piee.eb.mil/ Proposals shall be submitted by Offerors at PIEE. See attachments for PIEE vendor guidance.
+
+## Contacts
+
+- Primary Contact:
+  - Name: LaRhonda Archie
+  - Email: larhonda.m.archie@usace.army.mil
+- Secondary Contact:
+  - Name: CT-M Inbox
+  - Email: ct-cproposals-medcom@usace.army.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f2d5274b620545799f877c8343d25504/view)

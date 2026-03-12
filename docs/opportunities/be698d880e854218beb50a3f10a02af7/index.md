@@ -1,0 +1,31 @@
+---
+layout: default
+title: Endless Forge
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: be698d880e854218beb50a3f10a02af7
+---
+
+# Endless Forge
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-03-11 10:21:23.682-04
+- Solicitation Number: FA2394-26-R-B003
+
+## Summary
+
+Endless Forge (EF) is Manufacturing as a Service (MaaS), an adaptive, surge-adaptive, resilient, and scalable manufacturing capability to enable US industrial base dominance. EF represents a new manufacturing paradigm, shifting away from vertically integrated and sequential value chains to adaptive and fast-acting regionalized production networks. If successful, EF will offer the DAF the ability to scale any weapon system at speed through a platform-agnostic approach that can respond to battlefield performance. AFRL is interested in innovative products, technologies, and services related to the attached areas of Interest (AOI). Amendment 1 of the Solictation includes Industry day information as well as updates highlighted in red First set of Questions and Answers is included as an attachment. These remain valid/in force even with Amendment 1 being issued.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Ms. Marina Papayanki
+  - Email: marina.papayanki@us.af.mil
+- Secondary Contact:
+  - Name: Mr. Travis Caudill
+  - Email: travis.caudill@us.af.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/be698d880e854218beb50a3f10a02af7/view)

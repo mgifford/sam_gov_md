@@ -1,0 +1,31 @@
+---
+layout: default
+title: C211--589A6-26-415, Install Heating, Ventilation, and Air Conditioning System (HVAC) System Building 71- ME (VA-26-00040372)
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: be99425e51974e00bbf8bef68a891ad8
+---
+
+# C211--589A6-26-415, Install Heating, Ventilation, and Air Conditioning System (HVAC) System Building 71- ME (VA-26-00040372)
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-03-11 10:51:15.906-04
+- Solicitation Number: 36C25526Q0251
+- Awardee: null
+
+## Summary
+
+Sources Sought Notice Page 5 of 5 Title: 589A6-26-415 Install Heating, Ventilation and Air Conditioning System (HVAC) System BLDG 71 Solicitation Number: 36C25523Q0251 Agency: Veterans Affairs Medical Center, Leavenworth Kansas Type of Notice: Sources Sought Posted Date: 03/11/2026 Response Date: 03/16/2026 at 10:00 am Central Time Set Aside: Service-Disabled Veteran Owned Small Business` Classification Code: C211-Architect and Engineering- General: Landscaping, Interior Layout, and Designing NAICS Code: 541330 Engineering Services Synopsis: Please note that this is NOT a request for SF330's or proposals, the Government is seeking information for market research purposes only. The Government may or may not issue solicitation documents. The Department of Veterans Affairs Network Contracting Office (NCO) 15, is conducting a market survey for qualified: Service-Disabled Veteran Owned Small Businesses (SDVOSB), capable of providing the required services outlined below for the VA Medical Center located in Leavenworth, Kansas. The applicable NAICS code is 541330 Engineering Services and the size standard is $25.5 Million. Responses to this notice must be submitted via e-mail and received no later than March 16, 2026, at 10:00 AM Central Time. No telephone inquiries will be accepted or returned. Additional information about this project will be issued on the Federal Business Opportunities website https://www.fbo.gov once available. Prospective SDVOSB firms are reminded that in accordance with VA Acquisition Regulation (VAAR) 852.219-10, at least 50 percent of the cost of personnel for contract performance of the contract shall be spent for employees of the SDVOSB concern or employees of other eligible service-disabled veteran-owned small business concerns. The prime architect shall provide written certification of this to the Contracting Officer with the response provided for this market research. SCOPE OF DESIGN/CONSTRUCTION PROJECT: A/E services are required for the preparation of Field Investigations and Studies, Schematics, Design Development, Construction Documents, Cost Estimate, and Construction Period Services for project number 589A6-26-415 Install Heating, Ventilation and Air Conditioning (HVAC) System BLDG 71. This delivery order shall cover the following tasks below. Statement of Work: This project will: replace floor mounted, 4 pipe FCU s with ceiling mounted, 4 pipe FCU s on the south side of the building; replace the VRF system on the north side of the building with 4 pipe, ceiling mounted FCU s; provide and install ventilation ductwork to the existing, south ERV; and use the existing VRF system as a back-up system for the existing ERV s located in the attic. Anticipated time for completion of design is 180 calendar days including time for VA reviews. In accordance with VAAR 836.204, the estimated magnitude of the resulting construction price range is estimated to be between $1,000,000.00 and $5,000,000.00. The North American Industrial Classification System (NAICS) code is 541330, Engineering Services, small business size standard of $25.5 Million in average annual receipts for the preceding three years. Interested firms must be registered in https: www.SAM.gov with this NAICS code and qualified as a service-disabled veteran owned small business under this NAICS code. Qualified service-disabled veteran owned small businesses are encouraged to respond and required to be registered in the VetBiz registry https://www.vetbiz.va.gov/ on or before the response date. The response to this notice shall be in summary format and shall not exceed ten (10) total pages and include the following: Company name, Unique Identifier Number, verification of social economic category (SDVOSB), address, point of contact, telephone number and email address, sample information on same or similar type projects completed. No basis for claim against the Government shall arise because of a response to this source sought or Government use of any information provided. The Government will not pay for information or comments provided and will not recognize any costs associated with submission of comments. There is no guarantee, expressed or implicit, that market research for this acquisition will result in a particular set-aside, or any other guarantee of award or acquisition strategy. Responses must be received by 10:AM Central on 16 March 2026 via e-mail to the Contracting Officer at timothy.parison@va.gov. PLEASE REFERENCE "SOURCES SOUGHT: Project 589A6-26-415 Install Heating, Ventilation and Air Conditioning (HVAC) System BLDG 71 IN THE SUBJECT LINE and cover sheet. Respondents will not be contacted regarding their submission or information gathered because of this Sources Sought notice. Interested firms shall be required to respond to additional announcements separately from this announcement without further notice from the Government when posted to the Contract Opportunities website at https://beta.sam.gov/. The Contract Opportunities website is the only official site to obtain these documents. Point of Contact: Tim Parison, Contracting Officer Network 15 Contracting Office; 3450 S. 4th Street, Leavenworth, KS 66048. e-mail address: timothy.parison@va.gov Phone: 913-946-1140
+
+## Contacts
+
+- Primary Contact:
+  - Name: Timothy Parison
+  - Title: Contracting Officer
+  - Email: timothy.parison@va.gov
+  - Phone: 913-946-1140
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/be99425e51974e00bbf8bef68a891ad8/view)

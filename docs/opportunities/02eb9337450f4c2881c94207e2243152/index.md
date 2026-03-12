@@ -1,0 +1,31 @@
+---
+layout: default
+title: Request for Information (RFI) for the Repair of the Advanced Display Core Processor (ADCP), Digital Mapping Processor (DMP), Mission Cartridge (MC), and Theater Cartridge (TC)
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 02eb9337450f4c2881c94207e2243152
+---
+
+# Request for Information (RFI) for the Repair of the Advanced Display Core Processor (ADCP), Digital Mapping Processor (DMP), Mission Cartridge (MC), and Theater Cartridge (TC)
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-03-11 15:32:45.691-04
+- Solicitation Number: FD20602500023
+
+## Summary
+
+REQUEST FOR INFORMATION (RFI) Advanced Display Core Processor (ADCP), 1270-01-562-6566FX Digital Mapping Processor (DMP), 5895-01-444-5142FX Mission Cartridge (MC), 7045-01-445-0383FX Theater Cartridge (TC), 7045-01-500-5493FX The Government is conducting market research to identify potential sources that possess the repair data, expertise, capabilities, and experience to meet qualification requirements for repair of the F-15 Advanced Display Core Processor (ADCP) and the F-15 Digital Mapping System (DMS). The DMS consists of the Digital Mapping Processor, NSN: 5895-01-444-5142FX, P/N: 8520305-911, The Mission Cartridge, NSN: 7045-01-445-0383FX, P/N: 8520380-903, and the Theater Cartridge, NSN: 7045-01-500-5493, P/N: 8520390-903. The level of security clearance in this requirement has not been determined. The Repair Method Code (RMC) /Repair Method Suffix Code (RMC/RMSC) for these items is R3/R; where RMC/R3 is repair, for the second or subsequent time, directly from the actual manufacturer and RMSC/R is the Government does not own the data or the rights to the data needed to contract repair of this part from additional sources. It has been determined to be uneconomical to buy the data or rights to the data. It is uneconomical to reverse engineer the item. This code is used when the Government did not initially purchase the data and/or rights. The Government does not own or have access to the data for these items. The ADCP has the capability of processing target data, controls and displays aircraft sensory information for the flight crew, and displays on-board weapon capability. The DMS is a system that consists of a Digital Map Processor (DMP), a Mission Cartridge (MC), and a Theatre Cartridge (TC). The DMP is responsible for processing map data and theatre data provided by the mission cartridge and theatre cartridge. The MC and TC are memory devices that host the data which is processed by the DMP. The Government did not provision for a competitive acquisition package including the full repair technical data or acquisition of any test equipment that would be required to perform organic repairs. The ADCP and DMS are military-unique items that must be manufactured to the Honeywell drawing specification, 2118952 Rev C (ADCP) and 8523307-901 (DMS). Both drawing specifications contain extremely stringent design requirements and must meet exact form, fit, function and interface requirements for effective F-15 mission accomplishment. Therefore, a commercial item will not satisfy the unique requirements of this acquisition. Contractor shall furnish all material, support equipment, tools, test equipment, and services. The contractor is responsible for providing, maintaining, and calibrating all test equipment required for repair. Contractor furnished material or parts used for replacement shall equal or exceed the quality of the original material or parts. The known source for this requirement is Honeywell International 21333 N 19th Ave. Phoenix, AZ 85027-2764 Cage 07187 Type: Large Business Contractors/Institutions responding to this market research are placed on notice that participation in this survey may not ensure participation in future solicitations or contract awards. The government will not reimburse participants for any expenses associated with their participation in this survey. FAR 52.215-3 REQUEST FOR INFORMATION OR SOLICITATION FOR PLANNING PURPOSES (OCT 1997) The Government does not intend to award a contract on the basis of this solicitation or to otherwise pay for the information solicited except as an allowable cost under other contracts are provided in subsection 31.205-18, Bid and proposal costs, of the Federal Acquisition Regulation. Although “proposal” and “offeror” are used in this Request for Information, your response will be treated as information only. It shall not be used as a proposal. This solicitation is issued for the purpose of conducting market research to identify potential sources that possess manufacturing data, expertise, capabilities, and experience to meet the requirements for qualification and production of the Parts Kit, Electronic. INSTRUCTIONS: The document(s) below contain a description of the ADCP and DMS requirement and a Contractor Capability Survey. The Survey allows Contractors to provide their company’s capability. If, after reviewing these documents, you desire to participate in the market research, you should provide documentation that supports your company’s capability in meeting these requirements. Failure to provide documentation may result in the government being unable to adequately assess your capabilities. If you lack sufficient experience in a particular area, please provide details explaining how you would overcome the lack of experience/capabilities in order to perform that portion of the requirement (i.e., teaming, subcontracting, etc.) Identify any areas of work that your organization believes should be broken out exclusively for Small Business. Both large and small businesses are encouraged to participate in this Market Research. Joint ventures or teaming arrangements are encouraged. Questions relative to this market survey should be addressed to the Madison Norris, madison.norris@us.af.mil, with copy to Joseph Jones, joseph.jones.81@us.af.mil. *** The entire Request for Information (RFI) is attached***
+
+## Contacts
+
+- Primary Contact:
+  - Name: Madison Norris
+  - Email: madison.norris@us.af.mil
+- Secondary Contact:
+  - Name: Joseph Jones
+  - Email: joseph.jones.81@us.af.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/02eb9337450f4c2881c94207e2243152/view)

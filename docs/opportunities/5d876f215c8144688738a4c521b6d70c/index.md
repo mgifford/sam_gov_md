@@ -1,0 +1,31 @@
+---
+layout: default
+title: Repair Unaccompanied Personnel Housing (UPH) Building 760 and Repair UPH Building 581, Camp Zama, Japan
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: 5d876f215c8144688738a4c521b6d70c
+---
+
+# Repair Unaccompanied Personnel Housing (UPH) Building 760 and Repair UPH Building 581, Camp Zama, Japan
+
+- Agency: DEPT OF DEFENSE
+- Type: Presolicitation
+- Posted: 2026-03-11 20:49:23.166-04
+- Solicitation Number: W912HV26BA011
+
+## Summary
+
+The U.S. Army Corps of Engineers, Japan District (POJ) is providing a PRE-SOLICITATION notice pursuant to FAR 36.213-2 for an upcoming Request for Proposal (RFP). This is not a solicitation. PROJECT INFORMATION Project Title: Repair Unaccompanied Personnel Housing (UPH) Building 760 Project Location: Camp Zama, Japan Project FSC: Z2FC Repair or Alteration of Troop Housing Facilities Project NAICS: 236118 Residential Remodelers Project Magnitude: Between ¥1,000,000,000 and ¥2,500,000,000 (Japanese YEN) Project Description: Design-Bid-Build. Provide full renovation of unaccompanied personnel housing for building 760. Repairs include exterior walls, interior finishes, windows, doors, latrine, kitchenette, living, laundry room, interior electrical, plumbing, fire protection, HVAC, communications systems, and other building components as needed. SOLICITATION INFORMATION: Procurement Method: The Government intends to issue an IFB Solicitation. The Government anticipates issuing the solicitation in April 2026. The solicitation when issued, will identify the site visit date, RFI and bid submission due date. All solicitation and amendment notices and updates will be posted to SAM.gov with a link to PIEE – solicitation module to download all IFB and amendment documents. It shall be the Bidder’s responsibility to check the website for any amendments. The Government intends to award a firm-fixed-price construction contract as a result of the IFB. All interested companies shall be actively registered in the System for Award Management (SAM) database in order to be eligible for award of Government contracts. Information on registration and annual confirmation requirements may be found at http://www.sam.gov. For a Joint Venture, the Joint Venture as an independent entity must be registered in SAM as such. Only local sources will be considered under this solicitation. Firms which have not done business with U.S. Army Corps of Engineers, Japan Engineering District, are requested to visit the following website: https://www.poj.usace.army.mil/Business-With-Us/ for general information a. This contract will be performed in its entirety in the country of Japan and is intended only for local sources. Only local sources will be considered under this solicitation. Local sources are sources (e.g. corporations, partnerships, or Joint Ventures [For a Joint Venture, the Joint Venture as an independent entity must satisfy the local source requirements or, in the alternative, each member of the Joint Venture must individually satisfy the local source requirements]) that are physically located in Japan and authorized (i.e. licensed and registered) to perform construction in Japan. Specifically, a prospective offeror must be duly authorized to operate and conduct construction business in Japan and must fully comply with all applicable laws, decrees, labor standards, and regulations of Japan during the performance of the resulting contracts. b. In addition, offerors must possess a Japanese civil construction (doboku isshiki koji) license or Japanese architectural construction (kenchiku isshiki koji) license by the proposal due date and time. The U.S. Government will verify that the offeror has the license through the Ministry of Land, Infrastructure, Transport and Tourism (MLIT) website at https://etsuran2.mlit.go.jp/TAKKEN. It is the responsibility of the offeror to ensure that it has the license (Japanese civil construction or Japanese architectural construction), and that it is accurately shown on the MLIT website, by the proposal due date and time. Failure to comply with this requirement will be cause for rejection of your offer. c. The U.S. Government will not offer “United States Official Contractor” status under Article XIV of the US-Japan Status of Forces Agreement (SOFA) to U.S. contractors normally resident in the United States; nor will the U.S. Government certify employees of such contractors as “Members of the Civilian Component” under Article I(b) of the SOFA. ELECTRONIC BID/PROPOSAL SUBMISSION The US Army Corps of Engineers Japan District (POJ) has transitioned to Procurement Integrated Enterprise Environment (PIEE) Solicitation Module for bid/proposal submission (unless otherwise specified in the solicitation), to replace DOD SAFE. It is recommended that contractors create their PIEE Solicitation Module account as soon as possible and not wait till bid/proposal due date, as access may take time. The following information is provided for reference. Step 1: Complete vendor registration on https://piee.eb.mil/. Instructions for registration can be found through: https://www.acq.osd.mil/asda/dpc/ce/cap/docs/piee/PIEE_Solicitation_Module_Vendor_Access_Instructions.pdf Step 2: Upload offer in the Solicitation Module through https://piee.eb.mil/ . Instructions for uploading an offer can be found through: https://pieetraining.eb.mil/wbt/xhtml/wbt/sol/solicitation/proposals.xhtml U.S. Army Corps of Engineers, Japan District, Camp Zama, Japan Contracting Office Address: USACE District, Japan Attn: CEPOJ-CT Unit 45010 APO, AP 96343-5010 Primary: Jiro Miyairi Contract Specialist 046-407-8837 jiro.miyairi@usace.army.mil Alternate: Ryan Marzetta Contracting Officer 046-407-8725 ryan.j.marzetta@usace.army.mil
+
+## Contacts
+
+- Primary Contact:
+  - Name: Jiro Miyairi
+  - Email: jiro.miyairi@usace.army.mil
+- Secondary Contact:
+  - Name: Ryan Marzetta
+  - Email: Ryan.J.Marzetta@usace.army.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5d876f215c8144688738a4c521b6d70c/view)

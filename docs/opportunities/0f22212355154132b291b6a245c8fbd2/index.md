@@ -1,0 +1,31 @@
+---
+layout: default
+title: Patriot Missile - Multiple NSNs
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 0f22212355154132b291b6a245c8fbd2
+---
+
+# Patriot Missile - Multiple NSNs
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-03-11 14:48:15.932-04
+- Solicitation Number: SPRRA226R0057
+
+## Summary
+
+THERE IS NO SOLICITATION AVAILABLE AT THIS TIME. REQUEST FOR SOLICITATION WILL NOT RECEIVE A RESPONSE. This Sources Sought Synopsis (SSS) is in support of Market Research being conducted by the Defense Logistics Agency to identify potential manufacturing/supply sources, and if future efforts can be competitive or Set Aside for Small Business. The proposed North American Industry Classification Systems (NAICS) Code and the corresponding Size Standard of number of employees is located in the attachment. This SSS is to notify companies that the Defense Logistics Agency, Redstone Arsenal, Alabama, is seeking qualified sources for the acquisition of MULTIPLE ITEMS (See Table 1) in support of the Patriot Weapons System. The AMSC codes can be referenced on the attachment. As a result, this acquisition is currently being procured under Federal Acquisition Regulation (FAR) 6.302-l(a)(2) having only a limited number of responsible sources. The Government is interested in all businesses to include 8(a), small business and small disadvantaged business, Service-Disabled Veteran-Owned, Hubzone, and Women-Owned small business concerns. All offerors must meet prequalification requirements in order to be eligible for award. The U.S. Army Combat Capabilities Development Command Aviation & Missile Center’s (AvMc DEVCOM) System Readiness Directorate (SRD), Sustainment Division (SD) is the engineering source authority for source approvals. Firms that recognize and can produce the required item described above are encouraged to identify themselves. Firms are encouraged to seek source approval in order to compete for future efforts by emailing inquiries to: usarmy.redstone.devcom-avmc.mbx.amr-ss-sar@mail.mil. The closing date annotated is an estimated date and may be adjusted dependent upon the date of release for solicitation; however, the solicitation will not close prior to the date stated above. Foreign Firms are reminded that all requests for solicitation must be processed through their respective embassies. The contractor shall be capable of successfully performing and complying with any and all special requirements in accordance with the terms and conditions set forth in the solicitation annotated above, at the unit prices established at the time of a contract award. The contractor will be responsible for recurring and nonrecurring engineering services associated with becoming a qualified source. The contractor will also be responsible for all aspects of the manufacturing/production process, including but not limited to - supply chain management, logistics, forecasting of parts, long-lead parts procurement, material forecasting, obsolescence issues and final delivery of assets as well as any and all additional costs incurred resulting from contract performance. DISCLAIMER: THIS SSS IS SOLELY FOR INFORMATIONAL AND PLANNING PURPOSES. IT DOES NOT CONSTITUTE SOLICITATION (REQUEST FOR PROPOSAL OR REQUEST FOR QUOTATION) OR A PROMISE TO ISSUE SOLICITATION IN THE FUTURE AND SHALL NOT BE CONSTRUED AS A COMMITMENT BY THE GOVERNMENT. RESPONSES IN ANY FORM ARE NOT OFFERS AND THE GOVERNMENT IS UNDER NO OBLIGATION TO AWARD A CONTRACT AS A RESULT OF THIS ANNOUNCEMENT. NO FUNDS ARE AVAILABLE TO PAY FOR PREPARATION OF RESPONSES TO THIS ANNOUNCEMENT. ANY INFORMATION SUBMITTED BY RESPONDENTS TO THIS TECHNICAL DESCRIPTION IS STRICTLY VOLUNTARY. THIS ACQUISITION MAY CONTAIN TECHNICAL DATA WHOSE EXPORT IS RESTRICTED BY THE ARMS EXPORT CONTROL ACT (TITLE 22, USC., SEC 2751 ET SEQ) OR THE EXPORT ADMINISTRATION ACT (TITLE 50, USC., APP 2401-2402) EXECUTIVE ORDER 12470. ARMS EXPORT INFORMATION CANNOT BE RELEASED OUTSIDE THE UNTIED STATES WITHOUT PRIOR APPROVAL OF THE GOVERNMENT. THIS ACQUISITION MAY CONTAIN SOME REQUIREMENTS THAT ARE CLASSIFIED. NSN: PART NUMBER: NOUN: NAICS: # OF EMPLOYEES: AMRC CODE: 6625-01-525-7028; 11481078; TEST SET, ELECTRICAL; 334412; 750; 4B; 5998-01-713-7170; 13739876-1; ELECTRONIC COMPONEN; 334412; 750 3B 5895-01-713-8426; 13739870-1; DISTRIBUTION UNIT,R; 334290 ; 600 3B 5998-01-713-7465; 13739871-2; ELECTRONIC COMPONEN; 334412; 750 3B 5955-01-713-8167; 13739874-1; OSCILLATOR; 334419; 750 3B 5998-01-713-7466; 13741030-1; CLOCK DISTRIBUTION; 334412; 750 3B 5895-01-713-7146; 13739872-1; DIVIDER, POWER,RADIO; 335931; 600 3B 5955-01-714-0714; 13739867-1; OSCILLATOR SUBASSEM; 334419; 750 3B 1265-01-713-7317; 13739877-1; RECEIVER-TRANSMITTE; 334511; 1350 3B Applicable AMC Codes: 3B Acquire, for the second or subsequent time, directly from the actual manufacturer. This part must be acquired from a manufacturing source(s) specified on a source control or selected item drawing as defined by the current version of DoD-STD-100. Suitable technical data, Government data rights, or manufacturing knowledge are not available to permit acquisition from other sources, nor qualification testing of another part, nor use of a second source part in the intended application. 4B Acquire, for the second or subsequent time, directly from the actual manufacturer. This part must be acquired from a manufacturing source(s) specified on a source control or selected item drawing as defined by the current version of DoD-STD-100. Suitable technical data, Government data rights, or manufacturing knowledge are not available to permit acquisition from other sources, nor qualification testing of another part, nor use of a second source part in the intended application.
+
+## Contacts
+
+- Primary Contact:
+  - Name: THERESA BESHENICH
+  - Email: theresa.beshenich@dla.mil
+- Secondary Contact:
+  - Name: Adam Henson
+  - Email: Jeffrey.Henson@dla.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0f22212355154132b291b6a245c8fbd2/view)
