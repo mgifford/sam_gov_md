@@ -1,0 +1,28 @@
+---
+layout: default
+title: 59--AN/BPS-16 RADAR MAS, IN REPAIR/MODIFICATION OF
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: 6f925cb83c7d455fbefe030b84e12cf0
+---
+
+# 59--AN/BPS-16 RADAR MAS, IN REPAIR/MODIFICATION OF
+
+- Agency: DEPT OF DEFENSE
+- Type: Presolicitation
+- Posted: 2026-03-12 03:42:07.78-04
+- Solicitation Number: N0010425QND47
+
+## Summary
+
+NSN 7H-5985-016337512-L1, TDP VER 001, QTY 1 EA, DELIVER TO N50286, PORTSMOUTH NAVAL SHIPYARD L1SS, KITTERY, ME 03904, INDUCTION NIIN IS 7H, 5985, 016337512, L1, AN/BPS-16 RADAR MAS, 1978732L1. The Government has rights to the technical data, the data package is complete, and there are no technical data, engineering, tooling or manufacturing restrictions. (This is the only A/RMSC that implies that parts are candidates for full and open competition. Other A/RMSCs such as K, M, N, Q, and S may imply limited competition when two or more independent sources exist yet the technical data package is inadequate for full and open competition.) A/RMCs 1 or 2 are valid. THIS IS A LEVEL 1 ITEM WHICH WILL BE ACQUIRED FROM APPROVED SOURCES ONLY. CONTRACTS WILL BE AWARDED TO OFFERORS WHOSE INSPECTION SYSTEM CONFORMS TO MIL-I-45208A OR EQUIVALENT AS CERIFIED BY A JOINT DCMA/NAVSUP WSS SURVEY TEAM. INFORMATION ABOUT THE MIL-I-45208A REQUIREMENT MAY BE OBTAINED FROM NAVSUP WEAPON SYSTEMS SUPPORT, CODE N97122, P.O. BOX 2020, MECHANICSBURG PA 17055-0788. The proposed acquisition is 100% set aside for small business concerns (see FAR clause 52.219-6, Notice of Total Small Business Set-Aside). The specific type of set-aside will be addressed in the solicitation through inclusion of one of the appropriate clauses listed here: FAR 52.219-3 Notice of HUBZone Set-Aside or Sole Source Award FAR 52.219-27 Notice of Service-Disabled Veteran-Owned Small Business Set-Aside FAR 52.219-29 Notice of Set-Aside for Economically Disadvantaged Women-Owned Small Business Concerns FAR 52.219-30 Notice of Set-Aside for Women-Owned Small Business Concerns Eligible Under the Women-Owned Small Business Program DFARS 252.226-7000 Notice of Historically Black College or University and Minority Institution Set-Aside Interested parties may obtain copies of Military and Federal Specifications and Standards, Qualified Products Lists (QPLs), Qualified Product Databases (QPDs), Military Handbooks, and other standardized documents from the DoD Single Stock Point (DODSSP) at Document Automation and Production Service (DAPS) in Philadelphia, PA. NOTE: Patterns, Drawings, Deviation Lists, Purchase Descriptions, etc. are NOT stocked at DODSSP. Most documents are available in Adobe PDF format from ASSIST-Online at: http://quicksearch.dla.mil/. Users may use ASSIST-Quick Search to search for and download available documents directly using standard browser software. Documents that are not available for downloading from ASSIST-Quick Search can be ordered from the DODSSP website using the ASSIST Shopping Wizard after obtaining a DODSSP Customer Account by following the registration procedures. Users who do not have access to the internet may contact the DODSSP ASSIST Help Desk at 215-697-2667 or 215-697-2179(DSN: 442-2667), or mail their requestDLA Document Services, Bldg. 4/D, 700 Robbins Avenue, Philadelphia PA 19111-5094.
+
+## Contacts
+
+- Primary Contact:
+  - Name: RYAN M. POWELL, N744.3, PHONE (717)605-8198, EMAIL RYAN.M.POWELL22.CIV@US.NAVY.MIL
+  - Email: RYAN.M.POWELL22.CIV@US.NAVY.MIL
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6f925cb83c7d455fbefe030b84e12cf0/view)

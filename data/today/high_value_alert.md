@@ -1,232 +1,232 @@
 # High-value SAM.gov Matches
 
-- Effective date: 2026-03-11
-- Requested date: 2026-03-12
-- Candidate records: 1461
+- Effective date: 2026-03-12
+- Requested date: 2026-03-13
+- Candidate records: 2087
 - High-value matches: 25
 - Threshold: total term hits >= 8 and includes one focus term
 
-## DH01--Point to Point Wireless Communication System Brand Name or Equal to Vocera in support of VA Portland Healthcare System, Portland, Oregon and Vancouver, Washington
-
-- Department: VETERANS AFFAIRS, DEPARTMENT OF
-- Type: Sources Sought
-- PostedDate: 2026-03-11 10:28:24.203-04
-- Total term hits: 57
-- Link: https://sam.gov/workspace/contract/opp/ccd4fdce0f6c45fea0e3514a001f96c0/view
-- Top terms: software(41), application(5), cybersecurity(5), web(2), portal(1), platform(1)
-
-## USSOCOM SOF AT&L INNOVATIVE TECHNOLOGY AND AGILE ACQUISITION, Commercial Solutions Opening (CSO)
-
-- Department: DEPT OF DEFENSE
-- Type: Special Notice
-- PostedDate: 2026-03-11 11:46:16.451-04
-- Total term hits: 31
-- Link: https://sam.gov/workspace/contract/opp/6a0fa3c38350403786306d997db7c673/view
-- Top terms: software(9), platform(6), application(5), agile(5), analytics(3), ux(1)
-
-## NAS Cyber Information Security and Operations
-
-- Department: TRANSPORTATION, DEPARTMENT OF
-- Type: Sources Sought
-- PostedDate: 2026-03-11 13:34:05.977-04
-- Total term hits: 26
-- Link: https://sam.gov/workspace/contract/opp/9f1923bbbd9e4d0ea7341b14705989bb/view
-- Top terms: cybersecurity(14), web(6), ato(2), platform(1), cloud(1), fisma(1)
-
-## Q522--Intent to Sole Source Pharmaceutical PetNet Dosages | New Base plus
-
-- Department: VETERANS AFFAIRS, DEPARTMENT OF
-- Type: Special Notice
-- PostedDate: 2026-03-11 15:21:50.199-04
-- Total term hits: 21
-- Link: https://sam.gov/workspace/contract/opp/f55d3bfd12ed402194af77d000487372/view
-- Top terms: nist(6), fisma(4), cybersecurity(3), software(2), application(2), hosting(2)
-
-## Calibration and Metrology Services V (CAMS V)
-
-- Department: NATIONAL AERONAUTICS AND SPACE ADMINISTRATION
-- Type: Sources Sought
-- PostedDate: 2026-03-11 14:06:58.647-04
-- Total term hits: 21
-- Link: https://sam.gov/workspace/contract/opp/820c243f065e4f9d92058ca7acd488ad/view
-- Top terms: web(20), software(1)
-
-## Y1DZ--NRM CONST 630A4-25-200 (REFURBISH & UPGRADE LAUNDRY VENTILATION)
-
-- Department: VETERANS AFFAIRS, DEPARTMENT OF
-- Type: Solicitation
-- PostedDate: 2026-03-11 14:46:41.06-04
-- Total term hits: 20
-- Link: https://sam.gov/workspace/contract/opp/99062a60f1e644dfa3d69c62b3fa2424/view
-- Top terms: platform(12), cloud(2), elearning(2), cybersecurity(2), software(1), portal(1)
-
-## Engineering Support - Sensor Mission Management System
-
-- Department: HOMELAND SECURITY, DEPARTMENT OF
-- Type: Sources Sought
-- PostedDate: 2026-03-11 12:17:27.332-04
-- Total term hits: 18
-- Link: https://sam.gov/workspace/contract/opp/c7ebfed5fcc54103a2ae8dec85a1600b/view
-- Top terms: software(13), platform(2), application(1), hosting(1), ui(1)
-
-## Refrigerators & Freezers for Bakersfield CBOC
-
-- Department: VETERANS AFFAIRS, DEPARTMENT OF
-- Type: Sources Sought
-- PostedDate: 2026-03-11 10:29:29.008-04
-- Total term hits: 18
-- Link: https://sam.gov/workspace/contract/opp/4f273c6088ee4cf280accae48a1bde01/view
-- Top terms: web(5), cybersecurity(4), nist(3), ui(2), business_intelligence(2), etl(1)
-
-## 59--SI CABLE ASY LCP - AND OTHER REPLACEMENT PARTS
-
-- Department: DEPT OF DEFENSE
-- Type: Solicitation
-- PostedDate: 2026-03-11 17:16:04.193-04
-- Total term hits: 16
-- Link: https://sam.gov/workspace/contract/opp/4e8baa81668f4ad5af469d44ea001d50/view
-- Top terms: web(8), application(3), business_intelligence(3), software(1), cybersecurity(1)
-
-## Two Phase Design Build IDIQ MATOC in Support of the Western Region
-
-- Department: DEPT OF DEFENSE
-- Type: Presolicitation
-- PostedDate: 2026-03-11 15:35:02.187-04
-- Total term hits: 13
-- Link: https://sam.gov/workspace/contract/opp/f2d5274b620545799f877c8343d25504/view
-- Top terms: web(12), portal(1)
-
-## CONTAINER BOX
-
-- Department: DEPT OF DEFENSE
-- Type: Solicitation
-- PostedDate: 2026-03-11 18:32:28.85-04
-- Total term hits: 12
-- Link: https://sam.gov/workspace/contract/opp/0db7ba671a4643c899d6dcdca9128c9b/view
-- Top terms: web(6), application(2), business_intelligence(2), software(1), cybersecurity(1)
-
-## 20--STOOL,REVOLVING
-
-- Department: DEPT OF DEFENSE
-- Type: Solicitation
-- PostedDate: 2026-03-11 17:07:00.481-04
-- Total term hits: 12
-- Link: https://sam.gov/workspace/contract/opp/dec4b791bd8b408f871bcc628198d9cd/view
-- Top terms: web(6), application(2), business_intelligence(2), software(1), cybersecurity(1)
-
-## 43--FILTER BODY,FLUID
-
-- Department: DEPT OF DEFENSE
-- Type: Solicitation
-- PostedDate: 2026-03-11 17:04:42.379-04
-- Total term hits: 12
-- Link: https://sam.gov/workspace/contract/opp/be79e8e624f547a1aa5bda800a93ac2c/view
-- Top terms: web(6), application(2), business_intelligence(2), software(1), cybersecurity(1)
-
-## CONTAINER BOX
-
-- Department: DEPT OF DEFENSE
-- Type: Solicitation
-- PostedDate: 2026-03-11 16:20:09.997-04
-- Total term hits: 12
-- Link: https://sam.gov/workspace/contract/opp/6ed2e1caa06e4f24a456ad724110b401/view
-- Top terms: web(6), application(2), business_intelligence(2), software(1), cybersecurity(1)
-
-## Whitney Lake Powerhouse Roof Repairs
-
-- Department: DEPT OF DEFENSE
-- Type: Presolicitation
-- PostedDate: 2026-03-11 12:19:25.434-04
-- Total term hits: 12
-- Link: https://sam.gov/workspace/contract/opp/7412e57adebf4a7aaf13bfbee2cf7563/view
-- Top terms: web(9), nist(2), application(1)
-
-## Whitney Lake Powerhouse Roof Repairs
-
-- Department: DEPT OF DEFENSE
-- Type: Presolicitation
-- PostedDate: 2026-03-11 12:09:33.405-04
-- Total term hits: 12
-- Link: https://sam.gov/workspace/contract/opp/aae37906a7f444b9a84789522093ab6b/view
-- Top terms: web(9), nist(2), application(1)
-
-## Media Relations Tool
-
-- Department: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
-- Type: Solicitation
-- PostedDate: 2026-03-11 10:45:01.452-04
-- Total term hits: 12
-- Link: https://sam.gov/workspace/contract/opp/9b0480435a674730964d02f2bd9943ab/view
-- Top terms: platform(5), analytics(5), software(1), web(1)
-
-## CAPACITOR
-
-- Department: DEPT OF DEFENSE
-- Type: Solicitation
-- PostedDate: 2026-03-11 17:51:10.126-04
-- Total term hits: 11
-- Link: https://sam.gov/workspace/contract/opp/443df85c98394f61b44adfa9abefc92a/view
-- Top terms: web(6), application(2), business_intelligence(2), software(1)
-
-## CAPACITOR
-
-- Department: DEPT OF DEFENSE
-- Type: Solicitation
-- PostedDate: 2026-03-11 17:51:09.548-04
-- Total term hits: 11
-- Link: https://sam.gov/workspace/contract/opp/25db0560df9c4160a4ba9c1cf57dec1a/view
-- Top terms: web(6), application(2), business_intelligence(2), software(1)
-
-## ClaimsCore Combined Synopsis/Solicitation
+## Ophthalmic Equipment Service
 
 - Department: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
 - Type: Combined Synopsis/Solicitation
-- PostedDate: 2026-03-11 12:54:12.647-04
-- Total term hits: 11
-- Link: https://sam.gov/workspace/contract/opp/0b62959aa552463a86cedf9bf0cf2a50/view
-- Top terms: cms(7), platform(2), software(1), saas(1)
+- PostedDate: 2026-03-12 10:43:13.338-04
+- Total term hits: 51
+- Link: https://sam.gov/workspace/contract/opp/9a4635ec531a4ac0bb332dc611a18892/view
+- Top terms: accessibility(37), application(4), platform(4), vpat(3), web(2), software(1)
 
-## CH-53K Program O-Level Bag Group C
+## DA01--36C10B26Q0170 | RECOMPETE-eDiscovery: Software as a Service and Maintenance | VA-26-00011700 | AUG
 
-- Department: DEPT OF DEFENSE
+- Department: VETERANS AFFAIRS, DEPARTMENT OF
 - Type: Presolicitation
-- PostedDate: 2026-03-11 10:34:55.251-04
-- Total term hits: 11
-- Link: https://sam.gov/workspace/contract/opp/1c8437b6076b485c9356ac4049101b95/view
-- Top terms: web(6), cybersecurity(4), nist(1)
+- PostedDate: 2026-03-12 12:55:59.957-04
+- Total term hits: 37
+- Link: https://sam.gov/workspace/contract/opp/00e9f2071fc6425483f79468f8647487/view
+- Top terms: software(12), saas(8), accessibility(5), web(4), fedramp(4), nist(2)
 
-## P-8A MFDAU PCMCIA Card Elimination Demonstration and AirFASE Software
+## USDA ServiceNow ELA
 
-- Department: DEPT OF DEFENSE
+- Department: AGRICULTURE, DEPARTMENT OF
+- Type: Combined Synopsis/Solicitation
+- PostedDate: 2026-03-12 11:04:13.624-04
+- Total term hits: 24
+- Link: https://sam.gov/workspace/contract/opp/cda33edeca8142e8996a76f20f91bb63/view
+- Top terms: platform(11), application(7), software(4), cloud(1), digital(1)
+
+## Cyberlock Expansion Project
+
+- Department: COMMERCE, DEPARTMENT OF
 - Type: Sources Sought
-- PostedDate: 2026-03-11 07:12:25.027-04
-- Total term hits: 11
-- Link: https://sam.gov/workspace/contract/opp/0209998a07c34ea189230698ee30fa11/view
-- Top terms: software(6), application(2), cloud(2), platform(1)
+- PostedDate: 2026-03-12 15:58:22.398-04
+- Total term hits: 22
+- Link: https://sam.gov/workspace/contract/opp/3c1cf262f9704e4996631a81646fcf6a/view
+- Top terms: nist(20), web(2)
 
-## Cart Adapter
-
-- Department: DEPT OF DEFENSE
-- Type: Presolicitation
-- PostedDate: 2026-03-11 10:50:54.793-04
-- Total term hits: 10
-- Link: https://sam.gov/workspace/contract/opp/1ac1f22eb91c40a2a6a80bd7b1d74979/view
-- Top terms: web(9), portal(1)
-
-## Mobile Harbor Maintenance Dredging
-
-- Department: DEPT OF DEFENSE
-- Type: Presolicitation
-- PostedDate: 2026-03-11 10:00:55.581-04
-- Total term hits: 10
-- Link: https://sam.gov/workspace/contract/opp/28cae80741864a188ca91f9fd2731d1b/view
-- Top terms: web(10)
-
-## PARTS KIT,BALL VALV
+## 60--BI CBLE CAB FUSE - AND OTHER REPLACEMENT PARTS
 
 - Department: DEPT OF DEFENSE
 - Type: Solicitation
-- PostedDate: 2026-03-11 18:13:21.653-04
+- PostedDate: 2026-03-12 05:20:44.342-04
+- Total term hits: 20
+- Link: https://sam.gov/workspace/contract/opp/2f306f7113b547ac8017c719179ee340/view
+- Top terms: web(10), business_intelligence(5), application(3), software(1), cybersecurity(1)
+
+## DA10--Prism IPX Paging System
+
+- Department: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Sources Sought
+- PostedDate: 2026-03-12 12:14:32.397-04
+- Total term hits: 15
+- Link: https://sam.gov/workspace/contract/opp/5b36ea5a507a4c2aa9278bd59d60bf61/view
+- Top terms: software(7), web(6), application(2)
+
+## 59--SI CBLE CPEC A6 W18- AND SIMILAR REPLACEMENT PARTS
+
+- Department: DEPT OF DEFENSE
+- Type: Solicitation
+- PostedDate: 2026-03-12 05:15:56.154-04
+- Total term hits: 15
+- Link: https://sam.gov/workspace/contract/opp/0fde4fb430ca44bfba1bfe8440da3af4/view
+- Top terms: web(8), application(3), business_intelligence(2), software(1), cybersecurity(1)
+
+## USDA STRATUS GUS B2G Support Services
+
+- Department: AGRICULTURE, DEPARTMENT OF
+- Type: Special Notice
+- PostedDate: 2026-03-12 16:06:07.813-04
+- Total term hits: 14
+- Link: https://sam.gov/workspace/contract/opp/f26c561962ea438ba50148bbdb0d00d4/view
+- Top terms: api(7), cybersecurity(3), application(2), fisma(1), nist(1)
+
+## N6600126R0001 - Cyberspace Science, Research, Engineering and Technology Integration Unrestricted Multiple Award Contract (MAC)
+
+- Department: DEPT OF DEFENSE
+- Type: Solicitation
+- PostedDate: 2026-03-12 17:06:38.568-04
+- Total term hits: 12
+- Link: https://sam.gov/workspace/contract/opp/a00df519a3d848d28ec3c2e16a1da5c6/view
+- Top terms: web(9), software(1), application(1), cybersecurity(1)
+
+## VALVE,RELIEF,1/2IN
+
+- Department: DEPT OF DEFENSE
+- Type: Solicitation
+- PostedDate: 2026-03-12 06:00:09.059-04
+- Total term hits: 12
+- Link: https://sam.gov/workspace/contract/opp/60e496ae49c54b9683dcf3a5bb37cbb6/view
+- Top terms: web(6), application(2), business_intelligence(2), software(1), cybersecurity(1)
+
+## WORKSTAND ASSEMBLY
+
+- Department: DEPT OF DEFENSE
+- Type: Solicitation
+- PostedDate: 2026-03-12 05:43:38.625-04
+- Total term hits: 12
+- Link: https://sam.gov/workspace/contract/opp/cd75e7d24c604d58bf12a94d0ab488fa/view
+- Top terms: web(6), application(2), business_intelligence(2), software(1), cybersecurity(1)
+
+## RELAY,THERMAL
+
+- Department: DEPT OF DEFENSE
+- Type: Solicitation
+- PostedDate: 2026-03-12 05:33:58.188-04
+- Total term hits: 12
+- Link: https://sam.gov/workspace/contract/opp/9322af71a721433e90240d9ea3fde778/view
+- Top terms: web(6), application(2), business_intelligence(2), software(1), cybersecurity(1)
+
+## H-1 Program Supplemental Time Microwave Tool
+
+- Department: DEPT OF DEFENSE
+- Type: Presolicitation
+- PostedDate: 2026-03-12 15:08:55.548-04
+- Total term hits: 11
+- Link: https://sam.gov/workspace/contract/opp/c38b5a7e32fa4ae79e2cbf7ed2d249aa/view
+- Top terms: web(6), cybersecurity(4), nist(1)
+
+## Pre-Solicitation Notice - Construction of Rock Island Arsenal Microgrid
+
+- Department: DEPT OF DEFENSE
+- Type: Presolicitation
+- PostedDate: 2026-03-12 12:37:00.077-04
+- Total term hits: 11
+- Link: https://sam.gov/workspace/contract/opp/4707dff1f8ff494185d18b5791d6b62b/view
+- Top terms: web(10), cybersecurity(1)
+
+## Pre-Solicitation Notice - Construction of Rock Island Arsenal Microgrid
+
+- Department: DEPT OF DEFENSE
+- Type: Presolicitation
+- PostedDate: 2026-03-12 12:35:53.508-04
+- Total term hits: 11
+- Link: https://sam.gov/workspace/contract/opp/ce81b6527cb24026b384af7f9bba3137/view
+- Top terms: web(10), cybersecurity(1)
+
+## Pre-Solicitation Notice - Construction of Rock Island Microgrid
+
+- Department: DEPT OF DEFENSE
+- Type: Presolicitation
+- PostedDate: 2026-03-12 12:31:21.854-04
+- Total term hits: 11
+- Link: https://sam.gov/workspace/contract/opp/6afe9e39f2df433c8a91f9e297328941/view
+- Top terms: web(10), cybersecurity(1)
+
+## 59--SHIELD,ELECTRONIC C
+
+- Department: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- PostedDate: 2026-03-12 07:15:54.449-04
+- Total term hits: 10
+- Link: https://sam.gov/workspace/contract/opp/124c9e8673d346ac9b27dc920b8f5899/view
+- Top terms: ui(10)
+
+## BUSHING,SLEEVE
+
+- Department: DEPT OF DEFENSE
+- Type: Solicitation
+- PostedDate: 2026-03-12 06:54:32.465-04
 - Total term hits: 9
-- Link: https://sam.gov/workspace/contract/opp/1dd3f9db4abc4d92bfdb980391758d21/view
+- Link: https://sam.gov/workspace/contract/opp/36382656f9b040aeb4e5fa2ab985d63d/view
 - Top terms: application(5), software(2), web(2)
+
+## ADAPTER ASSEMBLY,VA
+
+- Department: DEPT OF DEFENSE
+- Type: Solicitation
+- PostedDate: 2026-03-12 06:52:09.154-04
+- Total term hits: 9
+- Link: https://sam.gov/workspace/contract/opp/c4fe6ae63b6247088d78e44369f58599/view
+- Top terms: application(5), software(2), web(2)
+
+## DEFLECTOR,DIRT AND
+
+- Department: DEPT OF DEFENSE
+- Type: Solicitation
+- PostedDate: 2026-03-12 06:23:54.291-04
+- Total term hits: 9
+- Link: https://sam.gov/workspace/contract/opp/4b9d9638d8c04e358c56a63d573ed21c/view
+- Top terms: application(5), software(2), web(2)
+
+## CAROLINA BEACH INLET AND VICINITY, NC
+
+- Department: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- PostedDate: 2026-03-12 11:32:56.567-04
+- Total term hits: 8
+- Link: https://sam.gov/workspace/contract/opp/39a92574d9804d098bfbed81d4e6314c/view
+- Top terms: web(4), software(2), portal(2)
+
+## J035--Building 44 Water Heater Replacement
+
+- Department: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Combined Synopsis/Solicitation
+- PostedDate: 2026-03-12 10:50:39.303-04
+- Total term hits: 8
+- Link: https://sam.gov/workspace/contract/opp/1397b47b3dc3432bb61b582fa0ea0eb6/view
+- Top terms: web(6), application(1), cybersecurity(1)
+
+## GENERATOR;FUNCTION,
+
+- Department: DEPT OF DEFENSE
+- Type: Solicitation
+- PostedDate: 2026-03-12 06:35:54.226-04
+- Total term hits: 8
+- Link: https://sam.gov/workspace/contract/opp/a9d453909974460393cbcb3c095796e0/view
+- Top terms: web(8)
+
+## PHASE SHIFTER
+
+- Department: DEPT OF DEFENSE
+- Type: Solicitation
+- PostedDate: 2026-03-12 06:09:41.785-04
+- Total term hits: 8
+- Link: https://sam.gov/workspace/contract/opp/54cae30b46d4467a954fc09014a0f1c3/view
+- Top terms: web(8)
+
+## RESISTOR,DECADE
+
+- Department: DEPT OF DEFENSE
+- Type: Solicitation
+- PostedDate: 2026-03-12 05:55:27.558-04
+- Total term hits: 8
+- Link: https://sam.gov/workspace/contract/opp/9726eecbb5f54b04ad716f80ebd405b4/view
+- Top terms: web(8)

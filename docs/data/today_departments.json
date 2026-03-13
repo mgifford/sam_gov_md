@@ -1,74 +1,68 @@
 [
   {
     "department": "DEPT OF DEFENSE",
-    "total": 981,
-    "opportunities": 759,
-    "wins": 222
+    "total": 1618,
+    "opportunities": 1406,
+    "wins": 212
   },
   {
     "department": "VETERANS AFFAIRS, DEPARTMENT OF",
-    "total": 168,
-    "opportunities": 143,
-    "wins": 25
+    "total": 145,
+    "opportunities": 119,
+    "wins": 26
   },
   {
     "department": "INTERIOR, DEPARTMENT OF THE",
-    "total": 70,
-    "opportunities": 53,
-    "wins": 17
-  },
-  {
-    "department": "HOMELAND SECURITY, DEPARTMENT OF",
-    "total": 39,
-    "opportunities": 36,
-    "wins": 3
+    "total": 71,
+    "opportunities": 44,
+    "wins": 27
   },
   {
     "department": "AGRICULTURE, DEPARTMENT OF",
-    "total": 33,
-    "opportunities": 26,
-    "wins": 7
-  },
-  {
-    "department": "JUSTICE, DEPARTMENT OF",
-    "total": 27,
-    "opportunities": 20,
-    "wins": 7
-  },
-  {
-    "department": "STATE, DEPARTMENT OF",
-    "total": 25,
-    "opportunities": 25,
-    "wins": 0
+    "total": 56,
+    "opportunities": 47,
+    "wins": 9
   },
   {
     "department": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
-    "total": 24,
-    "opportunities": 24,
-    "wins": 0
+    "total": 42,
+    "opportunities": 41,
+    "wins": 1
   },
   {
-    "department": "COMMERCE, DEPARTMENT OF",
-    "total": 17,
-    "opportunities": 17,
-    "wins": 0
+    "department": "HOMELAND SECURITY, DEPARTMENT OF",
+    "total": 37,
+    "opportunities": 33,
+    "wins": 4
   },
   {
-    "department": "GENERAL SERVICES ADMINISTRATION",
-    "total": 16,
-    "opportunities": 14,
-    "wins": 2
+    "department": "STATE, DEPARTMENT OF",
+    "total": 23,
+    "opportunities": 22,
+    "wins": 1
   },
   {
-    "department": "TRANSPORTATION, DEPARTMENT OF",
-    "total": 14,
-    "opportunities": 14,
-    "wins": 0
+    "department": "JUSTICE, DEPARTMENT OF",
+    "total": 21,
+    "opportunities": 12,
+    "wins": 9
   },
   {
     "department": "ENERGY, DEPARTMENT OF",
-    "total": 12,
-    "opportunities": 11,
+    "total": 20,
+    "opportunities": 18,
+    "wins": 2
+  },
+  {
+    "department": "GENERAL SERVICES ADMINISTRATION",
+    "total": 13,
+    "opportunities": 9,
+    "wins": 4
+  },
+  {
+    "department": "TRANSPORTATION, DEPARTMENT OF",
+    "total": 9,
+    "opportunities": 8,
     "wins": 1
   },
   {
@@ -78,39 +72,69 @@
     "wins": 0
   },
   {
-    "department": "TREASURY, DEPARTMENT OF THE",
-    "total": 5,
-    "opportunities": 5,
+    "department": "COMMERCE, DEPARTMENT OF",
+    "total": 7,
+    "opportunities": 7,
+    "wins": 0
+  },
+  {
+    "department": "NATIONAL SCIENCE FOUNDATION",
+    "total": 3,
+    "opportunities": 3,
     "wins": 0
   },
   {
     "department": "ENVIRONMENTAL PROTECTION AGENCY",
-    "total": 4,
-    "opportunities": 3,
-    "wins": 1
+    "total": 2,
+    "opportunities": 0,
+    "wins": 2
+  },
+  {
+    "department": "SOCIAL SECURITY ADMINISTRATION",
+    "total": 2,
+    "opportunities": 2,
+    "wins": 0
+  },
+  {
+    "department": "SMITHSONIAN INSTITUTION",
+    "total": 2,
+    "opportunities": 2,
+    "wins": 0
+  },
+  {
+    "department": "SENATE, THE",
+    "total": 1,
+    "opportunities": 1,
+    "wins": 0
+  },
+  {
+    "department": "TREASURY, DEPARTMENT OF THE",
+    "total": 1,
+    "opportunities": 1,
+    "wins": 0
   },
   {
     "department": "LIBRARY OF CONGRESS",
-    "total": 2,
-    "opportunities": 2,
+    "total": 1,
+    "opportunities": 1,
     "wins": 0
   },
   {
     "department": "UNITED STATES GOVERNMENT PUBLISHING OFFICE",
-    "total": 2,
-    "opportunities": 2,
+    "total": 1,
+    "opportunities": 1,
     "wins": 0
   },
   {
-    "department": "EXECUTIVE OFFICE OF THE PRESIDENT",
-    "total": 2,
-    "opportunities": 2,
+    "department": "FEDERAL DEPOSIT INSURANCE CORPORATION",
+    "total": 1,
+    "opportunities": 1,
     "wins": 0
   },
   {
-    "department": "COURT SERVICES AND OFFENDER SUPERVISION AGENCY",
-    "total": 2,
-    "opportunities": 2,
+    "department": "UNITED STATES TRADE AND DEVELOPMENT AGENCY",
+    "total": 1,
+    "opportunities": 1,
     "wins": 0
   },
   {
@@ -118,53 +142,5 @@
     "total": 1,
     "opportunities": 1,
     "wins": 0
-  },
-  {
-    "department": "EXPORT-IMPORT BANK OF THE US",
-    "total": 1,
-    "opportunities": 1,
-    "wins": 0
-  },
-  {
-    "department": "FEDERAL ELECTION COMMISSION",
-    "total": 1,
-    "opportunities": 1,
-    "wins": 0
-  },
-  {
-    "department": "LABOR, DEPARTMENT OF",
-    "total": 1,
-    "opportunities": 1,
-    "wins": 0
-  },
-  {
-    "department": "POSTAL SERVICE",
-    "total": 1,
-    "opportunities": 1,
-    "wins": 0
-  },
-  {
-    "department": "HOUSING AND URBAN DEVELOPMENT, DEPARTMENT OF",
-    "total": 1,
-    "opportunities": 1,
-    "wins": 0
-  },
-  {
-    "department": "FEDERAL MEDIATION AND CONCILIATION SERVICE",
-    "total": 1,
-    "opportunities": 1,
-    "wins": 0
-  },
-  {
-    "department": "NATIONAL ARCHIVES AND RECORDS ADMINISTRATION",
-    "total": 1,
-    "opportunities": 1,
-    "wins": 0
-  },
-  {
-    "department": "SOCIAL SECURITY ADMINISTRATION",
-    "total": 1,
-    "opportunities": 0,
-    "wins": 1
   }
 ]

@@ -1,0 +1,34 @@
+---
+layout: default
+title: ADVANCED CONTRACTING INITIATIVE - REGIONAL CONTRACTS FOR DEBRIS MANAGEMENT SERVICES (ACI-RCDMS)
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: efdc524963ea4655be4258ab75ee6136
+---
+
+# ADVANCED CONTRACTING INITIATIVE - REGIONAL CONTRACTS FOR DEBRIS MANAGEMENT SERVICES (ACI-RCDMS)
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-03-12 21:58:39.195-04
+- Solicitation Number: W912EK26RA001
+
+## Summary
+
+ADVANCED CONTRACTING INITIATIVE - REGIONAL CONTRACTS FOR DEBRIS MANAGEMENT SERVICES (ACI-RCDMS) The U.S. Army Corps of Engineers (USACE) requires rapid and comprehensive debris removal services for the entire United States and its Outlying Areas. This acquisition is part of the Advanced Contracting Initiative - Regional Contracts for Debris Management Services (ACI - RCDMS) and supports the Federal Emergency Management Agency (FEMA) and other Federal disaster response efforts, as authorized by Public Law 93-288, The Robert T. Stafford Disaster Relief and Emergency Assistance Act (Stafford Act).The Government intends to award ten (10) Regional Single Award Task Order Contracts (SATOCs) through a Full and Open Competition. ---------- MARCH 12, 2026, UPDATE: Amendment 0004 to Solicitation W912EK26RA001 has been issued. Amendment 0004 and related documents are accessible via the link below titled "PIEE Solicitation Module Link for W912EK26RA001. If you are unable to access this amendment and related documents, please email the Contract Specialist, Christopher McCabe at christopher.a.mccabe@usace.army.mil. This Amendment 0004 is to provide a revised Solicitation Form and revised solicitation sections as detailed below. REVISED SOLICITATION FORM (SF 33) The SF 33, "Solicitation, Offer, and Award," is deleted in its entirety and replaced with the revised version dated March 12, 2026, attached hereto. REVISED SOLICITATION SECTIONS The following sections are deleted in their entirety and replaced with the revised versions dated March 12, 2026, which are also attached hereto: a. Section L, "Instructions, Conditions and Notices to Offerors" ---------- MARCH 10, 2026, UPDATE: Amendment 0003 to Solicitation W912EK26RA001 has been issued. Amendment 0003 and related documents are accessible via the link below titled "PIEE Solicitation Module Link for W912EK26RA001. If you are unable to access this amendment and related documents, please email the Contract Specialist, Christopher McCabe at christopher.a.mccabe@usace.army.mil. This Amendment 0003 is to provide a revised Solicitation Form and revised solicitation sections as detailed below. REVISED SOLICITATION FORM (SF 33) The SF 33, "Solicitation, Offer, and Award," is deleted in its entirety and replaced with the revised version dated March 10, 2026, attached hereto. REVISED SOLICITATION SECTIONS The following sections are deleted in their entirety and replaced with the revised versions dated March 10, 2026, which are also attached hereto: a. Section B, “Schedule of Prices” b. Section C, “Performance Work Statement” c. Section L, "Instructions, Conditions and Notices to Offerors" d. Section M, "Evaluation Factors for Award" ---------- FEBRUARY 27, 2026, UPDATE: Amendment 0002 to Solicitation W912EK26RA001 has been issued. Amendment 0002 and related documents are accessible via the link below titled "PIEE Solicitation Module Link for W912EK26RA001. If you are unable to access this amendment and related documents, please email the Contract Specialist, Christopher McCabe at christopher.a.mccabe@usace.army.mil. This Amendment 0002 is to provide revised solicitation sections as detailed below and to extend the proposal due date. PROPOSAL DUE DATE EXTENSION The proposal due date is hereby extended. Proposals are now due no later than 2:00 PM Central Time on March 25, 2026. REVISED SOLICITATION SECTIONS The following sections are deleted in their entirety and replaced with the revised versions dated February 27, 2026, which are attached hereto: Section C, “Performance Work Statement” Section L, "Instructions, Conditions and Notices to Offerors" Section M, "Evaluation Factors for Award" ---------- FEBRUARY 20, 2026, UPDATE: Amendment 0001 to Solicitation W912EK26RA001 has been issued. Amendment 0001 and related documents are accessible via the link below titled "PIEE Solicitation Module Link for W912EK26RA001. If you are unable to access this amendment and related documents, please email the Contract Specialist, Christopher McCabe at christopher.a.mccabe@usace.army.mil. This Amendment 0001 provides new Pre-Proposal Conference documents, issues revised solicitation sections, and updates various clauses and provisions. NEW DOCUMENTS PROVIDED The following documents from the Pre-Proposal Conference of February 13, 2026, are provided as attachments: Attachment 1: Pre-Proposal Conference Slides Attachment 2: Pre-Proposal Conference Attendee List REVISED SOLICITATION SECTIONS The following sections are deleted in their entirety and replaced with the revised versions dated February 20, 2026, which are attached hereto: Section B, “Schedule of Prices” Section C, “Performance Work Statement” Section L, "Instructions, Conditions and Notices to Offerors" Section M, "Evaluation Factors for Award" Attachment A, “Past Performance Questionnaire” Attachment B, "Small Business Participation Plan Template" Note: Various clauses and provisions have been updated throughout the solicitation. It is the Offeror’s responsibility to review the solicitation in its entirety to ensure compliance with the most current terms.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Christopher McCabe
+  - Email: christopher.a.mccabe@usace.army.mil
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: Pre-Proposal Conference Slides Attachment 2: Pre-Proposal Conference Attendee List REVISED SOLICITATION SECTIONS The following sections are deleted in their entirety and replaced with the revised versions dated February 20, 2026, which are attached hereto: Section B, “Schedule of Prices” Section C, “Performance Work Statement” Section L, "Instructions, Conditions and Notices to Offerors" Section M, "Evaluation Factors for Award" Attachment A, “Past Performance Questionnaire” Attachment B, "Small Business Participation Plan Template" Note: Various clauses and provisions have been updated throughout the solicitation. It is the Offeror’s responsibility to review the solicitation in its entirety to ensure compliance with the most current terms
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/efdc524963ea4655be4258ab75ee6136/view)

@@ -1,0 +1,31 @@
+---
+layout: default
+title: Pre-Solicitation Notice - Construction of Rock Island Arsenal Microgrid
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: ce81b6527cb24026b384af7f9bba3137
+---
+
+# Pre-Solicitation Notice - Construction of Rock Island Arsenal Microgrid
+
+- Agency: DEPT OF DEFENSE
+- Type: Presolicitation
+- Posted: 2026-03-12 12:35:53.508-04
+- Solicitation Number: W912QR_26_
+
+## Summary
+
+12MAR2026 Update: This project will include a Project Labor Agreement (PLA) requirement when the solicitation is issued. The solicitation number for this project will be W912QR26RA044. The U.S. Army Corps of Engineers (USACE) Louisville District intends to issue a Request for Proposal (RFP) for the Construction of a Microgrid at Rock Island Arsenal, IL. DESCRIPTION: Construct a microgrid system at Rock Island Arsenal (RIA) powered by natural gas-fired (NG) Reciprocating Internal Combustion Engine (RICE) generators with a total capacity of 14 Megawatts (MW), 3 MW of solar photovoltaic (PV) panels, and a 400-kilowatt (kW)/1.6 Megawatt-hour (MWh) Energy Storage System (ESS). This system will integrate with the existing
+
+2.8 MW hydroelectric power plant. During an electric utility grid outage, the new microgrid system will provide sustained power to the entire RIA electrical distribution system when islanded from the grid, ensuring uninterrupted support for RIA’s Advanced Manufacturing Center of Excellence. The system will include automated isolating switchgear to form the microgrid, paralleling switchgear for the generators, and other necessary controls. It is designed to support approximately 12 MW of critical load and 4 MW of non-critical load, covering the entire RIA installation’s electrical demand. The microgrid will operate as a stand-alone, autonomous electrical power system with the capability to provide a data link connection to the installation’s monitoring and control system. Supporting facilities will include site development, utilities and connections, lighting, paving, parking, walkways, curbs, gutters, storm drainage, landscaping, and signage. The project will also incorporate all necessary building information systems, as well as fire detection, fire hydrants, and security protection and alarm systems. Sustainable principles, including life-cycle cost-effective practices, will be integrated into the design, development, and construction of the project. The design will adhere to the Army Sustainable Design and Development Policy and comply with all applicable laws and Executive Orders. The Contract Duration is nine hundred two (902) calendar days from the Notice to Proceed. TYPE OF CONTRACT AND NAICS: This RFP will be for one (1) Firm-Fixed-Price (FFP) contract. The North American Industrial Classification System Code (NAICS) for this effort is 237130. TYPE OF SET-ASIDE: Unresisted Procurement. SELECTION PROCESS: This is a single phase, Design/Bid/Build procurement. The proposals will be evaluated using a Best Value Trade Off source selection process. The technical information contained in the Offeror's proposal will be reviewed, evaluated, and rated by the Government. DISCUSSIONS: The Government intends to award without discussions but reserves the right to conduct discussion should it be deemed in the Government's best interest. CONSTRUCTION MAGNITUDE: The magnitude of this construction project is anticipated to be $25,000,000 - $100,000,000 in accordance with DFARS 236.204. ANTICIPATED SOLICITATION RELEASE DATE: The Government anticipates releasing the solicitation on or about 24 March 2026. Details regarding the Optional Site Visit will be included in the solicitation. Actual dates and times will be identified in the solicitation. Additional details can be found in the solicitation when it is posted to SAM.gov SOLICITATION WEBSITE: The official solicitation, when posted, will be available free of charge by electronic posting only and may be found at Federal Business Opportunities website, SAM.gov Paper copies of the solicitation will not be issued. Telephone and Fax requests for this solicitation will not be honored. Project files are Portable Document Format (PDF) files and can be viewed, navigated, or printed using Adobe Acrobat Reader. To download the solicitation for this project, contractors are required to register at System for Award Management (SAM) website at SAM.gov. Amendments, if/when issued, will be posted to the above referenced website for electronic downloading. This will be the only method of distributing amendments prior to closing; therefore, it is the Offerors responsibility to check the website periodically for any amendments to the solicitation. REGISTRATIONS: Offerors shall have and shall maintain an active registration in the following database: System for Award Management (SAM): Offerors shall have and shall maintain an active registration in the SAM database at http://www.sam.gov to be eligible for a Government contract award. If the Offeror is a Joint Venture (JV), the JV entity shall have valid SAM registration in the SAM database representing the JV as one business/firm/entity. If at the time of proposal due date an Offeror is not actively and successfully registered in the SAM database, the Government reserves the right to award to the next prospective Offeror. Cybersecurity Maturity Module Certification (CMMC) The Offeror shall have a current CMMC status at the following CMMC level, or higher: Level 2 (Self) for all information systems used in performance of the contract that process, store, or transmit FCI or CUI. See DFARS 252.204-7021. Offerors will need to be registered in the Procurement Integrated Enterprise Environment (PIEE) at: https://piee.eb.mil. Then Navigate to the Supplier Performance Risk System (SPRS) to register for CMMC. POINT-OF-CONTACT: The point-of-contact for this procurement is Contract Specialist, Jacob Pridemore at jacob.s.pridemore@usace.army.mil This announcement serves as the Advance Notice for this project. Responses to this synopsis are not required.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Jacob Pridemore
+  - Email: jacob.s.pridemore@usace.army.mil
+  - Phone: 5023156228
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ce81b6527cb24026b384af7f9bba3137/view)
