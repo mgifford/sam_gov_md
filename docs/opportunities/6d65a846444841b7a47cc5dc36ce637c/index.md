@@ -1,0 +1,28 @@
+---
+layout: default
+title: Lumibird CFR LASER SYSTEM MVAT
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 6d65a846444841b7a47cc5dc36ce637c
+---
+
+# Lumibird CFR LASER SYSTEM MVAT
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-03-13 14:15:57.884-04
+- Solicitation Number: N6426726Q4034
+
+## Summary
+
+This is a combined synopsis/solicitation for commercial products or commercial services prepared in accordance with part 12. This announcement constitutes the only solicitation. Offers are being requested and a separate written solicitation will not be issued. Solicitation number N6426726Q4034 is issued as a request for quotation (RFQ) for Lumibird CFR Laser system MVAT. This acquisition is not set-aside for small business concerns. This solicitation incorporates provisions and clauses by reference. The full text of provisions and clauses may be accessed electronically at www.acquisition.gov. (ii) A list of line-item number(s) and items, quantities, and units of measure: Refer to Combined Synopsis/Solicitation Section B. (iii) Refer to Combined Synopsis/Solicitation for all information and Brand Name Justification; This is for a Brand Name requirement: Lumibird CFR Laser system MVAT. Quotes shall be valid for a minimum of 60 days from the closed of the solicitation period. Offerors shall provide proof of authorization verified by an authorization letter from the manufacturer at the time of offer submission and prior to closure of solicitation. (iv) Date(s) and place(s) of delivery and acceptance and f.o.b. point: Refer to Combined Synopsis/Solicitation for all information. Section E and F. (v) A list of solicitation provisions that apply to the acquisition www.acquisition.gov . (vi) A list of contract clauses that apply to the acquisition: Refer to Combined Synopsis/Solicitation for all information and www.acquisition.gov . (vii) The date, time, and place for receipt of offer and point of contact. Refer to Combined Synopsis/Solicitation Section G and POC listed below in the POC column. (viii) Refer to Combined Synopsis/Solicitation for all information. (2) Response times: Refer to Combined Synopsis/Solicitation: This Opportunity closes on 3/20/2026 3:00pm PDT This is an all-or-none requirement, and partial quotes will be deemed unresponsive and will not be evaluated. The Government will award on a single purchase order to the responsible Offeror whose offer conforms to the requirements as stated in the Solicitation and is most advantageous to the Government based on the criteria listed in section L and section M of the Solicitation. Offerors must be registered in SAM at the time of submission and all responsible sources may submit a quote which, if timely, may be considered by the Agency. Quotes are due no later than the response time and date in the posting. Responses shall be submitted electronically, PDF or MS Word Format to the email address in the posting. It is the responsibility of the Offeror to review the posting for any changes or amendments that may occur concerning this RFQ. It is the responsibility of the Offeror to ensure all quotes and/ or questions are submitted in a timely manner by the specified time and date. No gray market or remanufactured items will be acceptable. Gray market items are Original Equipment Manufacturers' (OEM) goods sold through unauthorized channels in direct competition with authorized distributors. This procurement is for new OEM equipment only. Vendor shall be an OEM, authorized dealer, authorized distributor or authorized reseller for the proposed items, verified by an authorization letter or other documents from the OEM. If applicable, all software licensing, warranty and service associated with the equipment/system shall be in accordance with the OEM terms and conditions. This is an all-or-none requirement, and partial quotes will be deemed unresponsive and will not be evaluated. The Government will award on a single purchase order to the responsible Offeror whose offer conforms to the requirements as stated in the Solicitation and is most advantageous to the Government based on the criteria listed in section L and section M of the Solicitation. Offerors must be registered in SAM at the time of submission and all responsible sources may submit a quote which, if timely, may be considered by the Agency. Quotes are due no later than the response time and date in the posting. Responses shall be submitted electronically, PDF or MS Word Format to the email address in the posting. It is the responsibility of the Offeror to review the posting for any changes or amendments that may occur concerning this RFQ. It is the responsibility of the Offeror to ensure all quotes and/ or questions are submitted in a timely manner by the specified time and date. No gray market or remanufactured items will be acceptable. Gray market items are Original Equipment Manufacturers' (OEM) goods sold through unauthorized channels in direct competition with authorized distributors. This procurement is for new OEM equipment only. Vendor shall be an OEM, authorized dealer, authorized distributor or authorized reseller for the proposed items, verified by an authorization letter or other documents from the OEM. If applicable, all software licensing, warranty and service associated with the equipment/system shall be in accordance with the OEM terms and conditions.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Ashley Briseno
+  - Email: ashley.m.briseno.civ@us.navy.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6d65a846444841b7a47cc5dc36ce637c/view)

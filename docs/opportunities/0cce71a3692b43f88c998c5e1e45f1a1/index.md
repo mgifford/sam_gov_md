@@ -1,0 +1,37 @@
+---
+layout: default
+title: Gas Chromatography with Mass Spectrometry (GCMS) System
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 0cce71a3692b43f88c998c5e1e45f1a1
+---
+
+# Gas Chromatography with Mass Spectrometry (GCMS) System
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-03-13 11:15:05.094-04
+- Solicitation Number: FA860126Q0024
+
+## Summary
+
+Combined Synopsis/Solicitation AFLCMC/PZI Installation Contracting Support Wright Patterson AFB, OH 45323 Date: 13 March 2026 Title: Gas Chromatography with Mass Spectrometry (GCMS) System Request for Quote (RFQ) / Solicitation Number: FA8601-26-Q-0024 Quotes Due: 01 April 2026 at 1:00 PM EST Question due date: 24 March 2026 at 1:00pm Contact Point(s): Bryson Pennie, Contract Specialist; Bryson.pennie@us.af.mil Contact Point(s): Amanda Hoyng, Contracting Officer; Amanda.Hoyng@us.af.mil Description: This is a combined synopsis/solicitation for commercial items prepared in accordance with the format in Subpart 12.6, as supplemented with additional information, included in this notice. This announcement constitutes the only solicitation; quotes are being requested and an additional written solicitation will not be issued. The solicitation is conducted as a commercial procurement using Simplified Acquisition Procedures (FAR Part 13). This notice is expected to result in award of a Firm Fixed Price (FFP) contract for a commercial commodity to the responsible offeror who submits a quotation that: (1) conforms to the requirements, (2) complies with the minimum requirements stated in the Statement of Work (SOW) as evidenced by providing a complete description of the equipment provided, and (3) that submits the quotation with the lowest price technically acceptable, provided that the price is determined to be fair and reasonable. The Government reserves the right to conduct interchanges with some, none, or all offerors, or make no award at all depending upon: 1) the quality of quotations received, and 2) whether proposed prices are determined to be fair and reasonable. This requirement will be full and open competition under NAICS 334516 with a size standard of 1,000 employees. When submitting your offer, please ensure that you notify the contracting specialist if your company is an authorized reseller. If your company is not an authorized reseller, please clearly state in your capability statement how you will provide the required service and training for this acquisition. Additionally, indicate whether the manufacturer will honor the warranty when the product is sold through your company. This solicitation incorporates provisions and clauses by reference. The full text of provisions and clauses may be accessed electronically at www.acquisition.gov Requirement: CLIN 0001 - Gas Chromatography with Mass Spectrometry (GCMS) System in accordance with the Statement of Work CLIN 0002- Training in accordance with the Statement of Work 2. Period of Performance: The delivery is required within 90 days ARO. 3. Request for Information (RFIs): The Government will accept questions concerning solicitation number FA8601-26-Q-0024 until 12 March 2026 at 1:00pm EST. Email your questions on a .pdf, .doc, .docx, .xls or .xlsx document to Bryson.pennie@us.af.mil and Amanda.Hoyng@us.af.mil. Any questions received after this date and time may not be considered. 4. Quotes Due Date: Quotes must be submitted electronically to the Contract Specialist via e-mail at Bryson.pennie@us.af.mil and Contracting Officer at Amanda.Hoyng@us.af.mil. Quotes must conform to the requirements of this solicitation and be received no later than 01 April 2026 at 1:00 PM EST. It is the responsibility of the offeror to ensure that the quote and its attachments are received. Any correspondence sent via e-mail must contain the subject line “FA8601-26-Q-0024 Gas Chromatography with Mass Spectrometry (GCMS) System” The entire quotation must be contained in a single e-mail that does not exceed 5 megabytes including attachments, if any. E-mails with compressed files are not permitted. Note that e-mail filters at Wright-Patterson Air Force Base are designed to filter e-mails without subject lines or with suspicious subject lines or contents (i.e., .exe or .zip files). Therefore, if the specified subject line is not included, the e-mail may not get through the e-mail filters. Also be advised that .zip or .exe files are not allowable attachments and may be deleted by the email filters at Wright-Patterson. If sending attachments with email, ensure only .pdf, .doc, .docx, .xls or .xlsx documents are sent. The email filter may delete any other form of attachments. If a DoDSafe drop off is needed, please notify the contract specialist or contracting officer at least 48 hours before quotes are due. Any quotes received after designated closing date and time need not be considered. Quotes must include aggregate total of base plus all option year CLINS, if requested (IAW FAR 52.217-5 Evaluation of Options). All quotes shall be in whole dollars and conform to the Contract Line-Item Number (CLIN) structure of attached solicitation. 5. Notice to Vendor(s): All vendors must complete and submit the 'Required Information Sheet' attached to the solicitation. Additionally, quotations that contain pricing only with no description/detail of the supply/service that will be provided will not be accepted or considered for award 6. Period of Acceptance of Quotes: Offeror agrees to hold prices in its quote firm for 60 calendar days from the date specified for receipt of offers. 7. SAM Registration: Firms submitting a quote for the solicitation described herein, MUST be registered in the System for Award Management (SAM) database, or risk the quote as being nonresponsive, regardless of the package being considered complete, timely or any other salient consideration. Information to register on SAM can be found at the web site, SAM.gov. 8. Provisions and Clauses: See solicitation attachment for applicable provisions and clauses. Offerors shall complete and include in quotations all representations and certifications, as well as all fillin provisions and clauses, contained within this solicitation. Additionally, quotations that contain pricing only with no description/detail of the equipment that will be provided will not be accepted or considered for award. List of Attachments: Solicitation Statement of Work Wage Determination
+
+## Contacts
+
+- Primary Contact:
+  - Name: Bryson pennie
+  - Email: Bryson.pennie@us.af.mil
+- Secondary Contact:
+  - Name: Amanda Hoyng
+  - Email: amanda.hoyng@us.af.mil
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: applicable provisions and clauses. Offerors shall complete and include in quotations all representations and certifications, as well as all fillin provisions and clauses, contained within this solicitation. Additionally, quotations that contain pricing only with no description/detail of the equipment that will be provided will not be accepted or considered for award. List of Attachments: Solicitation Statement of Work Wage Determination
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0cce71a3692b43f88c998c5e1e45f1a1/view)

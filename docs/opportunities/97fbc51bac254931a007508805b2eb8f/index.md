@@ -1,0 +1,29 @@
+---
+layout: default
+title: Confined Space Rescue Equipment
+agency: INTERIOR, DEPARTMENT OF THE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 97fbc51bac254931a007508805b2eb8f
+---
+
+# Confined Space Rescue Equipment
+
+- Agency: INTERIOR, DEPARTMENT OF THE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-03-13 18:11:53.167-04
+- Solicitation Number: 140R2026Q0048
+
+## Summary
+
+(i)This is a combined synopsis/solicitation for commercial items prepared in accordance with the format in Subpart 12.6, as supplemented with FAR part 13 and additional information included in this notice. This announcement constitutes the only solicitation; quotes are being requested, and a written solicitation will not be issued. (ii) Solicitation number 140R2026Q0048 is issued as a Request for Quote (RFQ). (iii) The solicitation documents and incorporated provisions and clauses are those in effect through Federal Acquisition Circular 2025-06, as of October 1, 2025. (iv) This acquisition is a total small business set aside. The NAICS code is 339999 and the size standard is 550 employees. (v) The contract line item is listed in the price schedule of the solicitation package. Please provide the total price for the firm-fixed price line items. (vi) This requirement is to procure confined space rescue equipment, please see the combined synopsis/solicitation for full list of required items. (vii) The delivery term is 60 days after receipt of order (ARO). (viii) The provision 52.212-1, Instructions to Offerors -Commercial Products and Commercial Services, applies to this acquisition. The quote package will consist of the vendor's pricing information. (ix) The provision 52.212-2, Evaluation - Commercial Products and Commercial Services, applies to this acquisition. Refer to this provision for information. (x) The provision 52.212-3, Offeror Representations and Certifications - Commercial Products and Commercial Services, applies to this acquisition. (xi) The clause 52.212-4, Contract Terms and Conditions - Commercial Products and Commercial Services, applies to this acquisition. There are not any addenda to this clause. (xii) The clause 52.212-5, Contract Terms and Conditions Required to Implement Statutes or Executive Orders - Commercial Products and Commercial Services, applies to this acquisition. The applicable clauses cited within this clause are indicated in the solicitation package. (xiii) All additional contract clauses and provisions are included in the attached solicitation package. (xiv) The Defense Priorities and Allocations System (DPAS) do not apply to this acquisition. (xv) Quotes are due March 20, 2026, by 13:00 PM (Pacific Daylight Time) and should be emailed to mphan@usbr.gov. (xvi) The point of contact is Mouang Phan at (530) 247-8519, or email mphan@usbr.gov.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Phan, Mouang
+  - Email: MPhan@usbr.gov
+  - Phone: 916-978-5127
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/97fbc51bac254931a007508805b2eb8f/view)

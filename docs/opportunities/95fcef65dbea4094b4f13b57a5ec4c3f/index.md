@@ -1,0 +1,29 @@
+---
+layout: default
+title: Retrofit to Glatt GCG-70 Inline Continuous Screw Blender-Mixer for Signal Exchange
+agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+notice_type: Special Notice
+notice_id: 95fcef65dbea4094b4f13b57a5ec4c3f
+---
+
+# Retrofit to Glatt GCG-70 Inline Continuous Screw Blender-Mixer for Signal Exchange
+
+- Agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+- Type: Special Notice
+- Posted: 2026-03-13 11:52:16.689-04
+- Solicitation Number: CDER-2026-131716
+
+## Summary
+
+1. NOTICE TYPE Sources Sought – Market Research (Small and Large Businesses) This is a Sources Sought Notice issued for market research purposes only in accordance with Federal Acquisition Regulation (FAR) Part 10. This notice is not a solicitation, Request for Quote (RFQ), or Request for Proposal (RFP). The Government is seeking information from qualified vendors, including small and large businesses, to assess industry capability, availability, and interest in providing retrofit hardware and integration services for the Glatt GCG-70 Inline Continuous Screw Blender-Mixer to enable signal exchange with third-party equipment in support of the Office of Pharmaceutical Quality Research at the U.S. Food and Drug Administration facility located in Beltsville, Maryland. This is not a solicitation and does not constitute a commitment by the Government to issue a solicitation in the future. No contract will be awarded from this notice. 2. PROJECT BACKGROUND The Office of Pharmaceutical Quality Research (OPQR) supports modernization of pharmaceutical manufacturing by conducting regulatory science research on emerging technologies. Continuous manufacturing (CM) of oral solid dosage forms has been recognized as an emerging technology by the FDA. Continuous process monitoring and manufacturing process control are critical for establishing a robust CM process capable of consistently producing products of desired quality while identifying and mitigating manufacturing risks. Currently, OPQR possesses a Glatt GCG-70 Inline Continuous Screw Blender-Mixer for Powders, 480 Volts (CAT#: STEM-GLEPO-0082-LJX) manufactured by Glatt GmbH. The equipment lacks the capability to communicate with other existing equipment or systems. To integrate the GCG-70 into a continuous manufacturing line, the equipment requires a retrofit enabling communication with a supervisory control system. This upgrade will allow the mixer to exchange signals with third-party equipment and improve integration within a continuous manufacturing process. This requirement includes hardware and site services necessary to retrofit the existing GCG-70 dry mixer to facilitate signal exchange with other equipment. 3. SCOPE The retrofit solution shall meet the following requirements: Enable electronic communication with SIMATIC PCS 7 distributed control system for integration with other equipment. Enable remote control of blender speed, including start/stop capability. Provide feedback signals indicating operational status and actual blender speed. Not restrict or inhibit existing operational capabilities of the GCG-70, including local control functionality. Include a minimum one (1) year warranty covering parts and labor from date of delivery. Provide updated qualification documents, instruction manuals, drawings/diagrams, and other related equipment documentation for the GCG-70. Delivery Location ATTN: Scott Krull Food and Drug Administration 5901 Ammendale Road Suite G Beltsville, MD 20705 Installation and Site Services Location ATTN: Scott Krull Food and Drug Administration 5901 Ammendale Road Suite D Beltsville, MD 20705 4. SUBMISSION REQUIREMENTS Interested businesses shall respond ONLY by completing and submitting the provided Vendor Questionnaire in xlsx format. No capability statements, brochures, or supplemental marketing materials are requested or will be evaluated. The questionnaire requires vendors to address: Company name, UEI, and business size status Socioeconomic category (Small Business, 8(a), HUBZone, SDVOSB, WOSB, etc.) Experience performing retrofit or integration of pharmaceutical processing equipment or similar laboratory equipment Experience integrating equipment with distributed control systems (DCS) such as SIMATIC PCS 7 Experience performing equipment installation, commissioning, and qualification in laboratory or pharmaceutical environments Confirmation that the vendor can meet the salient characteristics described in Section 3 Identification of whether the vendor is the OEM, authorized service provider, or systems integrator for the equipment Relevant past performance references (up to 3) Incomplete questionnaires may not be considered. 5. RESPONSE INSTRUCTIONS All responses are to be electronically provided via the xlsx format to Contract Specialist, Erika Crawford, at Erika.Crawford@fda.hhs.gov. Subject Line: Retrofit to Glatt GCG-70 Sources Sought Response – [Company Name] No phone calls will be accepted regarding this notice. 6. DISCLAIMER This Sources Sought Notice is issued solely for information and planning purposes. It does not constitute a Request for Quote (RFQ) or Request for Proposal (RFP) and shall not be construed as a commitment by the Government to issue a solicitation or award a contract. The Government will not pay for any information submitted in response to this notice. Responses will be used to determine the availability of potential sources and to support acquisition planning.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Erika Crawford
+  - Email: erika.crawford@fda.hhs.gov
+  - Phone: 3017960298
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/95fcef65dbea4094b4f13b57a5ec4c3f/view)

@@ -1,0 +1,39 @@
+---
+layout: default
+title: Exercise Drone Support
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 594c95ab95c543b2913b0ad5450d3566
+---
+
+# Exercise Drone Support
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-03-13 12:19:12.867-04
+- Solicitation Number: FA483026Q0015
+
+## Summary
+
+Per the Statement of Work (SOW) the following is required: 1. DESCRIPTION OF SERVICES. 1.1. SCOPE. This Statement of Work (SOW) defines the effort required by the Contractor to supply service/training opportunities for military exercise operations and procedures outlined below. The 23d WG will be responsible for activities during an exercise in mid-April during regular operating hours. Actual date and location of execution will be relayed to the contract awardee’s primary POC via encrypted email. 1.2. LOCATION. Services will be conducted off the coast of SE Georgia, United States over open water in a designated Military Operating Area (MOA). Mission planning will be conducted near the associated MOA in a secure military facility. Launch & recovery operations will be conducted at the discretion of the selected vendor. 1.3. BACKGROUND. 23d Wing is requesting an agency to conduct fixed wing, multi-drone operations in support of a 300-level Wing Training Exercise. The 23d Wing requests these drone operations to complete the following training objective: Low & slow fixed wing UAS threat detection and targeting. Drones will operate as red forces, but no live fire (Kinetic) will be conducted on the drones (DRY Non-Kinetic operations). Activities will be conducted off the coast over water. 2. APPLICABLE DOCUMENTS. a. 14 CFR Part 107 – Small Unmanned Aircraft Systems b. 49 U.S.C. § 44807 Special Authority for Certain Unmanned Aircraft Systems 3. GENERAL REQUIREMENTS. 3.1. DRONE SERVICE. This contract specifically entails the service of operating drones. The contractor will ensure that any manned or Unmanned Aircraft Systems (UASs) are not specifically procured for this contract and are already owned by the working contractor. 3.2. OPERATING HOURS. All flying operations shall be accomplished in mid-April. Flying will be conducted for 2 hours each day in alignment with Mission Generation Force Element (MGFE) flying operations. 3.3. EQUIPMENT. The contractor will provide up to 2ea Group 3 UASs and equipment to effectively maintain and operate for training operations. 4. SPECIFIC TASKS. The contractor must provide the following: 4.1. The contractor’s duties shall conduct full-spectrum operation of up to 2ea Group 3 drones during the exercise window. 4.1.1. Launch & Recovery operations of up to 2ea Group 3 UASs will be coordinated by the contractor. 4.2. The contractor shall participate in any requested mission planning with the affiliated MGFEs. 4.3. The contractor shall operate in the designated air spaces. 4.4. The contractor shall control manned or unmanned Group 3 drones in a manner emulating adversary unmanned aircraft systems. 4.5. The contractor shall maintain continuous communication with a designated planning cell POC during exercise activities. 4.6. The contractor must have the ability to Reach designated MOAs from their departure/landing location. 4.7. As applicable, must have the ability to submit any required 14 CFR Part 107 Waivers or 49 U.S.C section 44807 exemptions (NLT 15 March) and receive FAA approval as required prior to exercise operations. NOTE: In your QUOTES, ensure you are maintaining Attachment 1. Solicitation CLIN structure in order to be properly evaluated. There is 1 CLIN total, your quotes should show 1 line item. Please refer to attached documents. FAR 52.212-2 Evaluation - The following factors shall be used to evaluate offers: item technical capability, lowest price technically acceptable, and past performance. Please ensure you are filling out Attachment 1. Solicitation "Supplies or Services & Prices or Costs" section, or properly addressing the CLIN structure in your quotes. The Government reserves the right to cancel this solicitation, either before or after the closing date. In the event the Government cancels this solicitation, the Government has no obligation to reimburse an offeror for any costs. Questions are due by Monday, March 16, 2026 at 08:00am EST RESPONSES MUST ADDRESS THE FOLLOWING: Name, address, CAGE Code, SAM UEI, and main point of contact of your company. Specify any and all socio-economic to which your business belongs (large business,small business, Small Disadvantaged Business, Section 8(a) etc.) All quotes shall be received by Tuesday, 17 March 2026 at 2:00 PM Eastern Time. Send responses via e-mail to SSgt Justin De Jesus, justin.de_jesus@us.af.mil by the response date and time. Please identify the RFQ ID number FA483026Q0015 in the email subject line. Any questions regarding this Request For Quote can be directed to justin.de_jesus@us.af.mil or at (229) 257-2084.
+
+## Contacts
+
+- Primary Contact:
+  - Name: SSgt Justin DeJesus
+  - Email: justin.de_jesus@us.af.mil
+  - Phone: 2292572084
+- Secondary Contact:
+  - Name: Samuel D. Garfunkel
+  - Email: samuel.garfunkel.1@us.af.mil
+  - Phone: 2292573947
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: . Solicitation CLIN structure in order to be properly evaluated. There is 1 CLIN total, your quotes should show 1 line item. Please refer to attached documents. FAR 52.212-2 Evaluation - The following factors shall be used to evaluate offers: item technical capability, lowest price technically acceptable, and past performance. Please ensure you are filling out Attachment 1. Solicitation "Supplies or Services & Prices or Costs" section, or properly addressing the CLIN structure in your quotes. The Government reserves the right to cancel this solicitation, either before or after the closing date. In the event the Government cancels this solicitation, the Government has no obligation to reimburse an offeror for any costs. Questions are due by Monday, March 16, 2026 at 08:00am EST RESPONSES MUST ADDRESS THE FOLLOWING: Name, address, CAGE Code, SAM UEI, and main point of contact of your company. Specify any and all socio-economic to which your business belongs (large business,small business, Small Disadvantaged Business, Section 8(a) etc.) All quotes shall be received by Tuesday, 17 March 2026 at 2:00 PM Eastern Time. Send responses via e-mail to SSgt Justin De Jesus, justin.de_jesus@us.af.mil by the response date and time. Please identify the RFQ ID number FA483026Q0015 in the email subject line. Any questions regarding this Request For Quote can be directed to justin.de_jesus@us.af.mil or at (229) 257-2084
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/594c95ab95c543b2913b0ad5450d3566/view)

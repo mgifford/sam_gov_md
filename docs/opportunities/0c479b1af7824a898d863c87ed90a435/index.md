@@ -1,0 +1,33 @@
+---
+layout: default
+title: NSN: 4440-01-542-3419, Air Drier Parts Kit
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: 0c479b1af7824a898d863c87ed90a435
+---
+
+# NSN: 4440-01-542-3419, Air Drier Parts Kit
+
+- Agency: DEPT OF DEFENSE
+- Type: Presolicitation
+- Posted: 2026-03-13 14:17:47.945-04
+- Solicitation Number: SPE8E826Q0282
+
+## Summary
+
+The upcoming solicition SPE8E826RX001 has been updated, and the requirement will be issued under SPE8E826Q0282. 1. This procurement is using the procedures of 41 U.S.C. 1901, as implemented by Class Deviation 2026-O0028 – Revolutionary Federal Acquisition Regulation (FAR) Overhaul Part 12, Defense FAR Supplement (DFARS) Part 212 and Revolutionary FAR Overhaul Part 12.201-1. 2. This solicitation is for NSN 4440-01-542-3419 (Air Drier Parts Kit). The two approved manufacturing sources of supply for this item are: BRIGHTON CROMWELL LLC 3NNX8 P/N 10018499 and HALDEX BRAKE PRODUCTS CORPORATION 06721 P/N RN60Z 3. This solicitation is being issued with the intent of awarding an Indefinite Delivery, Indefinite Quantity Contract (IDIQC). The resultant contract will be fixed price, with an economic price adjustment (EPA), with (1) two-year base term and (3) one-year option terms. At the expiration of the base term, an option in the contract may be exercised unilaterally by the government, to extend the contract up to three (3) additional one-year periods by written notice to the contractor, no later than 3 days prior to contract expiration. In the event that the option is not exercised 3 days prior to expiration, a bilateral modification can be issued exercising the option, up to the final date of expiration of the contract. 4. This procurement is being solicited on an unrestricted basis. 5. Large business concerns must submit a small business subcontracting plan along with their quote. 6. The annual estimated quantity (AEQ) is 6,284 KT. This is only an estimate and is based on data available to the Contracting Officer at the time of issuance. The estimate is for informational purposes only and the Government is in no way obligated to purchase these quantities. Offerors must take into account any business risk associated with these estimates. 7. Guaranteed Minimum: The Government guarantees that it will order a minimum dollar value of $46,143.06 during the two (2) year base period only, regardless of any option periods exercised. The Government is not obligated to purchase beyond the guaranteed contract minimum dollar value. 8. Contract Maximum: The maximum dollar value that may be ordered against this contract is $5,000,000.00. 9. The resultant long-term contract (LTC) will provide coverage for STOCK DLA Direct delivery orders for both CONUS and OCONUS depot locations. Deliveries will therefore be shipped to DLA Depots in the continental U.S. The delivery location will be specified on each delivery order. 10. Vendor Shipment Module (VSM): Vendor Shipment Module (VSM) is a web-based system that is accessed in order to submit FDT shipment information. Vendors must be registered in advance, however, VSM registration is NOT a requirement in order to be eligible to submit a proposal for this solicitation. For additional information, please refer to: https://vsm.distribtion.dla.mil 11. The place of Government inspection and acceptance will be at Destination. 12. All prices must be submitted on an FOB Origin basis. 13. The Government will make an award to a responsible offeror, offering the lowest price that is determined fair and reasonable, who conforms to all of the terms and conditions set forth in the solicitation. Proposals will be evaluated according to Lowest Price Technically Acceptable (LPTA). The Total Evaluated Price will be calculated by multiplying the Annual Estimated Quantity by the quoted unit price to achieve a Total Evaluated Line Price for the base period. 14. The Government intends to make awards without discussions. Offerors are encouraged to submit their best offer when responding to this solicitation. However, the Government does reserve the right to conduct discussions, if necessary. 15. Each offeror’s price will be evaluated for price reasonableness. Certified cost and pricing data will not be required per FAR 15.403-1(b)(3); however, the Contracting Officer may require supporting price data, such as copies of commercial catalogs, commercial invoices or substantiation of established market pricing. 16. ALL QUOTES MUST BE SUBMITTED VIA THE DLA INTERNET BID BOARD SYSTEM (DIBBS) AT https://www.dibbs.bsm.dla.mil. 17. Quotes shall remain valid for 120 days unless the offeror states otherwise. 18. In order to be eligible for contract award, offerors must be determined to be “responsible” in accordance with FAR Subpart 9.1 ‘Responsible Prospective Contractors”. 19. Offers in response to this solicitation will be evaluated in accordance with DLA Procurement Note L25, Evaluation of Offers – Economic Price Adjustment (AUG 2017). Pricing for each of the three option years will be established by adjusting each of the previous year’s items unit prices, using an economic price adjustment based on economic trends captured by Producer Price Index for this commodity (PCU333994333994), in accordance with the formula as outlined in DLA Procurement Note C09, Economic Price Adjustment - Department of Labor Index (AUG 2024), if and when the option is exercised. The two-year base price will not be subject to an EPA adjustment. 20. Any Contractor awarded a contract will be required to re-certify the product offered and country of manufacture, at the time of each exercise of option. 21. Delivery orders will be issued electronically against a basic contract and authorized in accordance with FAR 52.216-19, Order Limitations (OCT 1995). Awardees must be capable of electronically accessing and receiving delivery orders prior to receiving an award. Awardees must also be capable of submitting invoices for payment electronically prior to an award being issued. Proposals received from offerors who are not capable of managing the business of the contract electronically, may be determined technically unacceptable and may be ineligible for contract award. Anticipated solcitation post date is March 23, 2026
+
+## Contacts
+
+- Primary Contact:
+  - Name: Romona Skeete
+  - Email: romona.e.skeete@dla.mil
+  - Phone: 4457378326
+- Secondary Contact:
+  - Name: Kelly Callahan
+  - Email: kelly.callahan@dla.mil
+  - Phone: 4457370279
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0c479b1af7824a898d863c87ed90a435/view)

@@ -1,0 +1,29 @@
+---
+layout: default
+title: REPLACE CONDENSATE TANK SYSTEM
+agency: JUSTICE, DEPARTMENT OF
+notice_type: Solicitation
+notice_id: 1a0adbd239f44f2fa043bf377b1fde73
+---
+
+# REPLACE CONDENSATE TANK SYSTEM
+
+- Agency: JUSTICE, DEPARTMENT OF
+- Type: Solicitation
+- Posted: 2026-03-13 15:12:01.689-04
+- Solicitation Number: 15B40126Q00000010
+
+## Summary
+
+The Federal Bureau of Prisons (FBOP) herein issues solicitation 15B40126Q00000010 for the award of a firm-fixed-price construction contract for a project entitled Replace Condensate Tank System at the Metropolitan Correctional Complex (MCC) Chicago, located in Chicago, Illinois. MCC Chicago is a federally owned facility located at 71 W. Van Buren Street, Chicago, IL 60605. The project consists of the following: The Metropolitan Correctional Center (MCC) Chicago has a construction requirement for replacing the condensate tank system. The project consists of furnishing all equipment, materials, and labor for the complete replacement of the condensate system. MCC Chicago has an existing Condensate System consisting of 2 raised horizontal condensate receiver atmospheric tanks, 3 condensate pumps (moving condensate from receiver tanks to boilers), and all pipework associated with the Condensate Tank System. The 2 receiver tanks were built and installed in 1975. One of the two tanks is currently offline due to an unrepairable leak. Due to the location of the tanks, both tanks, all associated pipework, and the 3 pumps will need to be replaced. All work will be performed in the non-winter months when there is less steam demand. Contractors are required to attend a pre-work meeting in order to coordinate and plan with the on-site staff prior to the day of work. All work shall comply with local, state, and federal regulations. Access to the specifications and drawings attachments will require an active https://sam.gov vendor registration (log in) AND may require a specific role or domain linked to your registration. If you encounter problems requesting access to these documents, please contact the Federal Service Desk at 866-606-8220. Interested offerors must be registered in the System for Award Management (SAM) at https://sam.gov. The North American Industrial Classification System (NAICS) code applicable to this requirement is 238220 (Plumbing, Heating and Air Conditioning Contractors) with a corresponding small business size standard of $19 million. Pursuant to Federal Acquisition Regulation (FAR) 36.204, the estimated magnitude of the project lies between $100,000 and $250,000 (NOTE: This range is one of 8 available ranges from FAR 36.204 and is not meant to imply that the project has necessarily been estimated/budgeted to the maximum of the selected range. It merely conveys that the estimate/budget lies somewhere within that range.) The solicitation will be distributed solely through the Contract Opportunity website at https://www.sam.gov. Hard copies of the solicitation will not be made available. The website provides download instructions. All future information about this solicitation, including any amendments, will also be distributed solely through this website. Interested parties are responsible for continuously monitoring this website to ensure that they have the most recent information about this proposed contract action. The "Sensitive /Secure package Upload" option will be selected for this procurement. All secure/locked documents uploaded, to include the solicitation, will require an active www.sam.gov vendor registration to obtain access. In addition, only those vendors who have been issued a valid Marketing Partner Identification Number (MPIN) from www.sam.gov will be granted access. If your firm does not have the NAICS code listed in www.sam.gov required for this solicitation, an email may be forwarded to your firm requesting an explanation as to why your firm should be granted access. If you encounter problems accessing these documents, please contact the Federal Service Desk at 866-606-8220. All future information about this solicitation, including any amendments, will also be distributed solely through this website. Interested parties are responsible for continuously monitoring this website to ensure that they have the most recent information about this proposed contract action. IMPORTANT: Any contractor interested in obtaining a contract award with the Federal Bureau of Prisons must be registered in https://www.sam.gov. In order to qualify for award, your business size metrics information entered in your SAM registration must be less than or equal to the size standard specified above. If you have questions about SAM, Government procurements in general, or need assistance in the preparation of your bid/proposal/offer, a local Procurement Technical Assistance Center (PTAC) may be able to help. The Procurement Technical Assistance Program was authorized by Congress in 1985 in an effort to expand the number of businesses capable of participating in the Government marketplace. To locate a PTAC near you, go to http://www.aptac-us.org Each offeror's www.sam.gov registration will be reviewed by the Government to confirm that your business size meets the small business size standard requirement. All offerors are urged to double-check their www.sam.govregistration and update as necessary, including the size metrics information. This is a 100 percent small business set-aside. You must be registered in www.sam.gov as a small business (see FAR provision 52.219-1 in the Representations & Certifications section of your www.sam.gov registration).
+
+## Contacts
+
+- Primary Contact:
+  - Name: John Burns
+  - Email: j1burns@bop.gov
+  - Phone: 3123220567
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1a0adbd239f44f2fa043bf377b1fde73/view)

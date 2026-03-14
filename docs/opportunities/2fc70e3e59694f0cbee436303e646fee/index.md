@@ -1,0 +1,28 @@
+---
+layout: default
+title: SMH Ventilation Trailer Unit
+agency: COMMERCE, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: 2fc70e3e59694f0cbee436303e646fee
+---
+
+# SMH Ventilation Trailer Unit
+
+- Agency: COMMERCE, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-03-13 11:38:23.49-04
+- Solicitation Number: SS26-11
+
+## Summary
+
+Sources Sought Notice Number: SS26-11 Notice Type: Sources Sought Synopsis: 3/13/2026 THIS IS A SOURCES SOUGHT NOTICE ONLY. This is not a solicitation or a request for proposal and no contract will be awarded from this notice. No solicitation or specifications are available at this time. The National Institute of Standards and Technology (NIST) is conducting market research to identify qualified and capable firms who would be interested in submitting proposals for the requirement stated below. In particular, small businesses and socioeconomic small businesses capable of providing the requirement are highly encouraged to respond. Requirement: Self-contained, trailer mounted, cooling unit (see specifications document) Delivered to: National Institute of Standards and Technology 100 Bureau Drive Gaithersburg MD 20899 The Terms of Delivery for this item shall be 90 days from the date of award. This is anticipated to be a supply/commodity contract utilizing the commercial procedures of FAR Part 12 permitted under DOC Deviation to utilize Revolutionary FAR Overhaul (RFO) procedures. The Contractor shall provide management, supervision, labor, materials, equipment, and supplies, to meet the requirements and specifications. The North American Industry Classification System (NAICS) code that corresponds with this requirement is 336212 (Truck Trailer Manufacturing). The small business size standard is 1000 employees. If this requirement is set-aside for small businesses and socioeconomic small businesses, there will be a limitation on subcontracting, which means that at least 50 percent of the resulting contract's personnel cost shall be expended on prime contractor employees. This is only a request for responsible, technically qualified sources to respond in order to determine the appropriate method of procurement. Interested, technically qualified firms should submit a detailed Statements of Capability. The Statements of Capability should include detailed reference information and fully address and respond to the following questions: NOTE: Failure to submit all information requested may result in a contractor not being considered as an interested small business concern. I. Company Information: A. Name of firm B. Point of contact (name, phone number, and email address) C. SAM Unique Entity Identifier (UEI) number D. Business Size (Large/Small) for NAICS 332999 E. Socioeconomic Category(ies) (8(a), HUBZone, SDVOSB, WOSB) II. Capabilities Narrative: 1) Describe your firm’s experience performing similar services. 2) Provide no more than four examples of products/items provided to meet similar requirements and specifications. 3) Describe your firm’s strategy and ability to meet the 90-day delivery requirement. 4) Discuss if your firm performed the services directly or as part of a subcontracting or teaming arrangement. 5) Are you interested in this opportunity as a prime contractor, or as part of a Contractor Teaming Arrangement (CTA)? If a CTA/Joint venture, describe the experience of each entity providing similar items. The capabilities package requested under this Sources Sought Notice is not expected to be a proposal, but rather a short statement regarding the company's ability to demonstrate existing expertise and experience in relation to this procurement. Any commercial brochures or currently existing marketing material may also be submitted with the capabilities package. Submission of a capabilities package is not a prerequisite to any potential future offerings, but participation will assist NIST in tailoring its requirements to be consistent with industry standards. Statements of Capability must be in writing. Responses are limited to no more than ten (10) pages, exclusive of any commercial brochures or currently existing marketing material. THIS IS NOT A REQUEST FOR PROPOSALS. This notice does not constitute a Request for Quote (RFQ)/Invitation for Bid (IFB)/Request for Proposal (RFP) or a promise to issue an RFQ, IFB, or RFP in the future. This notice does not commit NIST to contract for any supply or service. Further, NIST is not seeking quotes, bids or proposals at this time and will not accept unsolicited proposals in response to this RFI. This is for planning purposes only and is a market research tool to determine availability and adequacy of potential business sources. Failure to submit all information requested will result in a contractor not being considered as an interested small business concern. NIST will not pay for any information or administrative costs incurred in response to this notice. The government will not reimburse responders for the cost of the submittals. Submittals will not be returned to the responder. Responses to this Sources Sought Notice shall be emailed to Tony Schmidt at tony.schmidt@nist.gov. Questions regarding this notice may be addressed to Tony Schmidt at tony.schmidt@nist.gov. Questions will not receive a response but may be utilized to revise or taken into consideration with possible solicitation actions. Failure to submit all information requested may result in a contractor not being considered as an interested small business concern.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Tony Schmidt
+  - Email: tony.schmidt@nist.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2fc70e3e59694f0cbee436303e646fee/view)
