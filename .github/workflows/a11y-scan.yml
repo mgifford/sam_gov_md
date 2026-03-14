@@ -1,0 +1,54 @@
+name: Accessibility Scan (axe-core)
+
+# Run monthly, on every push that touches dashboard pages, and on demand.
+#
+# Prerequisites – add a repository secret named GH_TOKEN that is a fine-grained
+# Personal Access Token (PAT) with the following permissions on this repository:
+#   actions: write
+#   contents: write
+#   issues: write
+#   pull-requests: write
+#   metadata: read
+#
+# The built-in GITHUB_TOKEN cannot be used because the accessibility-scanner
+# action needs to open issues and (optionally) assign them to GitHub Copilot.
+
+on:
+  schedule:
+    - cron: '0 10 1 * *'  # 1st of every month at 10:00 UTC
+  push:
+    branches: [main]
+    paths:
+      - 'docs/**'
+      - '.github/workflows/a11y-scan.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  a11y:
+    name: axe-core accessibility scan
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Scan GitHub Pages for accessibility issues
+        uses: github/accessibility-scanner@v2
+        with:
+          # Public GitHub Pages URLs for this project
+          urls: |
+            https://mgifford.github.io/sam_gov_md/
+            https://mgifford.github.io/sam_gov_md/search.html
+            https://mgifford.github.io/sam_gov_md/trends.html
+          # Repository where issues will be filed (and where Copilot will open PRs)
+          repository: mgifford/sam_gov_md
+          # Fine-grained PAT – see the comment at the top of this file
+          token: ${{ secrets.GH_TOKEN }}
+          # Cache key used to deduplicate findings across runs
+          cache_key: mgifford-sam_gov_md-a11y
+          # Set to true if GitHub Copilot is not available in this repository
+          skip_copilot_assignment: false
+          # Capture screenshots and attach links to filed issues
+          include_screenshots: true
+          # Group all violations from a single run into one summary issue
+          open_grouped_issues: true

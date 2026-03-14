@@ -26,7 +26,7 @@ Scripts and data-pipeline tooling (`scripts/`) are not user-facing interfaces, b
 | :--- | :--- |
 | **Open A11y Issues** | [View open accessibility issues](https://github.com/mgifford/sam_gov_md/labels/accessibility) |
 | **Target Standard** | WCAG 2.2 Level AA |
-| **Automated Testing** | Planned — see §5 below |
+| **Automated Testing** | Active — axe-core via `github/accessibility-scanner` (`.github/workflows/a11y-scan.yml`) |
 | **Browser Support** | Last 2 major versions of Chrome, Firefox, Safari |
 | **Known Gaps** | See §8 below |
 
@@ -64,13 +64,28 @@ When contributing to the GitHub Pages dashboard or documentation, please follow 
 
 ## 5. Automated Check Coverage
 
-We intend to integrate accessibility linting into the CI pipeline. Planned steps:
+Accessibility scanning is integrated into CI via a dedicated GitHub Actions workflow (`.github/workflows/a11y-scan.yml`):
 
-- **axe-core** HTML audits (via `axe-playwright` or `axe-cli`) on `index.html`, `search.html`, and `trends.html`.
-- **Link checker** to ensure all internal and external links resolve correctly.
-- Integration into the existing **GitHub Actions** daily workflow (`.github/workflows/ingest.yml`) or a dedicated `a11y.yml` workflow.
+- **axe-core** HTML audits via [`github/accessibility-scanner`](https://github.com/github/accessibility-scanner) on `index.html`, `search.html`, and `trends.html` (published GitHub Pages URLs).
+- Runs **monthly** (1st of every month) and on every **push to `docs/`**, plus on demand via `workflow_dispatch`.
+- Findings are filed automatically as **GitHub Issues** labelled for triage; GitHub Copilot can be assigned to suggest fixes when available.
+- Screenshots of failing pages are attached to each issue for context.
 
-Until automated checks are in place, contributors should manually test new or modified dashboard pages using:
+### Prerequisites for the a11y workflow
+
+The `github/accessibility-scanner` action requires a fine-grained Personal Access Token (PAT) stored as a repository secret named `GH_TOKEN` with the following permissions on this repository:
+
+| Permission | Level |
+| :--- | :--- |
+| `actions` | write |
+| `contents` | write |
+| `issues` | write |
+| `pull-requests` | write |
+| `metadata` | read |
+
+The built-in `GITHUB_TOKEN` cannot be used because the action needs to open issues and (optionally) request AI-powered fixes via GitHub Copilot.
+
+Contributors can also run axe-core locally against the development server:
 
 ```bash
 # Run axe-cli against the local server (install once: npm install -g axe-cli)
@@ -175,4 +190,4 @@ Contributions that improve accessibility are always welcome. See the [Contributi
 
 ---
 
-*Last updated: 2026-03-06*
+*Last updated: 2026-03-14*
