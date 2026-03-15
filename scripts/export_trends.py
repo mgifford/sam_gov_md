@@ -93,10 +93,34 @@ def main() -> None:
                 }
             )
 
+        # Build per-day totals for the history timeline
+        daily_totals_query = """
+        SELECT
+            s.snapshot_date AS date,
+            COUNT(*) AS total,
+            SUM(1 - o.is_win) AS opportunities,
+            SUM(o.is_win) AS wins
+        FROM opportunity_sightings s
+        JOIN opportunities o ON o.notice_id = s.notice_id
+        GROUP BY s.snapshot_date
+        ORDER BY s.snapshot_date DESC
+        """
+        daily_totals = []
+        for row in conn.execute(daily_totals_query).fetchall():
+            daily_totals.append(
+                {
+                    "date": row["date"],
+                    "total": row["total"],
+                    "opportunities": row["opportunities"],
+                    "wins": row["wins"],
+                }
+            )
+
     payload = {
         "timeline": sorted_dates,
         "agencies": by_agency,
         "top_agencies": top_agencies,
+        "daily_totals": daily_totals,
     }
 
     output_path = output_dir / "trends.json"

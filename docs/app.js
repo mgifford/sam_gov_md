@@ -26,7 +26,13 @@ function normalizeRecord(raw) {
     PrimaryContactEmail: raw.PrimaryContactEmail || '',
     PrimaryContactPhone: raw.PrimaryContactPhone || '',
     matches: raw.matches || [],
+    first_seen_date: raw.first_seen_date || '',
+    is_win: raw.is_win || false,
   }
+}
+
+function getRecordDate(record) {
+  return (record.first_seen_date || record.PostedDate || '').slice(0, 10)
 }
 
 function isPdfLink(link) {
@@ -442,18 +448,27 @@ async function main() {
     const awardRecords = (awardRecordsRaw || []).map((row) => normalizeRecord(row))
     const matchedRecords = (summary.top_matching_records || []).map((row) => normalizeRecord(row))
 
+    // Compute cumulative stats from all tracked records
+    const cumulativeTotal = allRecords.length
+    const cumulativeOpps = allRecords.filter((r) => !r.is_win).length
+    const cumulativeWins = allRecords.filter((r) => r.is_win).length
+    const uniqueDates = new Set(allRecords.map((r) => getRecordDate(r)).filter(Boolean))
+    const uniqueDepts = new Set(allRecords.map((r) => r.Agency).filter(Boolean))
+
     const latestBatch = summary.used_fallback_latest
-      ? `No records for ${summary.requested_date}; latest available: ${summary.effective_date} (${summary.records_total} records).`
-      : `Latest batch: ${summary.effective_date} (${summary.records_total} records).`
-    setText('dateInfo', `${latestBatch} Showing all ${allRecords.length.toLocaleString()} tracked opportunities.`)
-    setText('total', String(summary.records_total || 0))
-    setText('opps', String(summary.opportunities_total || 0))
-    setText('wins', String(summary.awarded_total || summary.wins_total || 0))
-    setText('departments', String(summary.departments_total || 0))
+      ? `No records for ${summary.requested_date}; latest available: ${summary.effective_date} (${summary.records_total} new).`
+      : `Latest batch: ${summary.effective_date} (${summary.records_total} new).`
+    setText('dateInfo', `${latestBatch} Tracking ${cumulativeTotal.toLocaleString()} opportunities across ${uniqueDates.size} days.`)
+    setText('total', cumulativeTotal.toLocaleString())
+    setText('opps', cumulativeOpps.toLocaleString())
+    setText('wins', cumulativeWins.toLocaleString())
+    setText('daysTracked', String(uniqueDates.size))
+    setText('departments', String(uniqueDepts.size))
 
     const popularTerms = (summary.top_terms || []).slice(0, 3).map(([term]) => term)
     setText('topTerm', popularTerms.length ? popularTerms.join(', ') : 'None')
 
+    renderDailyHistory(allRecords)
     renderTypeBreakdown(summary.type_breakdown || [], summary.records_total || 0)
     if (departmentForecast) {
       renderDepartmentForecast(departmentForecast)
@@ -471,6 +486,55 @@ async function main() {
   } catch (error) {
     setText('dateInfo', `Failed to load dashboard data: ${error.message}`)
   }
+}
+
+function renderDailyHistory(allRecords) {
+  const container = document.getElementById('dailyHistory')
+  if (!container) return
+
+  // Group records by first_seen_date (the batch date they were ingested)
+  const byDate = {}
+  allRecords.forEach((r) => {
+    const date = getRecordDate(r)
+    if (!date) return
+    if (!byDate[date]) byDate[date] = { total: 0, opportunities: 0, wins: 0 }
+    byDate[date].total++
+    if (r.is_win) byDate[date].wins++
+    else byDate[date].opportunities++
+  })
+
+  const dates = Object.keys(byDate).sort().reverse()
+  if (!dates.length) {
+    container.innerHTML = '<p class="empty">No history available yet.</p>'
+    return
+  }
+
+  const rows = dates
+    .map((date) => {
+      const d = byDate[date]
+      const searchLink = `search.html?date=${date}`
+      return `<tr>
+        <td><a href="${searchLink}" style="color:#0969da;text-decoration:none;">${date}</a></td>
+        <td style="text-align:right;">${d.total.toLocaleString()}</td>
+        <td style="text-align:right;">${d.opportunities.toLocaleString()}</td>
+        <td style="text-align:right;">${d.wins.toLocaleString()}</td>
+      </tr>`
+    })
+    .join('')
+
+  container.innerHTML = `
+    <table>
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th style="text-align:right;">Total</th>
+          <th style="text-align:right;">Opportunities</th>
+          <th style="text-align:right;">Awards</th>
+        </tr>
+      </thead>
+      <tbody>${rows}</tbody>
+    </table>
+  `
 }
 
 function containerHandlers(allRecords, _departments, awardRecords = []) {

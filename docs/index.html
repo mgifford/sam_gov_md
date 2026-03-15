@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>SAM.gov Today Dashboard</title>
+    <title>SAM.gov Opportunities Dashboard</title>
     <style>
       body {
         margin: 0;
@@ -97,7 +97,7 @@
 
       <section class="row cards">
         <article class="card">
-          <div class="label">Total Records</div>
+          <div class="label">Total Tracked</div>
           <div id="total" class="value">-</div>
         </article>
         <article class="card">
@@ -109,8 +109,8 @@
           <div id="wins" class="value">-</div>
         </article>
         <article class="card">
-          <div class="label">Popular Terms</div>
-          <div id="topTerm" class="value" style="font-size:15px">-</div>
+          <div class="label">Days Tracked</div>
+          <div id="daysTracked" class="value">-</div>
         </article>
         <article class="card">
           <div class="label">Departments</div>
@@ -121,6 +121,7 @@
       <section class="panel">
         <h3>Table of Contents</h3>
         <ul style="margin: 0; padding-left: 18px;">
+          <li><a href="#daily-history">Daily Activity History</a></li>
           <li><a href="#notice-breakdown">Notice Type Breakdown</a></li>
           <li><a href="#department-forecast">Department Forecasting</a></li>
           <li><a href="#contract-officers">Contract Officers Intelligence</a></li>
@@ -130,6 +131,12 @@
           <li><a href="#top-matches">Top Matching Records</a></li>
           <li><a href="#relationships">Relationships</a></li>
         </ul>
+      </section>
+
+      <section class="panel">
+        <h3 id="daily-history">Daily Activity History</h3>
+        <p class="sub" style="margin-top: 0;">Fresh opportunities tracked each day from SAM.gov. Click a date to search that day's records.</p>
+        <div id="dailyHistory"></div>
       </section>
 
       <section class="panel">

@@ -18,7 +18,12 @@ function normalizeRecord(raw) {
     PrimaryContactFullname: raw.PrimaryContactFullname || '',
     PrimaryContactEmail: raw.PrimaryContactEmail || '',
     matches: raw.matches || [],
+    first_seen_date: raw.first_seen_date || '',
   }
+}
+
+function getRecordDate(record) {
+  return (record.first_seen_date || record.PostedDate || '').slice(0, 10)
 }
 
 /**
@@ -86,6 +91,13 @@ async function main() {
     const records = await loadJson('data/all_opportunities.json')
     const allRecords = records.map(normalizeRecord)
 
+    // Update header with total record count
+    const headerDesc = document.querySelector('header p')
+    if (headerDesc) {
+      const uniqueDates = new Set(allRecords.map(r => getRecordDate(r)).filter(Boolean))
+      headerDesc.textContent = `Search across ${allRecords.length.toLocaleString()} opportunities tracked over ${uniqueDates.size} days. Filters by title, agency, description, and tracked terms.`
+    }
+
     const deptFilter = document.getElementById('filter-department')
     const uniqueDepartments = [...new Set(allRecords.map(r => r.Agency))].filter(Boolean).sort()
     uniqueDepartments.forEach(dept => {
@@ -110,13 +122,17 @@ async function main() {
     const clearFiltersBtn = document.getElementById('clear-filters')
     const activeFiltersContainer = document.getElementById('active-filters')
 
+    // Exact-date filter set via URL parameter ?date=YYYY-MM-DD
+    let exactDate = ''
+
     function getActiveFilters() {
       const filters = []
       if (searchInput.value.trim()) filters.push({ type: 'keyword', label: `Keyword: "${searchInput.value}"` })
       if (deptFilter.value) filters.push({ type: 'department', label: `Dept: ${deptFilter.value.slice(0, 30)}` })
       if (statusFilter.value) filters.push({ type: 'status', label: statusFilter.value === 'open' ? 'Open Opportunities' : 'Awarded Contracts' })
       if (termFilter.value) filters.push({ type: 'term', label: `Term: ${termFilter.value}` })
-      if (dateFromFilter.value) filters.push({ type: 'date', label: `After: ${dateFromFilter.value}` })
+      if (exactDate) filters.push({ type: 'exactDate', label: `Date: ${exactDate}` })
+      else if (dateFromFilter.value) filters.push({ type: 'date', label: `After: ${dateFromFilter.value}` })
       return filters
     }
 
@@ -134,6 +150,7 @@ async function main() {
           else if (filter.type === 'status') statusFilter.value = ''
           else if (filter.type === 'term') termFilter.value = ''
           else if (filter.type === 'date') dateFromFilter.value = ''
+          else if (filter.type === 'exactDate') exactDate = ''
           performSearch()
         })
         activeFiltersContainer.appendChild(chip)
@@ -146,7 +163,9 @@ async function main() {
       if (statusFilter.value === 'open') filtered = filtered.filter(r => !r.Awardee || r.Awardee.trim() === '')
       else if (statusFilter.value === 'awarded') filtered = filtered.filter(r => r.Awardee && r.Awardee.trim() !== '')
       if (termFilter.value) filtered = filtered.filter(r => r.matches.some(m => m.term === termFilter.value))
-      if (dateFromFilter.value) {
+      if (exactDate) {
+        filtered = filtered.filter(r => getRecordDate(r) === exactDate)
+      } else if (dateFromFilter.value) {
         const fromDate = new Date(dateFromFilter.value)
         filtered = filtered.filter(r => new Date(r.PostedDate) >= fromDate)
       }
@@ -178,15 +197,16 @@ async function main() {
     termFilter.addEventListener('change', performSearch)
     dateFromFilter.addEventListener('change', performSearch)
     clearFiltersBtn.addEventListener('click', () => {
-      searchInput.value = ''; deptFilter.value = ''; statusFilter.value = ''; termFilter.value = ''; dateFromFilter.value = ''; performSearch()
+      searchInput.value = ''; deptFilter.value = ''; statusFilter.value = ''; termFilter.value = ''; dateFromFilter.value = ''; exactDate = ''; performSearch()
     })
 
     const params = new URLSearchParams(window.location.search)
     if (params.get('q')) searchInput.value = params.get('q')
     if (params.get('dept')) deptFilter.value = params.get('dept')
     if (params.get('status')) statusFilter.value = params.get('status')
-   if (params.get('term')) termFilter.value = params.get('term')
-    if (params.get('q') || params.get('dept') || params.get('status') || params.get('term')) performSearch()
+    if (params.get('term')) termFilter.value = params.get('term')
+    if (params.get('date')) exactDate = params.get('date')
+    if (params.get('q') || params.get('dept') || params.get('status') || params.get('term') || params.get('date')) performSearch()
   } catch (error) {
     document.getElementById('search-results').innerHTML = '<li class="empty">Error: ' + error.message + '</li>'
   }
