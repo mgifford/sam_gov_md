@@ -1,353 +1,35 @@
 {
-  "forecast_date": "2026-03-13",
+  "forecast_date": "2026-03-14",
   "departments_by_opportunity_volume": [
     {
-      "total_records": 597,
-      "open_opportunities": 505,
-      "awarded": 92,
-      "win_rate_percent": 17.6,
-      "estimated_monthly_value": 296097728,
-      "average_award_value": 2819978,
-      "opportunities_with_attachments": 134,
-      "opportunities_with_keyword_matches": 231,
-      "top_awardees": [
-        {
-          "name": "Dragados S.A. ESP",
-          "wins": 1,
-          "total_value": 79974415
-        },
-        {
-          "name": "WOOLPERT, INC. Beavercreek OH 45430 USA",
-          "wins": 1,
-          "total_value": 49900000
-        },
-        {
-          "name": "KOONTZ ELECTRIC COMPANY, INCORPORATED Morrilton AR 72110 USA",
-          "wins": 1,
-          "total_value": 45430332
-        },
-        {
-          "name": "DAVID CLARK CO INC ",
-          "wins": 1,
-          "total_value": 34583229
-        },
-        {
-          "name": "MURDOCK WEBBING COMPANY, INC. ",
-          "wins": 1,
-          "total_value": 19426458
-        }
-      ],
+      "total_records": 10,
+      "open_opportunities": 10,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 1,
+      "top_awardees": [],
       "department": "DEPT OF DEFENSE"
     },
     {
-      "total_records": 129,
-      "open_opportunities": 111,
-      "awarded": 18,
-      "win_rate_percent": 15.5,
-      "estimated_monthly_value": 25233774,
-      "average_award_value": 1261688,
-      "opportunities_with_attachments": 8,
-      "opportunities_with_keyword_matches": 25,
-      "top_awardees": [
-        {
-          "name": "ONEBLOOD, INC ORLANDO 32819 FLK",
-          "wins": 2,
-          "total_value": 16227581
-        },
-        {
-          "name": "ONEBLOOD, INC ORLANDO 32819 FLK",
-          "wins": 2,
-          "total_value": 16227581
-        },
-        {
-          "name": "KNS DEVELOPMENT CORPORATION SARASOTA 34232",
-          "wins": 1,
-          "total_value": 3401301
-        },
-        {
-          "name": "WICHITA FALLS TRI-TECH, LLC KELLER 76248",
-          "wins": 1,
-          "total_value": 3128702
-        },
-        {
-          "name": "TIME ON TARGET LLC MOUNT BETHEL 18343",
-          "wins": 1,
-          "total_value": 842694
-        }
-      ],
-      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
-    },
-    {
-      "total_records": 55,
-      "open_opportunities": 36,
-      "awarded": 19,
-      "win_rate_percent": 34.5,
-      "estimated_monthly_value": 411113928,
-      "average_award_value": 21637575,
+      "total_records": 4,
+      "open_opportunities": 3,
+      "awarded": 1,
+      "win_rate_percent": 25.0,
+      "estimated_monthly_value": 151676770,
+      "average_award_value": 151676770,
       "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 2,
-      "top_awardees": [
-        {
-          "name": "VANASSE HANGEN BRUSTLIN, INC. 101 WALNUT ST Watertown MA 02472 USA",
-          "wins": 1,
-          "total_value": 400030000
-        },
-        {
-          "name": "MCMILLEN, INC. 1471 SHORELINE DR Boise ID 83702 USA",
-          "wins": 1,
-          "total_value": 7161200
-        },
-        {
-          "name": "GRUNLEY CONSTRUCTION CO., INC. 15020 SHADY GROVE RD STE 500 Rockville MD 20850 USA",
-          "wins": 1,
-          "total_value": 2728000
-        },
-        {
-          "name": "Federal Prison Industries, Inc 3301 LEESTOWN RD Lexington KY 40511 USA",
-          "wins": 1,
-          "total_value": 305205
-        },
-        {
-          "name": "INNOVASEA MARINE SYSTEMS CANADA INC 20 ANGUS MORTON DR BEDFORD NS B4B 0 CAN",
-          "wins": 1,
-          "total_value": 269302
-        }
-      ],
-      "department": "INTERIOR, DEPARTMENT OF THE"
-    },
-    {
-      "total_records": 36,
-      "open_opportunities": 33,
-      "awarded": 3,
-      "win_rate_percent": 11.1,
-      "estimated_monthly_value": 6594717,
-      "average_award_value": 1648679,
-      "opportunities_with_attachments": 4,
-      "opportunities_with_keyword_matches": 7,
-      "top_awardees": [
-        {
-          "name": "ISN ALLIANCE LLC Washington DC 20007 USA",
-          "wins": 1,
-          "total_value": 5533804
-        },
-        {
-          "name": "THOMA-SEA MARINE CONSTRUCTORS, L.L.C. Houma LA 70363 USA",
-          "wins": 1,
-          "total_value": 1039651
-        },
-        {
-          "name": "AllClear Aerospace & Defense, Inc. Miramar FL 33027 USA",
-          "wins": 1,
-          "total_value": 21262
-        },
-        {
-          "name": "",
-          "wins": 1,
-          "total_value": 0
-        }
-      ],
-      "department": "HOMELAND SECURITY, DEPARTMENT OF"
-    },
-    {
-      "total_records": 37,
-      "open_opportunities": 31,
-      "awarded": 6,
-      "win_rate_percent": 16.2,
-      "estimated_monthly_value": 1964932,
-      "average_award_value": 327488,
-      "opportunities_with_attachments": 10,
-      "opportunities_with_keyword_matches": 7,
-      "top_awardees": [
-        {
-          "name": "TABEZA HOLDINGS, LLC McAllen TX 78504 USA",
-          "wins": 1,
-          "total_value": 1599500
-        },
-        {
-          "name": "DMT SOLUTIONS GLOBAL CORPORATION Danbury CT 06810 USA",
-          "wins": 1,
-          "total_value": 251312
-        },
-        {
-          "name": "TERRA TECH LLC Eugene OR 97402 USA",
-          "wins": 1,
-          "total_value": 36800
-        },
-        {
-          "name": "BRAVO, INC. Cape Coral FL 33990 USA",
-          "wins": 1,
-          "total_value": 35125
-        },
-        {
-          "name": "NORMONT EQUIPMENT CO. Great Falls MT 59404 USA",
-          "wins": 1,
-          "total_value": 24055
-        }
-      ],
-      "department": "AGRICULTURE, DEPARTMENT OF"
-    },
-    {
-      "total_records": 28,
-      "open_opportunities": 28,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 16,
-      "top_awardees": [],
-      "department": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF"
-    },
-    {
-      "total_records": 23,
-      "open_opportunities": 21,
-      "awarded": 2,
-      "win_rate_percent": 8.7,
-      "estimated_monthly_value": 168189,
-      "average_award_value": 84094,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 11,
-      "top_awardees": [
-        {
-          "name": "MENDEZ & CO INC Guaynabo PR 00969 USA",
-          "wins": 1,
-          "total_value": 104085
-        },
-        {
-          "name": "ADVANCED COMMODITIES, INC. Bartlett IL 60103 USA",
-          "wins": 1,
-          "total_value": 64104
-        }
-      ],
-      "department": "JUSTICE, DEPARTMENT OF"
-    },
-    {
-      "total_records": 18,
-      "open_opportunities": 17,
-      "awarded": 1,
-      "win_rate_percent": 5.6,
-      "estimated_monthly_value": 3504227,
-      "average_award_value": 3504227,
-      "opportunities_with_attachments": 3,
-      "opportunities_with_keyword_matches": 2,
-      "top_awardees": [
-        {
-          "name": "DDMC EVENT DESIGN Forest 1190 BEL",
-          "wins": 1,
-          "total_value": 3504227
-        }
-      ],
-      "department": "STATE, DEPARTMENT OF"
-    },
-    {
-      "total_records": 17,
-      "open_opportunities": 16,
-      "awarded": 1,
-      "win_rate_percent": 5.9,
-      "estimated_monthly_value": 39735,
-      "average_award_value": 39735,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 7,
-      "top_awardees": [
-        {
-          "name": "ISLA MARITIME CORP 6802 Commerce Ave Port Richey FL 34668 USA",
-          "wins": 1,
-          "total_value": 39735
-        }
-      ],
-      "department": "COMMERCE, DEPARTMENT OF"
-    },
-    {
-      "total_records": 10,
-      "open_opportunities": 9,
-      "awarded": 1,
-      "win_rate_percent": 10.0,
-      "estimated_monthly_value": 3352809,
-      "average_award_value": 3352809,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 6,
-      "top_awardees": [
-        {
-          "name": "S & K LOGISTICS SERVICES LLC 138 Peachtree Parkway Byron GA 31008 USA",
-          "wins": 1,
-          "total_value": 3352809
-        }
-      ],
-      "department": "ENERGY, DEPARTMENT OF"
-    },
-    {
-      "total_records": 10,
-      "open_opportunities": 6,
-      "awarded": 4,
-      "win_rate_percent": 50.0,
-      "estimated_monthly_value": 74899943,
-      "average_award_value": 14979988,
-      "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 1,
       "top_awardees": [
         {
-          "name": "OMICRONVIS LLC DIEGO 92120-3906 USA",
+          "name": "ROCHE DIABETES CARE INC INDIANAPOLIS 46256-1025",
           "wins": 1,
-          "total_value": 70000000
-        },
-        {
-          "name": "800 BRIDGECAM, LLC New York NY 10022 USA",
-          "wins": 1,
-          "total_value": 2548539
-        },
-        {
-          "name": "Kevin Murray LLC Murrells Inlet SC 29576 USA",
-          "wins": 1,
-          "total_value": 1951404
-        },
-        {
-          "name": "HSM OF AMERICA LLC DOWNINGTOWN 19335-3043 USA",
-          "wins": 1,
-          "total_value": 400000
-        },
-        {
-          "name": "",
-          "wins": 1,
-          "total_value": 0
+          "total_value": 151676770
         }
       ],
-      "department": "GENERAL SERVICES ADMINISTRATION"
-    },
-    {
-      "total_records": 5,
-      "open_opportunities": 5,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 2,
-      "top_awardees": [],
-      "department": "TRANSPORTATION, DEPARTMENT OF"
-    },
-    {
-      "total_records": 4,
-      "open_opportunities": 4,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 4,
-      "top_awardees": [],
-      "department": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION"
-    },
-    {
-      "total_records": 4,
-      "open_opportunities": 4,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "TREASURY, DEPARTMENT OF THE"
+      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
     },
     {
       "total_records": 3,
@@ -359,97 +41,7 @@
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "SENATE, THE"
-    },
-    {
-      "total_records": 2,
-      "open_opportunities": 2,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "ENVIRONMENTAL PROTECTION AGENCY"
-    },
-    {
-      "total_records": 2,
-      "open_opportunities": 2,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "LABOR, DEPARTMENT OF"
-    },
-    {
-      "total_records": 2,
-      "open_opportunities": 1,
-      "awarded": 1,
-      "win_rate_percent": 50.0,
-      "estimated_monthly_value": 50471,
-      "average_award_value": 50471,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [
-        {
-          "name": "EAST COAST WELDING & CONSTRUCTION CO INC Glen Burnie MD 21061 USA",
-          "wins": 1,
-          "total_value": 50471
-        }
-      ],
-      "department": "SOCIAL SECURITY ADMINISTRATION"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 1,
-      "top_awardees": [],
-      "department": "HOUSING AND URBAN DEVELOPMENT, DEPARTMENT OF"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 1,
-      "top_awardees": [],
-      "department": "FEDERAL COMMUNICATIONS COMMISSION"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "COURT SERVICES AND OFFENDER SUPERVISION AGENCY"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 1,
-      "top_awardees": [],
-      "department": "POSTAL SERVICE"
+      "department": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF"
     },
     {
       "total_records": 1,
@@ -461,473 +53,53 @@
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "PEACE CORPS"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "FEDERAL DEPOSIT INSURANCE CORPORATION"
+      "department": "INTERIOR, DEPARTMENT OF THE"
     }
   ],
   "departments_by_award_value": [
     {
-      "total_records": 55,
-      "open_opportunities": 36,
-      "awarded": 19,
-      "win_rate_percent": 34.5,
-      "estimated_monthly_value": 411113928,
-      "average_award_value": 21637575,
+      "total_records": 4,
+      "open_opportunities": 3,
+      "awarded": 1,
+      "win_rate_percent": 25.0,
+      "estimated_monthly_value": 151676770,
+      "average_award_value": 151676770,
       "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 2,
-      "top_awardees": [
-        {
-          "name": "VANASSE HANGEN BRUSTLIN, INC. 101 WALNUT ST Watertown MA 02472 USA",
-          "wins": 1,
-          "total_value": 400030000
-        },
-        {
-          "name": "MCMILLEN, INC. 1471 SHORELINE DR Boise ID 83702 USA",
-          "wins": 1,
-          "total_value": 7161200
-        },
-        {
-          "name": "GRUNLEY CONSTRUCTION CO., INC. 15020 SHADY GROVE RD STE 500 Rockville MD 20850 USA",
-          "wins": 1,
-          "total_value": 2728000
-        },
-        {
-          "name": "Federal Prison Industries, Inc 3301 LEESTOWN RD Lexington KY 40511 USA",
-          "wins": 1,
-          "total_value": 305205
-        },
-        {
-          "name": "INNOVASEA MARINE SYSTEMS CANADA INC 20 ANGUS MORTON DR BEDFORD NS B4B 0 CAN",
-          "wins": 1,
-          "total_value": 269302
-        }
-      ],
-      "department": "INTERIOR, DEPARTMENT OF THE"
-    },
-    {
-      "total_records": 597,
-      "open_opportunities": 505,
-      "awarded": 92,
-      "win_rate_percent": 17.6,
-      "estimated_monthly_value": 296097728,
-      "average_award_value": 2819978,
-      "opportunities_with_attachments": 134,
-      "opportunities_with_keyword_matches": 231,
-      "top_awardees": [
-        {
-          "name": "Dragados S.A. ESP",
-          "wins": 1,
-          "total_value": 79974415
-        },
-        {
-          "name": "WOOLPERT, INC. Beavercreek OH 45430 USA",
-          "wins": 1,
-          "total_value": 49900000
-        },
-        {
-          "name": "KOONTZ ELECTRIC COMPANY, INCORPORATED Morrilton AR 72110 USA",
-          "wins": 1,
-          "total_value": 45430332
-        },
-        {
-          "name": "DAVID CLARK CO INC ",
-          "wins": 1,
-          "total_value": 34583229
-        },
-        {
-          "name": "MURDOCK WEBBING COMPANY, INC. ",
-          "wins": 1,
-          "total_value": 19426458
-        }
-      ],
-      "department": "DEPT OF DEFENSE"
-    },
-    {
-      "total_records": 10,
-      "open_opportunities": 6,
-      "awarded": 4,
-      "win_rate_percent": 50.0,
-      "estimated_monthly_value": 74899943,
-      "average_award_value": 14979988,
-      "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 1,
       "top_awardees": [
         {
-          "name": "OMICRONVIS LLC DIEGO 92120-3906 USA",
+          "name": "ROCHE DIABETES CARE INC INDIANAPOLIS 46256-1025",
           "wins": 1,
-          "total_value": 70000000
-        },
-        {
-          "name": "800 BRIDGECAM, LLC New York NY 10022 USA",
-          "wins": 1,
-          "total_value": 2548539
-        },
-        {
-          "name": "Kevin Murray LLC Murrells Inlet SC 29576 USA",
-          "wins": 1,
-          "total_value": 1951404
-        },
-        {
-          "name": "HSM OF AMERICA LLC DOWNINGTOWN 19335-3043 USA",
-          "wins": 1,
-          "total_value": 400000
-        },
-        {
-          "name": "",
-          "wins": 1,
-          "total_value": 0
-        }
-      ],
-      "department": "GENERAL SERVICES ADMINISTRATION"
-    },
-    {
-      "total_records": 129,
-      "open_opportunities": 111,
-      "awarded": 18,
-      "win_rate_percent": 15.5,
-      "estimated_monthly_value": 25233774,
-      "average_award_value": 1261688,
-      "opportunities_with_attachments": 8,
-      "opportunities_with_keyword_matches": 25,
-      "top_awardees": [
-        {
-          "name": "ONEBLOOD, INC ORLANDO 32819 FLK",
-          "wins": 2,
-          "total_value": 16227581
-        },
-        {
-          "name": "ONEBLOOD, INC ORLANDO 32819 FLK",
-          "wins": 2,
-          "total_value": 16227581
-        },
-        {
-          "name": "KNS DEVELOPMENT CORPORATION SARASOTA 34232",
-          "wins": 1,
-          "total_value": 3401301
-        },
-        {
-          "name": "WICHITA FALLS TRI-TECH, LLC KELLER 76248",
-          "wins": 1,
-          "total_value": 3128702
-        },
-        {
-          "name": "TIME ON TARGET LLC MOUNT BETHEL 18343",
-          "wins": 1,
-          "total_value": 842694
+          "total_value": 151676770
         }
       ],
       "department": "VETERANS AFFAIRS, DEPARTMENT OF"
     },
     {
-      "total_records": 36,
-      "open_opportunities": 33,
-      "awarded": 3,
-      "win_rate_percent": 11.1,
-      "estimated_monthly_value": 6594717,
-      "average_award_value": 1648679,
-      "opportunities_with_attachments": 4,
-      "opportunities_with_keyword_matches": 7,
-      "top_awardees": [
-        {
-          "name": "ISN ALLIANCE LLC Washington DC 20007 USA",
-          "wins": 1,
-          "total_value": 5533804
-        },
-        {
-          "name": "THOMA-SEA MARINE CONSTRUCTORS, L.L.C. Houma LA 70363 USA",
-          "wins": 1,
-          "total_value": 1039651
-        },
-        {
-          "name": "AllClear Aerospace & Defense, Inc. Miramar FL 33027 USA",
-          "wins": 1,
-          "total_value": 21262
-        },
-        {
-          "name": "",
-          "wins": 1,
-          "total_value": 0
-        }
-      ],
-      "department": "HOMELAND SECURITY, DEPARTMENT OF"
-    },
-    {
-      "total_records": 18,
-      "open_opportunities": 17,
-      "awarded": 1,
-      "win_rate_percent": 5.6,
-      "estimated_monthly_value": 3504227,
-      "average_award_value": 3504227,
-      "opportunities_with_attachments": 3,
-      "opportunities_with_keyword_matches": 2,
-      "top_awardees": [
-        {
-          "name": "DDMC EVENT DESIGN Forest 1190 BEL",
-          "wins": 1,
-          "total_value": 3504227
-        }
-      ],
-      "department": "STATE, DEPARTMENT OF"
-    },
-    {
       "total_records": 10,
-      "open_opportunities": 9,
-      "awarded": 1,
-      "win_rate_percent": 10.0,
-      "estimated_monthly_value": 3352809,
-      "average_award_value": 3352809,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 6,
-      "top_awardees": [
-        {
-          "name": "S & K LOGISTICS SERVICES LLC 138 Peachtree Parkway Byron GA 31008 USA",
-          "wins": 1,
-          "total_value": 3352809
-        }
-      ],
-      "department": "ENERGY, DEPARTMENT OF"
-    },
-    {
-      "total_records": 37,
-      "open_opportunities": 31,
-      "awarded": 6,
-      "win_rate_percent": 16.2,
-      "estimated_monthly_value": 1964932,
-      "average_award_value": 327488,
-      "opportunities_with_attachments": 10,
-      "opportunities_with_keyword_matches": 7,
-      "top_awardees": [
-        {
-          "name": "TABEZA HOLDINGS, LLC McAllen TX 78504 USA",
-          "wins": 1,
-          "total_value": 1599500
-        },
-        {
-          "name": "DMT SOLUTIONS GLOBAL CORPORATION Danbury CT 06810 USA",
-          "wins": 1,
-          "total_value": 251312
-        },
-        {
-          "name": "TERRA TECH LLC Eugene OR 97402 USA",
-          "wins": 1,
-          "total_value": 36800
-        },
-        {
-          "name": "BRAVO, INC. Cape Coral FL 33990 USA",
-          "wins": 1,
-          "total_value": 35125
-        },
-        {
-          "name": "NORMONT EQUIPMENT CO. Great Falls MT 59404 USA",
-          "wins": 1,
-          "total_value": 24055
-        }
-      ],
-      "department": "AGRICULTURE, DEPARTMENT OF"
-    },
-    {
-      "total_records": 23,
-      "open_opportunities": 21,
-      "awarded": 2,
-      "win_rate_percent": 8.7,
-      "estimated_monthly_value": 168189,
-      "average_award_value": 84094,
+      "open_opportunities": 10,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
       "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 11,
-      "top_awardees": [
-        {
-          "name": "MENDEZ & CO INC Guaynabo PR 00969 USA",
-          "wins": 1,
-          "total_value": 104085
-        },
-        {
-          "name": "ADVANCED COMMODITIES, INC. Bartlett IL 60103 USA",
-          "wins": 1,
-          "total_value": 64104
-        }
-      ],
-      "department": "JUSTICE, DEPARTMENT OF"
+      "opportunities_with_keyword_matches": 1,
+      "top_awardees": [],
+      "department": "DEPT OF DEFENSE"
     },
     {
-      "total_records": 2,
-      "open_opportunities": 1,
-      "awarded": 1,
-      "win_rate_percent": 50.0,
-      "estimated_monthly_value": 50471,
-      "average_award_value": 50471,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [
-        {
-          "name": "EAST COAST WELDING & CONSTRUCTION CO INC Glen Burnie MD 21061 USA",
-          "wins": 1,
-          "total_value": 50471
-        }
-      ],
-      "department": "SOCIAL SECURITY ADMINISTRATION"
-    },
-    {
-      "total_records": 17,
-      "open_opportunities": 16,
-      "awarded": 1,
-      "win_rate_percent": 5.9,
-      "estimated_monthly_value": 39735,
-      "average_award_value": 39735,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 7,
-      "top_awardees": [
-        {
-          "name": "ISLA MARITIME CORP 6802 Commerce Ave Port Richey FL 34668 USA",
-          "wins": 1,
-          "total_value": 39735
-        }
-      ],
-      "department": "COMMERCE, DEPARTMENT OF"
-    },
-    {
-      "total_records": 28,
-      "open_opportunities": 28,
+      "total_records": 3,
+      "open_opportunities": 3,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 16,
+      "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
       "department": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF"
     },
     {
-      "total_records": 5,
-      "open_opportunities": 5,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 2,
-      "top_awardees": [],
-      "department": "TRANSPORTATION, DEPARTMENT OF"
-    },
-    {
-      "total_records": 4,
-      "open_opportunities": 4,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 4,
-      "top_awardees": [],
-      "department": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION"
-    },
-    {
-      "total_records": 4,
-      "open_opportunities": 4,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "TREASURY, DEPARTMENT OF THE"
-    },
-    {
-      "total_records": 3,
-      "open_opportunities": 3,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "SENATE, THE"
-    },
-    {
-      "total_records": 2,
-      "open_opportunities": 2,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "ENVIRONMENTAL PROTECTION AGENCY"
-    },
-    {
-      "total_records": 2,
-      "open_opportunities": 2,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "LABOR, DEPARTMENT OF"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 1,
-      "top_awardees": [],
-      "department": "HOUSING AND URBAN DEVELOPMENT, DEPARTMENT OF"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 1,
-      "top_awardees": [],
-      "department": "FEDERAL COMMUNICATIONS COMMISSION"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "COURT SERVICES AND OFFENDER SUPERVISION AGENCY"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 1,
-      "top_awardees": [],
-      "department": "POSTAL SERVICE"
-    },
-    {
       "total_records": 1,
       "open_opportunities": 1,
       "awarded": 0,
@@ -937,357 +109,39 @@
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "PEACE CORPS"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "FEDERAL DEPOSIT INSURANCE CORPORATION"
+      "department": "INTERIOR, DEPARTMENT OF THE"
     }
   ],
   "department_forecasts": {
     "DEPT OF DEFENSE": {
-      "total_records": 597,
-      "open_opportunities": 505,
-      "awarded": 92,
-      "win_rate_percent": 17.6,
-      "estimated_monthly_value": 296097728,
-      "average_award_value": 2819978,
-      "opportunities_with_attachments": 134,
-      "opportunities_with_keyword_matches": 231,
-      "top_awardees": [
-        {
-          "name": "Dragados S.A. ESP",
-          "wins": 1,
-          "total_value": 79974415
-        },
-        {
-          "name": "WOOLPERT, INC. Beavercreek OH 45430 USA",
-          "wins": 1,
-          "total_value": 49900000
-        },
-        {
-          "name": "KOONTZ ELECTRIC COMPANY, INCORPORATED Morrilton AR 72110 USA",
-          "wins": 1,
-          "total_value": 45430332
-        },
-        {
-          "name": "DAVID CLARK CO INC ",
-          "wins": 1,
-          "total_value": 34583229
-        },
-        {
-          "name": "MURDOCK WEBBING COMPANY, INC. ",
-          "wins": 1,
-          "total_value": 19426458
-        }
-      ]
+      "total_records": 10,
+      "open_opportunities": 10,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 1,
+      "top_awardees": []
     },
     "VETERANS AFFAIRS, DEPARTMENT OF": {
-      "total_records": 129,
-      "open_opportunities": 111,
-      "awarded": 18,
-      "win_rate_percent": 15.5,
-      "estimated_monthly_value": 25233774,
-      "average_award_value": 1261688,
-      "opportunities_with_attachments": 8,
-      "opportunities_with_keyword_matches": 25,
-      "top_awardees": [
-        {
-          "name": "ONEBLOOD, INC ORLANDO 32819 FLK",
-          "wins": 2,
-          "total_value": 16227581
-        },
-        {
-          "name": "ONEBLOOD, INC ORLANDO 32819 FLK",
-          "wins": 2,
-          "total_value": 16227581
-        },
-        {
-          "name": "KNS DEVELOPMENT CORPORATION SARASOTA 34232",
-          "wins": 1,
-          "total_value": 3401301
-        },
-        {
-          "name": "WICHITA FALLS TRI-TECH, LLC KELLER 76248",
-          "wins": 1,
-          "total_value": 3128702
-        },
-        {
-          "name": "TIME ON TARGET LLC MOUNT BETHEL 18343",
-          "wins": 1,
-          "total_value": 842694
-        }
-      ]
-    },
-    "INTERIOR, DEPARTMENT OF THE": {
-      "total_records": 55,
-      "open_opportunities": 36,
-      "awarded": 19,
-      "win_rate_percent": 34.5,
-      "estimated_monthly_value": 411113928,
-      "average_award_value": 21637575,
+      "total_records": 4,
+      "open_opportunities": 3,
+      "awarded": 1,
+      "win_rate_percent": 25.0,
+      "estimated_monthly_value": 151676770,
+      "average_award_value": 151676770,
       "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 2,
+      "opportunities_with_keyword_matches": 1,
       "top_awardees": [
         {
-          "name": "VANASSE HANGEN BRUSTLIN, INC. 101 WALNUT ST Watertown MA 02472 USA",
+          "name": "ROCHE DIABETES CARE INC INDIANAPOLIS 46256-1025",
           "wins": 1,
-          "total_value": 400030000
-        },
-        {
-          "name": "MCMILLEN, INC. 1471 SHORELINE DR Boise ID 83702 USA",
-          "wins": 1,
-          "total_value": 7161200
-        },
-        {
-          "name": "GRUNLEY CONSTRUCTION CO., INC. 15020 SHADY GROVE RD STE 500 Rockville MD 20850 USA",
-          "wins": 1,
-          "total_value": 2728000
-        },
-        {
-          "name": "Federal Prison Industries, Inc 3301 LEESTOWN RD Lexington KY 40511 USA",
-          "wins": 1,
-          "total_value": 305205
-        },
-        {
-          "name": "INNOVASEA MARINE SYSTEMS CANADA INC 20 ANGUS MORTON DR BEDFORD NS B4B 0 CAN",
-          "wins": 1,
-          "total_value": 269302
-        }
-      ]
-    },
-    "AGRICULTURE, DEPARTMENT OF": {
-      "total_records": 37,
-      "open_opportunities": 31,
-      "awarded": 6,
-      "win_rate_percent": 16.2,
-      "estimated_monthly_value": 1964932,
-      "average_award_value": 327488,
-      "opportunities_with_attachments": 10,
-      "opportunities_with_keyword_matches": 7,
-      "top_awardees": [
-        {
-          "name": "TABEZA HOLDINGS, LLC McAllen TX 78504 USA",
-          "wins": 1,
-          "total_value": 1599500
-        },
-        {
-          "name": "DMT SOLUTIONS GLOBAL CORPORATION Danbury CT 06810 USA",
-          "wins": 1,
-          "total_value": 251312
-        },
-        {
-          "name": "TERRA TECH LLC Eugene OR 97402 USA",
-          "wins": 1,
-          "total_value": 36800
-        },
-        {
-          "name": "BRAVO, INC. Cape Coral FL 33990 USA",
-          "wins": 1,
-          "total_value": 35125
-        },
-        {
-          "name": "NORMONT EQUIPMENT CO. Great Falls MT 59404 USA",
-          "wins": 1,
-          "total_value": 24055
-        }
-      ]
-    },
-    "HOMELAND SECURITY, DEPARTMENT OF": {
-      "total_records": 36,
-      "open_opportunities": 33,
-      "awarded": 3,
-      "win_rate_percent": 11.1,
-      "estimated_monthly_value": 6594717,
-      "average_award_value": 1648679,
-      "opportunities_with_attachments": 4,
-      "opportunities_with_keyword_matches": 7,
-      "top_awardees": [
-        {
-          "name": "ISN ALLIANCE LLC Washington DC 20007 USA",
-          "wins": 1,
-          "total_value": 5533804
-        },
-        {
-          "name": "THOMA-SEA MARINE CONSTRUCTORS, L.L.C. Houma LA 70363 USA",
-          "wins": 1,
-          "total_value": 1039651
-        },
-        {
-          "name": "AllClear Aerospace & Defense, Inc. Miramar FL 33027 USA",
-          "wins": 1,
-          "total_value": 21262
-        },
-        {
-          "name": "",
-          "wins": 1,
-          "total_value": 0
+          "total_value": 151676770
         }
       ]
     },
     "HEALTH AND HUMAN SERVICES, DEPARTMENT OF": {
-      "total_records": 28,
-      "open_opportunities": 28,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 16,
-      "top_awardees": []
-    },
-    "JUSTICE, DEPARTMENT OF": {
-      "total_records": 23,
-      "open_opportunities": 21,
-      "awarded": 2,
-      "win_rate_percent": 8.7,
-      "estimated_monthly_value": 168189,
-      "average_award_value": 84094,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 11,
-      "top_awardees": [
-        {
-          "name": "MENDEZ & CO INC Guaynabo PR 00969 USA",
-          "wins": 1,
-          "total_value": 104085
-        },
-        {
-          "name": "ADVANCED COMMODITIES, INC. Bartlett IL 60103 USA",
-          "wins": 1,
-          "total_value": 64104
-        }
-      ]
-    },
-    "STATE, DEPARTMENT OF": {
-      "total_records": 18,
-      "open_opportunities": 17,
-      "awarded": 1,
-      "win_rate_percent": 5.6,
-      "estimated_monthly_value": 3504227,
-      "average_award_value": 3504227,
-      "opportunities_with_attachments": 3,
-      "opportunities_with_keyword_matches": 2,
-      "top_awardees": [
-        {
-          "name": "DDMC EVENT DESIGN Forest 1190 BEL",
-          "wins": 1,
-          "total_value": 3504227
-        }
-      ]
-    },
-    "COMMERCE, DEPARTMENT OF": {
-      "total_records": 17,
-      "open_opportunities": 16,
-      "awarded": 1,
-      "win_rate_percent": 5.9,
-      "estimated_monthly_value": 39735,
-      "average_award_value": 39735,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 7,
-      "top_awardees": [
-        {
-          "name": "ISLA MARITIME CORP 6802 Commerce Ave Port Richey FL 34668 USA",
-          "wins": 1,
-          "total_value": 39735
-        }
-      ]
-    },
-    "ENERGY, DEPARTMENT OF": {
-      "total_records": 10,
-      "open_opportunities": 9,
-      "awarded": 1,
-      "win_rate_percent": 10.0,
-      "estimated_monthly_value": 3352809,
-      "average_award_value": 3352809,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 6,
-      "top_awardees": [
-        {
-          "name": "S & K LOGISTICS SERVICES LLC 138 Peachtree Parkway Byron GA 31008 USA",
-          "wins": 1,
-          "total_value": 3352809
-        }
-      ]
-    },
-    "GENERAL SERVICES ADMINISTRATION": {
-      "total_records": 10,
-      "open_opportunities": 6,
-      "awarded": 4,
-      "win_rate_percent": 50.0,
-      "estimated_monthly_value": 74899943,
-      "average_award_value": 14979988,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 1,
-      "top_awardees": [
-        {
-          "name": "OMICRONVIS LLC DIEGO 92120-3906 USA",
-          "wins": 1,
-          "total_value": 70000000
-        },
-        {
-          "name": "800 BRIDGECAM, LLC New York NY 10022 USA",
-          "wins": 1,
-          "total_value": 2548539
-        },
-        {
-          "name": "Kevin Murray LLC Murrells Inlet SC 29576 USA",
-          "wins": 1,
-          "total_value": 1951404
-        },
-        {
-          "name": "HSM OF AMERICA LLC DOWNINGTOWN 19335-3043 USA",
-          "wins": 1,
-          "total_value": 400000
-        },
-        {
-          "name": "",
-          "wins": 1,
-          "total_value": 0
-        }
-      ]
-    },
-    "TRANSPORTATION, DEPARTMENT OF": {
-      "total_records": 5,
-      "open_opportunities": 5,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 2,
-      "top_awardees": []
-    },
-    "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION": {
-      "total_records": 4,
-      "open_opportunities": 4,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 4,
-      "top_awardees": []
-    },
-    "TREASURY, DEPARTMENT OF THE": {
-      "total_records": 4,
-      "open_opportunities": 4,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": []
-    },
-    "SENATE, THE": {
       "total_records": 3,
       "open_opportunities": 3,
       "awarded": 0,
@@ -1298,101 +152,7 @@
       "opportunities_with_keyword_matches": 0,
       "top_awardees": []
     },
-    "ENVIRONMENTAL PROTECTION AGENCY": {
-      "total_records": 2,
-      "open_opportunities": 2,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": []
-    },
-    "LABOR, DEPARTMENT OF": {
-      "total_records": 2,
-      "open_opportunities": 2,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": []
-    },
-    "SOCIAL SECURITY ADMINISTRATION": {
-      "total_records": 2,
-      "open_opportunities": 1,
-      "awarded": 1,
-      "win_rate_percent": 50.0,
-      "estimated_monthly_value": 50471,
-      "average_award_value": 50471,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [
-        {
-          "name": "EAST COAST WELDING & CONSTRUCTION CO INC Glen Burnie MD 21061 USA",
-          "wins": 1,
-          "total_value": 50471
-        }
-      ]
-    },
-    "HOUSING AND URBAN DEVELOPMENT, DEPARTMENT OF": {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 1,
-      "top_awardees": []
-    },
-    "FEDERAL COMMUNICATIONS COMMISSION": {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 1,
-      "top_awardees": []
-    },
-    "COURT SERVICES AND OFFENDER SUPERVISION AGENCY": {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": []
-    },
-    "POSTAL SERVICE": {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 1,
-      "top_awardees": []
-    },
-    "PEACE CORPS": {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": []
-    },
-    "FEDERAL DEPOSIT INSURANCE CORPORATION": {
+    "INTERIOR, DEPARTMENT OF THE": {
       "total_records": 1,
       "open_opportunities": 1,
       "awarded": 0,
