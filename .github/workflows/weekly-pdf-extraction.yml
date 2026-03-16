@@ -77,13 +77,13 @@ jobs:
 
       - name: Commit and push if changed
         run: |
-          if [[ -z "$(git status --porcelain -- data/ContractOpportunitiesFullCSV.csv data/today docs/data docs/opportunities data/opportunities.sqlite)" ]]; then
+          if [[ -z "$(git status --porcelain -- data/today docs/data docs/opportunities data/opportunities.sqlite)" ]]; then
             echo "No changes to commit."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/ContractOpportunitiesFullCSV.csv data/today docs/data docs/opportunities data/opportunities.sqlite
-          git commit -m "chore: weekly PDF extraction and CSV refresh ($(date -u +%F))"
+          git add data/today docs/data docs/opportunities data/opportunities.sqlite
+          git commit -m "chore: weekly PDF extraction refresh ($(date -u +%F))"
           git push
