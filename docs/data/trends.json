@@ -11,7 +11,8 @@
     "2026-03-11",
     "2026-03-12",
     "2026-03-13",
-    "2026-03-14"
+    "2026-03-14",
+    "2026-03-15"
   ],
   "agencies": {
     "DEPT OF DEFENSE": [
@@ -86,6 +87,12 @@
         "count": 10,
         "wins": 0,
         "opportunities": 10
+      },
+      {
+        "date": "2026-03-15",
+        "count": 183,
+        "wins": 1,
+        "opportunities": 182
       }
     ],
     "HEALTH AND HUMAN SERVICES, DEPARTMENT OF": [
@@ -154,77 +161,71 @@
         "count": 3,
         "wins": 0,
         "opportunities": 3
-      }
-    ],
-    "INTERIOR, DEPARTMENT OF THE": [
-      {
-        "date": "2026-03-03",
-        "count": 74,
-        "wins": 29,
-        "opportunities": 45
       },
       {
-        "date": "2026-03-04",
-        "count": 56,
-        "wins": 19,
-        "opportunities": 37
-      },
-      {
-        "date": "2026-03-05",
-        "count": 68,
-        "wins": 12,
-        "opportunities": 56
-      },
-      {
-        "date": "2026-03-06",
-        "count": 55,
-        "wins": 11,
-        "opportunities": 44
-      },
-      {
-        "date": "2026-03-07",
-        "count": 3,
-        "wins": 1,
-        "opportunities": 2
-      },
-      {
-        "date": "2026-03-08",
+        "date": "2026-03-15",
         "count": 1,
         "wins": 0,
         "opportunities": 1
+      }
+    ],
+    "TRANSPORTATION, DEPARTMENT OF": [
+      {
+        "date": "2026-03-03",
+        "count": 8,
+        "wins": 0,
+        "opportunities": 8
+      },
+      {
+        "date": "2026-03-04",
+        "count": 8,
+        "wins": 0,
+        "opportunities": 8
+      },
+      {
+        "date": "2026-03-05",
+        "count": 12,
+        "wins": 2,
+        "opportunities": 10
+      },
+      {
+        "date": "2026-03-06",
+        "count": 14,
+        "wins": 0,
+        "opportunities": 14
       },
       {
         "date": "2026-03-09",
-        "count": 51,
-        "wins": 16,
-        "opportunities": 35
+        "count": 11,
+        "wins": 1,
+        "opportunities": 10
       },
       {
         "date": "2026-03-10",
-        "count": 75,
-        "wins": 30,
-        "opportunities": 45
+        "count": 11,
+        "wins": 1,
+        "opportunities": 10
       },
       {
         "date": "2026-03-11",
-        "count": 70,
-        "wins": 17,
-        "opportunities": 53
+        "count": 14,
+        "wins": 0,
+        "opportunities": 14
       },
       {
         "date": "2026-03-12",
-        "count": 71,
-        "wins": 27,
-        "opportunities": 44
+        "count": 9,
+        "wins": 1,
+        "opportunities": 8
       },
       {
         "date": "2026-03-13",
-        "count": 55,
-        "wins": 19,
-        "opportunities": 36
+        "count": 5,
+        "wins": 0,
+        "opportunities": 5
       },
       {
-        "date": "2026-03-14",
+        "date": "2026-03-15",
         "count": 1,
         "wins": 0,
         "opportunities": 1
@@ -302,6 +303,86 @@
         "count": 4,
         "wins": 1,
         "opportunities": 3
+      },
+      {
+        "date": "2026-03-15",
+        "count": 5,
+        "wins": 0,
+        "opportunities": 5
+      }
+    ],
+    "INTERIOR, DEPARTMENT OF THE": [
+      {
+        "date": "2026-03-03",
+        "count": 74,
+        "wins": 29,
+        "opportunities": 45
+      },
+      {
+        "date": "2026-03-04",
+        "count": 56,
+        "wins": 19,
+        "opportunities": 37
+      },
+      {
+        "date": "2026-03-05",
+        "count": 68,
+        "wins": 12,
+        "opportunities": 56
+      },
+      {
+        "date": "2026-03-06",
+        "count": 55,
+        "wins": 11,
+        "opportunities": 44
+      },
+      {
+        "date": "2026-03-07",
+        "count": 3,
+        "wins": 1,
+        "opportunities": 2
+      },
+      {
+        "date": "2026-03-08",
+        "count": 1,
+        "wins": 0,
+        "opportunities": 1
+      },
+      {
+        "date": "2026-03-09",
+        "count": 51,
+        "wins": 16,
+        "opportunities": 35
+      },
+      {
+        "date": "2026-03-10",
+        "count": 75,
+        "wins": 30,
+        "opportunities": 45
+      },
+      {
+        "date": "2026-03-11",
+        "count": 70,
+        "wins": 17,
+        "opportunities": 53
+      },
+      {
+        "date": "2026-03-12",
+        "count": 71,
+        "wins": 27,
+        "opportunities": 44
+      },
+      {
+        "date": "2026-03-13",
+        "count": 55,
+        "wins": 19,
+        "opportunities": 36
+      },
+      {
+        "date": "2026-03-14",
+        "count": 1,
+        "wins": 0,
+        "opportunities": 1
       }
     ],
     "AGRICULTURE, DEPARTMENT OF": [
@@ -1048,62 +1129,6 @@
         "opportunities": 17
       }
     ],
-    "TRANSPORTATION, DEPARTMENT OF": [
-      {
-        "date": "2026-03-03",
-        "count": 8,
-        "wins": 0,
-        "opportunities": 8
-      },
-      {
-        "date": "2026-03-04",
-        "count": 8,
-        "wins": 0,
-        "opportunities": 8
-      },
-      {
-        "date": "2026-03-05",
-        "count": 12,
-        "wins": 2,
-        "opportunities": 10
-      },
-      {
-        "date": "2026-03-06",
-        "count": 14,
-        "wins": 0,
-        "opportunities": 14
-      },
-      {
-        "date": "2026-03-09",
-        "count": 11,
-        "wins": 1,
-        "opportunities": 10
-      },
-      {
-        "date": "2026-03-10",
-        "count": 11,
-        "wins": 1,
-        "opportunities": 10
-      },
-      {
-        "date": "2026-03-11",
-        "count": 14,
-        "wins": 0,
-        "opportunities": 14
-      },
-      {
-        "date": "2026-03-12",
-        "count": 9,
-        "wins": 1,
-        "opportunities": 8
-      },
-      {
-        "date": "2026-03-13",
-        "count": 5,
-        "wins": 0,
-        "opportunities": 5
-      }
-    ],
     "TREASURY, DEPARTMENT OF THE": [
       {
         "date": "2026-03-03",
@@ -1506,17 +1531,17 @@
   "top_agencies": [
     {
       "agency": "DEPT OF DEFENSE",
-      "total": 9978,
-      "wins": 1881,
-      "opportunities": 8097,
-      "days_seen": 12
+      "total": 10161,
+      "wins": 1882,
+      "opportunities": 8279,
+      "days_seen": 13
     },
     {
       "agency": "VETERANS AFFAIRS, DEPARTMENT OF",
-      "total": 1308,
+      "total": 1313,
       "wins": 184,
-      "opportunities": 1124,
-      "days_seen": 12
+      "opportunities": 1129,
+      "days_seen": 13
     },
     {
       "agency": "INTERIOR, DEPARTMENT OF THE",
@@ -1541,10 +1566,10 @@
     },
     {
       "agency": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
-      "total": 268,
+      "total": 269,
       "wins": 20,
-      "opportunities": 248,
-      "days_seen": 11
+      "opportunities": 249,
+      "days_seen": 12
     },
     {
       "agency": "JUSTICE, DEPARTMENT OF",
@@ -1583,10 +1608,10 @@
     },
     {
       "agency": "TRANSPORTATION, DEPARTMENT OF",
-      "total": 92,
+      "total": 93,
       "wins": 5,
-      "opportunities": 87,
-      "days_seen": 9
+      "opportunities": 88,
+      "days_seen": 10
     },
     {
       "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
@@ -1611,6 +1636,12 @@
     }
   ],
   "daily_totals": [
+    {
+      "date": "2026-03-15",
+      "total": 190,
+      "opportunities": 189,
+      "wins": 1
+    },
     {
       "date": "2026-03-14",
       "total": 18,

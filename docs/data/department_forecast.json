@@ -1,44 +1,44 @@
 {
-  "forecast_date": "2026-03-14",
+  "forecast_date": "2026-03-15",
   "departments_by_opportunity_volume": [
     {
-      "total_records": 10,
-      "open_opportunities": 10,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
+      "total_records": 183,
+      "open_opportunities": 182,
+      "awarded": 1,
+      "win_rate_percent": 0.5,
+      "estimated_monthly_value": 5602350,
+      "average_award_value": 5602350,
       "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 1,
-      "top_awardees": [],
+      "opportunities_with_keyword_matches": 170,
+      "top_awardees": [
+        {
+          "name": "MOTOROLA SOLUTIONS, INC. Linthicum Heights MD 21090 USA",
+          "wins": 1,
+          "total_value": 5602350
+        }
+      ],
       "department": "DEPT OF DEFENSE"
     },
     {
-      "total_records": 4,
-      "open_opportunities": 3,
-      "awarded": 1,
-      "win_rate_percent": 25.0,
-      "estimated_monthly_value": 151676770,
-      "average_award_value": 151676770,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 1,
-      "top_awardees": [
-        {
-          "name": "ROCHE DIABETES CARE INC INDIANAPOLIS 46256-1025",
-          "wins": 1,
-          "total_value": 151676770
-        }
-      ],
-      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
-    },
-    {
-      "total_records": 3,
-      "open_opportunities": 3,
+      "total_records": 5,
+      "open_opportunities": 5,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 1,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
       "department": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF"
@@ -50,51 +50,51 @@
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
-      "opportunities_with_attachments": 0,
+      "opportunities_with_attachments": 1,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "INTERIOR, DEPARTMENT OF THE"
+      "department": "TRANSPORTATION, DEPARTMENT OF"
     }
   ],
   "departments_by_award_value": [
     {
-      "total_records": 4,
-      "open_opportunities": 3,
+      "total_records": 183,
+      "open_opportunities": 182,
       "awarded": 1,
-      "win_rate_percent": 25.0,
-      "estimated_monthly_value": 151676770,
-      "average_award_value": 151676770,
+      "win_rate_percent": 0.5,
+      "estimated_monthly_value": 5602350,
+      "average_award_value": 5602350,
       "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 1,
+      "opportunities_with_keyword_matches": 170,
       "top_awardees": [
         {
-          "name": "ROCHE DIABETES CARE INC INDIANAPOLIS 46256-1025",
+          "name": "MOTOROLA SOLUTIONS, INC. Linthicum Heights MD 21090 USA",
           "wins": 1,
-          "total_value": 151676770
+          "total_value": 5602350
         }
       ],
-      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
-    },
-    {
-      "total_records": 10,
-      "open_opportunities": 10,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 1,
-      "top_awardees": [],
       "department": "DEPT OF DEFENSE"
     },
     {
-      "total_records": 3,
-      "open_opportunities": 3,
+      "total_records": 5,
+      "open_opportunities": 5,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 1,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
       "department": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF"
@@ -106,44 +106,33 @@
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
-      "opportunities_with_attachments": 0,
+      "opportunities_with_attachments": 1,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "INTERIOR, DEPARTMENT OF THE"
+      "department": "TRANSPORTATION, DEPARTMENT OF"
     }
   ],
   "department_forecasts": {
     "DEPT OF DEFENSE": {
-      "total_records": 10,
-      "open_opportunities": 10,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 1,
-      "top_awardees": []
-    },
-    "VETERANS AFFAIRS, DEPARTMENT OF": {
-      "total_records": 4,
-      "open_opportunities": 3,
+      "total_records": 183,
+      "open_opportunities": 182,
       "awarded": 1,
-      "win_rate_percent": 25.0,
-      "estimated_monthly_value": 151676770,
-      "average_award_value": 151676770,
+      "win_rate_percent": 0.5,
+      "estimated_monthly_value": 5602350,
+      "average_award_value": 5602350,
       "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 1,
+      "opportunities_with_keyword_matches": 170,
       "top_awardees": [
         {
-          "name": "ROCHE DIABETES CARE INC INDIANAPOLIS 46256-1025",
+          "name": "MOTOROLA SOLUTIONS, INC. Linthicum Heights MD 21090 USA",
           "wins": 1,
-          "total_value": 151676770
+          "total_value": 5602350
         }
       ]
     },
-    "HEALTH AND HUMAN SERVICES, DEPARTMENT OF": {
-      "total_records": 3,
-      "open_opportunities": 3,
+    "VETERANS AFFAIRS, DEPARTMENT OF": {
+      "total_records": 5,
+      "open_opportunities": 5,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
@@ -152,14 +141,25 @@
       "opportunities_with_keyword_matches": 0,
       "top_awardees": []
     },
-    "INTERIOR, DEPARTMENT OF THE": {
+    "HEALTH AND HUMAN SERVICES, DEPARTMENT OF": {
       "total_records": 1,
       "open_opportunities": 1,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
-      "opportunities_with_attachments": 0,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": []
+    },
+    "TRANSPORTATION, DEPARTMENT OF": {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 1,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": []
     }

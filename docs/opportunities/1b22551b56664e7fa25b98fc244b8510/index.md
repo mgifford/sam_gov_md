@@ -1,0 +1,32 @@
+---
+layout: default
+title: NBG Chapel Protestant Director of Religious Education
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 1b22551b56664e7fa25b98fc244b8510
+---
+
+# NBG Chapel Protestant Director of Religious Education
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-03-15 21:48:56.098-04
+- Solicitation Number: N6264926QH008
+
+## Summary
+
+16 March 2026: Amendment 001 See attached Solicitation Amendment N6264926QH0080001 SF 30. The purpose of this amendment is to update the Performance Work Statement (PWS) and extend the due date and time of offers to March 20, 2026 3:00 PM JST. Changes to the PWS have been highlighed in yellow for easy viewing. ***Offerors must acknowledge receipt of this amendment in accodance with Block 11 of the SF 30.*** ***Any previously submitted quotes must be resubmitted after the posting of this amendment in order to be considered for award.*** 16 March 2026: Provided below are the government's responses to questions received: 1. How many estimated hours are anticipated for “seasons of high activity” assignment – Easter, Christmas, Vacation Bible School, etc)? Answer: Estimated 25 hours for weeks of Easter and Christmas. Estimated 30-40 hours for the week of Vacation Bible School. These increased hours are included, not in addition to, the 1100-hour NTE total. 1a. At what rate will the government pay for those additional hours? Answer: This is a firm-fixed-price contract and the government does not set the rates. 1b. How will the payment be processed? Answer: Refer to clause 252.232-7006 in the solicitation. 2. Is reimbursement available for mileage to locations off base? Answer: No. This is not a cost-reimbursable contract. 3. Are additional funds available for awards, recognition for volunteers, flyers, bulletins, chapel, and reports? Answer: No. This is a firm-fixed-price contract. 4. Is software available to screen volunteers? Answer: Yes, we have software programs to do the screening. 5. What are the non-negotiable days that the DRE is expected to be available at the work location? Answer: The workdays throughout the week are flexible, but the expectation is that the DRE will be available at the worksite on Sundays to oversee the program. This has been addressed in the revised PWS. See Amendment 001. 6. Will any curriculum materials be Government-furnished? Answer: Yes. 7. Will any instructional supplies be Government-furnished? Answer: Yes. 8. Will software subscriptions required for performance be Government-furnished? Answer: Yes. 9. If the contractor is responsible for obtaining curriculum or educational materials, will a Government-funded Religious Program account or chapel budget be available for these purchases? Answer: The Chapel can use both government funds and make authorized purchases through the Religious Offering fund (tithes and offerings from the Protestant Community). The contractor will not be expected, asked, or required to pay for the material through personal expenses. 10. What curriculum or denominational guidance is used for RE programs? Answer: The Protestant community currently uses material from D6 Family Ministries and The Biggest Story Curriculum from Crossway. I am amenable to other options, but the curriculum must represent orthodox Christian doctrines/teaching. We currently have curriculum we are using for our classes and we would not be looking to purchase new curriculum until it is completed. 11. Will the Government provide storage space at the chapel for the Director of Religious Education to store program materials? Answer: Yes, we have storage space available. 12. Will the Government provide office space at the chapel for the Director of Religious Education to perform administrative duties? Answer: We have office spaces the DRE can use when the contractor is on site. 13. Will a Government-furnished computer be provided to support the execution of contract duties? Answer: Yes, we will provide a government computer. This has been addressed in the revised PWS. See Amendment 001. 14. If a Government-furnished computer is provided to support the execution of contract duties, will it include a Microsoft Office subscription? Answer: Yes, Microsoft Office will be available to use. 15. Will a Government-furnished printer be provided to support the execution of contract duties? Answer: Yes, a government printer will be provided. This has been addressed in the revised PWS. See Amendment 001. 16. Will a Government-furnished phone be provided to support the execution of contract duties? Answer: The contractor will not receive a personal government phone; however, we have many government landlines the contractor can use when on site. 17. Will Government-furnished internet access be provided to support the execution of contract duties? Answer: Yes, we have Wifi access and internet services through the government computers. NAVSUP FLC Yokosuka Site Marianas has a requirement for a contractor to provide all necessary personnel and services to perform Protestant Director of Religious Education Services in support of the Naval Base Guam Chapel. This acquisition is a 100% Total Small Business Set-Aside. The applicable NAICS code is 813110; Small Business size standard is $13.0 in millions of dollars. There are no additional contract requirement(s) or terms and conditions other than those included in this notice including all referenced provisions, clauses, and attachments. Please ensure to review all submission instructions in the solicitation. This announcement, quote submission and closure is by 3:00pm Japan Standard Time on 18 March 2026. Submissions shall be submitted via email to the Contract Specialists identified in the Contact Information. Questions are due five (5) days prior to RFQ due date and must be submitted in writing via email. The Government reserves the right not to respond to any questions received after that due date. Accordingly, offerors are encouraged to review all solicitation requirements and submit questions to the Government as early as possible.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Jason Q. Perez
+  - Email: jason.q.perez.civ@us.navy.mil
+  - Phone: 16713395526
+- Secondary Contact:
+  - Name: Cynthia Cruz
+  - Email: cynthia.r.cruz2.civ@us.navy.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1b22551b56664e7fa25b98fc244b8510/view)

@@ -1,8 +1,8 @@
 {
-  "requested_date": "2026-03-15",
-  "effective_date": "2026-03-14",
-  "records_total": 18,
-  "high_value_count": 0,
+  "requested_date": "2026-03-16",
+  "effective_date": "2026-03-15",
+  "records_total": 190,
+  "high_value_count": 2,
   "min_hits": 8,
   "focus_terms": [
     "Content Management System",
@@ -22,5 +22,40 @@
     "wcag",
     "web"
   ],
-  "matches": []
+  "matches": [
+    {
+      "NoticeId": "ed2cc960afef4144941d56ae8c39e7ff",
+      "Sol#": "SPE4A526T9990",
+      "Title": "47--TUBE ASSEMBLY,METAL",
+      "Type": "Combined Synopsis/Solicitation",
+      "PostedDate": "2026-03-15 06:47:41.839-04",
+      "Agency": "DEPT OF DEFENSE",
+      "Link": "https://sam.gov/workspace/contract/opp/ed2cc960afef4144941d56ae8c39e7ff/view",
+      "matches": [
+        {
+          "term": "ui",
+          "category": "design",
+          "count": 9
+        }
+      ],
+      "total_hits": 9
+    },
+    {
+      "NoticeId": "813ef2a133e3416a9dd73ecccc54a302",
+      "Sol#": "SPE4A526T9988",
+      "Title": "47--STRAINER ELEMENT,SE",
+      "Type": "Combined Synopsis/Solicitation",
+      "PostedDate": "2026-03-15 06:43:20.558-04",
+      "Agency": "DEPT OF DEFENSE",
+      "Link": "https://sam.gov/workspace/contract/opp/813ef2a133e3416a9dd73ecccc54a302/view",
+      "matches": [
+        {
+          "term": "ui",
+          "category": "design",
+          "count": 8
+        }
+      ],
+      "total_hits": 8
+    }
+  ]
 }
