@@ -1,0 +1,29 @@
+---
+layout: default
+title: MANATEE HARBOR (O and M) WEIR REPAIR, MANATEE COUNTY, FLORIDA
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 60dbe33b0db2483cba9145dd2deecdf6
+---
+
+# MANATEE HARBOR (O and M) WEIR REPAIR, MANATEE COUNTY, FLORIDA
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-03-16 15:53:41.088-04
+- Solicitation Number: W912EP26X1BDQ
+
+## Summary
+
+This is announcement constitutes a Source Sought. This announcement seeks information from industry and will only be used for preliminary planning purposes. THIS IS NOT A SOLICITATION FOR PROPOSALS AND NO CONTRACT SHALL BE AWARDED FROM THIS SOURCES SOUGHT. Respondents will not be notified of the results of the evaluation. The Jacksonville District of the U.S. Army Corps of Engineers is seeking interest from prospective offers for a potential fiscal year (FY) 2026 award of the aforementioned project. The purpose of this sources sought is to gauge interest, capabilities, and qualifications of various members of the Construction Community, to include Small Businesses, as the Government must ensure there is adequate competition amongst the potential pool of responsible contractors. The Jacksonville District anticipates the issuance of a Lowest Price Technically Acceptable (LPTA). No reimbursement will be made for any costs associated with providing information in response to said sources sought or any follow-up information requested.DESCRIPTION OF WORK:The project consists of maintenance and improvement measures to the Manatee Harbor Dredged Material Management Area (DMMA), including the construction of a new set of weirs at the north-east corner of the DMMA and maintenance to the east and south segments of the existing perimeter ditch. The new set of weirs consists of two concrete box weir structures, including associated concrete shallow foundations, high-density polyethylene (HDPE) discharge pipes, retaining headwall/endwalls, outfall area, fiber-reinforced polymer (FRP) weir boards, flap gates, aluminum gangway, and aluminum floating dock. Associated work includes removal of the existing embankment in the vicinity of the new weirs; reconstruction of the embankment; excavating the existing plug on the south portion of the perimeter ditch to reconnect it with the outfall area of the existing east weir set; and plugging the north-east corner of the perimeter ditch, north of the new weir structure, to provide access to the exterior of the DMMA for Operation and Maintenance (O and M).The perimeter ditch requires clearing and grubbing; and de-mucking, reshaping, and regrading the ditch to a uniform cross section. Establishing of grass will be required on all the disturbed areas of the embankment and the perimeter ditch.The Estimated Magnitude of construction is between $5,000,000.00 and $10,000,000.00The project will have an estimated period of performance of 270 calendar days after receiving notice to proceed.The applicable North American Industry Classification System (NAICS) code assigned to this procurement is 237990, Dredging and Surface Cleanup Activities. The Small Business Size Standard for this project is $37.0 million. Anticipated solicitation issuance date is on or about 11 June 2026 and the anticipated response due date is on or about 13 July 2026. The Synopsis citing the solicitation number will be issued on the SAM Contracting Opportunities Website: at https://.sam.gov/. Responses to this Sources Sought shall be limited to 5 pages and shall include the following information:1. Company/Contractor name, address, point of contact, phone number and e-mail address.2. Company?s interest in submitting a proposal.3. Company?s capability to perform a contract of this magnitude and complexity (include company?s capability to execute comparable work performed within the past 10 years). Company should provide at least 3 examples which, at a minimum, include the following: a. Brief description of the project b. Customer namec. Customer satisfactiond. Timeliness of performancee. Dollar value of the completed projects 4. Offeror shall identify their Small Business classification and Small Business Size _ Small Business_ Small Disadvantage Business_ 8(a) Small Business_ HUB Zone_ SDVOSB _ WOSB5. If significant subcontracting or teaming is anticipated in order to deliver technical capability, firms should address the structure of such arrangement include Joint Venture information, if applicable ? existing and potential. 6. Bonding Capacity (construction bonding level per contract and aggregate construction bonding level, both expressed in dollars) via letter from the bonding company. NOTES: DO NOT SUBMIT A RESPONSE TO THIS SOURCES SOUGHT IF YOU DO NOT INTEND TO SUBMIT A PROPOSAL.DO NOT SUBMIT PROPRIETARY AND/OR BUSINESS CONFIDENITAL DATA.Submission Instructions:Interested parties who consider themselves qualified to perform the work associated with the subject requirement, are invited to submit a response to this Sources Sought Notice no later than 15 April 2026 at 3:00 PM, (EDT). All responses under this Sources Sought Notice shall be sent to Ms. Guesley Leger, via email at guesley.leger@usace.army.mil and Ms. Ruth Rodriguez at ruth.c.rodriguez@usace.army.mil.Prior Government contract work is not required for submitting a response under this sources sought synopsis. You must be registered in the System for Award Management (SAM), in order to be eligible to receive an award from any Government solicitation. To register, go to www.sam.gov. For additional information visit the website for the Federal Service Desk (www.FSD.gov) which supports SAM or contact them at 866-606-8220 for assistance.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Guesley Leger
+  - Email: guesley.leger@usace.army.mil
+  - Phone: 9042323850
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/60dbe33b0db2483cba9145dd2deecdf6/view)

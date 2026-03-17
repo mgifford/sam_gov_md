@@ -1,0 +1,28 @@
+---
+layout: default
+title: 59--ANTENNA
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 4edcbfb1233f4452b6a9d3bb8584d781
+---
+
+# 59--ANTENNA
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-03-16 09:26:51.532-04
+- Solicitation Number: SPE7M026Q0503
+
+## Summary
+
+Proposed procurement for NSN 5985014339480 ANTENNA: Line 0001 Qty 59 UI EA Deliver To: DLA DISTRIBUTION WARNER ROBINS By: 0665 DAYS ADO Approved sources are 0BFA5 LG81CE01; 74703 LG81CE01. The solicitation is an RFQ and will be available at the link provided in this notice. Hard copies of this solicitation are not available. Specifications, plans, or drawings are not available. All responsible sources may submit a quote which, if timely received, shall be considered. Quotes may be submitted electronically.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Questions regarding this solicitation should be emailed to the buyer listed in block 5 of the solicitation document which can be found under the Additional Information link. If the Additional Information link does not work, please go to https://www.dibbs.bsm.dla.mil/Solicitations/ and type the solicitation number in the Global Search box.
+  - Email: DibbsBSM@dla.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4edcbfb1233f4452b6a9d3bb8584d781/view)

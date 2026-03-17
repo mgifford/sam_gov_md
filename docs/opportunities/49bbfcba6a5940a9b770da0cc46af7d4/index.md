@@ -1,0 +1,31 @@
+---
+layout: default
+title: RFI - Real Time Public Data Intelligence
+agency: TREASURY, DEPARTMENT OF THE
+notice_type: Sources Sought
+notice_id: 49bbfcba6a5940a9b770da0cc46af7d4
+---
+
+# RFI - Real Time Public Data Intelligence
+
+- Agency: TREASURY, DEPARTMENT OF THE
+- Type: Sources Sought
+- Posted: 2026-03-16 13:53:54.822-04
+- Solicitation Number: 2032L226N00003
+
+## Summary
+
+Request for Information Real-Time Public Data Intelligence and External Risk Detection Platform 2032L226N00003 The purpose of this Request for Information (RFI) is to find capable vendors to support The Treasury Office of Intelligence and Analysis with Real-Time Public Data Intelligence and External Risk Detection Platform for a solution that will facilitate high-quality, reliable commercially available solutions capable of providing real-time detection, analysis, and alerting of emerging risks and critical events derived from publicly available data sources. VENDORS MUST REVIEW THE ENTIRE REQUIREMENT AND SHALL ONLY RESPOND IF FULLY CAPABLE OF SATISFYING ALL ASPECTS OF THE REQUIREMENT. This is an RFI for market research purposes, and not a solicitation. I. SCOPE SUMMARY (see DRAFT PWS for requirement details) The Performance Work Statement (PWS) is to establish a solution for the Office of Intelligence and Analysis’ need for a solutions that will facilitate high-quality, reliable commercially available solutions capable of providing real-time detection, analysis, and alerting of emerging risks and critical events derived from publicly available data sources. II. ANTICIPATED PERIOD OF PERFORMANCE The Period of Performance is to be determined. III. ADDITIONAL DETAILS NO SOLICITATION IS AVAILABLE. A request for more information, or a copy of the solicitation, will not be considered an affirmative response to this Request for Information. Telephone responses or inquiries to this Request for Information will NOT be accepted. Fiscal Service will consider responses received no later than 10:00 AM ET, March 20, 2026, as submitted in writing to chad.gambrill@treasury.gov and paul.white2@treasury.gov. Please include “RFI: 2032L226N00003, Real-Time Public Data intelligence and External Risk Detection Platform - CG/PW” in the subject line. Questions about this RFI will not be entertained, as a vendor pool is all that is being sought at this time. Questions and Answers will be fielded during the RFQ period in the future. Quotations will not be accepted at this time. Qualified contractors must provide the following: 1. The name and location of your company, contact information, and identify your business size and socioeconomic category. Please ensure contact information includes the name of the point of contact, email address, and telephone number should the Government have questions regarding individual responses. 2. The GSA contract or other vehicle your services are available through, including the schedule/GWAC number, NAICS Codes, and applicable SIN. 3. Submissions should include sufficient evidence clearly demonstrating a vendor’s capability. Responding vendors shall provide a general capabilities statement that includes a description of their standard line(s) of business, information outlining their experience, along with a technical narrative addressing each specified requirement in the PWS. The following file extensions are not allowable and application materials/data submitted with these extensions cannot be considered: .bat, .cmd, .com, .exe, .pif, .rar, .scr, .vbs, .hta,, .cpl, and .zip files. Microsoft Office compatible documents are acceptable. No other information regarding this Request for Information will be provided at this time. This notice does not restrict the Government to an ultimate acquisition approach. All firms responding to this notice are advised that their response is not a request that will be considered for contract award. All interested parties are required to respond to any resultant solicitation separately from their response to this notice, should one be issued.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Chad Gambrill
+  - Email: chad.gambrill@treasury.gov
+- Secondary Contact:
+  - Name: Paul White
+  - Email: paul.white2@treasury.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/49bbfcba6a5940a9b770da0cc46af7d4/view)

@@ -1,0 +1,29 @@
+---
+layout: default
+title: Retail Space to Lease – Lemon Grove/ Le Mesa, California
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 2d4ac980aaf1434d881b1c77b2ac45ba
+---
+
+# Retail Space to Lease – Lemon Grove/ Le Mesa, California
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-03-16 12:55:54.775-04
+- Solicitation Number: DACA095260083500
+
+## Summary
+
+The Los Angeles District, U.S. Army Corps of Engineers is seeking to lease a minimum of 4981.80 net/usable to a maximum of 6555.00 gross/rentable square feet (gross square feet to include any common area factor), of existing Class A or B retail space, in the Lemon Grove/ Le Mesa, California, within the defined Delineated area (DA) boundaries below: North -- Canjon Blvd & University Avenue (western portion) South -- State Route 94 (Martin Luther King Jr. Freeway) & Colledge Grove Dr East –Fuerte Drive, Avocado Boulevard, Bancroft Drive, and the east sections of Campo Road. West – 54th Street, Euclid Avenue, and Highland Avenue The Government’s desire is for a full-service lease of Retail space for an Armed Forces Career Center for a term not to exceed five (5) years with Government termination rights. Offered space must meet Government requirements per the terms of the Government Lease. Interested respondents may include building owners and representatives with the exclusive right to represent building owners. Representatives of building owners must include the exclusivity agreement, representation letter, listing contract or other executed agreement granting the exclusive right to represent the building owner with their response to this advertisement. Adequate mass transit (buses, trains, rail cars) for the public within three walking blocks is highly desired. REQUIRED Spaces MUST offer both a primary and a secondary point of ingress/egress. Lighted, non-exclusive or reserved on-site parking for four 15 marked government owned vehicles must be provided for on 24 hours 7 days a week basis. Additional lighted parking must be available during business hours, weekends and holidays, for approximately 15 employee vehicles and visitors/recruit candidate parking. Must use the Government Lease. The military services shall have the right to use space beyond normal working hours and, if required, on Saturdays, Sundays, and Federal holidays. This includes the use of elevators, lights, toilet facilities, and, if necessary, heating and air conditioning. Armed Forces Recruiting Facilities are only located in defined geographical areas that contain businesses and other establishments that are of a compatible nature. Under no circumstances will be these facilities to be in areas where sexually oriented businesses, bars, nightclubs, liquor stores, smoke shops, marijuana dispensaries etc. or other business that produce injurious odors detectable with the leased spaces. Placement near these establishments can hamper overall production of the office or cause concern for the safety of the personnel stationed there and their visitors. Lessors are required to be registered and active in www.sam.gov prior to the deadline for final offer submission. Proposals are due no later than 5:00 pm (PST) on 30 Apr 2026. Responses should include: Building name and address As-built floor plan drawing Digital photo of street view of property Area (BOMA rentable square feet & BOMA usable square feet) Rental rate per square foot rentable space to include (CAM, Taxes and insurance) Common area factor(s) for available space, if applicable Following are the factors that will be considered when evaluating bids/offers: Location Ability to meet all construction specifications, security measures and lease requirements Complete initial and final offers must be received by defined deadline Competitive costs in the best interest of the government Qualitative ratings by client for mission Additional Notes: Three (3) construction bids for the build-out are requested. After a bid is accepted, no change orders are authorized, so bids need to be accurate and complete (including all taxes and fees). Special attention should be given to security requirements (video entry control system, closed circuit television system and video recording, dual roller shades on exterior windows, fixed panel shade on exterior entry door and peep hole in secondary exit, perforated window wrap), fragmentation film on exterior windows/glass doors, telecommunication wiring requirements, addition of water fountain, signage, paint, wall graphics, phone jacks, electrical outlets, and spec'd carpet squares. These are items that can add a significant cost and may be overlooked in the bid process; however, all items in the specifications need to be followed, even if code does not require the item (i.e., smoke detectors, fire extinguishers, etc.). Bids shall include any tear down/haul away expenses. The attached floor plan is to be used as a generalized idea and reference tool for proximity of amount of useable space this location will require for build out in both office space and common area space. Submitted floor plans must meet the space requirements as designated on attached example. It is mandatory that janitorial services be included in the lease (lessor responsible for contracting these services). Be sure to review the attached janitorial guidance and ensure the costs of these services are included on the rental proposal works CONTACT Interested parties may contact Lihua ( Kelly) Chen at the U.S. Army Corps of Engineers, Arizona/Nevada Branch, Real Estate Office, 3636 N Central Ave, Ste 900, Phoenix, AZ 85012-1939; 626-701-4901; Lihua.chen@usace.army.mil, no later than 5:00 PM MST on 30 Apr 2026
+
+## Contacts
+
+- Primary Contact:
+  - Name: LIHUA CHEN
+  - Email: lihua.chen@usace.army.mil
+  - Phone: 6267014901
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2d4ac980aaf1434d881b1c77b2ac45ba/view)

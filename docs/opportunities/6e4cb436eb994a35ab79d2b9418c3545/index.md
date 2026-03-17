@@ -1,0 +1,28 @@
+---
+layout: default
+title: Notice of Intent to Sole Source Physical Property Measurement System Service
+agency: COMMERCE, DEPARTMENT OF
+notice_type: Special Notice
+notice_id: 6e4cb436eb994a35ab79d2b9418c3545
+---
+
+# Notice of Intent to Sole Source Physical Property Measurement System Service
+
+- Agency: COMMERCE, DEPARTMENT OF
+- Type: Special Notice
+- Posted: 2026-03-16 09:40:44.481-04
+- Solicitation Number: NB686010-26-00767
+
+## Summary
+
+The National Institute of Standards and Technology (NIST) Acquisition Management Division intends to negotiate with Quantum Design, Inc., located in San Diego, CA, on a sole source basis under the authority of FAR Subpart 13.106-1(b), soliciting from a single source, for physical property measurement system services. Specific Requirements are as follows: Cryocooler maintenance is required for the Quantum Design USA Dynacool system (rm 1-3325). The system is used to validate and verify material properties of devices made in the Boulder microfabrication facility (Faint Photonics: verify transition temperatures of superconductors and evaluate single photon detectors; Sources and Detectors: verify operation of superconductors). Timely maintenance is required so that projects in these groups will not be stalled. Maintenance of the QDUSA system must be performed by the vendor. This maintenance is meant to restore the cooling power of the cryocooler by exchanging it for a refurbished unit. NAICS Code is 334516 –Analytical Laboratory Instrument Manufacturing, with a Size Standard of 1,000 employees. NIST anticipates negotiating and awarding a firm-fixed-price purchase order to Quantum Design, Inc.for this requirement. Interested parties that can demonstrate they could satisfy the requirement listed above for NIST must clearly and unambiguously identify their capability to do so in writing on or before the response date for this notice. This notice of intent is not a solicitation. Information submitted in response to this notice will be used solely to determine whether competitive procedures could be used for this acquisition. If competitive procedures are not used it is estimated that an award will be issued by April 15, 2026. Any questions regarding this notice must be submitted in writing via email to deionne.jones@nist.gov. All responses to this notice of intent must be submitted to deionne.jones@nist.gov no later than the date and time provided herein this posting. JUSTIFICATION FOR OTHER THAN FULL AN OPEN COMPETITION: Timely maintenance is required so that projects in these groups will not be stalled. Maintenance of the QDUSA system must be performed by the vendor. This maintenance is meant to restore the cooling power of the cryocooler by exchanging it for a refurbished unit. There are no other 3rd party vendors that can provide this service. The National Institute of Standards and Technology (NIST) Acquisition Management Division intends to negotiate with Quantum Design, Inc., located in San Diego, CA, on a sole source basis under the authority of FAR Subpart 13.106-1(b), soliciting from a single source, for physical property measurement system services. Specific Requirements are as follows: Cryocooler maintenance is required for the Quantum Design USA Dynacool system (rm 1-3325). The system is used to validate and verify material properties of devices made in the Boulder microfabrication facility (Faint Photonics: verify transition temperatures of superconductors and evaluate single photon detectors; Sources and Detectors: verify operation of superconductors). Timely maintenance is required so that projects in these groups will not be stalled. Maintenance of the QDUSA system must be performed by the vendor. This maintenance is meant to restore the cooling power of the cryocooler by exchanging it for a refurbished unit. NAICS Code is 334516 –Analytical Laboratory Instrument Manufacturing, with a Size Standard of 1,000 employees. NIST anticipates negotiating and awarding a firm-fixed-price purchase order to Quantum Design, Inc.for this requirement. Interested parties that can demonstrate they could satisfy the requirement listed above for NIST must clearly and unambiguously identify their capability to do so in writing on or before the response date for this notice. This notice of intent is not a solicitation. Information submitted in response to this notice will be used solely to determine whether competitive procedures could be used for this acquisition. If competitive procedures are not used it is estimated that an award will be issued by April 15, 2026. Any questions regarding this notice must be submitted in writing via email to deionne.jones@nist.gov. All responses to this notice of intent must be submitted to deionne.jones@nist.gov no later than the date and time provided herein this posting. JUSTIFICATION FOR OTHER THAN FULL AN OPEN COMPETITION: Timely maintenance is required so that projects in these groups will not be stalled. Maintenance of the QDUSA system must be performed by the vendor. This maintenance is meant to restore the cooling power of the cryocooler by exchanging it for a refurbished unit. There are no other 3rd party vendors that can provide this service.
+
+## Contacts
+
+- Primary Contact:
+  - Name: de Ionne Jones
+  - Email: deionne.jones@nist.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6e4cb436eb994a35ab79d2b9418c3545/view)

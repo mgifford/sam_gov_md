@@ -1,0 +1,33 @@
+---
+layout: default
+title: Aerospace Power Systems Laboratory (APSL) Facility
+agency: NATIONAL AERONAUTICS AND SPACE ADMINISTRATION
+notice_type: Sources Sought
+notice_id: aee64b4d4cc8483d94fcbe62834899ae
+---
+
+# Aerospace Power Systems Laboratory (APSL) Facility
+
+- Agency: NATIONAL AERONAUTICS AND SPACE ADMINISTRATION
+- Type: Sources Sought
+- Posted: 2026-03-16 16:38:09.307-04
+- Solicitation Number: 80GRC027APSL
+
+## Summary
+
+Aerospace Power Systems Laboratory (APSL) Sources Sought Notice / Market Research ***This is a Sources Sought Notice and is for Market Research purposes only. This is not a request for proposal, quotation or bid. No solicitation is currently available*** The National Aeronautics and Space Administration (NASA) Glenn Research Center (GRC) is conducting market research to identify sources (Small Businesses and Other-than-Small Businesses) that have the knowledge, skills, and capability to perform the work concerning the potential project described below. Responses are requested only from potential prime construction contractors with company bonding capability (single job) of approximately $65M. Magnitude of Construction: Between $50M and $75M. Project Name, Location and Description: Construction of the Aerospace Power Systems Laboratory (APSL) Facility, GRC, Cleveland, Ohio The Government is considering issuing a solicitation, using a two-phase design-build (DB) project delivery method, which will require the contractor to provide the Government with a complete facility and warranty based on the Request for Proposal (RFP). Design and construction will guide construction of a new lab facility to support testing and development of power systems with associated site work, infrastructure, and systems at GRC. The facility will have an approximate square footage of 40,000. The facility will include all primary functional spaces necessary for the operations of the facility including an open floor high bay, configurable laboratory space, open floor concept typical laboratory space, and all associated collaboration and administration spaces. Construction will also consist of utilities, pavement, and additional site improvements. This facility will be designed as permanent construction in accordance with all applicable building codes and NASA regulations. Project Period of Performance: Estimated construction contract award will be second quarter of fiscal year 2027. Submission Details: All interested, capable, qualified under the North American Industry Classification System (NAICS) Code 236220 Commercial and Institutional Building Construction, and responsive firms are encouraged to reply to this notice request. Interested Prime Contractors Only should submit a narrative demonstrating their experience in construction projects of a similar nature as described above. Total response shall not exceed twenty pages in length. Please include the following information in your response: Company Information: Company name, address, and point of contact with phone number and email address; Commercial and Government Entity (CAGE) Code and Unique Entity Identifier (UEI); Small business size standard, if any, to include any official teaming arrangements as a partnership or joint venture; Information on your bonding capability (specifically identify capacity of performance and payment bonds (both singular and aggregate); Briefly describe your firm’s current experience and understanding of the DB delivery method. Unique Challenges and/or Potential Innovations: As part of your response please provide the Government with any potential innovations or challenges your company has experienced or has identified in the solicitation, design, and construction process. Offerors are invited to provide comments on the Design?Build methodology to ensure the approach is feasible and well?aligned with industry best practices. To recognize the effort required for Phase 2 concept design development, the Government is evaluating the use of stipends for shortlisted firms and invites industry input on this potential strategy. Project History: Details of projects with similar scope and complexity within the past ten years to include: Whether you were the Prime or a Subcontractor (if subcontractor explain your specific construction role within the contract) Start and end dates of construction work Project cost Contract Type Construction Information: Construction of facilities with laboratory functions; Construction of facilities requiring process piping and support for specialized gases; Construction of facilities on a Government installation; Construction of secure areas that include Radio Frequency (RF) Shielding or equivalent security. The Government intends to review all responses submitted by Industry. This data will not be shared outside the Government and may be used to further refine requirements. Please do not submit proprietary information. NASA will not affirmatively release any information received in response to this notice to the public but may use information received in developing the best approach for a contract strategy, and therefore such information may be recognizable to the interested party who submitted it. Any information submitted in response to this notice that is marked as “Confidential Commercial or Financial Information” will be considered as voluntarily submitted in accordance with the Freedom of Information Act. Responses: Responses are to be sent via email to the Contracting Officers (aaron.a.olmsted@nasa.gov and john.a.christel@nasa.gov) and the Contracting Officer’s Representative (michael.d.titus@nasa.gov) not later than 2:00 PM EST, March 31, 2026. Reference 80GRC027APSL in the subject line of all emails. Telephone inquiries will not be accepted. Any questions should be directed to the points of contact identified above. In accordance with FAR 15.201(e), responses to this notice are not offers and cannot be accepted by NASA to form a binding contract. NASA is under no obligation to issue a solicitation or to award any contract on the basis of this notice. NASA will not pay for any information solicited under this notice. No solicitation exists; therefore, do not request a copy of the solicitation. If a solicitation is released, it will be synopsized on SAM.gov. Interested firms are responsible for monitoring this website for the release of any subsequent solicitation or synopsis.
+
+## Contacts
+
+- Primary Contact:
+  - Name: John Christel
+  - Email: john.a.christel@nasa.gov
+  - Phone: 216-433-8828
+- Secondary Contact:
+  - Name: Aaron A. Olmsted
+  - Email: aaron.a.olmsted@nasa.gov
+  - Phone: 216-433-6843
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/aee64b4d4cc8483d94fcbe62834899ae/view)

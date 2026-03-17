@@ -1,0 +1,33 @@
+---
+layout: default
+title: TUG SERVICE FOR CGC STRATTON
+agency: HOMELAND SECURITY, DEPARTMENT OF
+notice_type: Combined Synopsis/Solicitation
+notice_id: cbeb9bc1a61c4d318edf85f609882564
+---
+
+# TUG SERVICE FOR CGC STRATTON
+
+- Agency: HOMELAND SECURITY, DEPARTMENT OF
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-03-16 14:11:26.829-04
+- Solicitation Number: 11703QR260000000
+
+## Summary
+
+This is a combined synopsis/solicitation for a commercial item or service prepared in accordance with the format outlined in FAR Subpart 12.6, and as supplemented with additional information included in this notice. This announcement constitutes the only solicitation. Quotations are being requested and a written solicitation will not be issued. The NAICS code for this solicitation is 48330 The small business size standard is 1500. This is a total small business set aside; all responsible small business sources may submit proposals that will be considered. This synopsis/ solicitation is issued pursuant to FAR 13.106-1(b), and the resultant purchase order will be awarded on a firm-fixed price basis using simplified acquisition procedures in accordance with FAR 13. THE UNITED STATES COAST GUARD CUTTER STRATTON REQUEST CONTRACTORS PROVIDE QOUTES FOR THE FOLLOWING: A. REQUIREMENT: 1. The contractor shall provide the following: Two tugs rated at (2,000 HP+) to facilitate and assist with the arrival of CGC STRATTON movement into CG ISLAND ALAMEDA, CA. The company shall provide all qualified personnel, equipment, tools, materials, supervision, including other items and services necessary to perform the service requested and as defined in this Scope of Work, the contractor must perform to the standards in the written Scope of Work. 2. Place of Performance: CG ISLAND, ALAMEDA, CA. 3. Period of Performance: 03/23/2026 to 03/23/2026.. The following provision at FAR 52.212-2, Evaluation-Commercial Items- applies with the following addenda: Award of a contract will be based on the following criteria: The purchase order will be awarded as a firm fixed price contract using simplified acquisition procedures in accordance with FAR Part 13.5. 1. Please provide any warranty information if applicable. 2. Vendors MUST be registered in www.sam.gov to receive an award. The Government will award a purchase order resulting from this synopsis/solicitation to the responsible contractor whose quote conforming to the solicitation will be more advantageous to the Government, price and other factors will be considered. Interested Offerors having the expertise as required are invited to submit a Firm Fixed Price proposal that will be considered by the Contracting Officer. 3. Proposals must be submitted on company letterhead stationery and must include the following information ( 1) Cost Breakdown, (2) Labor Cost, (3) Extended Price, (4) Total Price, (5) Payment Terms, (6) Discount offered for prompt payment, (7) Company DUNS and Cage Code. 4. Quotes must be received no later than MARCH 18th 2026 at 1:00 P.M Eastern Standard Time. Email quotes are acceptable and should be sent to the Contracting Officer: Jenelle Lujan at email address – Jenelle.N.Lujan@uscg.mil and Damon Jones at email address- Damon.D.Jones@uscg.mil. 5. Any questions or concerns regarding any aspect of this RFQ must be forwarded to Contracting Officer, SKC Jenelle Lujan at email: Jenelle.N.Lujan@uscg.mil. PROVISIONS / CLAUSES: The following FAR Clauses and Provisions apply to this acquisition and are incorporated by reference: FAR 52.212-1 - Instructions to Offerors - Commercial Items (Oct 2018) FAR 52.212-2 - Evaluation - Commercial Items (Oct 2014) Award will be made to the Offeror proposing the Best Value to the Government considering specification, price, past performance and quality. FAR 52.212-3 - Offeror Representations and Certifications - Commercial Items (Oct 2018) to include Alt I (Oct 2014). Offeror is to complete the annual representations and certification electronically via the System for Award Management (SAM) Web site accessed through http://www.sam.gov . FAR 52.212-4 - Contract Terms and Conditions -Commercial Items (Oct 2018) with the following addenda's. 52.212-5 - Contract Terms and Conditions Required to Implement Statutes or Executive Orders - Commercial Items (Jan 2019) FAR 52.252-2 - Clauses Incorporated by Reference (Feb 1998), the full text of the clause may be accessed electronically at Internet address http://farsite.hill.af.mil/vffara.htm; A Data Universal Numbering System (DUNS) Number is the primary identifier in FAR 52.204-7 - System for Award Management (Oct 2018). Contractors are located and identified in SAM by their DUNS number. To facilitate payment via Electronic Funds Transfer - SAM, contractors should be registered in SAM. A DUNS number can be obtained via www.dnb.com and SAM registration can be obtained via www.sam.gov. The following Clauses and others as indicated by the Contracting Officer as applicable shall apply to this awarded contract. FAR 52.222-3 - Convict Labor (Jun 2003) FAR 52.222-19 - Child Labor Cooperation with Authorities and Remedies (Jan 2018) FAR FAR 52.222-37 - Employment Reports on Veterans (Feb 2016) (38 U.S.C. 4212) FAR 52.222-50 - Combating Trafficking in Persons (Jan 2019) FAR 52.223-18 - Encouraging Contractor Policies to Ban Text Messaging While Driving (Aug 2011) FAR 52.225-1 - Buy American Supplies (May 2014) FAR 52.225-13 - Restrictions on Certain Foreign Purchases (Jun 2008) FAR 52.232-33 - Payment by Electronic Funds Transfer - Systems for Award Management (Oct 2018) FAR 52.233-3 - Protest After Award (Aug 1996) FAR 52.233-4 - Applicable Law for Breach of Contract Claim (Oct 2004) *The above/following clauses are incorporated by reference, entire clause(s) available at http://www.arnet.gov/far. NOTICE TO OFFERORS CONCERNING REPRESENTATIONS AND CERTIFICATIONS: This solicitation contains FAR Clause 52.204-7, Central Contractor Registration and FAR Provision 52.204-8, Annual Representations and Certifications. In accordance with FAR 4.1201 (a) Prospective contractors shall complete electronic annual representations and certifications SAM accessed via https://www.acquisition.gov. Please ensure completion prior to submission of your quote. Also note that paragraph (b) of FAR 52,204-8 applies
+
+## Contacts
+
+- Primary Contact:
+  - Name: Jenelle Lujan
+  - Email: jenelle.n.lujan@uscg.mil
+  - Phone: 2068204918
+- Secondary Contact:
+  - Name: Damon Jones
+  - Email: Damon.D.Jones@uscg.mil
+  - Phone: 5716079385
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cbeb9bc1a61c4d318edf85f609882564/view)

@@ -1,0 +1,31 @@
+---
+layout: default
+title: AN/PVS-14 NIGHT VISION DEVICES (NVDS)
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: ca6f1545268f49d88389d3fa336ae0af
+---
+
+# AN/PVS-14 NIGHT VISION DEVICES (NVDS)
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-03-16 16:55:40.675-04
+- Solicitation Number: W91CRB-26-R-5006
+
+## Summary
+
+Update: AMENDMENT 0001 - 16 MARCH 2026: Questions and Answers attached herein. Please see attached document W91CRB-26-R-5006 0001. This solicitation, W91CRB-26-R-5006, is to fulfill a Foreign Military Sales (FMS) requirement on behalf of The United States Army Communications and Electronics Command (CECOM) Security Assistance Management Directorate (SAMD). This requirement is for the procurement of AN/PVS-14 Night Vision Devices. This requirement utilizes NAICS Code 333310, Commercial and Service Industry Machinery Manufacturing, with a size standard of 1000 employees. The U.S. Army Contracting Command-Aberdeen Proving Ground (ACC-APG), an agency of the Government, has a requirement for the procurement of quantity of nine hundred twenty-two (922) AN/PVS-14 Night Vision Devices to support a country directed requirement for Foreign Military Sales (FMS) under case GG-B-UDY, for the country of Georgia. The Government intends to award a commercial Firm Fixed Price (FFP) contract as a result of this solicitation. The basis for award will be Lowest Price Technically Acceptable (LPTA) in accordance with FAR 12.203. No hard copy of this solicitation will be issued. Amendments, if any, will be posted via SAM.gov. The complete solicitation package, including amendments, shall be received and reviewed prior to submitting a response. It is the responsibility of those responding to solicitation W91CRB-26-R-5006 to obtain all amendments and/or other applicable documents associated with this solicitation. The point of contact (POC) for this action is Angela H. McFillin, email: angela.h.mcfillin.civ@army.mil . All questions or comments in response to this solicitation shall be submitted in writing and emailed to angela.h.mcfillin.civ@army.mil. It is the responsibility of all potential offerors to monitor SAM.gov on a regular basis for any updates to these documents. Other documents, as necessary, will be posted when available. All supplies/services are requested shall be proposed upon and specified by the offeror as seen below: For the PVS-14 Monocular Night Vision: White Phosphor Tubes Image intensifier tubes will conform to U.S. Military Specifications (MILSPEC). Light Interference Filters (LIFs), electro-optic countermeasures and counter-countermeasures or methods to exploit countermeasures MUST NOT be discussed or released. Figure of Merit (FOM) No Less than 1400/MUST NOT exceed 1600 Where the FOM is calculated by multiplying the signal-to-noise ratio by the resolution as measured in line-pairs per millimeter 100% of the image intensifiers must pass Group A testing. Group B, C, and D lot testing must be in accordance with U.S. MILSPEC acceptance standards This case is subject to Enhanced End Use Monitoring (EEUM) Other information/requirements: 1. It is the responsibility of the Offeror to ensure that their Offer is compliant with ALL provisions of the FAR and its supplements. The Government MAY, but is not obligated to, consider an Offer that is non-compliant with any provision of the FAR and its supplements. Furthermore, the Government is NOT required to inform any Offeror that their Offer is non-compliant with the FAR or any of its supplements. Failure of an Offer to comply with any provision of the FAR and its supplements may result in the Offeror being deemed non-responsive to the solicitation. 2. The Government’s Details of Delivery Location and Inspection and Acceptance are as follows: CLINs 0001: Place of delivery TBD Inspection and Acceptance at Origin: FOB Origin 3. All responsible sources may submit a quote which will be considered by the Contracting Officer. The offeror must be registered in the System for Award Management (SAM) database and include the assigned Unique Entity Identification code with quote submission. 4. **Offerors SHALL include a completed copy of the provision at 52.212-3, Offeror Representations and Certifications -- Commercial Items, with their response. Additionally, Offerors shall provide a completed copy of 52.204-24 and 52.204-26 with their response.** 5. Any questions are to be submitted in writing to Angela H. McFillin, Contract Specialist, via email to: angela.h.mcfillin.cov@army.mil and with copy to Contracting Officer, Aqua M. Jefferson, aqua.m.jefferson.civ@army.mil . The closing date for submission of ALL questions is no later than 02:00PM EST on 19 March 2026. 6. The offeror shall submit their proposal via email to Angela H. McFillin, Contract Specialist, to: < angela.h.mcfillin.civ@army.mil > with a copy to Contracting Officer Aqua M. Jefferson < aqua.m.jefferson.civ@army.mil > ,by 02:00PM – EST-U.S. 09 April 2026. Both contract specialit and contractiing officer SHALL be included in all correspondence. An email confirmation from the contract specialist or contracting officer must be received to be considered submitted. 7. The Contractors must be registered in the System for Award Management (SAM) database to be considered for award of a Federal contract. Information regarding registration can be obtained from the SAM website: https://sam.gov >. All interested parties are responsible for obtaining the solicitation documents through SAM <https://sam.gov/ >.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Angela H. McFillin
+  - Email: angela.h.mcfillin.civ@army.mil
+- Secondary Contact:
+  - Name: Aqua M. Jefferson
+  - Email: aqua.m.jefferson.civ@army.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ca6f1545268f49d88389d3fa336ae0af/view)
