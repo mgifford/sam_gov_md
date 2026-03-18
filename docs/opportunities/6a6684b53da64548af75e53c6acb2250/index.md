@@ -1,0 +1,31 @@
+---
+layout: default
+title: 6515--SPS Steam Sterilizers DOMESTIC PRODUCTS ONLY
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: 6a6684b53da64548af75e53c6acb2250
+---
+
+# 6515--SPS Steam Sterilizers DOMESTIC PRODUCTS ONLY
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-03-17 18:23:46.426-04
+- Solicitation Number: 36C25926Q0333
+- Awardee: null
+
+## Summary
+
+The Department of Veterans Affairs Network Contracting Office (NCO) 19, Oklahoma VA Health Care System is issuing this Sources Sought Notice as a means of conducting market research to identify DOMESTIC MANUFACTURERS having an interest in, and the resources to support this requirement for STEAM STERILIZERS similar or equivalent to the Steris AMSCO 400 Small Steam Sterilizer, for the Oklahoma VA Health Care System located at 921 NE 13th St, Oklahoma City, OK 73104. The results of this market research will contribute to determining the method of procurement. The applicable North American Industry Classification System (NAICS) code assigned to this procurement is 339113 - Surgical Appliance and Supplies Manufacturing. This is a request for information and sources only, which may or may not lead to a future solicitation! This is not a solicitation. This request for capability information does not constitute a request for proposals; submission of any information in response to this market survey is purely voluntary; the government assumes no financial responsibility for any costs incurred. Contractor shall provide all labor, parts, supplies and equipment necessary to supply and install the STEAM STERILIZERS. Services shall include but are not limited to the following: Objective: The Oklahoma City VA Health Care System (OKC VAHCS) requires 10 (ten) Steam Sterilizers to meet the need of the Sterile Processing Service (SPS) at the Oklahoma City medical facility. This procurement will result in a new, firm-fixed price contract. The OKC VAHCS is seeking only domestically manufactured products to fulfill this requirement, pursuant to the Buy American Act. SALIENT CHARACTERISTICS requested for the desired Small Steam Sterilizers are as follows: high-capacity chamber that has been validated to sterilize. 20" x 20" x 38" Prevacuum Single Door External Supplied Steam (Facility Steam/Stand-Alone Generator) Standard configuration with a Venturi - single phase power only Recessed LH Washer/Disinfector (comparable to AMSCO 7053HP) 200-208V 3 Ph 60 Hz Steam Heated 15 DIN/10 US tray capacity ISO/AAMI 15883 compliant Rack Return includes 2 interlocked doors with hands-free sensors and command button The AMSCOÂ® 400 Series Steam Sterilizers are known for high-volume processing capabilities, compliance with industry standards, and advanced water/energy-saving technology.Â Additional key salient characteristics include: 1. High Efficiency and Quick TurnaroundÂ Rapid Cycle Times:Â Designed for quick turnaround of heat- and moisture-stable instruments. Immediate-Use Sterilization:Â Features validated immediate-use (formerly "flash") prevacuum and gravity cycles. High Capacity:Â Smaller units handle up to 250 lbs. Reduced Utility Usage:Â Software and design features (such as an optional water-saving vacuum pump) reduce water consumption by up to 60% and improve energy efficiency.Â 2. Key Design and Structural Features Non-Lubricated Gasket:Â Industry-only non-lubricated, steam-activated door gasket with a 2-year warranty. Vertical/Horizontal Door Options:Â Small units feature a vertical sliding door with a foot pedal for hands-free, ergonomic operation. Medium units offer manual hinged or horizontal sliding doors. Construction:Â The vessel is fully jacketed to minimize condensation, and all piping is modularized for easier maintenance. Flexible Installation:Â Units can be recessed into a wall or free-standing/cabinet-enclosed.Â 3. Advanced Control System Touch Screen Interface:Â User-friendly controls allow for easy cycle selection, monitoring, and programming. Customizable Cycles:Â Users can name and configure cycles to meet specific facility requirements. Validated Performance:Â All cycles are validated to AAMI/AORN standards. Data Management:Â Includes a thermal printer for recording, and is compatible with remote monitoring systems like ProConnectÂ® Response Center and ConnectAssure Technology.Â 4. Specialized Features Optional SFPP Cycle:Â Steam Flush Pressure Pulse (SFPP) is available to eliminate the need for daily Bowie-Dick testing. Automatic Utilities Management:Â Programmable startup/shutdown lowers utility costs by shutting off steam and water during idle times. Safety Features:Â Includes automatic door locking mechanism, power door safety features to stop movement on obstruction, and a chamber float switch to prevent excessive condensate. BASED ON THE RESPONSES TO THIS SOURCES SOUGHT NOTICE, THIS REQUIREMENT MAY BE SET-ASIDE FOR SMALL BUSINESSES OR PROCURED THROUGH FULL AND OPEN COMPETITION, and multiple awards MAY be made. Telephone inquiries will not be accepted or acknowledged, and no feedback or evaluations will be provided to companies regarding their submissions. SUBMISSION INSTRUCTIONS: If your organization can provide these services and is interested in this opportunity, please respond to Shanta Harrison, Contract Specialist, Department of Veterans Affairs, NCO 19 via e-mail at Shanta.Harrison@va.gov with a statement describing your capabilities. The capability statement shall include a primary point of contact, complete mailing address, telephone number, email address, state the company s business size status and should address this specific requirement, with appropriate documentation supporting claims of organizational and staff capability. Please be as thorough as possible in your submission, and include information on any multiple award schedule contracts your company holds. Requests for copies of a solicitation will not be honored or acknowledged. Expedited responses are requested. The deadline for responses is Friday, March 20, 2026 at 11:59 PM mountain time.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Shanta Harrison
+  - Title: Contract Specialist
+  - Email: Shanta.Harrison@va.gov
+  - Phone: (303) 712-5719
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6a6684b53da64548af75e53c6acb2250/view)

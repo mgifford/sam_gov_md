@@ -1,0 +1,33 @@
+---
+layout: default
+title: LXEZ035058, Outdoor Recreation/Equipment Rental Center, Kadena Air Base, Okinawa, Japan
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: 8bae25fd323f4b558f7517a4c62b2294
+---
+
+# LXEZ035058, Outdoor Recreation/Equipment Rental Center, Kadena Air Base, Okinawa, Japan
+
+- Agency: DEPT OF DEFENSE
+- Type: Presolicitation
+- Posted: 2026-03-17 00:07:44.041-04
+- Solicitation Number: NAFQJ3-26-B-0002
+
+## Summary
+
+The U.S. Army Corps of Engineers, Japan District (POJ) is providing a PRE-SOLICITATION notice for an upcoming Invitation for Bid (IFB). This is not a solicitation. PROJECT INFORMATION Project Title: LXEZ035058, Outdoor Recreation/Equipment Rental Center, Kadena Air Base, Okinawa, Japan Project Location: Kadena Air Base, Okinawa, Japan Product Service Code: Y1JZ - CONSTRUCTION OF MISCELLANEOUS BUILDING Project NAICS: 236220 Commercial and Institutional Building Construction Project Magnitude: Between $10,000,000 and $25,000,000 Project Description: The project is to construct a 1,040 square meter Outdoor Recreation/Equipment Rental Center facility. Support facilities include utilities, site preparation, pavements, site improvements, communications, drop-off canopy, passive force protection measures, and pavement demolition. Anticipated Construction Performance Period: 550 days SOLICITATION INFORMATION: Procurement Method: The Government will issue an Invitation for Bid (IFB) solicitation. The Government anticipates issuing the solicitation in the 2nd Quarter of FY 2026. The solicitation when issued, will identify the site visit date, RFI and bid submission due date. All final ready to advertise solicitation documents, specifications and drawings will be posted on the Procurement Integrated Enterprise Environment (PIEE) at piee.eb.mil when issued. It is the responsibility of interested vendors to monitor PIEE for issuance of the solicitation and/or amendments. The Government intends to award a firm-fixed-price construction contract as a result of this IFB no later than the 4th Quarter of FY 2026. All interested companies shall be actively registered in the System for Award Management (SAM) database in order to be eligible for award of Government contracts. Information on registration and annual confirmation requirements may be found at http://www.sam.gov. For a Joint Venture, the Joint Venture as an independent entity must be registered in SAM as such. BIDDER ELIGIBILITY. This contract will be performed in its entirety in the country of Japan and is intended only for local sources. ?Only local sources will be considered under this solicitation.? Local sources are sources (e.g. corporations, partnerships, or Joint Ventures [For a Joint Venture, the Joint Venture as an independent entity must satisfy the local source requirements or, in the alternative, each member of the Joint Venture must individually satisfy the local source requirements]) that are physically located in Japan and authorized (i.e. licensed and registered) to perform construction in Japan. Specifically, a prospective bidder must be duly authorized to operate and conduct construction business in Japan and must fully comply with all applicable laws, decrees, labor standards, and regulations of Japan during the performance of the resulting contracts. In addition, bidders must possess a Japanese civil construction (doboku isshiki koji) license or Japanese architectural construction (kenchiku isshiki koji) license by the bid due date and time. The U.S. Government will verify that the bidder has the license through the Ministry of Land, Infrastructure, Transport and Tourism (MLIT) website at https://etsuran2.mlit.go.jp/TAKKEN. It is the responsibility of the bidder to ensure that it has the license (Japanese civil construction or Japanese architectural construction), and that it is accurately shown on the MLIT website, by the bid due date and time.? Failure to comply with this requirement will be cause for rejection of your bid. The U.S. Government will not offer “United States Official Contractor” status under Article XIV of the US-Japan Status of Forces Agreement (SOFA) to U.S. contractors normally resident in the United States; nor will the U.S. Government certify employees of such contractors as “Members of the Civilian Component” under Article I(b) of the SOFA. U.S. Army Corps of Engineers, Japan District, Camp Zama, Japan
+
+## Contacts
+
+- Primary Contact:
+  - Name: Ruben Romero
+  - Email: Ruben.A.Romero@usace.army.mil
+  - Phone: 81464075274
+- Secondary Contact:
+  - Name: Nakiba Jackson
+  - Email: nakiba.s.jackson.civ@usace.army.mil
+  - Phone: 3152633398
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8bae25fd323f4b558f7517a4c62b2294/view)

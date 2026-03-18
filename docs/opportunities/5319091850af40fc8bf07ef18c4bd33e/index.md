@@ -1,0 +1,33 @@
+---
+layout: default
+title: N045--Service Contract Services For Temporary Boiler
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: 5319091850af40fc8bf07ef18c4bd33e
+---
+
+# N045--Service Contract Services For Temporary Boiler
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-03-17 17:02:09.587-04
+- Solicitation Number: 36C26226Q0515
+- Awardee: null
+
+## Summary
+
+This is a SOURCES SOUGHT ANNOUNCEMENT ONLY. It is neither a solicitation announcement nor a request for proposals or quotes and does not obligate the Government to award a contract. Requests for a solicitation will not receive a response. Responses to this source sought must be in writing. The purpose of this sources sought announcement is for market research to make appropriate acquisition decisions and to gain knowledge of potential qualified Service-Disabled Veteran Owned Small Businesses, Veteran Owned Small Businesses, 8(a), HubZone and other Small Businesses interested and capable of providing the services described below. Documentation of technical expertise must be presented in sufficient detail for the Government to determine that your company possesses the necessary functional area expertise and experience to compete for this acquisition. Responses to this notice shall include the following: (a) company name (b) address (c) point of contact (d) phone, fax, and email (e) DUNS number (f) Cage Code (g) Tax ID Number (h) Type of small business, e.g. Services Disabled Veteran Owned small Business, Veteran-owned small business, 8(a), HUBZone, Women Owned Small Business, Small disadvantaged business, or Small Business HUBZone business and (i) must provide a capability statement that addresses the organizations qualifications and ability to perform as a contractor for the work described below. The Department of Veteran Affairs, San Diego VA Health Care System located at 3350 La Jolla Village Dr, San Diego, CA 92161 to provide the Boiler Installation, Commissioning, Freight Transportation Arrival/Departure, and Decommissioning/Removal of the Rental Boiler. Important information: The Government is not obligated to, nor will it pay for or reimburse any costs associated with responding to this source sought synopsis request. This notice shall not be construed as a commitment by the Government to issue a solicitation or ultimately award a contract, nor does it restrict the Government to a particular acquisition approach. The Government will in no way be bound to this information if any solicitation is issued. The VA is mandated by Public Law 109-461 to consider a total set-aside for Service-Disabled Veteran Owned Small Business set aside. However, if response by Service-Disabled Veteran Owned Small Business firms proves inadequate, an alternate set-aside or full and open competition may be determined. No sub-contracting opportunity is anticipated. The North American Classification System (NAICS) code for this acquisition is 238220 ($19.0 Million dollars). Notice to potential offerors: All offerors who provide goods or services to the United States Federal Government must be registered in the System for Award Management (SAM) at www.sam.gov and complete Online Representations and Certifications Application (ORCA). Additionally, all Service Disabled Veteran Owned Businesses or Veteran Owned Businesses who respond to a solicitation on this project must be registered with the SBA-Dynamic Small Business Search (DSBS) Registry located at https://dsbs.sba.gov. All interested Offerors should submit information by e-mail to felicia.simpson@va.gov All information submissions to be marked Attn: Felicia Simpson, Contract Specialist and should be received no later than 10:00 am MST on March 23, 2026. Scope of work: The Vendor shall provide the Boiler Installation, Commissioning, Freight Transportation Arrival/Departure, and Decommissioning/Removal of the Rental Boiler. The Vendor shall provide all Installation, Commissioning, necessary labor, materials, maintenance and engineering support to integrate the 800 HP Rental Boiler into an existing 125 PSIG steam grid inside the VAMC San Diego at 3350 La Jolla Village Drive, San Diego, CA 92161. The Vendor must provide transportation for the 800 HP Rental Boiler to the VASD Site: The Freight will be an Oversized load transport with required escorts and permits. The Vendor will provide all rental lifts, piping, fitting, and materials to ensure all connections points are achieved. The Vendor shall set (1) 800 HP Fire Tube Boiler and off-load from the transportation trailer to the ground. VA will direct final location placement of the Temporary Rental Boiler to align with the D-mark connection point. Path of the Boiler Drop off will be approved by the Structural Engineer insuring that the Rental Boiler will not crush the surrounding in ground tanks. The Vendor will assist all final connections to the existing Central Utility Plant connection points 10 ft from the Rental Boiler connection points listed below: Steam: 8 300# Flanged Feedwater: 2 - 3 NPT Natural Gas: 2 3 NPT #2 Oil:
+
+1.25 NPT Surface Blowdown 2-3 NPT Bottom Blowdown 2-3 NPT Blowdown Cooling Water 1 NPT Steam Condensate Return 2 - 3 NPT Water Chemistry Feed Line 3/4 - 1 All required connections needed. The project must be completed in accordance with industry and VA standards and policies, manufacturer s specifications, applicable safety regulations, VA Medical Center contract specifications and this scope of work. The Vendor shall include the Removal of the Temporary Rental Boiler: Boiler shutdown and cooling procedures Safe decommissioning following proper protocols. Disconnect all utility connections within 10ft of the boiler and install blinds Steam, feedwater, natural gas, and oil fuel systems, electrical to the newly installed disconnect on the control room exterior wall. Dismantle all temporary piping and supports within 10ft of boiler connection points. Load boiler onto transport trailer Crane services and rigging for safe removal. Site restoration within 10ft of work area Clean rental location and immediate work area. Transportation from site Oversized load transport with required escorts and permits. The Vendor services will take place on government owned land at the Jennifer Moreno VA Medical Center. The Vendor will need to provide a cost proposal based on the connections Scope of Work.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Felicia Simpson
+  - Title: Contracting Officer
+  - Email: felicia.simpson@va.gov
+  - Phone: (480) 466-7919
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5319091850af40fc8bf07ef18c4bd33e/view)

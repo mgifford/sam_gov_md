@@ -1,0 +1,29 @@
+---
+layout: default
+title: Construction Services for Maintenance Dredging of Isle au Haut Thoroughfare, Isle au Haut, Maine Federal Navigation Project
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 115a5337bd784046a5774cf23898bec8
+---
+
+# Construction Services for Maintenance Dredging of Isle au Haut Thoroughfare, Isle au Haut, Maine Federal Navigation Project
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-03-17 14:31:39.027-04
+- Solicitation Number: W912WJ26X1BEW
+
+## Summary
+
+The U.S. Army Corps of Engineers, New England District is issuing a Sources Sought Announcement for the upcoming maintenance dredging project located in Isle au Haut, Maine, the Isle au Haut Thoroughfare Federal Navigation Project (FNP). This announcement is to determine the interest, availability and capability of Small and Large Business concerns as described below. The NAICS code for this procurement is 237990 with a Size Standard of $37M. The solicitation for this project is anticipated to be issued in Fall of 2026. The construction will occur in the Fall 2026/Winter 2027 and once on site this project is expected to take 1 to 4 weeks to complete. The estimated construction cost is between $1,000,000.00 and $5,000,000. The Isle au Haut Thoroughfare Federal Navigation Project, located between Isle au Haut, Maine and Kimball Island, Maine on the outskirts of Penobscot Bay, about six miles southeast of Stonington and 25 miles east of Rockland. The Federal Navigation Project consists of a -6-foot Mean Lower Low Water (MLLW) deep by 75-foot wide extending 1,200-foot in length through the shoal in the thoroughfare. The proposed work consists of mechanically dredging approximately 3,355 cubic yards (cy) (1,183 cy required, plus 2,172 cy overdepth) of shoaled material consisting of highly compacted coarse sand and gravel, with areas of cobbles and isolated small boulders from the channel. Due to the material type, a mechanical dredge with the ability to dig highly compacted coarse sand and gravel will be required. The proposed action is to dredge to the authorized depth of -6-foot MLLW plus an additional 1-foot of required advance maintenance with an additional allowable 1-foot of overdepth (e.g. -7-foot MLLW required + 1-foot allowable OD). One-time, advanced maintenance is approved for the entirety of the 1200-foot long authorized channel. The dredged material will be placed at the Flake Island Disposal Site (FIDS) which is approximately 1 nautical mile northwest of the FNP. Placement of the dredged material (sand, gravel and cobble) at Flake Island Disposal Site will benefit both juvenile lobster habitat and juvenile cod by increasing the areas habitat complexity. The anticipated allowable dredging window is between September 15 and April 1 to o avoid impacts to spawning shellfish, benthic resources, Essential Fish Habitat (EFH) of federally managed species, threatened and endangered species and interactions with mobile fishing gear. In order to accomplish all dredging requirements within the specified dredging window it is expected that the Contractor will need to meet a production rate of 4,000 CY per 30 calendar days. Environmental coordination and permitting is being completed by the U.S. Army of Engineers, New England District. Interested firms should demonstrate their project experience, by providing two (2) projects within the last ten years, which meet the following requirements: Dredging by mechanical means in tidal waters with depths of 6 feet or more, demonstrating a minimum production rate of 4,000 cubic yards in one consecutive 30-day period. Experience with placement of dredged material at an open water placement site during the fall/winter/spring months of September through March. All work shall be in accordance with the U.S. Army Corps of Engineers, Safety and Health Requirements Manual (EM 385-1-1, 15 March 2024 Version) and in accordance with all Federal, State and local requirements. Interested firms should submit a capabilities package to include the following: business classification (i.e. HUBZone, etc.); the type of equipment to be utilized for this project; as well as qualifications and specific examples of experience in performing the work requirements stated above. The project examples must have been performed within the last ten years. The package must show project examples of all the experience/expertise listed above. However, the experience does not have to be demonstrated on one single project. Please indicate the team subcontractor(s) (if any), including their prior experience and qualifications, which will be used to support the offeror's effort. Please include a Point of Contact and phone number for each project example who may be contacted for further information on contractor's effort and performance. Proof of bonding capability is required. Responses are limited to twenty pages. Responses are due by 17 April 2026. Responses should be emailed to: Kayla.Gonsalves@usace.army.mil Contractors will be required to be registered in SAM.gov to bid on this project. The Government will not pay for any material provided in response to this market survey nor return the data provided. This notice is for information purposes only and is not a request to be placed on a solicitation mailing list nor is it a Request for Proposal (RFP) or an announcement of a solicitation. The results of this survey will be considered to be in effect for a period of one year from the date of this notice. Government Agency URL: www.nae.usace.army.mil Government Agency URL Description: New England District, Corps of Engineers
+
+## Contacts
+
+- Primary Contact:
+  - Name: Kayla Gonsalves
+  - Email: kayla.gonsalves@usace.army.mil
+  - Phone: 9783188256
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/115a5337bd784046a5774cf23898bec8/view)

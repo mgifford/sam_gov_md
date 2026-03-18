@@ -1,0 +1,48 @@
+---
+layout: default
+title: Anniston Army Depot DEMIL A Light and Heavy Steel Term Contract
+agency: GENERAL SERVICES ADMINISTRATION
+notice_type: Solicitation
+notice_id: 9a5a2bde64704b6c8ce2c43736f12c76
+---
+
+# Anniston Army Depot DEMIL A Light and Heavy Steel Term Contract
+
+- Agency: GENERAL SERVICES ADMINISTRATION
+- Type: Solicitation
+- Posted: 2026-03-17 16:57:31.42-04
+- Solicitation Number: 2-1-QSC-T-26-035-001
+
+## Summary
+
+DEMIL A Light And Heavy Steel Scrap – Anniston Army Depot (ANAD), Alabama The U.S. General Services Administration (GSA), in coordination with Anniston Army Depot (ANAD), is soliciting sealed bids for the recurring removal, transportation, and recycling of DEMIL A Light and Heavy Steel Scrap generated through depot industrial, maintenance, manufacturing, and operational activities. This contract supports the ongoing disposition of scrap materials at ANAD in Anniston, Alabama. The contract consists of a three (3) year base period with two (2) one-year option periods. This synopsis is provided for general awareness only. All interested parties are responsible for reviewing the complete Invitation for Bids (IFB), Surveillance Plan, appendices, and supporting documentation, which are available on GSA Auctions at: https://gsaauctions.gov/auctions/preview/355931. The full IFBSP package establishes all performance, safety, environmental, transportation, billing, and administrative requirements. Failure to review and comply with the entire IFBSP package may result in bid rejection or determination of non-responsibility. A mandatory pre-bid site visit is required for bid responsiveness. Only bidders who attend the site inspection and comply with installation access, safety, and security requirements will be eligible for award. Site access requires advance registration through Army installation access procedures. Award will be made through sealed bidding procedures. Price is the only comparative evaluation factor; however, award is not automatic. The apparent high bidder must successfully demonstrate eligibility, responsibility, operational capability, equipment availability, surge capacity, staffing, financial resources, past performance, and compliance with all regulatory and installation requirements. The Government reserves the right to verify bidder capability and perform pre-award inspections as necessary. The scrap stream consists primarily of Government-generated ferrous scrap metal and may include structural steel, plate, machinery, maintenance equipment, and incidental commingled materials. Scrap quantities, types, locations, and removal priorities may vary based on mission requirements, operational tempo, maintenance cycles, and other Government priorities. Estimated historical quantities are provided for informational purposes only and are not guaranteed. All material removed under this contract is sold strictly for recycling as material content. The resale or reuse of scrap as functional or usable property is prohibited. This acquisition supports operational continuity, installation space management, environmental compliance, and mission readiness at a high-tempo military installation. The IFB is the controlling and authoritative document. MODIFICATION 1 Date: 3/11/2026 Modification Notice – Solicitation 2-1-QSC-T-26-035 The Government has issued Modification One (1) to Solicitation 2-1-QSC-T-26-035 – DEMIL A Light and Heavy Steel Scrap Term Contract for Anniston Army Depot (ANAD), Anniston, Alabama. This modification updates language within the Invitation for Bids (IFB) and the Surveillance Plan (SP). The following changes have been made: 1. Surveillance Plan – Section
+
+3.3 Agency Government Representative (AGR) / Custodian The site reference language has been revised to clarify that AGR oversight applies to the Agency facilities identified in the IFB, rather than referencing a specific installation. 2. IFB – Section
+
+5.3 Performance Bond Purpose and Requirements The performance bond requirement has been updated to specify the required bond amount of $104,480.00. This modification clarifies contract performance requirements and corrects prior language. No other terms or conditions of the solicitation are changed. All other provisions of the solicitation remain unchanged and in full force. MODIFICATION 2 Date: 3/17/2026 Modification Notice – Solicitation 2-1-QSC-T-26-035 The Government has issued Modification Two (2) to Solicitation 2-1-QSC-T-26-035 – DEMIL A Light and Heavy Steel Scrap Term Contract for Anniston Army Depot (ANAD), Anniston, Alabama. This modification updates language within the Invitation for Bids (IFB) and Appendix A – Site Verification & Bidder Certification Form. The following changes have been made: 1. IFB – Section
+
+5.3 Performance Guarantee Section 5.3 has been revised to update the performance security requirement. The previous Performance Bond requirement has been replaced with a Performance Guarantee requirement in the amount of $15,000.00. The revised language clarifies the purpose of the guarantee and the Government’s authority to enforce it under the contract terms. 2. IFB – Section 5.3.1 Acceptable Forms of Performance Guarantee A new subsection 5.3.1 has been added to define acceptable forms of the Performance Guarantee. Acceptable forms include a Performance Bond submitted via electronic funds transfer (EFT) or an Irrevocable Letter of Credit (ILC) issued by a federally insured financial institution and payable to the U.S. General Services Administration. 3. IFB – Section
+
+7.2 Property Damage, Liability, and Contractor Insurance Requirements Section 7.2 has been updated to clarify contractor liability and insurance requirements, including minimum coverage levels and documentation required prior to contract performance. 4. Appendix A – Section 2, Letter C – Insurance Capability (Pre-Award Verification) Appendix A has been updated to align bidder certification requirements with the revised insurance provisions contained in IFB Section 7.2. This modification clarifies contract performance and insurance requirements and adds acceptable forms of performance guarantee. To the extent that any provisions of Modification Two (2) conflict with or address matters previously modified under Modification One (1), Modification Two (2) shall supersede and control. Except as expressly modified herein, all other terms, conditions, and provisions of the solicitation, including those established under prior modifications, remain unchanged and in full force and effect.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Terry Winn
+  - Email: terrell.l.winn.civ@army.mil
+  - Phone: 256-235-4701
+- Secondary Contact:
+  - Name: Adam Ebner
+  - Email: adam.ebner@gsa.gov
+  - Phone: 813-894-9047
+
+## Attachments
+
+**Total: 2 attachment(s)**
+
+- Attachment 1: – Site Verification & Bidder Certification Form. The following changes have been made: 1. IFB – Section
+- Attachment 2: – Section 2, Letter C – Insurance Capability (Pre-Award Verification) Appendix A has been updated to align bidder certification requirements with the revised insurance provisions contained in IFB Section 7.2. This modification clarifies contract performance and insurance requirements and adds acceptable forms of performance guarantee. To the extent that any provisions of Modification Two (2) conflict with or address matters previously modified under Modification One (1), Modification Two (2) shall supersede and control. Except as expressly modified herein, all other terms, conditions, and provisions of the solicitation, including those established under prior modifications, remain unchanged and in full force and effect
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9a5a2bde64704b6c8ce2c43736f12c76/view)

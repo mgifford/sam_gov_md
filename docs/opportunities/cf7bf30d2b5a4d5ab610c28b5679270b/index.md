@@ -1,0 +1,29 @@
+---
+layout: default
+title: Repair and Widen Taxiways Phase III, PSTE 162013
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: cf7bf30d2b5a4d5ab610c28b5679270b
+---
+
+# Repair and Widen Taxiways Phase III, PSTE 162013
+
+- Agency: DEPT OF DEFENSE
+- Type: Presolicitation
+- Posted: 2026-03-17 16:43:36.461-04
+- Solicitation Number: W50S9526BA002
+
+## Summary
+
+This is an update to presolicitation number W50S9526B0001 and W50S9526BA001 to provide interested bidders with the revised system assigned solicitation number. All information contained in prior announcements remains unchanged.The USPFO for South Carolina intends to issue an Invitation for Bid to award a single firm fixed- price contract for services, non-personal, to provide all plant, labor, transportation, materials, tools, equipment, appliances, and supervision necessary to repair and expand airfield pavements to meet standard by utilizing conventional design and construction methods at McEntire JNGB. The scope of this project will consist of the removal of existing substandard concrete and asphaltic pavement and the installation of new base course, new concrete pavement (PCC), storm water drainage improvements, relocate taxiway edge lights, signage and paint taxi lines for base assigned and transient aircraft. All new pavements will be compatible with applicable Department of Defense (DoD), Air Force, and installation design standards and criteria. In addition, local materials and construction techniques shall be used where cost effective. The work is located at McEntire Joint National Guard Base near Eastover in Richland County, South Carolina. The base award CLIN is anticipated to be as follow: CLIN 0001: Base Bid This project is set aside 100% for Small Business. The North American Industry Classification (NAICS) Code is 237310, with a size standard of $45,000,000.00. The magnitude of the project is between $10,000,000.00 and $25,000,000.00. The project is anticipated to occur in two stages with a total contract duration of 365 days after notice to proceed (NTP). The first stage will consist of an anticipated 180-day pre-construction period for submittal approval, testing, mix designs, submission of required permits, etc. The second stage will consist of an anticipated 180-days of actual construction. No work shall begin on stage two until the government has fully accepted stage one and issued a separate NTP (this may not start immediately following stage one completion). *NOTE: The NTP for stage two construction will contain either the number of days remaining from the original 365 days after government acceptance of stage one or 180 days, whichever is greater. Your attention is directed to FAR Clause 52.219-14(e)(3) (DEVIATION 2021-O0008), LIMITATIONS ON SUBCONTRACTING, which states ?By submission of an offer and execution of a contract, the Contractor agrees that in performance of a contract assigned a North American Industry Classification System (NAICS) code for General construction, it will not pay more than 85 percent of the amount paid by the Government for contract performance, excluding the cost of materials, to subcontractors that are not similarly situated entities. Any work that a similarly situated entity further subcontracts will count towards the prime contractor?s 85 percent subcontract amount that cannot be exceeded?. In accordance with FAR 36.211(b), the following information is provided:(1) The National Guard has no agency-specific policies or procedures applicable to definitization of equitable adjustments for change orders under construction contracts other than those described at FAR 43.204, DFARS 243.204 and AFARS 5143.204.(2) Data for the prior 3 fiscal years regarding the time required to definitize equitable adjustments for change orders under construction contracts for the National Guard is currently not available but will be compiled and provided in future announcements. Prospective bidders are highly encouraged to attend a pre-bid conference and site visit: See Clause 52.236-27 of solicitation for time and date, at McEntire Joint National Guard Base 169th FW, CE Conference Room, 1325 South Carolina Road, Building 1071, Eastover, SC 29044. Interested contractors shall follow conference registration and base access requirements shown in the solicitation. A site visit will follow the pre-bid conference. All questions for the pre-bid conference must be submitted 5 calendar days prior to the conference via email to jonathan.bailey.28@us.af.mil and david.viers.@us.af.mil. Submit Proposals no later than: See Box 13 and any amendments for Proposal Due Date. Interested offerors must be registered in the System for Award Management (SAM). To register go to www.sam.gov. Instructions for registering are on the web page (there is no fee for registration). The solicitation and associated information and the plans and specifications will be available only from the Contract Opportunities page at SAM.gov. DISCLAIMER: The official plans and specifications are located on the official government webpage, and the Government is not liable for information furnished by any other source. Amendments, if/when issued will be posted to Contract Opportunities for electronic downloading. This will normally be the only method of distributing amendments prior to closing; therefore, it is the offeror?s responsibility to check the website periodically for any amendments to the solicitation. Websites are occasionally inaccessible, due to various reasons. The Government is not responsible for any loss of Internet connectivity or for an offeror?s inability to a web pages. The Government will not issue paper copies.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Jonathan Bailey
+  - Email: jonathan.bailey.28@us.af.mil
+  - Phone: 8035838571
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cf7bf30d2b5a4d5ab610c28b5679270b/view)

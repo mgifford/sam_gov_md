@@ -1,0 +1,29 @@
+---
+layout: default
+title: Navy Junior Reserve Officers Training (NJROTC) National Competition
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: ffe415f279884301876c39364c91c5ae
+---
+
+# Navy Junior Reserve Officers Training (NJROTC) National Competition
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-03-17 16:59:04.697-04
+- Solicitation Number: N0018926QW077
+
+## Summary
+
+This is a COMBINED SYNOPSIS/SOLICITATION for commercial products and commercial services prepared in accordance with the format in subpart 12.6, as supplemented with additional information included in this notice. This announcement constitutes the only solicitation; quotes are being requested and a written solicitation will not be issued. This acquisition is being processed pursuant to FAR Part 6.103-1, Only one responsible source and no other supplies or services will satisfy agency requirements. Sports Network International Inc. (SNI) is considered the only source able to successfully perform the instant requirement. All other responsible sources may submit concise documentation for consideration regarding their ability to provide the required support, as well as financial and technical information. This combined synopsis/solicitation SHALL be posted on both NECO (https://www.neco.navy.mil/) and SAM.GOV. The NECO website has a Submit Bid button next to the solicitation number. DO NOT use the Submit Bid button on NECO to submit your proposal. Quoter shall follow the method of proposal submission set forth below. The RFQ number is N0018926QW077. This solicitation documents and incorporates provisions and clauses in effect through FAC 2025-06 and DFARS Change Notice 20251110. It is the responsibility of the contractor to be familiar with the applicable clauses and provisions. The clauses may be accessed in full text at these addresses: https://www.acquisition.gov/far-overhaul and http://www.acq.osd.mil/dpap/dars/dfarspgi/current/index.html. The NAICS code is 711320 and the Small Business Standard is $22M. The proposed contract is being solicited and awarded to Sports Network International Inc. (SNI) on a sole source basis and this RFQ is not a request for competitive quotes. . The RFQ is provided as an attachment. In accordance with FAR 5.102(a)(6), the required justification or documentation is attached. NAVSUP Fleet Logistics Center (FLC) Norfolk intends to issue a purchase order on a sole source basis for event planning services to Sports Network International Inc. (SNI). The Navy Junior Reserve Officers Training (NJROTC) requires services necessary to perform event planning. The Contractor must provide all management aspects for the production of the 2026 United States Navy Junior Reserve Officers Training Corps (NJROTC) Academic, Athletic and Drill National Championship including event promotional materials, media, execute, score competition, and decorate for event. Additionally, all management aspects for the event including team registration paperwork and entrance fees; production of all event artwork to include individual unit awards, medallions and T-shirts; develop and distribute Standard Operating Procedures (SOPs) to all competition entrants; maintain the NJROTC competition website; provide competition area set up; assign and train judges event; transport all event materials to the sites; produce and supply all team trophies for the top five (5) placements in each competition; and post commendation letters for each competing cadets. Additionally, it is required that services shall include carrying forward, compiling, and maintaining team and individual cadet performance statistics for future events. The issuance of a purchase order is contemplated with an estimated period of performance of 20 March 2026 through 30 June 2026. The place of performance is Naval Air Technical Training Center, 230 Chevalier Field Ave., Pensacola, FL 32508-5113. However, this notice of intent is not a request for competitive quotes. A determination by the Government not to compete the proposed contract action based upon responses to this notice is solely within the discretion of the Government. Furthermore, no award will be made on the basis of information received in response to this notice and the Navy will not pay for any information provided. Information received will normally be considered solely for the purpose of determining whether or not competitive procurement is a possibility. Such information, if submitted, should be forwarded to the email address below and reference RFQ N0018926QW077. Sports Network International Inc. (SNI) will be solicited, concurrent with this synopsis, to provide the required support. The response date/ time is 10:00 AM EST on 19 March 2026. Quote shall be sent to via email to carmen.a.greenwood2.civ@us.navy.mil. POC: Carmen Greenwood, 771-229-2436. ***See RFQ for full clauses*** 52.212-1, Instructions to Offerors-Commercial Products and Commercial Services 52.212-4, Contract Terms and Conditions-Commercial Products and Commercial Services 52.212-5, Contract Terms and Conditions Required To Implement Statutes or Executive Orders-Commercial Products and Commercial Services, Include a completed copy of the provision at 52.212-3, Offeror Representations and Certifications-Commercial Products and Commercial Services, with quote
+
+## Contacts
+
+- Primary Contact:
+  - Name: Carmen Greenwood
+  - Email: carmen.a.greenwood2.civ@us.navy.mil
+  - Phone: 771-229-2436
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ffe415f279884301876c39364c91c5ae/view)

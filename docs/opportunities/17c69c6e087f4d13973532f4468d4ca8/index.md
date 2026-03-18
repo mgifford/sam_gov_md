@@ -1,0 +1,31 @@
+---
+layout: default
+title: PXI System Upgrade
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 17c69c6e087f4d13973532f4468d4ca8
+---
+
+# PXI System Upgrade
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-03-17 17:27:04.353-04
+- Solicitation Number: FA930226Q0023
+
+## Summary
+
+This is a Combined Synopsis/Solicitation for the acquisition of a PXI System Upgrade. Please see attached SF 1449 for further details. (i) This is a combined synopsis/solicitation for commercial products or commercial services prepared in accordance with RFO FAR Part 12. This announcement constitutes the only solicitation. Authorized Offers are being requested, and a separate written solicitation will not be issued. (ii) Solicitation Number: FA930226Q0023 **Please provide the full solicitation number on all packages** AUTHORIZED VENDORS ONLY who believe they can meet all the requirements for the supply described in this synopsis are invited to submit, in writing, a complete quote. Please note that vendors must be on the manufacture AUTHORIZED VENDORS list ONLY. Authorized offerors may utilize the attached SF1449 to complete quote information in addition to a separate quote (in PDF format); ensuring the quote contains information and pricing for all contract line items (CLINs) included on the SF1449. Offerors are required to submit with their quote enough information for the Government to evaluate the requirements detailed in this combined synopsis/solicitation. Offerors shall submit quotes via email, please note the maximum file size is 10MB. Emails over this file size will not be received. Submit only written offers; oral offers will not be accepted. This solicitation is issued as a Request for Quote (RFQ). (iii) This solicitation document and incorporated provisions and clauses are in effect through Revolutionary Federal Acquisition Regulations Overhaul 2025-11, R-DFARS Change 11/03/2025 and DAFAC 2024-1016. (iv) THIS REQUIREMENT WILL BE: Set Aside 100% to a Small Business. The North American Industry Classification System (NAICS) number for this acquisition is 334118 with a size standard of 1000 employees. (v) Delivery: Period of Performance will be date of award – 30 DARO. (vi) The provision at RFO FAR 52.212-1, Instructions to Offerors—Commercial Products and Commercial Services (Oct 2025), applies to this acquisition. Provisions and clauses can be viewed via internet at Acquisition.gov, https://www.acquisition.gov/far-overhaul. Offerors shall prepare their quotations in accordance with RFO FAR 52.212-1. In addition, the following information shall be included: PROVIDE THE FOLLOWING CONTRACTOR INFORMATION WITHIN YOUR QUOTE: 1. SAM UEI: 2. TIN Number: 3. CAGE Code: 4. Contractor Name: 5. Payment Terms (NET 30) or Discount: 6. Point of Contact Name and Phone Number: 7. Email address: 8. Warranty: 9. Date Offer Expires: 10. FOB Destination: 11. Estimated Delivery Lead Time: (vii) The provision at RFO FAR 52.212-2, Evaluation—Commercial Products and Commercial Services (Oct 2025) applies to this acquisition. ***Please read the evaluation criteria closely. If the vendor does not provide a full response, it will be found unresponsive*** The solicitation provides that quotations will be evaluated using Lowest Price Technically Acceptable (LTPA). The award will be made based on the lowest evaluated price of proposals meeting or exceeding the acceptability standards for non-cost factors. The agency will first rank quotations according to price, from lowest to highest, and will evaluate the lowest-priced quotation as either technically acceptable or unacceptable, reserving the right to evaluate additional quotations for technical acceptability if deemed to be in the best interest of the government. Evaluation Factors: 1. Price 2. Technically Acceptability. The ability to provide the PXI System Upgrade will be assigned ratings of satisfactory or unsatisfactory. The Government will award a purchase order resulting from the RFQ to the offeror responsible whose quote is responsive to the RFQ and considered to be the LTPA. (viii) Offerors shall include complete copies of applicable provisions, which are included in SF1449. Offers will be considered incomplete if these are not included with the quote. (iv) The clause at RFO FAR 52.212-4, Terms and Conditions—Commercial Products and Commercial Services (Oct 2025), applies to this acquisition. (x) Additional Contract Requirement or Terms and Conditions: Please find a contemplated list of additional provisions/clauses in the attachments; the final list of clauses is dependent upon actual dollar value of the contract award and may change from those provided in the attachment. Full text for the clauses and provisions can be accessed via https://www.acquisition.gov/ (xi) Defense Priorities and Allocation System (DPAS): N/A (xii) Quote Submission Information: It is the government’s intent to award without discussions. Therefore, each initial quote should contain the offeror’s best terms from a price and technical standpoint. However, the government reserves the right to conduct discussions if the Contracting Officer (CO) determines that discussions are necessary. Offers are due on 30 MARCH 2026 at 12:00 PM, Pacific Standard Time (PST). Offers must be sent via email to: Carmen Barahona at carmen.barahona@us.af.mil AND Anne Beach anne.beach@us.af.mil. NO LATE SUBMISSIONS WILL BE ACCEPTED. (xiii) For additional information regarding this solicitation contact: Primary Point of Contact: Carmen Barahona Contract Specialist carmen.barahona@us.af.mil Secondary Point of Contact: Anne Beach Contract Officer anne.beach@us.af.mil QUESTION PERIOD: The period for questions regarding this RFQ will end at 12:00 PM PDT on 30 March 2026. Please send all questions to the buyer via email at carmen.barahona@us.af.mil. Phone inquiries are not available currently. All questions and answers will be posted to this RFQ.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Carmen Barahona
+  - Email: carmen.barahona@us.af.mil
+- Secondary Contact:
+  - Name: Anne Beach
+  - Email: anne.beach@us.af.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/17c69c6e087f4d13973532f4468d4ca8/view)
