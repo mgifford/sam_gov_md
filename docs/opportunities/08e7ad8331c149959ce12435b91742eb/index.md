@@ -1,0 +1,39 @@
+---
+layout: default
+title: Pipette Calibration System
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 08e7ad8331c149959ce12435b91742eb
+---
+
+# Pipette Calibration System
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-03-18 14:44:09.027-04
+- Solicitation Number: FA226326Q0003
+
+## Summary
+
+This is a combined synopsis/solicitation for commercial items prepared in accordance with the format in the Federal Acquisition Regulation (FAR) Subpart 12.201, as supplemented with additional information included in this notice. This solicitation document and incorporated provisions and clauses are those in effect through the Revolutionary FAR Overhaul (RFO) and DFARS Revolutionary FAR Overhaul Class Deviations (R-DFARS). The RFO regulations are available electronically at the RFO site, https://www.acquisition.gov/far-overhaul/far-part-deviation-guide. The R-DFARS site are available electronically at https://www.acq.osd.mil/dpap/dars/dfars_far_overhaul_class_deviations.html. This announcement constitutes the only solicitation for which a Request for Quotation (RFQ) will be issued. It is the offeror's responsibility to monitor this site for the release of amendments (if any). The RFQ number is FA226326Q0003 and shall be referenced on any offer submitted. The North American Industry Classification System (NAICS) code for this acquisition is 334516 and the business size standard is 1000 employees. This RFQ is being solicited as Full and Open Competition. AFMETCAL at Heath OH intends to award a firm-fixed price contract under Simplified Acquisition Procedures (SAP) in accordance with FAR Part 12-Acquisition of Commercial Items, for the purchase of Pipette Calibration System, associated data, and three (3) year OEM warranty. The anticipated quantity for this acquisition is 1-4 Pipette Calibration Systems including options. Products offered shall be commercial items or commercially available off-the shelf (COTS) items meeting the definitions in FAR Part 2. Items proposed shall be new units. Reconditioned, remanufactured, or used items are not acceptable and shall not be proposed. The units must meet the requirements of Purchase Descriptions (PD) 26M-632A-MA, Rev. 2, dated 16 December 2025. The RFQ, PD, DD 1423 Data Requirements, and other applicable solicitation attachments are available for download at this site. Please review ALL documents carefully. IMPORTANT NOTICE TO OFFERORS: All prospective awardees are required to register at SAM and to maintain active registration during the life of the contract. SAM can be accessed at https://www.sam.gov. Any award resulting from this solicitation will include DFARS Clause 252.232-7003, Electronic Submission of Payment Requests and Receiving Reports. Section 1008 of the National Defense Authorization Act of Fiscal Year 2001 requires any claims for payment (invoices) under DoD contract to be submitted in electronic form. Wide Area WorkFlow (WAWF) through Procurement Integrated Enterprise Environment (PIEE) is the DoD system of choice for implementing this statutory requirement. Use of the basic system is at no cost to the contractor. Contractors must complete vendor training, which is also available at no cost at https://wawf.eb.mil. Prior to submitting invoices in the production system, contractors must register for an account at https://wawf.eb.mil/. Offers MUST: (1) be valid for 90 days, (2) be for the item described in the PDs (List of Attachments, Attachment 1), (3) be for a new unit (not reconditioned, remanufactured, or used unit), (4) be FOB Destination to PMEL locations listed in solicitation, (5) include a delivery schedule, if unable to meet delivery schedule in Deliveries and Performance section, (6) include name of and be signed by an authorized company representative along with telephone number, facsimile number, and email address, (7) include taxpayer identification number (TIN), CAGE Code Number and DUNS Number, (8) include a technical proposal that includes a written line-by-line response to the PDs, (9) include copy of commercial price list, (10) include a copy of the proposed three (3) year OEM warranty, (11) include completed Supplies or Services and Price/Cost section, (12) include completed Total Evaluated Price worksheet (13) offerors shall ensure representations and certifications and all information in SAM is current. The Government reserves the right to incorporate the successful offeror’s technical proposal into any contract resulting from this solicitation. Offers must be received no later than 20 April 2026 at 2:00 PM EST. Offerors shall submit electronic files to DoD SAFE, https://safe.apps.mil following the instructions provided in Instructions to Offerors (Attachment 4) of the RFQ, under Electronic Proposal Submission. Offers submitted in forms other than through DoD Safe are not permissible and will not be considered. Please note that the uploaded files must be timestamped by the offer due date and time. Offerors bear the risk for receipt of submitted offers being untimely. Offerors shall allow sufficient time for receipt of electronic submissions by the due date and time. All responsible sources may submit an offer, which if received timely shall be considered by this agency.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Benjamin Bailey
+  - Email: benjamin.bailey.9@us.af.mil
+  - Phone: 937-713-5846
+- Secondary Contact:
+  - Name: Thomas Carson
+  - Email: thomas.carson.2@us.af.mil
+  - Phone: 9377135844
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: , (3) be for a new unit (not reconditioned, remanufactured, or used unit), (4) be FOB Destination to PMEL locations listed in solicitation, (5) include a delivery schedule, if unable to meet delivery schedule in Deliveries and Performance section, (6) include name of and be signed by an authorized company representative along with telephone number, facsimile number, and email address, (7) include taxpayer identification number (TIN), CAGE Code Number and DUNS Number, (8) include a technical proposal that includes a written line-by-line response to the PDs, (9) include copy of commercial price list, (10) include a copy of the proposed three (3) year OEM warranty, (11) include completed Supplies or Services and Price/Cost section, (12) include completed Total Evaluated Price worksheet (13) offerors shall ensure representations and certifications and all information in SAM is current. The Government reserves the right to incorporate the successful offeror’s technical proposal into any contract resulting from this solicitation. Offers must be received no later than 20 April 2026 at 2:00 PM EST. Offerors shall submit electronic files to DoD SAFE, https://safe.apps.mil following the instructions provided in Instructions to Offerors (Attachment 4) of the RFQ, under Electronic Proposal Submission. Offers submitted in forms other than through DoD Safe are not permissible and will not be considered. Please note that the uploaded files must be timestamped by the offer due date and time. Offerors bear the risk for receipt of submitted offers being untimely. Offerors shall allow sufficient time for receipt of electronic submissions by the due date and time. All responsible sources may submit an offer, which if received timely shall be considered by this agency
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/08e7ad8331c149959ce12435b91742eb/view)

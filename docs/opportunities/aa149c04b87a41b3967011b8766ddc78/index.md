@@ -1,0 +1,39 @@
+---
+layout: default
+title: CL25206002 1125 NSN ACV LTC
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: aa149c04b87a41b3967011b8766ddc78
+---
+
+# CL25206002 1125 NSN ACV LTC
+
+- Agency: DEPT OF DEFENSE
+- Type: Presolicitation
+- Posted: 2026-03-18 12:28:08.877-04
+- Solicitation Number: SPE7LX26R0001
+
+## Summary
+
+// RFP SPE7LX-26-R-0001 will incorporate 1,125 NSNs tied to CAGEs associated with Iveco Defence Vehicles S.P.A. various facilities. Please see the attached Excel spreadsheet for the NSNs and their pertinent information. -------------------------------------------------------------------------------------------------------------- ** This acquisition involves a consolidation of requirements IAW FAR 7.107-2 and has been determined necessary and justified. The determination will be posted with the solicitation IAW 7.107-5(c). -------------------------------------------------------------------------------------------------------------- // Unit of Issue: EA or SE // Destination Information: FOB Origin / I&A Origin or Destination to various DLA stocking depots (NORM), or various customers via customer-direct shipments (BANS), depending on NSN // Delivery Schedule: Varies by NSN ** The solicitation document contains information that has been designated as "Militarily Critical Technical Data." Only businesses that have been certified by the Department of Defense, United States/Canada Joint Certification Office, and have a valid requirement may have a copy of the solicitation document. All requests for copies of the solicitation document must include a certified copy of DD Form 2345, Militarily Critical Technical Data Agreement. To obtain certification, contact: Commander, Defense Logistics Information Service (DLIS) ATTN: U.S./Canada Joint Certification Office 74 Washington Avenue North Battle Creek, MI 49017-3084 or call the DLIS at (800)-352-3572. The DLIS Unites States/Canada Joint Certification Lookup service is available via the Internet at: https://public.logisticsinformationservice.dla.mil/jcp/search.aspx. ** Interested parties may obtain copies of Military and Federal Specifications and Standards, Qualified Product Lists, Military Handbooks, and other standardization documents from the DoD Single Stock Point (DODSSP), in Philadelphia, PA. Most documents are available in Adobe PDF format from the ASSIST database via the Internet at https://assist.dla.mil/online/start/index.cfm. Users may search for documents using the ASSIST-Quick Search and, in most cases, download the documents directly via the Internet using standard browser software. Documents not available for downloading from ASSIST can be ordered from the DODSSP using the ASSIST Shopping Wizard, after establishing a DODSSP Customer Account by following the registration procedures or by phoning the DoDSSP Special Assistance Desk at (215) 697-6396/6257 (DSN: 442-6396/6257). Users not having access to the Internet may contact the DODSSP Special Assistance Desk at (215) 697-6396/6257 (DSN: 442-6396/6257) or mail requests to the DODSSP, Bldg. 4/D, 700 Robbins Avenue, Philadelphia, PA 19111-5094. Patterns, Drawings, Deviations Lists, Purchase Descriptions, etc., are not stocked at the DODSSP. ** One or more of the items under this acquisition may be subject to an Agreement on Government Procurement approved and implemented in the United States by the Trade Agreements Act of 1979. All offers shall be in the English language and in U.S. dollars. All interested suppliers may submit an offer. (X) The solicitation will be available in DLA DIBBS (https://www.dibbs.bsm.dla.mil/rfp) on or about its issue date of 04/02/2026. It WILL NOT be posted to www.sam.gov. (X) Drawings/specifications will be available through DIBBS solicitation link in the synopsis on the solicitation issue date (for source-controlled drawing (AMSC=B) NSNs). In order to obtain Technical Data for these AMSC=B NSNs only, contractors can refer to the Tech Data tab at https://www.dibbs.bsm.dla.mil, for DLA Collaboration Folders (cFolders) https://pcf1.bsm.dla.mil/cfolders/. This system contains Bidsets, Engineering Data Lists (EDLs) and digitized drawings for open BSM-DIBBS procurements after 10/01/2006. For cFolders System Access Issues, contact the DLA Enterprise Help Desk at 844-DISA-HLP (844-347-2457). Note: System access requires the user to have an active DIBBS account. General questions can be answered by the DLA Product Data Customer Service Help Line at 1-804-279-3477. (X) The scope of this acquisition is for a combination fixed price with price redetermination, fixed price with economic price adjustment, and firm fixed price Federal Acquisition Regulation (FAR) Part 12 requirements type Indefinite Delivery contract. The Government is pursuing a long-term contract, for the duration of a four-year base period with three (3) two-year options, for a potential total of ten (10) years. The estimated annual value for this acquisition project is $9,622,395.21. The total estimated 10-year contract value is $96,223,952.10. This requirement is for 1,125 NSNs for both DLA customer-direct support and DLA stock support in the continental United States (CONUS), and outside the continental United States (OCONUS) via shipments through the Containerization and Consolidation Points in Susquehanna, PA and San Joaquin, CA. The customer-direct NSNs will have customer-direct support in the continental United States (CONUS), outside the continental United States (OCONUS), and for foreign military sales (FMS). At the time of solicitation there is a total of one thousand one hundred twenty-five (1,125) NSNs being procured and managed by three Major Subordinate Commands (MSCs) - DLA Weapons Support (Columbus) (659 NSNs), DLA Weapons Support (Richmond) (454 NSNs), and DLA Troop Support (12 NSNs). (X) The proposed procurement contains an option to extend the contract period one or more times at the discretion of the government. The total duration (base plus option years) shall not exceed ten (10) years. (X) While price may be a significant factor in the evaluation of offers, the final award decision will be based upon a combination of price, delivery, past performance, and other evaluation factors as described in the solicitation. (X) The Small Business size standards vary from 500 employees to 1,500 employees, depending on NAICS. Please see the Excel spreadsheet attachment for the various NAICS and their corresponding size standards. (X) This acquisition is for supplies for which the Government does not possess complete, unrestrictive technical data; therefore, the Government intends to solicit and contract with only approved sources under the authority of 10 USC 3204(a)(1). Approved sources are Iveco Defence Vehicles S.P.A (A4249) or their affiliated CAGEs 974H3, U5803, AH795, and D8060.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Scott D. Knowles
+  - Email: scott.knowles@dla.mil
+  - Phone: 6146930192
+- Secondary Contact:
+  - Name: Angela Fugate
+  - Email: angela.fugate@dla.mil
+  - Phone: 6146925271
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: the various NAICS and their corresponding size standards. (X) This acquisition is for supplies for which the Government does not possess complete, unrestrictive technical data; therefore, the Government intends to solicit and contract with only approved sources under the authority of 10 USC 3204(a)(1). Approved sources are Iveco Defence Vehicles S.P.A (A4249) or their affiliated CAGEs 974H3, U5803, AH795, and D8060
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/aa149c04b87a41b3967011b8766ddc78/view)

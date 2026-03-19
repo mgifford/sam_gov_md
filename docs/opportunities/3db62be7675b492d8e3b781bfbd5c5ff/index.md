@@ -1,0 +1,32 @@
+---
+layout: default
+title: DDJC Tracy Solar Covered Parking Structure
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 3db62be7675b492d8e3b781bfbd5c5ff
+---
+
+# DDJC Tracy Solar Covered Parking Structure
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-03-18 14:50:07.197-04
+- Solicitation Number: W9123826S0017
+
+## Summary
+
+This Sources Sought Notice is being issued for market research purposes to determine the availability, capability, and interest of small business firms for a potential Government requirement. NO SOLICITATION IS AVAILABLE; requests for a solicitation will go unanswered. No award will be made from this Notice. Responses will be used to determine potential acquisition strategies, understand current market capabilities, and to gain knowledge of potential sources. GENERAL SCOPE:The United States Army Corps of Engineers (USACE) Sacramento District (SPK) anticipates a potential requirement to provide design and construction for the installation of a covered parking photovoltaic (PV) system at the North parking lot of Bldg. 201, Defense Distribution Depot San Joaquin, Tracy Site. The system will consist of multiple rack mounted PV panels, inverters, sub-meter, wiring, distribution conduits and mounting, disconnects, trenching, controls, other necessary equipment for a fully operational PV system and incidental related work. The covered parking PV system shall be designed in accordance with the criteria contained within the Request for Proposal, using industry standard materials and efficient practices and meet all applicable federal, state, and local codes.The potential requirement may result in a firm-fixed-price solicitation issued approximately May 2026. If solicited, the Government intends to award the anticipated requirement by approximately August 2026.The Government estimates that design and construction of the anticipated requirement can be completed within 450 calendar days. If market conditions indicate this estimate may be unrealistic, Respondents are encouraged to provide specific information (such as known equipment lead times or other timeline concerns) for Government consideration when responding to this Sources Sought.The estimated magnitude of construction for this project is expected to be between $5,000,000 and $10,000,000.The North American Industrial Classification System (NAICS) Code for this potential requirement is anticipated to be 236220, Commercial and Institutional Building Constructors. The small business size standard for this NAICS, as established by the U.S. Small Business Administration, is $45,000,000 annual revenue. The Product Service Code for the potential requirement is anticipated to be Y1LZ, Construction of Parking Facilities. If there is a reasonable expectation that at least two (2) responsible small business concerns under this NAICS can provide the anticipated services at fair market prices, the Contracting Officer is required to set the acquisition aside for small business concerns. If competition is set-aside for small businesses, Federal Acquisition Regulation (FAR) 52.219-14, Limitations on Subcontracting, requires that general construction small business Contractors self-perform at least twenty-five percent (25%) of the cost of the contract, not including the cost of materials. If no set aside is made, the requirement is competed with full and open competition, and the awarded Contractor is not a small business, the Contractor will be required to perform the percent of work identified in the solicitation under FAR 52.236-1, Performance of Work by the Contractor.Contractors with the skill, capabilities, workload capacity, and ability to obtain bonding to complete the project described above (either through self-performance and/or Subcontractor management) are invited to provide capability statements to the point of contact listed below. Other than small businesses are also encouraged to submit Capability Statements.CAPABILITY STATEMENTResponses must be limited to ten (10) 8.5 x 11 inch pages with a minimum font size of point 10.Please provide the following information: 1) Company name, System for Award Management Unique Entity Identification number (SAM UEID) or Employer Identification Number?(EIN), address, point of contact, phone number, and e-mail address.2) Experience and capability to complete contracts of similar magnitude and complexity to the potential requirement, including at least three (3) examples of comparable work performed within the past six (6) years. Each example should include a brief description of the project, description of the work performed (identification of self-performance and/or Subcontractor management), customer name, customer satisfaction, timeliness of performance, dollar value of the project, and whether there were any challenges experienced during the project (delays, investigations, health and safety issues, labor shortages, management/organizational issues, etc.). 3) Business size and socioeconomic type for the applicable NAICS (ex: Woman-Owned Small Business, Serviced-Disabled Veteran-Owned Small Business (SDVOSB), Veteran-Owned Small Business (VOSB), certified Historically Underutilized Business Zone (HUBZone), 8(a) Participant, small business, or other than small business (large business)).4) Bonding capability (in the form of a Surety letter).Please submit all capabilities statements, information, brochures, and/or marketing material as one (1) document, limited to the page maximum above. Responses will not be considered an offer, proposal, or bid for any solicitation that may result from this Notice. Moreover, responses will not restrict the Government to an acquisition approach. This Notice is for information and planning purposes only. Respondents will not be notified of the results of any review conducted or the capability statements received. Please provide responses and/or questions by e-mail to the Contract Specialist, Julie Maxwell, at Julie.Maxwell@usace.army.mil by 0900/9:00 a.m. (PST) Wednesday, 1 April 2026. Please include the Sources Sought Notice number, ?W9123826S0017? in the e-mail subject line.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Julie Maxwell
+  - Email: julie.maxwell@usace.army.mil
+  - Phone: 9165577989
+- Secondary Contact:
+  - Name: Amber Scyoc
+  - Email: amber.l.scyoc@usace.army.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3db62be7675b492d8e3b781bfbd5c5ff/view)

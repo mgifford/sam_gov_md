@@ -1,0 +1,31 @@
+---
+layout: default
+title: 6515--Minneapolis VA Health Care System Accessory Bagging System Intent to Sole Source
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Special Notice
+notice_id: 0ce554153c3a496c8466a44177ed801a
+---
+
+# 6515--Minneapolis VA Health Care System Accessory Bagging System Intent to Sole Source
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Special Notice
+- Posted: 2026-03-18 11:49:08.123-04
+- Solicitation Number: 36C26326Q0485
+- Awardee: null
+
+## Summary
+
+The Department of Veterans Affairs, Network Contracting Office 23 intends to award a sole source contract under the authority of FAR Overhaul 12.102(a) Only one responsible source and no other supplies or services will satisfy agency requirements, to Midwest Medical Systems for a pharmacy accessory bagging system (PABS-115V) SX Proline Series. This notice of intent is not a request for quotations; interested parties may express their interest by providing a capabilities statement no later than March 28th, 2026 at 17:00 CT. The capabilities statement must provide clear and unambiguous evidence to substantiate the capability of the party to provide the required supply as described in draft Statement of Work below. A determination not to compete this proposed contract upon responses to this notice is solely within the discretion of the Government. Verbal responses are not acceptable and will not be considered. When responding to this announcement, respondents should refer to Announcement, Notice of Intent. If after March 28th, 2026 no viable responses have been received in response to this announcement, Department of Veterans Affairs shall negotiate solely with Midwest Medical Systems. This notice of intent to award a sole source contract is not a request for competitive quotes. There will be no solicitation available for competitive quotes. Phone calls will not be accepted. The point of contact for this action is Contract Officer Jeffrey Brown, who can be reached at Jeffrey.Brown8@va.gov. Draft Statement of Work Minneapolis VA Healthcare System (MVAHCS) has a need to purchase a new package/dose sealer for the pharmacy service. This equipment will allow pharmacy staff to pack medications in a bag with the appropriate barcode for the nurse to scan. A brand name or equal package/dose sealer equivalent to the one identified in the table below is required. Brand Name Requirements: (a)Â If an item is identified as "brand name or equal," the purchase description shall reflect the characteristics and level of quality that will satisfy the Government s needs. (b)Â For equivalent items to be considered equivalent of the product(s)Â of the brand name manufacturer,Â they must- (1)Â Meet the salient physical, functional, or performance characteristic specified in thisÂ solicitation; (2)Â Clearly identify the item by- (i)Â Brand name, if any; and (ii)Â Make or model number; (3)Â IncludeÂ descriptive literatureÂ such as illustrations, drawings, or a clear reference to previously furnished descriptive data or information available to theÂ Contracting Officer; and (4)Â Clearly describe any modifications theÂ offerorÂ plans to make in a product to make it conform to theÂ requirements. Mark any descriptive material to clearly show the modifications. (c)Â TheÂ Contracting OfficerÂ will evaluate "equal"Â productsÂ on the basis of information furnished or identified and reasonably available to theÂ Contracting Officer. TheÂ Contracting OfficerÂ is not responsible for locating or obtaining any information not identified. Item # Description/Part Number* Qty 1 Pharmacy Accessory Bagging System (PABS-115V) SX Proline Series / APB-SX-1-115 1 2 Installation and Training 1 3 Pak-EDGE UD Software License Version 2.0 (included) / PE-UD2 1 Salient Characteristics: The following are the salient characteristics for the pharmacy Unit Dose bag/pouch medication repackaging equipment Ability to create and seal unit dose medication bags Barcoding to be printed directly on the pouch or bag and not require additional labels Bags to have tamper evident seals and side is to be clear, transparent and the other to be white, opaque. Options for bag/pouch sizes to accommodate items such as vials, syringes, unit dose eye drops, unit dose nebulizer containers Ability to have automatically paced filling with some capability to adjust the fill time interval. Machines must open pouches or bags so items can be easily dropped in for packaging and include a foot pedal or other means of hands-free filling of bags Minneapolis VA pharmacy already uses Pak-Edge UD Barcode Labeling Software for a large library of repackaging. Consistency is needed within repackaging work that comes by using the same software/library for the multi-faceted types of repackaging; therefore, the system must be able to use Pak-Edge UD Barcode Labeling Software 2.0 current version 2.0.604 and be compatible with any subsequent version updates. Delivery/Setup The contractor shall coordinate delivery, setup and training with the on-site Point of Contacts (POCs) listed below: TBD Delivery Address: Contractor will ship or deliver all items to the Minneapolis VA Health Care System. Minneapolis Veteran Affairs Heath Care System Attn: TBD One Veterans Drive Minneapolis, MN 55417 Important Receiving Requirement: Contractor shall include the Veteran Affairs issued Purchase Order Number on the shipping label or packing list. Without the Purchase Order Number, the item will not be properly received. Delays in payment may result failure to follow instructions. Delivery hours: Monday through Friday from 7:00 am 3:00 pm. Deliveries are not accepted on the federal holidays listed below: Observed Federal Holidays: New Year s Day Martin Luther King Birthday Washington s Birthday Memorial Day Juneteenth Independence Day Labor Day Columbus Day Veteran s Day Thanksgiving Day Christmas Day Installation/Training Vendors will be expected to provide installation and training on the new equipment.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Jeffrey Brown
+  - Title: Contracting Officer
+  - Email: Jeffrey.Brown8@va.gov
+  - Phone: 651-293-3009
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0ce554153c3a496c8466a44177ed801a/view)

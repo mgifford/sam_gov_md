@@ -1,0 +1,66 @@
+---
+layout: default
+title: GAGE,DEPTH,VERNIER
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: d7dcd999de084bdb817f1b4d7263fbb0
+---
+
+# GAGE,DEPTH,VERNIER
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-03-18 08:55:33.511-04
+- Solicitation Number: N0010426QXA29
+
+## Summary
+
+CONTACT INFORMATION|4| N774.10|AE4| Please refer to email|sherry.l.kaylor.civ@us.navy.mil| ITEM UNIQUE IDENTIFICATION AND VALUATION (JAN 2023)|19|||||||||||||||||||| INSPECTION OF SUPPLIES--FIXED-PRICE (AUG 1996)|2||| WIDE AREA WORKFLOW PAYMENT INSTRUCTIONS (JAN 2023)|16| Invoice and receiving report (combo)||TBD|N00104|TBD|TBD|See Schedule |TBD|See Schedule||TBD|||||| NAVY USE OF ABILITYONE SUPPORT CONTRACTOR - RELEASE OF OFFEROR INFORMATION (3-18))|1|WSS Mechanicsburg| BUY AMERICAN-FREE TRADE AGREEMENTS-BALANCE OF PAYMENTS PROGRAM-BASIC (FEB 2024)|11|||||||||||| SMALL BUSINESS SUBCONTRACTING PLAN (DOD CONTRACTS)-BASIC (DEV 2026-O0037)(FEB 2026))|2||| CONTRACTOR PURCHASING SYSTEM ADMINISTRATION-BASIC (DEVIATION 2026-O0015)|1|| SECURITY PROHIBITIONS AND EXCLUSIONS (CLASS DEVIATION 2026-O0025)(FEB 2026)|7|||||||| BUY AMERICAN-FREE TRADE AGREEMENTS-BALANCE OF PAYMENTS PROGRAM CERTIFICATE-BASIC (FEB 2024))|5|||||| ALTERNATE A, ANNUAL REPRESENTATIONS AND CERTIFICATIONS (DEVIATION 2026-O0043)(FEB 2026))|13|||||||||||||| NOTICE OF PRIORITY RATING FOR NATIONAL DEFENSE, EMERGENCY PERPARDENESS, AND ENRGY PROGAM USE (APRIL 2008))|2||| A. Electronic submission of any quotes, representations, and any necessary certifications shall be accomplished via an email directed to sherry.l.kaylor.civ@us.navy.mil B. General Requirements: MIL-STD Packaging, Government Source Inspection Required. C. All freight is FOB Origin. D. This RFQ is for a BUY/Procurement. The resultant award of this solicitation will be issued bilaterally, requiring the contractor?s written acceptance prior to execution. Verify nomenclature, part number, and NSN prior to responding. E. Only a Firm-Fixed Price (FFP) will be accepted. F. Must adhere to IUID requirements of DFARS 252.211-7003 G. The ultimate awardee of the proposed contract action must be an authorized source. Award of the proposed contract action will not be delayed while an unauthorized source seeks to obtain authorization. H. Your quote should include the following information for justification purposes: - New procurement unit price____________________ - Total Price _____________________ - Procurement delivery lead time (PTAT) _________________ days - Award to CAGE _______________ - Inspection & Acceptance CAGE, if not at Award to CAGE _____________ - Cost breakdown requested, including profit rate (if feasible). - Quote expiration date _______________ (90 Days minimum is requested). - Delivery Vehicle (If Delivery Order requested)(e.g. if your CAGE has a current BOA/IDIQ) I. Important Traceability Notice: If you are not the manufacturer of the material you are offering, you must provide an official letter and/or email from the OEM confirming that your company is an authorized distributor of their items. \ 1. SCOPE
+
+1.1 This contract/purchase order contains the requirements for manufacture and the contract quality requirements for the GAGE,DEPTH,VERNIER , part of the ;AN/SPG-62A SSE AEGIS, RADAR SET OF THE AEGIS RADAR SYSTEM; .
+
+1.2 This contract/purchase order contains the requirements for the GAGE,DEPTH,VERNIER . 1.2.1 Full Item Name for GAGE,DEPTH,VERNIER Referenced in this contract/purchase order is ;VERNIER DEPTH GAUGE; . 2. APPLICABLE DOCUMENTS
+
+2.1 Applicable Documents - The document(s) listed below form a part of this contract/purchase order including modifications or exclusions. 2.1.1 "Document References" listed below must be obtained by the Contractor. Ordering information is included as an attachment to this contract/purchase order.
+
+2.2 Order of Precedence - In the event of a conflict between the text of this contract/purchase order and the references and/or drawings cited herein, the text of this contract/purchase order shall take precedence. Nothing in this contract/purchase order, however, shall supersede applicable laws and regulations unless a specific exemption has been obtained. DOCUMENT REF DATA=MIL-STD-130 | | |N |121116|A| | | 3. REQUIREMENTS
+
+3.1 Cage Code/Reference Number Items - The GAGE,DEPTH,VERNIER furnished under this contract/purchase order shall be the design represented by Cage Code(s) reference number(s). Cage _______ ref. no. ;57163 448Z-12;
+
+3.2 Marking - This item shall be physically identified in accordance with MIL-STD-130.
+
+3.3 Changes in Design, Material Servicing, or Part Number - Except for a Code 1 change, which shall be processed as provided in the code statement shown below, no substitution of items shall be made until the NAVICP-MECH Contracting Officer has notified and approval has been given by issuance of a written change order. When any change in design, material, servicing or part number is made to replace or substitute any item to be furnished on this contract/purchase order, the Contractor shall furnish, for the substituting/replacement item, a drawing and an explanation of the reason for the change, explaining the reason therefor. If finished detail drawings are not available, shop drawings in the form used by the manufacturer will be acceptable for Government evaluation. When notifying the Procurement Contracting Officer of the reasons for making substitutions, the type of change shall be indicated by code number in accordance with one of the following statements: Code 1: PART NUMBER CHANGE ONLY - If the Manufacturer's Part Number indicated thereon has changed, but the parts are identical in all respects, supply the item and advise NAVICP-MECH immediately of the new part number. Code 2: Assembly (or set or kit) not furnished - Used following detail parts. Code 3: Part not furnished separately - Use assembly. Code 4: Part redesigned - Old and new parts are completely interchangeable. Code 5: Part redesigned - New part replaces old. Old part cannot replace new. Code 6: Part redesigned - Parts not interchangeable.
+
+3.4 Commercial Item Technical Inquiries - Technical inquiries about Commercial Items, being procured via this contract/purchase order, shall be forwarded to the Procurement Contracting Officer, in writing on company letterhead and signed by a responsible company official. 4. QUALITY ASSURANCE
+
+4.1 Inspection of Item(S) Manufactured to Commercial (Nongovernment) Specifications - Inspection of the completed GAGE,DEPTH,VERNIER shall be limited to type and kind, quantity, condition, packaging and marking.
+
+4.2 Responsibility for Compliance - All items must meet all requirements of this contract/purchase order. The inspection set forth in this specification shall become a part of the Contractor's overall inspection system or quality program. The absence of any inspection requirements shall not relieve the Contractor of the responsibility of assuring that all products or supplies submitted to the Government for acceptance comply with all requirements of the contract/purchase order. Sampling in quality conformance does not authorize submission of known defective material, either indicated or actual, not does it commit the Government to acceptance of defective material.
+
+4.3 Records - Records of all inspection work by the Contractor shall be kept complete and available to the Government during the performance of contract/purchase order and for a period of 365 calendar days after final delivery of supplies. 5. PACKAGING
+
+5.1 Preservation, Packaging, Packing and Marking - Preservation, Packaging, Packing and Marking shall be in accordance with the Contract/Purchase Order Schedule and as specified below. MIL-STD 2073 PACKAGING APPLIES AS FOUND ELSEWHERE IN THE SCHEDULE 6. NOTES
+
+6.1 Ordering Information for Document References - The Department of Defense Single Stock Point (DODSSP), Website http://www.dsp.dla.mil/, provides product information for the Department Of Defense Index Of Specifications and Standards (DODISS) (i.e.Military/Federal Specifications and Standards), Data Item Descriptions (DIDs), and other DODSSP Products. Most Specifications can obtained directly from http://quicksearch.dla.mil/ A. Availability of Cancelled Documents - The DODSSP offers cancelled documentsthat are required by private industry in fulfillment of contractual obligationsin paper format. Documents can be requested by phoning the Subscription Services Desk. B. Commercial Specifications, Standards, and Descriptions - These specifications, standards and descriptions are not available from Government sources. Theymay be obtained from the publishers of the applicable societies. C. Ordnance Standards (OS), Weapons Specifications (WS), and NAVORD OSTD 600 Pages - These type publications may be obtained by submitting a request to: Commander, Indian Head Division, Naval Surface Warfare Center Code 8410P, 101 Strauss Avenue Indian Head, MD 20640-5035 D. On post-award actions, requests for "Official Use Only" and "NOFORN" (Not Releasable To Foreign Nationals) documents must identify the Government ContractNumber, and must be submitted via the cognizant Defense Contract Management Command (DCMC) for certification of need for the document. On pre-award actions such requests must be submitted to the PCO for certification of need for the document. E. NOFORN Military Specifications and Standards (including Amendments, Change Notices and Supplements, but NOT interim Changes) to be ordered from: Contracting Officer NAVSUP-WSS Code 87321 5450 Carlisle Pike P.O. Box 2020 Mechanicsburg, Pa. 17055-0788 F. Nuclear Reactor Publications Assigned NAVSEA Documents and Identification Numbers (i.e. NAVSEA Welding Standard, NAVSEA 250-1500-1) are to be ordered enue: Commanding Officer NAVSUP-WSS Code 009 5450 Carlisle Pike P.O. Box 2020 Mechanicsburg, Pa. 17055-0788 G. Technical Manuals Assigned NAVSEA Identification Numbers (i.e. NAVSEA Welding And Brazing Procedure, NAVSEA S9074-AQ-GIB-010/248) are to be ordered from: Commanding Officer NAVSUP-WSS Code 1 Support Branch 700 Robbins Avenue Philadelphia, Pa. 19111-5094 H. Interim Changes and Classified Specifications must be obtained by submitting a request on DD Form 1425 to NAVSUP-WSS.
+
+6.2 Statement of Prior Approval Data - If the item(s) being offered meet the requirements specified in the contract/purchase order and is an exact duplicate of item(s) previously approved by the Government, furnish the NSN, name of prime manufacturer, drawing number, technical manual number, and previous contract number. Provide this information on company letterhead signed by a responsible company official.
+
+6.3 Commercial Brand Name Description - This contract/purchase order covers a commercial brand name description. If an alternate item is proposed, submit a complete technical description of the item with your proposal for the Government's review to determine if the item meets the minimum requirements of this contract/purchase order.
+
+6.4 In accordance with OPNAVINST 5510.1 all documents and drawings provided by the U.S. Navy to perspective Contractors must include a "Distribution Statement" to inform the contractor of the limits of distribution, and the safeguarding of the information contained on those documents and drawings. There are 7 (seven) seperate distribution statement codes used for non-classified documents and drawings. The definition for each is as follows: A... approved for public release; distribution is unlimited. B... distribution authorized to US Governments agencies only. C... distribution authorized to US Government agencies and their contractors. D... distribution authorized to DoD and DoD contractors only. E... distribution authorized to DoD Components only. F... further distribution only as directed by Commander, Naval Sea Systems Command, code 09T. X... distribution is authorized to US Government agencies and private individuals or enterprises eligible to obtain export controlled technical data in accordance with OPNAVINST 5510.161.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Telephone: 7176051234
+  - Email: SHERRY.L.KAYLOR.CIV@US.NAVY.MIL
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: this contract/purchase order
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d7dcd999de084bdb817f1b4d7263fbb0/view)

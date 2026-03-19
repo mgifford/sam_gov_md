@@ -1,0 +1,33 @@
+---
+layout: default
+title: Commercial Solutions Opening (CSO) for Space Domain Awareness (SDA) Solutions.
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 0a4dff07f8934348bb99a09ba6f5c264
+---
+
+# Commercial Solutions Opening (CSO) for Space Domain Awareness (SDA) Solutions.
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-03-18 19:35:03.294-04
+- Solicitation Number: FA2518-25-S-C001
+
+## Summary
+
+18 Mar 2026 Updated: Space Domain Awareness (SDA) Commercial Solutions Opening (CSO) Phase I. The initial evaluation for phase I has been completed. We received a significant number of responses, and our team has given each submission the careful consideration it deserves. We will now begin the process of formally notifying all participants. This will be conducted in stages, starting with the offerors who were identified as "Not Selectable", followed by those deemed "Selectable", and concluding with the offeror(s) "Recommended" for selection. We appreciate your patience as we proceed with these Phase I final steps, and thank you for your continued patience as the notification process is executed. All participants will receive a formal notification regarding the status of their submission. 25 Feb 2026 Updated: Space Domain Awareness (SDA) Commercial Solutions Opening (CSO) Phase I. We would like to inform you that the evaluation of white papers is currently ongoing. Due to the overwhelming response to this solicitation, our team is carefully reviewing all submissions to ensure a thorough and fair assessment are in alignment with the program's objectives and requirements. We appreciate the effort and thoughtfulness demonstrated in your submission and your interest in supporting this initiative. Once the evaluation process is complete, we will provide further updates regarding next steps and any additional requirements. Should you have any questions or need clarification in the meantime, please feel free to reach out to us directly. Thank you for your continued engagement and support of the SDA CSO program. Amendment 03_AOI 01 AOI-2025_01 - Amendment 2: CO Q&A Document Updated Amendment 2 has been posted to update the Question and Answer (Q&A) document for this acquisition. Please feel free to reach out with any further questions. Amendment 02_AOI 01 AOI-2025_01 - Amendment 1: CO Contact Updated and Q&A Amendment 1 has been posted to update the Contracting Officer contact information for this acquisition. A list of questions and answers for AOI-2025_01 are also attached. Please feel free to reach out with any further questions. Amendment 01 _ AOI 01 AOI-2025_01 - Solicitation Request: CFC SAIO/PKO is soliciting white papers on the effort(s) identifed as Area(s) of Interest (AOIs) to this solicitation. Type of Contract: This is a Fixed-Price type contract IAW FAR Part 12 and Part 35. Limitation: This acquisition is set aside for small business. Anticipated Award: Government reserves the right to award all, some, or none of the proposed solutions. Classified Information: Offerors are encouraged to submit unclassified White Papers to simplify and expedite reviews and response by the Government. Description The United States Space Force (USSF), through the Space Acquisition & Integration Office (SAIO), is issuing this Commercial Solutions Opening (CSO)to solicit innovative commercial solutions that enhance Space Domain Awareness (SDA)capabilities. This CSO is authorized under DFARS 212.70and is designed to identify and acquire innovative technologies, products, and services that support the USSF's warfighting missions. The CSO provides a flexible, enterprise-wide acquisition mechanism to address SDA mission challenges through advanced software engineering, data analytics, and other innovative approaches. Submissions will be evaluated under a multi-phase process to ensure alignment with mission needs and operational priorities. Scope of the CSO The CSO seeks solutions that address the following Space Domain Awareness (SDA)mission challenges: Detecting, characterizing, and predicting activities in the space domain. Enhancing the accuracy and timeliness of SDA data. Supporting emerging SDA missions through innovative technologies. Specific Areas of Interest (AOIs) will be issued under this CSO to define technical focus areas, submission requirements, and evaluation criteria. Each AOI will be posted as a standalone solicitation module under this CSO. Submission Process The CSO employs a three-phase submission process: Phase I – White Paper and PowerPoint Briefing Offerors must submit a PowerPoint briefing (including a Quad Chart) and a White Paper summarizing their proposed solution. Submissions must align with the specific AOI requirements. Phase II – Pitch Session (Optional) Selected Offerors may be invited to present their proposed solution in greater depth during a virtual or in-person pitch session. Phase III – Full Proposal Offerors invited to Phase III must submit a complete proposal package, including a Technical Proposal, Performance Work Statement (PWS), and Price Proposal. The Government reserves the right to proceed directly from Phase I to Phase III. Key Information Security Requirements: Phase I submissions must be unclassified. Subsequent phases may require higher classification levels, as specified in the AOI and any draft or final DD Form 254. Foreign Participation: Restricted to U.S. entities due to export control and national security considerations. Cybersecurity Compliance: Offerors must comply with NIST SP 800-171 and CMMC 2.0 requirements. How to Respond Interested Offerors must monitor SAM.gov for AOI-specific postings under this CSO. Each AOI will include detailed submission instructions, evaluation criteria, and deadlines. Submissions must comply with the formats and requirements outlined in the CSO and the applicable AOI. For general inquiries, contact the SAIO CSO Contracting Officer at SAIO.SDA.CSO@spaceforce.mil. Use the subject line: "SDA CSO – General Question(s)". Disclaimer This CSO does not obligate the Government to award a contract, nor does it commit the Government to pay for any costs incurred in the preparation and submission of responses. The Government reserves the right to fund all, some, or none of the proposals received under this CSO.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Rosalind Davis
+  - Email: rosalind.davis.3@spaceforce.mil
+  - Phone: 719-567-6183
+- Secondary Contact:
+  - Name: Austin Frindt
+  - Email: austin.frindt@spaceforce.mil
+  - Phone: 7195566947
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0a4dff07f8934348bb99a09ba6f5c264/view)

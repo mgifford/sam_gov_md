@@ -1,0 +1,37 @@
+---
+layout: default
+title: Regional Educational Laboratory Program: 2027 – 2031 Cycle
+agency: EDUCATION, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: 79bdf1d64fb5475fa90b6d13d1f4a36e
+---
+
+# Regional Educational Laboratory Program: 2027 – 2031 Cycle
+
+- Agency: EDUCATION, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-03-18 16:07:18.389-04
+- Solicitation Number: REL-CYCLE2027
+
+## Summary
+
+**Please note that this posting was updated on December 19, 2025. Please make sure to use the document labeled REL Competition 2027 RFI Instructions Revised**. The U.S. Department of Education (the Department) is conducting market research to determine if sufficient interest and capability exist in the marketplace for the Regional Educational Laboratory Program, 2027-2031 Cycle. This notice is NOT a request for proposals but is an invitation for potential offerors to express interest and provide information regarding their relevant knowledge, skills, and capabilities. Information submitted in response to this Sources Sought Notice may be used to assist the Department in finalizing its acquisition strategy. The U.S. Department of Education (the Department) intends to award 60-month contracts to qualified entities to serve as the Regional Educational Laboratory (REL) for up to 10 REL regions. These contracts are planned to be firm fixed price with cost-reimbursable travel restricted to a percentage of the overall contract value. See Appendix A for the names of the regions and their constituent states or jurisdictions. Each individual REL will be part of a program of 10 RELs authorized under the Education Sciences Reform Act (ESRA) of 2002, Part D, Section 174 (20 U.S.C. 9564). The REL Program is administered by the National Center for Education Evaluation and Regional Assistance (NCEE) at the Institute of Education Sciences (IES)[1] in the US Department of Education (the Department). REL personnel shall include researchers with significant and demonstrated scholarly expertise in content areas and methodologies relevant to the work the REL undertakes as well as practitioners who have significant experience teaching and leading professional development in those content areas. RELs shall develop a team that includes experts of several types, listed below: Content experts who possess a broad and deep perspective on what is known and what still is not settled in a research field. They enable the REL to frame important research questions and Training, Coaching, and Technical Support (TCTS) activities so that they both address immediate needs for evidence, as well as advance knowledge more broadly through applied research. Potential lead authors of REL reports who shall have demonstrated expertise in the content area being addressed by the report, shown through a substantial portfolio of peer-reviewed, published work in that area. Methodological experts who ensure research questions are answered using appropriate methods and support the intended outcomes of the project. Current or recent practitioners who provide project staff additional context on problems of practice educators are facing. Experts in adult learning or professional development who can lead and inform the design and conduct of TCTS activities. The REL Program’s authorizing statute identifies eligible offerors in Section 174(c). Specifically: “The Director may enter into contracts under this section with research organizations, institutions, agencies, institutions of higher education, or partnerships among such entities, or individuals, with the demonstrated ability or capacity to carry out the activities described in this section …” All potential offerors meeting these criteria are encouraged to respond to this RFI. [1] https://www.congress.gov/107/plaws/publ279/PLAW-107publ279.pdf
+
+## Contacts
+
+- Primary Contact:
+  - Name: Jana Knapp
+  - Email: jana.knapp@ed.gov
+- Secondary Contact:
+  - Name: Katie Opper
+  - Email: katie.opper@ed.gov
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: for the names of the regions and their constituent states or jurisdictions. Each individual REL will be part of a program of 10 RELs authorized under the Education Sciences Reform Act (ESRA) of 2002, Part D, Section 174 (20 U.S.C. 9564). The REL Program is administered by the National Center for Education Evaluation and Regional Assistance (NCEE) at the Institute of Education Sciences (IES)[1] in the US Department of Education (the Department). REL personnel shall include researchers with significant and demonstrated scholarly expertise in content areas and methodologies relevant to the work the REL undertakes as well as practitioners who have significant experience teaching and leading professional development in those content areas. RELs shall develop a team that includes experts of several types, listed below: Content experts who possess a broad and deep perspective on what is known and what still is not settled in a research field. They enable the REL to frame important research questions and Training, Coaching, and Technical Support (TCTS) activities so that they both address immediate needs for evidence, as well as advance knowledge more broadly through applied research. Potential lead authors of REL reports who shall have demonstrated expertise in the content area being addressed by the report, shown through a substantial portfolio of peer-reviewed, published work in that area. Methodological experts who ensure research questions are answered using appropriate methods and support the intended outcomes of the project. Current or recent practitioners who provide project staff additional context on problems of practice educators are facing. Experts in adult learning or professional development who can lead and inform the design and conduct of TCTS activities. The REL Program’s authorizing statute identifies eligible offerors in Section 174(c). Specifically: “The Director may enter into contracts under this section with research organizations, institutions, agencies, institutions of higher education, or partnerships among such entities, or individuals, with the demonstrated ability or capacity to carry out the activities described in this section …” All potential offerors meeting these criteria are encouraged to respond to this RFI. [1] https://www.congress.gov/107/plaws/publ279/PLAW-107publ279.pdf
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/79bdf1d64fb5475fa90b6d13d1f4a36e/view)

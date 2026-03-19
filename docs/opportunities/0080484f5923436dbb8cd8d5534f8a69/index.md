@@ -1,0 +1,29 @@
+---
+layout: default
+title: SUB-SAFE/LEVEL-I “PROPELLER SHAFT FORWARD” SLEEVE
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: 0080484f5923436dbb8cd8d5534f8a69
+---
+
+# SUB-SAFE/LEVEL-I “PROPELLER SHAFT FORWARD” SLEEVE
+
+- Agency: DEPT OF DEFENSE
+- Type: Presolicitation
+- Posted: 2026-03-18 16:18:34.538-04
+- Solicitation Number: SPMYM126Q4032
+
+## Summary
+
+Solicitation CLIN 0001 Level 1 is an item that supports either a SUBSAFE or Level 1 system that has undergone the extreme material control or quality assurance techniques that provide objective evidence of its acceptance for its appropriate application. Each item has certification papers (or special markings that provide traceability to the certification) that pedigree its material and physical properties, provide traceability, to manufacturer, contract list and lot, and document quality assurance system and test requirements applied to the item. The Contract Line Item (CLIN) are as follows: CLIN 0001 (LEVEL 1) QTY 1 ORDERING DATA: PART NAME – PROPELLER SHAFT FORWARD SLEEVE (LEVEL 1) PART DESCRIPTION – PROPELLER SHAFT FORWARD SLEEVE – 78.500” L X 26.300” OD X 23.925” ID (LEVEL 1) EB SPEC 3163D / MIL-C-24615A GRADE B 1 CENTRIFIGUAL CASTING REQUIRED, MACHINED TO SIZE SPECIFIED AND STRESS RELIEVED TOLERANCES: OD: +0.063"/-0.000" ID: +0.000"/ -0.063" LENGTH +0.125"/0.000" APPROX. 250 RMS FINISH ON ALL CLIN 0002 QTY 1 ORDERING DATA: PART NAME – PROPELLER SHAFT GROUNDING DEVICE PART DESCRIPTION – PROPELLER SHAFT GROUNDING DEVICE 18" X 26.50" OD X 23.925" ID CASTINGS NICKEL-COPPER ALLOY MIL-C-24723 MACHINED TO SIZE SPECIFIED AND STRESS RELIEVED The requirement will be solicited as a total small business set aside. The NAICS code applicable to this procurement is 333618, Ball and Roller Bearing Manufacturing with a size standard of 1,250. The Product Service Code is 2010, Machinery & Components. The solicitation document incorporates provisions and clauses in effect through FAC 2024-01 and DFARS Change Notice 01/22/2024. The solicitation, any documents related to this procurement, and all amendments issued will be in electronic form only. The solicitation number is SPMYM126Q4032 and will be available on or around 20 MARCH 2026 and posted to SAM.gov, https://sam.gov/ Quotes will be due by 12:00 AM EST on 27 March 2026. Responses to the solicitation notice shall be emailed to the attention of: Ginger Beasley Email: ginger.beasley@dla.mil. Please make sure that the solicitation number (SPMYM126Q4032) is included in the subject line of any email correspondence. Emails without subject lines will not be read because of security issues. Potential offerors are hereby notified that the solicitation and any subsequent amendments will only be available by downloading the documents at www.SAM.gov (Contracting Opportunities). The Government is not responsible for inability of the Offeror's to access solicitation documents posted. No telephone or FAX requests will be accepted, and no hardcopy solicitation/amendment will be mailed or faxed. ****PLEASE READ**** Only Level 1 certified vendors quotes will be acceptable for this requirement. Participation is strictly limited to Level 1 certified vendors. Submissions from uncertified sources will not be reviewed and will be excluded from the competitive range. By submitting a quote, the offeror will be self-certifying that neither the principal corporate officials nor owners are currently suspended, debarred, or otherwise ineligible to receive contracts from any federal agency. Failure to do so may represent grounds for refusing to accept the proposal. By submission of a proposal, the offeror acknowledges the requirement that a prospective awardee must be registered in the System for Award Management (SAM) database prior to award, during performance, and through final payment of any contract resulting from the solicitation, except for awards to foreign vendors for work to be performed outside the United States. Lack of registration in the SAM database will make an offeror ineligible for award. Offerors may obtain information on registration and annual confirmation requirements by calling 1-866-606-8220, or via the Internet at https://www.sam.gov. All questions shall be submitted in accordance with the solicitation, dates and procedures. Please direct all questions regarding this requirement to: Ginger Beasley Email: ginger.beasley@dla.mil Solicitation The Defense Logistics Agency, DLA Maritime Norfolk, Contracting Division, intends to negotiate a Firm Fixed Price contract to procure a propeller shaft forward sleeve (LEVEL 1). The assemblies are to be shipped to the Norfolk Naval Shipyard, Portsmouth, Virginia 23709. The North American Industry Classification System (NAICS) Code is 333618. This procurement is set-aside for 100% small businesses only. For boxes that weigh over 40lbs, the material must be palletized when arriving at Norfolk Naval Shipyard. Responses may be emailed to ginger.beasley@dla.mil. Any questions must be sent to the email provided above by 25 March 2026 at 12:00 pm. Please make sure that the solicitation number is included in the subject line of any email correspondence. Emails without subject lines will not be read due to security issues. By submitting a quote, the vendor will be self-certifying that neither it nor its principal corporate officials and owners are currently suspended, debarred, or otherwise ineligible to receive contracts from any Federal agency.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Ginger Beasley
+  - Email: ginger.beasley@dla.mil
+  - Phone: 7572785001
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0080484f5923436dbb8cd8d5534f8a69/view)

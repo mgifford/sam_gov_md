@@ -1,0 +1,29 @@
+---
+layout: default
+title: Advanced Programmable Signal Processor
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 4288c633bbde4391b8170c3cc784422f
+---
+
+# Advanced Programmable Signal Processor
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-03-18 16:29:27.836-04
+- Solicitation Number: FA8251-26-APSP
+
+## Summary
+
+Synopsis:1. NOTICE: This is not a solicitation but rather a Sources Sought Synopsis to determine potential sources for information and planning purposes only.1.1 The purpose of this Sources Sought is to conduct market research to determine if responsible sources exist, to assist in determining if this effort can be competitive and/or a total Small Business Set-Aside. The proposed North American Industry Classification Systems (NAICS) Code is 811210 which has a corresponding Size standard of $22M. The Government will use this information to determine the best acquisition strategy for this procurement. The Government is interested in all small business to include 8(a), Service-Disabled Veteran-Owned, Hubzone, and Women-Owned small business concerns. The government requests that interested parties respond to this notice if applicable and identify your small business status to the identified NAICS code. Additionally, please provide any anticipated teaming arrangements, along with a description of similar services offered to the Government and to commercial customers for the past three years. Any responses involving teaming agreements should delineate between the work that will be accomplished by the prime and the work accomplished by the teaming partners.1.2 This sources sought synopsis does not constitute an Invitation for Bids (IFB), a Request for Quote (RFQ), or a Request for Proposal (RFP) and it should not be construed as a commitment of any kind by the government to issue a formal solicitation or ultimately award a contract. The U.S. Government is in no way liable to pay for or reimburse any companies or entities that respond to this announcement. Any costs incurred by interested companies in response to this announcement will NOT be reimbursed.2. Program Details:The Air Force is issuing this repair sources sought announcement as part of a market research survey to determine if additional sources exist that could become qualified for repair and restoration of the F-16 Advanced Programmable Signal Processor (APSP) Line Replaceable Unit (LRU) and associated Shop Replaceable Units (SRUs). The contractor would be required to repair and restore the F-16 APSP LRU/SRUs to a serviceble condition, but not like new cosmetically. Responses to this Notice shall consist of an initial white paper (not to exceed 3 pages) describing the offeror?s capabilities with regard to trouble shooting, testing and repairing the F-16 items. The specific parts involved are as follows: FSC NIIN MMAC Part # NSN#1270 01-396-3088 WF 783R300G01 1270013963088WF5998 01-352-4129 WF 785R814G01 5998013524129WF5998 01-351-3416 WF 781R708G01 5998013513416WF5998 01-325-4946 WF 785R008G01 5998013254946WF5998 01-348-7524 WF 781R650G01 5998013487524WF5998 01-529-1749 WF 810R795G01 5998015291749WF5998 01-419-1804 WF 785R203G01 5998014191804WF6130 01-326-4587 WF 783R007G01 6130013264587WF5998 01-529-1748 WF 810R794G01 5998015291748WF5998 01-423-6943 WF 785R767G01 5998014236943WF5998 01-327-2983 WF 792R086G01 5998013272983WF5998 01-397-1740 WF 785R107G01 5998013971740WF5998 01-350-3962 WF 781R245G01 5998013503962WF5998 01-393-1369 WF 792R073G01 5998013931369WFInterested organizations who feel they possess the necessary capabilities should respond by providing the Government the following information: a point of contact, address, telephone, and fax numbers, email address, DUNS number, CAGE code, and/or tax ID number, as well as size category, (large, small, small disadvantaged, etc.), a brief summary of the company?s capabilities, description of facilities, personnel, related manufacturing experience, and existing safety approvals (refer to the white paper listed above).Provide any supporting information such as commercial literature, catalogues, manuals, etc. If a respondent chooses to utilize the services of sub-tier vendors or subcontractors, those vendors or subcontractors must meet the criteria specified herein as well. Responses to this Notice are due on or before 17-Apr-2026. All information marked as proprietary information will be safeguarded to prevent disclosures to non-government personnel and entities.NOTE: Source Approval Request (SAR) packages are not the same as a Sources Sought Response. For instructions on how to become a qualified approved source contact the listed Source Development Specialist. Offerors must possess access to all appropriate data. Data verification information can be found in RQR?s for the items listed above. Technical Data Package and Drawing requests are to be made to The Public Sales Office at:Tech Order Manuals: AFLCMC.LZP.PUBSALES@us.af.milEngineering Data/Drawings: AFLCMC.LZP.TINKERPUBLICSALES@us.af.milFor instructions on how to become a qualified approved source, see the RQR attached to this posting. Please e-mail all SAR packages to the following:Tracey Beringer, Source Development Specialist, tracey.beringer@us.af.milPaige LaPoint, paige.lapoint@us.af.milDarin Rector, darin.rector@us.af.milThe announcement on Sam.gov is just for responses to the sources sought notice and is not a deadline for SAR submission. You may submit a SAR at any time. Please send all correspondence to the following: Paige LaPoint, via email, at paige.lapoint@us.af.mil or Darin Rector, via email, darin.rector@us.af.mil.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Paige LaPoint
+  - Email: paige.lapoint@us.af.mil
+  - Phone: 8015862947
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4288c633bbde4391b8170c3cc784422f/view)

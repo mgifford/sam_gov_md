@@ -1,0 +1,39 @@
+---
+layout: default
+title: Minimum of 18,884 BUSF not to exceed 20,000 BUSF
+agency: COURT SERVICES AND OFFENDER SUPERVISION AGENCY
+notice_type: Solicitation
+notice_id: 86b79f9cb80c47d8bb9df5026cba7f6e
+---
+
+# Minimum of 18,884 BUSF not to exceed 20,000 BUSF
+
+- Agency: COURT SERVICES AND OFFENDER SUPERVISION AGENCY
+- Type: Solicitation
+- Posted: 2026-03-18 17:54:46.711-04
+- Solicitation Number: CSOSA-L-26-0001
+
+## Summary
+
+1.01 GENERAL INFORMATION (FEB 2026) A. This Request for Lease Proposals (RLP) sets forth instructions and requirements for proposals for a Lease described in the RLP documents. The Government will evaluate proposals conforming to the RLP requirements in accordance with the Method of Award set forth below to select an Offeror for award. The Government will award the Lease to the selected Offeror, subject to the conditions below. B. Included in the RLP documents is a lease template setting forth the lease term and other terms and conditions of the Lease contemplated by this RLP and a GSA Proposal to Lease Space (GSA Form 1364) on which Offeror must submit its offered rent and other price data, together with required information and submissions. The Lease paragraph titled “Definitions and General Terms” must apply to the terms of this RLP. C. Do not attempt to complete the lease template. Upon selection for award, the Government will transcribe the successful Offeror’s final offered rent and other price data included on the GSA Form 1364 into the lease and transmit the completed Lease, including any appropriate attachments, to the successful Offeror for execution. Neither the RLP nor any other part of an Offeror’s proposal must be part of the Lease except to the extent expressly incorporated therein. The Offeror should review the completed Lease for accuracy and consistency with his or her proposal, sign and date the first page, initial each subsequent page of the Lease, and return it to the Lease Contracting Officer (LCO). D. The Offeror's executed Lease must constitute a firm offer. No Lease must be formed until the LCO executes the Lease and delivers a signed copy to the Offeror. E. Offeror may not use Federal agency name(s) and/or acronym(s), e.g., General Services Administration, GSA, in the entity name that owns and/or leases the Space to GSA.
+
+1.02 AMOUNT AND TYPE OF SPACE, LEASE TERM, AND OCCUPANCY DATE (FEB 2026) A. The Government is seeking a minimum of 18,884 to a maximum of 20,000 of American National Standards Institute/Building Owners and Managers Association (ANSI/BOMA) Occupant Area (ABOA) square feet (SF) of contiguous space within the Area of Consideration set forth below. See Section 2 of the Lease for applicable ANSI/BOMA standards. B. The Space shall be located in a modern quality Building of sound and substantial construction with a facade of stone, marble, brick, stainless steel, aluminum or other permanent materials in good condition and acceptable to the LCO. If not a new Building, the Space offered shall be in a Building that has undergone, or will complete by occupancy, modernization or adaptive reuse for the Space with modern conveniences. C. The Government requires 36 surface/outside parking spaces, reserved for the exclusive use of the Government. These spaces must be secured and lit in accordance with the Security Requirements set forth in the Lease. Offeror must include the cost of this parking as part of the rental consideration. D. As part of the rental consideration, the Government may require use of part of the Building roof for the installation of antenna(s). If antenna space is required, specifications regarding the type of antenna(s) and mounting requirements are included in the agency requirements information provided with this RLP. E. The Government may provide vending machines within the Government's leased area under the provisions of the Randolph-Sheppard Act (20 USC 107 et. seq.). If the Government chooses to provide vending facilities, the Government will control the number, kind, and locations of vending facilities and will control and receive income from all automatic vending machines. Offeror must provide necessary utilities and make related alterations. The cost of the improvements is part of Tenant Improvement (TI) costs. The Government will not compete with other facilities having exclusive rights in the Building. The Offeror must advise the Government if such rights exist. F. The lease term must be 20 Years, 15 Years Firm, with Government termination rights, in whole or in parts, effective at any time after the Firm Term of the Lease by providing not less than 12 months prior written notice. The parties agree that Government’s obligation to pay rent is contingent upon the availability of appropriated funds for each Federal fiscal year of the term of the lease. If, for any reason, CSOSA is unable to continue the lease for its full xxx-year term, CSOSA may terminate the lease with twelve (12) month advance, written notice. If the lease is terminated prior to the full xxx-year term, CSOSA will pay rent from the date of early termination notice for a period of twelve (12) months. e.g. If Government enters into a lease with successful offeror on 6-1-2026 that contains a 12-month cancellation clause: FY 2026: Government 26 - 9/30/2026, plus 10/1/26 – 9/29/2027 (12-month cancellation period) FY 2027: Government will record an FY 2027 rent obligation for: 9/30/2027 – 9/29/2028 FY 2028: Government will record an FY 2028 rent obligation for: 9/30/2028 – 9/29/2029 This Lease may be renewed at the option of the Government for 1, 5-year [optional] term. The Government reserves the right in the Lease to not include an option, or to reduce the length of an option, if inclusion of the option would cause Lease to score as a capital lease, in accordance with the Budget Scorekeeping: Operating Lease Treatment paragraph of this RLP. Should the Government make the determination to modify the term or option(s), an amendment to the RLP will be issued.
+
+1.03 AREA OF CONSIDERATION (OCT 2021) The Government requests Space in an area bounded as follows: North: North Capitol Street NW South: Edgewood Street NW to Franklin Street NW East: 9th Street NE West: Florida Avenue NE to North Capitol Street NW Buildings with Property boundary(ies) on the boundary streets are deemed to be within the delineated Area of Consideration.
+
+1.04 UNIQUE REQUIREMENTS (OCT 2021) The offered Building and/or Property must have the following features as a minimum requirement: Fenced Parking Delineated pedestrian route from parking to entrance, as applicable Adequate loading dock or equivalent access Card or key controlled elevator access when co-locating with other tenants, unless waived by LCO. The full set of requirements and forms can be found as attachments to this solicitation. If applicable rep and relocation costs will be considered a part of the rent offer.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Tiffany de Lisio
+  - Email: Tiffany.deLisio@csosa.gov
+  - Phone: 2022205788
+- Secondary Contact:
+  - Name: Elijah Anderson
+  - Email: Elijah.Anderson@csosa.gov
+  - Phone: 2022205795
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/86b79f9cb80c47d8bb9df5026cba7f6e/view)

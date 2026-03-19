@@ -1,0 +1,34 @@
+---
+layout: default
+title: Above Ground Construction Services Contract (CSC)
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: e785c65e66d7437f883265383fe9badd
+---
+
+# Above Ground Construction Services Contract (CSC)
+
+- Agency: DEPT OF DEFENSE
+- Type: Presolicitation
+- Posted: 2026-03-18 18:13:43.811-04
+- Solicitation Number: HDTRA226R0002
+
+## Summary
+
+OFFICIAL SOLICITATION NOTICE | Date: 17 February 2026 | Subject: Official Solicitation Notice for Construction Services | NAICS Code: 237990 - Other Heavy and Civil Engineering Construction | PSC Code: Y1PZ - CONSTRUCTION OF OTHER NON-BUILDING FACILITIES | CONTRACTING OFFICE INFORMATION: Contracting Office DODAAC: HDTRA2; Address: 1991 Wyoming BLVD SE, Kirtland AFB, NM 87117-5669; Contracting Officer: James A. Melancon; Contract Specialist / Solicitation Manager: Ryan D. Margraf || DESCRIPTION OF REQUIREMENT: This posting is an official solicitation for construction services. This is a 100% small business set-aside procurement. The Government anticipates the award of multiple contracts under this solicitation using the Indefinite-Delivery, Indefinite-Quantity (IDIQ) format. The proposed contract is to provide a means of executing construction efforts in support of the DTRA mission by providing construction for: 1) general test support; 2) new construction; 3) Repair and maintenance of test structures and articles; and 4) demolition and remediation on various test sites. The proposed contract is for construction services and will include, but is not limited to, the following FAR clauses: 52.246-4 (Inspection of Services - Fixed Price), 52.246-12 (Inspection of Construction), and 52.246-13 (Inspection-Dismantling, Demolition, or Removal of Improvements). Each task order will be reviewed to determine the appropriate contract type, which may include Firm-Fixed-Price (FFP), Time and Materials (T and M), or Firm-Fixed-Price Level of Effort (FFP LOE). The NAICS Code 237990 - Other Heavy and Civil Engineering Construction best applies to this procurement. However, other codes can apply. | PERIOD AND VALUE: Period of Performance: The initial ordering period will be for five (5) years. The contract will include an option to extend the ordering period for an additional five (5) years. Each task order will have its own specific performance period. Task orders may be performed for up to 12 months beyond the end of the contract ordering period to accommodate the completion of major construction efforts started late in the ordering period. Total Estimated Cost: The total estimated cost of the acquisition is $400M over a ten-year period, consisting of a 5-year base period at $200M and a 5-year option period at $200M. | KEY DATES and SOLICITATION INFORMATION: Pre-proposal Conference: A pre-proposal conference is scheduled to occur on March 11th and 12th, 2026. Further details regarding the specific time and location are provided in the attachment entitled, Pre-Proposal Conference Overview and Access. This conference will be to review field conditions at either or both of Kirtland AFB, New Mexico, and White Sands Missile Range, New Mexico. Solicitation Availability: The solicitation is herewith released as of the publication date and will be available electronically at the Government Point of Entry (GPE), SAM.gov. Hard copies of the solicitation will not be provided. It is the responsibility of interested parties to monitor the GPE for the release of the solicitation and any subsequent amendments. || Initial Posting: Presolicitation Notice. | Update 0001 Edit: Formatting and date correction. | Update 0002 Edit: Subject correction. | Update 0003: Official Solicitation Notice. | Update 0004: Amendment 0001 to Official Solicitation Notice (see attached SF 30 thereof for details). | Update 0005: Amendment 0002 to Official Solicitation Notice (see attached SF 30 thereof for details - including important statements of work revisions attached); posted slide deck from 11 and 12 March 2026 pre-proposal conference; posted questions and answers document part 1.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Ryan Margraf
+  - Email: ryan.d.margraf.civ@mail.mil
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: , Pre-Proposal Conference Overview and Access. This conference will be to review field conditions at either or both of Kirtland AFB, New Mexico, and White Sands Missile Range, New Mexico. Solicitation Availability: The solicitation is herewith released as of the publication date and will be available electronically at the Government Point of Entry (GPE), SAM.gov. Hard copies of the solicitation will not be provided. It is the responsibility of interested parties to monitor the GPE for the release of the solicitation and any subsequent amendments. || Initial Posting: Presolicitation Notice. | Update 0001 Edit: Formatting and date correction. | Update 0002 Edit: Subject correction. | Update 0003: Official Solicitation Notice. | Update 0004: Amendment 0001 to Official Solicitation Notice (see attached SF 30 thereof for details). | Update 0005: Amendment 0002 to Official Solicitation Notice (see attached SF 30 thereof for details - including important statements of work revisions attached); posted slide deck from 11 and 12 March 2026 pre-proposal conference; posted questions and answers document part 1
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e785c65e66d7437f883265383fe9badd/view)
