@@ -65,3 +65,4 @@
 - If requirements are ambiguous, choose the simplest implementation that fits current scripts and outputs.
 - When adding new outputs, update both README.md and any dependent workflow steps.
 - When modifying the GitHub Pages dashboard (docs/), follow the accessibility guidelines in ACCESSIBILITY.md.
+- When using AI tools to build or modify this project, update the **AI Disclosure** section in README.md to reflect which AI tools were used and how (development assistance, runtime use, CI/CD automation, or browser-based). Do not list tools that were not actually used.
