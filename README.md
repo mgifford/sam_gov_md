@@ -368,6 +368,34 @@ Define search terms by category:
 - Open.gsa.gov: https://open.gsa.gov/api/
 - Playwright Docs: https://playwright.dev/python/
 
+## 🤖 AI Disclosure
+
+This project uses AI tools for development, optional runtime analysis, and CI/CD automation. In the interest of transparency, here is a full disclosure of every AI tool used and its role.
+
+### Development Assistance
+
+- **GitHub Copilot**: Used as an AI coding assistant during the development of this project, including code generation, code review, documentation, and refactoring.
+- **Claude (Anthropic)**: Used by the GitHub Copilot coding agent to implement features and changes in this repository (e.g., adding this AI disclosure section).
+
+### Runtime AI (Optional — not enabled by default)
+
+- **Ollama (local LLM, default model `gpt-oss:20b`)**: Used optionally for opportunity analysis tasks — summarization, technology extraction, classification, and relevance scoring. Activated by passing `--with-ollama` to `process_today.py`, or by running `scripts/ollama_analyzer.py` or `demo_ollama.py` directly. Requires a local Ollama server at `http://localhost:11434/`. Prompt usage is logged to `data/ollama_prompts.log`. **Not enabled in the default daily automation workflow.**
+- **GitHub Models (default model `gpt-4o-mini`)**: Supported as an alternative cloud LLM provider for the same opportunity analysis tasks. Activated by passing `--llm-provider github` along with `--with-ollama`. Requires a `GITHUB_TOKEN` or `GITHUB_MODELS_TOKEN` environment variable. **Not enabled in the default daily automation workflow.**
+
+### CI/CD Automation
+
+- **GitHub Copilot Accessibility Scanner**: The `.github/workflows/a11y-scan.yml` workflow uses the `github/accessibility-scanner` action to scan the GitHub Pages dashboard for WCAG violations and file issues. The workflow is configured with `skip_copilot_assignment: false`, meaning detected issues may be assigned to GitHub Copilot for automated remediation via pull requests.
+
+### Browser-Based AI
+
+No browser-based AI is used in this application. The [Playwright](https://playwright.dev/python/) library is used exclusively for web scraping (rendering JavaScript-heavy SAM.gov pages) and does not incorporate any AI or LLM components.
+
+### Updating This Disclosure
+
+If you contribute to this project using AI tools, please update this section to accurately reflect which tools were used and in what capacity. See the [AGENTS.md](AGENTS.md) collaboration notes for guidance.
+
+---
+
 ## Contributing
 
 This is an open source project and constructive contributions are welcome and appreciated!
