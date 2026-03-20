@@ -1,0 +1,28 @@
+---
+layout: default
+title: Nondestructive Testing (NDT) Equipment
+agency: COMMERCE, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: 74b5d0e5bfbe416baff31bd44d0e0259
+---
+
+# Nondestructive Testing (NDT) Equipment
+
+- Agency: COMMERCE, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-03-19 13:31:05.331-04
+- Solicitation Number: NIST-SS26-92
+
+## Summary
+
+NIST-SS26-92 PLEASE NOTE THIS A SOURCES SOUGHT NOTICE ONLY Title: Optical Nondestructive Testing Equipment Background The National Institute of Standards and Technology (NIST) Center for Neutron Research (NCNR) in Gaithersburg, MD focuses on providing neutron measurement capabilities to the U.S. research community in biology, materials science, chemistry, and physics. It is the national center for research using thermal and cold neutrons, offering its instrumentation for the performance of world class scientific research by all qualified applicants. The focus of the NCNR relies upon the safe, cost-effective, and reliable operation of the aging National Bureau of Standards Reactor (NBSR) as well as its ability to operate under and adhere to the licensing agreements of the Nuclear Regulatory Commission (NRC). In order to keep the reactor running safely and reliably, as well as to take full advantage of advances in neutron measurement science and methodology, it is important that staff have the ability to understand the current health of various reactor components, especially piping and valves. The NCNR plans to procure a set of non-destructive testing equipment to allow system health assessments to be performed by NCNR staff. Minimum Specifications Two (2) ultrasonic flaw detectors with the following requirements Dynamic DAG/TCG Onboard DGS/AVG AWS D1.1/D1.5 indication rating Manual PPRF Control from 10Hz to 2000Hz Single-shot measurement at all PRF Rates Tunable Square Wave Pulser Basic Digital Receiver Filters 5 User-Customizable Measurement Displays Internal alphanumeric datalogger with expanded file types Multiple report output formats Editable parameters Color LCD with multiple color schemes and variable brightness control Two (2) Eddy Current Flaw Detectors with the following requirements USA/Canada power cord English keypad and instructions Rigid transport case DC battery charger Smart 11.wV, 73Wh Li-Ion battery Emergency AA tray cell holder Standard factory certificate of calibration USB communication cable At least 4GB MicroSD memory card Wrist strap/lanyard Sixty-four (64) total parts for transducers and probes. This includes support tools Transducers must include a screw-in wedge angled refracted shear waves for 45, 60, and 70 degrees (must include transducers for steel, aluminum, and stainless steel). Transducers and probes shall be external/handheld Two (2) weld inspection kits Frequency range 100kHz – 600 kHz Aluminum crack block with three EDM notches 7-pin LEMO connectors Six (6) test blocks (two (2) each for 1018 steel, 7075 aluminum, 304 stainless steel) 5-step blocks with 0.1” per step ASTM E164 IIW Type Block with lucite plug HOW TO RESPOND TO THIS NOTICE In responding to this notice, please DO NOT PROVIDE PROPROETARY INFORMATION. Please include only the following information, readable in either Microsoft Word 365, Microsoft Excel 365, or .pdf format, in the response: Submit the response by email to the Primary Point of Contact and, if specified, to the Secondary Point of Contact listed at the bottom of this notice as soon as possible, and preferably before the closing date and time of this notice. Provide the complete name of your company, address, name of contact for follow-up questions, their email, their phone number and, if your company has an active registration in https://sam.gov your company’s Unique Entity ID (UEI). For the NAICS code listed in this notice: Indicate whether your company is (a) a small business or (b) other than small business. See the Table of Small Business Size Standards and the associated .pdf download file for small business size standards and additional information. If you believe the NAICS code listed in this notice is not the best NAICS code for the type of product addressed in this notice, identify an alternative NAICS code that you believe would be more appropriate for the planned procurement. Provide any other information that you believe would be valuable for NIST to know as part of its market research for this requirement. QUESTIONS REGARDING THIS NOTICE Questions regarding this notice may be submitted via email to the Primary Point of Contact listed in this notice. Questions should be submitted so that they are received by 5:00 p.m. Eastern Time on March 23, 2026. Questions will be anonymized and answered via sources sought notice amendment following the question submission deadline. Important Notes The information received in response to this notice will be reviewed and considered so that NIST may appropriately solicit for its requirements in the near future. This notice should not be construed as a commitment by NIST to issue a solicitation or ultimately award a contract. Responses will not be considered as proposals or quotations. No award will be made as a result of this notice. NIST is not responsible for any costs incurred by the respondents to this notice. NIST reserves the right to use information provided by respondents for any purpose deemed necessary and appropriate. Thank you for taking the time to submit a response to this request.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Cielo Ibarra
+  - Email: cielo.ibarra@nist.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/74b5d0e5bfbe416baff31bd44d0e0259/view)

@@ -1,0 +1,30 @@
+---
+layout: default
+title: 5999--Surge Protected Power Strips
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Combined Synopsis/Solicitation
+notice_id: 342263bdd6114ee8b3f0739e97eb84fa
+---
+
+# 5999--Surge Protected Power Strips
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-03-19 17:31:18.883-04
+- Solicitation Number: 36C26226Q0533
+- Awardee: null
+
+## Summary
+
+1. This is a combined synopsis/solicitation for commercial services/items prepared in accordance with the format in FAR Subpart 12.6 in conjunction with FAR Part 13, as supplemented with additional information included in this notice. This announcement constitutes the only solicitation; quotes are being requested and a separate written solicitation will not be issued. 1.A. Project Title: Surge Protected Power Strips 1.B. Project Location: VA Long Beach Healthcare System 5901 East 7th Street, Long Beach, CA 90822 1.C. Solicitation Type - Number: Request for Quotes (RFQ) - 36C26226Q0533 1.D. Set Aside: This solicitation is 100% set aside for SDVOSB 1.E. Applicable NAICS code: 335999 All Other Miscellaneous Electrical Equipment and Component Manufacturing 1.F. Small Business Size Standard: 600 employees 1.G. Type of Contract: Firm Fixed Price 1.H. Period of Performance: 90 (days from Award) 2. Key solicitation milestones are: 2.A. Submit any questions regarding this procurement via email to victor.oliveros@va.gov no later than 12:00 Pacific Local Time, April 1, 2025. No questions will be answered after this date/time unless determined to be in the best interest of the Government as determined by the Contracting Officer. Telephonic questions will not be accepted or returned. RFI responses will be responded to as necessary in amendment format which will be posted to contract opportunities at http://SAM.gov. The vendor must be registered and remain active in SAM.gov to be awarded and that the items being offered must be in compliance with the Buy American Act. 2.B. Submit written offers in accordance with the following instructions, as well as Addendum to FAR 52.212-1, Instruction to Offerors. Oral offers will not be accepted. Complete and submit the enclosed SF 1449 via email no later than 15:00 Pacific Local Time, April 7, 2026, to victor.oliveros@va.gov. Ensure the following are completed and/or included in the offer packet: 2.B.1. SF 1449 page 1, 2.B.1.a. Section B.1 - Vendor Information with SAM UEI Number 2.B.1.b. Section B.1 - Acknowledgement of amendments 2.B.1.c. Section B.3 - Schedule of Supplies identifying specific manufacturer and model number being offered 2.B.1.d. Section B.4 - Delivery Schedule 2.B.1.e. Section C.4 - VAAR 852.219-78 VA Notice of Limitations on Subcontracting- Certificate of Compliance of Supplies and Products (please ensure boxes are checked and document signed) 2.B.1.f. Section E.5 - FAR 52.212-3 Offeror Representations and Certifications Commercial Items
+
+## Contacts
+
+- Primary Contact:
+  - Name: Victor Oliveros
+  - Title: Contracting Officer
+  - Email: victor.oliveros@va.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/342263bdd6114ee8b3f0739e97eb84fa/view)

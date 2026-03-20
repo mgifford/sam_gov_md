@@ -1,0 +1,28 @@
+---
+layout: default
+title: Solicitation of a Concession Business Opportunity to Operate Guided Water Float Tours, Retail, and Snorkel Equipment Rentals within Channel Islands National Park
+agency: INTERIOR, DEPARTMENT OF THE
+notice_type: Solicitation
+notice_id: 349ab4e510f0460baea8917391c9e3da
+---
+
+# Solicitation of a Concession Business Opportunity to Operate Guided Water Float Tours, Retail, and Snorkel Equipment Rentals within Channel Islands National Park
+
+- Agency: INTERIOR, DEPARTMENT OF THE
+- Type: Solicitation
+- Posted: 2026-03-19 11:10:59.496-04
+- Solicitation Number: CHIS004-27
+
+## Summary
+
+The National Park Service (NPS) released on March 19, 2026, a business opportunity soliciting proposals to award a new ten (10) year concession contract to operate Guided Water Float Tours, Retail, and Snorkel Equipment Rentals within Channel Islands National Park. Site Visit The NPS will host a site visit for entities interested in bidding on the opportunity on April 2, 2026. The site visit provides interested entities with an overview of the concession operation and a tour of the Concession Facilities (land and real property improvements assigned to the concessioner under the Draft Contract). Registration is required to attend the site visit. To register, email Mark Juretschke, Financial Analyst, National Park Service, Interior Regions 8, 9, 10, and 12, at mark_juretschke@nps.gov, along with a courtesy copy to John Hansen, Concessions Management Specialist, Channel Islands National Park, at john_hansen@nps.gov, no later than 12:00 pm (Pacific Time) on March 30, 2026. You must provide your name, contact information, the name of the entity interested in submitting a proposal that you represent, the primary contact for the entity, and the number and names of people in your party. Due to space constraints, the NPS limits the number of site visit attendees to a total of five (5) people per interested entity. Site visit participants are responsible for obtaining their lodging, meals, and transportation to the Concession Facilities. Organizations should note the Concession Facilities are located on Santa Cruz Island and transportation can be obtained through Island Packers, which operates ferry service to and from the mainland. Organizations should book passage on the vessel as early as possible as space is limited. Attendance at the site visit is encouraged, but not required, to submit a proposal. Questions Due The NPS will not answer questions about this prospectus or business opportunity during registration or the site visit. Interested entities must submit questions in writing after the release of the prospectus to the contact person and by the deadline provided in the prospectus. Interested entities are asked not to interfere with concession operations during the site visit and not to film, record or photograph concession employees or operations. Questions regarding the prospectus must be received, in writing, no later than 12:00 p.m. (Pacific Time) on April 10, 2026. Email your questions to Mark Juretschke, Financial Analyst, Interior Regions 8, 9, 10, and 12 at mark_juretschke@nps.gov. Notification of Intent to Propose Any interested party intending to submit a proposal must submit a "Notice of Intent to Propose" as described in the Business Opportunity and Proposal Instructions, no later than 12:00 p.m. (Pacific Time) on May 28, 2026. Submission of an Electronic Proposal NPS will ONLY accept electronic proposals in response to this prospectus. Any proposal must be received electronically, no later than 12:00 p.m. (Pacific Time) on June 25, 2026, in the format outlined in the Proposal Instructions, to be evaluated for award of the new concession contract. Contact List The prospectus is available via the link below. If you choose to retrieve a copy of the prospectus, please notify Mark Juretschke at mark_juretschke@nps.gov so you are placed on the mailing list to receive notifications of any future modifications or correspondence.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Mark Juretschke
+  - Email: mark_juretschke@nps.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/349ab4e510f0460baea8917391c9e3da/view)

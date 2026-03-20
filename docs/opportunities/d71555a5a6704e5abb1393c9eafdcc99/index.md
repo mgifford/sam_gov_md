@@ -1,0 +1,33 @@
+---
+layout: default
+title: Reuseable, Unmanned Developmental Test and Evaluation (DT&E) Platform
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: d71555a5a6704e5abb1393c9eafdcc99
+---
+
+# Reuseable, Unmanned Developmental Test and Evaluation (DT&E) Platform
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-03-19 10:16:25.912-04
+- Solicitation Number: N6893626RFPREQD0AH3000002
+
+## Summary
+
+This is a SOURCES SOUGHT?notice; a market survey, for information only, to be used for preliminary planning purposes.??THIS IS NOT A SOLICITATION FOR PROPOSALS AND NO CONTRACT WILL BE AWARDED FROM THIS NOTICE.??The Government is not obligated to, nor will it pay for or reimburse any costs associated with providing information or industry response to this notice or any follow up information requests. This notice shall not be construed as a commitment by the Government to issue a solicitation or ultimately award a contract, nor does it restrict the Government to a particular acquisition approach.? Not responding to this notice does not preclude participation in any future procurement.? It is the responsibility of potential offerors to monitor the GPE for additional information pertaining to this requirement.? Responses to the sources sought will be utilized with other market research methods to establish the planned acquisition strategy.? The purpose of this notice is to gain knowledge of interest, capabilities and qualifications of industry, to include the Small Business Community: Small Business, Section 8(a), Historically Underutilized Business Zones (HUB-Zone), Service-Disabled Veteran-Owned Small Business (SDVOSB), or Women-Owned Small Business (WOSB).? Large Businesses and Small Businesses are highly encouraged to respond to solidify the acquisition strategy. The acquisition strategy will be determined based on responses received from this notice and/or other market research methods. Naval Air Warfare Center Weapons Division (NAWCWD) is seeking prospective collaborators to help define and explore solutions for a reusable, unmanned developmental test and evaluation (DT&E) platform that can accelerate the development of air-launched munitions. A recent assessment identified a critical shortfall in current DT&E capabilities that slows the pace of weapons development. Closing this gap is essential to meeting future warfighting needs and ensuring rapid insertion of new capabilities into the Fleet. NAWCWD is therefore examining approaches that support continuous, iterative testing cycles. The goal is to establish a test environment that enables an aggressive pace of experimentation while maintaining safety, operational relevance, and alignment with mission needs. A prototype platform will be central to evaluating concepts, maturing technologies, and shaping strategies. Attributes under consideration include: Unmanned, reusable platform to reduce costs and increase test frequency Capacity to carry and release 500–1000 lb class munitions Affordable, scalable, non-exquisite solutions Flexible integration of new technologies and rapid adaptation Ability to replicate flight conditions consistent with naval aviation operations The scope of this requirement will include the following: Concept & Architecture System architecture for an unmanned, reusable platform and associated ground/mission support infrastructure. Integration approach to support multiple munition types and instrumentation. Safety and risk management framework consistent with iterative, high-cadence testing. Prototype Development Design, build, and ground/flight-test a representative prototype platform and mission support tools sufficient to demonstrate core capability. Modular interfaces for payload/munitions integration and data capture. Test & Evaluation Plan Iterative test plans, acceptance criteria, and metrics for assessing readiness and mission relevance. Provisions for instrumentation, telemetry, data collection, and data analysis workflows. Operations & Sustainment Approach Concepts for reusable operations, rapid turnaround between flights, and cost model demonstrating scalability. Maintenance, logistics, and safety-of-flight processes. Demonstration & Reporting Execution of prototype demonstrations (ground + flight) to validate capability against stated metrics. Deliverables: technical reports, test data packages, lessons learned, and recommended program strategies. NAWCWD invites interested parties to submit a response that addresses the following areas: 1. Company Information: Please provide your company name, address, CAGE code, and a point of contact. Please also describe your business size (e.g., Large, Small, 8(a), HUBZone, etc.). 2. Capability Statement: A brief overview of your company's experience with unmanned aerial systems, flight test services, and payload integration. 3. Conceptual Approach: Describe your proposed solution or concept for meeting the requirements. Please address the key attributes listed above. 4. Technology Readiness Level (TRL): What is the current TRL of your proposed platform and key subsystems? 5. Past Performance: Describe any relevant past performance on similar projects with government or commercial customers. 6. Rough Order of Magnitude (ROM): If possible, provide a non-binding ROM cost for a basic flight hour, and for a prototype development effort as described. Written responses shall be provided via email to the Contract Specialist, Ciera Wood at ciera.l.wood.civ@us.navy.mil and the Contracting Officer, Caitlan Johnson at caitlan.e.johnson.civ@us.navy.mil via a Microsoft Word .doc or Acrobat Adobe .pdf file. **Email is the preferred method when receiving response to this notice. THIS SOURCES SOUGHT IS FOR INFORMATIONAL PURPOSES ONLY. THIS IS NOT A REQUEST FOR PROPOSAL. IT DOES NOT CONSTITUTE A SOLICITATION AND SHALL NOT BE CONSTRUED AS A COMMITMENT BY THE GOVERNMENT. RESPONSES IN ANY FORM ARE NOT OFFERS AND THE GOVERNMENT IS UNDER NO OBLIGATION TO AWARD A CONTRACT AS A RESULT OF THIS ANNOUNCEMENT. ANY INFORMATION SUBMITTED BY RESPONDENTS TO THIS SYNOPSIS IS STRICTLY VOLUNTARY.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Ciera Wood
+  - Email: ciera.l.wood.civ@us.navy.mil
+  - Phone: 7607933759
+- Secondary Contact:
+  - Name: Caitlan Johnson
+  - Email: caitlan.e.johnson.civ@us.navy.mil
+  - Phone: 7607938307
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d71555a5a6704e5abb1393c9eafdcc99/view)

@@ -1,0 +1,41 @@
+---
+layout: default
+title: ARMY OPEN SOLICITATION (AOS)
+agency: DEPT OF DEFENSE
+notice_type: Special Notice
+notice_id: a03947273b374e78a9c4cde564f568c8
+---
+
+# ARMY OPEN SOLICITATION (AOS)
+
+- Agency: DEPT OF DEFENSE
+- Type: Special Notice
+- Posted: 2026-03-19 10:30:45.215-04
+- Solicitation Number: W9128Z-25-S-A002
+
+## Summary
+
+23 FEBRUARY 2026 AMENDMENT 10 - AOS document is revised to add a new Army Example Area (AEA) and posted under "Attachments". 3 DECEMBER 2025 AMENDMENT 9 - AOS document and Attachment 1 document are revised and posted under "Attachments". 7 AUGUST 2025 AMENDMENT 8 - AOS document and Attachment 1 document are revised and posted under "Attachments". 24 JULY 2025 AMENDMENT 7 - AOS document is revised and posted under "Attachments". The revision provides an update to the Active Capability Gap (ACG) mailboxes listed under Section J - Contracting Information. Additionally, Request for Information (RFIs) will at times be posted under "Links" to create more awareness to AOS interested vendors. RFIs posted under AOS are for market research purposes only and the Government has no obligation to post a subsequent Call for Solution under AOS for the requirement. 10 JULY 2025 AMENDMENT 6 - Attachment 1 document is revised and posted under "Attachments". 1 JULY 2025 AMENDMENT 5 - AOS document is revised and posted under "Attachments". The revision provides the remaining Active Capability Gap (ACG) mailboxes listed under Section J - Contracting Information. 24 JUNE 2025 AMENDMENT 4 - AOS document is revised and posted under "Attachments". 11 JUNE 2025 AMENDMENT 3 - AOS and Attachment 1 documents are revised and posted under "Attachments". 20 MAY 2025 AMENDMENT 2 - Going forward, all Call(s) for solutions will be posted under "Links" within this AOS Special Notice. 15 MAY 2025 AMENDMENT 1 - Attachment 1 for the Army Open Solicitation (AOS) Active Capability Gap (ACG) Procedures is incorporated within this special notice. *Note* - The mailboxes for the Active Capability Gap (ACG) Portion are available in the AOS document, Section J - Contracting Information The Army Open Solicitation (AOS) aims to support all Army Mission Areas and to revive the industrial base in order to maximize the lethality of the Army. This solicitation will enable the Army to rapidly acquire and deliver innovative solutions to the Warfighter using commercial technology advancements and research and development solutions. Additionally, this solicitation highlights procurements subject to the Software Acquisition Pathway (SWP). The U.S. Army Contracting Command – Aberdeen Proving Ground is interested in making awards by maximizing existing authorities and combining any single authority or a combination of the authorities below: Federal Acquisition Regulation (FAR) 6.102(d)(2) – Other Competitive Procedures FAR
+
+35.016 Broad Agency Announcement / Defense Federal Acquisition Regulation Defense Federal Acquisition Regulation Supplement (DFARS)
+
+235.016 Broad Agency Announcement / DFARS 235.006-71 – Competition 10 U.S.C. §4021 – Research projects: transactions other than contracts and grants 10 U.S.C. §4022 – Authority of the Department of Defense (DoD) to carry out certain prototype projects 10 U.S.C. §4023 – Procurement for experimental purposes 10 U.S.C. §3458 – Authority to acquire innovative commercial products and commercial services using general solicitation competitive procedures / DFARS 212.70 – Defense Commercial Solutions Opening Employee Stock Ownership Pilot (ESOP) Program authorized by Section 874 of the National Defense Authorization Act (NDAA) for Fiscal Year (FY) 2022, as amended by Section 872 of the NDAA for FY2024. ACC-APG is seeking to obtain commercial, innovative solutions or potential capabilities that fulfill requirements, close capability gaps, or provide potential innovative technological advancements, and pursue meaningful proposals with varying technical or scientific approaches that can be reasonably anticipated. ACC-APG is also seeking to obtain basic research, applied research, advanced technology development, and advanced component development, prototypes and incidental production that demonstrate that fulfill requirements, close capability gaps, and/or provide meaningful solutions. Interested parties are highly encouraged to review the Army Open Solicitation to obtain additional information on the process for providing solutions under this solicitation. The Army Open Solicitation enables companies to respond to Active Capability Gaps within the Army Mission Areas and through the Government release of Calls for Solutions. Both methods are outlined in the solicitation but utilize two separate processes. As Amendments are posted on the Army Open Solicitation, the Government will delete the previous version and upload the latest conformed version. All revisions will be highlighted in yellow to allow for transparency of the revisions made. Request for Information (RFIs) posted under AOS are for market research purposes only and the Government has no obligation to post a subsequent Call for Solution under AOS for the requirement. Please note that this Army Open Solicitation will remain open in perpetuity until canceled by the U.S. Army. However, Call for Solutions will be open for a limited period of time and will include individual response times.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Kristin Height
+  - Email: usarmy.apg.acc.mbx.army-open-solicitation@army.mil
+- Secondary Contact:
+  - Name: Robin Delossantos
+  - Email: usarmy.apg.acc.mbx.army-open-solicitation@army.mil
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: document are revised and posted under "Attachments". 7 AUGUST 2025 AMENDMENT 8 - AOS document and Attachment 1 document are revised and posted under "Attachments". 24 JULY 2025 AMENDMENT 7 - AOS document is revised and posted under "Attachments". The revision provides an update to the Active Capability Gap (ACG) mailboxes listed under Section J - Contracting Information. Additionally, Request for Information (RFIs) will at times be posted under "Links" to create more awareness to AOS interested vendors. RFIs posted under AOS are for market research purposes only and the Government has no obligation to post a subsequent Call for Solution under AOS for the requirement. 10 JULY 2025 AMENDMENT 6 - Attachment 1 document is revised and posted under "Attachments". 1 JULY 2025 AMENDMENT 5 - AOS document is revised and posted under "Attachments". The revision provides the remaining Active Capability Gap (ACG) mailboxes listed under Section J - Contracting Information. 24 JUNE 2025 AMENDMENT 4 - AOS document is revised and posted under "Attachments". 11 JUNE 2025 AMENDMENT 3 - AOS and Attachment 1 documents are revised and posted under "Attachments". 20 MAY 2025 AMENDMENT 2 - Going forward, all Call(s) for solutions will be posted under "Links" within this AOS Special Notice. 15 MAY 2025 AMENDMENT 1 - Attachment 1 for the Army Open Solicitation (AOS) Active Capability Gap (ACG) Procedures is incorporated within this special notice. *Note* - The mailboxes for the Active Capability Gap (ACG) Portion are available in the AOS document, Section J - Contracting Information The Army Open Solicitation (AOS) aims to support all Army Mission Areas and to revive the industrial base in order to maximize the lethality of the Army. This solicitation will enable the Army to rapidly acquire and deliver innovative solutions to the Warfighter using commercial technology advancements and research and development solutions. Additionally, this solicitation highlights procurements subject to the Software Acquisition Pathway (SWP). The U.S. Army Contracting Command – Aberdeen Proving Ground is interested in making awards by maximizing existing authorities and combining any single authority or a combination of the authorities below: Federal Acquisition Regulation (FAR) 6.102(d)(2) – Other Competitive Procedures FAR
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a03947273b374e78a9c4cde564f568c8/view)

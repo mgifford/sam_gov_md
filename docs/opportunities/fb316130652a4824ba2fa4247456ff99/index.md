@@ -1,0 +1,62 @@
+---
+layout: default
+title: 13--FIN ASSEMBLY,TORPED
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: fb316130652a4824ba2fa4247456ff99
+---
+
+# 13--FIN ASSEMBLY,TORPED
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-03-19 05:18:57.928-04
+- Solicitation Number: N0010426QNA23
+
+## Summary
+
+CONTACT INFORMATION|4|N744.11|CRL|771-229-0480|rachel.e.kern4.civ@us.navy.mil| ITEM UNIQUE IDENTIFICATION AND VALUATION (JAN 2023)|19|||||||||||||||||||| INSPECTION OF SUPPLIES--FIXED-PRICE (AUG 1996)|2||| WIDE AREA WORKFLOW PAYMENT INSTRUCTIONS (JAN 2023)|16|INVOICE AND RECEIVING REPORT (COMBO)|NA|TBD|N00104|TBD|TBD|See Schedule|TBD|NA|NA|TBD|||||| NAVY USE OF ABILITYONE SUPPORT CONTRACTOR - RELEASE OF OFFEROR INFORMATION (3-18))|1|WSS| NOTICE OF TOTAL SMALL BUSINESS SET-ASIDE (OCT 2020)(DEVIATION 2020-O0008)|1|| ALTERNATE A, ANNUAL REPRESENTATIONS AND CERTIFICATIONS (OCT 2025)|13|||||||||||||| BUY AMERICAN-BALANCE OF PAYMENTS PROGRAM CERTIFICATE-BASIC (FEB 2024)|1|| ANNUAL REPRESENTATIONS AND CERTIFICATIONS (MAR 2025)(DEVIATION 2025-O0003 AND2025-O0004))|13|334511|1350|||||||||||| NOTICE OF PRIORITY RATING FOR NATIONAL DEFENSE, EMERGENCY PERPARDENESS, AND ENRGY PROGAM USE (APRIL 2008))|2||X| This requirement is pursuant to Emergency Acquisition Flexibilities (EAF). The resultant award of this solicitation will be issued bilaterally, requiring the contractor's written acceptance prior to execution. This solicitation is for the procurement of 95 each of NSN 1355 009772828 inaccordance with Reference number 2540017-2. The Government does own the drawings or data rights to this NSN. All contractual documents (i.e. contracts, purchase orders, task orders, delivery orders, and modifications) related to the instant procurement are considered to be "issued" by the Government when copies are either deposited in the mail, transmitted by facsimile, or sent by other electronic commerce methods suchas email. The Government's acceptance of the contractor's proposal constitutes bilateral agreement to "issue" contractual documents as detailed herein. If requirement will be packaged at a location different from the offeror's address, the offeror shall provide the name, street address, and CAGE of the facility. Any contract awarded as a result of this solicitation will be DO certified for national defense under the Defense Priorities and Allocations System (DPAS).Provision 52.211-14, Notice of Priority Rating for National Defense, Emergency Preparedness, and Energy Program Use, shall be inserted in solicitations when the contract to be awarded shall be a rated order. If drawings are included in the solicitation, access needs to be requested on the individual solicitation page under Contract Opportunities on SAM.gov website. After requesting access, send an email to the POC listed on the solicitation. 1. SCOPE
+
+1.1 This contract/purchase order contains the requirements for manufacture and the contract quality requirements for the FIN ASSEMBLY,TORPED . 2. APPLICABLE DOCUMENTS
+
+2.1 Applicable Documents - The document(s) listed below form a part of this contract/purchase order including modifications or exclusions. 2.1.1 "Document References" listed below must be obtained by the Contractor. Ordering information is included as an attachment to this contract/purchase order.
+
+2.2 Order of Precedence - In the event of a conflict between the text of this contract/purchase order and the references and/or drawings cited herein, the text of this contract/purchase order shall take precedence. Nothing in this contract/purchase order, however, shall supersede applicable laws and regulations unless a specific exemption has been obtained. DRAWING DATA=1399933 |10001| D|FN |D| | | | DRAWING DATA=2540017 |10001| P|FN |D| | | | DRAWING DATA=2540019 |10001| P|FN |D| | | | DRAWING DATA=2540020 |10001| H|FN |D| | | | DRAWING DATA=2540066 |10001| G|FN |D| | | | DRAWING DATA=2540070 |10001| N|FN |D| | | | DOCUMENT REF DATA=MIL-STD-130 | | |M |051202|A| | | 3. REQUIREMENTS
+
+3.1 Design, Manufacture, and Performance - Except as modified herein, the FIN ASSEMBLY,TORPED furnished under this contract/purchase order shall meet the design, manufacture, and performance requirements specified on drawing ;2540017-2; cage ;10001; .
+
+3.2 Changes in Design, Material Servicing, or Part Number - Except for a Code 1 change, which shall be processed as provided in the code statement shown below, no substitution of items shall be made until the NAVICP-MECH Contracting Officer has notified and approval has been given by issuance of a written change order. When any change in design, material, servicing or part number is made to replace or substitute any item to be furnished on this contract/purchase order, the Contractor shall furnish, for the substituting/replacement item, a drawing and an explanation of the reason for the change, explaining the reason therefor. If finished detail drawings are not available, shop drawings in the form used by the manufacturer will be acceptable for Government evaluation. When notifying the Procurement Contracting Officer of the reasons for making substitutions, the type of change shall be indicated by code number in accordance with one of the following statements: Code 1: PART NUMBER CHANGE ONLY - If the Manufacturer's Part Number indicated thereon has changed, but the parts are identical in all respects, supply the item and advise NAVICP-MECH immediately of the new part number. Code 2: Assembly (or set or kit) not furnished - Used following detail parts. Code 3: Part not furnished separately - Use assembly. Code 4: Part redesigned - Old and new parts are completely interchangeable. Code 5: Part redesigned - New part replaces old. Old part cannot replace new. Code 6: Part redesigned - Parts not interchangeable.
+
+3.3 Marking - This assembly and its piece parts shall be physically identified in accordance with MIL-STD-130. 4. QUALITY ASSURANCE
+
+4.1 Responsibility for Inspection - Unless otherwise specified in the contract/purchase order, the Contractor is responsible for the performance of all inspection requirements as specified herein. Except as otherwise specified in the contract/purchase order, the Contractor may use his own or any other facilities suitable for the performance of the inspection requirements specified herein, unless disapproved by the Government. The Government reserves the right to perform any of the inspections set forth in the specification where such inspections are deemed necessary to assure supplies and services conform to prescribed requirements.
+
+4.2 Responsibility for Compliance - All items must meet all requirements of this contract/purchase order. The inspection set forth in this specification shall become a part of the Contractor's overall inspection system or quality program. The absence of any inspection requirements shall not relieve the Contractor of the responsibility of assuring that all products or supplies submitted to the Government for acceptance comply with all requirements of the contract/purchase order. Sampling in quality conformance does not authorize submission of known defective material, either indicated or actual, not does it commit the Government to acceptance of defective material.
+
+4.3 Records - Records of all inspection work by the Contractor shall be kept complete and available to the Government during the performance of contract/purchase order and for a period of 365 calendar days after final delivery of supplies.
+
+4.4 Inspection System Requirements - The supplier shall provide and maintain an inspection/quality system acceptable to the Government. The inspection system requirements for this contract/purchase order shall be in accordance with MIL-I-45208. Suppliers certified to perform under ISO 9001 or ISO 9002 are granted permission to utilize the one desired in lieu of MIL-I-45208. 5. PACKAGING
+
+5.1 Preservation, Packaging, Packing and Marking - Preservation, Packaging, Packing and Marking shall be in accordance with the Contract/Purchase Order Schedule and as specified below. MIL-STD 2073 PACKAGING APPLIES AS FOUND ELSEWHERE IN THE SCHEDULE 6. NOTES
+
+6.1 Ordering Information for Document References - The Department of Defense Single Stock Point (DODSSP), Website http://www.dsp.dla.mil/, provides product information for the Department Of Defense Index Of Specifications and Standards (DODISS) (i.e.Military/Federal Specifications and Standards), Data Item Descriptions (DIDs), and other DODSSP Products. A. Availability of Cancelled Documents - The DODSSP offers cancelled documents that are required by private industry in fulfillment of contractual obligations in paper format. Documents can be requested by phoning the Subscription Services Desk. B. Commercial Specifications, Standards, and Descriptions - These specifications, standards and descriptions are not available from Government sources. They may be obtained from the publishers of the applicable societies. C. Ordnance Standards (OS), Weapons Specifications (WS), and NAVORD OSTD 600 Pages - These type publications may be obtained by submitting a request to: Commander, Indian Head Division, Naval Surface Warfare Center Code 8410P, 101 Strauss Avenue Indian Head, MD 20640-5035 D. On post-award actions, requests for "Official Use Only" and "NOFORN" (Not Releasable To Foreign Nationals) documents must identify the Government Contract Number, and must be submitted via the cognizant Defense Contract Management Command (DCMC) for certification of need for the document. On pre-award actions such requests must be submitted to the PCO for certification of need for the document. E. NOFORN Military Specifications and Standards (including Amendments, Change Notices and Supplements, but NOT interim Changes) to be ordered from: Contracting Officer NAVICP-MECH Code 87321 5450 Carlisle Pike P.O. Box 2020 Mechanicsburg, Pa. 17055-0788 F. Nuclear Reactor Publications Assigned NAVSEA Documents and Identification Numbers (i.e. NAVSEA Welding Standard, NAVSEA 250-1500-1) are to be ordered from: Commanding Officer NAVICP-MECH Code 009 5450 Carlisle Pike P.O. Box 2020 Mechanicsburg, Pa. 17055-0788 G. Technical Manuals Assigned NAVSEA Identification Numbers (i.e. NAVSEA Welding And Brazing Procedure, NAVSEA S9074-AQ-GIB-010/248) are to be ordered from: Naval Inventory Control Point Code 1 Support Branch 700 Robbins Avenue Phildelphia, Pa. 19111-5094 H. Interim Changes and Classified Specifications shall be obtained by submitting a request on DD Form 1425 to NAVICP-MECH.
+
+6.2 Notice To Distributors/Offerors - Consideration for award of contract shall be given only to authorized distributors of the original manufacturer's item represented in this solicitation. If you desire to be considered as a potential source for award of this contract, proof of being an authorized distributor shall be provided on company letterhead signed by a responsible company official and sent with your offer to the Procurement Contracting Officer.
+
+6.3 In accordance with OPNAVINST 5510.1 all documents and drawings provided by the U.S. Navy to perspective Contractors must include a "Distribution Statement" to inform the contractor of the limits of distribution, and the safeguarding of the information contained on those documents and drawings. There are 7 (seven) seperate distribution statement codes used for non-classified documents and drawings. The definition for each is as follows: A... approved for public release; distribution is unlimited. B... distribution authorized to US Governments agencies only. C... distribution authorized to US Government agencies and their contractors. D... distribution authorized to DoD and DoD contractors only. E... distribution authorized to DoD Components only. F... further distribution only as directed by Commander, Naval Sea Systems Command, code 09T. X... distribution is authorized to US Government agencies and private individuals or enterprises eligible to obtain export controlled technical data in accordance with OPNAVINST 5510.161.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Telephone: 7176051552
+  - Email: ZACHARY.R.MORRILL.CIV@US.NAVY.MIL
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: this contract/purchase order
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fb316130652a4824ba2fa4247456ff99/view)
