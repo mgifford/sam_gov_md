@@ -16,9 +16,36 @@
     "2026-03-16",
     "2026-03-17",
     "2026-03-18",
-    "2026-03-19"
+    "2026-03-19",
+    "2026-03-20"
   ],
   "agencies": {
+    "ADMINISTRATIVE OFFICE OF THE US COURTS": [
+      {
+        "date": "2026-03-10",
+        "count": 2,
+        "wins": 0,
+        "opportunities": 2
+      },
+      {
+        "date": "2026-03-16",
+        "count": 3,
+        "wins": 0,
+        "opportunities": 3
+      },
+      {
+        "date": "2026-03-18",
+        "count": 1,
+        "wins": 0,
+        "opportunities": 1
+      },
+      {
+        "date": "2026-03-20",
+        "count": 2,
+        "wins": 0,
+        "opportunities": 2
+      }
+    ],
     "AGRICULTURE, DEPARTMENT OF": [
       {
         "date": "2026-03-03",
@@ -103,6 +130,12 @@
         "count": 59,
         "wins": 2,
         "opportunities": 57
+      },
+      {
+        "date": "2026-03-20",
+        "count": 66,
+        "wins": 4,
+        "opportunities": 62
       }
     ],
     "COMMERCE, DEPARTMENT OF": [
@@ -189,27 +222,15 @@
         "count": 19,
         "wins": 0,
         "opportunities": 19
+      },
+      {
+        "date": "2026-03-20",
+        "count": 11,
+        "wins": 4,
+        "opportunities": 7
       }
     ],
-    "COURT SERVICES AND OFFENDER SUPERVISION AGENCY": [
-      {
-        "date": "2026-03-09",
-        "count": 1,
-        "wins": 0,
-        "opportunities": 1
-      },
-      {
-        "date": "2026-03-11",
-        "count": 2,
-        "wins": 0,
-        "opportunities": 2
-      },
-      {
-        "date": "2026-03-13",
-        "count": 1,
-        "wins": 0,
-        "opportunities": 1
-      },
+    "CONSUMER FINANCIAL PROTECTION BUREAU": [
       {
         "date": "2026-03-18",
         "count": 1,
@@ -217,10 +238,10 @@
         "opportunities": 1
       },
       {
-        "date": "2026-03-19",
-        "count": 2,
+        "date": "2026-03-20",
+        "count": 1,
         "wins": 0,
-        "opportunities": 2
+        "opportunities": 1
       }
     ],
     "DEPT OF DEFENSE": [
@@ -325,20 +346,12 @@
         "count": 1325,
         "wins": 251,
         "opportunities": 1074
-      }
-    ],
-    "EDUCATION, DEPARTMENT OF": [
-      {
-        "date": "2026-03-18",
-        "count": 3,
-        "wins": 0,
-        "opportunities": 3
       },
       {
-        "date": "2026-03-19",
-        "count": 4,
-        "wins": 0,
-        "opportunities": 4
+        "date": "2026-03-20",
+        "count": 521,
+        "wins": 92,
+        "opportunities": 429
       }
     ],
     "ENERGY, DEPARTMENT OF": [
@@ -419,6 +432,12 @@
         "count": 21,
         "wins": 2,
         "opportunities": 19
+      },
+      {
+        "date": "2026-03-20",
+        "count": 16,
+        "wins": 1,
+        "opportunities": 15
       }
     ],
     "ENVIRONMENTAL PROTECTION AGENCY": [
@@ -487,25 +506,11 @@
         "count": 3,
         "wins": 1,
         "opportunities": 2
-      }
-    ],
-    "EXECUTIVE OFFICE OF THE PRESIDENT": [
+      },
       {
-        "date": "2026-03-11",
+        "date": "2026-03-20",
         "count": 2,
-        "wins": 0,
-        "opportunities": 2
-      },
-      {
-        "date": "2026-03-18",
-        "count": 1,
-        "wins": 0,
-        "opportunities": 1
-      },
-      {
-        "date": "2026-03-19",
-        "count": 1,
-        "wins": 0,
+        "wins": 1,
         "opportunities": 1
       }
     ],
@@ -587,6 +592,12 @@
         "count": 15,
         "wins": 2,
         "opportunities": 13
+      },
+      {
+        "date": "2026-03-20",
+        "count": 14,
+        "wins": 6,
+        "opportunities": 8
       }
     ],
     "HEALTH AND HUMAN SERVICES, DEPARTMENT OF": [
@@ -685,6 +696,12 @@
         "count": 19,
         "wins": 0,
         "opportunities": 19
+      },
+      {
+        "date": "2026-03-20",
+        "count": 25,
+        "wins": 1,
+        "opportunities": 24
       }
     ],
     "HOMELAND SECURITY, DEPARTMENT OF": [
@@ -771,6 +788,12 @@
         "count": 35,
         "wins": 3,
         "opportunities": 32
+      },
+      {
+        "date": "2026-03-20",
+        "count": 29,
+        "wins": 4,
+        "opportunities": 25
       }
     ],
     "HOUSING AND URBAN DEVELOPMENT, DEPARTMENT OF": [
@@ -802,6 +825,12 @@
         "date": "2026-03-19",
         "count": 1,
         "wins": 0,
+        "opportunities": 1
+      },
+      {
+        "date": "2026-03-20",
+        "count": 3,
+        "wins": 2,
         "opportunities": 1
       }
     ],
@@ -901,6 +930,12 @@
         "count": 78,
         "wins": 28,
         "opportunities": 50
+      },
+      {
+        "date": "2026-03-20",
+        "count": 54,
+        "wins": 17,
+        "opportunities": 37
       }
     ],
     "JUSTICE, DEPARTMENT OF": [
@@ -981,50 +1016,68 @@
         "count": 29,
         "wins": 8,
         "opportunities": 21
+      },
+      {
+        "date": "2026-03-20",
+        "count": 13,
+        "wins": 2,
+        "opportunities": 11
       }
     ],
-    "LABOR, DEPARTMENT OF": [
+    "LIBRARY OF CONGRESS": [
       {
         "date": "2026-03-03",
+        "count": 1,
+        "wins": 0,
+        "opportunities": 1
+      },
+      {
+        "date": "2026-03-04",
         "count": 2,
         "wins": 0,
         "opportunities": 2
       },
       {
-        "date": "2026-03-04",
-        "count": 5,
-        "wins": 0,
-        "opportunities": 5
-      },
-      {
-        "date": "2026-03-05",
+        "date": "2026-03-06",
         "count": 1,
         "wins": 0,
+        "opportunities": 1
+      },
+      {
+        "date": "2026-03-09",
+        "count": 3,
+        "wins": 0,
+        "opportunities": 3
+      },
+      {
+        "date": "2026-03-10",
+        "count": 2,
+        "wins": 1,
         "opportunities": 1
       },
       {
         "date": "2026-03-11",
-        "count": 1,
-        "wins": 0,
-        "opportunities": 1
-      },
-      {
-        "date": "2026-03-13",
         "count": 2,
         "wins": 0,
         "opportunities": 2
       },
       {
-        "date": "2026-03-16",
+        "date": "2026-03-12",
         "count": 1,
         "wins": 0,
         "opportunities": 1
       },
       {
-        "date": "2026-03-17",
-        "count": 1,
+        "date": "2026-03-16",
+        "count": 4,
         "wins": 0,
-        "opportunities": 1
+        "opportunities": 4
+      },
+      {
+        "date": "2026-03-17",
+        "count": 2,
+        "wins": 0,
+        "opportunities": 2
       },
       {
         "date": "2026-03-18",
@@ -1033,10 +1086,10 @@
         "opportunities": 2
       },
       {
-        "date": "2026-03-19",
-        "count": 2,
+        "date": "2026-03-20",
+        "count": 1,
         "wins": 0,
-        "opportunities": 2
+        "opportunities": 1
       }
     ],
     "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION": [
@@ -1117,11 +1170,57 @@
         "count": 12,
         "wins": 1,
         "opportunities": 11
+      },
+      {
+        "date": "2026-03-20",
+        "count": 4,
+        "wins": 0,
+        "opportunities": 4
       }
     ],
-    "NUCLEAR REGULATORY COMMISSION": [
+    "NATIONAL SCIENCE FOUNDATION": [
       {
-        "date": "2026-03-06",
+        "date": "2026-03-12",
+        "count": 3,
+        "wins": 0,
+        "opportunities": 3
+      },
+      {
+        "date": "2026-03-16",
+        "count": 2,
+        "wins": 0,
+        "opportunities": 2
+      },
+      {
+        "date": "2026-03-20",
+        "count": 1,
+        "wins": 0,
+        "opportunities": 1
+      }
+    ],
+    "PEACE CORPS": [
+      {
+        "date": "2026-03-04",
+        "count": 1,
+        "wins": 0,
+        "opportunities": 1
+      },
+      {
+        "date": "2026-03-13",
+        "count": 1,
+        "wins": 0,
+        "opportunities": 1
+      },
+      {
+        "date": "2026-03-20",
+        "count": 2,
+        "wins": 0,
+        "opportunities": 2
+      }
+    ],
+    "SENATE, THE": [
+      {
+        "date": "2026-03-03",
         "count": 1,
         "wins": 0,
         "opportunities": 1
@@ -1133,13 +1232,19 @@
         "opportunities": 1
       },
       {
-        "date": "2026-03-17",
+        "date": "2026-03-12",
         "count": 1,
         "wins": 0,
         "opportunities": 1
       },
       {
-        "date": "2026-03-19",
+        "date": "2026-03-13",
+        "count": 3,
+        "wins": 0,
+        "opportunities": 3
+      },
+      {
+        "date": "2026-03-20",
         "count": 1,
         "wins": 0,
         "opportunities": 1
@@ -1229,6 +1334,12 @@
         "count": 25,
         "wins": 0,
         "opportunities": 25
+      },
+      {
+        "date": "2026-03-20",
+        "count": 20,
+        "wins": 2,
+        "opportunities": 18
       }
     ],
     "TRANSPORTATION, DEPARTMENT OF": [
@@ -1315,6 +1426,12 @@
         "count": 8,
         "wins": 0,
         "opportunities": 8
+      },
+      {
+        "date": "2026-03-20",
+        "count": 5,
+        "wins": 0,
+        "opportunities": 5
       }
     ],
     "TREASURY, DEPARTMENT OF THE": [
@@ -1395,6 +1512,20 @@
         "count": 3,
         "wins": 0,
         "opportunities": 3
+      },
+      {
+        "date": "2026-03-20",
+        "count": 2,
+        "wins": 0,
+        "opportunities": 2
+      }
+    ],
+    "UNITED STATES AGENCY FOR GLOBAL MEDIA, BBG": [
+      {
+        "date": "2026-03-20",
+        "count": 2,
+        "wins": 0,
+        "opportunities": 2
       }
     ],
     "UNITED STATES GOVERNMENT PUBLISHING OFFICE": [
@@ -1460,6 +1591,12 @@
       },
       {
         "date": "2026-03-19",
+        "count": 1,
+        "wins": 0,
+        "opportunities": 1
+      },
+      {
+        "date": "2026-03-20",
         "count": 1,
         "wins": 0,
         "opportunities": 1
@@ -1567,31 +1704,157 @@
         "count": 144,
         "wins": 15,
         "opportunities": 129
+      },
+      {
+        "date": "2026-03-20",
+        "count": 120,
+        "wins": 15,
+        "opportunities": 105
       }
     ],
-    "ADMINISTRATIVE OFFICE OF THE US COURTS": [
+    "COURT SERVICES AND OFFENDER SUPERVISION AGENCY": [
       {
-        "date": "2026-03-10",
+        "date": "2026-03-09",
+        "count": 1,
+        "wins": 0,
+        "opportunities": 1
+      },
+      {
+        "date": "2026-03-11",
         "count": 2,
         "wins": 0,
         "opportunities": 2
       },
       {
-        "date": "2026-03-16",
-        "count": 3,
+        "date": "2026-03-13",
+        "count": 1,
         "wins": 0,
-        "opportunities": 3
+        "opportunities": 1
       },
       {
         "date": "2026-03-18",
         "count": 1,
         "wins": 0,
         "opportunities": 1
+      },
+      {
+        "date": "2026-03-19",
+        "count": 2,
+        "wins": 0,
+        "opportunities": 2
       }
     ],
-    "CONSUMER FINANCIAL PROTECTION BUREAU": [
+    "EDUCATION, DEPARTMENT OF": [
       {
         "date": "2026-03-18",
+        "count": 3,
+        "wins": 0,
+        "opportunities": 3
+      },
+      {
+        "date": "2026-03-19",
+        "count": 4,
+        "wins": 0,
+        "opportunities": 4
+      }
+    ],
+    "EXECUTIVE OFFICE OF THE PRESIDENT": [
+      {
+        "date": "2026-03-11",
+        "count": 2,
+        "wins": 0,
+        "opportunities": 2
+      },
+      {
+        "date": "2026-03-18",
+        "count": 1,
+        "wins": 0,
+        "opportunities": 1
+      },
+      {
+        "date": "2026-03-19",
+        "count": 1,
+        "wins": 0,
+        "opportunities": 1
+      }
+    ],
+    "LABOR, DEPARTMENT OF": [
+      {
+        "date": "2026-03-03",
+        "count": 2,
+        "wins": 0,
+        "opportunities": 2
+      },
+      {
+        "date": "2026-03-04",
+        "count": 5,
+        "wins": 0,
+        "opportunities": 5
+      },
+      {
+        "date": "2026-03-05",
+        "count": 1,
+        "wins": 0,
+        "opportunities": 1
+      },
+      {
+        "date": "2026-03-11",
+        "count": 1,
+        "wins": 0,
+        "opportunities": 1
+      },
+      {
+        "date": "2026-03-13",
+        "count": 2,
+        "wins": 0,
+        "opportunities": 2
+      },
+      {
+        "date": "2026-03-16",
+        "count": 1,
+        "wins": 0,
+        "opportunities": 1
+      },
+      {
+        "date": "2026-03-17",
+        "count": 1,
+        "wins": 0,
+        "opportunities": 1
+      },
+      {
+        "date": "2026-03-18",
+        "count": 2,
+        "wins": 0,
+        "opportunities": 2
+      },
+      {
+        "date": "2026-03-19",
+        "count": 2,
+        "wins": 0,
+        "opportunities": 2
+      }
+    ],
+    "NUCLEAR REGULATORY COMMISSION": [
+      {
+        "date": "2026-03-06",
+        "count": 1,
+        "wins": 0,
+        "opportunities": 1
+      },
+      {
+        "date": "2026-03-10",
+        "count": 1,
+        "wins": 0,
+        "opportunities": 1
+      },
+      {
+        "date": "2026-03-17",
+        "count": 1,
+        "wins": 0,
+        "opportunities": 1
+      },
+      {
+        "date": "2026-03-19",
         "count": 1,
         "wins": 0,
         "opportunities": 1
@@ -1639,68 +1902,6 @@
         "count": 1,
         "wins": 0,
         "opportunities": 1
-      }
-    ],
-    "LIBRARY OF CONGRESS": [
-      {
-        "date": "2026-03-03",
-        "count": 1,
-        "wins": 0,
-        "opportunities": 1
-      },
-      {
-        "date": "2026-03-04",
-        "count": 2,
-        "wins": 0,
-        "opportunities": 2
-      },
-      {
-        "date": "2026-03-06",
-        "count": 1,
-        "wins": 0,
-        "opportunities": 1
-      },
-      {
-        "date": "2026-03-09",
-        "count": 3,
-        "wins": 0,
-        "opportunities": 3
-      },
-      {
-        "date": "2026-03-10",
-        "count": 2,
-        "wins": 1,
-        "opportunities": 1
-      },
-      {
-        "date": "2026-03-11",
-        "count": 2,
-        "wins": 0,
-        "opportunities": 2
-      },
-      {
-        "date": "2026-03-12",
-        "count": 1,
-        "wins": 0,
-        "opportunities": 1
-      },
-      {
-        "date": "2026-03-16",
-        "count": 4,
-        "wins": 0,
-        "opportunities": 4
-      },
-      {
-        "date": "2026-03-17",
-        "count": 2,
-        "wins": 0,
-        "opportunities": 2
-      },
-      {
-        "date": "2026-03-18",
-        "count": 2,
-        "wins": 0,
-        "opportunities": 2
       }
     ],
     "NATIONAL LABOR RELATIONS BOARD": [
@@ -1883,20 +2084,6 @@
         "opportunities": 1
       }
     ],
-    "NATIONAL SCIENCE FOUNDATION": [
-      {
-        "date": "2026-03-12",
-        "count": 3,
-        "wins": 0,
-        "opportunities": 3
-      },
-      {
-        "date": "2026-03-16",
-        "count": 2,
-        "wins": 0,
-        "opportunities": 2
-      }
-    ],
     "SMITHSONIAN INSTITUTION": [
       {
         "date": "2026-03-03",
@@ -1915,46 +2102,6 @@
         "count": 2,
         "wins": 0,
         "opportunities": 2
-      }
-    ],
-    "PEACE CORPS": [
-      {
-        "date": "2026-03-04",
-        "count": 1,
-        "wins": 0,
-        "opportunities": 1
-      },
-      {
-        "date": "2026-03-13",
-        "count": 1,
-        "wins": 0,
-        "opportunities": 1
-      }
-    ],
-    "SENATE, THE": [
-      {
-        "date": "2026-03-03",
-        "count": 1,
-        "wins": 0,
-        "opportunities": 1
-      },
-      {
-        "date": "2026-03-10",
-        "count": 1,
-        "wins": 0,
-        "opportunities": 1
-      },
-      {
-        "date": "2026-03-12",
-        "count": 1,
-        "wins": 0,
-        "opportunities": 1
-      },
-      {
-        "date": "2026-03-13",
-        "count": 3,
-        "wins": 0,
-        "opportunities": 3
       }
     ],
     "EXPORT-IMPORT BANK OF THE US": [
@@ -2111,111 +2258,117 @@
   "top_agencies": [
     {
       "agency": "DEPT OF DEFENSE",
-      "total": 14945,
-      "wins": 2860,
-      "opportunities": 12085,
-      "days_seen": 17
+      "total": 15466,
+      "wins": 2952,
+      "opportunities": 12514,
+      "days_seen": 18
     },
     {
       "agency": "VETERANS AFFAIRS, DEPARTMENT OF",
-      "total": 1866,
-      "wins": 256,
-      "opportunities": 1610,
-      "days_seen": 17
+      "total": 1986,
+      "wins": 271,
+      "opportunities": 1715,
+      "days_seen": 18
     },
     {
       "agency": "INTERIOR, DEPARTMENT OF THE",
-      "total": 837,
-      "wins": 251,
-      "opportunities": 586,
-      "days_seen": 16
+      "total": 891,
+      "wins": 268,
+      "opportunities": 623,
+      "days_seen": 17
     },
     {
       "agency": "AGRICULTURE, DEPARTMENT OF",
-      "total": 584,
-      "wins": 70,
-      "opportunities": 514,
-      "days_seen": 14
+      "total": 650,
+      "wins": 74,
+      "opportunities": 576,
+      "days_seen": 15
     },
     {
       "agency": "HOMELAND SECURITY, DEPARTMENT OF",
-      "total": 410,
-      "wins": 51,
-      "opportunities": 359,
-      "days_seen": 14
+      "total": 439,
+      "wins": 55,
+      "opportunities": 384,
+      "days_seen": 15
     },
     {
       "agency": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
-      "total": 368,
-      "wins": 27,
-      "opportunities": 341,
-      "days_seen": 16
+      "total": 393,
+      "wins": 28,
+      "opportunities": 365,
+      "days_seen": 17
     },
     {
       "agency": "JUSTICE, DEPARTMENT OF",
-      "total": 340,
-      "wins": 67,
-      "opportunities": 273,
-      "days_seen": 13
+      "total": 353,
+      "wins": 69,
+      "opportunities": 284,
+      "days_seen": 14
     },
     {
       "agency": "STATE, DEPARTMENT OF",
-      "total": 268,
-      "wins": 8,
-      "opportunities": 260,
-      "days_seen": 14
+      "total": 288,
+      "wins": 10,
+      "opportunities": 278,
+      "days_seen": 15
     },
     {
       "agency": "ENERGY, DEPARTMENT OF",
-      "total": 216,
-      "wins": 25,
-      "opportunities": 191,
-      "days_seen": 13
+      "total": 232,
+      "wins": 26,
+      "opportunities": 206,
+      "days_seen": 14
     },
     {
       "agency": "GENERAL SERVICES ADMINISTRATION",
-      "total": 178,
-      "wins": 49,
-      "opportunities": 129,
-      "days_seen": 13
+      "total": 192,
+      "wins": 55,
+      "opportunities": 137,
+      "days_seen": 14
     },
     {
       "agency": "COMMERCE, DEPARTMENT OF",
-      "total": 175,
-      "wins": 5,
-      "opportunities": 170,
-      "days_seen": 14
+      "total": 186,
+      "wins": 9,
+      "opportunities": 177,
+      "days_seen": 15
     },
     {
       "agency": "TRANSPORTATION, DEPARTMENT OF",
-      "total": 131,
+      "total": 136,
       "wins": 12,
-      "opportunities": 119,
-      "days_seen": 14
+      "opportunities": 124,
+      "days_seen": 15
     },
     {
       "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
-      "total": 118,
+      "total": 122,
       "wins": 1,
-      "opportunities": 117,
-      "days_seen": 13
+      "opportunities": 121,
+      "days_seen": 14
     },
     {
       "agency": "TREASURY, DEPARTMENT OF THE",
-      "total": 45,
+      "total": 47,
       "wins": 1,
-      "opportunities": 44,
-      "days_seen": 13
+      "opportunities": 46,
+      "days_seen": 14
     },
     {
       "agency": "ENVIRONMENTAL PROTECTION AGENCY",
-      "total": 39,
-      "wins": 9,
-      "opportunities": 30,
-      "days_seen": 11
+      "total": 41,
+      "wins": 10,
+      "opportunities": 31,
+      "days_seen": 12
     }
   ],
   "daily_totals": [
+    {
+      "date": "2026-03-20",
+      "total": 916,
+      "opportunities": 765,
+      "wins": 151
+    },
     {
       "date": "2026-03-19",
       "total": 1807,

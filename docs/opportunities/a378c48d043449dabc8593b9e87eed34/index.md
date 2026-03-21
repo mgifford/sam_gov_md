@@ -1,0 +1,37 @@
+---
+layout: default
+title: Architecture and Engineering IDIQ - Edwards AFB
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: a378c48d043449dabc8593b9e87eed34
+---
+
+# Architecture and Engineering IDIQ - Edwards AFB
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-03-20 17:03:22.061-04
+- Solicitation Number: FA930126R0004
+
+## Summary
+
+The Air Force Test Center (AFTC) at Edwards Air Force Base (EAFB) intends to award a Single-Award, Indefinite-Delivery/Indefinite-Quantity (IDIQ) contract to provide multi-discipline Architect-Engineer (A-E) services. The contract will have a 5-year IDIQ. The total IDIQ ceiling shall not exceed $25,000,000 Task orders issued under this contract will be Firm-Fixed-Price (FFP). The general scope of work includes, but is not limited to, the preparation of designs, plans, specifications, and reports (Title I, and Title II services) for a broad range of projects. Services may include comprehensive master planning, engineering studies and investigations, design of new vertical construction, major facility renovations, and design of infrastructure systems (e.g., electrical, mechanical, civil). Projects will primarily be located at Edwards AFB and its associated sites. This is a Synopsis/Solicitation for interested Small Businesses to provide their SF330 packages. 2. SELECTION PROCESS This acquisition will be conducted in accordance with the Qualifications-Based Selection (QBS) procedures of the Brooks Act and Federal Acquisition Regulation (FAR) Part 36.2. The Government will evaluate offerors based on the submission of a Standard Form 330 (SF330). The Government will not consider price in the selection of the most highly qualified firm. The following procedures will be followed: Soliciation Posted. Firms respond with SF330 packages. Evaluation team evaluates and down selects to top 3 rated firms based on stated evaluation criteria. Top three firms are further interviewed to further understand capabilities and qualifications. Top firm is selected from this process. Top rated firm is issued the formal Request for Proposal for full proposal and pricing. Evaluation is made. If deemed acceptable award is made. If deemed unacceptable the Request for Proposal is sent to the second rated firm. 3. SUBMISSION REQUIREMENTS Interested and qualified Small Business firms are invited to submit a complete SF330 package. The package must adhere to the following instructions. Failure to comply with these instructions may result in the submission being considered non-responsive and removed from consideration. a. Submission Method: All submissions must be submitted electronically via DoD SAFE (Secure Access File Exchange). Firms must request a unique DoD SAFE link by sending an email to both the Contracting Officer (CO) and the Contract Specialist (CS) at the email addresses listed below. It is the offeror's responsibility to request the link in a timely manner. b. Page Limitations: Page limitations will be strictly enforced. Any pages provided in excess of the limits will be removed and will not be evaluated. * Total Submission: Shall not exceed fifty-five (55) pages. * SF330 Part II (Prime): Limited to one (1) page. * SF330 Part II (Prime's Non-Local Offices): One (1) additional Part II page for each non-local office that may contribute. * SF330 Part II (Teaming Partners): One (1) additional Part II page per teaming partner. * Teaming Agreements: Teaming Agreements may be included and will not count against the page limit. For evaluation criteria please see attachment for Evaluation Criteria. Contracting Team: Contracting Officer: Adam R. Confer – adam.confer.2@us.af.mil Contract Specialist – Lucas Jochem – lucas.jochem@us.af.mil *** Request for Information (RFIs) may be submitted to the Contracting Team Via email. RFIs must be submitted no later than March 11th. Answers will be posted via attachments daily as we recieve them***
+
+## Contacts
+
+- Primary Contact:
+  - Name: Lucas Jochem
+  - Email: lucas.jochem@us.af.mil
+- Secondary Contact:
+  - Name: Adam R. Confer
+  - Email: adam.confer.2@us.af.mil
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: Evaluation Criteria. Contracting Team: Contracting Officer: Adam R. Confer – adam.confer.2@us.af.mil Contract Specialist – Lucas Jochem – lucas.jochem@us.af.mil *** Request for Information (RFIs) may be submitted to the Contracting Team Via email. RFIs must be submitted no later than March 11th. Answers will be posted via attachments daily as we recieve them***
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a378c48d043449dabc8593b9e87eed34/view)

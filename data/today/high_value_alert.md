@@ -1,232 +1,214 @@
 # High-value SAM.gov Matches
 
-- Effective date: 2026-03-19
-- Requested date: 2026-03-20
-- Candidate records: 1807
-- High-value matches: 25
+- Effective date: 2026-03-20
+- Requested date: 2026-03-21
+- Candidate records: 916
+- High-value matches: 23
 - Threshold: total term hits >= 8 and includes one focus term
 
-## W074--Metered Mail (Bay Pines and Cape Coral)
+## J065--New Zimmer Biomet Rosa Robot Svc Contract Base Plus Four
 
 - Department: VETERANS AFFAIRS, DEPARTMENT OF
-- Type: Sources Sought
-- PostedDate: 2026-03-19 13:38:18.718-04
-- Total term hits: 59
-- Link: https://sam.gov/workspace/contract/opp/04c3efeefc2e45ac986703a4a5cb492c/view
-- Top terms: software(31), cloud(11), fedramp(5), application(4), hosting(3), web(2)
+- Type: Combined Synopsis/Solicitation
+- PostedDate: 2026-03-20 19:33:14.653-04
+- Total term hits: 29
+- Link: https://sam.gov/workspace/contract/opp/2311f08edfcd4299bc33bcf62660a642/view
+- Top terms: software(16), application(11), web(2)
 
-## 6515--Audiology Equipment Upgrade (Replacement) For the Manchester VAMC
-
-- Department: VETERANS AFFAIRS, DEPARTMENT OF
-- Type: Sources Sought
-- PostedDate: 2026-03-19 07:43:57.022-04
-- Total term hits: 26
-- Link: https://sam.gov/workspace/contract/opp/0e5e392f32d0409f8cbf1fa39bd6466e/view
-- Top terms: accessibility(8), software(3), application(3), web(3), business_intelligence(3), api(2)
-
-## 65--OXIMETER,PULSE
+## Unmanned Common Controller (UCC) for the United States Marine Corps
 
 - Department: DEPT OF DEFENSE
-- Type: Combined Synopsis/Solicitation
-- PostedDate: 2026-03-19 18:25:43.047-04
-- Total term hits: 16
-- Link: https://sam.gov/workspace/contract/opp/c2fc3a897c0b491eaba98c0954e49a3f/view
-- Top terms: ui(16)
+- Type: Sources Sought
+- PostedDate: 2026-03-20 13:58:11.771-04
+- Total term hits: 26
+- Link: https://sam.gov/workspace/contract/opp/dd0c44c75b90428ab037c4780d5e6013/view
+- Top terms: software(8), platform(6), application(4), cybersecurity(3), api(2), ato(2)
 
-## Open, Inspect, Report for VALVE, LINEAR, DIRECT
+## USAGM Remote Monitoring Services in cloud-based systems and RMS locations around the world.
+
+- Department: UNITED STATES AGENCY FOR GLOBAL MEDIA, BBG
+- Type: Special Notice
+- PostedDate: 2026-03-20 16:10:46.796-04
+- Total term hits: 18
+- Link: https://sam.gov/workspace/contract/opp/1883a912e9984a4294746d501ea48f32/view
+- Top terms: cloud(9), platform(4), web(3), software(2)
+
+## VA Office of Inspector General (VA OIG) Office of Investigations Case Management (OICM) Services
+
+- Department: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Sources Sought
+- PostedDate: 2026-03-20 10:11:33.305-04
+- Total term hits: 15
+- Link: https://sam.gov/workspace/contract/opp/19c638bcb7014027aa81eb40487a1b4b/view
+- Top terms: fedramp(6), cloud(3), ato(2), nist(2), software(1), fisma(1)
+
+## WSISS VI
+
+- Department: DEPT OF DEFENSE
+- Type: Sources Sought
+- PostedDate: 2026-03-20 13:10:33.876-04
+- Total term hits: 14
+- Link: https://sam.gov/workspace/contract/opp/37860a4b6759431789b761bdccadd8e1/view
+- Top terms: software(10), application(1), web(1), platform(1), modernization(1)
+
+## Open, Inspect, Report of Circuit Breaker
 
 - Department: HOMELAND SECURITY, DEPARTMENT OF
 - Type: Combined Synopsis/Solicitation
-- PostedDate: 2026-03-19 14:42:35.304-04
+- PostedDate: 2026-03-20 11:14:24.05-04
 - Total term hits: 14
-- Link: https://sam.gov/workspace/contract/opp/01fdf9ee110945a0ab0c10760fe5f1c4/view
+- Link: https://sam.gov/workspace/contract/opp/c3bb59a5bf4d42ba84b33ca70d8e747c/view
+- Top terms: software(6), application(4), web(4)
+
+## Open, Inspect, Report of Circuit Breaker
+
+- Department: HOMELAND SECURITY, DEPARTMENT OF
+- Type: Combined Synopsis/Solicitation
+- PostedDate: 2026-03-20 11:12:32.542-04
+- Total term hits: 14
+- Link: https://sam.gov/workspace/contract/opp/ac7527524611457e95811142fbe6904a/view
 - Top terms: software(6), application(4), web(4)
 
 ## Mobile Threat Defense and Mobile Endpoint Detection & Response (MTD / Mobile EDR) Department of Justice (DOJ)
 
 - Department: JUSTICE, DEPARTMENT OF
 - Type: Special Notice
-- PostedDate: 2026-03-19 10:48:55.387-04
+- PostedDate: 2026-03-20 10:07:37.345-04
 - Total term hits: 13
-- Link: https://sam.gov/workspace/contract/opp/bd237b90e33148e288a95114b9e841b9/view
+- Link: https://sam.gov/workspace/contract/opp/4682fdaf55ae4314bb98436c27e722db/view
 - Top terms: platform(5), cloud(2), application(1), api(1), hosting(1), fedramp(1)
 
-## 62--LIGHT,GUIDE,FLIGHT
+## Mobile Threat Defense and Mobile Endpoint Detection & Response (MTD / Mobile EDR) Department of Justice (DOJ)
 
-- Department: DEPT OF DEFENSE
-- Type: Combined Synopsis/Solicitation
-- PostedDate: 2026-03-19 09:46:07.002-04
-- Total term hits: 12
-- Link: https://sam.gov/workspace/contract/opp/7aa335422eaf47cb88e1690e2ae77f50/view
-- Top terms: ui(12)
-
-## SWITCH,ROTARY
-
-- Department: DEPT OF DEFENSE
-- Type: Solicitation
-- PostedDate: 2026-03-19 04:55:27.904-04
-- Total term hits: 12
-- Link: https://sam.gov/workspace/contract/opp/c60272becd4b4c19a2c6a4545a645bd5/view
-- Top terms: web(6), application(2), business_intelligence(2), software(1), cybersecurity(1)
-
-## ELBOW,5IN
-
-- Department: DEPT OF DEFENSE
-- Type: Solicitation
-- PostedDate: 2026-03-19 04:46:13.521-04
-- Total term hits: 12
-- Link: https://sam.gov/workspace/contract/opp/9e92613696dc426cb7c93e4c246a69bc/view
-- Top terms: web(6), application(2), business_intelligence(2), software(1), cybersecurity(1)
-
-## RING
-
-- Department: DEPT OF DEFENSE
-- Type: Solicitation
-- PostedDate: 2026-03-19 04:34:27.555-04
-- Total term hits: 12
-- Link: https://sam.gov/workspace/contract/opp/5a90ad236f2d42938782624a5c5c95ef/view
-- Top terms: web(6), application(2), business_intelligence(2), software(1), cybersecurity(1)
-
-## SHAFT,SHOULDERED
-
-- Department: DEPT OF DEFENSE
-- Type: Solicitation
-- PostedDate: 2026-03-19 04:29:51.461-04
-- Total term hits: 12
-- Link: https://sam.gov/workspace/contract/opp/788c2c5bfb45451cbd7288793a369ead/view
-- Top terms: web(6), application(2), business_intelligence(2), software(1), cybersecurity(1)
-
-## VALVE, SWING CHECK
-
-- Department: DEPT OF DEFENSE
-- Type: Solicitation
-- PostedDate: 2026-03-19 04:20:25.734-04
-- Total term hits: 12
-- Link: https://sam.gov/workspace/contract/opp/dc2f637c0e99403d8e7a2a1207646f98/view
-- Top terms: web(6), application(2), business_intelligence(2), software(1), cybersecurity(1)
-
-## SHAFT,SHOULDERED
-
-- Department: DEPT OF DEFENSE
-- Type: Solicitation
-- PostedDate: 2026-03-19 04:06:43.921-04
-- Total term hits: 12
-- Link: https://sam.gov/workspace/contract/opp/3bf40ce7aa4840f8a98ebb82875121ef/view
-- Top terms: web(6), application(2), business_intelligence(2), software(1), cybersecurity(1)
-
-## N6600126R0002 - Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC)
-
-- Department: DEPT OF DEFENSE
-- Type: Presolicitation
-- PostedDate: 2026-03-19 17:54:24.557-04
-- Total term hits: 11
-- Link: https://sam.gov/workspace/contract/opp/17e30486863b4e099063d6361d10e45c/view
-- Top terms: web(9), software(1), cybersecurity(1)
-
-## ELBOW,5IN
-
-- Department: DEPT OF DEFENSE
-- Type: Solicitation
-- PostedDate: 2026-03-19 04:46:12.869-04
-- Total term hits: 11
-- Link: https://sam.gov/workspace/contract/opp/be3925c28c5044bf908e49c35da883e0/view
-- Top terms: web(6), application(2), business_intelligence(2), software(1)
-
-## 5-Axis CNC Mill / Lathe Purchase at Hill AFB, UT
-
-- Department: DEPT OF DEFENSE
-- Type: Combined Synopsis/Solicitation
-- PostedDate: 2026-03-19 15:55:26.418-04
-- Total term hits: 10
-- Link: https://sam.gov/workspace/contract/opp/94b56e18857a49398a1a2b64d728b0ae/view
-- Top terms: application(6), software(2), ui(1), nist(1)
-
-## R499-- ITAM Program Management Support (VA-26-00042922)
-
-- Department: VETERANS AFFAIRS, DEPARTMENT OF
-- Type: Sources Sought
-- PostedDate: 2026-03-19 15:50:28.212-04
-- Total term hits: 10
-- Link: https://sam.gov/workspace/contract/opp/2a98f5aecb604948ad337fbaad9d4ebf/view
-- Top terms: web(2), platform(2), software(1), portal(1), analytics(1), fisma(1)
-
-## PLATE ASSY,RESISTOR
-
-- Department: DEPT OF DEFENSE
-- Type: Solicitation
-- PostedDate: 2026-03-19 06:30:15.853-04
-- Total term hits: 10
-- Link: https://sam.gov/workspace/contract/opp/d3dbd262fc5c42c085d1c22f92851590/view
-- Top terms: web(10)
-
-## CIRCUIT CARD ASSEMB
-
-- Department: DEPT OF DEFENSE
-- Type: Solicitation
-- PostedDate: 2026-03-19 05:50:09.849-04
-- Total term hits: 10
-- Link: https://sam.gov/workspace/contract/opp/84e13568fbe84bc984dfabd172c60178/view
-- Top terms: web(10)
-
-## Notice of Intent to Noncompetitively procure Pitney Bowes meter rental, equipment maintenance, and FedRAMP/GovCloud - Cloud solution
-
-- Department: NUCLEAR REGULATORY COMMISSION
+- Department: JUSTICE, DEPARTMENT OF
 - Type: Special Notice
-- PostedDate: 2026-03-19 16:13:52.562-04
-- Total term hits: 9
-- Link: https://sam.gov/workspace/contract/opp/180b04fb1de145c3b4a441699352a3e8/view
-- Top terms: cloud(5), fedramp(4)
+- PostedDate: 2026-03-20 09:45:12.083-04
+- Total term hits: 13
+- Link: https://sam.gov/workspace/contract/opp/5fda84868cee48cf8f8f38f8a884cac8/view
+- Top terms: platform(5), cloud(2), application(1), api(1), hosting(1), fedramp(1)
 
-## 61--BATTERY,STORAGE
-
-- Department: DEPT OF DEFENSE
-- Type: Combined Synopsis/Solicitation
-- PostedDate: 2026-03-19 11:50:23.931-04
-- Total term hits: 9
-- Link: https://sam.gov/workspace/contract/opp/3329767259a84abe962a2347d1c920b6/view
-- Top terms: ui(9)
-
-## 6515--PHYSIOLOGIC MONITOR MODULES: EEG (SEDATION MONITOR) (VA-26-00042266)
-
-- Department: VETERANS AFFAIRS, DEPARTMENT OF
-- Type: Sources Sought
-- PostedDate: 2026-03-19 09:16:23.067-04
-- Total term hits: 9
-- Link: https://sam.gov/workspace/contract/opp/b7bce6a7da6443feafb655a125e7b2cd/view
-- Top terms: web(4), software(3), application(1), platform(1)
-
-## TAILPIECE,UNION
+## FILTER ELEMENT,FLUI
 
 - Department: DEPT OF DEFENSE
 - Type: Solicitation
-- PostedDate: 2026-03-19 04:04:06.87-04
+- PostedDate: 2026-03-20 17:12:47.987-04
+- Total term hits: 12
+- Link: https://sam.gov/workspace/contract/opp/93672da15bf04efea7269ef9a848bf7c/view
+- Top terms: web(6), application(2), business_intelligence(2), software(1), cybersecurity(1)
+
+## Current and Emerging Artificial Intelligence (AI) Tools to Accelerate Air Force Mobility Aircraft Acquisition Activities
+
+- Department: DEPT OF DEFENSE
+- Type: Sources Sought
+- PostedDate: 2026-03-20 14:55:29.653-04
+- Total term hits: 11
+- Link: https://sam.gov/workspace/contract/opp/25a348ee5a6a411eb63a9f396b3952cf/view
+- Top terms: devops(4), application(3), platform(2), software(1), api(1)
+
+## CABLE ASSEMBLY,SPEC
+
+- Department: DEPT OF DEFENSE
+- Type: Solicitation
+- PostedDate: 2026-03-20 18:23:32.464-04
+- Total term hits: 10
+- Link: https://sam.gov/workspace/contract/opp/6111eda3b0fe4cb0bd0f7b0624235d2e/view
+- Top terms: web(10)
+
+## Area of Interest for Case Development Modernization (CDM)
+
+- Department: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- PostedDate: 2026-03-20 16:57:56.079-04
+- Total term hits: 10
+- Link: https://sam.gov/workspace/contract/opp/82502bdc56c04de1873e834dcf56480a/view
+- Top terms: modernization(3), application(2), accessibility(2), cybersecurity(2), platform(1)
+
+## NOI-Microbox Cobra II A1 V-Cradle Scanners Maintenance Agreement
+
+- Department: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+- Type: Presolicitation
+- PostedDate: 2026-03-20 11:47:22.735-04
+- Total term hits: 10
+- Link: https://sam.gov/workspace/contract/opp/a645e865dc9b4447bcbbd6554be0d43c/view
+- Top terms: software(9), accessibility(1)
+
+## 6640--Porta Count Model 8408-T Respirator Fit Testing Equipment
+
+- Department: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Sources Sought
+- PostedDate: 2026-03-20 08:52:11.546-04
+- Total term hits: 10
+- Link: https://sam.gov/workspace/contract/opp/f1c2ee9bd7aa40fb9d55ea1a2622f29c/view
+- Top terms: software(7), application(2), ui(1)
+
+## VALVE,GLOBE
+
+- Department: DEPT OF DEFENSE
+- Type: Solicitation
+- PostedDate: 2026-03-20 18:11:02.311-04
 - Total term hits: 9
-- Link: https://sam.gov/workspace/contract/opp/7cbedb1e14cc4aba92dbbe39f4946502/view
+- Link: https://sam.gov/workspace/contract/opp/67608360aec64c0398a7d925143c5dc9/view
 - Top terms: application(5), software(2), web(2)
 
-## Immersion Tank Replacement at FRCE
+## KEYBOARD,DATA ENTRY
+
+- Department: DEPT OF DEFENSE
+- Type: Solicitation
+- PostedDate: 2026-03-20 18:26:01.763-04
+- Total term hits: 8
+- Link: https://sam.gov/workspace/contract/opp/e67ba1bfb1e34568a7fcaafa7aac9c29/view
+- Top terms: web(8)
+
+## PUMP,ROTARY
+
+- Department: DEPT OF DEFENSE
+- Type: Solicitation
+- PostedDate: 2026-03-20 17:57:48.41-04
+- Total term hits: 8
+- Link: https://sam.gov/workspace/contract/opp/d62f89c3194d4793aac4bf5fb5ae0ecc/view
+- Top terms: web(8)
+
+## CABLE ASSY
+
+- Department: DEPT OF DEFENSE
+- Type: Solicitation
+- PostedDate: 2026-03-20 17:53:08.028-04
+- Total term hits: 8
+- Link: https://sam.gov/workspace/contract/opp/6fa0d201e0b84df6bae5193876d34b54/view
+- Top terms: web(8)
+
+## COUPLER,ROTARY,RADI
+
+- Department: DEPT OF DEFENSE
+- Type: Solicitation
+- PostedDate: 2026-03-20 17:15:12.686-04
+- Total term hits: 8
+- Link: https://sam.gov/workspace/contract/opp/98c4d52cc20249c482bba7e04b08b8e4/view
+- Top terms: web(8)
+
+## THIS IS A REQUEST FOR INFORMATION (RFI) ONLY
+
+- Department: ENERGY, DEPARTMENT OF
+- Type: Solicitation
+- PostedDate: 2026-03-20 16:34:10.158-04
+- Total term hits: 8
+- Link: https://sam.gov/workspace/contract/opp/7cd03ddeae5248c18a57bd9f35ab7d98/view
+- Top terms: web(4), portal(2), application(1), modernization(1)
+
+## Building 46 Repair Room 517
 
 - Department: DEPT OF DEFENSE
 - Type: Combined Synopsis/Solicitation
-- PostedDate: 2026-03-19 13:33:31.713-04
+- PostedDate: 2026-03-20 11:31:21.032-04
 - Total term hits: 8
-- Link: https://sam.gov/workspace/contract/opp/9690dda070d14a33abcc12617fb30646/view
-- Top terms: platform(6), web(2)
+- Link: https://sam.gov/workspace/contract/opp/6db46c8ba7c247b8aacc5a110ffd7e28/view
+- Top terms: web(6), cloud(2)
 
-## Seeking Competitive Lease Proposals – Office Space in support of USDA Forest Service Operations Atlanta, Georgia
+## SOLID STATE DRIVES
 
-- Department: GENERAL SERVICES ADMINISTRATION
+- Department: DEPT OF DEFENSE
 - Type: Combined Synopsis/Solicitation
-- PostedDate: 2026-03-19 10:32:49.466-04
+- PostedDate: 2026-03-20 09:18:25.104-04
 - Total term hits: 8
-- Link: https://sam.gov/workspace/contract/opp/01bb64367f0c42c5bde9f872da6c2f8a/view
-- Top terms: portal(5), application(1), accessibility(1), modernization(1)
-
-## Seeking Competitive Lease Proposals – Office Space in support of USDA Forest Service Operations Atlanta, Georgia
-
-- Department: GENERAL SERVICES ADMINISTRATION
-- Type: Combined Synopsis/Solicitation
-- PostedDate: 2026-03-19 09:15:18.366-04
-- Total term hits: 8
-- Link: https://sam.gov/workspace/contract/opp/6bc0edaba372497dbb1b9b1bf889ef9a/view
-- Top terms: portal(5), application(1), accessibility(1), modernization(1)
+- Link: https://sam.gov/workspace/contract/opp/2c10fd239ff142ec8bce1d35116de882/view
+- Top terms: platform(3), web(2), nist(2), software(1)
