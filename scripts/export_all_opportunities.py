@@ -77,6 +77,29 @@ def main() -> None:
             record["matches"] = json.loads(raw_matches) if raw_matches else []
         except (TypeError, ValueError):
             record["matches"] = []
+
+        # Include extracted PDF/document text for full-text search
+        notice_id = record.get("NoticeId") or ""
+        if notice_id:
+            pdf_content_path = Path("docs/opportunities") / notice_id / "pdf_content.md"
+            if pdf_content_path.exists():
+                try:
+                    pdf_text = pdf_content_path.read_text(encoding="utf-8")
+                    # Only mark as having PDF content when actual text was extracted
+                    # (files with only the "No PDF" note are not useful for search)
+                    has_real_content = "_No PDF attachments or document links were found" not in pdf_text
+                    record["has_pdf_content"] = has_real_content
+                    if has_real_content:
+                        # Truncate to keep the JSON file manageable while still
+                        # covering enough text for meaningful keyword search
+                        record["pdf_text"] = pdf_text[:8000]
+                except Exception:
+                    record["has_pdf_content"] = False
+            else:
+                record["has_pdf_content"] = False
+        else:
+            record["has_pdf_content"] = False
+
         records.append(record)
 
     output_path.write_text(json.dumps(records, indent=2), encoding="utf-8")
