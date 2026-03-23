@@ -1,42 +1,95 @@
 {
-  "forecast_date": "2026-03-21",
+  "forecast_date": "2026-03-22",
   "departments_by_opportunity_volume": [
     {
-      "total_records": 13,
-      "open_opportunities": 9,
+      "total_records": 152,
+      "open_opportunities": 148,
       "awarded": 4,
-      "win_rate_percent": 30.8,
-      "estimated_monthly_value": 12671760,
-      "average_award_value": 3167940,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 2,
+      "win_rate_percent": 3.9,
+      "estimated_monthly_value": 8955975,
+      "average_award_value": 1492662,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 141,
       "top_awardees": [
         {
-          "name": "TELEDYNE INSTRUMENTS INC ",
+          "name": "HOOLAULIMA GOVERNMENT SOLUTIONS, LLC San Antonio TX 78232 USA",
           "wins": 1,
-          "total_value": 7392000
+          "total_value": 7742290
         },
         {
-          "name": "ECI DEFENSE GROUP, INC. ",
+          "name": "KOREA CONTAINER POOL CO.,LTD Seoul 04157 KOR",
           "wins": 1,
-          "total_value": 4873140
+          "total_value": 1124101
         },
         {
-          "name": "Roller Bearing Company of America, Inc. ",
+          "name": "TODO MAULEG Piti GU 96915 USA",
           "wins": 1,
-          "total_value": 350000
+          "total_value": 60291
         },
         {
-          "name": "EDGEONE LLC West Wareham MA 02576 USA",
+          "name": "SOUTHERN CROSS AVIATION, LLC ",
           "wins": 1,
-          "total_value": 56620
+          "total_value": 29292
+        },
+        {
+          "name": "",
+          "wins": 2,
+          "total_value": 0
         }
       ],
       "department": "DEPT OF DEFENSE"
     },
     {
       "total_records": 2,
-      "open_opportunities": 2,
+      "open_opportunities": 1,
+      "awarded": 1,
+      "win_rate_percent": 50.0,
+      "estimated_monthly_value": 50000,
+      "average_award_value": 50000,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [
+        {
+          "name": "AMERICAN FOUNDATION FOR SUICIDE PREVENTION NEW YORK 10038",
+          "wins": 1,
+          "total_value": 50000
+        }
+      ],
+      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
+    },
+    {
+      "total_records": 2,
+      "open_opportunities": 1,
+      "awarded": 1,
+      "win_rate_percent": 50.0,
+      "estimated_monthly_value": 13682,
+      "average_award_value": 13682,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 1,
+      "top_awardees": [
+        {
+          "name": "CONNECTICUT TRAILERS, INC. 7 BOLTON CENTER RD Bolton CT 06043 USA",
+          "wins": 1,
+          "total_value": 13682
+        }
+      ],
+      "department": "INTERIOR, DEPARTMENT OF THE"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "AGRICULTURE, DEPARTMENT OF"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
@@ -44,92 +97,44 @@
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 1,
       "top_awardees": [],
-      "department": "GENERAL SERVICES ADMINISTRATION"
-    },
-    {
-      "total_records": 2,
-      "open_opportunities": 1,
-      "awarded": 1,
-      "win_rate_percent": 100.0,
-      "estimated_monthly_value": 7167731,
-      "average_award_value": 3583865,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [
-        {
-          "name": "VETERANS CHOICE SERVICES LLC ",
-          "wins": 1,
-          "total_value": 6886880
-        },
-        {
-          "name": "KANGAROO PICK-UP AND DELIVERY SERVICE, INC. HOLLADAY 84121",
-          "wins": 1,
-          "total_value": 280851
-        }
-      ],
-      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "STATE, DEPARTMENT OF"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 0,
-      "awarded": 1,
-      "win_rate_percent": 100.0,
-      "estimated_monthly_value": 13644,
-      "average_award_value": 13644,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [
-        {
-          "name": "EMPIRE SOUTHWEST, LLC 1501 E THORNTON RD Show Low AZ 85901 USA",
-          "wins": 1,
-          "total_value": 13644
-        }
-      ],
-      "department": "INTERIOR, DEPARTMENT OF THE"
+      "department": "HOMELAND SECURITY, DEPARTMENT OF"
     }
   ],
   "departments_by_award_value": [
     {
-      "total_records": 13,
-      "open_opportunities": 9,
+      "total_records": 152,
+      "open_opportunities": 148,
       "awarded": 4,
-      "win_rate_percent": 30.8,
-      "estimated_monthly_value": 12671760,
-      "average_award_value": 3167940,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 2,
+      "win_rate_percent": 3.9,
+      "estimated_monthly_value": 8955975,
+      "average_award_value": 1492662,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 141,
       "top_awardees": [
         {
-          "name": "TELEDYNE INSTRUMENTS INC ",
+          "name": "HOOLAULIMA GOVERNMENT SOLUTIONS, LLC San Antonio TX 78232 USA",
           "wins": 1,
-          "total_value": 7392000
+          "total_value": 7742290
         },
         {
-          "name": "ECI DEFENSE GROUP, INC. ",
+          "name": "KOREA CONTAINER POOL CO.,LTD Seoul 04157 KOR",
           "wins": 1,
-          "total_value": 4873140
+          "total_value": 1124101
         },
         {
-          "name": "Roller Bearing Company of America, Inc. ",
+          "name": "TODO MAULEG Piti GU 96915 USA",
           "wins": 1,
-          "total_value": 350000
+          "total_value": 60291
         },
         {
-          "name": "EDGEONE LLC West Wareham MA 02576 USA",
+          "name": "SOUTHERN CROSS AVIATION, LLC ",
           "wins": 1,
-          "total_value": 56620
+          "total_value": 29292
+        },
+        {
+          "name": "",
+          "wins": 2,
+          "total_value": 0
         }
       ],
       "department": "DEPT OF DEFENSE"
@@ -138,54 +143,37 @@
       "total_records": 2,
       "open_opportunities": 1,
       "awarded": 1,
-      "win_rate_percent": 100.0,
-      "estimated_monthly_value": 7167731,
-      "average_award_value": 3583865,
+      "win_rate_percent": 50.0,
+      "estimated_monthly_value": 50000,
+      "average_award_value": 50000,
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [
         {
-          "name": "VETERANS CHOICE SERVICES LLC ",
+          "name": "AMERICAN FOUNDATION FOR SUICIDE PREVENTION NEW YORK 10038",
           "wins": 1,
-          "total_value": 6886880
-        },
-        {
-          "name": "KANGAROO PICK-UP AND DELIVERY SERVICE, INC. HOLLADAY 84121",
-          "wins": 1,
-          "total_value": 280851
+          "total_value": 50000
         }
       ],
       "department": "VETERANS AFFAIRS, DEPARTMENT OF"
     },
     {
-      "total_records": 1,
-      "open_opportunities": 0,
+      "total_records": 2,
+      "open_opportunities": 1,
       "awarded": 1,
-      "win_rate_percent": 100.0,
-      "estimated_monthly_value": 13644,
-      "average_award_value": 13644,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
+      "win_rate_percent": 50.0,
+      "estimated_monthly_value": 13682,
+      "average_award_value": 13682,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 1,
       "top_awardees": [
         {
-          "name": "EMPIRE SOUTHWEST, LLC 1501 E THORNTON RD Show Low AZ 85901 USA",
+          "name": "CONNECTICUT TRAILERS, INC. 7 BOLTON CENTER RD Bolton CT 06043 USA",
           "wins": 1,
-          "total_value": 13644
+          "total_value": 13682
         }
       ],
       "department": "INTERIOR, DEPARTMENT OF THE"
-    },
-    {
-      "total_records": 2,
-      "open_opportunities": 2,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 1,
-      "top_awardees": [],
-      "department": "GENERAL SERVICES ADMINISTRATION"
     },
     {
       "total_records": 1,
@@ -194,42 +182,59 @@
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
-      "opportunities_with_attachments": 1,
+      "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "STATE, DEPARTMENT OF"
+      "department": "AGRICULTURE, DEPARTMENT OF"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 1,
+      "top_awardees": [],
+      "department": "HOMELAND SECURITY, DEPARTMENT OF"
     }
   ],
   "department_forecasts": {
     "DEPT OF DEFENSE": {
-      "total_records": 13,
-      "open_opportunities": 9,
+      "total_records": 152,
+      "open_opportunities": 148,
       "awarded": 4,
-      "win_rate_percent": 30.8,
-      "estimated_monthly_value": 12671760,
-      "average_award_value": 3167940,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 2,
+      "win_rate_percent": 3.9,
+      "estimated_monthly_value": 8955975,
+      "average_award_value": 1492662,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 141,
       "top_awardees": [
         {
-          "name": "TELEDYNE INSTRUMENTS INC ",
+          "name": "HOOLAULIMA GOVERNMENT SOLUTIONS, LLC San Antonio TX 78232 USA",
           "wins": 1,
-          "total_value": 7392000
+          "total_value": 7742290
         },
         {
-          "name": "ECI DEFENSE GROUP, INC. ",
+          "name": "KOREA CONTAINER POOL CO.,LTD Seoul 04157 KOR",
           "wins": 1,
-          "total_value": 4873140
+          "total_value": 1124101
         },
         {
-          "name": "Roller Bearing Company of America, Inc. ",
+          "name": "TODO MAULEG Piti GU 96915 USA",
           "wins": 1,
-          "total_value": 350000
+          "total_value": 60291
         },
         {
-          "name": "EDGEONE LLC West Wareham MA 02576 USA",
+          "name": "SOUTHERN CROSS AVIATION, LLC ",
           "wins": 1,
-          "total_value": 56620
+          "total_value": 29292
+        },
+        {
+          "name": "",
+          "wins": 2,
+          "total_value": 0
         }
       ]
     },
@@ -237,27 +242,50 @@
       "total_records": 2,
       "open_opportunities": 1,
       "awarded": 1,
-      "win_rate_percent": 100.0,
-      "estimated_monthly_value": 7167731,
-      "average_award_value": 3583865,
+      "win_rate_percent": 50.0,
+      "estimated_monthly_value": 50000,
+      "average_award_value": 50000,
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [
         {
-          "name": "VETERANS CHOICE SERVICES LLC ",
+          "name": "AMERICAN FOUNDATION FOR SUICIDE PREVENTION NEW YORK 10038",
           "wins": 1,
-          "total_value": 6886880
-        },
-        {
-          "name": "KANGAROO PICK-UP AND DELIVERY SERVICE, INC. HOLLADAY 84121",
-          "wins": 1,
-          "total_value": 280851
+          "total_value": 50000
         }
       ]
     },
-    "GENERAL SERVICES ADMINISTRATION": {
+    "INTERIOR, DEPARTMENT OF THE": {
       "total_records": 2,
-      "open_opportunities": 2,
+      "open_opportunities": 1,
+      "awarded": 1,
+      "win_rate_percent": 50.0,
+      "estimated_monthly_value": 13682,
+      "average_award_value": 13682,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 1,
+      "top_awardees": [
+        {
+          "name": "CONNECTICUT TRAILERS, INC. 7 BOLTON CENTER RD Bolton CT 06043 USA",
+          "wins": 1,
+          "total_value": 13682
+        }
+      ]
+    },
+    "AGRICULTURE, DEPARTMENT OF": {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": []
+    },
+    "HOMELAND SECURITY, DEPARTMENT OF": {
+      "total_records": 1,
+      "open_opportunities": 1,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
@@ -265,34 +293,6 @@
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 1,
       "top_awardees": []
-    },
-    "STATE, DEPARTMENT OF": {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": []
-    },
-    "INTERIOR, DEPARTMENT OF THE": {
-      "total_records": 1,
-      "open_opportunities": 0,
-      "awarded": 1,
-      "win_rate_percent": 100.0,
-      "estimated_monthly_value": 13644,
-      "average_award_value": 13644,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [
-        {
-          "name": "EMPIRE SOUTHWEST, LLC 1501 E THORNTON RD Show Low AZ 85901 USA",
-          "wins": 1,
-          "total_value": 13644
-        }
-      ]
     }
   }
 }
