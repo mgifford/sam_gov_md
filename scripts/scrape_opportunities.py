@@ -368,40 +368,42 @@ def write_opportunity_docx_content(
         (doc_dir / safe_name).write_bytes(doc_bytes)
 
 
-def write_opportunity_docx_content(
+def update_index_with_pdf_link(
     notice_id: str,
-    title: str,
-    doc_url: str,
-    text: str,
+    attachments: list[dict],
     output_dir: Path,
-    doc_bytes: Optional[bytes] = None,
-    save_doc: bool = False,
 ) -> None:
-    """Write extracted Word document text to ``docx_content.md``."""
-    doc_dir = output_dir / notice_id
-    doc_dir.mkdir(parents=True, exist_ok=True)
-    lines = [
-        f"# Word Document Content: {title}",
-        "",
-        f"- Notice ID: {notice_id}",
-        f"- Document URL: {doc_url}",
-        "",
-        "## Extracted Text",
-        "",
-        text or "_No text could be extracted from this Word document._",
-    ]
-    (doc_dir / "docx_content.md").write_text("\n".join(lines), encoding="utf-8")
+    """Add a link to ``pdf_content.md`` in the opportunity's ``index.md``.
 
-    if save_doc and doc_bytes:
-        url_path = urlparse(doc_url).path
-        raw_name = Path(url_path).name or "attachment"
-        raw_stem = Path(raw_name).stem
-        # Preserve the original extension (.docx or .doc) when saving the raw file
-        url_suffix = Path(url_path).suffix.lower()
-        safe_ext = url_suffix if url_suffix in (".docx", ".doc") else ".docx"
-        safe_stem = re.sub(r"[^A-Za-z0-9_-]", "_", raw_stem) or "attachment"
-        safe_name = f"{safe_stem}{safe_ext}"
-        (doc_dir / safe_name).write_bytes(doc_bytes)
+    Only called when actual attachments were extracted.  If ``index.md`` does
+    not exist (e.g. the opportunity was processed from the CSV only), or if the
+    link is already present, this is a no-op.
+    """
+    if not attachments:
+        return
+    index_path = output_dir / notice_id / "index.md"
+    if not index_path.exists():
+        return
+    content = index_path.read_text(encoding="utf-8")
+    if "pdf_content.md" in content:
+        return  # already linked
+
+    total_words = sum(len(a.get("text", "").split()) for a in attachments)
+    pdf_link_line = (
+        f"- [Extracted Document Content](pdf_content.md) "
+        f"({len(attachments)} attachment(s), ~{total_words} words)"
+    )
+
+    # Insert before the ## Links section when present; otherwise append.
+    if "\n## Links" in content:
+        content = content.replace(
+            "\n## Links",
+            f"\n## Extracted Documents\n\n{pdf_link_line}\n\n## Links",
+        )
+    else:
+        content = content.rstrip("\n") + f"\n\n## Extracted Documents\n\n{pdf_link_line}\n"
+
+    index_path.write_text(content, encoding="utf-8")
 
 
 def load_csv(csv_path: str) -> list[dict]:
@@ -685,6 +687,7 @@ def main() -> None:
             if attachments:
                 total_words = sum(len(a.get("text", "").split()) for a in attachments)
                 print(f"    Wrote pdf_content.md ({len(attachments)} attachment(s), ~{total_words} words total)")
+                update_index_with_pdf_link(notice_id, attachments, output_dir)
                 extracted += 1
                 summary_records.append({
                     "notice_id": notice_id,

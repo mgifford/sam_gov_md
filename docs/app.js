@@ -28,6 +28,8 @@ function normalizeRecord(raw) {
     matches: raw.matches || [],
     first_seen_date: raw.first_seen_date || '',
     is_win: raw.is_win || false,
+    has_pdf_content: raw.has_pdf_content || false,
+    pdf_text: raw.pdf_text || '',
   }
 }
 
@@ -239,18 +241,21 @@ function renderTable(records, heading = '') {
     const awardee = (record.Awardee || '').trim()
     const awardAmount = record.AwardAmount || ''
     const posted = (record.PostedDate || '').slice(0, 10)
-    const markdownLink = record.has_markdown && record.NoticeId
+    const markdownLink = record.NoticeId
       ? `<a href="opportunities/${record.NoticeId}/" title="View full opportunity">View</a>`
       : ''
     const samLink = record.Link
       ? `<a href="${record.Link}" target="_blank" rel="noreferrer" title="Open on SAM.gov">SAM.gov ↗</a>`
+      : ''
+    const pdfBadge = record.has_pdf_content
+      ? '<span title="Document content extracted" style="font-size:11px;background:#fff3cd;color:#856404;border-radius:4px;padding:1px 5px;margin-left:4px;">📄 Docs</span>'
       : ''
     const rowStyle = getTypeStyle(record.Type)
 
     return `
       <tr style="${rowStyle}">
         <td style="width:80px;">${record.Type || ''}</td>
-        <td style="width:280px; white-space:normal;">${record.Title || ''}</td>
+        <td style="width:280px; white-space:normal;">${record.Title || ''}${pdfBadge}</td>
         <td style="width:100px;">${record.Agency || ''}</td>
         <td style="width:80px;">${posted}</td>
         <td style="width:120px; color:#0369a1; font-weight:500;">${terms || '—'}</td>

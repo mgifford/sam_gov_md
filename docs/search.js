@@ -19,6 +19,8 @@ function normalizeRecord(raw) {
     PrimaryContactEmail: raw.PrimaryContactEmail || '',
     matches: raw.matches || [],
     first_seen_date: raw.first_seen_date || '',
+    has_pdf_content: raw.has_pdf_content || false,
+    pdf_text: raw.pdf_text || '',
   }
 }
 
@@ -49,6 +51,7 @@ function calculateScore(query, record) {
     if (record.Agency.toLowerCase().includes(qterm)) score  += 50
     if (record.Description.toLowerCase().includes(qterm)) score += 30
     if (record.matches.some(m => m.term.toLowerCase().includes(qterm))) score += 75
+    if (record.pdf_text && record.pdf_text.toLowerCase().includes(qterm)) score += 20
   })
   return { score }
 }
@@ -74,11 +77,13 @@ function displayResults(results, query) {
     const excerpt = (record.Description || '').slice(0, 180) + (record.Description?.length > 180 ? '...' : '')
     const statusBadge = record.Awardee ? '<span class="result-badge badge-awarded">Awarded</span>' : '<span class="result-badge badge-opportunity">Open</span>'
     const typeBadge = record.Type ? `<span class="result-badge badge-type">${record.Type}</span>` : ''
+    const pdfBadge = record.has_pdf_content ? '<span class="result-badge badge-pdf">📄 Docs Extracted</span>' : ''
     const matchedTerms = record.matches.length > 0 ? `<div class="result-meta"><span><strong>Tracked Terms:</strong> ${record.matches.map(m => m.term).join(', ')}</span></div>` : ''
-    
+    const detailLink = record.NoticeId ? `<a href="opportunities/${record.NoticeId}/" title="View opportunity details and extracted documents">Details</a>` : ''
+
     li.innerHTML = `
-      <div class="result-title">${statusBadge}${typeBadge} <a href="${record.Link || '#'}" target="_blank">${record.Title || 'Untitled'}</a></div>
-      <div class="result-meta"><span><strong>Agency:</strong> ${record.Agency || 'Unknown'}</span><span><strong>Posted:</strong> ${posted}</span></div>
+      <div class="result-title">${statusBadge}${typeBadge}${pdfBadge} <a href="${record.Link || '#'}" target="_blank">${record.Title || 'Untitled'}</a></div>
+      <div class="result-meta"><span><strong>Agency:</strong> ${record.Agency || 'Unknown'}</span><span><strong>Posted:</strong> ${posted}</span>${detailLink ? `<span>${detailLink}</span>` : ''}</div>
       ${matchedTerms}
       <div class="result-excerpt">${excerpt}</div>
     `

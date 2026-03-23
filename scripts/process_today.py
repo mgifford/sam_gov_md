@@ -401,7 +401,13 @@ def write_markdown_opportunities(records: list[dict[str, Any]], output_dir: Path
             markdown_lines.append("")
             for i, attachment in enumerate(attachment_info["attachments"], 1):
                 markdown_lines.append(f"- Attachment {i}: {attachment}")
-        
+
+        # Link to extracted document content if it was previously generated
+        pdf_content_path = doc_dir / "pdf_content.md"
+        if pdf_content_path.exists():
+            markdown_lines.extend(["", "## Extracted Documents", ""])
+            markdown_lines.append("- [Extracted Document Content (PDF/Word)](pdf_content.md)")
+
         markdown_lines.extend(["", "## Links", ""])
         if sam_link:
             markdown_lines.append(f"- [SAM.gov opportunity page]({sam_link})")

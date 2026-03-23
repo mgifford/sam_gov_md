@@ -75,6 +75,12 @@ jobs:
             --save-pdf \
             --api-key "${SAM_API_KEY:-DEMO_KEY}"
 
+      - name: Re-export opportunities with PDF content indicators
+        run: |
+          # Re-run export so that has_pdf_content and pdf_text fields reflect
+          # the pdf_content.md files that were just created above.
+          python scripts/export_all_opportunities.py
+
       - name: Commit and push if changed
         run: |
           if [[ -z "$(git status --porcelain -- data/today docs/data docs/opportunities data/opportunities.sqlite)" ]]; then
