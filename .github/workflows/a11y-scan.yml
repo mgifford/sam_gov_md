@@ -2,16 +2,20 @@ name: Accessibility Scan (axe-core)
 
 # Run monthly, on every push that touches dashboard pages, and on demand.
 #
-# Prerequisites – add a repository secret named GH_TOKEN that is a fine-grained
-# Personal Access Token (PAT) with the following permissions on this repository:
-#   actions: write
-#   contents: write
-#   issues: write
-#   pull-requests: write
-#   metadata: read
+# Token requirements:
+#   The built-in GITHUB_TOKEN is sufficient for scanning and filing issues when
+#   the job-level permissions below include issues: write and pull-requests: write.
 #
-# The built-in GITHUB_TOKEN cannot be used because the accessibility-scanner
-# action needs to open issues and (optionally) assign them to GitHub Copilot.
+#   If you want GitHub Copilot to be automatically assigned to fix the issues
+#   (skip_copilot_assignment: false), you MAY need a fine-grained Personal Access
+#   Token (PAT).  If so, add a repository secret named GH_TOKEN with these
+#   permissions on this repository:
+#     contents: write
+#     issues: write
+#     pull-requests: write
+#     metadata: read (automatically granted)
+#
+#   When GH_TOKEN is not set the workflow falls back to the built-in GITHUB_TOKEN.
 
 on:
   schedule:
@@ -25,6 +29,8 @@ on:
 
 permissions:
   contents: read
+  issues: write
+  pull-requests: write
 
 jobs:
   a11y:
@@ -42,8 +48,9 @@ jobs:
             https://mgifford.github.io/sam_gov_md/trends.html
           # Repository where issues will be filed (and where Copilot will open PRs)
           repository: mgifford/sam_gov_md
-          # Fine-grained PAT – see the comment at the top of this file
-          token: ${{ secrets.GH_TOKEN }}
+          # Use a PAT (GH_TOKEN) if available; fall back to the built-in token.
+          # See the comment at the top of this file for when a PAT is needed.
+          token: ${{ secrets.GH_TOKEN || github.token }}
           # Cache key used to deduplicate findings across runs
           cache_key: mgifford-sam_gov_md-a11y
           # Set to true if GitHub Copilot is not available in this repository
