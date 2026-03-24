@@ -1,0 +1,29 @@
+---
+layout: default
+title: General Services Administration (GSA) seeks to lease office space in Santa Barbara and Goleta, CA
+agency: GENERAL SERVICES ADMINISTRATION
+notice_type: Presolicitation
+notice_id: 112899fcc1cf4a999e0b5c7018d9449d
+---
+
+# General Services Administration (GSA) seeks to lease office space in Santa Barbara and Goleta, CA
+
+- Agency: GENERAL SERVICES ADMINISTRATION
+- Type: Presolicitation
+- Posted: 2026-03-23 12:05:13.944-04
+- Solicitation Number: 0CA3254A
+
+## Summary
+
+General Services Administration (GSA) seeks to lease the following space: State: California City: Santa Barbara, and Goleta Delineated Area: North: Cathedral Oaks Road starting at Hollister Ave (Goleta) extending along Highway 192 to San Ysidro Road (Montecito) East: San Ysidro Road starting at Highway 192 extending along Eucalyptus Lane to Pacific Coast (Montecito) South: The Pacific coast shoreline at Eucalyptus Lane to Pacific coast shoreline at Santa Barbara Shores Drive (Goleta) West: In Goleta, from Cathedral Oaks Road and Hollister Avenue to Santa Barbara Shores Drive, extending along Santa Barbara Shores Drive to the Pacific coast. Minimum Sq. Ft. (ABOA): 13,585 Maximum Sq. Ft. (ABOA): 14,264 Space Type: Office, Courtroom Parking Spaces (Total): On-site, 3 surface or structured Parking Spaces (Reserved): 3 Full Term: 20 Firm Term: 15 Option Term: 0 Summary of Requirement & Phased Delivery: The Government intends to award a lease for space to accommodate a multi-phase build-out. Building qualification is contingent upon a successful suitability test fit analysis performed by the U.S. Courts. Lease Award & Phase I Build-out: Following lease award, the Lessor shall complete (or facilitate) the build-out of a courtroom, and essential office areas if applicable. With the exception of the courtroom, existing office areas and other tenant improvements (TI) may be considered for reuse in lieu of a new build-out. The costs for this shall be paid via amortization of a TI allowance. • Baseline Facility Level III Security Requirements necessary for initial occupancy. Occupancy (Phase I): The Government will take physical occupancy of the space and commence rent payments upon the substantial completion and acceptance of the Phase I SOW. Phase II (Post-Occupancy): The remaining Tenant Improvements (TIs) for office and secondary spaces will be completed as an occupied renovation project within three (3) years of the initial occupancy date. The costs for this work shall be paid via lump sum. In addition: • The balance of facility Level III Security Requirements, including securing the three reserved parking shall be completed. • One secured private elevator from secured parking spaces to the Government’s space shall be installed and operational. Additional Requirements: • Parking: Must be on-site, reserved, secured, and discreet with a restricted-access path to the primary workspace. • Additional parking per local code for employee and public use (provide the parking count as part of the submission). • 30’ minimum column spacing. • Nine-foot finish ceiling heights (min 9’-6” to 10’-0” in limited location). • Courtroom shall not be located at street or below grade levels. Offered space must meet Government requirements for fire safety, accessibility, seismic, and sustainability standards per the terms of the Lease. A fully serviced lease is required. Offered space shall not be in the 1-percent-annual chance floodplain (formerly referred to as “100-year” floodplain). Entities are advised to familiarize themselves with the telecommunications prohibitions outlined under Section 889 of the FY19 National Defense Authorization Act (NDAA), as implemented by the Federal Acquisition Regulation (FAR). For more information, visit: https://acquisition.gov/FAR-Case-2019-009/889_Part_B. Expressions of Interest Due: April 6, 2026 Market Survey (Estimated): April 27, 2026 Lease Award (Estimated): July 15, 2026 Substantial Completion (Phase I): Full rent commencement. March 2027 Send Expressions of Interest to: Dan McGrath, Broker Contractor - Carpenter/Robbins Commercial Real Estate Inc. 2000 Crow Canyon Place, Suite 130 San Ramon, CA 94583 Email: Daniel.J.Mcgrath@gsa.gov Government Contact Information Susan Baghdikian - Lease Contracting Officer Dan McGrath, Broker Contractor - Carpenter/Robbins Commercial Real Estate Inc. Expressions of interest must include the following information: 1. Building Information: Building name, address, age, and current occupancy status. 2. Space Location: Floor number(s) and date of availability. 3. Square Footage: Total Rentable Square Feet (RSF) and ANSI/BOMA Office Area (ABOA SF) offered. 4. CAD/Scalable Drawings: Scalable floor plans in AutoCAD (.dwg) format (required for test fits) and high-resolution PDF format showing the "as-built" condition of the offered space. 5. Technical Details: Location of existing columns (including spacing), window lines, plumbing stacks, and core elements (elevators/stairs). 6. Parking & Access: A site plan showing the location of the 3 reserved/secured spaces and the proposed restricted-access path to the space. 7. Ownership: Information on building ownership and authorization to represent the owner. 8. Provide a map that shows a subway, light rail, or bus rapid transit stop that is located within the immediate vicinity of the Building, but generally not exceeding a safely accessible, walkable 2,640 feet from the principal functional entrance of the building. Acceptability will be determined by the LCO.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Dan McGrath, Broker Contractor - Carpenter/Robbins Commercial Real Estate, Inc.
+  - Email: Daniel.J.McGrath@gsa.gov
+  - Phone: (619) 840-7842
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/112899fcc1cf4a999e0b5c7018d9449d/view)

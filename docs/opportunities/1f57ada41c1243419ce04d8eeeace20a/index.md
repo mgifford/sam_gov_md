@@ -1,0 +1,29 @@
+---
+layout: default
+title: MODBUS TO BACNET PROTOCOL GATE
+agency: HOMELAND SECURITY, DEPARTMENT OF
+notice_type: Solicitation
+notice_id: 1f57ada41c1243419ce04d8eeeace20a
+---
+
+# MODBUS TO BACNET PROTOCOL GATE
+
+- Agency: HOMELAND SECURITY, DEPARTMENT OF
+- Type: Solicitation
+- Posted: 2026-03-23 13:05:51.188-04
+- Solicitation Number: 70Z08526Q30045B00
+
+## Summary
+
+REQUEST FOR QUOTE 70Z08526Q30045B00 QUOTE DUE NLT: 04/07/26, 12 PM EST ITEM REQUIRED DELIVERY DATE: 05/26/2026 NAICS 334418 This is a UNRESTRICTED combined synopsis/solicitation for commercial items, prepared in accordance with the format in subpart 12.6 of the FAR Part 12 - Acquisition of Commercial Products and Commercial Services | Acquisition.GOV and as supplemented with additional information included in this notice. This announcement constitutes the only solicitation; quotes are being requested and a separate written solicitation will not be issued. Request for Quote number in header applies and is used as the solicitation number. This solicitation document and incorporated provisions and clauses are those in effect through Federal Acquisition Circular 2005-87, effective, 7 March 2016. It is anticipated that a competitive price purchase order shall be awarded as a result of this synopsis/solicitation. All responsible sources may submit a quotation, (vendor must have an active registration in SAM.Gov prior to award) which if timely received, shall be considered by this agency. Payments are NET 30 and will be made in accordance with the FAR 52.232-25 Prompt payment clause 52.232-25 Prompt Payment. | Acquisition.GOV. All acquisitions expected to exceed $10k can also be found on SAM.GOV under the same solicitation/RFQ listed in the header. The U.S. Coast Guard, Surface Forces Logistics Center (SFLC) intends to award a Firm Fixed Price Purchase Order. The United States Coast Guard Surface Forces Logistics Center has a requirement for the following items: Vendor shall provide: VENDOR NAME: VENDOR ADDRESS: VENDOR SAM.GOV UEI: VENDOR PHONE: VENDOR EMAIL: NO SUBSTITUTIONS WILL BE AUTHORIZED WITHOUT APPROVAL FROM USCG SFLC TECHNICAL EXPERTS. POC: Gina Baran Email: gina.m.baran@uscg.mil LINE ITEM 1 NSN: 5998 01-F26-7323 DESCRIPTION: MODBUS TO BACNET PROTOCOL GATE QUANTITY: 15 EA MFG NAME: CHIPKIN AUTOMATION SYSTEMS INC PART_NBR: FS-QS-3210-1138 UNIT PRICE: ______________________ TOTAL PRICE (Shipping must be included): ________________________ DESCRIPTIVE DATA: FIELDSERVER QUICKSERVER | TWO ETHERNET PORTS 1 RS485/RS232 PORT 1 RS485 PORT | 1000 DATA POINTS| DIN RAIL MOUNT | BACNET COV SUPPORT | MSA CLOUD REGISTRATION | ON-BOARD DIAGNOSTICS| 24 VAC PACKAGING AND MARKING REQUIREMENTS: MIL-STD-20731E - REFER TO METHOD 10. PACKAGING SHOULD BE APPROPRIATE TO PART SIZE, WEIGHT, AND MUST WITHSTAND MULTIPLE WORLDWIDE SHIPMENTS IN VARIOUS SHIPPING CONDITIONS / CLIMATES. PART MUST BE APPROPRIATELY SECURED, AND CUSHIONED BY FOAM OR BUBBLE WRAP TO PREVENT EXCESSIVE MOVEMENT AND DAMAGE DURING SHIPPING. ELECTROSTATIC DISCHARGE (ESD) ITEMS TO COMPLY WITH METHOD 41, TABLE J-IA IAW MILPRF-81705E (**ONLY IF APPLICABLE TO PART**) ITEMS WILL BE INDIVIDUALLY LABELED IAW MIL-STD-129R EXCEPT THAT BARCODING SHALL BE IAW ISO/IEC 16388-2007 CODE 39 SYMBOLOGY. VISIBLY MARK / LABEL ALL ELECTRONIC EQUIPMENT WITH "STORE INDOORS ONLY" WARNING. ITEMS THAT ARE NOT INDIVIDUALLY PACKAGED, AND / OR LABELED WITH THE REQUIRED FORMAT WILL BE RETUREND TO THE VENDOR FOR REPACKAGING. PACKAGE LABEL: ITEM NAME: PART NUMBER: NSN: QNTY: (EXAMPLE 1 EA) COND-A CONTRACT NUMBER / ORDER NUMBER ALL ITEMS REQUIRED DELIVERY DATE: 05/26/26 If you are unable to meet the required delivery date, please provide DELIVERY DATE:________ - NO SUBSTITUTIONS. ** Total cost shall have delivery and any Freight charges to zip code 21226 included. ** ** SHIPPING: FOB DESTINATION REQUIRED. ** SHIP TO: USCG SURFACE FORCES LOGISTICS CENTER 2401 HAWKINS POINT ROAD RECEIVING ROOM- BUILDING 88 BALTIMORE, MD 21226 Preparation For Delivery All packing lists shall cite the Purchase Order Number with the packaging in such a manner to ensure identification of the material provided. Material shall be packed for shipment using Military Packaging, for example in packaging please reference MIL-STD-2073-1E. Material must be packaged in such a manner as to afford adequate protection to the item against corrosion, deterioration, and physical damage during shipment. Please make sure that any changes in Delivery Timeframes or tracking information get sent to gina.m.baran@uscg.mil U.S. COAST GUARD APPROVED LABEL SHOULD HAVE THE FOLLOWING: NATIONAL STOCK NUMBER (NSN) ITEM NAME PART NUMBER PURCHASE ORDER NUMBER THE WORDS “COAST GUARD SFLC MATERIAL” CONDITION (A) QUANTITY AND UNIT OF ISSUE (I.E) (1-EA) Invoicing In IPP It is now a requirement that all invoicing for Purchase Orders will now be entered and processed through https://www.ipp.gov. All invoices must contain the following information: CG contract number, vendor’s invoice number, vendor’s UEI, UEI & TINs number, cage number, PO item number, description of supplies or services, unit prices and extended totals (INVOICES FOR PURCHASE ORDERS AWARDED BY SURFACE FORCE LOGISTICS CENTER, BALTIMORE ARE TO BE SUMITTED AS NON-PO IN IPP). To submit an invoice, the vendor must have access to www.ipp.gov. Please do not direct your invoice or payment questions to me. Please contact the following: Customer Support (866) 973-3131 IPPCustomerSupport@ fiscal.treasury.gov U.S. COAST GUARD FINANCE CENTER - (757) 523-6700
+
+## Contacts
+
+- Primary Contact:
+  - Name: GINA BARAN
+  - Email: gina.m.baran@uscg.mil
+  - Phone: 5716100488
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1f57ada41c1243419ce04d8eeeace20a/view)

@@ -1,0 +1,31 @@
+---
+layout: default
+title: Z2DA--657-18-115JCA, CON: Replace Various Air Handling Units and Variable Air Volume Units (VA-26-00026953)
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Solicitation
+notice_id: 4408c9591b9d47aeaf2c8db05bb172d5
+---
+
+# Z2DA--657-18-115JCA, CON: Replace Various Air Handling Units and Variable Air Volume Units (VA-26-00026953)
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Solicitation
+- Posted: 2026-03-23 15:13:00.998-04
+- Solicitation Number: 36C25526R0070
+- Awardee: null
+
+## Summary
+
+SOLICITATION DESCRIPTION/STATEMENT OF WORK 657-18-115JCA, CON: Replace Various Air Handling Units and Variable Air Volume Units at the John Cochran VA Medical Center 915 N Grand Blvd, St. Louis, MO 63106 The VA Saint Louis Health Care System, John Cochran Division, requires the services of a Construction Contractor to replace various Air Handling Units (AHUs) and Variable Air Volume (VAV) Units in Building 1 of the main hospital. This effort includes the disconnection and removal of existing HVAC equipment, installation and placement of new equipment, maintenance of HVAC services for occupied spaces during replacement activities, hazardous material abatement, and restoration of construction-affected spaces for patient care. Work will be executed in accordance with the project drawings and specifications, which have been developed by an Architectural-Engineering firm. These documents detail the scope and standards for the work to be performed in addition to any supplemental information provided in this document.
+
+## Contacts
+
+- Primary Contact:
+  - Name: David Sterrett
+  - Title: Contract Specialist
+  - Email: david.sterrett@va.gov
+  - Phone: 9139461146
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4408c9591b9d47aeaf2c8db05bb172d5/view)

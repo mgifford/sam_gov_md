@@ -1,0 +1,28 @@
+---
+layout: default
+title: Airborne Position Location System (APLS)
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 0092dacdf3d64d58a867b021e503542a
+---
+
+# Airborne Position Location System (APLS)
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-03-23 09:36:56.503-04
+- Solicitation Number: 023605
+
+## Summary
+
+SOURCES SOUGHT NOTICE Airborne Position Location System (APLS) Sustainment Support Services Fort Bragg, North Carolina THIS IS A Sources Sought Notice ONLY. The U.S. Government currently intends to award a contract to provide remote and on-site hardware/software warranty and is seeking vendors that may be able to perform this requirement to support a competitive procurement. Accordingly, the U.S. Government highly encourages all interested businesses (large and small) to respond to this sources sought synopsis. In addition, small businesses, in all socioeconomic categories (including, 8(a) Business Development Program, Small Disadvantaged Business, Historically Underutilized Business Zone, Service-Disabled Veteran Owned, Women-Owned Small Business concerns), are asked to describe their identifying capabilities in meeting the requirements at a fair market price, i.e., information which may help support a set-aside. This notice is issued solely for information and planning purposes – it does not constitute a Request for Quote (RFQ)/Invitation for Bid (IFB)/Request for Proposal (RFP) or a promise to issue an RFQ, IFB or RFP in the future. This notice does not commit the U.S. Government to contract for any supply or service. Further, the U.S. Government is not seeking quotes, bids or proposals at this time and will not accept unsolicited proposals in response to the sources sought notice. The U.S. Government will not pay for any information or administrative costs incurred in response to this notice. Submittals will not be returned to the responder. Not responding to this notice does not preclude participation in any future RFQ or IFB or RFP, if any is issued. If a solicitation is released, it will be synopsized on the Governmentwide Point of Entry, sam.gov. It is the responsibility of potential offerors to monitor the Governmentwide Point of Entry for additional information pertaining to this requirement. The anticipated NAICS code(s) is: 811210 –Electronic and Precision Equipment Repair and Maintenance with size standard of $34.0 million. A continuing need is anticipated for the APLS requirement, which is currently being fulfilled through the current contract, DATM01-01-C-0006. Attached is the draft Performance Work Statement (PWS). In response to the sources sought, please provide the following information in no more than 5 pages: 1. Name of the firm, point of contact, phone number, email address, Unique Entity Identification (UEI) number, Commercial and Government Entity (CAGE) code, a statement regarding small business status (including small business type(s)/certifications(s) such as SDB, 8(a), HUBZone, SDVOSB, WOSB, etc.) and the corresponding NAICS code. 2. Identify whether your firm is interested in competing for this requirement as a prime contractor or not. Identify subcontracting, joint ventures or teaming arrangement that will be pursued, if any. Provide proof of authorized reseller or service provider of this procurement. 3.Information in sufficient detail regarding previous experience (indicate whether as aprime contractor or subcontractor) on similar requirements (including size, scope,complexity, timeframe, government or commercial), pertinent certifications, etc., that willfacilitate making a capability determination. 4.Information to help determine if the requirement service is commercially available,including pricing information, and the basis for the pricing information (e.g., market pricing,catalog pricing), delivery schedules, customary terms and conditions, warranties, etc. 5.Identify how the Army can best structure these contract requirements to facilitatecompetition by and among small business concerns. 6.Identify any condition or action that may be having the effect of unnecessarily restrictingcompetition with respect to this acquisition. Please contact the MICC Advocate forCompetition, Scott Kukes, at scott.d.kukes.civ@mail.mil or 210-466-3015, if you believethat this action is unreasonably restricting competition. Include the subject of theacquisition, this announcement, and the MICC POC information from the sam.gov notice.Provide the specific aspects that unreasonably restrict competition and the rationale forsuch conclusion. 7.Recommendations to improve the approach/specifications/draft PWS/PRS to acquiringthe identified items/services.Interested parties are requested to submit their response no later than April 23, 2026, at 4:00PM Central Daylight Time (CDT). All responses under this Sources Sought Notice must be emailed to Contracting Officer, Lucy Bonner at lucy.u.bonner.civ@army.mil and Contract Specialist, Krista DuBose at krista.m.dubose.civ@army.mil. All correspondence shall be titled with an e-mail subject as follows: Response to Sources Sought Notice APLS Sustainment Support Services. Acknowledgement of receipt will not be made.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Krista DuBose
+  - Email: krista.m.dubose.civ@army.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0092dacdf3d64d58a867b021e503542a/view)

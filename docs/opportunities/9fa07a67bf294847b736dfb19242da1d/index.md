@@ -1,0 +1,28 @@
+---
+layout: default
+title: Renovation of Bldg 27 at DSCC, OH
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: 9fa07a67bf294847b736dfb19242da1d
+---
+
+# Renovation of Bldg 27 at DSCC, OH
+
+- Agency: DEPT OF DEFENSE
+- Type: Presolicitation
+- Posted: 2026-03-23 15:35:35.137-04
+- Solicitation Number: W912QR26BA013
+
+## Summary
+
+DESCRIPTION: The U.S. Army Corps of Engineers (USACE) Louisville District intends to issue an Invitation for Bid (IFB) under solicitation W912QR26BA013 for construction activities to repair/renovate Building 27 is a multipurpose building (fitness center and warehouse) at the Defense Supply Center Columbus (DSCC). Building was originally built in 1942 and many of the existing HVAC components were last updated in 1992 and are at the end of their life and are in need of replacement. The project aims to enhance the functionality, energy efficiency and resiliency of the existing facility. The project encompasses several key scope items, including: Addition of Exterior Insulation and Finish System (EIFS) to increase fitness center exterior wall insulation. Replacement of failing doors and windows. Provide new fitness center entry vestibule. Change building layout to meet Military Morale Welfare Recreation requirements. Includes walls, doors, painting, floor finishes and floor finishes. Fire protection and fire alarm systems adjustments to meet requirements of building layout changes. Upgrade florescent lighting fixtures to LED. HVAC Repairs to meet UFC and ASHRAE requirements for indoor air quality and space air conditioning. Estimated 200 tons of cooling. Installation of Direct Digital Controls (DDC) Systems to control HVAC and Lighting Replace failing pad-mounted transformers with new transformers sized to meet building electrification requirements. Replacement of existing natural gas domestic water heaters with electric powered water heater distribution system. Testing to check for asbestos or lead that may be present in the facility. Positive test results will then result in hazardous material remediation. Demolition of existing AHUs, chiller, condensing units, domestic water heaters, water piping, doors, windows, transformers, walls, floors and ceilings. Removal of old and installation of two new electrical transformers. The total square footage for the facility is approximately 65,000 square feet. The Contract Duration is estimated at four hundred and eighty-five (480) calendar days from date of award. TYPE OF CONTRACT AND NAICS: This IFB will be for one (1) Firm-Fixed-Price (FFP) Construction contract. The North American Industrial Classification System Code (NAICS) for this effort is 236220 Commercial and Institutional Building Construction CONSTRUCTION MAGNITUDE: The magnitude of this construction project is anticipated to be between $10,000,000 and $25,000,000 in accordance with FARS 36.204. TYPE OF SET-ASIDE: This acquisition will be listed as a Small Business Set Aside. SELECTION PROCESS: This is a sealed bid Part 14 Procurement. The bids will be evaluated based on the lowest priced complete offer submitted. DISCUSSIONS: The Government intends to award without discussions. ANTICIPATED SOLICITATION RELEASE DATE: The Government anticipates releasing the solicitation on or about 6 April 2026. Details regarding an Optional Site Visit will be included in the solicitation if one is determined to be provided. Actual dates and times will be identified in the solicitation. Additional details can be found in the solicitation when it is posted to https://sam.gov/. SOLICITATION WEBSITE: The official solicitation, when posted, will be available free of charge by electronic posting only and may be found at the Contracting Opportunities website, https:// sam.gov/. Paper copies of the solicitation will not be issued. Telephone and Fax requests for this solicitation will not be honored. Project files are Portable Document Format (PDF) files and can be viewed, navigated, or printed using Adobe Acrobat Reader. To download the solicitation for this project, contractors are required to register at the Contracting Opportunities website at http://sam.gov. Amendments, if/when issued, will be posted to the above referenced website for electronic downloading. This will be the only method of distributing amendments prior to closing; therefore, it is the Offerors responsibility to check the website periodically for any amendments to the solicitation. REGISTRATIONS: Offerors shall have and shall maintain an active registration in the following database: System for Award Management (SAM): Offerors shall have and shall maintain an active registration in the SAM database at http://www.sam.gov to be eligible for a Government contract award. If the Offeror is a Joint Venture (JV), the JV entity shall have valid SAM registration in the SAM database representing the JV as one business/firm/entity. If at the time of award an Offeror is not actively and successfully registered in the SAM database, the Government reserves the right to award to the next prospective Offeror. POINT-OF-CONTACT: The point-of-contact for this procurement is Contract Specialist, Mr. Lee Merideth, at ranzel.l.merideth@usace.army.mil. This announcement serves as the Advance Notice for this project. Responses to this synopsis are not required.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Ranzel L. Merideth
+  - Email: Ranzel.l.merideth@usace.army.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9fa07a67bf294847b736dfb19242da1d/view)

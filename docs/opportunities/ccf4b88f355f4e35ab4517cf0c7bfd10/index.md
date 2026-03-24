@@ -1,0 +1,28 @@
+---
+layout: default
+title: Commercial Electrician Services for VA Pacific Islands
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: ccf4b88f355f4e35ab4517cf0c7bfd10
+---
+
+# Commercial Electrician Services for VA Pacific Islands
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-03-23 18:59:26.458-04
+- Solicitation Number: 36C26126Q0476
+
+## Summary
+
+This is a RFI for Commercial Electrician Services for VA Pacific Islands Health Care System (VAPIHCS). The Government is seeking information on the availability of qualified vendors capable of providing Commercial Electrician Services. The purpose of this RFI is to gauge market interest and gather input from potential sources. Please review the attached RFI 36C26126Q0476 document, which includes a Sample Performance Work Statement (PWS). To be considered a complete response, provide the information requested in items 1-7 of the RFI. Please note that Item 2 requests an informal pricing estimate or quote. Please provide any feedback, questions, or clarifications, including any areas where the PWS may need further clarification. The last day for questions regarding this notice is April 3, 2026 at 10:00 am HST. Questions or clarifications will be sent to Shaneldylana.Pagaragan@va.gov. The anticipated posting date for the formal solicitation is Mid-April. Vendors that provide a complete and timely response to this RFI will be notified.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Shanel Pagaragan
+  - Email: Shaneldylana.Pagaragan@va.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ccf4b88f355f4e35ab4517cf0c7bfd10/view)

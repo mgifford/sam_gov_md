@@ -1,0 +1,28 @@
+---
+layout: default
+title: EGLIN AFB - Blue Whistler Timber Sale
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 9105c98af84341188a3a3e1286b59d27
+---
+
+# EGLIN AFB - Blue Whistler Timber Sale
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-03-23 13:41:03.892-04
+- Solicitation Number: FA282326Q4003
+
+## Summary
+
+PSC – 5510 Classification Code – J NAICs Code - 113310 AFTC/PZIOC (Eglin AFB, FL) contracting division intends to solicit and award a Firm-Fixed Price “Sales” contract for a timber sale at Eglin Air Force Base (AFB), FL. The contractor shall provide all management, tools, supplies, transportation, equipment, and labor necessary for 25P45 timber removal services at Eglin AFB, FL in accordance with the attached Statement of Work (SOW) dated March 2026, SF1449 Solicitation, and maps. This award will consist of one contract line item number CLIN (0001) with 118 acres that contains approximately 8,508 tons of pine timber. Timber will be sold on a lump-sum basis where the winning bidder pays 100% of the bid price at the start of the contract. 1. This is a combined synopsis/solicitation for commercial items prepared in accordance with the format in Subpart 12.6, as supplemented with additional information included in this notice. This announcement constitutes the only solicitation; quotations are being requested and a written solicitation will not be issued. 2. Solicitation number: FA282326Q4003. Offerors shall comply with the entire Standard Form (SF) 1449 solicitation document attached to this notice for applicable instructions, provisions, and clauses. The following Federal Acquisition Regulation (FAR) provisions and clauses apply to this acquisition and are included in the SF1449: 52.212-1, Instructions to Offerors – Commercial Products and Commercial Services, 52.212-2, Evaluation – Commercial Products and Commercial Services, 52.212-4, Contract Terms and Conditions – Commercial Products and Commercial Services, and 52.212-5, Contract Terms and Conditions Required to Implement Statutes or Executive Orders – Commercial Products and Commercial Services. 3. The following Attachments to this notice include the: (1) SF1449 Solicitation Number FA282326Q4003, (2) Statement of Work for Blue Whistler Timber Sale dated March 2026, (3) Blue Whistler Map, and (4) Vicinity Map. 4. The NAICS code assigned to this acquisition is 113310 - Logging. This solicitation is unrestricted and being procured using full and open competition. 5. Quotes shall be submitted by inserting: (1) the unit price; (2) amount price and (3) and net amount price in CLIN 0001 (page 4) of the SF1449. The amounts can be hand-written in and must be readable. (1) Insert the offeror’s price per unit under UNIT PRICE in CLIN 0001. (2) Insert the offeror’s total price amount under the word AMOUNT in CLIN 0001 (which should equal 8,508 Actual Tons – multiplied by the offeror’s unit price). (3) Insert the offeror’s total price amount again to the right of the words NET AMT in CLIN 0001 – under the line. Offerors shall also complete/fill in Blocks 17a. CONTRACTOR/OFFEROR and 30a. (SIGNATURE OF OFFEROR/CONTRACTOR; 30B. NAME AND TITLE OF SIGNER; and 30c. DATE SIGNED – on the cover page SF 1449 bottom left corner. Additionally, ALL OFFERORS shall provide evidence of general liability and property damage liability insurance with a minimum of $1 million in coverage. Failure to provide the above requirements will deem offer ineligible for award/non-responsive. 6. Payment for this sale will be on a lump-sum basis, where the winning offeror pays 100% of the offered price prior to the beginning period of performance and upon execution of the contract. 7. The winning offeror shall schedule and attend a conference and contract signing with the Government no later than 14 calendar days upon award notification. NOTE: During the conference, a list of all haul vehicles or trailer numbers with state license tag numbers must be provided. Failure to provide the above requirements will deem the offer ineligible for award/non-responsive. 8. The Performance Period will be a total of 365 Days (12 months) of contract signing. 9. Offers due date/time. Solicitation package responses shall be received electronically no later than 10:00 AM CST on 01 April 2026 (or sooner if possible). Questions (if applicable) shall be received electronically No Later Than (NLT) 10:00 AM CST 25 March 2026. Government will provide responses/answers (if required) by an amendment. The Government anticipates posting the responding amendment NLT 10:00 AM 26 March 2026. 10. Required Quotation Package Vendors shall submit quote package (Paragraph 5) electronically (by e-mail) and the Government shall receive the package not later than the established date and time. Electronic mail (e-mail) submission to the below email address is the only acceptable method to submit a response to this solicitation. Point of Contact: Jared Dunn, AFTC/PZIOC, Contracting Officer, jared.dunn.6@us.af.mil. 11. No official site visit will be held. However, potential offerors are encouraged to schedule visiting/inspecting the site prior to the solicitation closing date and time. Offerors need to contact Jackson Guard personnel at (850) 882-4164 or Michael Kratz at (850) 883-1127, michael.kratz.2@us.af.mil. ---END --- Location/Address: 308 West D Ave Building 260, Suite 130 Eglin AFB, FL 32542-5418 Set Aside: NONE
+
+## Contacts
+
+- Primary Contact:
+  - Name: Jared Dunn
+  - Email: Jared.Dunn.6@us.af.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9105c98af84341188a3a3e1286b59d27/view)

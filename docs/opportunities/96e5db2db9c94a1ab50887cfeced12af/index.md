@@ -1,0 +1,31 @@
+---
+layout: default
+title: Laydown Site Preparation Project - Karup, Denmark (Horizontal Construction)
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 96e5db2db9c94a1ab50887cfeced12af
+---
+
+# Laydown Site Preparation Project - Karup, Denmark (Horizontal Construction)
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-03-23 08:20:45.139-04
+- Solicitation Number: W912GB26X1AT4
+
+## Summary
+
+This Sources Sought is for market research purposes only – it is not a Request for Proposal, Request for Quote, or Invitation for Bid. There is no commitment by the Government to issue a solicitation, make awards, or pay for respondent's expenditures made in response to this notice. Interested vendors are responsible for monitoring this notice for any subsequent changes. All submissions become government property and will not be returned. The purpose of this notice is to afford industry the opportunity to submit company profiles with capability statements, provide acquisition strategy feedback, and express interest in the potential procurement. The U.S. Army Corps of Engineers (USACE) Europe District is planning a requirement for a firm-fixed-price, design-bid-build construction contract to build a new Deployable Airbase System (DABS) with facilities, equipment, and vehicles (FEV) laydown site in Karup, Denmark. The project’s anticipated magnitude of construction is between $1,000,000 and $5,000,000 with a construction duration of 365 calendar days from issuance of the Notice to Proceed (estimated around January 2027). USACE anticipates a solicitation will be issued in May of 2026 with a pre-proposal site-visit scheduled for June 2026, and a contract award Mid-October 2026. PROJECT DESCRIPTION: The Karup DABS - FEV Laydown construction project includes construction of a new laydown area including concrete tent pads, gravel bed, site improvements and utility connections for developing base expeditionary airfield resources (BEAR) to beddown personnel (550 pax) using Deployable Air Base System (DABS) sets supporting United States Air Force (USAF) contingency operations. The type of shelter in the standard DABS set is the Alaska Small Shelter System (AKSSS). BEAR assets in the standard DABS set to be accommodated within the beddown area include 72 billet shelters, two (2) latrine shelters, two (2) shower shelters, one (1) laundry shelter, one (1) 550-person kitchen package, four (4) command operations shelters, and three (3) morale, welfare, and recreation shelters. Supporting facilities include site development, utilities and connections (electrical power, domestic water & wastewater), and storm drainage. Primary Facilities: Gravel Bed - ~30,957 Square Meters Additional notes: N/A INDUSTRY DAY: N/A CAPABILITIES STATEMENT: Vendors interested in this potential procurement should submit a brief capabilities statement as one PDF. The capabilities statement shall include the following: 1. Company name, address, point of contact, phone number, and e-mail address. Include Commercial and Government Entity (CAGE) code and Unique Entity Identifier (UEI) number from the company’s System for Award Management (SAM) registration. 2. A completed Experience / Capability Worksheet along with a brief description of experience with similar construction projects performed within the past ten years in any of the following areas that may be required for the project. Describe if work was performed as a prime or subcontractor, the location (name of city and country), and value in U.S. dollars. a.) Demolition, to include environmental remediation, and site preparation. Clearing and grubbing for brush and preparation of site. b.) Civil work to include site layout, grading drainage, and site utilities. c.) Site layout to include standoff distances, circulation of people and vehicles to include parking areas. d.) Horizontal concrete construction. e.) Grading and drainage to allow efficient surface drainage of design storm events. f.) Potable water distribution and sewer collection pipes and lift station designed to Denmark Standards. Utilities connections extension (domestic water and wastewater) to the limit of site will be performed through directed local contractor, Karup Utility. g.) Knowledge of quality control, scheduling, and safety procedures and documentation, especially if similar to those utilized on USACE projects. 3. The vendor’s capability for bonding and to perform construction in Denmark, especially Karup. 4. Any constraints that USACE should be aware of to assist in acquisition planning and contract execution. 5. Feedback, if any, on the acquisition strategy for this requirement, such as Request For Proposal (RFP) using the Lowest Price Technically Acceptable (LPTA) or Tradeoff source selection process, Invitation For Bid (IFB), sole source, etc. Please email capabilities statement to the following, referencing W912GB26X1AT4 in the subject line of the email: Adam Shevock Contract Specialist, at adam.t.shevock@usace.army.mil Jordan Quantock, Contracting Officer, at Jordan.M.Quantock3@usace.army.mil Interested parties are invited to submit a response to this Sources Sought Notice no later than 11:00 HRS CEST 8 April 2026. Submissions will be shared with the Government project delivery team but will otherwise be held in strict confidence. No feedback will be provided to respondents regarding their submissions. If you have any questions, contact Adam Shevock and Jordan Quantock by email. Note: Any solicitation issued resulting from this notice will be in a separate announcement. A company must be registered and active in SAM to be considered for contract award. Further instructions and information can be found at https://sam.gov/content/entity-registration.
+
+## Contacts
+
+- Primary Contact:
+  - Name: MAJ Adam Shevock
+  - Email: adam.t.shevock@usace.army.mil
+- Secondary Contact:
+  - Name: Jordan Quantock
+  - Email: Jordan.m.quantock3@usace.army.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/96e5db2db9c94a1ab50887cfeced12af/view)

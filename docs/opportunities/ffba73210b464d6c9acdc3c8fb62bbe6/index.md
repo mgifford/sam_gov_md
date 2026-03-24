@@ -1,0 +1,33 @@
+---
+layout: default
+title: Purchase Boeing ONE (1) 737-700 or 737-800 Aircraft with Trade-in of 737-400
+agency: JUSTICE, DEPARTMENT OF
+notice_type: Combined Synopsis/Solicitation
+notice_id: ffba73210b464d6c9acdc3c8fb62bbe6
+---
+
+# Purchase Boeing ONE (1) 737-700 or 737-800 Aircraft with Trade-in of 737-400
+
+- Agency: JUSTICE, DEPARTMENT OF
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-03-23 10:30:49.864-04
+- Solicitation Number: 15M30026RA3700011
+
+## Summary
+
+This is a combined synopsis/solicitation for commercial items prepared in accordance with the format in subpart 12.202 as supplemented with additional information included in this notice. This announcement constitutes the only solicitation, proposals are being requested and a written solicitation will be issued. The issuing office is US Marshals Service Justice Prisoner and Air Transportation System (JPATS) FSD, 1251 Briarcliff Parkway, Suite 300, Kansas City, MO 64116 (15M300) The solicitation number for this acquisition is 15M30026RA3700011. It is being issued as a Request for Proposal (RFP). The government intends to award a Firm Fixed-Price (FFP) contract resulting from this solicitation. This combined synopsis/solicitation document and incorporated provisions, and clauses are those in effect through Federal Acquisition Circular (FAC) 2026-01 effective 03/13/2026. This RFP shall be issued as Unrestricted. The associated North American Industry Classification system (NAICS) code is 336411 and the business size standard is 1500 employees. FAR 52.212-1 Instructions to Offerors- Commercial does apply to this acquisition with addenda to the provision. FAR 52.212-2 Evaluation-Commercial Products and Commercial Services- does apply to this acquisition with addenda to the provision. The description of the requirement: This solicitation is for the purchase of one (1) Boeing 737-700 or Boeing 737-800 aircraft. The Offeror must provide JPATS with an offer to purchase a JPATS owned Boeing 737-400 aircraft and spare parts (see the attached addendums to FAR 52.212-1 and 52.212-2). The contractor will provide a proposal package in accordance with the addendums to 52.212-1, 52.212-2 and the “Aircraft Acquisition Technical Specifications.” Basis for Award The Government intends to award a Firm Fixed Priced Award to the responsible offeror whose proposal represents the best value to the Government based on the following criteria: Factor 1: Technical (Aircraft) and Delivery Schedule Factor 2: Aircraft Sales Experience Factor 3: Purchase of Existing JPATS Boeing 737-400 Aircraft and Spare Parts Factor 4: Price of New Boeing 737-700 or 737-800 Aircraft A description of what is required and will be evaluated for each factor is provided below. Factor 1 is more important than Factor 2. Factors 1 and 2, when combined, are significantly more important than Factor 4 (Price). Factor 3 is a go/no-go requirement. A description of what is required and will be evaluated for each factor is provided below. Confidence ratings provided below will be utilized when evaluating Factors 1 and 2 and will be used to support the best value tradeoff decision. For the purposes of identifying the tradeoff for best value, the Government will make an award to the responsible Offeror, whose proposal is most advantageous to the Government, price and other factors considered. Accordingly, the Government may or may not award to the lowest price Offeror. The Government reserves the right to make award to a higher priced Offeror to achieve a superior solution in meeting the Requirements of this solicitation. Refer to FAR 52.212-1 Instructions to Offerors- Commercial does apply to this acquisition with addenda to the provision. FAR 52.212-2 Evaluation-Commercial Products and Commercial Services- does apply to this acquisition with addenda to the provision. Delivery is FOB. Offerors must include a completed copy of FAR 52.212-3, Offeror Representation and Certifications- Commercial Items with their offer. If the offeror has up-to-date representations and certifications in the System for Award Management (SAM) website, then this completed provision is not required to be submitted with the offeror’s proposal. FAR 52.212-4, Contract Terms and Conditions- Commercial Products and Commercial Services, does apply to this acquisition with no addenda to the provision. Offerors interested in responding to this combined synopsis/solicitation must submit their quotation on the attached synopsis\solicitation and the Pricing Table included in the attached addendum to 52.212-2, Evaluation Commercial Items. Any questions regarding this combined synopsis\solicitation must be submitted by email to the point of contact below. Contractor must have an “Active” registration in System for Award Management (SAM) to be considered for award. To obtain information on SAM or to register with SAM visit the web site at: https://www.sam.gov. Proposals are due no later than 1:00 p.m. 20 April 2026. The final date to submit questions is 6 April 2026. Questions of a contractual nature should be addressed in writing to Sheila Nimrod, Sheila.nimrod@usdoj.gov NO MAIL-IN PROPOSALS will be accepted. All proposal shall be submitted via e-mail to: Sheila.nimrod@usdoj.gov. Please include the solicitation number in all electronic correspondence. The Government reserves the right to cancel this combined synopsis\solicitation. Any solicitation or contractual questions should be sent to Sheila Nimrod (816) 912-8068 or Sheila.nimrod@usdoj.gov System for Award Management (SAM) OFFEROR MUST BE REGISTERED IN THE SYSTEM FOR AWARD MANAGEMENT (SAM) PRIOR TO THE OFFER DUE DATE /THE CLOSE OF THE SOLICITATION OR THE CONTRACTING OFFICER MAY PROCEED WITH AWARD TO THE NEXT SUCCESSFUL OFFEROR. SAM.GOV REGISTRATION IS FREE OF CHARGE If you were not previously registered, please go to https://www.sam.gov. Instructions for new registration are also located at the following site: https://www.sam.gov/ If you have questions about Federal Government procurements in general or need assistance in the preparation of your proposal, a local APEX Accelerator formerly known as PTAC may be able to help https://www.apexaccelerators.us/#/service-area-locator. THIS IS A FREE SERVICE BY A NON-PROFIT PAID FOR BY THE US GOVERNMENT:
+
+## Contacts
+
+- Primary Contact:
+  - Name: Sheila Nimrod
+  - Email: Sheila.nimrod@usdoj.gov
+  - Phone: 8169128068
+- Secondary Contact:
+  - Name: Julie M. Simpson
+  - Email: julie.simpson@usdoj.gov
+  - Phone: 2027383451
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ffba73210b464d6c9acdc3c8fb62bbe6/view)
