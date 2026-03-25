@@ -1,0 +1,28 @@
+---
+layout: default
+title: SERVOCYLINDER
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 0f700cde0fd34b87a090ebdf9f3764bd
+---
+
+# SERVOCYLINDER
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-03-24 07:19:03.974-04
+- Solicitation Number: SPRPA126QYB86
+
+## Summary
+
+CONTACT INFORMATION|4|dlawsphlpostawd@dla.mil|dlawsphlpostawd@dla.mil|dlawsphlpostawd@dla.mil|dlawsphlpostawd@dla.mil| ITEM UNIQUE IDENTIFICATION AND VALUATION (JAN 2023)|19|||||||||||||||||||| INSPECTION OF SUPPLIES--FIXED-PRICE (AUG 1996)|2||| HIGHER-LEVEL CONTRACT QUALITY REQUIREMENT|8|ISO 9001 or its equivalent|||||||| FMS DELIVERY AND SHIPPING INSTRUCTIONS|3|X|NN4W|N52212.JB| WIDE AREA WORKFLOW PAYMENT INSTRUCTIONS (JAN 2023)|16|INVOICE AND RECEIVING REPORT (COMBO)||TBD|SPRPA1|TBD|TBD|SEE SCHEDULE|TBD|SEE SCHEDULE|||||||| NAVY USE OF ABILITYONE SUPPORT CONTRACTOR - RELEASE OF OFFEROR INFORMATION (3-18))|1|| VALUE ENGINEERING (JUN 2020)|3|||| INTEGRITY OF UNIT PRICES (NOV 2021)|1|| EQUAL OPPORTUNITY FOR VETERANS (DEV 2026-O0040)(FEB 2026)|4||||| WARRANTY OF SUPPLIES OF A NONCOMPLEX NATURE (JUN 2003)|6|12 months after the date of the last delivery under this contract,|45 days after the date of the last delivery under this contract,||||| SMALL BUSINESS SUBCONTRACTING PLAN (DEV 2026-O0037)(FEB 2026)|4||||| EQUAL OPPORTUITY FOR WORKERS WITH DISABILITIES (DEV 2026-O0040)(FEB 2026)|4||||| BUY AMERICAN-FREE TRADE AGREEMENTS-BALANCE OF PAYMENTS PROGRAM-BASIC (FEB 2024)|11|||||||||||| ESTIMATE OF PERCENTAGE OF RECOVERED MATERIAL CONTENT FOR EPA DESIGNATED PRODUCTS (MAY 2008))|1|| FEDERAL ACQUISITION SUPPLY CHAIN SECURITY ACT ORDERS-PROHIBITION (DEC 2023)|12||||||||||||| SECURITY PROHIBITIONS AND EXCLUSIONS (CLASS DEVIATION 2026-O0025)(FEB 2026)|7|||||||| BUY AMERICAN-FREE TRADE AGREEMENTS-BALANCE OF PAYMENTS PROGRAM CERTIFICATE-BASIC (FEB 2024))|5|||||| BUY AMERICAN--BALANCE OF PAYMENTS PROGRAM CERTIFICATE-BASIC (FEB 2024)|1|| ALTERNATE A, ANNUAL REPRESENTATIONS AND CERTIFICATIONS (DEVIATION 2026-O0043)(FEB 2026))|13|||||||||||||| ROYALTY INFORMATION (APR 1984)|1|| COST ACCOUNTING STANDARD NOTICES AND CERTIFICATION (DEV 2026-O0006)(FEB 2026)|1|| INSTRUCTIONS TO OFFERORS--COMPETITIVE ACQUISITION (DEV 2026-O0048)(MAR 2026)|2||| NOTICE OF PRIORITY RATING FOR NATIONAL DEFENSE, EMERGENCY PREPAREDNESS, ANDENERGY PROGRAM USE (APR 2008))|2||X| This is a FMS NEW SPARES requirement. No drawings are available for this requirement. This Solicitation is being issued under Emergency Acquisition Flexibilities (EAF), formerly known as Special Emergency Procurement Authority (SEPA). For Critical Safety Items (CSI), DFARS clause 252.209-7010, Identification of Critical Safety Items, is incorporated by reference. For items for which Government inspection and acceptance will be conducted at the source, DLAD clause 52.246-9004, Product Verification Testing, is incorporated by reference. DLAD clauses can be viewed at http://www.dla.mil/Acquisition/Pages/DLAD.aspx. As applicable, DFARS clause 252.242-7005, Contractor Business Systems, is incorporated by reference. All Clauses not applicable to this document are self-deleting. \
+
+## Contacts
+
+- Primary Contact:
+  - Name: Telephone: 2157374024
+  - Email: THOMAS.KUHNLE@DLA.MIL
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0f700cde0fd34b87a090ebdf9f3764bd/view)

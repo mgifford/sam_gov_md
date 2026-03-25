@@ -1,0 +1,43 @@
+---
+layout: default
+title: Low-Rate Initial Production (LRIP) of AN/SSQ-101B sonobuoys
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: e668359745cf42989cd9ab4e94532885
+---
+
+# Low-Rate Initial Production (LRIP) of AN/SSQ-101B sonobuoys
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-03-24 11:44:53.54-04
+- Solicitation Number: N00019-25-RFPREQ-APM264-0445
+
+## Summary
+
+THIS SOURCES SOUGHT IS NOT A REQUEST FOR A PROPOSAL DISCLAIMER THIS SOURCES SOUGHT IS FOR INFORMATIONAL PURPOSES ONLY. THIS IS NOT A REQUEST FOR PROPOSAL. IT DOES NOT CONSTITUTE A SOLICITATION AND SHALL NOT BE CONSTRUED AS A COMMITMENT BY THE GOVERNMENT. RESPONSES IN ANY FORM ARE NOT OFFERS AND THE GOVERNMENT IS UNDER NO OBLIGATION TO AWARD A CONTRACT AS A RESULT OF THIS ANNOUNCEMENT. NO FUNDS ARE AVAILABLE TO PAY FOR PREPARATION OF RESPONSES TO THIS ANNOUNCEMENT. ANY INFORMATION SUBMITTED BY RESPONDENTS TO THIS TECHNICAL DESCRIPTION IS STRICTLY VOLUNTARY. RESPONSES TO THIS SOURCES SOUGHT WILL NOT BE RETURNED. RESPONDENTS WILL NOT BE NOTIFIED OF THE RESULTS OF THE REVIEW.
+
+1.0 INTRODUCTION This sources sought is being used as a market research tool pursuant to Federal Acquisition Regulations (FAR) Part 10 to determine potential sources and their technical capabilities. The result of this market research will contribute to determining the method of procurement. The Naval Air Systems Command, (NAVAIR) Patuxent River, Maryland, Air Anti-Submarine Warfare Systems (ASW) Program Office (PMA-264) has the requirement for the Low-Rate Initial Production (LRIP) of AN/SSQ-101B sonobuoys. This contract will provide for the LRIP and delivery of production-representative AN/SSQ-101B sonobuoys. The objective is to procure sufficient quantities to validate the contractor’s manufacturing and production capability and support operational testing. It is anticipated that the resultant contract will be Firm Fixed-Price. Non-recurring engineering funds will NOT be available. To ensure compatibility with existing and future Anti-Submarine Warfare systems, production sonobuoys are required to meet general performance requirements such as: reliability, service conditions, electrical, mechanical, acoustic, safety, environmental, product assurance, packaging, marking, and operating requirements. AN/SSQ-101B sonobuoys are built to performance specifications. The Key Performance Parameters are defined by the Performance Sonobuoy Specifications (PSS) for the AN/SSQ-101B sonobuoy. Prerequisites for Participation To participate in this market research and to be eligible to receive the PSS, interested contractors must meet two key requirements: Active SAM Registration: Contractors must have an active registration in the System for Award Management (SAM) at www.sam.gov, which includes having a current and active CAGE code. Valid DD Form 2345: Contractors must have a current and valid DD Form 2345 (Military Critical Technical Data Agreement) on file with the United States/Canada Joint Certification Office. To file a DD Form 2345, visit the DLIS website at https://www.dla.mil/HQ/LogisticsOperations/Services/JCP/ or call 1-800-352-3572. Process for Requesting the PSS: Once the above prerequisites are met, contractors may request a copy of the PSS by emailing Donna Baumgardner at Donna.C.Baumgardner.civ@us.navy.mil. The request email must include the contractor's CAGE code so that an active SAM registration and valid DD Form 2345 can be verified. The documentation related to this requirement is export controlled. This notice is intended to identify sources that are either currently capable of producing AN/SSQ-101B sonobuoys or can demonstrate a credible path to becoming a qualified producer within the timelines specified herein. The Government will not reimburse participants for any expenses associated with their participation in this survey.
+
+2.0 REQUIRED CAPABILITIES Potential contractors will be required to possess or acquire fully qualified production-ready design(s) or present a plan to achieve qualified production-ready design(s) for all of the products listed above within 6 months after contract award. A Government qualified design is defined as either a design that has been or currently is being delivered to the Government OR a design that has received a letter from the Procurement Contracting Officer declaring the design as qualified. Fully functional deliveries must begin within 12 months of contract award and be complete within 24 months. Further, the Government will NOT pay a new business entering the market the costs incurred to achieve a fully qualified design. This AN/SSQ-101B sonobuoy acquisition may require access to classified information, up to the SECRET level, in accordance with OPNAVINST 5510.13H. Final sonobuoy assembly is required to be in the United States.
+
+3.0 SPECIAL REQUIREMENTS The contracted effort will require, at a minimum, a Security Clearance classification of SECRET. Some contracted effort may require secret storage. Businesses should be compliant with Software Engineering Institute (SEI) Capability Maturity Model Integration (CMMI) Level III with regard to software development and system integration (hardware, software, testing, and project management). Contractors will be required to have achieved Cybersecurity Maturity Model Certification (CMMC) Level 2, confirmed by a third-party assessment conducted by an accredited CMMC Third-Party Assessment Organization (C3PAO), by time of contract award.
+
+4.0 ELIGIBILITY 10 United States Code (U.S.C.) 4864. Miscellaneous limitations on the procurement of goods other than United States goods. The Product Support Code (PSC) for this requirement is 5845. The North America Industry Classification System (NAICS) code is 334511.
+
+5.0 SUBMITTAL INFORMATION It is requested that interested contractors submit to the contracting office a detailed capabilities statement package (no more than 10 pages in length, single-spaced, 12-point font minimum) demonstrating the ability to meet the Key Performance Parameters for the AN/SSQ-101B production sonobuoy. Each contractors capability statement package must address, at a minimum, in order of priority, the following: (1) A detailed plan and estimated schedule(s) showing the company's ability to begin performance, in accordance with the timeline provided in
+
+2.0 Required Capabilities, upon contract award for the AN/SSQ-101B sonobuoy (2) A management approach to staffing this effort with qualified personnel, which should address current hires available for assignment to this effort, possible subcontracting/teaming arrangements, and strategy for recruiting and retaining qualified personnel (3) Resources available such as corporate management policies, quality certifications, and currently employed personnel to be assigned tasks under this effort to include professional qualifications, specific experience of personnel, and ability to have personnel located at the sites specified (4) A company profile to include number of employees, annual revenue history, business size, office location(s), PCO name, phone number, fax number, and email address, North American Industry Classification System (NAICS) codes under which goods and services are provided, and Data Universal Numbering System number(s) (5) Prior/current corporate experience performing efforts of similar size and scope within the last three years, including contract number, organizations supported, indication of whether a prime or a subcontractor, contract values, Government Point of Contact with current telephone number, and a brief description of how the contract referenced relates to the requirement described herein Media: Submissions should be in Microsoft Word format. One (1) electronic copy is required. Means of Delivery: The capability statement package shall be sent via email to Donna Baumgardner at Donna.C.Baumgardner.civ@us.navy.mil. Submissions must be received at the office sited no later than 08 April 2026 at 17:00 EST. Questions or comments regarding this notice may be addressed to Donna Baumgardner at Donna.C.Baumgardner.civ@us.navy.mil.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Donna Baumgardner
+  - Email: donna.c.baumgardner.civ@us.navy.mil
+- Secondary Contact:
+  - Name: Samantha Lysaght
+  - Email: samantha.l.lysaght.civ@us.navy.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e668359745cf42989cd9ab4e94532885/view)

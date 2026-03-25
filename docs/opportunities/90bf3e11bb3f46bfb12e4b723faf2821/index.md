@@ -1,0 +1,37 @@
+---
+layout: default
+title: 2026 Annual Review National Type 2 Firefighter Crews
+agency: AGRICULTURE, DEPARTMENT OF
+notice_type: Solicitation
+notice_id: 90bf3e11bb3f46bfb12e4b723faf2821
+---
+
+# 2026 Annual Review National Type 2 Firefighter Crews
+
+- Agency: AGRICULTURE, DEPARTMENT OF
+- Type: Solicitation
+- Posted: 2026-03-24 17:08:06.109-04
+- Solicitation Number: 1202SC21Q0001
+
+## Summary
+
+***Please See Attached Q&As and Corrected BPA Location Document*** ****See the FFT1 qualfication verification note below for additional guidance on the requested submission process**** ****2026 Annual review please see amendment 09 and updated solicitation dated 2026 for further info.**** National Type 2 Firefighter Crews: Purpose of the Amendment: The purpose of Amendment 09 is to extend the current BPA through May 2027 and conduct the 2026 annual review of previously established Blanket Purchase Agreements and to reopen the solicitation allowing new companies to submit quotes. Amendments issued prior to amendment 09 are not required to be submitted. Description of Changes: The clauses were updated, updated Section B.5.3, D.1.16, notes to awardees and offerors, and the most current wage determination is incorporated. Please review the solicitation entirely. **NOTE: Crew Bosses and alternates shall no longer be assigned to specific Type 2 crews. The Contractor will establish and maintain a Government approved Crew Boss roster consisting of individuals who have met all qualifications, experience, and responsibility requirements as determined by the Government. This will apply to all the 2026 verified Fire Fighter Type 1 (FFT1) as well. At the time of resource order, the contractor will designate a Crew Boss from the approved roster to be attached to any ordered crew based on operational need and availability. Only individuals appearing on the Government-approved roster may serve as Crew Bosses under this agreement. Failure to utilize a Government approved Crew Boss may result in the resource being deemed non-compliant and subject to removal from assignment or suspension in accordance with agreement terms. **NOTE: In accordance with the Government’s right to inspect and evaluate training and experience records at any time during the agreement period, the Contractor shall submit complete and current qualification documentation for all personnel identified as Firefighter Type 1 (FFT1) (currently awarded and new quotes). Failure to timely provide requested records, or the identification of personnel who do not meet qualification requirements, may result in the suspension of affected resources from dispatch or performance under this agreement until compliance is verified. All documentation can be sent to: https://usfs.app.box.com/f/909937ac229740fd9446af7fd5b67cc9 Additional Guidance: To assist the Government in completing FFT1 qualification reviews prior to the upcoming fire season, vendors are requested to submit FFT1 qualification documentation in alignment with Section D.1.5(b) Advanced Firefighter/Squad Boss (FFT1) no later than June 1, 2026 (both current awards and new quotes). The Exhibit D.9 Key Personnel Resume Template form is also required for individuals identified in FFT1 Squad Boss positions. The FFT1 verification process is not a condition of award, but is intended to assist the Government in confirming that companies have sufficient qualified personnel to support the number of crews awarded under the agreement. Documentation submitted after June 1 may still be reviewed; however, review will occur at the discretion of the Government based on personnel availability during fire season operations. If documentation indicates that sufficient qualified personnel are not available to support awarded crews, the Government may temporarily limit dispatch of affected resources until adequate staffing can be demonstrated and verified. **NOTE: As part of the Government’s responsibility determination in accordance with FAR 9.104-1, the Contractor shall provide documentation demonstrating ownership, leasehold interest, or other legal right of control over the Designated Dispatch Point (DDP) address identified in the agreement (currently awarded and new quotes). The DDP must be operationally viable to safely host crew personnel and equipment in a ready status, including during standby. Failure to maintain documented control or viability of the DDP may result in suspension or other contractual remedies at no cost to the Government. Documentation is due by 4:00 PM MT on May 1, 2026. All documentation can be sent to: SM.FS.IPO_IIPA@usda.gov A pre-quote meeting will be held via Microsoft Teams on March 17, 2026, at 2:00pm Mountain Time. Please respond to the questionnaire in section E of this solicitation if you plan to attend. Please submit any questions you may have in writing using the following like prior to the pre-quote meeting: https://forms.office.com/g/xg0Q4Rjp5L The Closing Date and deadline for receipt of proposals in response to Solicitation RFQ 1202SC21Q0001 is no later than 2:00 PM Mountain Time, April 1, 2026.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Christopher Kirk
+  - Email: chris.kirk@usda.gov
+- Secondary Contact:
+  - Name: Jeffrey Gardner
+  - Email: jeffrey.gardner@usda.gov
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: .9 Key Personnel Resume Template form is also required for individuals identified in FFT1 Squad Boss positions. The FFT1 verification process is not a condition of award, but is intended to assist the Government in confirming that companies have sufficient qualified personnel to support the number of crews awarded under the agreement. Documentation submitted after June 1 may still be reviewed; however, review will occur at the discretion of the Government based on personnel availability during fire season operations. If documentation indicates that sufficient qualified personnel are not available to support awarded crews, the Government may temporarily limit dispatch of affected resources until adequate staffing can be demonstrated and verified. **NOTE: As part of the Government’s responsibility determination in accordance with FAR 9.104-1, the Contractor shall provide documentation demonstrating ownership, leasehold interest, or other legal right of control over the Designated Dispatch Point (DDP) address identified in the agreement (currently awarded and new quotes). The DDP must be operationally viable to safely host crew personnel and equipment in a ready status, including during standby. Failure to maintain documented control or viability of the DDP may result in suspension or other contractual remedies at no cost to the Government. Documentation is due by 4:00 PM MT on May 1, 2026. All documentation can be sent to: SM.FS.IPO_IIPA@usda.gov A pre-quote meeting will be held via Microsoft Teams on March 17, 2026, at 2:00pm Mountain Time. Please respond to the questionnaire in section E of this solicitation if you plan to attend. Please submit any questions you may have in writing using the following like prior to the pre-quote meeting: https://forms.office.com/g/xg0Q4Rjp5L The Closing Date and deadline for receipt of proposals in response to Solicitation RFQ 1202SC21Q0001 is no later than 2:00 PM Mountain Time, April 1, 2026
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/90bf3e11bb3f46bfb12e4b723faf2821/view)

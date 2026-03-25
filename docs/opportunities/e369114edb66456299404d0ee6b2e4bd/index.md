@@ -1,0 +1,28 @@
+---
+layout: default
+title: 59--DUMMY CONNECTOR,PLU
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: e369114edb66456299404d0ee6b2e4bd
+---
+
+# 59--DUMMY CONNECTOR,PLU
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-03-24 18:18:13.324-04
+- Solicitation Number: SPE7M526T9388
+
+## Summary
+
+Proposed procurement for NSN 5935015680679 DUMMY CONNECTOR,PLU: Line 0001 Qty 240 UI EA Deliver To: W1A8 DLA DISTRIBUTION By: 0026 DAYS ADO Approved sources are 06324 250-020; 27456 13540366-1; 3L5N9 511735-8003. The solicitation is an RFQ and will be available at the link provided in this notice. Hard copies of this solicitation are not available. Specifications, plans, or drawings are not available. All responsible sources may submit a quote which, if timely received, shall be considered. Quotes must be submitted electronically.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Questions regarding this solicitation should be emailed to the buyer listed in block 5 of the solicitation document which can be found under the Additional Information link. If the Additional Information link does not work, please go to https://www.dibbs.bsm.dla.mil/Solicitations/ and type the solicitation number in the Global Search box.
+  - Email: DibbsBSM@dla.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e369114edb66456299404d0ee6b2e4bd/view)
