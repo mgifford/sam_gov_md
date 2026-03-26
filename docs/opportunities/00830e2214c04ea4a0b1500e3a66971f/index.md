@@ -1,0 +1,31 @@
+---
+layout: default
+title: J065-- Pyxis Repair and Maintenance Services
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Special Notice
+notice_id: 00830e2214c04ea4a0b1500e3a66971f
+---
+
+# J065-- Pyxis Repair and Maintenance Services
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Special Notice
+- Posted: 2026-03-25 15:48:05.643-04
+- Solicitation Number: 36C25626Q0568
+- Awardee: null
+
+## Summary
+
+This is an INTENT TO SOLE SOURCE NOTICE only. The Department of Veteran Affairs, Network Contracting Office (NCO) 16, intends to issue a sole-source contract under the authority of 41 U.S.C 253(c) (1) - FAR 6.302-1 (only one responsible source and no other supplies or services will satisfy agency requirements), to CareFusion Solutions LLC, located at 3750 Torrey View CT Rd, San Diego, California 92130. Services will be for one base year and four option years under NAICS 811210 The vendor shall provide all labor, materials, hardware, maintenance, and support necessary to ensure the Pyxis units are fully functional with maximum up time. This action will result in a firm-fixed-price service contract. This notice of intent is not a request for quotations; due to the unique characteristics needed for this service CareFusion Solutions LLC is the only responsible source and no other supplies or services will satisfy agency requirements. Therefore, this service is typically procured through a Sole Source NAC Contract through VHA without competition under FAR 6.302-1. REQUIRED SERVICES: The vendor shall provide all labor, materials, hardware, maintenance, and support necessary to ensure the Pyxis units are fully functional with maximum up time. All materials and services provided shall be in accordance with the OEM specifications and guidelines. This notice of intent is not a request for quotations; interested parties may express their interest by providing a capabilities statement not later than 04/09/2026 at 8:00 AM CST, to marcus.sidney@va.gov . When responding to this announcement, respondents should refer to number 36C256-26-AP-2509, Notice of Intent in the subject line. The capabilities statement must provide clear and unambiguous evidence to substantiate the capability of the party to provide the required services. Responding as an interested party under the www.beta.sam.gov website does not constitute convincing evidence of capabilities. A determination not to compete this proposed contract upon responses to this notice is solely within the discretion of the Government. Verbal and facsimile responses are not acceptable and will not be considered. All interested parties are reminded to be registered with System for Award Management (SAM) at https://sam.gov/SAM/ in order to be eligible for award of Government contracts. No telephone calls will be accepted. If after April 09, 2026, no viable responses have been received in response to this announcement, NCO 16 shall negotiate solely with CareFusion Solutions LLC. The Government anticipates the award of a firm-fixed-price contract. A determination by the Government whether to compete the proposed requirement shall be based upon responses received and is solely within the discretion of the government. Information received shall be considered solely for the purpose of determining whether to conduct a competition.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Marcus Sidney
+  - Title: Contract Specialist
+  - Email: Marcus.Sidney@va.gov
+  - Phone: (478) 397-5499
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/00830e2214c04ea4a0b1500e3a66971f/view)

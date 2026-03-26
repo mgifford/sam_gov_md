@@ -1,0 +1,28 @@
+---
+layout: default
+title: FMS Repair N0038326PR0R402
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 5d64d20b1daa4d229cf4d53caaeb2298
+---
+
+# FMS Repair N0038326PR0R402
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-03-25 09:04:10.845-04
+- Solicitation Number: N00383-26-Q-M062
+
+## Summary
+
+ALL CONTRACTUAL DOCUMENTS (I.E. CONTRACTS, PURCHASE ORDERS, TASK ORDERS DELIVERY ORDERS AND MODIFICATIONS) RELATED TO THE INSTANT PROCUREMENT ARE CONSIDERED TO BE "ISSUED" BY THE GOVERNMENT WHEN COPIES ARE EITHER DEPOSITED IN THE MAIL, TRANSMITTED BY FACSIMILE, OR SENT BY OTHER ELECTRONIC COMMERCE METHODS, SUCH AS EMAIL. THE GOVERNMENT'S ACCEPTANCE OF THE CONTRACTOR'S PROPOSAL CONSTITUTES BILATERAL AGREEMENT TO "ISSUE" CONTRACTUAL DOCUMENTS AS DETAILED HEREIN. Early and incremental deliveries accepted and preferred
+
+## Contacts
+
+- Primary Contact:
+  - Name: Tara Kupperstein 771-229-3305
+  - Email: tara.b.kupperstein.civ@us.navy.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5d64d20b1daa4d229cf4d53caaeb2298/view)

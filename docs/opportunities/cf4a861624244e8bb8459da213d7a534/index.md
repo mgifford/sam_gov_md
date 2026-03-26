@@ -1,0 +1,28 @@
+---
+layout: default
+title: JANITORIAL SERVICES (KEY WEST)
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: cf4a861624244e8bb8459da213d7a534
+---
+
+# JANITORIAL SERVICES (KEY WEST)
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-03-25 13:41:25.05-04
+- Solicitation Number: N0017326Q5223
+
+## Summary
+
+SOLICITATION FOR COMMERCIAL ITEMS This is a solicitation for commercial items prepared in accordance with the format in Federal Acquisition Regulation (FAR) subpart 12.6, "Streamlined Procedures for Evaluation and Solicitation for Commercial Items," as supplemented with additional information included in this notice. Quotations are being requested, and a written solicitation document will be issued. This solicitation is a Request for Quotations (RFQ). The solicitation document and incorporated provisions and clauses are those in effect through Federal Acquisition Circular (FAC) 05/2024 Effective: 05/22/2024 This is a Total Small Business Set-Aside in accordance with FAR 13.003 (b)(1) on a Firm-Firm Fixed-Price (FFP) basis. The associated North American Industrial Classification System (NAICS) code for this procurement is 561720, with a small business size standard of $22,000,000. The associated Federal Supply Code (FSC) / Product Service Code (PSC) procurement is S201. The Naval Research Laboratory (NRL), located in Key West, Florida, is seeking to purchase Janitorial Services for Building F1 and F15 All interested companies shall provide quotations for the following: ___X___ See SF 1449 attachment/Statement of Work (SOW) SUBMISSION INSTRUCTIONS: All Quoters shall submit 1 (one) copy of their technical and price quote with a signed/dated page 1 of attached SF1449. Include your company DUNS Number and Cage Code on your quote. All quotations shall be sent via e-mail. GOVERNMENT POINT OF CONTACT Purchasing Agent Name: Richard Key Tel: 202-875-9213 Email: richard.a.key2.civ@us.navy.mil Please reference this combined synopsis/solicitation number on your correspondence and in the "Subject" line of your email. ALL QUESTIONS REGARDING THE SOLICITATION SHALL BE SUBMITTED VIA EMAIL. The government intends to award a purchase order as a result of this combined synopsis/solicitation that will include the terms and conditions set forth herein. Award may be made without discussions or negotiations, therefore prospective contractors should have an active registration in the System for Award Management (SAM) database (www.sam.gov) in accordance with Federal Acquisition Regulation (FAR) Part 4.1102 and Part 52.204-7 when submitting a response to this solicitation. The Government will award a contract resulting from this solicitation to the responsible offeror whose offer conforming to the solicitation will be most advantageous to the Government, price and other factors considered. The following factors shall be used to evaluate offers: Lowest Price Technically Acceptable - Offers will be ranked lowest to highest according to price. A price analysis will be conducted to determine whether the lowest price will result from a single award or multiple awards. Based on the price analysis, the lowest price offer or multiple offers, will be forwarded to the requiring activity for technical evaluation (offer(s), in accordance with the specifications, will be deemed either technically acceptable or technically unacceptable). If the lowest price offer or offers is found technically acceptable and the pricing determined fair and reasonable by the Contracting Officer, evaluation will be deemed complete and award will be made based on the lowest price offer(s). If the lowest price offer is determined technically unacceptable, another analysis will be conducted amongst the remaining offers to determine if a single or multiple awards will provide the lowest price. The lowest price offer(s) will be sent for technical evaluation. This process is repeated in order of price until an offer or combination of offers is deemed technically acceptable and price is determined fair and reasonable. Table A-1. Technical Acceptable/Unacceptable Ratings: Rating Description Acceptable Quote meets all the minimum requirements/specifications as stated or provided in the RFQ specifications. Unacceptable Quote does not clearly meet the minimum requirements/specifications as stated or provided in the RFQ specifications. Options. When applicable, the Government will evaluate offers for award purposes by adding the total price for all options to the total price for the basic requirement. The Government may determine that an offer is unacceptable if the option prices are significantly unbalanced. Evaluation of options shall not obligate the Government to exercise the option(s). Terms and Conditions. To facilitate the award process, all quotes must include a statement regarding the terms and conditions herein as follows: "The terms and conditions in the solicitation are acceptable to be included in the award document without modification, deletion, or addition." OR "The terms and conditions in the solicitation are acceptable to be included in the award document with the exception, deletion, or addition of the following:" Exceptions. Quoter shall list exception(s) and rationale for the exception(s). Submission shall be received not later than the response date listed above. Late submissions shall be treated in accordance with the solicitation provision at FAR 52.212-1(f). E-mailed submissions are accepted and are the preferred
+
+## Contacts
+
+- Primary Contact:
+  - Name: RICHARD KEY
+  - Email: RICHARD.A.KEY2.CIV@US.NAVY.MIL
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cf4a861624244e8bb8459da213d7a534/view)
