@@ -1,0 +1,31 @@
+---
+layout: default
+title: Combined Source Sought Notice of Intent to Sole Source to Hexagon Manufacturing for Straight Edges for the Straightness error mapping
+agency: COMMERCE, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: 36e422a086d34e31b658dd980b4ab075
+---
+
+# Combined Source Sought Notice of Intent to Sole Source to Hexagon Manufacturing for Straight Edges for the Straightness error mapping
+
+- Agency: COMMERCE, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-03-26 16:02:41.264-04
+- Solicitation Number: NIST-SS26-02
+
+## Summary
+
+NIST-SS26-02 6640 / 334516? Primary POC: Liz Timberlake (Elizabeth.timberlake@nist.gov)? Secondary POC: Forest Crumpler (forest.crumpler@nist.gov) Title:? Straight Edges for the Straightness error mapping BACKGROUND ***THIS IS A COMBINED SOURCES SOUGHT NOTICE AND NOTICE OF INTENT TO SOLE SOURCE*** The National Institute of Standards and Technology (NIST) is seeking information from sources that may be capable of providing Straight Edges for the Straightness error mapping. If no alternate sources are identified, the Government intends to issue a Sole Source Award to Hexagon Manufacturing Intelligence, Inc. (250 Circuit Drive, North Kensington, RI) under the authority of FAR 12.102(a) only one reasonably found source. The North American Industry Classification System (NAICS) code for this acquisition is 334516. NIST has a need for 2 Straight Edges for the Straightness error mapping that meets or exceeds the following draft minimum specifications: The Contractor shall provide two (2) Straight Edges for the Straightness error mapping that meet the following minimum specifications: One Straight Edge should be >1200 mm in length One Straight Edge should be ~700 mm in length Must include fixturing to mount the ~700 mm straight edge vertically Must include sufficient surface area for probing (not a 1 dimensional, linescale or ruler). NIST conducted market research from January through March 2026 by attending conferences, speaking with colleagues, performing internet searches, and speaking with vendors to determine what sources could meet NIST’s minimum requirements. The results of that market research revealed that only Hexagon Manufacturing Intelligence Inc. appears to be capable of meeting NIST’s requirements. HOW TO RESPOND TO THIS NOTICE In responding to this notice, please DO NOT PROVIDE PROPRIETARY INFORMATION. Please include only the following information, readable in either Microsoft Word 365, Microsoft Excel 365, or .pdf format, in the response. Submit the response by email to the Primary Point of Contact and, if specified, to the Secondary Point of Contact listed at the bottom of this notice as soon as possible, and preferably before the closing date and time of this notice. Provide the complete name of your company, address, name of contact for follow-up questions, their email, their phone number and, if your company has an active registration in https://sam.gov, your company’s Unique Entity ID (UEI). Details about what your company is capable of providing that meets or exceeds NIST’s minimum requirements. Whether your company is an authorized reseller of the product or service being cited and evidence of such authorization. Identify any aspects of the description of the requirements in the BACKGROUND section above that could be viewed as unduly restrictive or create unnecessary barriers that adversely affect your firm’s ability to fully participate in a procurement for such services and explain why. Please offer suggestions for how the requirements could be organized or structured to encourage the participation of small businesses. For the NAICS code Indicate whether your company is (a) a small business or (b) other than small business.? See the Table of Small Business Size Standards and the associated .pdf download file for small business size standards and additional information. If you believe the NAICS code listed in this notice is not the best NAICS code for the type of product addressed in this notice, identify an alternative NAICS code that you believe would be more appropriate for the planned procurement.? If your firm has existing Federal Supply Schedule contract(s) or other contracts for products or services against which the Department may be able to place orders, identify the contract number(s) and other relevant information. Describe your firm’s experience (as a prime, subcontractor, or consultant) providing the products or services described in Background section. Provide any other information that you believe would be valuable for the Government to know as part of its market research for this requirement. Please let us know if you would like to engage to get a better understanding of the requirement or need additional information about the Government’s requirement for the products or services described in the Background section.? QUESTIONS REGARDING THIS NOTICE Questions regarding this notice may be submitted via email to the Primary Point of Contact and the Secondary Point of Contact listed in this notice. Questions should be submitted so that they are received by 12:00pm Eastern Time on April 3, 2025. Questions will be anonymized and answered via sources sought notice amendment following the question submission deadline. IMPORTANT NOTES The information received in response to this notice will be reviewed and considered so that the NIST may appropriately solicit for its requirements in the near future. This notice should not be construed as a commitment by the NIST to issue a solicitation or ultimately award a contract. This notice is not a request for a quotation. Responses will not be considered as proposals or quotations. No award will be made as a result of this notice. NIST is not responsible for any costs incurred by the respondents to this notice. NIST reserves the right to use information provided by respondents for any purpose deemed necessary and appropriate. Thank you for taking the time to submit a response to this request.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Elizabeth Timberlake
+  - Email: elizabeth.timberlake@nist.gov
+- Secondary Contact:
+  - Name: Forest Crumpler
+  - Email: forest.crumpler@nist.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/36e422a086d34e31b658dd980b4ab075/view)

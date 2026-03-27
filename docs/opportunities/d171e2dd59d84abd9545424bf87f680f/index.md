@@ -1,0 +1,31 @@
+---
+layout: default
+title: Z1DA--Replace Building 1 Windows | Design Madison, WI | 607-24-112
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Special Notice
+notice_id: d171e2dd59d84abd9545424bf87f680f
+---
+
+# Z1DA--Replace Building 1 Windows | Design Madison, WI | 607-24-112
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Special Notice
+- Posted: 2026-03-26 15:45:14.387-04
+- Solicitation Number: 36C77626Q0156
+- Awardee: null
+
+## Summary
+
+INTRODUCTION: It is for information and planning purposes only and shall not be construed as a solicitation or as an obligation on the part of the Department of Veterans Affairs (VA). The Veterans Health Administration (VHA) Program Contracting Activity (PCAC) intends to negotiate on a sole-source basis with BWBR, an other-than business concern, to provide a refresh of the existing documents, Solicitation Support Services (SSS), and Construction Period Services (CPS) during the construction of Project #607-24-112 Replace Building 1 Windows in Madison, WI 53705 PROJECT BACKGROUND & DESCRIPTION: Our intention is to procure a refresh of the existing drawings SSS and CPS in support of Project #607-24-112 Replace Building 1 Windows Madison WI. The current design firm of record is BWBR, located at 1 S Pinckney St, St Ste 500. They are an other-than business concern and have been in the process of designing this project since September 09, 2022. The current design contract with BWBR no longer has solicitation support and construction period services as part of the scope. The design is now 100% complete but requires revisions. Additionally, this project requires SSS and CPS in order to support the construction portion of this requirement. Any prospective design firm will need to possess working knowledge of all issues that may arise and will assume the liabilities associated with any and all aspects of the design. Throughout the solicitation period, the A-E shall provide solicitation support services (SSS) to include, but not limited to, attending the pre-bid site-visit meeting and project walk, answering any technical questions/requests for information (RFIs) received from contractors within five calendar days of the date the questions, and providing addenda as necessary if required to revise specs and drawings. The A-E shall provide CPS throughout the construction period to include, but not limited to, providing responses to any requests for information, reviewing submittals, creating a complete set of air emissions permit and land disturbance permit application forms, completing site visit reports, reviewing modification requests, completing a punch list, and delivering record drawings. PROCUREMENT INFORMATION: The proposed project will be a sole source continuation design contract to the original designer of record, BWBR. The North American Industry Classification System (NAICS) code 541330 (size standard $25.5 million) applies to this procurement. It is the intent of the Government to award this project as a sole source. However, if a firm feels like they can meet the requirements of this project, the Government will review the information provided (as specified in the Capabilities Statement below), in order to make a final determination. CAPABILITY STATEMENT: Respondents shall provide a general capabilities statement in the following information: Section 1: Provide company name, UEI number, company address, Point-of-Contact name, phone number and email. Section 2: Provide company business size based on NAICS code 541330. Also, provide business type (i.e., Large Business, Small Business, Service-Disabled Veteran Owned Small Business, Small Disadvantaged Business, Women-Owned Small Business, Hub Zone Small Business, etc.). Section 3: Provide a Statement of Interest in the project. Section 4: Provide examples of similar work your company has performed where you have taken over the responsibilities, and liabilities associated with any and all aspects of the design, for Solicitation Support Services and Construction Period Services from a design that was completed by another firm. Provide no more than three examples of this within the past seven years. Include the project name, project owner and contact information as this person may be contacted for further information, project scope, project size (Example: square footage), building use (Example: Medical Facility, Office Building, etc.), project dollar value, start and completion dates. Any responsible source who believes it is capable of meeting this requirement may submit a capability statement to Lucretia.Maloney@va.gov and William.Henkel@va.gov no later than April 10, 2025 at 1:00 PM (ET). It is requested that interested contractors submit a response (electronic submission) of no more than 4 single side pages that addresses the above information. This response must be submitted as a single application-generated (not scanned) PDF document that is less than or equal to 4MB in size. Please note that hard copies will not be accepted. A determination not to compete the requirement based upon the responses to this notice is solely within the discretion of the Government. Disclaimer and Important Notes: No proprietary, classified, confidential, or sensitive information should be included in responses to this notice. This notice does not obligate the Government to award a contract. The Government will not pay for information provided in response to this notice. The Government reserves the right to use information provided by respondents for market research purposes. The Government is under no obligation to acknowledge receipt of the information received or provide feedback to respondents with respect to any information submitted. Contracting Office Address: VHA Program Contracting Activity Central (VHA-PCAC) 6100 Oak Tree Blvd. Suite 490 Independence, OH 44131 Primary Point of Contact: Lucretia.Maloney@va.gov William.henkel@va.gov
+
+## Contacts
+
+- Primary Contact:
+  - Name: William.henkel@va.gov
+  - Title: Lucretia.Maloney@va.gov
+  - Email: william.henkel@va.gov
+  - Phone: (216) 447-8300 X49722
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d171e2dd59d84abd9545424bf87f680f/view)

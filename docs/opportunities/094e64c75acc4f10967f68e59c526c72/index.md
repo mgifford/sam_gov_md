@@ -1,0 +1,31 @@
+---
+layout: default
+title: General Services Administration (GSA) Seeks to lease the following space: Solicitation No. 2TN0427
+agency: GENERAL SERVICES ADMINISTRATION
+notice_type: Presolicitation
+notice_id: 094e64c75acc4f10967f68e59c526c72
+---
+
+# General Services Administration (GSA) Seeks to lease the following space: Solicitation No. 2TN0427
+
+- Agency: GENERAL SERVICES ADMINISTRATION
+- Type: Presolicitation
+- Posted: 2026-03-26 09:50:02.646-04
+- Solicitation Number: 2TN0427-1
+
+## Summary
+
+Presolicitation Notice/Advertisement GSA Public Buildings Service U.S. GOVERNMENT General Services Administration (GSA) seeks to lease the following space: State: TN City: Knoxville Delineated Area: North: Gallagher Rd to Oak Ridge Turnpike to Perimeter Rd to Blair Rd to Oak Ridge Turnpike to Louisiana Ave to W. Outer Dr to N. Illinois Ave to S. Illinois Ave to Edgemoor Rd to W. Raccoon Valley Dr. East: I-75 to I-275 to Henley St to Martin Mill Pike to Ogle Ave to Maryville Pike to Old Knoxville Hwy to E. Broadway Ave. South: Hwy 321 West: Lee Hwy to Kingston St to Old Hwy 95 to Old State Hwy 95 to Hwy 321 to I-40 Required Sq. Ft. (ABOA): 11,389 Space Type: Office Parking Spaces (Total): 19 reserved and secured parking spaces for Government Owned Vehicles. (Additional parking shall be provided pursuant to local code). Full Term: 15 Years Firm Term: 13 Years Additional Requirements: Building/Space Layout: Space shall be located in a modern quality building of sound and substantial construction with a facade of stone, marble, brick, stainless steel, aluminum or other permanent materials in good condition and acceptable to the GSA Lease Contracting Officer. If not a new building, the space offered shall be in a building that has undergone, or will complete by occupancy, modernization or adaptive reuse for the space with modern conveniences. Space should allow for an efficient layout and office workflow. Space must provide maximum flexibility for systems furniture placement with few or no columns or other building or architectural obstructions. Space should have few curves or major offsets and must have large open areas to allow maximum design flexibility. Architectural features should not cause an inefficient use of space. ABOA SF does not include areas such as stairs, elevators, mechanical and utility rooms, ducts, shafts, vestibules, public corridors and public toilets required by local code. Agency shall not be located within 200 walkable feet of day care centers, senior centers, schools, hospitals, and religious/rehabilitation/social service centers. Agency requires a method to allow detainees into the building. This could be accomplished by the use of a secured sally port, loading dock, private stairwell, or elevator for detainee transport. In a multi-tenant building, where private elevators are not possible, the Government must be able to secure and control the elevator available during prisoner transport. Secured and fenced parking, with an automatic vehicular gate is required in accordance with the agencies parking requirements. (Note: GSA reserves the right to review for approval all proposed parking options offered; to include the fence materials and gate mechanisms and specifications being proposed). Secured parking area must have two means of ingress/egress. Offered buildings and offered space will be evaluated by the agency security team. Not all minimum requirements are reflected in this advertisement. Offered space must meet all Government requirements contained in the RLP/Lease to be issued, including, but not limited to, the Agency Specific Requirements and Facility Security Level II requirements by the occupancy date per the terms of the Lease. Expression of Interest Submission Instructions/Requirements: Please provide the following basic information and descriptions pertaining to the building you propose for consideration. All submissions should include the following information: Name of Owner; Property authorization letter from the owner; Address or locational description of the building; Age of building; Total gross square feet; and gross square feet per floor; Site plan depicting the building and parking; Floor plan and gross square footage of the proposed space; Identification of on-site parking; A map demonstrating the building is within the delineated area; A map depicting the location of public transportation stops within proximity to the property; A map depicting the evidence of amenities within close proximity of the property; Building owners must provide evidence of ownership. Non-owners (e.g. prospective developers/lessors) submitting a building must provide evidence of permission or authority granted by property owner to submit the building to GSA for development; Offered space must meet Government requirements for fire safety, accessibility, seismic, and sustainability standards per the terms of the Lease. A fully serviced lease is required. Offered space shall not be in the 1-percent-annual chance/0.2-percent-annual chance floodplain (formerly referred to as [“100-year”/“500-Year”] floodplain). Entities are advised to familiarize themselves with the telecommunications prohibitions outlined under Section 889 of the FY19 National Defense Authorization Act (NDAA), as implemented by the Federal Acquisition Regulation (FAR). ). For more information, visit: https://acquisition.gov/FAR-Case-2019-009/889_Part_B. A map of the delineated area is provided for further clarification of the boundaries: Expressions of Interest Due: April 17, 2026 Market Survey (Estimated): TBD Occupancy (Estimated): October 2027 Send Expressions of Interest to: Name/Title: Ed Brennan, GSA Broker Representative Sam Dyson, GSA Broker Representative Email Address: edward.brennan@gsa.gov samuel.dyson@gsa.gov Government Contact Information Lease Contracting Officer Dave Rauen Broker Ed Brennan
+
+## Contacts
+
+- Primary Contact:
+  - Name: Edward Brennan
+  - Email: edward.brennan@gsa.gov
+- Secondary Contact:
+  - Name: Sam Dyson
+  - Email: samuel.dyson@gsa.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/094e64c75acc4f10967f68e59c526c72/view)

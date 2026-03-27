@@ -1,0 +1,28 @@
+---
+layout: default
+title: 80--POLYURETHANE COATIN
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: ecd52450ac814cf3b68e28d86050e7bf
+---
+
+# 80--POLYURETHANE COATIN
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-03-26 13:20:55.857-04
+- Solicitation Number: SPE8ES26T1422
+
+## Summary
+
+Proposed procurement for NSN 8010017019481 POLYURETHANE COATIN: Line 0001 Qty 25 UI KT Deliver To: 9044 CS BN 60 CO A DISTRIBUTI By: 0005 DAYS ADO Line 0002 Qty 20 UI KT Deliver To: W6DX PEO GCS MBTS LOG SPT UNFD By: 0005 DAYS ADO Approved source is 3RWH7 TAL-GREEN0222-0917-03P. The solicitation is an RFQ and will be available at the link provided in this notice. Hard copies of this solicitation are not available. Specifications, plans, or drawings are not available. All responsible sources may submit a quote which, if timely received, shall be considered. Quotes must be submitted electronically.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Questions regarding this solicitation should be emailed to the buyer listed in block 5 of the solicitation document which can be found under the Additional Information link. If the Additional Information link does not work, please go to https://www.dibbs.bsm.dla.mil/Solicitations/ and type the solicitation number in the Global Search box.
+  - Email: DibbsBSM@dla.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ecd52450ac814cf3b68e28d86050e7bf/view)

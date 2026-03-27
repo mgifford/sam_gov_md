@@ -1,0 +1,38 @@
+---
+layout: default
+title: REQUEST FOR PROPOSAL (RFP) Undergraduate Jet Training System (UJTS)
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 2a690d45196d4930836b34779472edcc
+---
+
+# REQUEST FOR PROPOSAL (RFP) Undergraduate Jet Training System (UJTS)
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-03-26 14:44:46.312-04
+- Solicitation Number: N0001926R1014
+
+## Summary
+
+REQUEST FOR PROPOSAL (RFP) – Undergraduate Jet Training System (UJTS) INTRODUCTION The Department of War (DoW), Department of the Navy (DON), Chief of Naval Air Training (CNATRA), PMA-273 Naval Undergraduate Flight Training Systems has the requirement to provide intermediate and advanced training for undergraduate United States Navy (USN) and United States Marine Corps (USMC) jet aviators and flight officers. The UJTS requirement will be for the Engineering, Manufacturing, and Development (EMD) of the UJTS solution as well as the procurement of the first lot of Low-Rate Initial Production (LRIP) aircraft, limited quantities of ground-based training systems (GBTS) and interim contractor logistic services (I-CLS). ELIGIBILITY The Product Service Code (PSC) for this requirement will be 1510 (Aircraft, Fixed Wing). The North American Industry Classification System (NAICS) is 336411 (Aircraft Manufacturing). This requirement is being pursued via full and open competition. ANTICIPATED PLACE OF PERFORMANCE The requirements identified within the Statements of Works (SOWs) shall be performed at Contractor Facilities and the appropriate Government locations in accordance with Section F of the RFP. ANTICIPATED CONTRACT TYPE The contract is anticipated to include a Cost-Plus-Incentive-Fee (CPIF) CLIN for EMD, Firm-Fixed Price (FFP) CLIN(s) for LRIP Lot 1 and Cost-Plus-Fixed-Fee (CPFF) CLIN(s) for Site Activation and I-CLS. This is expected to be a standalone C-type contract. Additional details can be found within Section B of the RFP. The Government expects to select one Offeror on the basis of its proposal providing the “best value” to the Government. However, the Government may award contracts to the two Highest Technically Rated Offerors if funding is available and awarding two contracts offers the greatest value for the warfighter. The award, whether to one Offeror or two, will be based on the evaluation of proposals in accordance with the Section M criteria. If two contracts are awarded, the Government intends to release a solicitation prior to the end of the contracts to perform the down select between the two Offerors. REQUIREMENTS See the Statement of Work (SOW) documents incorporated in the RFP as Attachments 2 (EMD SOW), 3 (LRIP SOW) and 4 (I-CLS SOW). Since at least a portion of the resultant contract will be on a cost-type basis, the successful awardees will also be required to have a Government approved accounting system upon contract award. CONTROLLED UNCLASSIFIED INFORMATION (CUI) The documents/attachments marked as “CUI” within Section J will be distributed via DOD SAFE to the potential offeror upon verification that the contractor has the appropriate facility clearance level to receive CUI. To request the CUI documents/attachments, the potential offerors shall email the Contract Specialist identified below and include within their request their full company name, address, security POC and facility clearance level (FCL) cage code. Each Offeror shall mark, handle, and destroy CUI IAW DODI 5200.48. SUBMITTAL INFORMATION This RFP is being released via the Solicitation module within the Procurement Integrated Enterprise Environment (PIEE). Proposals are due via PIEE NLT 1500 EST 29 June 2026. Any administrative questions or comments regarding the solicitation submittal shall be submitted via email to the Contract Specialists - Brandon Rider; Brandon.f.rider.civ@us.navy.mil, and Rebecca Bravo; rebecca.w.bravo.civ@us.navy.mil, and the Procuring Contracting Officer – Thomas Conrow; Thomas.w.conrow.civ@us.navy.mil. All questions or comments must include the following information: Company Name; Company Address; and Point-of-Contact (POC) name, phone number, fax number, and e-mail address. The Government is under no obligation to award a contract as a result of this solicitation. No funds are available to pay for preparation of responses to this solicitation. Any information submitted by respondents to this announcement is strictly voluntary. ADDITIONAL NOTES Revolutionary FAR Overhaul (RFO) – The RFO updates as of 06 March 2026 have been incorporated into this RFP. Attachment “RFO Change Tracker” captures the changes in relation to the DRAFT RFP that was released on 02 Feb 2026. Offeror Feedback – The Offeror shall use the “Offeror-Feedback” attachment to submit feedback on the RFP. The Government will not accept feedback that has not been incorporated into the “Offeror-Feedback” spreadsheet. The Government requests that all Offeror Feedback be submitted NLT 30 days prior to the proposal due date. The Government intends to continually release non-proprietary feedback with Government responses (Q&As) up until the proposal due date as identified above.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Brandon Rider
+  - Email: brandon.f.rider.civ@us.navy.mil
+  - Phone: 2405618205
+- Secondary Contact:
+  - Name: Thomas Conrow
+  - Email: thomas.w.conrow.civ@us.navy.mil
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: submit feedback on the RFP. The Government will not accept feedback that has not been incorporated into the “Offeror-Feedback” spreadsheet. The Government requests that all Offeror Feedback be submitted NLT 30 days prior to the proposal due date. The Government intends to continually release non-proprietary feedback with Government responses (Q&As) up until the proposal due date as identified above
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2a690d45196d4930836b34779472edcc/view)

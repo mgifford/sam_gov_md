@@ -1,0 +1,28 @@
+---
+layout: default
+title: MODULATOR; BACKPLANE ASSEMBLY; MIXER ASSEY; CIRCUIT CARD ASSEMB; AMPLIFIER, ELECTRONIC CONTROL; CCA, SAFETY AND DISP
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: f625ba747be641c1b143874202ed9e90
+---
+
+# MODULATOR; BACKPLANE ASSEMBLY; MIXER ASSEY; CIRCUIT CARD ASSEMB; AMPLIFIER, ELECTRONIC CONTROL; CCA, SAFETY AND DISP
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-03-26 10:08:30.427-04
+- Solicitation Number: N0010426QX070
+
+## Summary
+
+MODULATOR; Backplane Assembly; MIXER ASSEY; CIRCUIT CARD ASSEMB; AMPLIFIER,ELECTRONIC CONTROL; CCA, SAFETY AND DISP
+
+## Contacts
+
+- Primary Contact:
+  - Name: Sherry Kaylor
+  - Email: SHERRY.L.KAYLOR.CIV@US.NAVY.MIL
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f625ba747be641c1b143874202ed9e90/view)

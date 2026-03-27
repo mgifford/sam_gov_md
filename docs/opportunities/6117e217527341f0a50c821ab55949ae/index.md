@@ -1,0 +1,31 @@
+---
+layout: default
+title: CH-53K Electrical Optical (EO) / Infrared (IR) Sensor System Competition
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: 6117e217527341f0a50c821ab55949ae
+---
+
+# CH-53K Electrical Optical (EO) / Infrared (IR) Sensor System Competition
+
+- Agency: DEPT OF DEFENSE
+- Type: Presolicitation
+- Posted: 2026-03-26 15:55:34.191-04
+- Solicitation Number: EO-IR_Sensor_System_Competition
+
+## Summary
+
+March 26, 2026 Notification Draft RFP documents are now available for access to potential offerors with an approved DD Form 2345. Document access can be requested via this posting. Only ONE point of contact (POC) for the requesting potential offeror will be provided access to solicitation documents. In addition to the draft RFP documents access via SAM.gov, the technical library will be provided via DoD SAFE to the potential offeror’s requesting POC. Of note, the Government is updating the draft RFP to align with Revolutionary FAR Overhaul. As a result, potential offerors should expect changes to the draft RFP. Potential offerors are required to have the appropriate facility security clearance. To request classified documents, the potential offeror’s FSO must provide the following information in DISS: SMO Code: Location: Pax River, MD Meeting Name: PMA-261 EO/IR Meeting POC Name: Catherine Mays Meeting POC Phone number: 240-572-9064 Meeting POC Email: catherine.n.mays.civ@us.navy.mil Level of Access Required: S Visit Reason: Meeting Dates of Visit: one year An Industry Day is tentatively planned for the week of April 20, 2026. Follow up instructions will be provided to potential offerors with an approved DD Form 2345. January 7, 2026 Notification The Government acknowledges the delay in access upon receiving an approved DD2345. The Government is actively working this effort. December 2, 2025 Notification Naval Air Systems Command has elected to require respondents requesting access to the solicitation documents to provide a completed DD Form 2345 to the points of contact in this notice. The form can be found at https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd2345.pdf. Once review and approval of the form is completed, requestors will be notified to request access to the documents via SAM.gov and this notice. As a result, the Industry day and response date for questions will be postponed. Please continue to monitor this notice for additional information. Original Notice The Naval Air Systems Command, H-53 Heavy Lift Helicopters Program (PMA 261), intends to issue a full and open solicitation for a Firm Fixed Price (FFP) Indefinite Delivery Indefinite Quantity (IDIQ) contract for the Electrical Optical (EO) / Infrared (IR) Sensor System for the CH-53K program. The contract will include non-recurring engineering, engineering support, program support, production (forward fit, retrofit, spare sensor systems and adapter plates (if necessary)), testing, logistics, data, and production reach back support. This effort has an estimated performance period of approximately seven (7) years. The place of contract performance is expected to be at the contractor’s facility. Market research was conducted and as a result, this procurement will be full and open competition. For more information, please reference N0001923R0093FLIRCOMPETITION. This posting supersedes any previous posts on this effort. This is not a commercial buy and therefore the Government does not intend to use the provisions of FAR Part 12 for this acquisition. ANTICIPATED DRAFT SOLICITATION RELEASE DATE: The Government anticipates releasing a draft solicitation on or about 2nd Quarter 2026. INDUSTRY ENGAGEMENT / INDUSTRY DAY: The Government advises industry of its intent to conduct an Industry Day on or about 17 December 2025. Questions and/or feedback on the draft RFP should be submitted to the contacts below no later than 5 December 2025. Further information will be under a separate notification. The points of contact for this effort are Ms. Kym Leyva, Contract Specialist, and Mr. Christopher Harritt, Procuring Contracting Officer. Any questions related to this announcement shall be submitted via email to kimberly.r.leyva.civ@us.navy.mil and christopher.j.harritt.civ@us.navy.mil. All questions and answers specific to this opportunity will be posted to SAM.gov. DISCLAIMER THIS IS NOT A REQUEST FOR PROPOSAL OR FORMAL SOLICITATION AND SHALL NOT BE CONSTRUED AS A COMMITMENT BY THE GOVERNMENT. RESPONSES IN ANY FORM ARE NOT OFFERS AND THE GOVERNMENT IS UNDER NO OBLIGATION TO AWARD A CONTRACT AS A RESULT OF THIS ANNOUNCEMENT. THE GOVERNMENT IS NOT COMMITTED NOR OBLIGATED TO PAY FOR ANY INFORMATION PROVIDED IN RESPONSE TO THIS SYNOPSIS AND DRAFT SOLICITATION, AND NO BASIS FOR CLAIMS AGAINST THE GOVERNMENT SHALL ARISE AS A RESULT OF THIS SYNOPSIS AND DRAFT SOLICITATION. ANY INFORMATION SUBMITTED BY RESPONDENTS IS STRICTLY VOLUNTARY. THE GOVERNMENT WILL NOT ACCEPT ANY CLASSIFIED INFORMATION IN RESPONSE TO THIS SYNOPSIS AND DRAFT SOLICITATION. FUTURE RELEASE OF FINAL SOLICITATION ATTACHMENTS AND EXHIBITS: The final solicitation and any associated documents will be published via the Procurement Integrated Enterprise Environment (PIEE). Any interested vendors must obtain a PIEE account in order to access solicitation documentation. However, all updates to this draft synopsis and solicitation will be published to SAM.gov. For instructions on how to obtain a PIEE account, please refer to the https://piee.eb.mil/ website and click on the “Register” button. No telephone requests for the draft solicitation will be accepted, no written requests will be accepted and no hard copies of the draft solicitation package will be mailed. Any amendment issued will be posted to SAM.gov.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Kym Leyva
+  - Email: kimberly.r.leyva.civ@us.navy.mil
+- Secondary Contact:
+  - Name: Christopher J. Harritt
+  - Email: christopher.j.harritt.civ@us.navy.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6117e217527341f0a50c821ab55949ae/view)

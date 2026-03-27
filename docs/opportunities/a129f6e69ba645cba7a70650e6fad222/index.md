@@ -1,0 +1,28 @@
+---
+layout: default
+title: 59--SWITCH,PUSH
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: a129f6e69ba645cba7a70650e6fad222
+---
+
+# 59--SWITCH,PUSH
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-03-26 03:55:38.974-04
+- Solicitation Number: SPE7M826T2909
+
+## Summary
+
+Proposed procurement for NSN 5930008909713 SWITCH,PUSH: Line 0001 Qty 26 UI EA Deliver To: W1A8 DLA DISTRIBUTION By: 0068 DAYS ADO Approved sources are 05869 721808-9; 08719 10774HS-1. The solicitation is an RFQ and will be available at the link provided in this notice. Hard copies of this solicitation are not available. Specifications, plans, or drawings are not available. All responsible sources may submit a quote which, if timely received, shall be considered. Quotes must be submitted electronically.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Questions regarding this solicitation should be emailed to the buyer listed in block 5 of the solicitation document which can be found under the Additional Information link. If the Additional Information link does not work, please go to https://www.dibbs.bsm.dla.mil/Solicitations/ and type the solicitation number in the Global Search box.
+  - Email: DibbsBSM@dla.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a129f6e69ba645cba7a70650e6fad222/view)

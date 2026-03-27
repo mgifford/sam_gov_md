@@ -1,0 +1,29 @@
+---
+layout: default
+title: GSA is Seeking 16,000 - 18,000 ABOA of Office Space in Billings MT
+agency: GENERAL SERVICES ADMINISTRATION
+notice_type: Presolicitation
+notice_id: 251b4478d80545e8843e05cf4a6f7bdf
+---
+
+# GSA is Seeking 16,000 - 18,000 ABOA of Office Space in Billings MT
+
+- Agency: GENERAL SERVICES ADMINISTRATION
+- Type: Presolicitation
+- Posted: 2026-03-26 16:14:29.746-04
+- Solicitation Number: 6MT0116
+
+## Summary
+
+General Services Administration (GSA) seeks to lease the following space: State: Montana City: Billings Delineated Area: City limits of Billings MT Minimum Sq. Ft. (ABOA): 16,000 Maximum Sq. Ft. (ABOA): 18,000 Space Type: Office Parking Spaces (Total): 20 Parking Spaces (Surface): 3 Parking Spaces (Structured): 17 Parking Spaces (Reserved): 0 Additional Requirements: A. All space must be contiguous, and preferably on the 2nd floor or higher. Space on the first floor will be considered only when no other space is available, or if deemed appropriate by the Tenant. First-floor spaces require additional security measures. B. The proposed facility must not be located within 400’-0” of public defenders, Immigration and Customs Enforcement (ICE), probation offices, Internal Revenue Service (IRS), universities, daycares, religious facilities and other businesses or facilities deemed unacceptable by Tenant Security for safety purposes. This requirement may be waived by Tenant Security if no other facility is deemed acceptable. In those cases, enhanced security requirements may be necessary. Offered space must meet Government requirements for fire safety, accessibility, seismic, and sustainability standards per the terms of the Lease. A fully serviced lease is required. Offered space shall not be in the 1-percent-annual-chance floodplain (formerly referred to as 100-year floodplain). The U.S. Government currently occupies approximately 9,524 ABOA SF of office and related space in a building under a lease in Billings MT. The Government has identified a need for 8,322 ABOA SF of expansion space and is considering alternative space for the total requirement of 17,845 ABOA SF if economically advantageous. In making this determination, the Government will consider, among other things, the availability of alternative space that potentially can satisfy the Government’s requirements, as well as costs likely to be incurred through relocating, such as physical move costs, replication of tenant improvements and telecommunication infrastructure, and non-productive agency downtime. Expressions of Interest Due: 4/1/2026 Occupancy 10/1/2026 Send Expressions of Interest to: Name/Title: Michael Condon Email Address: Michael.d.condon@gsa.gov Government Contact Lease Contracting Officer Michael Condon Leasing Specialist Expressions of interest must include the following information:[R1] Building/site name and address and location of the available space within the building/site; Rentable square feet available and expected rental rate per rentable square foot (for each space type: Office and Warehouse), showing the rent broken into Shell rent and Operating expense rent; ANSI/BOMA office area-(ABOA) square feet to be offered and expected rental rate per ABOA square foot, fully serviced. Indicate whether the quoted rental rate includes an amount for tenant improvements and state the amount, (if any); Date of space availability; Building ownership information; Amount of parking available on-site and its cost. Include whether expected rental rate includes the cost of the required Government parking (if any), plus address how the parking requirements will be met; Energy efficiency and renewable energy features existing within the building and if it is Energy Star rated; List of building services provided; Amount of parking available on-site and its cost. Include whether expected rental rate includes the cost of the required Government parking (if any). Building, space, and parking accessibility in compliance with ABAAS. Building, space, and parking compliance with fire and life safety and seismic requirements. Building, space, and parking compliance with ISC and Publication 64 security standards. One-eighth inch scale drawing of proposed space offered or marketing brochure illustrating the floor plans and proposed space, or proposed site layout; Name, address, telephone number, and email address of authorized contact; In cases where an agent is representing multiple ownership entities, written acknowledgement; Representatives of building owners must include with expression of interest the exclusivity agreement, representation letter, listing contract or other executed agreement granting the exclusive right to represent the building owner. Your letter must include the Solicitation # listed in this advertisement and be emailed or mailed to the Primary point of Contact; In order to be considered for this procurement, expressions of interest must satisfactorily address 1-17 immediately above and demonstrate compliance with all the requirements 1-18 above. Failure to provide the expression of interest and all of the information identified above by the due date for the expressions of interest will result in the expression of interest being ineligible for consideration. AUTHORIZED CONTACTS: In no event shall the offer enter into negotiations or discussions concerning the space to be leased with representatives of any Federal Agency other than the authorized representative of the General Services Administration (GSA).
+
+## Contacts
+
+- Primary Contact:
+  - Name: Michael Condon
+  - Email: michael.d.condon@gsa.gov
+  - Phone: 3032498771
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/251b4478d80545e8843e05cf4a6f7bdf/view)
