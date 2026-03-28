@@ -1,0 +1,31 @@
+---
+layout: default
+title: Quidel Ortho Reagents, Consumables and Maintenance
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 2abd83790a4645a3b201f4e14bf07cf3
+---
+
+# Quidel Ortho Reagents, Consumables and Maintenance
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-03-27 15:28:10.381-04
+- Solicitation Number: HT9408-26-REAGENT
+
+## Summary
+
+The Defense Health Agency Contracting Activity (DHACA), Healthcare Contracting Division – South (HCD-S) is conducting market research to identify potential sources that possess the capabilities to meet the requirement and qualifications for providing and delivering reagents, consumables, and maintenance compatible for two (2) Government owned Quidel Ortho, Vision Swift Analyzers. The Government is seeking information on the availability of capable contractors to provide the reagents, consumables, and maintenance compatible with the two (2) Quidel Ortho, Vision Swift Analyzers for 96th Medical Group Elgin AFB, FL. Refer to the table below for the list of reagents and consumables required: Description Product Code MTS A/B/D Group (5 x 20) MTS081115 MTS A/B/D Mono & Reverse Grp Card (5 x 20) MTS080515 MTS Anti-IgG -C3D Card (1 x 20) MTS084014 MTS Anti-IgG Card (5 x 20) MTS084024 MTS Buffered Gel Card (5 x 20) MTS085014 0.8% Affirmagen (2 x 10 mL) 719201 0.8% RESOLVE Panel A (11 x 3 mL) 6902317 0.8% RESOLVE Panel B (11 x 3 mL) 6902318 0.8% Surgiscreen (3 x 10 mL) 6902316 Alba Q Chek simulated whole Blood Controls (1 Kit) Z498 FETALScreen II FMH Kit Z488 RESOLVE Panel C (22 x 3 mL) 719410 MTS Diluent 2 (5 x 100 mL) MTS9230 MTS Diluent 2 Plus (5 x 100 mL) MTS9330 ORTHO 7% BSA (12 x 5mL) 6844285 OV Dilution Trays (16-well tray - 180/ box) 6904591 OV Evaporation Caps - 10 mL (250/ box) 6843005 for Reagent Red Cells The Government requires the following: All reagents must be FDA approved. All reagents and consumables must be compatible with the Quidel Ortho, Vision Swift Analyzer. Technical support and maintenance to include routine software upgrades and readily available field service engineers (FSEs) for on-site repair as necessary. Must be able to provide all required reagents and consumables as annotated in the table above on a scheduled basis. The North American Standard Industry Classification System (NAICS) code anticipated for this acquisition is 325413, In-Vitro Diagnostic Substance Manufacturing. Based on responses to this Request for Information (RFI), this requirement may be set aside for Small Business or procured through Full and Open competition. The Government reserves the right to decide whether or not a small business set-aside is appropriate. Interested firms are encouraged to recommend a more appropriate NAICS in their response; however, include the rationale for an alternate selection. This Request for Information (RFI) is issued for informational and planning purposes only. THIS IS NOT A REQUEST FOR QUOTE OR SOLICITATION OF AN OFFER; therefore, in accordance with FAR 15.101(c) any responses to this inquiry will not constitute nor will be considered as a contractor offer, and no award will be issued as a result of this inquiry. This information will be used by DHACA HCD-S for market research purposes only, and the submitted information will not be returned. Submitted information will be protected in accordance with DoDD 5400.11, Department of Defense Privacy Program, and DoD 5400.11-R, Department of Defense Privacy Program, and no feedback will be provided regarding submissions or the total number of submissions received. Interested parties are solely responsible for all expenses associated with responding to this request for information, as the government is not liable for any costs incurred by interested parties in responding to this request. The purpose of this RFI is to query the market for potential interested, capable, responsible, and qualified commercial offerors that can provide/perform the stated requirement. The government is interested in collecting market data/information in accordance with Federal Acquisition Regulation (FAR) Part 10, from potential sources that have the capability to provide and deliver reagents, consumables, and maintenance for two (2) Quidel Ortho, Vision Swift Analyzers. Interested and/or potential small business offerors are requested and encouraged to submit responses to the questions below under the Market Survey/Questionnaire, not later than 12:00 P.M. Central Time (CT) on 06 April 2026. No extension will be granted. **All correspondence resulting from this RFI shall be sent to Mr. Robby Brinkmann at Robert.t.brinkmann.civ@health.mil and Marcus.h.mattingly.civ@health.mil. Market Survey/Questionnaire shall include the following information: Entity Name:______________________________ Name of point of contact: ____________________________ Phone number: ____________________________________ Email address: ____________________________________ CAGE CODE: ____________________________________ UEI: ____________________________________________ One page capability statement to meet the requirement and qualifications for providing and delivering reagents, consumables, and maintenance for two (2) Quidel Ortho, Vision Swift Analyzers. SAMS Registered? Yes/No Is your company a small business as defined by the Small Business Administration? Y/N If YES, what are your small business certification(s) under NAICS Code 325413? Identify the following: 8(a) Certified: (Yes / No) HUBZone Certified: (Yes / No) Service Disabled Veteran Owned Small Business (SDVOSB): (Yes / No) Small Disadvantaged Business: (Yes / No) Economically Disadvantaged Women-Owned Small Business (EDWOSB): (Yes / No) Women Owned Small Business (WOSB): (Yes / No) Veteran Owned Small Business (VOSB): (Yes / No) Primary Point of Contact(s): Contract Specialist Robby Brinkmann Robert.t.brinkmann.civ@health.mil Phone: 210-536-6097 Contracting Officer Marcus H. Mattingly marcus.h.mattingly.civ@health.mil Phone: 210-272-7186
+
+## Contacts
+
+- Primary Contact:
+  - Name: Robby Brinkmann
+  - Email: robert.t.brinkmann.civ@health.mil
+- Secondary Contact:
+  - Name: Marcus Mattingly
+  - Email: marcus.h.mattingly.civ@health.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2abd83790a4645a3b201f4e14bf07cf3/view)

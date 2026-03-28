@@ -1,0 +1,31 @@
+---
+layout: default
+title: N099--OR Overhead Paging Speaker Redesign
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: 4f34a9c5b813405baa606dc5642b2561
+---
+
+# N099--OR Overhead Paging Speaker Redesign
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-03-27 13:57:04.87-04
+- Solicitation Number: 36C25726Q0403
+- Awardee: null
+
+## Summary
+
+Statement of Work (SOW) Upgrade the Overhead Paging System in the Surgery Suite 1. Background The goal of this project is to upgrade the overhead paging system in the Surgery suite by replacing 35 old speakers with new ones that are strictly contained within the Operating Rooms (OR). This enhancement aims to improve patient confidentiality, communication efficiency, and prevent unwanted noise in other areas of the 2nd floor. The project includes system installation, staff training, and thorough testing to confirm effective internal communication and compliance with standards. The South Texas Veterans Health Care System requires comprehensive upgrades and repairs to the OR intercom system at the Audie L. Murphy Memorial VA Hospital. 2. Objectives 2.1. Replace and upgrade 35 of the old speakers with Rauland s 2 X2 overhead speakers within the Surgery suite. 2.2. Relocate and upgrade existing amplifiers as needed. 2.3. Test and certify the newly installed system. 2.4. Provide thorough training for staff on the new system. 2.5. Ensure compliance with all relevant standards for effective internal communication. 3. Place of Performance Audie L. Murphy Memorial VA Hospital, 7400 Merton Minter Blvd., San Antonio, Texas, 78229. 4. Working Hours All work will be completed after regular business hours (from 8:00 P.M. to 5:00 A.M., Monday through Friday, and during weekends) to avoid disrupting patient care and ensure the surgical suite remains fully operational during regular hours. No work shall take place on federally recognized holidays unless approved by the Contracting Officer (CO). 5. Description of Work 5.1. General Requirements 5.1.1. The Contractor shall provide all materials, labor, tools, transportation, and equipment necessary for the completion of this project. 5.1.2. All work shall be performed after hours as specified to minimize disruption to hospital operations and ensure patient confidentiality. 5.2. Subject Matter Expertise 5.2.1. The Contractor must be a subject matter expert in Rauland intercom paging systems, verified through previous project experience and certifications. 5.3. Installation and Additional Tasks 5.3.1. Install new system cables and components. 5.3.2. Provide provisions for staff terminal stations and nurse console. 5.3.3. Dispose of old unused wiring. 5.3.4. Produce detailed installation drawings and as-built/record drawings. 5.3.5. Coordinate and provide user and technical training for installed devices and options. 5.3.6. Caulk any fire-wall penetrations with UL FireStop as necessary. 5.3.7. Ensure all required adapter plates and surface mount back boxes are provided and installed. 6. Compliance and Certification Requirements 6.1. Contractor shall comply with all VA, local, state, and federal regulations, including: - NFPA (National Fire Protection Association) - NEC (National Electric Code) 6.2. Contractor must have a thorough understanding of the STVHCS Infection Control and Life Safety requirements, demonstrated through prior similar project experience and certifications. 7. Reporting 7.1. Contractor shall report daily to the STVHCS Biomedical Engineering Section Shop before commencing work and after completing daily work. 7.2. Weekly electronic reports in PDF or MS Word, detailing progress timelines, status of parts delivery, potential delays, and contractors on site, must be provided. 7.3. Payment of invoices may be delayed if required reports are not submitted to the Biomedical Engineering Section. 8. Security Requirements 8.1. Information provided by VA for the performance of this contract is to be used solely for that purpose. 8.2. The contractor shall immediately report any security or privacy incidents to the COTR and the designated ISO and Privacy Officer. 8.3. If sensitive personal information is involved, the contractor is liable for liquidated damages in the event of a data breach. 9. Changes to the Statement of Work Any changes to this SOW must be authorized and approved through written correspondence from the CO. Unauthorized changes initiated by other parties will be borne by the contractor. 10. Draft Evaluation Criteria 10.1. Documentation of at least 3 years of relevant experience/past performance. 10.2. Documentation of a qualified workforce and resumes of proposed individuals. 10.3. Evidence of in-depth knowledge of Rauland systems. 10.4. Knowledge of NFPA, NEC, Life Safety Code, and other applicable standards. 10.5. Evidence of experience working in a VA hospital setting. 10.6. Clearance from the Infection Control Department. 11. Special Contract Requirements 11.1. Contractor must begin the process for obtaining a VA Contractor badge and complete TB tests prior to work commencement. 11.2. No access to VA desktop computers, online resources, or patient health information. 11.3. Experience working with VA and in hospital settings required. 11.4. Attendance at Infection Control Safety courses required. 11.5. Compliance with various laws, codes, and regulations is mandatory. 12. Information Protection, Privacy, and Records Management Requirements 12.1. Contractor will not have access to VA desktop computers or online resources. 12.2. No access to Patient Health Information (PHI); any removal of equipment must leave data storage devices in VA custody. 12.3. The Government owns all data/records produced as part of this contract. 12.4. Compliance with records management policies, Privacy Act, and FOIA is required.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Tammy L Wilson
+  - Title: Contract Specialist
+  - Email: Tammy.wilson5@va.gov
+  - Phone: 254-661-5372
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4f34a9c5b813405baa606dc5642b2561/view)

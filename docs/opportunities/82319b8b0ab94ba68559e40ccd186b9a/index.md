@@ -1,0 +1,29 @@
+---
+layout: default
+title: CONSTRUCTION PHASE III CANJILON WATER SYSTEM IMPROVEMENTS, RIO ARRIBA COUNTY, NEW MEXICO
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 82319b8b0ab94ba68559e40ccd186b9a
+---
+
+# CONSTRUCTION PHASE III CANJILON WATER SYSTEM IMPROVEMENTS, RIO ARRIBA COUNTY, NEW MEXICO
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-03-27 16:41:08.013-04
+- Solicitation Number: W912PP26RA016
+
+## Summary
+
+SOURCES SOUGHT For W912PP26RA016 CONSTRUCTION PHASE III CANJILON WATER SYSTEM IMPROVEMENTS, RIO ARRIBA COUNTY, NEW MEXICO
+
+## Contacts
+
+- Primary Contact:
+  - Name: Diana Keeran
+  - Email: DIANA.M.KEERAN@USACE.ARMY.MIL
+  - Phone: 5053423263
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/82319b8b0ab94ba68559e40ccd186b9a/view)
