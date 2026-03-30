@@ -46,6 +46,7 @@
 - Prefer deterministic JSON outputs with stable keys and sorted summaries where practical.
 - Avoid introducing external services for core ingestion; default to public SAM.gov extracts and local processing.
 - Keep changes minimal and focused; preserve existing file formats expected by downstream scripts.
+- Follow the Python coding standards documented in **PYTHON_GUIDANCE.md** when writing or reviewing Python scripts.
 
 ## Testing and validation
 - Run targeted checks after edits:

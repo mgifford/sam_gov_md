@@ -1,24 +1,20 @@
 #!/usr/bin/env python3
 """Analyze term matches and surface top records with snippets."""
 
+from __future__ import annotations
+
+import argparse
 import json
-import os
 import re
 from pathlib import Path
 
-REPORT_PATH = "data/term_scan_report.json"
-MD_DIR = "data/samples_md"
-JSON_DIR = "data/samples_json"
-OUTPUT_PATH = "data/top_matches_report.md"
 
-
-def load_json_for_file(md_filename: str) -> dict:
+def load_json_for_file(md_filename: str, json_dir: Path) -> dict:
     """Load the corresponding sample JSON for a markdown file."""
     base = md_filename.replace(".md", "")
-    json_path = os.path.join(JSON_DIR, f"{base}.sample.json")
-    if os.path.exists(json_path):
-        with open(json_path, "r", encoding="utf-8") as f:
-            return json.load(f)
+    json_path = json_dir / f"{base}.sample.json"
+    if json_path.exists():
+        return json.loads(json_path.read_text(encoding="utf-8"))
     return {}
 
 
@@ -33,9 +29,20 @@ def extract_snippet(text: str, term_pattern: str, context: int = 200) -> str:
     return f"...{snippet}..."
 
 
-def main():
-    with open(REPORT_PATH, "r", encoding="utf-8") as f:
-        report = json.load(f)
+def main() -> None:
+    parser = argparse.ArgumentParser(description="Analyze term matches and surface top records with snippets")
+    parser.add_argument("--report", default="data/term_scan_report.json")
+    parser.add_argument("--md-dir", default="data/samples_md")
+    parser.add_argument("--json-dir", default="data/samples_json")
+    parser.add_argument("--output", default="data/top_matches_report.md")
+    args = parser.parse_args()
+
+    report_path = Path(args.report)
+    md_dir = Path(args.md_dir)
+    json_dir = Path(args.json_dir)
+    output_path = Path(args.output)
+
+    report = json.loads(report_path.read_text(encoding="utf-8"))
 
     output_lines = [
         "# Top ICT/Digital Project Matches",
@@ -56,12 +63,9 @@ def main():
         matches = item["matches"]
         total = sum(m["count"] for m in matches)
 
-        md_path = os.path.join(MD_DIR, md_file)
-        with open(md_path, "r", encoding="utf-8") as f:
-            text = f.read()
+        text = (md_dir / md_file).read_text(encoding="utf-8")
+        record = load_json_for_file(md_file, json_dir)
 
-        record = load_json_for_file(md_file)
-        
         output_lines.extend([
             f"### {md_file}",
             "",
@@ -85,17 +89,18 @@ def main():
             output_lines.append(f"- {match['term']}: {match['count']}")
 
         output_lines.extend(["", "**Sample snippet**:", ""])
-        # Get snippet for top term
         top_term = matches[0]["term"]
-        snippet = extract_snippet(text, r"\b" + top_term.replace("_", r"\s*").replace("-", r"[-\s]") + r"\b")
+        snippet = extract_snippet(
+            text,
+            r"\b" + top_term.replace("_", r"\s*").replace("-", r"[-\s]") + r"\b",
+        )
         output_lines.append(f"> {snippet}")
         output_lines.extend(["", "---", ""])
 
-    os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
-    with open(OUTPUT_PATH, "w", encoding="utf-8") as out:
-        out.write("\n".join(output_lines))
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    output_path.write_text("\n".join(output_lines), encoding="utf-8")
 
-    print(f"Wrote top matches report to {OUTPUT_PATH}")
+    print(f"Wrote top matches report to {output_path}")
 
 
 if __name__ == "__main__":
