@@ -33,13 +33,29 @@ class TermDef:
 
 
 def normalize_date(posted_date: str) -> str:
-    posted_date = (posted_date or "").strip()
+    """Truncate a date string to its YYYY-MM-DD prefix.
+
+    Args:
+        posted_date: Raw date value from a CSV row.
+
+    Returns:
+        The first 10 characters of the stripped string, or ``""`` if empty.
+    """
     if not posted_date:
         return ""
     return posted_date[:10]
 
 
 def parse_date(value: str) -> date | None:
+    """Parse a date string in YYYY-MM-DD or MM/DD/YYYY format.
+
+    Args:
+        value: Raw date string from SAM.gov data.
+
+    Returns:
+        A :class:`datetime.date` on success, or ``None`` if the value is
+        empty or cannot be parsed.
+    """
     value = (value or "").strip()
     if not value:
         return None
@@ -72,13 +88,13 @@ def clean_description(text: str) -> str:
 
 
 def is_win(row: dict[str, str]) -> bool:
+    """Return True if the notice type indicates a contract award/win."""
     notice_type = (row.get("Type") or "").lower()
-    return "award" in notice_type or "win" in notice_type
 
 
 def extract_attachments(description: str) -> dict[str, Any]:
     """Extract attachment filenames and count from description text.
-    
+
     Looks for patterns like:
     - Attachment 1: filename.pdf
     - Exhibit A: filename.pdf
@@ -87,9 +103,9 @@ def extract_attachments(description: str) -> dict[str, Any]:
     """
     if not description:
         return {"count": 0, "attachments": []}
-    
+
     attachments: list[str] = []
-    
+
     # Pattern 1: "Attachment N: Filename" or "Attachment (N): Filename"
     attachment_pattern = r'(?:attachment|exhibit|annex|appendix)\s+(?:\()?[a-z0-9]+(?:\))?\s*:?\s*([^\n]+?)(?=\n|$)'
     matches = re.findall(attachment_pattern, description, re.IGNORECASE)
@@ -101,14 +117,14 @@ def extract_attachments(description: str) -> dict[str, Any]:
         if filename and len(filename) > 2:  # Avoid single characters
             if filename not in attachments:
                 attachments.append(filename)
-    
+
     # Pattern 2: Direct file references like "Att 1_FAR 52.204-24 Nov 2021.pdf"
     file_pattern = r'([Aa]tt\s+\d+_[^\n]+\.(?:pdf|docx?|xlsx?|pptx?|txt))'
     file_matches = re.findall(file_pattern, description)
     for match in file_matches:
         if match not in attachments:
             attachments.append(match)
-    
+
     return {
         "count": len(attachments),
         "attachments": attachments
@@ -116,6 +132,14 @@ def extract_attachments(description: str) -> dict[str, Any]:
 
 
 def load_terms(path: Path) -> list[TermDef]:
+    """Load term definitions from a YAML config file.
+
+    Args:
+        path: Path to the YAML file (e.g. ``config/terms.yml``).
+
+    Returns:
+        List of :class:`TermDef` objects ready for use in :func:`scan_terms`.
+    """
     with path.open("r", encoding="utf-8") as f:
         payload = yaml.safe_load(f)
     terms_raw = payload.get("terms", [])
@@ -131,7 +155,19 @@ def load_terms(path: Path) -> list[TermDef]:
     return terms
 
 
-def scan_terms(text: str, terms: list[TermDef]) -> tuple[Counter, dict[str, list[dict[str, int]]]]:
+def scan_terms(
+    text: str, terms: list[TermDef]
+) -> tuple[Counter, dict[str, list[dict[str, int]]]]:
+    """Count how often each term and category appears in ``text``.
+
+    Args:
+        text: Full text of a single SAM.gov opportunity description.
+        terms: Term definitions loaded via :func:`load_terms`.
+
+    Returns:
+        A two-element tuple: a :class:`~collections.Counter` of term hit
+        counts, and a dict with ``"categories"`` and ``"terms"`` summaries.
+    """
     term_counts: Counter[str] = Counter()
     category_counts: Counter[str] = Counter()
     matched_terms: list[dict[str, int]] = []
@@ -149,7 +185,21 @@ def scan_terms(text: str, terms: list[TermDef]) -> tuple[Counter, dict[str, list
     return term_counts, {"categories": category_counts, "terms": matched_terms}
 
 
-def to_relationships(records: list[dict[str, Any]]) -> dict[str, list[dict[str, Any]]]:
+def to_relationships(
+    records: list[dict[str, Any]]
+) -> dict[str, list[dict[str, Any]]]:
+    """Build a graph of nodes and edges from opportunity records.
+
+    Connects agencies to notice types and notice types to NAICS codes so the
+    dashboard can render a relationship diagram.
+
+    Args:
+        records: List of scored opportunity records.
+
+    Returns:
+        Dict with ``"nodes"`` and ``"edges"`` lists suitable for
+        JSON serialisation.
+    """
     edges: Counter[tuple[str, str, str]] = Counter()
     nodes: dict[str, str] = {}
 
@@ -181,7 +231,18 @@ def to_relationships(records: list[dict[str, Any]]) -> dict[str, list[dict[str, 
     }
 
 
-def build_department_breakdown(records: list[dict[str, Any]]) -> list[dict[str, Any]]:
+def build_department_breakdown(
+    records: list[dict[str, Any]]
+) -> list[dict[str, Any]]:
+    """Aggregate record counts by department/agency.
+
+    Args:
+        records: List of opportunity or award records.
+
+    Returns:
+        List of dicts (department, total, opportunities, wins) sorted by
+        total descending.
+    """
     by_agency: dict[str, dict[str, int]] = {}
     for row in records:
         agency = (row.get("Department/Ind.Agency") or "Unknown Agency").strip()
@@ -198,6 +259,15 @@ def build_department_breakdown(records: list[dict[str, Any]]) -> list[dict[str, 
 
 
 def build_date_breakdown(records: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    """Aggregate record counts by posted date.
+
+    Args:
+        records: List of opportunity or award records.
+
+    Returns:
+        List of dicts (date, total, opportunities, awarded) sorted by date
+        descending.
+    """
     by_date: dict[str, dict[str, int]] = {}
     for row in records:
         posted_date = normalize_date(row.get("PostedDate", ""))
@@ -216,6 +286,18 @@ def build_date_breakdown(records: list[dict[str, Any]]) -> list[dict[str, Any]]:
 
 
 def build_award_company_history(all_rows: list[dict[str, Any]]) -> dict[str, Any]:
+    """Compile a month-by-month award history and company leaderboard.
+
+    Scans all rows for contract award records and builds two summaries: a
+    chronological monthly breakdown and a ranking of the top 25 awardees.
+
+    Args:
+        all_rows: Full list of CSV rows from the SAM.gov extract.
+
+    Returns:
+        Dict with ``"total_companies"``, ``"top_companies"``, and
+        ``"monthly"`` keys.
+    """
     awardee_counts: Counter[str] = Counter()
     by_month: dict[str, dict[str, Any]] = {}
 
@@ -299,7 +381,21 @@ def extract_top_award_records(
     return records
 
 
-def write_markdown_opportunities(records: list[dict[str, Any]], output_dir: Path) -> int:
+def write_markdown_opportunities(
+    records: list[dict[str, Any]], output_dir: Path
+) -> int:
+    """Write Jekyll markdown pages for every opportunity in ``records``.
+
+    Creates one ``index.md`` per record under
+    ``<output_dir>/opportunities/<notice_id>/``.
+
+    Args:
+        records: Scored opportunity records to render.
+        output_dir: Root documentation directory (e.g. ``docs/``).
+
+    Returns:
+        Count of markdown files successfully written.
+    """
     opportunities_dir = output_dir / "opportunities"
     opportunities_dir.mkdir(parents=True, exist_ok=True)
     written = 0
@@ -331,14 +427,14 @@ def write_markdown_opportunities(records: list[dict[str, Any]], output_dir: Path
         secondary_contact_title = (row.get("SecondaryContactTitle") or "").strip()
         secondary_contact_email = (row.get("SecondaryContactEmail") or "").strip()
         secondary_contact_phone = (row.get("SecondaryContactPhone") or "").strip()
-        
+
         # Extract attachment information
         attachment_info = extract_attachments(description)
 
         # Create Jekyll front matter
         markdown_lines = [
             "---",
-            f"layout: default",
+            "layout: default",
             f"title: {title}",
             f"agency: {agency}",
             f"notice_type: {notice_type}",
@@ -393,7 +489,7 @@ def write_markdown_opportunities(records: list[dict[str, Any]], output_dir: Path
                     markdown_lines.append(f"  - Email: {secondary_contact_email}")
                 if secondary_contact_phone:
                     markdown_lines.append(f"  - Phone: {secondary_contact_phone}")
-        
+
         # Add Attachments section if any exist
         if attachment_info["count"] > 0:
             markdown_lines.extend(["", "## Attachments", ""])
@@ -427,6 +523,15 @@ def write_markdown_opportunities(records: list[dict[str, Any]], output_dir: Path
 
 
 def main() -> None:
+    """Parse CLI arguments, download/read SAM.gov CSV data, and write outputs.
+
+    Loads term definitions from the config file, fetches or reads the SAM.gov
+    contract opportunities CSV, filters records for the target date, scores
+    them against the configured terms, optionally enriches them via an LLM
+    (Ollama or GitHub Models), and writes all outputs – records JSON, wins
+    JSON, markdown pages, and dashboard JSON files – to the configured output
+    directories.
+    """
     parser = argparse.ArgumentParser(
         description="Process SAM.gov opportunities/wins for a target date"
     )
@@ -526,10 +631,10 @@ def main() -> None:
         term_counts, details = scan_terms(text, terms)
         total_term_counts.update(term_counts)
         category_counts.update(details["categories"])
-        
+
         # Add matches to the record for frontend filtering
         row["matches"] = details["terms"]
-        
+
         if details["terms"]:
             per_record_matches.append(
                 {
