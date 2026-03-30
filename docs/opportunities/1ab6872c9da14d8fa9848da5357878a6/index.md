@@ -26,6 +26,10 @@ NV ASH MEADOWS NWR CRY SPRNGS RESTORE
   - Email: ian_a_young@fws.gov
   - Phone: 6127135214
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1ab6872c9da14d8fa9848da5357878a6/view)

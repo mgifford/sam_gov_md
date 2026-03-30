@@ -29,6 +29,10 @@ SOURCES SOUGHT NOTICE The Air Force Test Center’s Installation Contracting Div
 
 - Attachment 1: – Performance Parameters. NOTE: Attachment 2 – Performance Parameters is marked Distribution Statement D. Interested parties may email the Contracting Officer with their company CAGE code to request a copy of the Performance Parameters. The Government intends to hold a site visit the week of 13 April 2026. Further details will be provided. NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODE: The anticipated North American Industry Classification System Code (NAICS) for this requirement is TBD. Interested parties are encouraged to recommend a NAICS code for consideration. SUBMISSION DETAILS: Responses should include: Company Information: Company name, company address, and telephone number and e-mail address of company point of contact. System for Award Management (SAM) Unique Entity Identifier (UEI) Number. Overview of company’s technical capabilities. Submission: Provide your company’s overview of technical capabilities to meet the subject requirement no later than 2:00 PM Central Time (CT) on 17 April 2026, via email to Ms. Haley Smith at haley.smith.10@us.af.mil. NOTE: If the technical capabilities of your company align with the requirement, the Contracting Officer may contact the company POC to schedule a follow-up discussion with the Government Project Team
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d2dac840a1f04cb2b601fe58bc7831c4/view)

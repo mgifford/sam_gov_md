@@ -26,6 +26,10 @@ The Department of Veterans Affairs Michael E. DeBakey VA Medical Center (MEDVAMC
   - Email: andrew.misfeldt@va.gov
   - Phone: (479) 443-4301 ext 66194
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/86866e09e2c3471ab503c1492af97a1c/view)

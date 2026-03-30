@@ -28,6 +28,10 @@ The 35th Contracting Squadron, Misawa Air Base, Japan intends to issue a single-
   - Email: rebecca.rohrs@us.af.mil
   - Phone: 3152268779
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8a22005ebaa1486a8ece7f39316c0195/view)

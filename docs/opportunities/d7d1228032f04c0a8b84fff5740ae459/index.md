@@ -27,6 +27,10 @@ This reward is for a three-month extension of the contract. Period of performanc
   - Email: robyn.nussbaum@va.gov
   - Phone: 806-354-7830
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d7d1228032f04c0a8b84fff5740ae459/view)

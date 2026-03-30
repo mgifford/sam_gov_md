@@ -34,6 +34,10 @@ Amendment 0001 changes the RFP to Work Plan contractors only.Korean MND LCS Fund
 
 - Attachment 1: - MLWR27-1006 Statement of Work.0002A. The purpose of this amendment is to add a revised Statement of Work. See revised Attachment 1.B. In addition, AutoCAD drawing Xref.dwg is added.C. The closing date is extended to 23 April 2026.D. All other terms and conditions remain the same
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4383fdea0bd64729b86f1ba744fed1d6/view)

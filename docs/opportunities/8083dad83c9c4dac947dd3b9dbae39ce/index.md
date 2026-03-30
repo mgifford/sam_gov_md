@@ -26,6 +26,10 @@ GLASS BOTTLES AND GLASS VIALS FOR THE NATIONAL WATER QUALITY LABORATORY (NWQL)
   - Email: karen_labouff-kind@ios.doi.gov
   - Phone: 303-236-9315
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8083dad83c9c4dac947dd3b9dbae39ce/view)

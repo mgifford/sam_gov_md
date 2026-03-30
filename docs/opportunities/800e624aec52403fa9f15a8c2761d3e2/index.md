@@ -23,6 +23,10 @@ Proposed procurement for NSN 6230016864184 LIGHT,MARKER,DISTRE: Line 0001 Qty 16
   - Name: Questions regarding this solicitation should be emailed to the buyer listed in block 5 of the solicitation document which can be found under the Additional Information link. If the Additional Information link does not work, please go to https://www.dibbs.bsm.dla.mil/Solicitations/ and type the solicitation number in the Global Search box.
   - Email: DibbsBSM@dla.mil
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/800e624aec52403fa9f15a8c2761d3e2/view)

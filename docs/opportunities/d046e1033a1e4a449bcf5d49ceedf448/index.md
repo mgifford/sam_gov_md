@@ -26,6 +26,10 @@ Project Title: Repair Exterior Finishes Building 1 and OPC, Project: 570-21-108 
   - Email: Rosario.chaidez1@va.gov
   - Phone: (916) 923-4548
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d046e1033a1e4a449bcf5d49ceedf448/view)

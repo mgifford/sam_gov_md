@@ -26,6 +26,10 @@ Enclosed is a Request for Quotations (RFQ) for event organizing services for Ame
   - Name: Nitthakan Pusayapaibul
   - Email: cnxprocurement@state.gov
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8451a08ff1e447beb8b5f6ed3ec343d6/view)

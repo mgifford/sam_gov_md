@@ -1,35 +1,20 @@
 {
-  "forecast_date": "2026-03-28",
+  "forecast_date": "2026-03-29",
   "departments_by_opportunity_volume": [
     {
-      "total_records": 21,
-      "open_opportunities": 18,
-      "awarded": 3,
-      "win_rate_percent": 19.0,
-      "estimated_monthly_value": 22366310,
-      "average_award_value": 5591577,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 3,
+      "total_records": 201,
+      "open_opportunities": 200,
+      "awarded": 1,
+      "win_rate_percent": 0.5,
+      "estimated_monthly_value": 1480769,
+      "average_award_value": 1480769,
+      "opportunities_with_attachments": 8,
+      "opportunities_with_keyword_matches": 192,
       "top_awardees": [
         {
-          "name": "STELLANT SYSTEMS INC ",
+          "name": "KATO WORKS CO., LTD. Shinagawa-ku 1400011 JPN",
           "wins": 1,
-          "total_value": 20109586
-        },
-        {
-          "name": "TRIMAN INDUSTRIES INC ",
-          "wins": 1,
-          "total_value": 1790974
-        },
-        {
-          "name": "Peerless Instrument Co., Inc. ",
-          "wins": 1,
-          "total_value": 465750
-        },
-        {
-          "name": "null 28542-0002",
-          "wins": 1,
-          "total_value": 0
+          "total_value": 1480769
         }
       ],
       "department": "DEPT OF DEFENSE"
@@ -39,161 +24,153 @@
       "open_opportunities": 3,
       "awarded": 2,
       "win_rate_percent": 40.0,
-      "estimated_monthly_value": 604318,
-      "average_award_value": 302159,
+      "estimated_monthly_value": 1627847,
+      "average_award_value": 813923,
       "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 1,
+      "opportunities_with_keyword_matches": 3,
       "top_awardees": [
         {
-          "name": "RHI LLC MARRIOT-SLATERVILLE 84404",
+          "name": "LABORATORY CORPORATION OF AMERICA BURLINGTON 27215 NCL",
           "wins": 1,
-          "total_value": 316537
+          "total_value": 814542
         },
         {
-          "name": "RED ONE MEDICAL DEVICES LLC SAVANNAH 31405",
+          "name": "MICROTECHNOLOGIES LLC DELRAY BEACH 33445 FLK",
           "wins": 1,
-          "total_value": 287781
+          "total_value": 813304
         }
       ],
       "department": "VETERANS AFFAIRS, DEPARTMENT OF"
     },
     {
-      "total_records": 2,
-      "open_opportunities": 2,
+      "total_records": 3,
+      "open_opportunities": 3,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
+      "opportunities_with_keyword_matches": 1,
       "top_awardees": [],
-      "department": "POSTAL SERVICE"
+      "department": "STATE, DEPARTMENT OF"
     },
     {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
+      "total_records": 2,
+      "open_opportunities": 0,
+      "awarded": 2,
+      "win_rate_percent": 100.0,
+      "estimated_monthly_value": 9286178,
+      "average_award_value": 4643089,
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF"
+      "top_awardees": [
+        {
+          "name": "DOFINE SPRINKLER REBUILDERS INC 218 W 13TH ST Burley ID 83318 USA",
+          "wins": 1,
+          "total_value": 9254431
+        },
+        {
+          "name": "C & G CONTAINERS INC 2202 I-49 N SERVICE RD Opelousas LA 70570 USA",
+          "wins": 1,
+          "total_value": 31747
+        }
+      ],
+      "department": "INTERIOR, DEPARTMENT OF THE"
     }
   ],
   "departments_by_award_value": [
     {
-      "total_records": 21,
-      "open_opportunities": 18,
-      "awarded": 3,
-      "win_rate_percent": 19.0,
-      "estimated_monthly_value": 22366310,
-      "average_award_value": 5591577,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 3,
+      "total_records": 2,
+      "open_opportunities": 0,
+      "awarded": 2,
+      "win_rate_percent": 100.0,
+      "estimated_monthly_value": 9286178,
+      "average_award_value": 4643089,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
       "top_awardees": [
         {
-          "name": "STELLANT SYSTEMS INC ",
+          "name": "DOFINE SPRINKLER REBUILDERS INC 218 W 13TH ST Burley ID 83318 USA",
           "wins": 1,
-          "total_value": 20109586
+          "total_value": 9254431
         },
         {
-          "name": "TRIMAN INDUSTRIES INC ",
+          "name": "C & G CONTAINERS INC 2202 I-49 N SERVICE RD Opelousas LA 70570 USA",
           "wins": 1,
-          "total_value": 1790974
-        },
-        {
-          "name": "Peerless Instrument Co., Inc. ",
-          "wins": 1,
-          "total_value": 465750
-        },
-        {
-          "name": "null 28542-0002",
-          "wins": 1,
-          "total_value": 0
+          "total_value": 31747
         }
       ],
-      "department": "DEPT OF DEFENSE"
+      "department": "INTERIOR, DEPARTMENT OF THE"
     },
     {
       "total_records": 5,
       "open_opportunities": 3,
       "awarded": 2,
       "win_rate_percent": 40.0,
-      "estimated_monthly_value": 604318,
-      "average_award_value": 302159,
+      "estimated_monthly_value": 1627847,
+      "average_award_value": 813923,
       "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 1,
+      "opportunities_with_keyword_matches": 3,
       "top_awardees": [
         {
-          "name": "RHI LLC MARRIOT-SLATERVILLE 84404",
+          "name": "LABORATORY CORPORATION OF AMERICA BURLINGTON 27215 NCL",
           "wins": 1,
-          "total_value": 316537
+          "total_value": 814542
         },
         {
-          "name": "RED ONE MEDICAL DEVICES LLC SAVANNAH 31405",
+          "name": "MICROTECHNOLOGIES LLC DELRAY BEACH 33445 FLK",
           "wins": 1,
-          "total_value": 287781
+          "total_value": 813304
         }
       ],
       "department": "VETERANS AFFAIRS, DEPARTMENT OF"
     },
     {
-      "total_records": 2,
-      "open_opportunities": 2,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "POSTAL SERVICE"
+      "total_records": 201,
+      "open_opportunities": 200,
+      "awarded": 1,
+      "win_rate_percent": 0.5,
+      "estimated_monthly_value": 1480769,
+      "average_award_value": 1480769,
+      "opportunities_with_attachments": 8,
+      "opportunities_with_keyword_matches": 192,
+      "top_awardees": [
+        {
+          "name": "KATO WORKS CO., LTD. Shinagawa-ku 1400011 JPN",
+          "wins": 1,
+          "total_value": 1480769
+        }
+      ],
+      "department": "DEPT OF DEFENSE"
     },
     {
-      "total_records": 1,
-      "open_opportunities": 1,
+      "total_records": 3,
+      "open_opportunities": 3,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
+      "opportunities_with_keyword_matches": 1,
       "top_awardees": [],
-      "department": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF"
+      "department": "STATE, DEPARTMENT OF"
     }
   ],
   "department_forecasts": {
     "DEPT OF DEFENSE": {
-      "total_records": 21,
-      "open_opportunities": 18,
-      "awarded": 3,
-      "win_rate_percent": 19.0,
-      "estimated_monthly_value": 22366310,
-      "average_award_value": 5591577,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 3,
+      "total_records": 201,
+      "open_opportunities": 200,
+      "awarded": 1,
+      "win_rate_percent": 0.5,
+      "estimated_monthly_value": 1480769,
+      "average_award_value": 1480769,
+      "opportunities_with_attachments": 8,
+      "opportunities_with_keyword_matches": 192,
       "top_awardees": [
         {
-          "name": "STELLANT SYSTEMS INC ",
+          "name": "KATO WORKS CO., LTD. Shinagawa-ku 1400011 JPN",
           "wins": 1,
-          "total_value": 20109586
-        },
-        {
-          "name": "TRIMAN INDUSTRIES INC ",
-          "wins": 1,
-          "total_value": 1790974
-        },
-        {
-          "name": "Peerless Instrument Co., Inc. ",
-          "wins": 1,
-          "total_value": 465750
-        },
-        {
-          "name": "null 28542-0002",
-          "wins": 1,
-          "total_value": 0
+          "total_value": 1480769
         }
       ]
     },
@@ -202,44 +179,55 @@
       "open_opportunities": 3,
       "awarded": 2,
       "win_rate_percent": 40.0,
-      "estimated_monthly_value": 604318,
-      "average_award_value": 302159,
+      "estimated_monthly_value": 1627847,
+      "average_award_value": 813923,
       "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 1,
+      "opportunities_with_keyword_matches": 3,
       "top_awardees": [
         {
-          "name": "RHI LLC MARRIOT-SLATERVILLE 84404",
+          "name": "LABORATORY CORPORATION OF AMERICA BURLINGTON 27215 NCL",
           "wins": 1,
-          "total_value": 316537
+          "total_value": 814542
         },
         {
-          "name": "RED ONE MEDICAL DEVICES LLC SAVANNAH 31405",
+          "name": "MICROTECHNOLOGIES LLC DELRAY BEACH 33445 FLK",
           "wins": 1,
-          "total_value": 287781
+          "total_value": 813304
         }
       ]
     },
-    "POSTAL SERVICE": {
-      "total_records": 2,
-      "open_opportunities": 2,
+    "STATE, DEPARTMENT OF": {
+      "total_records": 3,
+      "open_opportunities": 3,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
+      "opportunities_with_keyword_matches": 1,
       "top_awardees": []
     },
-    "HEALTH AND HUMAN SERVICES, DEPARTMENT OF": {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
+    "INTERIOR, DEPARTMENT OF THE": {
+      "total_records": 2,
+      "open_opportunities": 0,
+      "awarded": 2,
+      "win_rate_percent": 100.0,
+      "estimated_monthly_value": 9286178,
+      "average_award_value": 4643089,
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
-      "top_awardees": []
+      "top_awardees": [
+        {
+          "name": "DOFINE SPRINKLER REBUILDERS INC 218 W 13TH ST Burley ID 83318 USA",
+          "wins": 1,
+          "total_value": 9254431
+        },
+        {
+          "name": "C & G CONTAINERS INC 2202 I-49 N SERVICE RD Opelousas LA 70570 USA",
+          "wins": 1,
+          "total_value": 31747
+        }
+      ]
     }
   }
 }

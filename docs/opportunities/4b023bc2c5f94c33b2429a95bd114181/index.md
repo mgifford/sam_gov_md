@@ -23,6 +23,10 @@ notice_id: 4b023bc2c5f94c33b2429a95bd114181
   - Name: Calvin Peterson8046598838
   - Email: Calvin.Peterson@dla.mil
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4b023bc2c5f94c33b2429a95bd114181/view)

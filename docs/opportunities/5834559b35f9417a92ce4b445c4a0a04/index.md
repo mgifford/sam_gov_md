@@ -30,6 +30,10 @@ Contract Value: 192,500,000(JPY)/1,480,769.23(USD) (130JPY/US$1)
   - Email: wencee.p.narvarte.civ@us.navy.mil
   - Phone: 07011894219
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5834559b35f9417a92ce4b445c4a0a04/view)

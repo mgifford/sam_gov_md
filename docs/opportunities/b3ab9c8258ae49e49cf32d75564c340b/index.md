@@ -28,6 +28,10 @@ Please note this solicitation is not ready to be issued as of this date. The Emb
   - Email: ManilaPurchasing@state.gov
   - Phone: 63253012000
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b3ab9c8258ae49e49cf32d75564c340b/view)

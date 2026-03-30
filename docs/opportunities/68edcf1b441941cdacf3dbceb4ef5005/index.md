@@ -27,6 +27,10 @@ No summary provided.
   - Email: charity.cazee@va.gov
   - Phone: 520-792-1450
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/68edcf1b441941cdacf3dbceb4ef5005/view)

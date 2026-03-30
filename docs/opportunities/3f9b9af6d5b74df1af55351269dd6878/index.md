@@ -27,6 +27,10 @@ notice_id: 3f9b9af6d5b74df1af55351269dd6878
   - Name: Jason Rankin
   - Email: jason.m.rankin6.civ@us.navy.mil
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3f9b9af6d5b74df1af55351269dd6878/view)
