@@ -1,0 +1,39 @@
+---
+layout: default
+title: USCGC POLAR STAR CRANE LOAD MOMENT INDICATOR SYSTEM
+agency: HOMELAND SECURITY, DEPARTMENT OF
+notice_type: Solicitation
+notice_id: 7e326a228b06498ab47f1822c322b47f
+---
+
+# USCGC POLAR STAR CRANE LOAD MOMENT INDICATOR SYSTEM
+
+- Agency: HOMELAND SECURITY, DEPARTMENT OF
+- Type: Solicitation
+- Posted: 2026-03-30 16:38:54.742-04
+- Solicitation Number: 70Z08526Q024011
+
+## Summary
+
+TATEMENT OF WORK USCGC POLAR STAR (WAGB-10) – Z14501 TECHNICAL SERVICES FOR CRANE LOAD MOMENT INDICATOR SYSTEM Objective. The objective of this Statement of Work (SOW) is to restore full capabilities to the load moment indicator system for the knuckle boom cranes on United States Coast Guard Cutter (USCGC) Polar Star. This is a critical safety system used for operation of shipboard cranes. References. For any listed references to be distributed, the contractor must be registered in the Joint Certification Program (JCP) through Defense Logistics Agency (DLA) and provide your JCP number and expiration date to the listed point of contact (POC) for this work.? United States Coast Guard Technical Publication: 4979-589-A, KNUCKLE BOOM CRANE - MODEL K280-70 WIKA/Hirschmann User/Calibration Manual: iVISOR mentor QVGA for Allied Boom Crane, Order Code 24-183-19-1003e Background. This requirement is for the contractor to provide an Original Equipment Manufacturer (OEM) technician to perform field troubleshooting on the load moment indicator (LMI) system for shipboard knuckle boom cranes. The LMI modules intermittently operate, providing no error codes for further troubleshooting. Replacement modules were received and attempted to install and calibrate. Technicians identified intermittent grounds in several wire runs and receiving error code E61, denoting issues with data transfer via Can Bus. Shipboard technical expertise on the LMI system is beyond current capabilities and requires on-site OEM technical assistance to diagnose and correct system operation. Tasks. The contractor shall provide labor services, which includes the following: Coordinate field visit for an authorized or certified OEM technical representative. Services must be conducted in the presence of designated USCG personnel. Specific location instructions will be provided by USCG Technical Points of Contact (TPOCs) the Contractor is approved for services by a warranted Contracting Officer (KO). USCG personnel will operate all shipboard machinery and equipment. USCG personnel will secure and tag applicable equipment prior to the start of any work. Observe safety precautions when working with electrical and electronic equipment. Failure to comply exposes personnel to the danger of electrical shock and personal injury. In presence of designated USCG technician(s), and in accordance with applicable references listed in section 2 of this document and OEM standards, the Contractor shall perform the following: Conduct an initial and final operational test of equipment. If unable to perform an initial operational test due to equipment issues, the requirement may be waived only by the listed USCG TPOCs and KO. The final operational test must be performed to demonstrate satisfactory operation of equipment and resolution of issues. The contractor shall receive government furnished property from USCG personnel, if applicable per section 5 of this document. Provide a Material Receiving Report, or similar, to the listed TPOCs within 24 hours of receipt. Troubleshoot, diagnose, and adjust the LMI system and related components to identify and correct issues with the equipment for the knuckle boom cranes onboard the ship. Commission and calibrate LMI console modules according to manufacturer instructions. For planning and estimating purposes, the base requirement shall include travel and up to 3 days of field services. Pricing for any additional travel costs, material, or field service days will be requested and handled by the KO under the terms of the contract. Any repairs beyond the base scope identified because of the troubleshooting shall be documented in a Condition Found Report (CFR) with a technical description of the recommended repairs. The CFR shall be provided to the TPOCs and the Contracting Officer. Any additional work will be authorized only by the KO through a written contract modification. The contractor shall not perform any repairs beyond the base scope until specifically authorized in writing by the KO. If the Government elects to proceed with additional repairs, the KO will issue a written contract modification that identifies the authorized additional work and associated firm fixed price. The contractor shall base any proposal for additional repairs on the findings in the CFR. Provide a copy of the invoice and trip report to USCG TPOCs. The trip report shall include at least the following: service dates and location, issue description with any errors/symptoms, troubleshooting steps, findings, resolution, and recommendations (if any). If additional parts are required to complete the repairs identified in a CFR, the contractor's report shall include a detailed Bill of Materials (BOM). This BOM must list the specific manufacturer part number, a technical description, and the quantity required for each component. Government Furnished Property (GFP). The Government will furnish and provide the following to the contractor under this requirement: Console Mentor QVGA, Qty 2, P/N: 024-183-061-001 Can Bus Cables: Qty 2, P/N: 64514; Qty 1, P/N: 64515; Qty 1, P/N: 64516; Qty 2, P/N: 64517 Inductive Sensors: Qty 2, P/N: 257837 Security Requirement. Access to government facilities is required. Contractors shall have a valid government issued ID (or driver’s license) and show identification at the security gate. Contractor must provide full name, date of birth, and driver’s license #. Only REAL ID Act compliant driver’s licenses and ID cards are authorized for base access. For security processing, USCG recommends contractors with U.S. citizenship. Upon request, USCG members can escort contractors on and off the facility. Place of Performance. USCGC Polar Star at USCG Base Seattle. Address: 1519 Alaskan Way S, Seattle, WA 98134 Period of Performance. 20-24 April 2026 Technical Points of Contact. USCG-SFLC-LREPL, Asset Manager: LT Mikael Axelsson, Mikael.J.Axelsson@uscg.mil, (571) 607-1134 USCGC Polar Star, Engineer Officer: LCDR Josh Herring, Joshua.C.Herring@uscg.mil USCGC Polar Star. Assistance Engineer Officer: LT Andrea Harris, Andrea.M.Harris@uscg.mil Notes. The cranes are manufactured by Allied Systems Company, model # K280-70. The serial numbers (S/Ns) for each knuckle boom crane, starboard and port, are 2204 and 2207, respectively. The load moment indicator console modules are manufactured by WIKA/Hirschmann, P/N: 024-183-061-001, Console Mentor QVGA. Each module is flashed for Allied crane /Ns 2204 and 2207. The S/Ns for new Mentor consoles are 85602BPZ and 856025HV. Pictures Data nameplate for replacement LMI to port side, knuckle boom crane. Front side of replacement LMI to port side, knuckle boom crane. Data nameplate for replacement LMI to starboard side, knuckle boom crane. Data nameplate for old LMI to port side, knuckle boom crane. Front side of old LMI to port side, knuckle boom crane. Please see attachment for pictures
+
+## Contacts
+
+- Primary Contact:
+  - Name: McTague, Sean
+  - Email: Sean.P.McTague@uscg.mil
+  - Phone: 15716143888
+- Secondary Contact:
+  - Name: ULISES BALMACEDA
+  - Email: Ulises.O.Balmaceda@uscg.mil
+  - Phone: 2068200307
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: pictures
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7e326a228b06498ab47f1822c322b47f/view)

@@ -1,0 +1,28 @@
+---
+layout: default
+title: Meats 3rd Qtr FPC Montgomery
+agency: JUSTICE, DEPARTMENT OF
+notice_type: Combined Synopsis/Solicitation
+notice_id: d4f72c87b6174c2093808e9274490a3a
+---
+
+# Meats 3rd Qtr FPC Montgomery
+
+- Agency: JUSTICE, DEPARTMENT OF
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-03-30 11:16:45.534-04
+- Solicitation Number: 15B31126Q00000017
+
+## Summary
+
+March 4, 2026 Dear Sir or Ma'am, Enclosed is a solicitation package prepared by the Federal Bureau of Prisons Acquisition office. This solicitation is for the acquisition of various food service products for our facility. Our physical location is Federal Prison Camp Montgomery, Bldg. 1249 Maxwell AFB, Montgomery AL 36112. This package contains all the necessary information for submitting a request for quote for evaluation. In submitting the request for quote, please consider all information provided herein. Carefully follow all instructions located in the solicitation package concerning the content, format and submission of your quote. All potential bidder(s) are advised that this solicitation includes the clause FAR 52.212-4 for commercial items. Bidder(s) should include their Data Universal Number System (DUNS) number in their offers. As of October 2012, all vendors participating shall be registered on the SAM website www.sam.gov. The contracting Officer will verify registration in the SAM database prior to award by entering the potential awardee's DUNS number into the SAM database. Failure to complete the registration procedures outlined in this clause may result in elimination from consideration for award. As of January 1, 2005, all potential bidder(s) are required to complete the annual Representations and Certifications Application (ORCA), which should be completed at http://orca.bpn.gov. This information is included in this solicitation in the provision FAR 52.212-1 Instructions to bidder(s) - Commercial Items. Once you have completed the ORCA requirement, you are no longer required to submit 52.212-3 Offers Representations and Certifications with your quote. Failure to complete either of these registration procedures outlined in this solicitation may result in elimination from consideration for award. The government reserves the right to award item by item, or in groups of items, or in aggregate, whichever is most advantageous to the Government. Items delivered will be accepted in accordance with FAR 52.211-16, Variation in Quantity at 10 percent. Excess items over the exact quantity ordered will be returned at the contractor's expense or retained without compensation to the contractor. Offers shall be received on or before the deadline of March 13, 2026, at 15:00 PM Central Standard Time. The only method of receipt is Email: pmcknight@bop.gov. Please do not submit quotes to any other email other than the one listed above. Quotes received after the deadline or to another email will not be considered. Please place any questions you may have in writing by email to jmferguson@bop.gov. I will consider all questions received and provide responses, where appropriate. Please be sure to have read the cover letter, solicitation, specifications and delivery schedule, if the answer is addressed in those documents, you will not receive a response. If you are bidding alternate packaging and/or specifications it must clearly be marked and show what the differences are. You will be responsible for providing the correct prices to match our units of measurement. If you do not supply an item or meet the attached delivery schedule it will be noted as a performance issue. All quoted prices should not have more than two (2) decimal points. All orders over $15,000.00 will be placed on SF-1449. All orders under $15,000.00 will be placed on a government purchase card unless otherwise authorized by the contracting officer. All Government purchase card and SF-1449 transactions are fill or kill. Awarded pricing will only be available at www.beta.sam.gov, on or about April 1st - 15th, 2026. The evaluation factors are past performance and price. Past performance will be rated higher than price. The Government will award the responsible bidder(s) whose offer conforms to the solicitation and is considered to be the most advantageous to the Government. Goods are to be delivered from April 1st - 15th, 2026, Monday through Friday between 7:30 a.m. and 1:00 p.m., excluding Federal Holidays. Undelivered items are subject to cancellation. Failure to deliver within the established time frames will be considered as non-conformance under the terms of the contract. Sincerely, P. Scott Procurement and Property Specialist
+
+## Contacts
+
+- Primary Contact:
+  - Name: P. Scott
+  - Email: pmcknight@op.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d4f72c87b6174c2093808e9274490a3a/view)

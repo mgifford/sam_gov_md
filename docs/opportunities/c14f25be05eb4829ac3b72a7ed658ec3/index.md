@@ -1,0 +1,33 @@
+---
+layout: default
+title: DRYDOCK: USCGC HADDOCK DD FY2027
+agency: HOMELAND SECURITY, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: c14f25be05eb4829ac3b72a7ed658ec3
+---
+
+# DRYDOCK: USCGC HADDOCK DD FY2027
+
+- Agency: HOMELAND SECURITY, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-03-30 15:15:12.992-04
+- Solicitation Number: 70Z08026PBPLHADDOCK
+
+## Summary
+
+This is a SOURCES SOUGHT NOTICE / REQUEST FOR INFORMATION; not a pre-solicitation notice or solicitation for proposals/quotations. The Period of Performance is anticipated to be 91 calendar days with a start date of 03 November 2026 and end date of 2 February 2027. (Subject to change at the discrection of the Government)
+
+## Contacts
+
+- Primary Contact:
+  - Name: Maggie Trader
+  - Email: Maggie.L.Trader@uscg.mil
+  - Phone: 7576284957
+- Secondary Contact:
+  - Name: LaToya Sorrell
+  - Email: Latoya.N.Sorrell@uscg.mil
+  - Phone: 2068273116
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c14f25be05eb4829ac3b72a7ed658ec3/view)

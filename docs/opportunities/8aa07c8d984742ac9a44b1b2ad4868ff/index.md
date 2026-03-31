@@ -1,0 +1,29 @@
+---
+layout: default
+title: Military Working Dog Kennel Hunter Army Airfield, Savannah, Georgia
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 8aa07c8d984742ac9a44b1b2ad4868ff
+---
+
+# Military Working Dog Kennel Hunter Army Airfield, Savannah, Georgia
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-03-30 12:15:42.563-04
+- Solicitation Number: W912HN26BA003
+
+## Summary
+
+The US Army Corps of Engineers (USACE), Savannah District, has a new requirement to award a Firm Fixed Price Contract to construct a SOF Military Working Dog (MWD) Kennel (approximately 11,000 SF) at Hunter Army Airfield, GA to include kennel administration offices, veterinary exam and surgical suite, isolation area, operating room, TA-50 locker area, latrines with showers, tack room, food preparation and storage areas, indoor and outdoor kennels, and building utility support areas. Built- in building systems include fire alarm/mass notification, fire suppression, HVAC, energy management control system, electrical systems, and communications networks. Supporting facilities include site preparation, utilities, vehicle parking, access drives, curb and gutter, sidewalks, storm drainage, landscaping, and other site improvements. Includes demolition of old kennel adjacent to the site.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Sarai Hayward
+  - Email: sarai.hayward@usace.army.mil
+  - Phone: 9126525348
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8aa07c8d984742ac9a44b1b2ad4868ff/view)

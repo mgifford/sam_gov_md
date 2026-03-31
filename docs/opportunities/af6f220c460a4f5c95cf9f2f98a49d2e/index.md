@@ -1,0 +1,31 @@
+---
+layout: default
+title: Design Build and Design Bid Build Indefinite Delivery Indefinite Quantity Multiple Award Construction Contract for Naval Air Station (NAS) Jacksonville, FL and Naval Station (NS) Mayport, FL
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: af6f220c460a4f5c95cf9f2f98a49d2e
+---
+
+# Design Build and Design Bid Build Indefinite Delivery Indefinite Quantity Multiple Award Construction Contract for Naval Air Station (NAS) Jacksonville, FL and Naval Station (NS) Mayport, FL
+
+- Agency: DEPT OF DEFENSE
+- Type: Presolicitation
+- Posted: 2026-03-30 15:47:33.803-04
+- Solicitation Number: N6945026R0011
+
+## Summary
+
+The Naval Facilities Engineering Systems Command Southeast (NAVFAC SE) has been tasked to develop, solicit and award a competitively negotiated Design-Build (DB) and Design-Bid-Build (DBB) Indefinite-Delivery, Indefinite-Quantity (IDIQ) Multiple Award Construction Contract (MACC) for new construction, renovation, alteration and repair for general construction projects located at NAS Jacksonville, FL, NS Mayport, FL, and in other locations in the area of operations of NAVFAC SE if deemed necessary and approved by the NAVFAC SE Chief of Contracting Office. A Sources Sought Notice for this requirement was posted on SAM.gov under solicitation N69450-25-R-JMMC on August 26, 2025, requesting small business industry interest and capability statements. Based upon responses from the Notice, the Government concluded that there was enough evaluated small businesses that could meet the minimum requirements and qualifications. Accordingly, the Request for Proposal (RFP) will be issued as a competitive small business set aside. All responsible small businesses with the specialized experience and qualifications required by the RFP may submit a proposal to be considered by the Agency. The NAICS code for this IDIQ MACC solicitation is 236220, with a size standard of $45,000,000 ($45M). The Government intends to award approximately five (5) contracts resulting from this solicitation to the responsible offerors whose proposals represent the best value after evaluation in accordance with the factors and their relative importance in the solicitation. Each MACC will have a duration period of one (1) base year and four (4) consecutive option years, totaling five (5) years or an aggregate maximum not-to-exceed (NTE) amount of $249,000,000 ($249M) for all contracts, whichever comes first. Task orders will be firm-fixed-priced, with a minimum value of $350,000 and a maximum value of $10,000,000 ($10M); however, task orders under or over these amounts may be considered if deemed to be in the Government’s best interest and approved by the NAVFAC SE Chief of Contracting Office. Construction projects are planned to be issued as task orders under the MACCs. The work to be performed consists of general building-type projects (new construction, renovation, and demolition) including but not limited to: aviation and aircraft facilities; warehouse, supply, and other industrial facilities; barracks, dormitories, and personnel housing facilities; administrative facilities; training facilities; personnel support and service facilities; maintenance facilities; research facilities; commissaries and retail; medical facilities; waterfront facilities; and other similar types of facilities for NAS Jacksonville, FL and NS Mayport, FL. Projects may require either single discipline or multi-discipline (more than 3 major design disciplines) design services or may include 100% construction performance specifications. Projects may be based on design-build or full plans and specifications delivery method and may also require comprehensive interior design and incorporation of sustainable features. The source selection method to be used is a best value continuum process in a negotiated, two-phase acquisition utilizing the trade-off approach. Formal two-phase source selection will be used to select the proposals that provide the best value to the Government from a technical and price standpoint. In accordance with FAR Subparts 15.1 and 15.2, a trade-off approach to source selection will be used for this solicitation with respect to the initial award. Offerors selected to proceed to Phase Two will be required to submit technical and price proposals for a seed project task order, which will be identified prior to entering into Phase Two. Offerors who fail to submit technical and price proposals will not be considered for an award. The offeror with the best value proposal for the seed project will be awarded an IDIQ contract under the MACC and the seed project task order, subject to funding availability. The remaining selected offerors will be awarded an IDIQ contract under the MACC and a minimum guarantee task order of $1,000.00. This will be an electronic solicitation, which will be posted to Contract Opportunities on the SAM.gov website via the Procurement Integrated Enterprise Environment (PIEE) Solicitation Module. The solicitation will be available no earlier than 15 days after this pre-solicitation notice is posted. A Pre-Proposal Conference and Site Visit will be held for those offerors chosen to participate in Phase Two, with the exact date and time specified in the Phase Two solicitation. Offerors are responsible for checking the SAM.gov website for the solicitation and any subsequent amendments that may be issued. NO CONTRACT AWARD WILL BE MADE TO ANY CONTRACTOR THAT IS NOT REGISTERED OR IN THE PROCESS OF REGISTERING WITH THE SYSTEM FOR AWARD MANAGEMENT (SAM). PLEASE VISIT THE SAM WEBSITE AT https://www.sam.gov FOR INSTRUCTIONS ON HOW TO REGISTER. Phase-One proposals will be due no earlier than 30 days after the solicitation is released. The exact date and time will be specified in the Phase One solicitation. Proposals must be submitted electronically via PIEE.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Darrien Thomas
+  - Email: darrien.a.thomas.civ@us.navy.mil
+- Secondary Contact:
+  - Name: Lindsay Betteridge
+  - Email: lindsay.e.betteridge.civ@us.navy.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/af6f220c460a4f5c95cf9f2f98a49d2e/view)

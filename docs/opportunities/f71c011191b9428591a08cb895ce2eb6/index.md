@@ -1,0 +1,29 @@
+---
+layout: default
+title: U.S. Government Seeks Office Space in Independence, Ohio
+agency: GENERAL SERVICES ADMINISTRATION
+notice_type: Presolicitation
+notice_id: f71c011191b9428591a08cb895ce2eb6
+---
+
+# U.S. Government Seeks Office Space in Independence, Ohio
+
+- Agency: GENERAL SERVICES ADMINISTRATION
+- Type: Presolicitation
+- Posted: 2026-03-30 12:40:50.787-04
+- Solicitation Number: 4OH0402
+
+## Summary
+
+Statement of Requirements: The U.S. Government currently occupies office and related space in a building under lease in Janesville, Wisconsin that is expiring. The Government is considering only alternative space if economically advantageous. In making this determination, the Government will consider, among other things, the availability of alternate space that potentially can satisfy the Government requirements, as well as costs incurred through relocating, such as physical moving costs, replication of tenant improvements and telecommunications infrastructure, and non-productive agency downtime. The Government requires $60.67 per usf, $346,789.72, for tenant improvement allowance. City, State: Independence, Ohio Delineated Area: North I 480, East Rte. 21, West Rte.42, South I 80 Minimum Sq. Ft. (ABOA): 5,716 USF Maximum Sq. Ft. (ABOA): 6,287 USF Maximum Sq. Ft. (RSF): 6 573 RSF Space Type: Office and Related Space Parking: 14 Full Term: 10 years Firm Term: 5 years Option Term: N/A Additional Requirements: Space must be located in a prime commercial office district with attractive surroundings with a prevalence of modern design and/or tasteful rehabilitation in modern use. Space shall be located in a professional office setting and preferably not within close proximity to residential areas, railroad tracks or power transmission lines, in a strip mall or basement. Space will not be considered where any living quarters are located within the building. Space shall not be located within the 100-year flood plain or wetland unless the Government has determined it to be the only practicable alternative. Space should not be located near establishments whose primary operation is the sale of alcoholic beverages, firearms sold/discharged, or where there are tenants related to drug treatment or detention facilities. Employee and visitor entrances of the Building must be connected to public sidewalks or street by continuous, accessible sidewalks. Regularly scheduled public transportation (if provided by municipality) during the workday is required within 1000 feet. Parking must be available per local code and be available within walkable 2 blocks or 600 feet from the building. The parking-to-square-foot ratio available on-site shall at least meet current local code requirements. Restricted or metered parking of one hour or less within the two-block area of the space does not meet parking requirements. Subleases are not acceptable. Office space must be contiguous, on one floor. Space configuration shall be conducive to an efficient layout. Consideration for an efficient layout will include, but not be limited to the following: size and location of interior fire (support) walls, size and number of columns, column placement, bay depths, window size and placement, convector size and placement, electrical and telephone accessibility, and angles, curves or offsets that will result in an inefficient use of space. The following space configurations will not be considered: Space with atriums or other areas interrupting contiguous space, extremely long or narrow runs of space (more than twice as long as wide), irregularly shaped space configurations or other unusual building features adversely affecting usage. Columns size cannot exceed two (2') feet square and space between columns and/or walls cannot be less than twenty (20') feet The offered space must meet or be capable of meeting Government requirements for Security, Fire Life Safety and Handicapped Accessibility. If space offered is above ground level, at least two (2) accessible elevators will be required. The Government requires a fully serviced lease. All services, janitorial supplies, utilities and tenant alterations are to be provided as part of the rental consideration. The Government will have access to the space 24 hours a day, 7 days a week. Normal hours of operation are Monday through Friday 6:00 a.m. to 6:00 p.m. (excluding Saturdays, Sundays and Federal Holidays). Expressions of Interest should include the following: Building name and address and location of the available space within the building. The building site/lot plans, interior building layout drawings/pictures (with dimensions shown preferably) reflecting the space that is being offered. Identification of public transit routes/stops near the property offered. Rentable square feet available, and expected rental rate per rentable square foot, fully serviced. ANSI/BOMA office area (ABOA) square feet to be offered, and expected rental rate per ABOA square foot, fully serviced. Indicate whether the quoted rental rate includes an amount for tenant improvements and state the amount, if any. Date of space availability. Building ownership information. Amount of parking available on-site. Projected Dates. Expressions of Interest Due: April 17, 2026 at 4 PM CST Occupancy (Estimated): August 1, 2026 Government Contact. In no event shall the offeror enter into negotiations or discussions concerning the space to be leased with representatives of any Federal Agency other than the officers and employees of the General Services Administration (GSA) or their authorized representative. Submit Expressions of Interest to: June Beecham, Leasing Contracting Officer Cell 312-636-7485 June.Beecham@gsa.gov
+
+## Contacts
+
+- Primary Contact:
+  - Name: June M. Beecham
+  - Email: June.Beecham@gsa.gov
+  - Phone: 3126367485
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f71c011191b9428591a08cb895ce2eb6/view)

@@ -1,0 +1,31 @@
+---
+layout: default
+title: 6515--VISN 1 Robot Delivery System BPA
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: 6c7aa08fed854f8ea906ab8cfca9293e
+---
+
+# 6515--VISN 1 Robot Delivery System BPA
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-03-30 16:11:03.642-04
+- Solicitation Number: 36C24126Q0372
+- Awardee: null
+
+## Summary
+
+The Department of Veterans Affairs, VISN 1 New England Healthcare System, intends to issue a solicitation for the procurement, installation, training, and support of an enterprise wide Autonomous Mobile Robot (AMR) Delivery System. This requirement will establish a Blanket Purchase Agreement (BPA) covering all VISN 1 Medical Centers. The forthcoming solicitation will be issued as a competitive procurement. Scope of Requirement VISN 1 intends to replace its aging fleet of AMRs with a modern, fully integrated robotic delivery solution. The contractor shall furnish all equipment, infrastructure, accessories, installation services, training, technical support, maintenance, documentation, and system configuration necessary to deploy a fully functional AMR system across participating medical centers. The solution will support autonomous delivery of medications, specimens, supplies, materials, and similar items throughout VA medical facilities. Major Requirements The forthcoming solicitation will require: Delivery and installation of new AMRs with advanced navigation, mapping, obstacle detection, and autonomous docking capability. All related infrastructure, communication equipment, docking stations, and system configuration. Development of facility specific mapping, routes, and travel paths. 24/7 remote monitoring, proactive maintenance, software updates, and technical support. Comprehensive training for Health Technology Management/Biomedical Engineering clinical staff, and physicians across all shifts. Full documentation including operator manuals, service guides, troubleshooting manuals, and installation diagrams. Trade in or disposal services for existing Aethon TUG robots. Compliance with all VA security, privacy, data protection, safety, and facility access requirements. Breakdown of Equipment & Services AMR System Equipment Includes all required AMR hardware and system components. Autonomous Mobile Robots (AMRs) with navigation, mapping, sensors, obstacle avoidance, charging/docking capabilities Accessories, radios, communication devices, PoE/IT support hardware All OEM operator and service manuals (hard + soft copies) New materials and parts delivered in OEM packaging System Installation, Configuration & Commissioning Complete turnkey installation of all AMRs and infrastructure. On site survey, mapping routes, interference scanning, infrastructure layout diagrams Delivery, installation, calibration, and commissioning of all AMRs and equipment Development of travel paths, software setup, and integration with doors and elevators Waste removal, site cleanup, and packaging disposal Project Management Covers oversight and coordination of the system rollout. Project manager, project timeline, coordination with VAMC departments and CORs Implementation plan, go live planning, roles/responsibilities Training Training for all required VA personnel. Technical training for HTM/Biomed to OEM equivalent service level (includes tools/test equipment) On site clinical training for technologists and physicians at go live and follow up sessions across all shifts Training materials and manuals Warranty & Preventive Maintenance Complete system warranty and routine service. OEM one year warranty covering all parts, labor, PMs, and travel Scheduled PM in accordance with manufacturer requirements Software updates, patching, and remote diagnostics during warranty Unscheduled Maintenance & Technical Support Support services outside normal PM. 24/7 monitoring, remote support, and technical issue resolution Required response times (1 hour phone response, 4 hour onsite if needed) Labor, parts, travel for unscheduled corrective maintenance Data Integration, Reporting & Cybersecurity Compliance For data reporting features and VA cybersecurity compliance. Real time monitoring, analytics, performance reporting, downtime tracking Chain of custody logging and data security compliance VPN requirements, diagnostics, compliance with VA Directive 6500, privacy/HIPAA requirements Trade In or Disposal of Existing TUG Robots As required by site. Trade in credit or disposal of Aethon TUG fleet Year 2 of Service Year 3 of Service Year 4 of Service Year 5 of Service All ongoing service, maintenance, and support functions described above apply annually for the duration of BPA ordering periods. Place of Performance The AMR system will support all VISN 1 medical centers, including Boston (Jamaica Plain, West Roxbury, Brockton), Providence, White River Junction, Manchester, Bedford, VA Maine, Central Western Massachusetts, and VA Connecticut (West Haven). Anticipated Contract Type A Blanket Purchase Agreement (BPA) is anticipated. Specific ordering procedures will be provided in the solicitation. Requested Capability Information The Government seeks capability information from contractors able to supply Autonomous Mobile Robots (AMRs) for VISN 1, including whether the AMRs and associated components offered are domestic or non domestic in origin. Vendors should briefly summarize their technical capability, relevant experience, delivery capacity, business size or socioeconomic status, and ability to comply with applicable trade or country of origin requirements. The full solicitation will be released at a later date on SAM.gov. Market Research Disclaimer This sources sought notice does not constitute a request for offers; the Government is seeking information solely to identify capable sources at this time.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Dewan Britton
+  - Title: Contract Specialist
+  - Email: Dewan.Britton@va.gov
+  - Phone: (910) 343-5300
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6c7aa08fed854f8ea906ab8cfca9293e/view)
