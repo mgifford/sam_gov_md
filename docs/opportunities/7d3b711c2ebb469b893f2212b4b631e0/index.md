@@ -1,0 +1,31 @@
+---
+layout: default
+title: Land Port of Entry Facility Expansion and Modernization Trout River, New York
+agency: GENERAL SERVICES ADMINISTRATION
+notice_type: Combined Synopsis/Solicitation
+notice_id: 7d3b711c2ebb469b893f2212b4b631e0
+---
+
+# Land Port of Entry Facility Expansion and Modernization Trout River, New York
+
+- Agency: GENERAL SERVICES ADMINISTRATION
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-03-31 13:32:23.084-04
+- Solicitation Number: 47PC0324R0010
+
+## Summary
+
+The U.S. General Services Administration (GSA), Public Buildings Service, Northeast and Caribbean Region is soliciting for a qualified General Contractor who can provide full construction services to expand and modernize the United States Land Port of Entry (LPOE) at Trout River, NY. The facility will incorporate and renovate the existing historic LPOE building in Trout River which is located near the United States / Canada border along New York State Route 30 in Constable, NY. The project scope includes expansion and modernization of existing LPOE facility with approximately 9,917 square feet of new additions and 7,748 square feet of historic renovation. The project is expected to include commercial and non-commercial vehicle inspection facilities on the New York Department of Transportation (NYSDOT) Route 30 Right of Way. The construction work includes but is not limited to: concrete footings, foundations, slabs, walkways, roadways, vehicle inspection canopies and inspection booths. Structural framing and installation of walls, ceilings, flooring, lighting, interior finishes, historic preservation, HVAC, electrical, plumbing, fire protection, and customer required infrastructure for IT, AV, and electronic security systems. Amendment 0001- Posted 08/06/2025 Attachment- First Site Visit Attendees list Amendment 0002- Posted 08/15/2025 Attachment- Second Site Visit Attendees list Attachment- First release of RFI answers Amendment 0003- Posted 8/29/2025 Attachments (A2-A12) - Addendum 1 Attachment - Second release of RFI answers Attachment - Boring Report CD10446E-01-08-23 Amendment 0004- Posted 8/29/2025 Attachments B1-B10 1932 Original Construction Drawings-Architecture- for reference only Attachments C1-C10 1932 Original Construction Drawings-Engineering- for reference only Amendment 0005- Posted 9/05/2025 Attachment - Third release of RFI answers Attachment - CT50964CE- Hazmat Report-01-06-24 Attachment - Flex Lane Solution_100_20210609 Attachment - Rev_1.1_New.ANO.RPM8_Installation_Manual Amendment 0006- Posted 9/10/2025 Attachment - Solicitation GC Trout River LPOE rev. 1 - 09102025 Attachment - Draft Agreement GC Trout River LPOE rev. 1 - 09102025 Attachment - Trout River LPOE GC- Pricing Sheet-rev. 1 - 09102025 Amendment 0007- Posted 9/11/2025 Attachment - Fourth release of RFI answers Amendment 0008- Posted 9/18/2025 Attachment - Fifth release of RFI answers Attachment - Trout River LPOE GC- Pricing Sheet-REVSION 2 - 09182025 Amendment 0009- Posted 9/25/2025 Amendment 0010- Posted 10/01/2025 Attachment - Sixth release of RFI answers Attachments (D1-D14) - Addendum 2 Amendment 0011- Posted 10/09/2025 Attachment - Seventh release of RFI answers Amendment 0012- Posted 10/10/2025 Attachment - Table of Contents - Specifications Attachment - D14-20250930_Structural Drawings RESIZED Amendment 0013- Posted 10/16/2025 Attachment - Eighth release of RFI answers Amendment 0014- Posted 03/04/2026 Attachment- Updated Wage Det NY20260120 Franklin County- Building Attachment- Updated Wage Det NY20260035 Frankin County- Heavy and Highway Amendment 0015- Posted 03/31/2026
+
+## Contacts
+
+- Primary Contact:
+  - Name: Lisa Zalar
+  - Email: lisa.zalar@gsa.gov
+- Secondary Contact:
+  - Name: Winnie Eng
+  - Email: winnie.eng@gsa.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7d3b711c2ebb469b893f2212b4b631e0/view)

@@ -1,0 +1,31 @@
+---
+layout: default
+title: J065--VECTor 6/CT/OI System Maintenance and Service
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: 5903e707033d46c8ba135fd4235bae47
+---
+
+# J065--VECTor 6/CT/OI System Maintenance and Service
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-03-31 12:29:34.481-04
+- Solicitation Number: 36C25526Q0293
+- Awardee: null
+
+## Summary
+
+SOURCES SOUGHT NOTICE REQUEST FOR INFORMATION (RFI)/SOURCES SOUGHT VECTor 6/CT/OI System Maintenance and Service THIS IS A REQUEST FOR INFORMATION (RFI) / SOURCES SOUGHT NOTICE ONLY. This is not a solicitation for bids, proposals, proposal abstracts, or quotations. The purpose of this RFI/Sources Sought Notice is for market research purposes only, to obtain information in regards to the availability of specified products, services, or a combination of both products and services, and to identify potential sources capable of providing products or performing services in accordance with the requirements below. Responses to this notice will be used by the Government to make appropriate acquisition decisions. DISCLAIMER: This RFI/Sources Sought Notice is issued solely for information and planning purposes only and does not constitute a solicitation. All information received in response to this RFI/Sources Sought Notice that is marked as proprietary will be handled accordingly. Responses to this notice are not offers and cannot be accepted by the Government to form a binding contract. Responders are solely responsible for all expenses associated with responding to this RFI. If a solicitation is issued it shall be published at a later date and all interested parties must respond to that solicitation announcement separately from the response to this RFI/Sources sought notice. Responses to this sources sought notice are not a request to be added to a prospective bidders list or to receive a copy of the solicitation. Submission of price, delivery, capabilities, and other market information are authorized. However, responses to these notices are notÂ offersÂ and cannot be accepted by the Government to form a binding contract IAW FAR 15.201(e). The purpose of this sources sought/RFI is to gain knowledge of potential qualified sources and their size classification relative to NAICS 811210 (size standard of $34 Million). DESCRIPTION: The Department of Veteran Affairs, Network Contracting Office 15 (NCO 15) is seeking sources that can provide VECTor 6/CT/OI System maintenance and service in accordance with (IAW) the below requirement and North American Industry Classification System (NAICS) code 811210 with a size standard of $34 Million. The contractor shall provide a Full-Service maintenance plan for the MILabs VECTor-6/CT/OI system to ensure continuous operational readiness and compliance with safety and quality standards. The goal is to minimize downtime, maintain system performance, and support VA research objectives through comprehensive technical support, preventative maintenance, corrective repairs, and software updates/upgrades. The contractor shall: Perform two preventative maintenance (PM) visits per year, including system checks, safety and quality control, and replacement of wear-and-tear parts (consumables excluded). Provide corrective service and repairs, including all parts (vacuum components, crystals, X-ray sources), labor, travel, and lodging. Deliver remote technical support within four (4) hours of notification and on-site service within two (2) business days if remote resolution is not possible. Install all software updates, bug fixes, and upgrades during site visits or remotely. Provide application support and operational guidance to VA research staff as needed. Supply service reports for each visit and maintain availability of parts and service. All travel and lodging expenses for scheduled PM and corrective service visits are included in the contract price. No separate reimbursement by the Government. VENDOR RESPONSES If you are interested and are capable of providing the sought-out supplies/services, please provide the requested information as well as the information indicated below. 1. Company Name: 2. Company Address: 3. SAMS UEI: 4. Company POC: 5. Phone Number: 6. EMAIL: 7. Is your company considered a small business IAW the NAICS identified in this RFI/Sources Sought Notice? If so, please indicate the size status and representations of your business, such as but not limited to: Service-Disabled Veteran Owned Small Business (SDVOSB), Veteran Owned Small Business (VOSB), Hubzone, Woman Owned Small Business (WOSB), Large Business, etc.)? 8. If your company is considered a large business, does your company have any authorized small business service providers, and/or does your company sub-contract to small business concerns? a. If so, please provide the company name, company POC, and small business status (if available): 9. Is your company an authorized service provider (or equivalent) of the products and/or services identified in this sources sought? If so provide authorization letters and/or agreements from manufacturer. 10. Does your company alter, modify, or change the products identified in this sources sought? If so, please identify how the products are altered, modified, or changed. 11. Does your company currently hold a Federal Supply Schedule (FSS) contract with GSA, the VA National Acquisition Center (NAC), NASA SEWP, VA Strategic Acquisition Center (SAC), or have any other federal contract that can be utilized to procure the services identified in this sources sought? 12. Please submit a capabilities statement that provides clear, compelling, and convincing evidence that your company can meet the requirements outlined in this sources sought. Responses to this notice shall be submitted via email to Tracie Raggs at tracie.raggs@va.gov. Telephone responses shall not be accepted. Responses must be received no later than Wednesday, April 15, 2026, at 0800 CST.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Tracie Raggs
+  - Title: Contract Specialist
+  - Email: tracie.raggs@va.gov
+  - Phone: 913-946-1985
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5903e707033d46c8ba135fd4235bae47/view)

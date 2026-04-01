@@ -1,0 +1,28 @@
+---
+layout: default
+title: 43--PUMP,DISTILLED WATE, IN REPAIR/MODIFICATION OF
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: ebf365ed9c014b009d01f0375e71c9d4
+---
+
+# 43--PUMP,DISTILLED WATE, IN REPAIR/MODIFICATION OF
+
+- Agency: DEPT OF DEFENSE
+- Type: Presolicitation
+- Posted: 2026-03-31 17:01:28.051-04
+- Solicitation Number: N0010425QYD44
+
+## Summary
+
+NSN 7H-4320-011300015-CP, TDP VER 002, QTY 2 EA, DELIVER TO SW3117, DLA DISTRIBUTION NORFOLK VA, NORFOLK, VA 23511-0001, INDUCTION NIIN IS 7H, 4320, 011300015, CP, PUMP,DISTILLED WATE, 528P200
+
+## Contacts
+
+- Primary Contact:
+  - Name: SEANA STEINER, N741.8, PHONE (717)605-6561, EMAIL SEANA.M.STEINER.CIV@US.NAVY.MIL
+  - Email: SEANA.M.STEINER.CIV@US.NAVY.MIL
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ebf365ed9c014b009d01f0375e71c9d4/view)

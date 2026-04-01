@@ -1,0 +1,31 @@
+---
+layout: default
+title: Contractor Incentives (Seeking Industry Comments)
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: a8ef8ff516a54b1d92224943b130ca80
+---
+
+# Contractor Incentives (Seeking Industry Comments)
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-03-31 15:40:30.133-04
+- Solicitation Number: N0001426SS7001
+
+## Summary
+
+Subject: Request for Information (RFI) on Proposed Contractor Personnel Retention Incentive Language, N0001426SS7001 Agency: Office of Naval Research (ONR) The Office of Naval Research (ONR) is seeking comments from industry on proposed contract language designed to enhance deliverable quality and incentivize contractor personnel retention. ONR believes that high-quality, first-time-right procurement packages and continuity of contractor staff are key components of program success and mission readiness. We are considering the implementation of new quality metrics for Procurement Packages and Purchase Requests, alongside a new metric for "Annual Contractor Turnover Rate," to be included in future contracts. We invite our industry partners to review the proposed language and provide feedback on their structure, methodology, and potential impacts. All comments will be considered in the final formulation of these requirements. Section G - Additional Invoicing Instructions Contractors will be allowed to invoice up to 95% of their monthly allotment of funds for labor CLINs. Upon submission of the Contract Data Requirements List (CDRL) for procurement packages and purchase requests, the Contracting Officer's Representative (COR) will review and provide an approval within three (3) business days to the contractor regarding the remaining balance of the monthly invoice. See Section H for calculations and conditions related to quality metrics. Section H - Quality Requirements & Service Level Agreements 1. Quality Requirements Procurement Packages: The contractor shall deliver Procurement Requirements packages that are complete to enable Contracting and/or Grants Officers to process actions on the first submission (i.e., no rework from the Program Officer and/or Contract and/or Grants Officers is needed). Purchase Requests: The contractor shall deliver Purchase Requests that are complete to enable Contracting and/or Grants Officers to process actions on the first submission (i.e., no rework from the Program Officer and/or Contract and/or Grants Officers is needed). Reduction of Turnover (Annual): The contractor shall work to reduce contractor turnover on this requirement. 2. Service Level Agreement (SLA) & Invoicing Adjustments The quality metrics specified above are contractual requirements. The Contractor shall calculate these metrics on a monthly basis, and this calculation shall be used as the basis for invoicing. Procurement Packages: In any month where the metric for first-submission-acceptance falls below 100%, the contractor shall decrement their monthly invoice by 5%. Purchase Requests: In any month where the metric for first-submission-acceptance falls below 100%, the contractor shall decrement their monthly invoice by 2%. Proposed : Annual Contractor Turnover Rate 1. Overview The "Annual Contractor Turnover Rate" is a metric used to measure the rate at which contractors separate from the engagement over a defined twelve-month period. This language establishes the standardized formula and methodology for its calculation. 2. Methodology for Calculation The Annual Contractor Turnover Rate shall be determined according to the following procedure: (a) Determination of Measurement Period: The period for measurement shall be a rolling twelve (12) month timeframe, such as the Period of Performance. (b) Quantification of Contractor Separations: The total number of contractor separations will be formally tallied. A separation is defined as the voluntary or involuntary cessation of a contractual relationship for any reason during the specified Measurement Period. (c) Calculation of Average Contractor Headcount: The average number of contractors shall be computed by adding the total number of contractors actively engaged on the first day of the Measurement Period to the total number of contractors actively engaged on the final day of the Measurement Period, and subsequently dividing this sum by two. 3. Formula for Annual Contractor Turnover Rate The Annual Contractor Turnover Rate shall be expressed as a percentage and is to be calculated using the following formula: Annual Turnover Rate (%) = (Total Number of Contractor Separations / Average Number of Contractors) x 100 Example: If there are 100 contractors on day 1 and 110 contractors on the final day, the average headcount is 105. If 15 contractors separated during that period, the calculation would be: (15 / 105) x 100 = 14.29%. 4. Performance Incentive Contractors are expected to maintain high retention to ensure program stability. Contractors that cannot retain at least 90% of their staff (i.e., those with an Annual Contractor Turnover Rate exceeding 10%) during the Period of Performance shall be required to reduce the final invoice for that period by 5%. Request for Feedback: ONR welcomes all comments regarding these proposed language. We are particularly interested in feedback on the following: The fairness and clarity of the calculation methodologies for both quality and retention metrics. The impact of the 95% initial invoicing limit and 3-day COR approval timeline. Potential unintended consequences or operational challenges for contractors. The appropriateness of the invoice reduction percentages (5% for procurement packages, 2% for purchase requests, 5% for turnover). Suggestions for alternative approaches to incentivizing quality and retention. Please submit all comments and questions to Ms. Mimi Truman at vivian.m.truman2.civ@us.navy.mil NLT 1600 Eastern on 6 Apr 2026 (Monday).
+
+## Contacts
+
+- Primary Contact:
+  - Name: Vivian Truman
+  - Email: vivian.m.truman2.civ@us.navy.mil
+- Secondary Contact:
+  - Name: Dent, Mary Helen
+  - Email: mary.h.dent.civ@us.navy.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a8ef8ff516a54b1d92224943b130ca80/view)

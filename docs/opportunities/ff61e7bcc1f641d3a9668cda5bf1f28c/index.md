@@ -1,0 +1,31 @@
+---
+layout: default
+title: G099--HCHV IDIQ | B+4 | Guam Emergency Housing
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: ff61e7bcc1f641d3a9668cda5bf1f28c
+---
+
+# G099--HCHV IDIQ | B+4 | Guam Emergency Housing
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-03-31 15:21:50.063-04
+- Solicitation Number: 36C26126Q0553
+- Awardee: null
+
+## Summary
+
+THIS IS A SOURCES SOUGHT ANNOUNCEMENT ONLY. No Solicitation is currently available. All information contained in this Sources Sought Announcement is preliminary, as well as subject to modification, and is in no way binding on the Government. The Government will not pay for any information submitted in response to this request. The information requested will be used solely within the Department of Veterans Affairs to facilitate decision making and will not be disclosed outside of the Government. The determination of a procurement strategy, based upon the comments submitted in response to this Sources Sought Announcement, is solely within the discretion of the Government. The applicable North American Industry Classification System (NAICS) Code is 624221, Temporary Shelter, and the small business size standard is $13.5 Million. The Department of Veterans Affairs (VA) Network Contracting Office (NCO 21) is performing market research to determine if there are any vendors, regardless of business size, that can provide Health Care for Homeless Veterans (HCHV) CONTRACTED RESIDENTIAL SERVICES (CRS) EMERGENCY HOUSING GUAM for the Veteran Affairs Pacific Island Health Care System (VAPIHCS, as described below. A draft Performance Work Statement (PWS) is attached. Brief Description of Services See attached PWS Capability Statement All interested contractors must respond by email to Maricela.Berrones-Gauger@va.gov before 10:00 A.M. PST on April 14th, 2026. Please answer the following questions when responding: What is your company s Socioeconomic Status? (ex: small business, large business, SDVOSB, etc.) a. If SDVOSB or VOSB, are you registered with the Small Business Administration? Provide Company s legal name along with Unique Entity ID (SAM) number. Primary point of contact, including phone number and e-mail address. Capabilities Statement. Describe experience in providing Health Care for Homeless Veterans (HCHV) Contract Emergency Residential Services (CERS) as described in the attached description of services. List other Projects (Government and Commercial) that are similar in scope and size. As this is a service acquisition, the Small Business Administration and the Federal Acquisition Regulation have a Limitations on Subcontracting requirement. For all small businesses, to include SDVOSB and VOSB, At least 50 percent of the cost of contract performance incurred for personnel shall be expended for employees of the concern. See FAR 52.219-14 and FAR 52.219-27 available in full text at https://www.acquisition.gov/far/html/52_217_221.html 7a. Of the service actions listed above, which one(s) will your company perform as the prime contractor using its own personnel without subcontracting? 7b. With respect to the service actions listed above, which action(s) do you intend on subcontracting or using other than your company s own personnel? 7c. Of those services that will be performed, approximately what percentage will be paid to the subcontractor(s)? GSA Contract Number, if applicable. Will the Veterans housed under this requirement be in a double or single occupancy rooms? Do you currently own or lease a facility to house 5 veterans or beds for 5 veterans? If not, what is your plan to acquire a facility? Fill out the price estimate (5 ordering periods) below. *Failure to provide the information requested above (items 1-10) will be considered non-responsive and will not be considered a viable source. The Government will use this information when determining its business type decision. This synopsis is not to be construed as a commitment by the Government and no contract will be awarded as a direct result of this Sources Sought announcement. Notes: Contractors must have a current registration in the System for Award Management (SAM) at https://sam.gov/SAM/ SDVOSB and VOSB firms should be registered at the time of quote submission and SBA verified at SBA - Dynamic Small Business Search CLIN Description Quantity Unit Unit Price Total Price 0001 HCHV Contract Emergency Residential Services (CERS) Provide 5 beds per day to Homeless Veterans on a per diem basis in accordance with the PWS 5 beds x 365 day = 1,825days Projected Period of Performance Ordering Period 1: 08/01/2026 07/31/2027 1,825 Day $ $ 1001 HCHV Contract Emergency Residential Services (CERS) Provide 5 beds per day to Homeless Veterans on a per diem basis in accordance with the PWS 5 beds x 365 day = 1,825days Projected Period of Performance Ordering Period 2: 08/01/2027 07/31/2028 1,825 Day $ $ 2001 HCHV Contract Emergency Residential Services (CERS) Provide 5 beds per day to Homeless Veterans on a per diem basis in accordance with the PWS 5 beds x 366 day = 1,825days Projected Period of Performance Ordering Period 3: 08/01/2028 07/31/2029 1,830 Day $ $ 3001 HCHV Contract Emergency Residential Services (CERS) Provide 5 beds per day to Homeless Veterans on a per diem basis in accordance with the PWS 5 beds x 365 day = 1,825days Projected Period of Performance Ordering Period 4: 08/01/2029 07/31/2030 1,825 Day $ $ 4001 HCHV Contract Emergency Residential Services (CERS) Provide 5 beds per day to Homeless Veterans on a per diem basis in accordance with the PWS 5 beds x 365 day = 1,825days Projected Period of Performance Ordering Period 5: 08/01/2030 07/31/2031 1,825 Day $ $ Total Price $
+
+## Contacts
+
+- Primary Contact:
+  - Name: Maricela Berrones-Gauger
+  - Title: Contract Specialist
+  - Email: Maricela.Berrones-Gauger@va.gov
+  - Phone: 559-225-6100
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ff61e7bcc1f641d3a9668cda5bf1f28c/view)

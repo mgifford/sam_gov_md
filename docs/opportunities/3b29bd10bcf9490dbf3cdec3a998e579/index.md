@@ -1,0 +1,31 @@
+---
+layout: default
+title: 3930--FORKLIFT TOPEKA VA MEDICAL CENTER
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: 3b29bd10bcf9490dbf3cdec3a998e579
+---
+
+# 3930--FORKLIFT TOPEKA VA MEDICAL CENTER
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-03-31 12:36:09.168-04
+- Solicitation Number: 36C25526Q0302
+- Awardee: null
+
+## Summary
+
+THIS REQUEST FOR INFORMATION (RFI)/SOURCES SOUGHT DISCLAIMER This RFI is issued solely for information and planning purposes only and does not constitute a solicitation. All information received in response to this RFI that is marked as proprietary will be handled accordingly. Responses to this notice are not offers and cannot be accepted by the Government to form a binding contract. Responders are solely responsible for all expenses associated with responding to this RFI. The submission of pricing, capabilities for planning purposes, and other market information is highly encouraged and allowed under this RFI In Accordance With (IAW) FAR Part 15.201(e). SOURCES SOUGHT DESCRIPTION This is NOT a solicitation announcement. This is a RFI/sources sought only. The purpose of this sources sought/RFI is to gain knowledge of potential qualified sources and their size classification relative to NAICS 333924. Responses to this sources sought will be used by the Government to make appropriate acquisition decisions. After reviewing the responses to this sources sought, a solicitation announcement may be published. Responses to this sources sought synopsis are not considered adequate responses for a solicitation announcement. The Department of Veterans Affairs (VA), VISN 15 Network Contracting Office, is seeking sources that can provide the following: Forklift for the Topeka VA Medical Center at 2200 Gage Blvd Topeka, KS 66622. It is the responsibility of the interested source to demonstrate to the government that the interested parties can provide the supplies/services that fulfill the brand name. If you are interested and are capable of providing the sought-out supplies/services, please provide the requested information as well as the information indicated below. Response to this notice should include company name, address, point of contact, size of business pursuant to the following questions: Please indicate the size status and representations of your business, such as but not limited to: Service Disabled Veteran Owned Small Business (SDVOSB), Veteran Owned Small Business (VOSB), HUBZone, Woman Owned Small Business (WOSB), Large Business, etc.) Is your company considered small under the NAICS code identified under this RFI? Are you the manufacturer, distributor, or an equivalent solution to the items being referenced above? If you re a small business and you are an authorized distributor/reseller for the items identified above or an equivalent solution, do you alter; assemble; modify; the items requested in any way? If you do, state how and what is altered; assembled; modified? Does your company have an FSS contract with GSA, VA NAC, NASA SEWP, or any other federal contract, that can be utilized to procure the requirement listed above. If so, please provide the contract number. Please submit your capabilities that show clear, compelling, and convincing evidence that you can meet the requirements described in the attached SOW. Please provide your SAM s UEI number. Responses to this notice shall be submitted via email to Lisa Fischer at Lisa.Fischer1@va.gov. Telephone responses shall not be accepted. Responses must be received no later than Friday April 24th, 2026, by 1500 PM CST. If a solicitation is issued it shall be announced at a later date, and all interested parties must respond to that solicitation announcement separately from the responses to this sources sought. Responses to this sources sought notice are not a request to be added to a prospective bidders list or to receive a copy of the solicitation DEPARTMENT OF VETERANS AFFAIRS MEDICAL CENTER TOPEKA VA MEDICAL CENTER STATEMENT OF REQUIREMENT Replacement of Clark C35L Forklift The purpose of this procurement is to obtain an updated 10,000 lb. capacity forklift capable of completing heavy workloads. The contractor (as the manufacturer or an authorized distributor) shall install and deliver new equipment only. No refurbished, returned or used equipment is permitted. All equipment provided must also include training at no cost for grounds department staff to service/repair/maintenance the machine. The Vendor shall provide a name brand or equal to forklift with the following specifications and requirements that are equal to or similar: Lift capacity minimum of 10,000 lbs at 24 load center Turbocharged diesel engine for maximum durability Emissions are to be Tier 4 without the requirement of Diesel Particulate filter or ReGen Tilt steering Grab bar Electronic direction control Fully integrated gauge display/dashboard Diagnostic Warning Total height maximum of 91 or lower Two forward speeds Air filled tires 72 long forks Electronic backup alarm Deluxe lighting package Strobe warning light Dual panoramic mirror Four function mast (lift/lower, tilt forward/back, shift left/right, hydraulicly powered forks to narrow/widen to accommodate multiple widths of pallet without requiring the operator to leave the seat Minimum 12 month full warranty Consideration of the facilities current forklift for trade in value. Delivery: The machine will be delivered and installed at the Colmery O Neil VAMC in Topeka, KS. Service: Vendor must ensure that there is an available dealer of the brand of equipment within 30 miles of the campus for quick availability of parts, service and repair. Vendor must be within the VA s current approved vendor network.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Lisa Fischer
+  - Title: Contract Specialist
+  - Email: Lisa.Fischer1@va.gov
+  - Phone: 913-946-1993
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3b29bd10bcf9490dbf3cdec3a998e579/view)
