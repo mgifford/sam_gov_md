@@ -23,6 +23,8 @@
   - python scripts/persist_to_sqlite.py
 - High-value alert generation:
   - python scripts/generate_alerts.py --min-hits 8
+- USASpending market intelligence enrichment:
+  - python scripts/enrich_usaspending.py
 - Historical scan and report rebuild:
   - python scripts/scan_terms.py --md-dir data/samples_md --terms config/terms.yml --output data/term_scan_report.json
   - python scripts/analyze_matches.py
@@ -32,6 +34,7 @@
   - Processes daily feed
   - Persists to SQLite
   - Generates high-value alerts
+  - Enriches alerts with USASpending market intelligence (vendor landscape, contract counts)
   - Exports department trends and contract officer intelligence
   - Runs departmental forecasting
   - Creates GitHub issue for high-value matches (if any)

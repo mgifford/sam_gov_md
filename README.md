@@ -269,6 +269,24 @@ Alert artifacts:
 - `data/today/high_value_alert.md`
 - `data/today/alerts_summary.json`
 
+### USASpending Market Intelligence Enrichment
+
+```bash
+python scripts/enrich_usaspending.py
+```
+
+Reads `high_value_matches.json` and calls the free [USASpending API](https://api.usaspending.gov)
+for each unique NAICS + agency pair found in the high-value matches.
+No API key required.
+
+Enrichment artifacts:
+- `data/today/usaspending_enrichment.json` — per-match vendor landscape and contract counts
+- `data/today/high_value_alert.md` — rewritten to include a **Market Intelligence** section
+  per match showing 3-year agency contract counts and top vendors (gov-wide and agency-scoped)
+
+The enrichment step runs automatically in `ingest.yml` before the daily GitHub Issue is created,
+so every alert issue includes incumbent vendor context.
+
 ## 🌐 GitHub Pages Visualization
 
 A static dashboard is available in `docs/` to visualize counts, term matches, top records, and relationships.
