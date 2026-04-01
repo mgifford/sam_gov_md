@@ -49,6 +49,10 @@ jobs:
         run: |
           python scripts/generate_alerts.py --min-hits 8
 
+      - name: Enrich alerts with USASpending market intelligence
+        run: |
+          python scripts/enrich_usaspending.py
+
       - name: Export department trends
         run: |
           python scripts/export_trends.py
