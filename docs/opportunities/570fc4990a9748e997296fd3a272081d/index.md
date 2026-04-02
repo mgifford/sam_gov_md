@@ -1,0 +1,29 @@
+---
+layout: default
+title: Medicaid & CHIP DataConnect
+agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+notice_type: Justification
+notice_id: 570fc4990a9748e997296fd3a272081d
+---
+
+# Medicaid & CHIP DataConnect
+
+- Agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+- Type: Justification
+- Posted: 2026-04-01 07:07:30.173-04
+- Solicitation Number: 260436J
+
+## Summary
+
+The Medicaid & CHIP DataConnect (MAC-DC) platform is CMCS’s enterprise data and analytics environment for Medicaid and CHIP. It serves as the centralized platform where CMCS divisions access, analyze, manage, and publish Medicaid and CHIP data to meet statutory, regulatory, and Congressional reporting requirements. The platform hosts mandatory reporting processes such as MCPAR, CARTS, T-MSIS analytic files, EPSDT reporting, and other required oversight activities, as well as internal business intelligence efforts and the delivery of Medicaid and CHIP data to other CMS components. More than 450 CMCS users rely on DataConnect to operate dozens of live data pipelines, analytic workflows, and dynamic dashboards that support program monitoring, policy analysis, program integrity, and public transparency. The platform integrates data from across Medicaid and CHIP programs into a secure, governed cloud environment and provides the business intelligence tools and controlled access needed for divisions to carry out required reporting and oversight functions. This twelve-month follow-on task order (Period of Performance: 03/25/2026 – 03/24/2027) continues essential enterprise operations on Government-furnished infrastructure without expanding scope. Core services include operating and managing the enterprise data platform and BI tools on which CMCS divisions run required data intake, validation, analytics, and reporting processes; maintaining secure connections with contributing and consuming systems; sustaining continuous security monitoring and compliance within the existing ATO boundary; ensuring reliability and timeliness of production data and dashboards; supporting user onboarding and training; and maintaining governance standards that enable consistent, trusted use of Medicaid and CHIP data across the Center. The contractor also operates and supports the Lifeline API for the FCC as part of the broader DataConnect environment. All work is performed using Government-furnished systems and licenses, with no proprietary contractor platforms. The effort is severable and limited to continuity of current enterprise operations while CMS completes a competitive re-procurement under FAR Subpart 8.4. The requested follow-on task order introduces no new development or scope expansion. The original MAS award, made under FAR Subpart 8.4, established the technical, operational, and compliance baseline for MAC-DC services; this order continues those same services under the same performance and security parameters. Price reasonableness and best value were documented at award, and the current task order provides the appropriate basis for continuation. The current MACBIS DataConnect order was competitively awarded with CMS conducting a fair opportunity competition for severable services using procedures from FAR 8.405 for General Services Administration (GSA) Federal Supply Schedule (FSS) orders exceeding the Simplified Acquisition Threshold (SAT) and where a Statement of Objectives (SOO) is required. Awarding a logical follow-on task order under FAR 8.405-6(a)(1)(i)(C) is in the interest of economy and efficiency because the MAC-DC platform currently supports active, high-priority initiatives that are integral to CMS and HHS program oversight responsibilities. During this period, DataConnect will enable Rural Health Transformation Program reporting activities and advance the design and development of a new API in coordination with T-MSIS to strengthen fraud, waste, and abuse detection in Medicaid and CHIP, both as required under Section 71302 of the Working Families Tax Cuts Act (WFTCA). The platform will also support the launch of AI-driven data services for CMCS consistent with applicable Executive Orders and federal AI policy directives; enable the launch of public dashboards required under the Consolidated Appropriations Act; and complete the migration of analytic and reporting workloads from legacy SAS environments to Databricks in alignment with Department-led IT enterprise modernization and consolidation efforts. These initiatives are high visibility for CMS and HHS leadership and are embedded within ongoing platform operations supporting statutory reporting, program integrity, and public transparency. Transitioning to a new contractor during this period would require time-consuming knowledge transfer by the incumbent contractor and a substantial adjustment period for a successor contractor to onboard personnel, re-establish operational baselines, coordinate with numerous stakeholder components, and assume responsibility for a complex ecosystem of production data pipelines, platform services, and user-facing reporting processes. Such a transition would create a significant risk of delayed statutory reporting, postponed public dashboard releases, slowed fraud-detection enhancements, and disruption to AI service deployment. The operational and compliance risks associated with interruption during this high-priority implementation period are significant. Accordingly, maintaining the incumbent contractor for this limited follow-on period avoids substantial duplication of cost and unacceptable delay in performance, consistent with FAR 8.405-6(a)(1)(i)(C).
+
+## Contacts
+
+- Primary Contact:
+  - Name: Donald Bozimski
+  - Email: donald.bozimski@cms.hhs.gov
+  - Phone: 4107861355
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/570fc4990a9748e997296fd3a272081d/view)

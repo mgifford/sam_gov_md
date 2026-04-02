@@ -1,0 +1,31 @@
+---
+layout: default
+title: Defense Supply Center Richmond (DSCR) Replace 5th Floor Glass at Building 46
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: f4de65e1d1f24be78bca4ad8d7883219
+---
+
+# Defense Supply Center Richmond (DSCR) Replace 5th Floor Glass at Building 46
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-04-01 10:38:41.416-04
+- Solicitation Number: SP470326Q0022
+
+## Summary
+
+Update 1 April 2026 - RFI: 1. Frame Scope The SOW calls for frame and glass replacement. However, our team indicates the existing system may only require removal and reinstallation of framing components (not full replacement). Please confirm if this approach is acceptable. Response: The window and frame shall be replaced. 2. Glass Type G1 – Color Code The SOW references “Prussian Blue” frit, but no paint manufacturer or color code is provided. Please provide the required color code or let us know if an equivalent match can be submitted for approval. Response: We don't have any further information on the paint. -------------------------- Update 30 March 2026 - SOW revised to answer all RFI's from site visit. SOW rev 1 is the correct document of record. -------------------------- Update 10 March 2026 - Contractors are reminded to bring an 8' ladder. See site photos added to the attachments. --------------------------- Solicitation Defense Supply Center Richmond (DSCR) Replace 5th Floor Glass at Building 46 This is a solicitation for construction prepared in accordance with the format in FAR Part 36, as supplemented with additional information included in this notice. The solicitation number SP4703-26-Q-0022 is issued as a request for quote (RFQ). The resulting contract will be a firm-fixed price award with an expected Period of Performance of 45 days from the Notice to Proceed (NTP). This acquisition is set-aside for 100% small businesses. The North American Industry Classification System (NAICS) Code is 236220 (Office Building Repair). The small business size standard is $45M. Department of Labor Wage Determination based on location of the service provided (Chesterfield County, VA). Partial proposals will not be accepted. For an offer to be considered for award, the prime contractor must be within a commutable driving distance to the DSCR facility and hold an office publicly visible on SAM.gov to validate this claim. A 120-mile radius from DSCR is considered the commutable radius. The Contractor shall list the address from which mobilization occurs on their proposal. Award will be made to the lowest priced, technically acceptable (LPTA) offeror that meets the requirements stated in the Statement of Work and the solicitation. Also refer to clauses and provisions includes in this notice. Past performance will be considered a part of Technical Acceptability, and the Contracting Officer will pull contractor data from CPARS and SPRS. The contractor must be registered in the System for Award Management (SAM) prior to award. If not already registered in SAM, go to the SAM website www.sam.gov to register prior to submitting your quote. All inquiries must be submitted no later than 7 business days prior to closing date. Acceptable method of quote or inquiries submission is Email to brandon.jump@dla.mil. Site visit March 25, 2026 at 10:00am. Coordinate site access with Mike O’Connor at (804) 306-5273 or Michael.OConnor@dla.mil. Questions are due on March 26, 2026, end of day. Submit questions via email to Brandon.Jump@dla.mil. Quotes are due on April 3, 2026, end of day. Access to Defense Supply Center Richmond is dictated by the language at the following location: https://www.dla.mil/Aviation/Installation/Visitors-and-ID-Office/ The screening system will require visitors and contractors to pre-enroll in DBIDS (Defense Biometric Identification System). To begin the process, visitors and contractors will complete registration through the pre-enrollment website: https://dbids-global-enroll.dmdc.mil. Upon entry of their information, visiting personnel will be provided an electronic form to download, which will have an individualized barcode and alpha numeric code. The codes will be electronically sent to the visiting person’s sponsor. Once in receipt of the barcode, the sponsor will email Security and Emergency Services and provide the barcode and sponsorship information. Once the visitor/contractor is vetted and approved for installation access, Security & Emergency Services will notify the sponsor that the visitor/contractor can go to the DSCR Visitor Center to obtain his/her pass. At the Visitor Center, the visitor provides the barcode and code provided earlier in the process and completes the credentialing process. DBIDS enrollments shall be completed with five (5) days before the site visit. Period of Performance: 45 days from NTP MAGINITUDE OF CONSTRUCTION
+
+36.204 Disclosure of the magnitude of construction projects. | Acquisition.GOV In accordance with FAR Part 36.204(b), the estimated Magnitude of Construction for this project is between $25,000-$100,000. LIQUIDATED DAMAGES 52.211-12 Liquidated Damages-Construction. LIQUIDATED DAMAGES-CONSTRUCTION (SEPT 2000) (a) If the Contractor fails to complete the work within the time specified in the contract, the Contractor shall pay liquidated damages to the Government in the amount of _$500_ for each calendar day of delay until the work is completed or accepted. (b) If the Government terminates the Contractor’s right to proceed, liquidated damages will continue to accrue until the work is completed. These liquidated damages are in addition to excess costs of repurchase under the Termination clause. INSTRUCTIONS TO OFFERORS The Offeror shall submit their proposal to the Contracting Officer. In order to be considered Technically Acceptable, the Offeror shall submit all relevant information needed to reasonably assess this information against the Statements of Work. All sections of the Statements of Work will be considered, with specific emphasis on Sections 3- Specific Requirements and Sections 6 – Proposal Evaluation.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Brandon Jump
+  - Email: brandon.jump@dla.mil
+  - Phone: 4457374512
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f4de65e1d1f24be78bca4ad8d7883219/view)

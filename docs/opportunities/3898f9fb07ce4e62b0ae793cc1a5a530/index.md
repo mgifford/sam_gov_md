@@ -1,0 +1,54 @@
+---
+layout: default
+title: ELECTRONIC COMPONEN
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 3898f9fb07ce4e62b0ae793cc1a5a530
+---
+
+# ELECTRONIC COMPONEN
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-04-01 17:49:25.277-04
+- Solicitation Number: SPRMM126QGA77
+
+## Summary
+
+ITEM UNIQUE IDENTIFICATION AND VALUATION (JAN 2023)|19|||||||||||||||||||| INSPECTION OF SUPPLIES--FIXED-PRICE (AUG 1996)|2||| INSPECTION AND ACCEPTANCE - SHORT VERSION|8|x||x|||||| INSPECTION AND ACCEPTANCE OF SUPPLIES|26||||||||||||||||||||||||||| WIDE AREA WORKFLOW PAYMENT INSTRUCTIONS (JAN 2023)|16|INVOICE AND RECEIVING REPORT||TBD|SPRMM1|TBD|TBD|TBD|TBD|||TBD|||||TBD| ALTERNATE A, ANNUAL REPRESENTATIONS AND CERTIFICATIONS (OCT 2025)|13|X|X|X|||X|||||||| ANNUAL REPRESENTATIONS AND CERTIFICATIONS (MAR 2025)(DEVIATION 2025-O0003 AND2025-O0004))|13|334412|750|X|X|||||||||| NOTICE OF PRIORITY RATING FOR NATIONAL DEFENSE, EMERGENCY PERPARDENESS, AND ENRGY PROGAM USE (APRIL 2008))|2||X| 1. All contractual documents (i.e. contracts, purchase orders, task orders, Delivery orders, and modifications) related to the instant procurement are considered to be "issued" by the government when copies are either deposited in the mail, transmitted by facsimile, or sent by other electronic commerce methods, such as email. The government's acceptance of the contractor's proposal constitutes bilateral agreement to "issue" contractual documents as detailed herein. 2. Drawings or technical data are/are not available for this item. 3. Delivery days_________aro. 4. Offer valid for _____ days. 5. When submitting quotes via EDI, make sure you specify any exceptions (i.e. Mil specs/standards, packaging, I&A, packaging houses etc) or follow up with a hardcopy of the exceptions. If nothing is indicated or received, award will be based upon solicitation requirements. Changes or requests for changes after award will have consideration costs deducted on modifications. 6. If you are not the manufacturer of the material you are offering, you must state who the OEM is (CAGE code) and the part number you are offering. 7. Please provide an email address for follow up communications. ____________________________________________________________ 8. It is recommended that vendors provide contact information to NAVSUP WSS Mechanicsburg in order to receive automated notifications from Navy Electronic Commerce Online (NECO) when contracts/modifications are issued by DLA Maritime Mechanicsburg and posted on EDA. To receive these notifications, contact: NAVSUPWSS code 025, procurement systems design and contract support division Via email at NAVSUPWSSITIMPHelpdesk@navy.mil. Please include the following information with your request: CAGE code, company name, address and POC with phone number and email address. 9. Contractors can view their orders, contracts and modifications at the Electronic Document Access (EDA) web tool. This web tool is located at the Procurement Integrated Enterprise Environment (PIEE) website. It is recommended that the contractor register for EDA at https://piee.eb.mil/. Click on new user and registration. Any order resulting from this Request for Quotation will require electronicsubmittal of Receiving Report and Invoices through PIEE-WAWF. 10. The following website is provided to suppliers to obtain the full text ofthe DLA Procurement Notes listed below:http://www.dla.mil/HQ/Acquisition/Offers/eProcurement.aspxThe following DLA Procurement Notes are applicable to this requirement:E06 Inspection and Acceptance at Source (JUN 2018) DCMA electronic signature for inspections is mandatory prior to shipment, orpayment will not be issued through Wide Area Work Flow (WAWF). Please include complete the below for clear location inspection information: Source inspection of supplies: CAGE code __________ Final inspection of packaging: CAGE code ____________ \ 1. SCOPE
+
+1.1 This contract/purchase order contains the requirements for the ELECTRONIC COMPONEN . 2. APPLICABLE DOCUMENTS
+
+2.1 Applicable Documents - The document(s) listed below form a part of this contract/purchase order including modifications or exclusions. 2.1.1 "Document References" listed below must be obtained by the Contractor. Ordering information is included as an attachment to this contract/purchase order.
+
+2.2 Order of Precedence - In the event of a conflict between the text of this contract/purchase order and the references and/or drawings cited herein, the text of this contract/purchase order shall take precedence. Nothing in this contract/purchase order, however, shall supersede applicable laws and regulations unless a specific exemption has been obtained. DOCUMENT REF DATA=MIL-STD-130 | | |K |000115|A| | | 3. REQUIREMENTS
+
+3.1 Cage Code/Reference Number Items - The ELECTRONIC COMPONEN furnished under this contract/purchase order shall be the design represented by Cage Code(s) reference number(s). Cage _______ ref. no. ;04801 600-36050;
+
+3.2 Marking - This item shall be physically identified in accordance with MIL-STD-130.
+
+3.3 Changes in Design, Material Servicing, or Part Number - Except for a Code 1 change, which shall be processed as provided in the code statement shown below, no substitution of items shall be made until the NAVICP-MECH Contracting Officer has notified and approval has been given by issuance of a written change order. When any change in design, material, servicing or part number is made to replace or substitute any item to be furnished on this contract/purchase order, the Contractor shall furnish, for the substituting/replacement item, a drawing and an explanation of the reason for the change, explaining the reason therefor. If finished detail drawings are not available, shop drawings in the form used by the manufacturer will be acceptable for Government evaluation. When notifying the Procurement Contracting Officer of the reasons for making substitutions, the type of change shall be indicated by code number in accordance with one of the following statements: Code 1: PART NUMBER CHANGE ONLY - If the Manufacturer's Part Number indicated thereon has changed, but the parts are identical in all respects, supply the item and advise NAVICP-MECH immediately of the new part number. Code 2: Assembly (or set or kit) not furnished - Used following detail parts. Code 3: Part not furnished separately - Use assembly. Code 4: Part redesigned - Old and new parts are completely interchangeable. Code 5: Part redesigned - New part replaces old. Old part cannot replace new. Code 6: Part redesigned - Parts not interchangeable. 4. QUALITY ASSURANCE
+
+4.1 Responsibility for Compliance - All items must meet all requirements of this contract/purchase order. The inspection set forth in this specification shall become a part of the Contractor's overall inspection system or quality program. The absence of any inspection requirements shall not relieve the Contractor of the responsibility of assuring that all products or supplies submitted to the Government for acceptance comply with all requirements of the contract/purchase order. Sampling in quality conformance does not authorize submission of known defective material, either indicated or actual, not does it commit the Government to acceptance of defective material.
+
+4.2 Records - Records of all inspection work by the Contractor shall be kept complete and available to the Government during the performance of contract/purchase order and for a period of 365 calendar days after final delivery of supplies. 5. PACKAGING
+
+5.1 Preservation, Packaging, Packing and Marking - Preservation, Packaging, Packing and Marking shall be in accordance with the Contract/Purchase Order Schedule and as specified below. MIL-STD 2073 PACKAGING APPLIES AS FOUND ELSEWHERE IN THE SCHEDULE 6. NOTES
+
+6.1 Ordering Information for Document References - The Department of Defense Single Stock Point (DODSSP), Website http://www.dsp.dla.mil/, provides product information for the Department Of Defense Index Of Specifications and Standards (DODISS) (i.e.Military/Federal Specifications and Standards), Data Item Descriptions (DIDs), and other DODSSP Products. A. Availability of Cancelled Documents - The DODSSP offers cancelled documents that are required by private industry in fulfillment of contractual obligations in paper format. Documents can be requested by phoning the Subscription Services Desk. B. Commercial Specifications, Standards, and Descriptions - These specifications, standards and descriptions are not available from Government sources. They may be obtained from the publishers of the applicable societies. C. Ordnance Standards (OS), Weapons Specifications (WS), and NAVORD OSTD 600 Pages - These type publications may be obtained by submitting a request to: Commander, Indian Head Division, Naval Surface Warfare Center Code 8410P, 101 Strauss Avenue Indian Head, MD 20640-5035 D. On post-award actions, requests for "Official Use Only" and "NOFORN" (Not Releasable To Foreign Nationals) documents must identify the Government Contract Number, and must be submitted via the cognizant Defense Contract Management Command (DCMC) for certification of need for the document. On pre-award actions such requests must be submitted to the PCO for certification of need for the document. E. NOFORN Military Specifications and Standards (including Amendments, Change Notices and Supplements, but NOT interim Changes) to be ordered from: Contracting Officer NAVICP-MECH Code 87321 5450 Carlisle Pike P.O. Box 2020 Mechanicsburg, Pa. 17055-0788 F. Nuclear Reactor Publications Assigned NAVSEA Documents and Identification Numbers (i.e. NAVSEA Welding Standard, NAVSEA 250-1500-1) are to be ordered from: Commanding Officer NAVICP-MECH Code 009 5450 Carlisle Pike P.O. Box 2020 Mechanicsburg, Pa. 17055-0788 G. Technical Manuals Assigned NAVSEA Identification Numbers (i.e. NAVSEA Welding And Brazing Procedure, NAVSEA S9074-AQ-GIB-010/248) are to be ordered from: Naval Inventory Control Point Code 1 Support Branch 700 Robbins Avenue Phildelphia, Pa. 19111-5094 H. Interim Changes and Classified Specifications shall be obtained by submitting a request on DD Form 1425 to NAVICP-MECH.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Telephone: 4457372450
+  - Email: JACOB.GARLAND@DLA.MIL
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: this contract/purchase order
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3898f9fb07ce4e62b0ae793cc1a5a530/view)

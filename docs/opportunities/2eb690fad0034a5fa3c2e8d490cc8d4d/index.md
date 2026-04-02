@@ -1,0 +1,32 @@
+---
+layout: default
+title: 2BDE JCLC STEM CAMP (INVENTOR)
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 2eb690fad0034a5fa3c2e8d490cc8d4d
+---
+
+# 2BDE JCLC STEM CAMP (INVENTOR)
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-04-01 11:26:08.089-04
+- Solicitation Number: PANMCC26P0000041322
+
+## Summary
+
+This is a Sources Sought Notice ONLY. The U.S. Government desires to procure meals, lodging, and training support and facilities for cadets and cadre conducting a Junior Officer Reserve Training Corps (JROTC) Junior Cadet Leadership Challenge (JCLC) Science, Technology, Engineering and Mathematics (STEM) Camp (Inventor) from 10 to 30 June 2026.on a small business set-aside basis, provided two (2) or more qualified small businesses respond to this notice with information sufficient to support a set-aside. Be advised that the U.S. Government will not be able to set aside this requirement if two (2) or more small businesses do not respond with information to support the set-aside. We encourage all small businesses, in all socioeconomic categories (including, 8(a) Business Development Program, Small Disadvantage Business, Historically Underutilized Business Zone, Service-Disabled Veteran-Owned, Women-Owned Small Business concerns), to identify their capabilities in meeting the requirement at a fair market price. This notice is issued solely for information and planning purposes – it does not constitute a Request for Quote (RFQ)/Invitation for Bid (IFB)/Request for Proposal (RFP) or a promise to issue an RFQ, IFB or RFP in the future. This notice does not commit the U.S. Government to contract for any supply or service. Further, the U.S. Government is not seeking quotes, bids or proposals at this time and will not accept unsolicited proposals in response to this notice. The U.S. Government will not pay for any information or administrative costs incurred in response to this notice. Submittals will not be returned to the responder. Not responding to this notice does not preclude participation in any future RFQ or IFB or RFP, if any is issued. If a solicitation is released, it will be synopsized on the Government wide Point of Entry (GPE). It is the responsibility of potential offerors to monitor the GPE for additional information pertaining to this requirement. The anticipated NAICS code is 611310; This industry comprises establishments primarily engaged in furnishing academic courses and granting degrees at baccalaureate or graduate levels. The requirement for admission is at least a high school diploma or equivalent general academic training. Instruction may be provided in diverse settings, such as the establishment's or client's training facilities, educational institutions, the workplace, or the home, and through diverse means, such as correspondence, television, the Internet, or other electronic and distance-learning methods. The size standard in millions of dollars for this NAICS code is $34.5M. Attached is the draft Performance Work Statement (PWS). Responses to this notice shall be e-mailed to the Contract Specialist, Robin Woodard at robin.a.woodard3.civ@army.mil and Contracting Officer, Samuel M. Henderson at samuel.m.henderson1.civ@army.mil no later than 6 April 2026 at 10:00 AM. ET (Fort Knox local time). Limitations on subcontracting and nonmanufacturer rule do not apply to small business set-asides for contracts at or below the Simplified Acquisition Threshold (SAT). It does apply to 8(a), HUBZone, VOSB/SDVOSB, and WOSB/EDWOSB, set-asides regardless of the dollar value of the award if awarding on a sole source basis only. Small business contractors awarded contracts above the SAT are required to comply with Federal Acquisition Regulation (FAR) 52.219-14, Limitations on Subcontracting (DEVIATION 2021-O0008) when utilizing subcontractors. The penalty for non-compliance is the greater of $500K or the dollar amount spent, in excess of permitted levels, by the entity on subcontractors, in accordance with 13 CFR 125.6(h). See FAR 52.219-14 - Limitations on Subcontracting for Small Business (DEVIATION 2021-O0008). All 8(a), HUBZone, VOSB/SDVOSB, WOSB/EDWOSB firms need to take action at https://certifications.sba.gov/ in order to compete for Federal Contracting Program set-aside contracts. In response to this notice, please provide: 1. Name of the firm, point of contact, phone number, email address, DUNS number, CAGE code, a statement regarding small business status (including small business type(s)/certifications(s) such as SDB, 8(a), HUBZone, SDVOSB, WOSB, etc.) and the corresponding NAICS code. 2. Identify whether your firm is interested in competing for this requirement as a prime contractor or not. Identify subcontracting, joint ventures or teaming arrangement that will be pursued, if any. 3. Information in sufficient detail regarding previous experience (indicate whether as a prime contractor or subcontractor) on similar requirements (include size, scope, complexity, timeframe, government or commercial), pertinent certifications, etc., that will facilitate making a capability determination. 4. Information to help determine if the requirement is commercially available, including pricing information, basis for the pricing information (e.g., market pricing, catalog pricing), delivery schedules, customary terms and conditions, warranties, etc. 5. Identify how the Army can best structure these contract requirements to facilitate competition by and among small business concerns. 6. Identify any condition or action that may be having the effect of unnecessarily restricting competition with respect to this acquisition. Please contact the MICC Advocate for Competition, Scott Kukes, at scott.d.kukes.civ@army.mil or 520-944-7373, if you believe that this action is unreasonably restricting competition. Include the subject of the acquisition, this announcement, and the MICC POC information from the sam.gov notice. Provide the specific aspects that unreasonably restrict competition and the rationale for such conclusion. 7. Recommendations to improve the approach/specifications/draft PWS/PRS to acquiring the identified items/services.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Robin Woodard
+  - Email: robin.a.woodard3.civ@army.mil
+  - Phone: 5209459016
+- Secondary Contact:
+  - Name: Samuel M. Henderson
+  - Email: Samuel.M.Henderson1.civ@army.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2eb690fad0034a5fa3c2e8d490cc8d4d/view)

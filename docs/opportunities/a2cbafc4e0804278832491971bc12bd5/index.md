@@ -1,0 +1,31 @@
+---
+layout: default
+title: J066--NEW â€“ Roche Cobas 5800 Services
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Special Notice
+notice_id: a2cbafc4e0804278832491971bc12bd5
+---
+
+# J066--NEW â€“ Roche Cobas 5800 Services
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Special Notice
+- Posted: 2026-04-01 13:03:29.157-04
+- Solicitation Number: 36C25726Q0418
+- Awardee: null
+
+## Summary
+
+The Department of Veterans Affairs (VA), Veterans Health Administration (VHA), Network Contracting Office (NCO) 17, intends to award a firm-fixed-price contract on a sole source basis to: Â ROCHE DIAGNOSTICS CORPORATION Â UEI: JDMDFEZBYH36 Â 9115 Hague Road Â Indianapolis, IN 46256 Â This acquisition is for commercial services for preventative maintenance and service support for a Government-owned Roche Cobas 5800 System (Serial Number 2352) used in the Pathology and Laboratory Medicine Service at the South Texas Veterans Health Care System (STVHCS), San Antonio, Texas. The Roche Cobas 5800 is used to perform PCR testing for Veterans. Â DESCRIPTION OF REQUIREMENT Â The contractor shall provide comprehensive commercial maintenance, repair, and technical support services for the Roche Cobas 5800 instrumentation in accordance with the Statement of Work. Services shall include, but are not limited to: Â - Onsite service support from a Certified Roche Diagnostics Field Service Engineer (FSE). Â - Unlimited service available Monday through Friday, 8:00 a.m. to 5:00 p.m. local time, excluding Federal recognized holidays. Â - Dispatch of all repair service requests within 24 hours (priority response). Â - All costs for repairs and annual preventive maintenance parts included; VA Audie Murphy will not be charged shipping costs for repair/PM parts. Â - Preventive maintenance services, including PM kits with necessary warranted parts. Â - Troubleshooting by a Roche Diagnostics Technical Application Specialist (TAS) available Monday through Friday, 8:00 a.m. to 5:00 p.m. local time. Â - Customer Support Center available Monday through Friday, 8:00 a.m. to 6:00 p.m., with Customer Support Center Specialists available by phone 24 hours a day, 365 days a year to assist in troubleshooting. Â - All necessary warranted repair parts and all associated travel and labor to install parts. Â - Preventive maintenance visits, including labor and preventive maintenance kits. Â - Response for emergency repairs within 24 hours of request Monday through Friday local time. Â - System repaired at the customer site, with any labor for service visits outside of contract coverage hours handled in accordance with contract terms. Â The period of performance will be a base year plus four (4) option years. Â AUTHORITY AND JUSTIFICATION COMMERCIAL SERVICES Â This acquisition is for commercial services as defined in FAR part 2 and will be conducted using the policies and procedures in FAR part 12 for the acquisition of commercial products and commercial services. The Government intends to solicit and negotiate with only one source under the authority of FAR part 12 and the applicable sole source authority for commercial services, as implemented in agency policy for commercial acquisitions when only one responsible source is capable of fulfilling the agency s requirements. Roche Diagnostics Corporation is the original equipment manufacturer (OEM) of the Roche Cobas 5800 and the only source with the proprietary technical data, diagnostic software, firmware, calibration procedures, and OEM-certified parts necessary to provide full maintenance and repair services for this instrument. Â Market research indicates that only Roche Diagnostics Corporation can provide OEM-certified support, including access to proprietary software, updates, and technical resources, while maintaining warranty and ensuring continued compliance with applicable accreditation requirements (such as CAP and AABB) and VA/VHA quality and safety standards. Use of non-OEM parts or non-authorized service providers would risk instrument performance, invalidate warranties, and jeopardize the reliability of patient test results. Therefore, competition is not practicable for this requirement. Â OTHER IMPORTANT INFORMATION Â All services will be performed at the VA Audie L. Murphy Memorial Veterans Hospital, San Antonio, Texas, in the Pathology and Laboratory Medicine Service s San Antonio Laboratory of the STVHCS. The contractor shall not perform inherently governmental functions and shall comply with all applicable Federal, State, and local laws, as well as VHA Directive 1106 and accreditation requirements identified in the Statement of Work. The contractor will not have access to VA desktop computers or VA systems except as supervised and required for service work on the instrumentation, and no VA data of any type shall be removed from VA custody. Â This notice of intent is not a request for competitive quotations. No solicitation document is available and requests for such will not be honored. However, any responsible source that believes it can meet this requirement and is fully authorized and capable of providing OEM-equivalent services for the Roche Cobas 5800 may submit a capability statement. Capability statements must include, at a minimum: Â - Evidence of authorization from Roche Diagnostics Corporation (or demonstration of full OEM-equivalent rights, access to proprietary software/parts, and technical data) to perform maintenance and repair on the Roche Cobas 5800. Â - Technical capability to perform all services identified in the Statement of Work, including preventive maintenance, emergency repairs, and required response times. Â - Business size status and applicable NAICS code. Â Capability statements must be received no later than 04/10/ 2026, at 2:00 PM Central Standard Time (CST). Responses shall be submitted via email to: Â Ognian D. Ivanov Contract Specialist, NCO 17 Â Email: ognian.ivanov@va.gov Â A determination by the Government not to compete this requirement based on responses to this notice is solely within the discretion of the Government.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Ognian D. Ivanov
+  - Title: Contract Specialist
+  - Email: ognian.ivanov@va.gov
+  - Phone: 210-694-6302
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a2cbafc4e0804278832491971bc12bd5/view)

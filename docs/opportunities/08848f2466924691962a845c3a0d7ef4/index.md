@@ -1,0 +1,28 @@
+---
+layout: default
+title: B403 CYBER Repair
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: 08848f2466924691962a845c3a0d7ef4
+---
+
+# B403 CYBER Repair
+
+- Agency: DEPT OF DEFENSE
+- Type: Presolicitation
+- Posted: 2026-04-01 15:58:53.512-04
+- Solicitation Number: W50S8R26RA002
+
+## Summary
+
+The Ohio National Guard intends to issue a Request for Proposals (RFP) to award a single firm fixed- price contract for non-personal services to provide all plant, labor, transportation, materials, tools, equipment, appliances and supervision necessary for the Renovation/Repair of Building 403, to meet ICD-705 standards and accommodate current cyberoperations mission requirements, in accordance with design specifications and drawings, located at the 179th Cyberspace Wing, Mansfield, Ohio ANG. The contract duration will be five hundred and forty (540) calendar days after issuance of notice to proceed, to include completion of final inspection and punch list items. The magnitude of this project is between $10,000,000 and $20,000,000. The North American Industry Classification System (NAICS) code for this work is 236220. The small business size standard is $45,000,000. This action is being procured on an UNRESTRICTED basis. The HUBZone price evaluation preference described at FAR 19.1307 will apply. A Small Business Subcontracting Plan will be required if the offeror is a large business and must be submitted with the offer. The tentative date for issuing the solicitation is on-or-about 30 April 2026. The pre-proposal conference is tentatively planned for on-or-about 15 May 2026, 10:00am EST; location to be provided in the solicitation. Interested contractors are encouraged to attend and shall follow conference registration and base access requirements shown in the solicitation. A site visit will follow the pre-proposal conference. All questions for the pre-proposal conference shall be submitted by three (3) business days prior to scheduled day, via email to: gordon.strom.1@us.af.mil . The solicitation closing date is tentatively planned for on-or-about 25 June 2026. Actual dates and times will be identified in the solicitation. The source selection process will be conducted in accordance with the Source Selection Procedures described in RFO FAR 15.3, RFO DFARS 215.3, and AFARS 5115.3. Evaluation factors include Technical Capability, Past Performance, and Price. The Government intends to award contracts without conducting discussions. Interested offerors must be registered in the System for Award Management (SAM). To register go to www.sam.gov . Instructions for registering are on the web page (there is no fee for registration). The solicitation and associated information will be available only from the Contract Opportunities page at SAM.gov. ***Cybersecurity Maturity Module Certification (CMMC) Requirement*** ALL Offerors shall have a current CMMC status at the following CMMC level (or higher): Level 2 (Level 2 Self-certifications are not sufficient), for all information systems used in the performance of the contract, to include accessing design specifications and drawings posted to Sam.gov/Contract Opportunities, during the solicitation phase. See DFARS 252.204-7021. Offerors will need to be registered in the Procurement Integrated Enterprise Environment (PIEE), at: https//piee.eb.mil, the navigate to the Supplier Performance Risk System (SPRS) module, to register for CMMC. *** *** This solicitation is not an invitation for bids and there will not be a formal public bid opening. All inquiries shall be in writing, preferably via email to the persons specified in the solicitation. All answers will be provided in writing via posting to the web. If you have any questions concerning this procurement you are encouraged to email your questions to: gordon.strom.1@us.af.mil . DISCLAIMER: The official plans and specifications will be located on the official Government webpage and the Government is not liable for information furnished by any other source. Amendments, if/when issued will be posted to Contract Opportunities for electronic downloading. This will normally be the only method of distributing amendments prior to closing; therefore, it is the offeror’s responsibility to check the website periodically for any amendments to the solicitation. Websites are occasionally inaccessible for various reasons. The Government is not responsible for any loss of Internet connectivity or for an offeror’s inability to access the documents posted on the referenced web pages. The Government will not issue paper copies. NOTE 2: Intrusion Detection System (IDS) equipment, materials, and installation are brand name/sole source-specific (Advantor). Justification and approval have been previously posted and will be included with the solicitation. NOTE 3: In addition to base bid line items, the solicitation will include the following option line items: OPTION 01: Intrusion Detection System (IDS) OPTION 02: Back-up Generator & Load Bank OPTION 03: Uninterruptable Power System (UPS)
+
+## Contacts
+
+- Primary Contact:
+  - Name: Gordon Strom
+  - Email: gordon.strom.1@us.af.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/08848f2466924691962a845c3a0d7ef4/view)

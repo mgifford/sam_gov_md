@@ -1,0 +1,28 @@
+---
+layout: default
+title: Marketplace for Acquisition of Professional Services (MAPS)
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 26fa0a26cd0c4cb894627d43fb7f9e8f
+---
+
+# Marketplace for Acquisition of Professional Services (MAPS)
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-04-01 15:53:35.417-04
+- Solicitation Number: W15P7T-26-R-A006
+
+## Summary
+
+Army Contracting Command-Aberdeen Proving Ground (ACC-APG), in support of the Capability Program Executive (CPE) Enterprise Software and Service (ES2) (formerly known as Program Executive Office (PEO) Enterprise), intends to award a Multiple Award (MA) Indefinite Delivery Indefinite Quantity (IDIQ) contract, MAPS. This is the follow-on and combination of the ACC-APG Responsive Strategic Sourcing for Services (RS3) and Product Lead (PL) Digital Market’s Information Technology Enterprise Solutions – 3 Services (ITES-3S) IDIQ Contract Vehicles. The objective of the MAPS IDIQ contract is to provide Army customers, Portfolio Acquisition Executives (PAE), CPEs, Department of War (DoW) agencies, and other federal agencies with uncommon knowledge-based professional services and support the Army enterprise infrastructure and infostructure goals with information technology (IT) services worldwide (inside the contiguous United States (CONUS) and outside the contiguous United States (OCONUS)), including hostile areas. By combining these vehicles, the Army aims to enhance flexibility, reduce redundancy, and improve cost-efficiency in acquiring uncommon knowledge-based professional services. This integration will also ensure a unified approach in meeting the Army’s evolving technology and strategic needs, thus optimizing mission readiness and effectiveness. Please note, due to system constraints within sam.gov it only allowed one NAICS to be identified; however, this acquisition contains five primary NAICS codes as identified in the solicitation.
+
+## Contacts
+
+- Primary Contact:
+  - Name: ACC-APG Email Box
+  - Email: usarmy.apg.acc.mbx.acc-apg-maps-contracting-office@army.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/26fa0a26cd0c4cb894627d43fb7f9e8f/view)
