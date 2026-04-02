@@ -20,11 +20,11 @@ FOCUS_TERMS = {
     "api",
     "cloud",
     "modernization",
-    "User Experience",
-    "USWDS",
+    "user experience",
+    "uswds",
     "ux",
     "ui",
-    "Content Management System",
+    "content management system",
 }
 
 

@@ -59,29 +59,18 @@ class TestScoreRecord:
         assert include is True
 
     def test_all_focus_terms_qualify(self) -> None:
-        # NOTE: FOCUS_TERMS contains mixed-case entries ("User Experience",
-        # "USWDS", "Content Management System"). score_record() lowercases the
-        # matched term names before comparing, so those three entries never
-        # trigger a match — this is a known bug in generate_alerts.py.
-        # Only the all-lowercase FOCUS_TERMS are reliably matched.
-        lowercase_focus = {t for t in ga.FOCUS_TERMS if t == t.lower()}
-        for term in lowercase_focus:
+        for term in ga.FOCUS_TERMS:
             record = self._record([{"term": term, "count": 10}])
             _, include = ga.score_record(record, min_hits=8)
             assert include is True, f"Focus term '{term}' should qualify"
 
-    def test_mixed_case_focus_terms_do_not_match_due_to_bug(self) -> None:
-        # Documents the known case-sensitivity bug: capitalized FOCUS_TERMS
-        # ("User Experience", "USWDS", "Content Management System") are NOT
-        # matched because score_record lowercases the term names before
-        # comparing against FOCUS_TERMS.
-        broken_terms = {"User Experience", "USWDS", "Content Management System"}
-        for term in broken_terms:
+    def test_focus_term_lookup_is_case_insensitive(self) -> None:
+        # score_record lowercases matched terms; FOCUS_TERMS are now all
+        # lowercase, so "uswds", "user experience", etc. all match.
+        for term in ("uswds", "user experience", "content management system"):
             record = self._record([{"term": term, "count": 20}])
             _, include = ga.score_record(record, min_hits=8)
-            assert include is False, (
-                f"Bug: capitalized FOCUS_TERM '{term}' incorrectly not matched"
-            )
+            assert include is True, f"Focus term '{term}' should qualify"
 
     def test_zero_min_hits_always_passes_threshold(self) -> None:
         record = self._record([{"term": "api", "count": 1}])

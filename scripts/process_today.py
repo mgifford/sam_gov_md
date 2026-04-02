@@ -90,6 +90,7 @@ def clean_description(text: str) -> str:
 def is_win(row: dict[str, str]) -> bool:
     """Return True if the notice type indicates a contract award/win."""
     notice_type = (row.get("Type") or "").lower()
+    return "award" in notice_type
 
 
 def extract_attachments(description: str) -> dict[str, Any]:

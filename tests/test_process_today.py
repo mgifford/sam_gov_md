@@ -134,19 +134,16 @@ class TestCleanDescription:
 
 class TestIsWin:
     def test_award_type_is_win(self) -> None:
-        # NOTE: is_win() currently has a missing return statement (returns None).
-        # These tests document the current (broken) behaviour; they should be
-        # updated once the bug is fixed to assert True/False appropriately.
-        result = pt.is_win({"Type": "Award Notice"})
-        assert result is None  # Bug: function body never returns
+        assert pt.is_win({"Type": "Award Notice"}) is True
+
+    def test_award_case_insensitive(self) -> None:
+        assert pt.is_win({"Type": "award notice"}) is True
 
     def test_non_award_type(self) -> None:
-        result = pt.is_win({"Type": "Presolicitation"})
-        assert result is None  # Bug: function body never returns
+        assert pt.is_win({"Type": "Presolicitation"}) is False
 
     def test_missing_type_key(self) -> None:
-        result = pt.is_win({})
-        assert result is None  # Bug: function body never returns
+        assert pt.is_win({}) is False
 
 
 # ---------------------------------------------------------------------------
@@ -400,8 +397,6 @@ class TestBuildDateBreakdown:
 
 class TestBuildAwardCompanyHistory:
     def _make_award_row(self, awardee: str, posted: str = "2024-03-01") -> dict:
-        # is_win() is currently broken (returns None), so we test only
-        # that the function handles its input without error.
         return {
             "Type": "Award Notice",
             "Awardee": awardee,
@@ -428,8 +423,6 @@ class TestBuildAwardCompanyHistory:
 
 class TestExtractTopAwardRecords:
     def test_filters_to_top_companies(self) -> None:
-        # is_win() is broken so no rows will pass the is_win() filter.
-        # We verify the function returns a list without crashing.
         rows = [
             {"Type": "Award Notice", "Awardee": "ACME Corp", "NoticeId": "N1"},
             {"Type": "Award Notice", "Awardee": "Other Corp", "NoticeId": "N2"},
