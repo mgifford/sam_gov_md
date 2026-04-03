@@ -7,18 +7,22 @@ async function loadJson(path) {
 function normalizeRecord(raw) {
   return {
     NoticeId: raw.NoticeId || '',
+    SolNumber: raw['Sol#'] || '',
     Type: raw.Type || '',
     Title: raw.Title || '',
     Agency: raw.Agency || raw['Department/Ind.Agency'] || '',
     PostedDate: raw.PostedDate || '',
+    ResponseDeadLine: raw.ResponseDeadLine || '',
     Link: raw.Link || '',
+    AdditionalInfoLink: raw.AdditionalInfoLink || '',
     Description: raw.Description || '',
     Awardee: raw.Awardee || '',
     AwardAmount: raw['Award$'] || '',
-    PrimaryContactFullname: raw.PrimaryContactFullname || '',
-    PrimaryContactEmail: raw.PrimaryContactEmail || '',
+    SetAside: raw.SetAside || '',
     matches: raw.matches || [],
     first_seen_date: raw.first_seen_date || '',
+    seen_count: raw.seen_count || 1,
+    version_count: raw.version_count || 1,
     has_pdf_content: raw.has_pdf_content || false,
     pdf_text: raw.pdf_text || '',
   }
@@ -26,6 +30,17 @@ function normalizeRecord(raw) {
 
 function getRecordDate(record) {
   return (record.first_seen_date || record.PostedDate || '').slice(0, 10)
+}
+
+function getDeadlineBadge(deadline) {
+  if (!deadline) return ''
+  const dl = new Date(deadline)
+  if (isNaN(dl)) return ''
+  const diffDays = Math.ceil((dl - Date.now()) / 86400000)
+  if (diffDays < 0)  return '<span class="deadline-badge deadline-expired">Closed</span>'
+  if (diffDays <= 7) return `<span class="deadline-badge deadline-urgent" title="Response deadline">${diffDays}d left</span>`
+  if (diffDays <= 30) return `<span class="deadline-badge deadline-soon" title="Response deadline">${diffDays}d left</span>`
+  return `<span class="deadline-badge deadline-ok" title="Response deadline">${diffDays}d left</span>`
 }
 
 /**
@@ -78,12 +93,24 @@ function displayResults(results, query) {
     const statusBadge = record.Awardee ? '<span class="result-badge badge-awarded">Awarded</span>' : '<span class="result-badge badge-opportunity">Open</span>'
     const typeBadge = record.Type ? `<span class="result-badge badge-type">${record.Type}</span>` : ''
     const pdfBadge = record.has_pdf_content ? '<span class="result-badge badge-pdf">📄 Docs Extracted</span>' : ''
+    const deadlineBadge = getDeadlineBadge(record.ResponseDeadLine)
+    const versionBadge = record.version_count > 1 ? `<span class="version-badge" title="${record.version_count} versions of this solicitation">v${record.version_count}</span>` : ''
+    const noticeId = record.SolNumber ? `<span class="notice-id" title="SAM.gov Notice ID">📋 ${record.SolNumber}</span>` : ''
+    const seenNote = record.seen_count > 5 ? `<span title="Seen across ${record.seen_count} daily snapshots — long-running or IDIQ">👁 ${record.seen_count}×</span>` : ''
     const matchedTerms = record.matches.length > 0 ? `<div class="result-meta"><span><strong>Tracked Terms:</strong> ${record.matches.map(m => m.term).join(', ')}</span></div>` : ''
     const detailLink = record.NoticeId ? `<a href="opportunities/${record.NoticeId}/" title="View opportunity details and extracted documents">Details</a>` : ''
+    const docsLink = record.AdditionalInfoLink ? `<a href="${record.AdditionalInfoLink}" target="_blank" rel="noopener" title="Additional documents / solicitation">📎 Documents</a>` : ''
 
     li.innerHTML = `
-      <div class="result-title">${statusBadge}${typeBadge}${pdfBadge} <a href="${record.Link || '#'}" target="_blank">${record.Title || 'Untitled'}</a></div>
-      <div class="result-meta"><span><strong>Agency:</strong> ${record.Agency || 'Unknown'}</span><span><strong>Posted:</strong> ${posted}</span>${detailLink ? `<span>${detailLink}</span>` : ''}</div>
+      <div class="result-title">${statusBadge}${typeBadge}${pdfBadge}${deadlineBadge} <a href="${record.Link || '#'}" target="_blank">${record.Title || 'Untitled'}</a>${versionBadge}</div>
+      <div class="result-meta">
+        <span><strong>Agency:</strong> ${record.Agency || 'Unknown'}</span>
+        <span><strong>Posted:</strong> ${posted}</span>
+        ${noticeId}
+        ${seenNote}
+        ${detailLink ? `<span>${detailLink}</span>` : ''}
+        ${docsLink ? `<span>${docsLink}</span>` : ''}
+      </div>
       ${matchedTerms}
       <div class="result-excerpt">${excerpt}</div>
     `
@@ -121,6 +148,15 @@ async function main() {
       termFilter.appendChild(option)
     })
 
+    const setAsideFilter = document.getElementById('filter-setaside')
+    const uniqueSetAsides = [...new Set(allRecords.map(r => r.SetAside))].filter(Boolean).sort()
+    uniqueSetAsides.forEach(sa => {
+      const option = document.createElement('option')
+      option.value = sa
+      option.textContent = sa
+      setAsideFilter.appendChild(option)
+    })
+
     const searchInput = document.getElementById('search-input')
     const statusFilter = document.getElementById('filter-status')
     const dateFromFilter = document.getElementById('filter-date-from')
@@ -130,12 +166,26 @@ async function main() {
     // Exact-date filter set via URL parameter ?date=YYYY-MM-DD
     let exactDate = ''
 
+    function updateUrl() {
+      const params = new URLSearchParams()
+      if (searchInput.value.trim()) params.set('q', searchInput.value.trim())
+      if (deptFilter.value) params.set('dept', deptFilter.value)
+      if (statusFilter.value) params.set('status', statusFilter.value)
+      if (termFilter.value) params.set('term', termFilter.value)
+      if (setAsideFilter.value) params.set('setaside', setAsideFilter.value)
+      if (exactDate) params.set('date', exactDate)
+      else if (dateFromFilter.value) params.set('from', dateFromFilter.value)
+      const qs = params.toString()
+      history.replaceState(null, '', qs ? `${window.location.pathname}?${qs}` : window.location.pathname)
+    }
+
     function getActiveFilters() {
       const filters = []
       if (searchInput.value.trim()) filters.push({ type: 'keyword', label: `Keyword: "${searchInput.value}"` })
       if (deptFilter.value) filters.push({ type: 'department', label: `Dept: ${deptFilter.value.slice(0, 30)}` })
       if (statusFilter.value) filters.push({ type: 'status', label: statusFilter.value === 'open' ? 'Open Opportunities' : 'Awarded Contracts' })
       if (termFilter.value) filters.push({ type: 'term', label: `Term: ${termFilter.value}` })
+      if (setAsideFilter.value) filters.push({ type: 'setaside', label: `Set-Aside: ${setAsideFilter.value}` })
       if (exactDate) filters.push({ type: 'exactDate', label: `Date: ${exactDate}` })
       else if (dateFromFilter.value) filters.push({ type: 'date', label: `After: ${dateFromFilter.value}` })
       return filters
@@ -154,6 +204,7 @@ async function main() {
           else if (filter.type === 'department') deptFilter.value = ''
           else if (filter.type === 'status') statusFilter.value = ''
           else if (filter.type === 'term') termFilter.value = ''
+          else if (filter.type === 'setaside') setAsideFilter.value = ''
           else if (filter.type === 'date') dateFromFilter.value = ''
           else if (filter.type === 'exactDate') exactDate = ''
           performSearch()
@@ -168,6 +219,7 @@ async function main() {
       if (statusFilter.value === 'open') filtered = filtered.filter(r => !r.Awardee || r.Awardee.trim() === '')
       else if (statusFilter.value === 'awarded') filtered = filtered.filter(r => r.Awardee && r.Awardee.trim() !== '')
       if (termFilter.value) filtered = filtered.filter(r => r.matches.some(m => m.term === termFilter.value))
+      if (setAsideFilter.value) filtered = filtered.filter(r => r.SetAside === setAsideFilter.value)
       if (exactDate) {
         filtered = filtered.filter(r => getRecordDate(r) === exactDate)
       } else if (dateFromFilter.value) {
@@ -181,13 +233,14 @@ async function main() {
       const query = searchInput.value.trim()
       const filteredRecords = applyFilters(allRecords)
       renderActiveFilters()
-      
+      updateUrl()
+
       if (query === '' && getActiveFilters().length === 0) {
         document.getElementById('search-results').innerHTML = ''
         document.getElementById('search-stats').textContent = 'Enter keywords or select filters to search'
         return
       }
-      
+
       let results = filteredRecords
       if (query) {
         results = filteredRecords.map(record => ({ ...record, score: calculateScore(query, record).score }))
@@ -200,9 +253,12 @@ async function main() {
     deptFilter.addEventListener('change', performSearch)
     statusFilter.addEventListener('change', performSearch)
     termFilter.addEventListener('change', performSearch)
+    setAsideFilter.addEventListener('change', performSearch)
     dateFromFilter.addEventListener('change', performSearch)
     clearFiltersBtn.addEventListener('click', () => {
-      searchInput.value = ''; deptFilter.value = ''; statusFilter.value = ''; termFilter.value = ''; dateFromFilter.value = ''; exactDate = ''; performSearch()
+      searchInput.value = ''; deptFilter.value = ''; statusFilter.value = ''
+      termFilter.value = ''; setAsideFilter.value = ''; dateFromFilter.value = ''
+      exactDate = ''; performSearch()
     })
 
     const params = new URLSearchParams(window.location.search)
@@ -210,8 +266,10 @@ async function main() {
     if (params.get('dept')) deptFilter.value = params.get('dept')
     if (params.get('status')) statusFilter.value = params.get('status')
     if (params.get('term')) termFilter.value = params.get('term')
+    if (params.get('setaside')) setAsideFilter.value = params.get('setaside')
     if (params.get('date')) exactDate = params.get('date')
-    if (params.get('q') || params.get('dept') || params.get('status') || params.get('term') || params.get('date')) performSearch()
+    if (params.get('from')) dateFromFilter.value = params.get('from')
+    if ([...params.keys()].length > 0) performSearch()
   } catch (error) {
     document.getElementById('search-results').innerHTML = '<li class="empty">Error: ' + error.message + '</li>'
   }

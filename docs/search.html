@@ -278,6 +278,50 @@
             color: #856404;
         }
 
+        .deadline-badge {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 12px;
+            font-size: 12px;
+            font-weight: 600;
+        }
+
+        .deadline-urgent {
+            background: #fee2e2;
+            color: #991b1b;
+        }
+
+        .deadline-soon {
+            background: #ffedd5;
+            color: #9a3412;
+        }
+
+        .deadline-ok {
+            background: #dcfce7;
+            color: #166534;
+        }
+
+        .deadline-expired {
+            background: #f1f5f9;
+            color: #64748b;
+        }
+
+        .version-badge {
+            display: inline-block;
+            padding: 2px 7px;
+            border-radius: 12px;
+            font-size: 11px;
+            background: #e0f2fe;
+            color: #0369a1;
+            margin-left: 4px;
+        }
+
+        .notice-id {
+            font-size: 12px;
+            color: #57606a;
+            font-family: ui-monospace, monospace;
+        }
+
         .type-legend {
             display: flex;
             flex-wrap: wrap;
@@ -337,6 +381,12 @@
                     <label for="filter-term">Tracked Term</label>
                     <select id="filter-term">
                         <option value="">All Terms</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="filter-setaside">Set-Aside</label>
+                    <select id="filter-setaside">
+                        <option value="">All Set-Asides</option>
                     </select>
                 </div>
                 <div class="filter-group">

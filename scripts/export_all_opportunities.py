@@ -39,26 +39,71 @@ def main() -> None:
     with sqlite3.connect(db_path) as conn:
         conn.row_factory = sqlite3.Row
 
+        # Deduplicate by sol_number: keep the latest-posted revision per notice.
+        # Records with no sol_number are treated as unique (partitioned by notice_id).
+        # version_count exposes how many revisions existed for that solicitation.
         query = """
+        WITH ranked AS (
+            SELECT
+                notice_id,
+                sol_number,
+                title,
+                agency,
+                notice_type,
+                posted_date,
+                response_deadline,
+                naics_code,
+                link,
+                is_win,
+                awardee,
+                description,
+                matches,
+                first_seen_date,
+                last_seen_date,
+                seen_count,
+                last_snapshot_date,
+                set_aside,
+                additional_info_link,
+                ROW_NUMBER() OVER (
+                    PARTITION BY CASE
+                        WHEN sol_number IS NOT NULL AND sol_number != ''
+                        THEN sol_number
+                        ELSE notice_id
+                    END
+                    ORDER BY posted_date DESC, notice_id DESC
+                ) AS rn,
+                COUNT(*) OVER (
+                    PARTITION BY CASE
+                        WHEN sol_number IS NOT NULL AND sol_number != ''
+                        THEN sol_number
+                        ELSE notice_id
+                    END
+                ) AS version_count
+            FROM opportunities
+        )
         SELECT
-            notice_id  AS NoticeId,
-            sol_number AS "Sol#",
-            title      AS Title,
-            agency     AS Agency,
-            notice_type AS Type,
-            posted_date AS PostedDate,
+            notice_id        AS NoticeId,
+            sol_number       AS "Sol#",
+            title            AS Title,
+            agency           AS Agency,
+            notice_type      AS Type,
+            posted_date      AS PostedDate,
             response_deadline AS ResponseDeadLine,
-            naics_code AS NaicsCode,
-            link       AS Link,
+            naics_code       AS NaicsCode,
+            link             AS Link,
             is_win,
-            awardee    AS Awardee,
-            description AS Description,
+            awardee          AS Awardee,
+            description      AS Description,
             matches,
             first_seen_date,
             last_seen_date,
             seen_count,
-            last_snapshot_date
-        FROM opportunities
+            last_snapshot_date,
+            set_aside        AS SetAside,
+            additional_info_link AS AdditionalInfoLink,
+            version_count
+        FROM ranked
+        WHERE rn = 1
         ORDER BY posted_date DESC, last_seen_date DESC
         """
 
