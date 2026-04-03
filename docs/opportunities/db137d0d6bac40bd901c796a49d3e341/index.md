@@ -1,0 +1,31 @@
+---
+layout: default
+title: INTENT TO SOLE SOURCE - Preqin Subscriptions
+agency: TREASURY, DEPARTMENT OF THE
+notice_type: Special Notice
+notice_id: db137d0d6bac40bd901c796a49d3e341
+---
+
+# INTENT TO SOLE SOURCE - Preqin Subscriptions
+
+- Agency: TREASURY, DEPARTMENT OF THE
+- Type: Special Notice
+- Posted: 2026-04-02 13:35:54.739-04
+- Solicitation Number: SS-26-028
+
+## Summary
+
+The Treasury Common Services Center (TCSC), on behalf of The Office of Financial Research (OFR) and the Financial Stability Oversight Council (FSOC), intends to contract with Preqin Ltd, 1st Floor. Verde. 1- Bressenden Place, London SW1E 5DH, on a sole source basis. There is no competitive vendor or regulatory agency that provides these datasets. The proposed Contractor developed and owns the propriety and patented hardware, software and algorithms that are used in these products and support the services specifically required for this acquisition; thereby the proposed source has the sole unique technical and other resources required for this acquisition. The Office of Financial Research (OFR) requires Preqin Data Products, and pursuant to its mandate, the OFR is interested in pursuing a wide-scope of private equity data including fund manager profiles, institutional investors, fund performance, fundraising, fund terms and conditions, deals and exits, funds evolution, assets under management, past investments, portfolio modeling, new funds, firms, portfolio strategy, investment focus, and cash flow predictions. In addition, the OFR requires private debt data to include future investment plans, allocations, active searches and mandates, investment criteria, funds raised/raising, private debt deals and exits across the globe, searchable by portfolio companies, equity sponsors, investment strategy and focus, target size, performance and deals, transparent fund-level data, benchmarks by strategy and geographic focus, horizon IRRs, fund manager relationship, deals facilitated, and buyer and seller relationships. Preqin Private Debt Online meets the OFR's private debt data and Private Capital Cash Flow data meet the OFR’s private equity data needs. The OFR’s hedge funds data needs include in-depth info of individual funds, allocation of hedge funds, types of investors, tracking performance in portfolios, fund performance, current trends by fund type, structure focus, fund-by-fund terms and conditions, industry level statistics and term and conditions, current and open mandates, and compare to other market segments by strategy, fund structure, and geography using benchmarks. Preqin Hedge Fund online meets the OFR’s hedge fund data needs. The OFR and FSOC will use the proposed contractor’s brand name product for the continuing mission to deliver an annual assessment of the state of the U.S. financial system, as required by the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010. The period of performance for the purchase order is anticipated to be a twelve (12) month base period with three (3) option periods of twelve (12) months each. The total estimated value of this purchase order will not exceed the simplified acquisition threshold. NO SOLICITATION IS AVAILABLE. A request for more information or a copy of the solicitation will not be considered an affirmative response to this Special Notice. Telephone responses or inquiries to this Special Notice will not be accepted. Fiscal Service will consider written responses received no later than Wednesday, April 13, 2026. Responses must be submitted electronically to purchasing@fiscal.treasury.gov. Responses must include sufficient evidence that clearly shows your company is capable of providing the content described in this notice. Responses received will be evaluated; however, a determination by the Government not to compete the proposed procurement based upon responses to this notice is solely within the discretion of the Government. If no written response is received by the aforementioned deadline that clearly demonstrates an ability to meet all requirements, and that is more advantageous to the Government, Fiscal Service will make award on a sole source basis to Preqin LTD. Qualified Contractors must provide the following: 1. The name and location of your company, contact information, and identify your business size (Large Business, Small Business, Disadvantaged Business, 8(a), Service-Disabled Veteran Owned Small Business, HUBZone, etc.). Please ensure contact information includes the name of the point of contact, email address, and telephone number, should the Government have questions regarding individual responses. 2. UEI Number. 3. Specific details of the product(s) that your company offers in regards to this notice. 4. Whether your content is available through a Government contract vehicle or Open Market. 5. A brief capabilities statement (not to exceed 5 pages) that includes a description of your company's standard line of business, as well as a list of customers to whom your company currently provides the specific required content. The following file extensions are not allowable and application materials/data submitted with these extensions cannot be considered: .bat, .cmd, .com, .exe, .pif, .rar, .scr, .vbs, .hta, .cpl, and .zip files. Microsoft Office and Adobe compatible documents are acceptable. No other information regarding this Special Notice will be provided at this time. The period of performance for the purchase order is anticipated to be a twelve (12) month base period with three (3) option periods of twelve (12) months each. Fiscal Service may consider information received no later than 12:00 p.m. EST on Monday, April 13, 2026, submitted electronically to purchasing@fiscal.treasury.gov, Preqin Data /Attn: AM – BC.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Purchasing
+  - Email: purchasing@fiscal.treasury.gov
+- Secondary Contact:
+  - Name: Purchasing
+  - Email: purchasing@fiscal.treasury.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/db137d0d6bac40bd901c796a49d3e341/view)

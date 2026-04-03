@@ -1,0 +1,34 @@
+---
+layout: default
+title: Office Furniture Including Cubicle Dividers
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 4751c16a990c4fe0acfa310e00792d91
+---
+
+# Office Furniture Including Cubicle Dividers
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-04-02 14:45:07.608-04
+- Solicitation Number: W50S6Q26QA002
+
+## Summary
+
+This announcement constitutes the only solicitation; quotes are being requested and an additional written solicitation will not be issued. The solicitation is conducted as a commercial procurement using Simplified Acquisition Procedures. This notice is expected to result in award of a Firm Fixed Price (FFP) contract for a commercial commodity to the responsible offeror who submits a quotation that: (1) conforms to the requirements, (2) complies with the minimum requirements stated in the Performance Work Statement (PWS), addendum, and drawings as evidenced by providing a complete description of the equipment provided, and (3) that submits the quotation with the lowest price, provided that the price is determined to be fair and reasonable. Only fully completed quotes submitted with a completed and signed solicitation, name & country of the manufacture, lead time for delivery (please quote with FOB destination price) will be considered. Quotes must be submitted via email to devin.green.5@us.af.mil. not later than 02 May 2026 at 10:00 AM CST. 1. Period of Performance: The delivery is required no later than 01 September 2026. 2. Request for Information (RFIs): The Government will accept questions concerning this solicitation until 16 April 2026 at 4:00pm CST. Email your questions on a .pdf, .doc, .docx, .xls or .xlsx document to devin.green.5@us.af.mil. Any questions received after this date and time may not be considered. 3. Quotes Due Date: Quotes must be submitted electronically to the Contracting Officer via e-mail at devin.green.5@us.af.mil. Quotes must conform to the requirements of this solicitation and be received no later than 02 May 2026 at 10:00 AM CST. It is the responsibility of the offeror to ensure that the quote and its attachments are received. Any correspondence sent via e-mail must contain the subject line “W50S6Q26QA002 - B220 Add On Office Furniture” The entire quotation must be contained in a single e-mail that does not exceed 5 megabytes including attachments, if any. E-mails with compressed files are not permitted. Note that e-mail filters are designed to filter e-mails without subject lines or with suspicious subject lines or contents (i.e., .exe or .zip files). Therefore, if the specified subject line is not included, the e-mail may not get through the e-mail filters. Also be advised that .zip or .exe files are not allowable attachments and may be deleted by the email filters. If sending attachments with email, ensure only .pdf, .doc, .docx, .xls or .xlsx documents are sent. The email filter may delete any other form of attachments. If a DoDSafe drop off is needed, please notify the contracting officer at least 48 hours before quotes are due. Any quotes received after designated closing date and time need not be considered. Quotes must include aggregate total of all CLINS). All quotes shall be in dollars and conform to the Contract Line-Item Number (CLIN) structure of attached solicitation. 4. Notice to Vendor(s): The Government reserves the right to cancel this solicitation, either before or after the closing date. The Government reserves the right to conduct interchanges with some, none, or all offerors, or make no award at all depending upon: 1) the quality of quotations received, and 2) whether proposed prices are determined to be fair and reasonable. 5. Period of Acceptance of Quotes: Offeror agrees to hold prices in its quote firm for 60 calendar days from the date specified for receipt of offers. 6. SAM Registration: Firms submitting a quote for the solicitation described herein, MUST be registered in the System for Award Management (SAM) database, or risk the quote as being non-responsive, regardless of the package being considered complete, timely or any other salient consideration. Information to register on SAM can be found at the web site, SAM.gov. 7. Provisions and Clauses: See solicitation attachment for applicable provisions and clauses. Offerors shall complete and include in quotations all representations and certifications, as well as all fill-in provisions and clauses, contained within this solicitation. Additionally, quotations that contain pricing only with no description/detail of the equipment that will be provided will not be accepted or considered for award. List of Attachments: Solicitation - W50S6Q26QA002 PWS - B220 Add On Furniture BluePrint and Preferred Layout B220 Addendum PLEASE REVIEW & PROVIDE ALL INFORMATION BELOW: Fill out the solicitation for a completed quote. Add company information (as registered in SAM.gov) and POC phone and emial to Box17a. Provide your CAGE code and/or UEI. Sign Box 30a. Provide your company if it is SMALL or LARGE. Please quote prices as FOB Destination - Fort Smith, AR 72903 Provide the LEAD TIME. Provide the Name and Country of MANUFACTURE. Provide the part #. Provide the manufacture’s specification sheets of the quoted item. Provide the redacted quote and email from the manufacturer/distributor for the quote you received. Provide any warranty information.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Mrs. Devin Green
+  - Email: devin.green.5@us.af.mil
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: applicable provisions and clauses. Offerors shall complete and include in quotations all representations and certifications, as well as all fill-in provisions and clauses, contained within this solicitation. Additionally, quotations that contain pricing only with no description/detail of the equipment that will be provided will not be accepted or considered for award. List of Attachments: Solicitation - W50S6Q26QA002 PWS - B220 Add On Furniture BluePrint and Preferred Layout B220 Addendum PLEASE REVIEW & PROVIDE ALL INFORMATION BELOW: Fill out the solicitation for a completed quote. Add company information (as registered in SAM.gov) and POC phone and emial to Box17a. Provide your CAGE code and/or UEI. Sign Box 30a. Provide your company if it is SMALL or LARGE. Please quote prices as FOB Destination - Fort Smith, AR 72903 Provide the LEAD TIME. Provide the Name and Country of MANUFACTURE. Provide the part #. Provide the manufacture’s specification sheets of the quoted item. Provide the redacted quote and email from the manufacturer/distributor for the quote you received. Provide any warranty information
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4751c16a990c4fe0acfa310e00792d91/view)

@@ -1,0 +1,32 @@
+---
+layout: default
+title: Sources Sought - FY26 Brunswick Inner Harbor Maintenance Dredging Project
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: ec2272825e1f431987b10078bbb5ecef
+---
+
+# Sources Sought - FY26 Brunswick Inner Harbor Maintenance Dredging Project
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-04-02 21:16:35.291-04
+- Solicitation Number: W912HN26BA008
+
+## Summary
+
+THIS IS A SOURCES SOUGHT/REQUEST FOR INFORMATION ONLY. This is not a Solicitation Announcement, nor is it a Request for Proposal. This request does not obligate the Government in any contract award. The U.S. Army Corps of Engineers, Savannah District is issuing the sources sought synopsis as a means of conducting market research to identify parties having an interest in and the resources to support the requirement for civil works construction. The result of this market research will contribute to determining the method of procurement. The applicable North American Industry Classification System (NAICS) code assigned to this procurement is 237990. In accordance with DFARS 36.204(f), Disclosure of the Magnitude of the Construction Project is between $1,000,000.00 and $5,000,000.00. The anticipated Period of Performance is 120 days After Notice to Proceed. The Brunswick Inner Harbor Dredging Contract provides construction services, including furnishing personnel, transportation, mobilization and demobilization, equipment and materials required in connection with maintenance dredging. This contract is traditionally performed with a hydraulic cutterhead dredge, and the duration is expected to be 120 days from notice to proceed. Up to 500 thousand cubic yards of maintenance material are expected to be removed from the inner harbor. The work is located in Brunswick Harbor Georgia deep draft navigation project. Brunswick Harbor is located in Glynn County, Georgia, 70 statute miles south of the Savannah Harbor, Georgia, and 25 statute miles north of Fernandina Harbor, Florida. Brunswick Harbor Inner Harbor channel is 36 ft. deep MLLW and 400 ft. wide through St. Simon Sound, Brunswick River, Turtle River, South Brunswick River, and East River. Brunswick Harbor Inner Harbor is generally dredged in late summer or fall. The dredging in the Brunswick Inner Harbor primarily takes place in the East River (station 0+000 to 12+000) which includes the East River Turning Basin and the Transition Areas leading up to the turning basin and immediately upriver of the basin. The South Brunswick River (station 0+000 to 7+000) in the Brunswick Inner Harbor is the other area that generally requires dredging and is primarily dredged when shoaling becomes problematic to navigation but is constantly monitored monthly. The Lower Turtle River (station 34+000 to 43+000) and Brunswick River (station 22+000 to 26+000) in the Brunswick Inner Harbor are other areas that may require dredging and are primarily dredged when shoaling become problematic to navigation but are constantly monitored monthly. Approximately 400,000 cubic yards of material is anticipated to be removed from the East River, approximately 50,000 cubic yards of material is anticipated to be removed from the South Brunswick River, approximately 35,000 cubic yards of material is anticipated to be removed from the Brunswick River and approximately 10,000 cubic yards of material is anticipated to be removed from the Lower Turtle River this dredging cycle. The maintenance material removed from the Brunswick Inner Harbor is placed in the Andrews Island Dredged Material Containment Area located adjacent to both the East River and the South Brunswick River. Andrews Island is the only confined upland containment area in Brunswick Inner Harbor. Advanced maintenance depths and locations for Brunswick Inner Harbor is as follows: East River, 0+000 to 2+500 project depth is 36’ with 1’ of advanced maintenance East River, 2+500 to 4+500 project depth is 36’ with 5’ of advanced maintenance East River, 4+500 to 6+250 project depth is 36’ with 1’ of advanced maintenance East River, Turning Basin project depth is 36’ with 1’ of advanced maintenance South Brunswick River, 0+000 to 7+000 project depth is 36’ with no advanced maintenance Brunswick River, 22+000 to 26+000 project depth is 36’ with no advanced maintenance Lower Turtle River, 34+000 to 43+000, project depth is 36’ with no advanced maintenance Environmental windows limit the timing of dredging in the Brunswick Inner Harbors. Environmental restrictions on the Brunswick Inner Harbor include a Least Tern nesting window to where dredged material must not be placed in the Andrews Island confined upland disposal area between the middle of April through the middle of August. Name and Address of your Firm Point of Contact (name/phone/email) Company website Unique Entity identifier (UEI) number Commercial and Government Entity (CAGE) code Business Size, to include designation as HUBZone, 8(a), Service-Disabled Veteran Owned Small Business, Small Disadvantaged Business, Woman-Owned Business, and Large Business. The Government must be able to verify SBA certification of HUBZone, 8(a), and SDB via the System for Award Management (SAM) (http://www.sam.gov/) Bonding capability for your firm in terms of single and aggregated bonding Capability statement addressing the particulars of this effort, with appropriate documentation supporting claims of organizational and staff capability. Please state if you have experience performing hydraulic dredging in a marine environment. Necessary experience requires dredging to depths of-43 feet Mean Lower Low Water (MLLW), in conjunction with an 8-foot tidal variation and disposing the material in a confined upland placement area with a pumping distance of up to six miles. If significant subcontracting (self-performance is less than 40%) or teaming is anticipated in order to deliver technical capability, organizations should address the administrative and management structure of such arrangements to include the percentage anticipated to be self-performed by each party.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Rohan Bryan
+  - Email: rohan.a.bryan@usace.army.mil
+  - Phone: 9126525619
+- Secondary Contact:
+  - Name: Paul Gaeth
+  - Email: paul.r.gaeth@usace.army.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ec2272825e1f431987b10078bbb5ecef/view)

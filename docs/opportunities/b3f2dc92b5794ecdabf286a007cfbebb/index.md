@@ -1,0 +1,29 @@
+---
+layout: default
+title: US Dept. of Agriculture Seeks to Lease Office and Related Space in Tiffin, OH
+agency: AGRICULTURE, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: b3f2dc92b5794ecdabf286a007cfbebb
+---
+
+# US Dept. of Agriculture Seeks to Lease Office and Related Space in Tiffin, OH
+
+- Agency: AGRICULTURE, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-04-02 11:50:35.859-04
+- Solicitation Number: 57-39147-23-FA
+
+## Summary
+
+4/7/2026 Update: SF has been updated to the following: Maximum RSF: 8,887 - NOT TO EXCEED ABOA RANGE: 6,715 - 7,051 10/27/2023 Update: Extended deadline. Add requirement: Lessor shall supply, install, and maintain site prep infrastructure for Government supplied, installed, and maintained Level 2 dual-port charging station. U.S. GOVERNMENT Department of Agriculture (USDA) seeks to lease the following space: Location Info: State: Ohio City: Tiffin Delineated Area: North: Starting at the intersection of CR38 and TR109: CR38 to TR15 East: TR15 to TR17 to CR16 South: CR16 to CR19 to CR90 to CR113 West: CR113 to TR112 to TR109 to CR38 Space Info: Minimum Sq. Ft. (ABOA): 7053 Maximum Sq. Ft. (ABOA): 7406 Maximum Sq. Ft. (RSF): 8464 Space Type: Office Parking Info: Reserved Parking Spaces for Government Owned Vehicles (GOV)(Total): 6 Reserved Parking Spaces for Visitors (Total): 28 Non-Reserved Parking Spacing (Total): 28 Parking Total (Reserved and Non-Reserved): 62 Term Info: Full Term: Up to 20 Years Firm Term: 5 Years Termination Rights: 120 Days after completion of the Firm Term Additional Requirements: Parking lot must be able to accommodate dually trucks, semi-trucks, and trailers including livestock trailers. Paved road access is required to accommodate 80,000-pound loaded semi-trucks and 50,000-pound loaded livestock trailers. A minimum of (1) reserved visitor parking space shall be pull-through to accommodate semi-trucks and trailers. Space shall be contiguous. Due to the public facing nature of this location (12’ minimum customer service counter), first floor is preferred. Offered space must meet Government requirements for fire safety, accessibility, seismic, and sustainability standards per the terms of the Lease. A fully serviced lease is required. Offered space shall not be in the 1-percent-annual chance (formally 100-year) flood plain. Lessor shall supply, install, and maintain site prep infrastructure for Government supplied, installed, and maintained Level 2 dual-port charging station. Entities are advised to familiarize themselves with the telecommunications prohibitions outlined under Section 889 of the FY19 National Defense Authorization Act (NDAA), as implemented by the Federal Acquisition Regulation (FAR).). For more information, visit: https://acquisition.gov/FAR-Case-2019-009/889_Part_B. Timeline Info: Expressions of Interest Due: 4/7/2026 Occupancy (Estimated): March, 2027 Note: Entities not currently registered in the System for Award Management (SAM) at SAM.gov, are advised to start the registration process as soon as possible if intending to submit an offer for possible lease award. Expressions of Interest shall include the following: If existing building, building name and address, and location of the available space within the Building, along with building site/ lot plans, interior layout drawings/pictures (with dimensions shown) reflecting the Space that is being offered. If new construction, site/aerial plans or building site/lot plans showing the location of the proposal land, along with the parcel number (if part of multiple parcels, all parcel numbers associated with the proposed land). Adjacent streets showing proposed ingress/egress shall be shown on the plans. Rentable square feet (RSF) and ANSI/BOMA office area (ABOA) square feet to be offered. Date of space availability. If offeror is not the owner of the building, an authorization letter signed by owner to represent owner for property will be required. * Amount of/type of parking available on-site. Photos of the space or site being submitted, or permission for Market Survey participants to photograph the space or site. For existing buildings, provide information on condition of building systems, roof, foundation, and current floor plan. Alternatively, provide a copy of a recent commercial building inspection or appraisal. Confirmation that offered space meets or will be made to meet Architectural Barriers Act Accessibility Standards (ABAAS). Confirmation that offered space meets or will be made to meet Fire Protection & Life Safety Requirements. For new construction or properties requiring expansion of the footprint of the building, confirmation that offered space meets or will be made to meet National Environmental Protection Act of 1969 (NEPA) Requirements. * As mentioned in #5 above, any submission received without written authorization to represent owner(s) will not be considered until such time the documentation has been received. In cases where an agent is representing multiple entities, written acknowledgement/permission from each entity to represent multiple interest parties for the same submission must be submitted prior to the Expressions of Interest due date. Send Expressions of Interest to: Name/Title: Heather Schmitt | Lease Contracting Officer Email Address: Heather.Schmitt@usda.gov Government Contact Information Name/Title: Heather Schmitt | Lease Contracting Officer Email Address: Heather.Schmitt@usda.gov
+
+## Contacts
+
+- Primary Contact:
+  - Name: Heather Schmitt
+  - Email: heather.schmitt@usda.gov
+  - Phone: 7244825288
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b3f2dc92b5794ecdabf286a007cfbebb/view)

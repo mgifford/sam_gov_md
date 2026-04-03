@@ -1,0 +1,33 @@
+---
+layout: default
+title: 6650--NOTICE OF INTENT TO SOLE SOURCE: Spinning Disk Confocal
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Special Notice
+notice_id: d3415df9f5534dc1967c022f60dbe680
+---
+
+# 6650--NOTICE OF INTENT TO SOLE SOURCE: Spinning Disk Confocal
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Special Notice
+- Posted: 2026-04-02 15:04:50.251-04
+- Solicitation Number: 36C26226Q0587
+- Awardee: null
+
+## Summary
+
+The Department of Veterans Affairs, Network Contracting Office (NCO) 22, located at 4811 Airport Plaza Drive, Long Beach, CA 90815 is issuing this Notice of Intent (NOI) to inform industry contractors of the Government s intent to execute a firm fixed price, Sole Source Award under FAR Part 13 Simplified Acquisition Procedures (SAP), specifically FAR Subpart
+
+13.5 Simplified Procedures for Certain Commercial Items. The intended Contractor is a large vendor Nikon Instruments Inc. located at 1300 Walt Whitman Road, Melville, NY 1174-3064 The Southern Arizona VA Healthcare System (SAVAHCS) requires the Spinning Disk Confocal imaging equipment for the existing Nikon Ti Microscope System. The Contractor shall provide the Spinning disk confocal imaging equipment with the following salient characteristics and part numbers below: Specification Details Field of View (FOV) Up to 22mm Bypass Mode Yes (Manual) Light Source LED (3mm Liquid Light Guide) & Multimode Laser (SMA Fiber) Spectral Range Excitation: 390-750 nm; Emission: 430-850 nm (*) Camera Compatibility C-mount Camera Resolution Lateral (FWHM): ~230 nm (100X NA 1.45) Axial (FWHM): ~600 nm (100X NA 1.45) Configurations Compatible with Upright and Inverted Microscopes Weight 7.65Kg | 16.8 lbs Dimensions 166.20 (W) x 234 (L) x 228.60 (H) mm 6.54 (W) x 9.21 (L) x 9 (H) inches Part Name Part Number Quantity CICERO, 50/250UM WITH CELESTA 5CH 99899 1 A1 TI INTERLOCK CABLE MXA22094 1 The SAVAHCS ALS study requires subcellular localization of proteins of interest and fluorescence microscopes are a method of choice for such characterization. The spinning disk confocal imaging system must provide imaging results with optical depth, 3D imaging reconstruction, and superior resolution. Contractors must provide a compact, high-performance widefield and spinning disk confocal imaging system designed for advanced fluorescence microscopy, live-cell imaging, and high-resolution optical research. Featuring precision optics, seamless integration with modern microscope platforms, and high-sensitivity fluorescence detection, the system must ensure superior image quality, sensitivity, and speed for cutting-edge research applications. The spinning disk confocal imaging system must be compatible with the current existing microscope operating via Nikon s proprietary NIS-Elements software. The full enclosure incubator currently on the microscope is retrofitted to allow physical clearance for the Cicero 50/250 UM with Celesta 5CH to be added. This procurement is being conducted using commercial item procedures pursuant to FAR Part 12 and FAR Part 13, specifically FAR Subpart13.106-1(b)(1)(i) allowing the Contracting Officer (CO) to solicit from one source. The North American Industry Classification System (NAICS) for this requirement is, 334516 Analytical Laboratory Instrument Manufacturing. Product of Service Code for this requirement is 6650 Optical Instruments, Test equipment, Components and Accessories. The Small Business Administration (SBA) size standard for this sector is 1,000 Employees. This notice of intent is neither a formal solicitation nor a request for competitive proposals. No solicitation document is available, and telephone requests will not be honored. No award will be made on the basis of unsolicited quotations or offers received in response to this notice. Any response to this notice must show clear, compelling and convincing evidence that competition will be advantageous to the Government. The intent of this synopsis is for informational purposes only. Information received will normally be considered solely for the purpose of determining whether to conduct a competitive procurement. A determination by the Government not to compete this action based on this notice is solely within the discretion of the Government. All inquiries and concerns must be addressed in writing via e-mail to Clift Domen at Clift.Domen@va.gov with the following information referenced in the subject line, PR for 678-26-3-8106-0111 Spinning Disk Confocal . A determination by the Government not to compete this proposed procurement based on the responses to this notice is solely within the discretion of the Government. Information received will be considered solely for the purpose of determining whether to conduct a competitive procurement. All interested parties who are responsible, certified, and capable may identify their interest and may submit capability statement which shall be considered by the agency no later than 1:00 PM Pacific Daylight Time (PDT) on Wednesday, April 8th, 2026 to Clift Domen at Clift.Domen@va.gov. The interested parties bear full responsibility to ensure complete transmission and timely receipt. SDVOSB/VOSB respondents. If respondent is or SDVOSB or VOSB, respondent is encouraged to provide proof of www.vetcert.gov certification. In addition, SDVOSB/VOSB Contractors are asked to acknowledge that they understand the limitations on sub-contracting pursuant to FAR 52.219-14, Limitations on Sub-Contracting, which will be included in the impending solicitation. Further SDVOSB/VOSB contractors are asked to respond that they are capable of providing the requested equipment, keeping within the parameters of this clause. Please provide the information below: Company Name: UEI Number: Address: Point of Contact Name: Phone No: Email: Business size information Select all that applies: o Small Business o Emerging Small Business o Small Disadvantaged Business o Certified under Section 8(a) of the Small Business Act o HubZone o Woman Owned o Certified Service-Disabled Veteran Owned Small Business (registered in VetBiz.gov) o Veteran Owned Small Business (registered in VetBiz.gov) FSS/ GSA Contract Holder Yes No FSS/ GSA Contract Number Effective Date / Expiration Date NASA SEWP Contract Holder Yes No NASA SEWP Contract Number Effective Date / Expiration Date
+
+## Contacts
+
+- Primary Contact:
+  - Name: Clift Domen
+  - Title: Contract Specialist
+  - Email: Clift.Domen@va.gov
+  - Phone: 562-766-2241
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d3415df9f5534dc1967c022f60dbe680/view)
