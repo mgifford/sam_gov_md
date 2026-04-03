@@ -25,7 +25,7 @@ def validate_markdown_files(docs_dir: Path) -> None:
     valid: list[str] = []
 
     for record in records:
-        notice_id = record.get("NoticeId", "").strip()
+        notice_id = (record.get("NoticeId") or "").strip()
         if not notice_id:
             continue
 
