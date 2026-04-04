@@ -1,0 +1,31 @@
+---
+layout: default
+title: Sample Testing
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: cd62d1d93d0b425e8cdbe5556cdc00fc
+---
+
+# Sample Testing
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-04-03 08:24:57.032-04
+- Solicitation Number: W9127N-26-Testing
+
+## Summary
+
+1. General This is a Sources Sought posted by the United States Army Corps of Engineers (USACE), Contracting, Portland District, and is for informational/market research purposes only. This is not a solicitation nor a synopsis of a proposed action under FAR Subpart 5.2. The requirement is for the establishment of single Blanket Purchase Agreements (BPA) for the testing of metal coupons to aid the QA process of the components with which these coupons are associated. The Contractor’s laboratory facility must be validated by the USACE Materials Testing Center (MTC) along with maintain ISO/IEC 17025 certification and remain validated throughout the life of this agreement. 2. Project Background The Contractor shall receive, test mechanical and/or chemical characteristics, and submit reports of coupon materials to aid the QA process of the associated components supplied to the Government via other ongoing contract efforts. The coupons will be shipped directly to the Contractor, many of which will likely come from international locations. The Contractor will not be responsible for shipping or duty costs to receive coupons. The coupon materials that may be tested include but may not be limited to ASTM A743 Grade CA6NM and Grade CF3, ASTM A27 Grade 70-40, ASTM A148 Grade 80-40, ASTM A216 Grade WCC, and ASTM A516 Grade 60. The tests that may be required include chemical analysis according to ASTM A751, carbon combustion according to ASTM E1019-18, tensile tests (yield strength, tensile strength, elongation, and reduction of area) according to ASTM A370, hardness tests according to ASTM A370, and Charpy v-notch impact tests according to ASTM A370. The range of tests completed for a given coupon will depend on the material and component with which it is associated. There may be provisions for optional storage of coupons, both tested and untested. Disposal of excess coupons may be considered at no additional cost to the Government. 3. Acquisition Plan The Portland District plans to establish single BPA for this effort. A key requirement is that any laboratory supporting the BPA must be validated by the USACE Materials Testing Center (MTC) along with maintain ISO/IEC 17025 certification and remain validated throughout the life of this agreement. The purpose of this Sources Sought is to gain knowledge of the interest, capabilities, and qualifications of industry to include Large Business, Small Business, Small Disadvantaged Businesses to include 8(a) certified small business firms, Historically Underutilized Business Zone small business (HUBZone), Woman owned Small Business (WOSB), including Economically Disadvantaged Women-Owned Small Business (EDWOSB) and Service-Disabled Veteran-Owned Small Business (SDVOSB). All are highly encouraged to respond. If your company has a suggestion, question, or concern about this Sources Sought and/or the SAM-posting-attached Performance Work Statement, BPA Terms and Conditions and BPA Test and Sampling, please email the Point of Contact below. 4. Capability Statements Contractors are requested to submit their capabilities to successfully accomplish the requirements in the attachments. We are also requesting status of requirement be validated by the USACE Materials Testing Center (MTC) along with maintain ISO/IEC 17025 certification and remain validated throughout the life of this agreement Point of Contact for all questions or assistance is the USACE Contracting Specialist, Jessica Manley, at Jessica.Manley@usace.army.mil. 5. Submission Instructions Responses to this Sources Sought notice must be submitted electronically (via email) SUBJECT: ‘USACE Coupon Testing BPA”. Please send all responses to Jessica.Manley@usace.army.mil. A Firm’s response to this Sources Sought shall be limited to (5) pages total, including cover page, and shall include the following information: a. Firm’s name, address, point of contact, phone number, email address, CAGE code and SAM number. b. Firm’s small business category and Business Size: Large Business, Small Business, Small Disadvantaged, 8(a) certified small business, Historically Underutilized Business Zone small business (HUBZone), Woman owned small business (WOSB), Economically Disadvantaged Women-owned small business (EDWOSB), and Service-Disabled Veteran-owned small business (SDVOSB). c. Provide relevant and verifiable information on the Firm’s experience/capabilities as it pertains to the proposed work outlined in section 4. Capability Statements; and, d. Any questions you have on the proposed project. 6. Disclaimer and Important Notes This notice does not obligate the Government to award a contract. No reimbursement will be made for any costs associated with providing information in response to this Sources Sought or any follow-up information. The Government reserves the right to use information provided by respondents for any purpose deemed necessary and legally appropriate. Any organization responding to this notice should ensure that its response is complete and sufficiently detailed to allow the Government to determine the organization’s qualifications to perform the work. Respondents are advised that the Government is under no obligation to acknowledge receipt of the information received or to provide feedback to respondents with respect to any information submitted. After a review of the responses, a solicitation may be published in the Government point of entry (SAM.gov). All interested firms must be registered in the System for Award Management (SAM) and remain current for the duration of the contract to be eligible for award of a government contract.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Jessica Manley
+  - Email: jessica.manley@usace.army.mil
+- Secondary Contact:
+  - Name: Cory Pfenning
+  - Email: cory.r.pfenning@usace.army.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cd62d1d93d0b425e8cdbe5556cdc00fc/view)

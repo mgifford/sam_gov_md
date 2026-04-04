@@ -1,0 +1,37 @@
+---
+layout: default
+title: TECHNOLOGY LICENSING OPPORTUNITY: ReSurgent: Advanced Rhenium Alloy Coating Technology
+agency: ENERGY, DEPARTMENT OF
+notice_type: Special Notice
+notice_id: b03147ea32384d47af5eed95a33f2fdf
+---
+
+# TECHNOLOGY LICENSING OPPORTUNITY: ReSurgent: Advanced Rhenium Alloy Coating Technology
+
+- Agency: ENERGY, DEPARTMENT OF
+- Type: Special Notice
+- Posted: 2026-04-03 12:48:52.813-04
+- Solicitation Number: S-167633
+
+## Summary
+
+ReSurgent is an advanced materials platform from Los Alamos National Laboratory that enhances the performance and durability of critical components in the world’s most demanding environments. By applying a highly resilient rhenium alloy coating to conventional materials, ReSurgent enables longer-lasting, more reliable systems while reducing cost and maintenance. Beyond protection, it also unlocks new functionality—supporting emerging applications in advanced electronics and superconducting systems where material performance is critical. From extreme heat and corrosion in aerospace and geothermal energy to precision performance in next-generation technologies, ReSurgent helps industries push the limits of what their components can achieve. How it Works: ReSurgent Advanced Rhenium Alloy Coating Technology works by using an electroplating process to apply a thin, uniform layer of rhenium alloy onto the surface of a component. Unlike traditional coating methods, it carefully controls the electrical signals during deposition to prevent defects that typically weaken coatings, resulting in a dense, tightly bonded layer that conforms even to complex shapes and internal surfaces. This approach allows manufacturers to enhance existing parts with a high-performance surface without altering their core material, making it both practical and scalable for a wide range of applications. Technical Description: ReSurgent is based on a controlled electrochemical deposition approach that enables the formation of dense, adherent rhenium and rhenium-alloy coatings. The process leverages tailored electrolyte compositions and dynamically modulated electrical waveforms to regulate metal ion reduction and film growth. By managing competing side reactions and deposition kinetics, the method produces coatings with low porosity, minimal internal stress and strong substrate adhesion, while maintaining compositional control for binary or multicomponent rhenium alloys. The platform is adaptable to a range of substrate geometries and scales, including complex and non-line-of-sight surfaces, and supports coating thicknesses relevant for structural and protective applications. Resulting films exhibit desirable microstructural uniformity and can be engineered to enhance properties such as high-temperature stability, oxidation resistance and wear performance, making ReSurgent suitable for demanding environments across aerospace, energy and advanced manufacturing sectors. Key Advantages: Superior durability in extreme environments, including extreme temperature, wear and corrosion Lower cost, high-performance solution by replacing solid rhenium with advanced coatings High-quality, crack-free coatings with strong adhesion and long service life Uniform coverage on complex and internal geometries Scalable, production-ready process for consistent, large-scale manufacturing Reduced maintenance and extended component lifespan Market Applications: Aerospace & Defense (engines, high-temperature components, protective coatings) Space & Propulsion (rocket systems, thermal protection, high-heat structures) Energy & Power Generation (turbines, reactors, hydrogen systems, geothermal infrastructure) Semiconductor & Advanced Electronics (processing equipment, high-performance hardware) Quantum & Superconducting Systems (interconnects, cryogenic electronics, low-resistance materials) Industrial & Advanced Manufacturing (tooling, wear-resistant surfaces, production equipment) Development Status: TRL 4 US Patent No. 12,398,481 B1 LA-UR-26-22679 LANL Tech Partnerships: Unlock the Innovative Potential Los Alamos National Laboratory offers a wide range of cutting-edge technologies and capabilities that may provide your company with a competitive edge in the market and unlock the innovative potential that can enhance, refine, and revolutionize your products. LANL’s licensing program focuses on moving inventions developed by our researchers to commercial innovations. Patented and patent pending inventions and copyrighted software are available to existing and start-up companies through exclusive and non-exclusive licensing agreements. For specific discussions, please contact licensing@lanl.gov. Note: This is not a call for external services for the development of this technology. https://www.lanl.gov/engage/collaboration/feynman-center/partner-with-us/licensing-technology m.lanl.gov/tech-search
+
+## Contacts
+
+- Primary Contact:
+  - Name: Satya Srinivasan
+  - Email: licensing@lanl.gov
+- Secondary Contact:
+  - Name: Lindsay Augustyn
+  - Email: licensing@lanl.gov
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: microstructural uniformity and can be engineered to enhance properties such as high-temperature stability, oxidation resistance and wear performance, making ReSurgent suitable for demanding environments across aerospace, energy and advanced manufacturing sectors. Key Advantages: Superior durability in extreme environments, including extreme temperature, wear and corrosion Lower cost, high-performance solution by replacing solid rhenium with advanced coatings High-quality, crack-free coatings with strong adhesion and long service life Uniform coverage on complex and internal geometries Scalable, production-ready process for consistent, large-scale manufacturing Reduced maintenance and extended component lifespan Market Applications: Aerospace & Defense (engines, high-temperature components, protective coatings) Space & Propulsion (rocket systems, thermal protection, high-heat structures) Energy & Power Generation (turbines, reactors, hydrogen systems, geothermal infrastructure) Semiconductor & Advanced Electronics (processing equipment, high-performance hardware) Quantum & Superconducting Systems (interconnects, cryogenic electronics, low-resistance materials) Industrial & Advanced Manufacturing (tooling, wear-resistant surfaces, production equipment) Development Status: TRL 4 US Patent No. 12,398,481 B1 LA-UR-26-22679 LANL Tech Partnerships: Unlock the Innovative Potential Los Alamos National Laboratory offers a wide range of cutting-edge technologies and capabilities that may provide your company with a competitive edge in the market and unlock the innovative potential that can enhance, refine, and revolutionize your products. LANL’s licensing program focuses on moving inventions developed by our researchers to commercial innovations. Patented and patent pending inventions and copyrighted software are available to existing and start-up companies through exclusive and non-exclusive licensing agreements. For specific discussions, please contact licensing@lanl.gov. Note: This is not a call for external services for the development of this technology. https://www.lanl.gov/engage/collaboration/feynman-center/partner-with-us/licensing-technology m.lanl.gov/tech-search
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b03147ea32384d47af5eed95a33f2fdf/view)

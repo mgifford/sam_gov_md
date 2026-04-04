@@ -1,0 +1,28 @@
+---
+layout: default
+title: 59--COUPLER,TRANSMISSIO
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: b25cdee671624c4c86c6e95ee90a6005
+---
+
+# 59--COUPLER,TRANSMISSIO
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-04-03 07:37:26.948-04
+- Solicitation Number: N0038325QT363
+
+## Summary
+
+CONTACT INFORMATION|4|N791.15|LRH|771-229-0402|carolyn.a.clark30.civ@us.navy.mil| COMMERCIAL ITEM PROCUREMENT NOTICE - AWARD|4||||| ITEM UNIQUE IDENTIFICATION AND VALUATION (JAN 2023)|19|||||||||||||||||||| HIGHER-LEVEL CONTRACT QUALITY REQUIREMENT|8||||||||| FMS DELIVERY AND SHIPPING INSTRUCTIONS|3|||N52214.13| WIDE AREA WORKFLOW PAYMENT INSTRUCTIONS (JAN 2023)|16|Invoice and receiving report combo||TBD|N00383|TBD|TBD|See schedule|TBD||||||||| NAVY USE OF ABILITYONE SUPPORT CONTRACTOR - RELEASE OF OFFEROR INFORMATION (3-18))|1|| EQUAL OPPORTUITY FOR WORKERS WITH DISABILITIES (JUN 2020)|2||| BUY AMERICAN-FREE TRADE AGREEMENTS-BALANCE OF PAYMENTS PROGRAM-BASIC (FEB 2024)|11|||||||||||| CONTRACT TERMS AND CONDITIONS REQUIRED TO IMPLEMENT STATUTES OR EXECUTIVEORDERS--COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES (MAR 2025)(DEVIATION 2025-O|81|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| CUTIVE ORDERS--COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES (MAR 2025)(DEVIATION|16||||||||||||||||| |13|||||||||||||| BUY AMERICAN-FREE TRADE AGREEMENTS-BALANCE OF PAYMENTS PROGRAM CERTIFICATE-BASIC (FEB 2024))|5|||||| BUY AMERICAN--BALANCE OF PAYMENTS PROGRAM (FEB 2024)|1|| ROYALTY INFORMATION (APR 1984)|1|| ANNUAL REPRESENTATIONS AND CERTIFICATIONS (MAR 2025)(DEVIATION 2025-O0003 AND 2025-O0004))|12|334220|1250||||||||||| FACSIMILE PROPOSALS (OCT 1997)|1|| NOTICE OF PRIORITY RATING FOR NATIONAL DEFENSE, EMERGENCY PREPAREDNESS, ANDENERGY PROGRAM USE (APR 2008))|2||x| The purpose of this amendment is to extend the solicitation period until 13 MAR 2026. All other terms and conditions remain the same. \ The purpose of this amendment is to clarify the evaluation criteria, and permit who have already submitted quotes to submit revised quotes by the below closing date listed below and one Page 1: 1. The required delivery date is hereby updated from 90 days to 400 days. 2. The evaluation factors for this solicitation are delivery and price. Delivery is more important than price. 3. Quotes will be evaluated as follows: 4. Delivery - All units must be delivered within 400 days. Early and/or incremental deliveries are preferred. The degree to which the offeror is able to deliver units prior to the 400 day delivery deadline will be evaluated. Delivery will be evaluated based on the quoted delivery schedule, if provided. The Government will consider the delivery schedule in its entirety, with emphasis on the timeline and quantity of the first delivery. The quoted delivery schedule shall be specified in the quote. 5. Price - Total price for all quantities will be evaluated. There will be no pevaluation. Offerors are reminded that this is a competitive procurement and arencouraged to quote their most competitive prices. 6. If an offeror that has already submitted a quote does not respond to this amendment, the Government will assume that the provided quote stands as is. 7. To the extent this amendment conflicts with any section in the solicitation,this amendment controls. 8. Quote revisions must be emailed to the below email address by close of business on August 27, 2025: carolyn.a.clark30.civ@us.navy.mil \ The purpose of this amendment is as follows: The following remarks are hereby incorporated: This solicitation will be using competitive procedures. Quotes may be emailed to the below address and must be received by 04:30PM EST on the closing date, listed in block 10 on page 1 of the solicitation: Carolyn.a.clark30.civ@us.navy.mil Quotes received after the closing date are considered to be late and will not be considered for award. If only one acceptable quote is received in response to this solicitation, competitive procedures will shift to sole source negotiations. The Government intends to make a single award to the eligible, responsible quoter whose quote is technically acceptable and which is determined most advantageous to the Government, price considered. All other terms and conditions remain unchanged. \ All contractual documents (i.e. contracts, purchase orders, task orders, delivery orders, and modifications) related to the instant procurement are considered to be "issued" by the Government when copies are either deposited in the mail, transmitted by facsimile, or sent by other electronic commerce methods, such as email. The Government's acceptance of the contractor's proposal constitutes bilateral agreement to "issue" contractual documents as detailed herein. Early and incremental deliveries accepted and preferred. \
+
+## Contacts
+
+- Primary Contact:
+  - Name: Telephone: 2156971073
+  - Email: CAROLYN.A.CLARK30.CIV@US.NAVY.MIL
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b25cdee671624c4c86c6e95ee90a6005/view)

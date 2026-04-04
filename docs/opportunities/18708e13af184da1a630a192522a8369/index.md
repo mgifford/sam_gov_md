@@ -1,0 +1,33 @@
+---
+layout: default
+title: USS BLUE RIDGE (LCC 19) 5C1 DSRA TYCOM
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: 18708e13af184da1a630a192522a8369
+---
+
+# USS BLUE RIDGE (LCC 19) 5C1 DSRA TYCOM
+
+- Agency: DEPT OF DEFENSE
+- Type: Presolicitation
+- Posted: 2026-04-03 03:45:06.955-04
+- Solicitation Number: N6264926RA047
+
+## Summary
+
+PRE-SOLICITATION NOTICE - N6264926RA047 Naval Supply Systems Command (NAVSUP) Fleet Logistics Center Yokosuka (FLCY) Action: Pre-Solicitation Notice Agency: Department of the Navy DoDAAC: NAVSUP FLCY (N62649) Location: Yokosuka, JAPAN Classification Code: J999 – Non-Nuclear Ship Repair (West) NAICS Code: 336611 – Ship Building and Repairing Subject: Ship repair and Maintenance for Forward Deployed Naval Forces (FDNF) - USS BLUE RIDGE (LCC-19) FY26 5C1 Drydocking Selected Restricted Availability (DSRA) Solicitation Number: N6264926RA047 Description: This is a pre-solicitation notice for an upcoming requirement by Ship Repair Facility and Japan Regional Maintenance Center (SRF-JRMC) and Naval Supply Systems Command (NAVSUP) Fleet Logistics Center Yokosuka (FLCY) for Ship Repair services. The Government intends to issue a solicitation for a Firm-Fixed-Price (FFP) contract for the repair and continuous maintenance of United States Navy (USN) Surface Ship USS BLUE RIDGE (LCC-19). The anticipated scope of work includes, but not limited to the following work items, known as Task Group Instructions (TGIs) and Tightness & Operational Tests (TOs): 3819P65427-A01: F/O - REPLACE DUCT HEATER 2-147-2 IN 2-146-2-Q 3819P59304-A01: F/O - REPLACE AFT CHT DISCHARGE PIPING 3819P59304-T01: SEWAGE SYS (T & OP) - KTR 3819P53306-A01: F/O - MODIFY FOUNDATION FOR HOT POTW ACC TANK NO. 3A AND NO. 3B IN 4-86-3-E 3819P53306-T01: POTABLE WATER SYS (T & OP) - KTR 3819P53307-A01: F/O - MODIFY FOUNDATION FOR HOT POTW ACC TANK NO. 2A AND NO. 2B IN 4-56-2-E 3819P53307-T01: POTABLE WATER SYS (T & OP) – KTR 3819P53308-A01: F/O - MODIFY FOUNDATION FOR HOT POTW ACC TANK NO. 1A AND NO. 1B IN 4-56-1-E 3819P53308-T01: POTABLE WATER SYS (T & OP) – KTR The work will be performed onboard Commander, Fleet Activities Yokosuka (CFAY), located in Yokosuka Naval Base, Japan. The anticipated Period of Performance (POP) is from 21 JUL 2026 to 20 JUN 2028. Projected Solicitation: The Government anticipates issuing a Request for Proposal (RFP) on or about 19 APR 2026. The solicitation and any subsequent amendments will be made available through the System for Award Management (SAM.gov) website. Competition and Eligibility: The solicitation upon issuance is intended only for sources duly authorized to operate and do business in Japan, as prescribed by DFARS 252.225-7042. Additionally, to ensure the U.S. Navy receives satisfactory repair effort to Navy ships, boats and crafts, the solicitation will require the offeror to possess a current and active USN Master Ship Repair Agreement (MSRA) or Agreement for Boat Repair (ABR) issued by the U.S. Navy or NAVSUP FLCY. Non MSRA/ABR holders may request an application for an MSRA or an ABR certification by requesting an application package from: flcy_msra_abr_group@us.navy.mil. Please note that the MSRA/ABR Certification process may require a year to complete. Set-asides: No socio-economic set-asides will be used for this acquisition. Point of Contact (POC): Peter Jommel Arrieta, peterjommel.s.arrieta.ln@us.navy.mil (Contracting Officer) Neil Flint, neil.s.flint.civ@us.navy.mil (Contract Specialist) Additional Information: This notice is NOT a request for proposals. The solicitation, when issued, will be available electronically via the System for Award Management (SAM) website at https://sam.gov/. All responsible and eligible sources may submit a quotation, bid, or proposal, as appropriate, in response to the subsequent solicitation, which will be considered by the agency. It is the responsibility of interested parties to monitor this site for the release of the solicitation and any subsequent amendments. All questions regarding this pre-solicitation notice should be submitted in writing to the POC listed above.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Neil Flint
+  - Email: neil.s.flint.civ@us.navy.mil
+  - Phone: 81468167198
+- Secondary Contact:
+  - Name: Peter Arrieta
+  - Email: peterjommel.s.arrieta.ln@us.navy.mil
+  - Phone: 0081468166294
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/18708e13af184da1a630a192522a8369/view)
