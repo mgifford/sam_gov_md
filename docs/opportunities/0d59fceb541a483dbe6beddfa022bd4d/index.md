@@ -23,6 +23,10 @@ Proposed procurement for NSN 5940000868318 TERMINAL,LUG: Line 0001 Qty 580 UI PG
   - Name: Questions regarding this solicitation should be emailed to the buyer listed in block 5 of the solicitation document which can be found under the Additional Information link. If the Additional Information link does not work, please go to https://www.dibbs.bsm.dla.mil/Solicitations/ and type the solicitation number in the Global Search box.
   - Email: DibbsBSM@dla.mil
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0d59fceb541a483dbe6beddfa022bd4d/view)

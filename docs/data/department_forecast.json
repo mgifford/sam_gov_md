@@ -1,145 +1,162 @@
 {
-  "forecast_date": "2026-04-04",
+  "forecast_date": "2026-04-05",
   "departments_by_opportunity_volume": [
     {
-      "total_records": 18,
-      "open_opportunities": 15,
-      "awarded": 3,
-      "win_rate_percent": 16.7,
-      "estimated_monthly_value": 2349252,
-      "average_award_value": 783084,
-      "opportunities_with_attachments": 2,
-      "opportunities_with_keyword_matches": 4,
-      "top_awardees": [
-        {
-          "name": "CTC ENTERPRISE VENTURES CORP ",
-          "wins": 2,
-          "total_value": 1321520
-        },
-        {
-          "name": "JOHNSON CONTROLS NAVY SYSTEMS, LLC ",
-          "wins": 1,
-          "total_value": 1027732
-        }
-      ],
+      "total_records": 141,
+      "open_opportunities": 141,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 137,
+      "top_awardees": [],
       "department": "DEPT OF DEFENSE"
     },
     {
       "total_records": 4,
-      "open_opportunities": 2,
-      "awarded": 2,
-      "win_rate_percent": 50.0,
-      "estimated_monthly_value": 4439130,
-      "average_award_value": 2219565,
+      "open_opportunities": 1,
+      "awarded": 3,
+      "win_rate_percent": 75.0,
+      "estimated_monthly_value": 3627881,
+      "average_award_value": 1209293,
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [
         {
-          "name": "PROGRESSIVE CONSTRUCTION SERVICES LLC JANESVILLE 53545",
+          "name": "PARKING VETERANS INC SANTA ANA 92705",
           "wins": 1,
-          "total_value": 4393000
+          "total_value": 3194140
         },
         {
-          "name": "NEVADA BOILER PARTS LLC LAS VEGAS 89102",
+          "name": "TSR SOLUTIONS LLC OWASSO 74055",
           "wins": 1,
-          "total_value": 46130
+          "total_value": 358752
+        },
+        {
+          "name": "SMK Design Group JV, LLC Kirkwood MO 63122 USA",
+          "wins": 1,
+          "total_value": 74989
         }
       ],
       "department": "VETERANS AFFAIRS, DEPARTMENT OF"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "INTERIOR, DEPARTMENT OF THE"
     }
   ],
   "departments_by_award_value": [
     {
       "total_records": 4,
-      "open_opportunities": 2,
-      "awarded": 2,
-      "win_rate_percent": 50.0,
-      "estimated_monthly_value": 4439130,
-      "average_award_value": 2219565,
+      "open_opportunities": 1,
+      "awarded": 3,
+      "win_rate_percent": 75.0,
+      "estimated_monthly_value": 3627881,
+      "average_award_value": 1209293,
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [
         {
-          "name": "PROGRESSIVE CONSTRUCTION SERVICES LLC JANESVILLE 53545",
+          "name": "PARKING VETERANS INC SANTA ANA 92705",
           "wins": 1,
-          "total_value": 4393000
+          "total_value": 3194140
         },
         {
-          "name": "NEVADA BOILER PARTS LLC LAS VEGAS 89102",
+          "name": "TSR SOLUTIONS LLC OWASSO 74055",
           "wins": 1,
-          "total_value": 46130
+          "total_value": 358752
+        },
+        {
+          "name": "SMK Design Group JV, LLC Kirkwood MO 63122 USA",
+          "wins": 1,
+          "total_value": 74989
         }
       ],
       "department": "VETERANS AFFAIRS, DEPARTMENT OF"
     },
     {
-      "total_records": 18,
-      "open_opportunities": 15,
-      "awarded": 3,
-      "win_rate_percent": 16.7,
-      "estimated_monthly_value": 2349252,
-      "average_award_value": 783084,
-      "opportunities_with_attachments": 2,
-      "opportunities_with_keyword_matches": 4,
-      "top_awardees": [
-        {
-          "name": "CTC ENTERPRISE VENTURES CORP ",
-          "wins": 2,
-          "total_value": 1321520
-        },
-        {
-          "name": "JOHNSON CONTROLS NAVY SYSTEMS, LLC ",
-          "wins": 1,
-          "total_value": 1027732
-        }
-      ],
+      "total_records": 141,
+      "open_opportunities": 141,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 137,
+      "top_awardees": [],
       "department": "DEPT OF DEFENSE"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "INTERIOR, DEPARTMENT OF THE"
     }
   ],
   "department_forecasts": {
     "DEPT OF DEFENSE": {
-      "total_records": 18,
-      "open_opportunities": 15,
-      "awarded": 3,
-      "win_rate_percent": 16.7,
-      "estimated_monthly_value": 2349252,
-      "average_award_value": 783084,
-      "opportunities_with_attachments": 2,
-      "opportunities_with_keyword_matches": 4,
-      "top_awardees": [
-        {
-          "name": "CTC ENTERPRISE VENTURES CORP ",
-          "wins": 2,
-          "total_value": 1321520
-        },
-        {
-          "name": "JOHNSON CONTROLS NAVY SYSTEMS, LLC ",
-          "wins": 1,
-          "total_value": 1027732
-        }
-      ]
+      "total_records": 141,
+      "open_opportunities": 141,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 137,
+      "top_awardees": []
     },
     "VETERANS AFFAIRS, DEPARTMENT OF": {
       "total_records": 4,
-      "open_opportunities": 2,
-      "awarded": 2,
-      "win_rate_percent": 50.0,
-      "estimated_monthly_value": 4439130,
-      "average_award_value": 2219565,
+      "open_opportunities": 1,
+      "awarded": 3,
+      "win_rate_percent": 75.0,
+      "estimated_monthly_value": 3627881,
+      "average_award_value": 1209293,
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [
         {
-          "name": "PROGRESSIVE CONSTRUCTION SERVICES LLC JANESVILLE 53545",
+          "name": "PARKING VETERANS INC SANTA ANA 92705",
           "wins": 1,
-          "total_value": 4393000
+          "total_value": 3194140
         },
         {
-          "name": "NEVADA BOILER PARTS LLC LAS VEGAS 89102",
+          "name": "TSR SOLUTIONS LLC OWASSO 74055",
           "wins": 1,
-          "total_value": 46130
+          "total_value": 358752
+        },
+        {
+          "name": "SMK Design Group JV, LLC Kirkwood MO 63122 USA",
+          "wins": 1,
+          "total_value": 74989
         }
       ]
+    },
+    "INTERIOR, DEPARTMENT OF THE": {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": []
     }
   }
 }

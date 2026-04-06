@@ -34,6 +34,10 @@ notice_id: 32c9d60edde7488f9c2d22b0e8065ea3
 
 - Attachment 1: – Salient Characteristics
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/32c9d60edde7488f9c2d22b0e8065ea3/view)

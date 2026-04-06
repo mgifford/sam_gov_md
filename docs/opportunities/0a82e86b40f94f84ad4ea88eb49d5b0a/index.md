@@ -27,6 +27,10 @@ No summary provided.
   - Email: barry.bland@va.gov
   - Phone: 858-626-8744
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0a82e86b40f94f84ad4ea88eb49d5b0a/view)

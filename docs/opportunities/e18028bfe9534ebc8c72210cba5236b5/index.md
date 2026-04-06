@@ -34,6 +34,10 @@ DOCUMENT TYPE: SOURCES SOUGHT NOTICE ID: FA524026QM103 NAICS CODE: 333310 SUBJEC
 
 - Attachment 1: – Salient Characteristics
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e18028bfe9534ebc8c72210cba5236b5/view)

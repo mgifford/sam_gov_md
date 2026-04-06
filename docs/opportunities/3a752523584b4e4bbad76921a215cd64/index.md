@@ -26,6 +26,10 @@ No summary provided.
   - Email: Gislaine.Dorvil@va.gov
   - Phone: 9139461139
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3a752523584b4e4bbad76921a215cd64/view)

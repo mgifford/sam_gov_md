@@ -29,6 +29,10 @@ When: March 18, 2026, 9AM-Noon (Presentations: Noon-1P)(Capabilities Briefings: 
 
 - Attachment 1: details Apart from the SPL BOOH, the Society of American Military Engineers (SAME), Phoenix Post will host their annual Industry Government Engagement (IGE) on March 17th (8A-5P). Personnel from Gov agencies and facilities throughout AZ will be on hand to discuss their upcoming projects. SPL personnel will also be on hand if you would like to engage them about one/more of the projects above. There is a nominal fee to attend the IGE. Please turn to: https://www.same.org/phoenix/ for further information. The BOOH and the IGE are two separate events
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fc208f874b2c4c02961cacd5d9336dcb/view)

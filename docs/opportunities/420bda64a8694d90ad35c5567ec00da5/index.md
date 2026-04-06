@@ -26,6 +26,10 @@ PRE-SOLICITATION NOTICE BB - Upgrade IV Mixing Room for USP 800 Compliance Lee C
   - Email: laurie.whitmore@va.gov
   - Phone: (813) 816-9093
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/420bda64a8694d90ad35c5567ec00da5/view)

@@ -23,6 +23,10 @@ The U.S. Army Corps of Engineers (USACE), Los Angeles District (SPL) will hold a
   - Name: Roger Minami
   - Email: kinya.r.minami@usace.army.mil
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b068128cf9ce457bb9e17db77db7b6ad/view)

@@ -27,6 +27,10 @@ No summary provided.
   - Email: tammie.chaney@va.gov
   - Phone: 601-206-6963
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/976b2197df1f4667bdd53275ed88f994/view)
