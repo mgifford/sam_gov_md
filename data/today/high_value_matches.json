@@ -1,8 +1,8 @@
 {
-  "requested_date": "2026-04-05",
-  "effective_date": "2026-04-04",
-  "records_total": 22,
-  "high_value_count": 0,
+  "requested_date": "2026-04-06",
+  "effective_date": "2026-04-05",
+  "records_total": 146,
+  "high_value_count": 2,
   "min_hits": 8,
   "focus_terms": [
     "accessibility",
@@ -22,5 +22,52 @@
     "wcag",
     "web"
   ],
-  "matches": []
+  "matches": [
+    {
+      "NoticeId": "38fa15c380e14fcd93e18975db701688",
+      "Sol#": "W912HV-26-Z-0001",
+      "Title": "FY2026 - FY2027 Projections",
+      "Type": "Special Notice",
+      "PostedDate": "2026-04-05 21:03:15.804-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "",
+      "Link": "https://sam.gov/workspace/contract/opp/38fa15c380e14fcd93e18975db701688/view",
+      "matches": [
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 4
+        },
+        {
+          "term": "cybersecurity",
+          "category": "security",
+          "count": 4
+        },
+        {
+          "term": "nist",
+          "category": "compliance",
+          "count": 1
+        }
+      ],
+      "total_hits": 9
+    },
+    {
+      "NoticeId": "d6456a821660431c88eb6fc6dee11dad",
+      "Sol#": "SPE7M126T8607",
+      "Title": "12--SELECTOR,TRIGGER-VI",
+      "Type": "Combined Synopsis/Solicitation",
+      "PostedDate": "2026-04-05 01:02:08.901-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "334511",
+      "Link": "https://sam.gov/workspace/contract/opp/d6456a821660431c88eb6fc6dee11dad/view",
+      "matches": [
+        {
+          "term": "ui",
+          "category": "design",
+          "count": 9
+        }
+      ],
+      "total_hits": 9
+    }
+  ]
 }

@@ -6,21 +6,6 @@
       "group": "agency"
     },
     {
-      "id": "type:Combined Synopsis/Solicitation",
-      "label": "Combined Synopsis/Solicitation",
-      "group": "type"
-    },
-    {
-      "id": "naics:722310",
-      "label": "722310",
-      "group": "naics"
-    },
-    {
-      "id": "naics:541930",
-      "label": "541930",
-      "group": "naics"
-    },
-    {
       "id": "type:Special Notice",
       "label": "Special Notice",
       "group": "type"
@@ -31,14 +16,24 @@
       "group": "naics"
     },
     {
-      "id": "agency:VETERANS AFFAIRS, DEPARTMENT OF",
-      "label": "VETERANS AFFAIRS, DEPARTMENT OF",
+      "id": "agency:INTERIOR, DEPARTMENT OF THE",
+      "label": "INTERIOR, DEPARTMENT OF THE",
       "group": "agency"
     },
     {
-      "id": "naics:484110",
-      "label": "484110",
+      "id": "type:Solicitation",
+      "label": "Solicitation",
+      "group": "type"
+    },
+    {
+      "id": "naics:236220",
+      "label": "236220",
       "group": "naics"
+    },
+    {
+      "id": "agency:VETERANS AFFAIRS, DEPARTMENT OF",
+      "label": "VETERANS AFFAIRS, DEPARTMENT OF",
+      "group": "agency"
     },
     {
       "id": "type:Award Notice",
@@ -46,13 +41,8 @@
       "group": "type"
     },
     {
-      "id": "naics:333414",
-      "label": "333414",
-      "group": "naics"
-    },
-    {
-      "id": "naics:236220",
-      "label": "236220",
+      "id": "naics:485991",
+      "label": "485991",
       "group": "naics"
     },
     {
@@ -61,81 +51,353 @@
       "group": "type"
     },
     {
-      "id": "naics:532490",
-      "label": "532490",
+      "id": "naics:334220",
+      "label": "334220",
       "group": "naics"
     },
     {
-      "id": "type:Solicitation",
-      "label": "Solicitation",
+      "id": "type:Combined Synopsis/Solicitation",
+      "label": "Combined Synopsis/Solicitation",
       "group": "type"
     },
     {
-      "id": "naics:333996",
-      "label": "333996",
+      "id": "naics:334419",
+      "label": "334419",
       "group": "naics"
     },
     {
-      "id": "naics:561621",
-      "label": "561621",
-      "group": "naics"
-    },
-    {
-      "id": "naics:336611",
-      "label": "336611",
-      "group": "naics"
-    },
-    {
-      "id": "naics:611430",
-      "label": "611430",
+      "id": "naics:541310",
+      "label": "541310",
       "group": "naics"
     },
     {
       "id": "type:Presolicitation",
       "label": "Presolicitation",
       "group": "type"
+    },
+    {
+      "id": "naics:561599",
+      "label": "561599",
+      "group": "naics"
+    },
+    {
+      "id": "naics:332410",
+      "label": "332410",
+      "group": "naics"
+    },
+    {
+      "id": "naics:332911",
+      "label": "332911",
+      "group": "naics"
+    },
+    {
+      "id": "naics:333998",
+      "label": "333998",
+      "group": "naics"
+    },
+    {
+      "id": "naics:332999",
+      "label": "332999",
+      "group": "naics"
+    },
+    {
+      "id": "naics:334512",
+      "label": "334512",
+      "group": "naics"
+    },
+    {
+      "id": "naics:332919",
+      "label": "332919",
+      "group": "naics"
+    },
+    {
+      "id": "naics:334417",
+      "label": "334417",
+      "group": "naics"
+    },
+    {
+      "id": "naics:334416",
+      "label": "334416",
+      "group": "naics"
+    },
+    {
+      "id": "naics:335312",
+      "label": "335312",
+      "group": "naics"
+    },
+    {
+      "id": "naics:336360",
+      "label": "336360",
+      "group": "naics"
+    },
+    {
+      "id": "naics:333613",
+      "label": "333613",
+      "group": "naics"
+    },
+    {
+      "id": "naics:332112",
+      "label": "332112",
+      "group": "naics"
+    },
+    {
+      "id": "naics:334412",
+      "label": "334412",
+      "group": "naics"
+    },
+    {
+      "id": "naics:336413",
+      "label": "336413",
+      "group": "naics"
+    },
+    {
+      "id": "naics:334515",
+      "label": "334515",
+      "group": "naics"
+    },
+    {
+      "id": "naics:326220",
+      "label": "326220",
+      "group": "naics"
+    },
+    {
+      "id": "naics:332439",
+      "label": "332439",
+      "group": "naics"
+    },
+    {
+      "id": "naics:334513",
+      "label": "334513",
+      "group": "naics"
+    },
+    {
+      "id": "naics:339991",
+      "label": "339991",
+      "group": "naics"
+    },
+    {
+      "id": "naics:335931",
+      "label": "335931",
+      "group": "naics"
+    },
+    {
+      "id": "naics:333923",
+      "label": "333923",
+      "group": "naics"
+    },
+    {
+      "id": "naics:335999",
+      "label": "335999",
+      "group": "naics"
+    },
+    {
+      "id": "naics:332722",
+      "label": "332722",
+      "group": "naics"
+    },
+    {
+      "id": "naics:333612",
+      "label": "333612",
+      "group": "naics"
+    },
+    {
+      "id": "naics:332996",
+      "label": "332996",
+      "group": "naics"
+    },
+    {
+      "id": "naics:339113",
+      "label": "339113",
+      "group": "naics"
+    },
+    {
+      "id": "naics:314994",
+      "label": "314994",
+      "group": "naics"
+    },
+    {
+      "id": "naics:327999",
+      "label": "327999",
+      "group": "naics"
+    },
+    {
+      "id": "naics:334413",
+      "label": "334413",
+      "group": "naics"
+    },
+    {
+      "id": "naics:332510",
+      "label": "332510",
+      "group": "naics"
+    },
+    {
+      "id": "naics:334514",
+      "label": "334514",
+      "group": "naics"
+    },
+    {
+      "id": "naics:334519",
+      "label": "334519",
+      "group": "naics"
+    },
+    {
+      "id": "naics:335932",
+      "label": "335932",
+      "group": "naics"
+    },
+    {
+      "id": "naics:332991",
+      "label": "332991",
+      "group": "naics"
+    },
+    {
+      "id": "naics:335910",
+      "label": "335910",
+      "group": "naics"
+    },
+    {
+      "id": "naics:336390",
+      "label": "336390",
+      "group": "naics"
+    },
+    {
+      "id": "naics:488190",
+      "label": "488190",
+      "group": "naics"
+    },
+    {
+      "id": "naics:339112",
+      "label": "339112",
+      "group": "naics"
+    },
+    {
+      "id": "naics:333519",
+      "label": "333519",
+      "group": "naics"
+    },
+    {
+      "id": "naics:327215",
+      "label": "327215",
+      "group": "naics"
+    },
+    {
+      "id": "naics:335314",
+      "label": "335314",
+      "group": "naics"
+    },
+    {
+      "id": "naics:333310",
+      "label": "333310",
+      "group": "naics"
+    },
+    {
+      "id": "naics:334511",
+      "label": "334511",
+      "group": "naics"
+    },
+    {
+      "id": "naics:114119",
+      "label": "114119",
+      "group": "naics"
+    },
+    {
+      "id": "naics:335313",
+      "label": "335313",
+      "group": "naics"
+    },
+    {
+      "id": "naics:314999",
+      "label": "314999",
+      "group": "naics"
+    },
+    {
+      "id": "naics:331210",
+      "label": "331210",
+      "group": "naics"
+    },
+    {
+      "id": "naics:332994",
+      "label": "332994",
+      "group": "naics"
+    },
+    {
+      "id": "naics:325180",
+      "label": "325180",
+      "group": "naics"
+    },
+    {
+      "id": "naics:335139",
+      "label": "335139",
+      "group": "naics"
+    },
+    {
+      "id": "naics:336415",
+      "label": "336415",
+      "group": "naics"
+    },
+    {
+      "id": "naics:332322",
+      "label": "332322",
+      "group": "naics"
+    },
+    {
+      "id": "naics:334418",
+      "label": "334418",
+      "group": "naics"
+    },
+    {
+      "id": "naics:336350",
+      "label": "336350",
+      "group": "naics"
+    },
+    {
+      "id": "naics:336310",
+      "label": "336310",
+      "group": "naics"
+    },
+    {
+      "id": "naics:333922",
+      "label": "333922",
+      "group": "naics"
+    },
+    {
+      "id": "naics:334310",
+      "label": "334310",
+      "group": "naics"
+    },
+    {
+      "id": "naics:336411",
+      "label": "336411",
+      "group": "naics"
+    },
+    {
+      "id": "naics:336412",
+      "label": "336412",
+      "group": "naics"
     }
   ],
   "edges": [
     {
       "source": "agency:DEPT OF DEFENSE",
-      "target": "type:Combined Synopsis/Solicitation",
-      "kind": "agency_to_type",
-      "weight": 3
-    },
-    {
-      "source": "type:Combined Synopsis/Solicitation",
-      "target": "naics:722310",
-      "kind": "type_to_naics",
-      "weight": 1
-    },
-    {
-      "source": "type:Combined Synopsis/Solicitation",
-      "target": "naics:541930",
-      "kind": "type_to_naics",
-      "weight": 1
-    },
-    {
-      "source": "agency:DEPT OF DEFENSE",
       "target": "type:Special Notice",
       "kind": "agency_to_type",
-      "weight": 1
+      "weight": 3
     },
     {
       "source": "type:Special Notice",
       "target": "naics:Unknown NAICS",
       "kind": "type_to_naics",
-      "weight": 1
+      "weight": 3
     },
     {
-      "source": "agency:VETERANS AFFAIRS, DEPARTMENT OF",
-      "target": "type:Combined Synopsis/Solicitation",
+      "source": "agency:INTERIOR, DEPARTMENT OF THE",
+      "target": "type:Solicitation",
       "kind": "agency_to_type",
       "weight": 1
     },
     {
-      "source": "type:Combined Synopsis/Solicitation",
-      "target": "naics:484110",
+      "source": "type:Solicitation",
+      "target": "naics:236220",
       "kind": "type_to_naics",
       "weight": 1
     },
@@ -143,17 +405,11 @@
       "source": "agency:VETERANS AFFAIRS, DEPARTMENT OF",
       "target": "type:Award Notice",
       "kind": "agency_to_type",
-      "weight": 2
+      "weight": 3
     },
     {
       "source": "type:Award Notice",
-      "target": "naics:333414",
-      "kind": "type_to_naics",
-      "weight": 1
-    },
-    {
-      "source": "type:Award Notice",
-      "target": "naics:236220",
+      "target": "naics:485991",
       "kind": "type_to_naics",
       "weight": 1
     },
@@ -165,81 +421,411 @@
     },
     {
       "source": "type:Sources Sought",
-      "target": "naics:532490",
-      "kind": "type_to_naics",
-      "weight": 1
-    },
-    {
-      "source": "agency:DEPT OF DEFENSE",
-      "target": "type:Solicitation",
-      "kind": "agency_to_type",
-      "weight": 3
-    },
-    {
-      "source": "type:Solicitation",
-      "target": "naics:333996",
-      "kind": "type_to_naics",
-      "weight": 1
-    },
-    {
-      "source": "agency:VETERANS AFFAIRS, DEPARTMENT OF",
-      "target": "type:Solicitation",
-      "kind": "agency_to_type",
-      "weight": 1
-    },
-    {
-      "source": "type:Solicitation",
-      "target": "naics:561621",
-      "kind": "type_to_naics",
-      "weight": 1
-    },
-    {
-      "source": "type:Solicitation",
-      "target": "naics:336611",
+      "target": "naics:Unknown NAICS",
       "kind": "type_to_naics",
       "weight": 1
     },
     {
       "source": "type:Sources Sought",
-      "target": "naics:Unknown NAICS",
-      "kind": "type_to_naics",
-      "weight": 1
-    },
-    {
-      "source": "type:Solicitation",
-      "target": "naics:611430",
+      "target": "naics:334220",
       "kind": "type_to_naics",
       "weight": 1
     },
     {
       "source": "agency:DEPT OF DEFENSE",
-      "target": "type:Presolicitation",
+      "target": "type:Combined Synopsis/Solicitation",
       "kind": "agency_to_type",
-      "weight": 6
+      "weight": 136
     },
     {
-      "source": "type:Presolicitation",
-      "target": "naics:Unknown NAICS",
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:334419",
       "kind": "type_to_naics",
-      "weight": 6
-    },
-    {
-      "source": "agency:DEPT OF DEFENSE",
-      "target": "type:Award Notice",
-      "kind": "agency_to_type",
-      "weight": 3
+      "weight": 4
     },
     {
       "source": "type:Award Notice",
-      "target": "naics:Unknown NAICS",
+      "target": "naics:541310",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:VETERANS AFFAIRS, DEPARTMENT OF",
+      "target": "type:Presolicitation",
+      "kind": "agency_to_type",
+      "weight": 1
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:236220",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Award Notice",
+      "target": "naics:561599",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:332410",
+      "kind": "type_to_naics",
+      "weight": 4
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:332911",
+      "kind": "type_to_naics",
+      "weight": 9
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:333998",
+      "kind": "type_to_naics",
+      "weight": 4
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:332999",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:334512",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:332919",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:334417",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:334416",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:335312",
       "kind": "type_to_naics",
       "weight": 3
     },
     {
       "source": "type:Combined Synopsis/Solicitation",
-      "target": "naics:336611",
+      "target": "naics:336360",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:333613",
+      "kind": "type_to_naics",
+      "weight": 5
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:332112",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:334412",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:336413",
+      "kind": "type_to_naics",
+      "weight": 7
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:334515",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:326220",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:332439",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:334513",
       "kind": "type_to_naics",
       "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:339991",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:335931",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:333923",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:335999",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:332722",
+      "kind": "type_to_naics",
+      "weight": 6
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:333612",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:332996",
+      "kind": "type_to_naics",
+      "weight": 10
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:339113",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:314994",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:327999",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:334413",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:332510",
+      "kind": "type_to_naics",
+      "weight": 6
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:334514",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:334519",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:335932",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:332991",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:335910",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:336390",
+      "kind": "type_to_naics",
+      "weight": 4
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:488190",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:334220",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:339112",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:333519",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:327215",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:335314",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:333310",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:334511",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:114119",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:335313",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:314999",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:331210",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:332994",
+      "kind": "type_to_naics",
+      "weight": 3
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:325180",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:335139",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:336415",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:332322",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:334418",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:336350",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:336310",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:333922",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:334310",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:336411",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:336412",
+      "kind": "type_to_naics",
+      "weight": 2
     }
   ]
 }
