@@ -1,0 +1,28 @@
+---
+layout: default
+title: TARC Building 1 Roof Replacement
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 2abc4a6a60534d92af2d3e8a26bee14e
+---
+
+# TARC Building 1 Roof Replacement
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-04-06 10:24:55.793-04
+- Solicitation Number: PANNGB-26-P-0000-034172
+
+## Summary
+
+Notice Type: Sources Sought Contracting Office: W9133L, NGB AQ-R Agency: Temple Army National Guard Readiness Center (TARC) Title: TARC 1 Roof Replacement Location: 111 S George Mason Dr, Arlington, VA 22204 Category: Y – Construction of Structures and Facilities NAICS: 238160 - Roofing Contractors Magnitude: Between $1,000,000 and $5,000,000. Response Date: April 21, 2026 The purpose of this sources sought notice is to gain knowledge of potential sources for this project including interested Small Business sources. This notice is for planning purposes only. This is not a solicitation. No solicitation documents are available, and telephone requests will not be honored. The National Guard Bureau (NGB), AQ - R Division intends to issue a solicitation and award of a contract for the TARC Building 1, Roof Replacement at the Temple Army National Guard Readiness Center (TARC), 111 S George Mason Dr, Arlington, VA 22204. The magnitude of this project is between $1,000,000 and $5,000,000. The anticipated duration of this project is approximately 120 days. North American Industry Classification System (NAICS) code for this work is 238160. The small business size standard is $19,000,000 average annual revenue for the previous five (5) years. In accordance with RFO FAR 19.104-1, Small business set-asides, the Government will review the information requested in this announcement to determine the type of set-aside (if any) for this requirement. Scope of Work: The project includes all labor, materials, equipment and incidentals necessary to replace the existing low-slope commercial roof system on the building located at 111 S George Mason Dr, Arlington, VA 22204. This is a complete tear-off and replacement project designed to provide a new, watertight, and energy-efficient roof system that complies with all applicable state and local building codes. The current roof system, an Ethylene Propylene Diene Terpolymer (EPDM) system, is 33 years old (original from building construction) and has deteriorated and failed to provide adequate waterproofing causing water intrusion into the building. The replacement is required to mitigate ongoing water intrusion, improve energy efficiency, and ensure the long-term integrity of the roofs and the buildings. Submission Requirements: All respondents shall provide this office, in writing, with a brief capabilities narrative indicating their specific experience for similar work of construction projects in addition to a completed Sources Sought Information Form. Respondents must include the following: (1) A completed and signed Source Sought Information Request Form (2) A Capabilities Narrative including: (a) Listing of projects completed during the past three years, both for government and private industry. Information on past projects shall be provided by type of project, dollar value, contract number, location, a brief description (three to four sentences, descriptive, e.g., size/square feet of construction), and point of contact. Indicate if work was performed as a prime or subcontractor, and if subcontractor, provide the name and point of contact for the prime contractor. (b) A brief outline of resources, subcontractors, and key personnel that would be used to accomplish the contract. (c) This portion of the response shall not exceed five typewritten pages. The Sources Sought Information Request and appropriate supporting documentation should be emailed to the following: Ms. Amanda Bogue at: amanda.m.bogue.civ@army.mil * Do not send links to sites as these may not be accessible by USG computers. Note: This Sources Sought is issued for informational and planning purposes only. Responses will not be returned. The information will be used to conduct market research to identify qualified, experienced, and interested potential sources and commercial practices in support of the government's requirements. Respondents will not be notified of the results of the evaluation. The Government does not intend to award a contract based on responses received under this announcement. Contact with Government personnel, other than those specified in the sources sought, by potential offerors or their employees regarding this requirement is not permitted. This is not a request for proposal or invitation for bid. It is not to be construed as a formal solicitation or an obligation on the part of the government to acquire any products, construction, or services. The information requested by this RFI will be used to facilitate decision making and will not be disclosed outside the Federal Government. Any information provided to the government is strictly voluntary and will be provided at no cost to the government. The Government reserves the right to decide whether or not a small business set aside is appropriate based on responses to this notice. Include the following in the subject line "Sources Sought PANNGB-26-P-0000-034172". No facsimile responses will be honored.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Amanda Bogue
+  - Email: amanda.m.bogue.civ@army.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2abc4a6a60534d92af2d3e8a26bee14e/view)

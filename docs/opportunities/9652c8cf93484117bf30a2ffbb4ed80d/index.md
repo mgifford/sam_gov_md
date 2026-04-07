@@ -1,0 +1,37 @@
+---
+layout: default
+title: Request For Proposals: HAF/A2 Publicly Available Information (PAI) Alerting Services for Department of War (DoW) Enterprise Licensing
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 9652c8cf93484117bf30a2ffbb4ed80d
+---
+
+# Request For Proposals: HAF/A2 Publicly Available Information (PAI) Alerting Services for Department of War (DoW) Enterprise Licensing
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-04-06 15:34:02.336-04
+- Solicitation Number: FA701426R0008
+
+## Summary
+
+Amendment 1, 6 April 2026 The purpose of this amendment is to upload a non-protected version of Attachment 3. **************************************************** COMBINED SYNOPSIS/SOLICITATION (IAW RFO 12.202(b)(1)) i. Description This is a combined synopsis/solicitation for commercial products or commercial services prepared in accordance with part 12. This announcement constitutes the only solicitation. Offers are being requested and a separate written solicitation will not be issued. Solicitation number FA701426R0008 is issued as a Request for Proposal (RFP) for HAF/A2 Publicly Available Information (PAI) Alerting Services for Department of War (DoW) Enterprise Licensing. This acquisition is not set-aside for small business concerns. This solicitation incorporates provisions and clauses by reference. The full text of provisions and clauses may be accessed electronically at www.acquisition.gov. ii. CLINS See attached SF1449 for CLIN Structure. iii. Description of Requirement to be acquired Headquarters Air Force (HAF)/A2 seeks a commercially-available enterprise license subscription that leverages a variety of publicly avaliable information sources, evaluates content to detect emerging events as they are developing, and pushes alerts to users based on user-defined areas and topics of interest, amongst other requirements (see Attachment 1 for the Statement of Objectives). The solution must be capable of distributing alerts in near real-time via email, application programming interface (API), web-based application, and mobile platforms. The solution must be available commercially in the marketplace, and able to scale to a DoW enterprise capability, and keep pace with developments and standards within the commercial industry sector. iv. Dates of Delivery Base Period: 08/06/2026 - 05/04/2027 Option Period 1: 05/05/2027 - 05/04/2028 Option Period 2: 05/05/2028 - 05/04/2029 Option Period 3: 05/05/2029 - 05/04/2030 Option Period 4: 05/05/2030 - 05/04/2031 v. Solicitation Provisions See attached SF1449 and attachment 5 for solicitation provisions. vi. Contract Clauses See attached SF1449 and attachment 5 for contract clauses. vii. Date, time, and place for receipt of offer and Point of Contact (POC’s). See attached SF1449 for proposal due date and time. Questions in regards to this RFP are due no later than 2pm Monday 13 April 2026 Eastern Time. Questions and proposals must be sent via email to the following POC’s: Capt Richard Snyder, Contracting Officer (CO) E-mail address: richard.snyder.12@us.af.mil Kevin Harrington, Contract Specialist (CS) E-mail address: kevin.harrington.3@us.af.mil viii. Additional Information NAICS: 541511, PSC: 7A21. See Attachment 2, addendum to 52.212-1 and 52.212-2 for Instructions to Offerors and Evaluation Criteria.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Capt Richard Snyder
+  - Email: richard.snyder.12@us.af.mil
+- Secondary Contact:
+  - Name: Kevin Harrington
+  - Email: kevin.harrington.3@us.af.mil
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: . **************************************************** COMBINED SYNOPSIS/SOLICITATION (IAW RFO 12.202(b)(1)) i. Description This is a combined synopsis/solicitation for commercial products or commercial services prepared in accordance with part 12. This announcement constitutes the only solicitation. Offers are being requested and a separate written solicitation will not be issued. Solicitation number FA701426R0008 is issued as a Request for Proposal (RFP) for HAF/A2 Publicly Available Information (PAI) Alerting Services for Department of War (DoW) Enterprise Licensing. This acquisition is not set-aside for small business concerns. This solicitation incorporates provisions and clauses by reference. The full text of provisions and clauses may be accessed electronically at www.acquisition.gov. ii. CLINS See attached SF1449 for CLIN Structure. iii. Description of Requirement to be acquired Headquarters Air Force (HAF)/A2 seeks a commercially-available enterprise license subscription that leverages a variety of publicly avaliable information sources, evaluates content to detect emerging events as they are developing, and pushes alerts to users based on user-defined areas and topics of interest, amongst other requirements (see Attachment 1 for the Statement of Objectives). The solution must be capable of distributing alerts in near real-time via email, application programming interface (API), web-based application, and mobile platforms. The solution must be available commercially in the marketplace, and able to scale to a DoW enterprise capability, and keep pace with developments and standards within the commercial industry sector. iv. Dates of Delivery Base Period: 08/06/2026 - 05/04/2027 Option Period 1: 05/05/2027 - 05/04/2028 Option Period 2: 05/05/2028 - 05/04/2029 Option Period 3: 05/05/2029 - 05/04/2030 Option Period 4: 05/05/2030 - 05/04/2031 v. Solicitation Provisions See attached SF1449 and attachment 5 for solicitation provisions. vi. Contract Clauses See attached SF1449 and attachment 5 for contract clauses. vii. Date, time, and place for receipt of offer and Point of Contact (POC’s). See attached SF1449 for proposal due date and time. Questions in regards to this RFP are due no later than 2pm Monday 13 April 2026 Eastern Time. Questions and proposals must be sent via email to the following POC’s: Capt Richard Snyder, Contracting Officer (CO) E-mail address: richard.snyder.12@us.af.mil Kevin Harrington, Contract Specialist (CS) E-mail address: kevin.harrington.3@us.af.mil viii. Additional Information NAICS: 541511, PSC: 7A21. See Attachment 2, addendum to 52.212-1 and 52.212-2 for Instructions to Offerors and Evaluation Criteria
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9652c8cf93484117bf30a2ffbb4ed80d/view)
