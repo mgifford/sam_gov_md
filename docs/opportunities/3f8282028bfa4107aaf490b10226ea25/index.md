@@ -1,0 +1,38 @@
+---
+layout: default
+title: AFPSL Furnaces
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 3f8282028bfa4107aaf490b10226ea25
+---
+
+# AFPSL Furnaces
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-04-07 14:54:49.427-04
+- Solicitation Number: FA226326Q0005
+
+## Summary
+
+This is a combined synopsis/solicitation for commercial items prepared in accordance with the format in the Revolutionary FAR Overhaul (RFO) Subpart 12.201-1, as supplemented with additional information included in this notice. This solicitation document and incorporated provisions and clauses are those in effect through the RFO and Department of Defense Federal Acquisition Regulation Supplement (DFARS) Revolutionary FAR Overhaul Class Deviations (R-DFARS). RFO regulations are available electronically at the Air Force FAR site, https://www.acquisition.gov/far-overhaul and R-DFARS guidance can be located at https://www.acq.osd.mil/dpap/dars/dfars_far_overhaul_class_deviations.html. This announcement constitutes the only solicitation for which a Request for Quotation (RFQ) will be issued. It is the offeror's responsibility to monitor this site for the release of amendments (if any). The RFQ number is FA226326Q0005 and shall be referenced on any offer submitted. The North American Industry Classification System (NAICS) code for this acquisition is 334513 and the business size standard is 750 employees. This RFQ is being solicited as a sole-source procurement under RFO 6.103. AFMETCAL at Heath OH intends to award a firm-fixed price contract under Simplified Acquisition Procedures (SAP) in accordance with RFO Part 12.201-1 – Simplified Procedures and RFO Part 12-Acquisition of Commercial Products and Commercial Services, for the purchase of AFPSL Furnaces. Products offered shall be commercial items or commercially available off-the shelf (COTS) items meeting the definitions in RFO Part 2. Items proposed shall be new units. Reconditioned, remanufactured, or used items are not acceptable and shall not be proposed. The units must meet the requirements of Purchase Description (PD) 26M-356A-TE Rev. 3, dated 29 September 2025. The RFQ, PD, DD 1423 Data Requirements and other applicable solicitation attachments are available for download at this site. Please review ALL documents carefully. IMPORTANT NOTICE TO OFFERORS: All prospective awardees are required to register at SAM and to maintain active registration during the life of the contract. SAM can be accessed at https://www.sam.gov. Any award resulting from this solicitation will include DFARS Clause 252.232-7003, Electronic Submission of Payment Requests and Receiving Reports. Section 1008 of the National Defense Authorization Act of Fiscal Year 2001 requires any claims for payment (invoices) under DoD contract to be submitted in electronic form. Wide Area Work Flow (WAWF) through Procurement Integrated Enterprise Environment (PIEE) is the DoD system of choice for implementing this statutory requirement. Use of the basic system is at no cost to the contractor. Contractors must complete vendor training, which is also available at no cost at https://wawf.eb.mil. Prior to submitting invoices in the production system, contractors must register for an account at https://wawf.eb.mil/. Offers MUST: be valid through 07 May 2026, (2) be for the items described in the PD (List of Attachments, Attachment 1), (3) be for new units (not reconditioned, remanufactured, or used unit), (4) be FOB Destination to AFMETCAL, Heath, OH, (5) include a delivery schedule, if unable to meet delivery schedule in Deliveries and Performance section, (6) include copy of commercial price list, (7) include name of and be signed by an authorized company representative along with telephone number, facsimile number, and email address, (8) include taxpayer identification number (TIN), CAGE Code Number and DUNS Number, (9) include a technical proposal that includes a written line-by-line response to the PD, (10) include a copy of the warranty and technical support normally offered by the vendor, (11) include completed Supplies or Services and Price/Cost section, (12) include a completed Total Evaluated Price Worksheet (Attachment 4) (13) completed Offeror Representations and Certifications – Commercial Items. Offerors shall ensure information in SAM is current. The Government reserves the right to incorporate the successful offeror’s technical proposal into any contract resulting from this solicitation. Offers must be received no later than 07 May 2026 at 2:00 PM EDT. Offerors shall submit electronic files to DoD SAFE, https://safe.apps.mil following the instructions provided in Instructions to Offerors (Attachment 3) of the RFQ, under Electronic Proposal Submission. Offers submitted in forms other than through DoD Safe are not permissible and will not be considered. Please note that the uploaded files must be timestamped by the offer due date and time. Offerors bear the risk for receipt of submitted offers being untimely. Offerors shall allow sufficient time for receipt of electronic submissions by the due date and time. All responsible sources may submit an offer, which if received timely shall be considered by this agency.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Megan Moretti
+  - Email: megan.moretti@us.af.mil
+  - Phone: 9377135845
+- Secondary Contact:
+  - Name: Christine Patterson
+  - Email: christine.patterson.1@us.af.mil
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: , (3) be for new units (not reconditioned, remanufactured, or used unit), (4) be FOB Destination to AFMETCAL, Heath, OH, (5) include a delivery schedule, if unable to meet delivery schedule in Deliveries and Performance section, (6) include copy of commercial price list, (7) include name of and be signed by an authorized company representative along with telephone number, facsimile number, and email address, (8) include taxpayer identification number (TIN), CAGE Code Number and DUNS Number, (9) include a technical proposal that includes a written line-by-line response to the PD, (10) include a copy of the warranty and technical support normally offered by the vendor, (11) include completed Supplies or Services and Price/Cost section, (12) include a completed Total Evaluated Price Worksheet (Attachment 4) (13) completed Offeror Representations and Certifications – Commercial Items. Offerors shall ensure information in SAM is current. The Government reserves the right to incorporate the successful offeror’s technical proposal into any contract resulting from this solicitation. Offers must be received no later than 07 May 2026 at 2:00 PM EDT. Offerors shall submit electronic files to DoD SAFE, https://safe.apps.mil following the instructions provided in Instructions to Offerors (Attachment 3) of the RFQ, under Electronic Proposal Submission. Offers submitted in forms other than through DoD Safe are not permissible and will not be considered. Please note that the uploaded files must be timestamped by the offer due date and time. Offerors bear the risk for receipt of submitted offers being untimely. Offerors shall allow sufficient time for receipt of electronic submissions by the due date and time. All responsible sources may submit an offer, which if received timely shall be considered by this agency
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3f8282028bfa4107aaf490b10226ea25/view)

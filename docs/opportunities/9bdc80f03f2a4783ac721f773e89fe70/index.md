@@ -1,0 +1,28 @@
+---
+layout: default
+title: Chief Joseph Dam Station Service Exciters
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 9bdc80f03f2a4783ac721f773e89fe70
+---
+
+# Chief Joseph Dam Station Service Exciters
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-04-07 13:27:59.752-04
+- Solicitation Number: W912DW26RA003
+
+## Summary
+
+Amendment 0001: See attached amendment and related document for complete details. Chief Joseph Dam Station Service Exciters. Project Location: Bridgeport, WA. The solicitation is an unrestricted full and open competitive acquisition. NAICS 237990 Other Heavy and Civil Engineering Construction. Small Business Size Standard $45,000,000. Disclosure of the magnitude of construction project: Between $1,000,000 and $5,000,000. This solicitation is utilizing the Trade-off process procurement method as described in Federal Acquisition Regulation (FAR) Part 15 to award a firm fixed-price (FFP) contract. Please refer to the attached solicitation document, specifications, drawings, and attachments for details.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Londres Medranda
+  - Email: londres.medranda@usace.army.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9bdc80f03f2a4783ac721f773e89fe70/view)

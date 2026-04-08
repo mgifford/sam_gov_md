@@ -1,0 +1,31 @@
+---
+layout: default
+title: Support, modification, and upgrade of an existing integration of L3 Harris FlightScene 2.0 embedded in a military rotary wing avionics architecture
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: fae99942eeea4b7dbe8c559c5ca8b809
+---
+
+# Support, modification, and upgrade of an existing integration of L3 Harris FlightScene 2.0 embedded in a military rotary wing avionics architecture
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-04-07 09:30:09.56-04
+- Solicitation Number: H9224126SSN0020
+
+## Summary
+
+This is a sources sought notice in accordance with Federal Acquisition Regulation (FAR) Part 10 Market Research and Department of Defense Federal Acquisition Regulation Supplement Procedures, Guidance, and Information (DFARS PGI 206.103-170(d)). The United States Special Operations Command (USSOCOM), Technology Application Contracting Officer (TAKO) is conducting market research to identify potential sources that possess the capability to satisfy agency requirements to support, modify, and upgrade, and the licensing, of an existing embedded digital map in a military rotary wing aviation application. The objective of this market research is to identify any potential sources for the desired capability. The Government will use the information received for acquisition planning purposes. Sources responses will assist the Government in the development of its acquisition strategy for a possible Request for Proposal (RFP), to be issued later, and in determining whether any type of small business set-aside is possible for this procurement or whether full and open competitive procedures should be utilized. This notice shall not be construed as an RFP or as any commitment or obligation on the part of the Government to issue a solicitation. The Government does not intend to award a contract based on this request, so proposals will not be considered. No reimbursement will be made for any costs associated with providing information in response to this request or any follow-up information requests. Response is strictly voluntary - it is not mandatory to submit a response to this notice to participate in any formal RFP process that may take place in the future. However, it should be noted that information gathered through this notice may significantly influence the Government’s acquisition strategy. All interested parties will be required to respond separately to any solicitations posted as a result of this source sought notice. Capability Sought: Support, modification, and upgrade of an existing integration of L3 Harris FlightScene 2.0 embedded in a military rotary wing avionics architecture, as well as the licensing per install (do not respond if the vendor doesn’t meet these capability requirements). NAICS Code: The Agency has tentatively assigned North American Industry Classification System (NAICS) Code 334511 (Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing) to the requirement, but interested sources can recommend other NAICS Codes for consideration. Standard Business Size is 1,350 employees. Submission Instructions: Responses are to be submitted via email to Dr. Petrina Stack petrina.v.stack.civ@socom.mil and Teresa McCall teresa.a.mccall.civ@socom.mil and are due no later than 4:00 PM Eastern Standard Time on 6 May 2026 and must include the information requested below. Responses greater than 10 double-sided pages (including all attachments) will not be considered. Late responses will not be accepted. This is strictly market research and the Government will not take any questions at this time. Respondents will not be notified of the results of the evaluation. The Government appreciates industry’s interest and thanks interested companies in advance for responding to the Sources Sought notice. Qualified sources shall submit a statement of interest on sources letterhead demonstrating the source’s qualifications to perform the defined work. Responses must be complete and sufficiently detailed to address the specific information. The documentation shall address, at a minimum, the following: A. Sources Profile to include: Sources name and address; Affiliate information: parent sources, joint venture partners, and potential teaming partners; Year the firm was established and number of employees; Two points of contact (names, titles, phone numbers and email addresses); Unique Entity Identifier (UEI) and Commercial and Government Entity (CAGE) Code, as registered in the System for Award Management (SAM) at http://www.sam.gov/: Small Business designation/status (must correlate with SAM registration): _____ Small business _____ HUBZone _____ WOSB _____ 8(a) _____ VOSB _____ SDVOSB _____ Small Disadvantaged Business B. Specific capabilities and experience for the support, modification, and upgrade of an existing L3 Harris digital map embedded in military rotary wing avionics architecture, as well as the licensing per install. Include a brief statement as to why each prior contract is relevant to this source sought notice and other relevant information. In addition, include proof of satisfactory past performance on the contracts with customer points of contact. Please be advised that USSOCOM contracts for various IT, business, acquisition, technical, and staff support services, some of which require support contractor access to proprietary information submitted by other contractors during administration of this contract, known as “covered government support contractors”. Execution of this contract constitutes approval to release the contract, contractor proposals, other contractor information, or proprietary data obtained during contract administration to Government Support Contractors who require access and have signed Non-Disclosure and Rules of Conduct/Conflict of Interest Statements.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Teresa McCall
+  - Email: teresa.a.mccall.civ@socom.mil
+- Secondary Contact:
+  - Name: Petrina Stack
+  - Email: petrina.v.stack.civ@socom.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fae99942eeea4b7dbe8c559c5ca8b809/view)

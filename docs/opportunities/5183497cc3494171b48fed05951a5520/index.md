@@ -1,0 +1,31 @@
+---
+layout: default
+title: JMTC COOLING PROJECT
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 5183497cc3494171b48fed05951a5520
+---
+
+# JMTC COOLING PROJECT
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-04-07 15:34:35.128-04
+- Solicitation Number: W519TC26QA117
+
+## Summary
+
+**PLEASE NOTE: THIS IS A DRAFT SOLICITATION FOR JMTC COOLING SYSTEM. THE ACQUISITION STRATEGY MAY CHANGE FROM FULL AND OPEN TO SMALL BUSINESS SET ASIDE, HOWEVER, AT THIS TIME WE ARE POSTING THIS DRAFT A FULL AND OPEN. ***SITE VISIT IS INDICATED WITHIN THE SOLICITATION THAT IS SCHEDULED FOR 14 APR 2026 THAT IS A REQUIREMENT OF THE TECHNICAL EVALUATION CRITERIA.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Lynn Baker
+  - Email: lynn.d.baker8.civ@army.mil
+- Secondary Contact:
+  - Name: Sophia Muckenfuss
+  - Email: SOPHIA.L.MUCKENFUSS.CIV@ARMY.MIL
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5183497cc3494171b48fed05951a5520/view)
