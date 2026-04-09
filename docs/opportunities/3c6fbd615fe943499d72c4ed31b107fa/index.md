@@ -1,0 +1,29 @@
+---
+layout: default
+title: Portable Multibeam Echosounder Surveying Suite of Equipment
+agency: COMMERCE, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: 3c6fbd615fe943499d72c4ed31b107fa
+---
+
+# Portable Multibeam Echosounder Surveying Suite of Equipment
+
+- Agency: COMMERCE, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-04-08 10:28:56.704-04
+- Solicitation Number: 141009-26-0003
+
+## Summary
+
+Solicitation Number:141009-26-0003 Notice Type: Sources Sought Synopsis TITLE: Portable Multibeam Echosounder Surveying Suite of Equipment Response Date: 04/20/2026 This is a SOURCES SOUGHT SYNOPSIS and is not a presolicitation announcement. The purpose of this Market Research and Sources Sought Notice is to gain knowledge of potential qualified U.S Domestic businesses, which could include Small Business, HUBZone, 8(a), Service Disabled Veteran owned, Women owned Small Business firms and even large businesses. Responses to this Sources Sought Synopsis will be used by the Government in making appropriate acquisition decisions. The NOAA National Ocean Service (NOS), Office of Coast Survey (OCS), Navigation Services Division (NSD), Navigation Response Branch requires a fully integrated, portable, and rapidly-deployable multibeam surveying suite of equipment to be used in response work. BACKGROUND: Office of Coast Survey, Navigation Services Division, Navigation Response Branch requires a fully integrated and highly portable multibeam surveying suite of equipment; consisting of multibeam echosounder, integrated positioning and orientation system, integrated surface sound speed sensor, associated antennas, cables, light-weight sonar mounting system, and all associated hardware necessary to mount the system on a vessel of opportunity. Navigation Response Teams use the portable sonars primarily to conduct emergency response hydrographic survey operations from vessels of opportunity in areas where response with traditional Navigation Response Team vessels is not feasible (i.e. Caribbean or Pacific Islands, Alaska, or remote areas not accessible by roads). The portable sonar equipment is used to identify wrecks, rocks, obstructions, and provide high density depth information to incident coordinators and other decision makers during response operations; and to support Coast Survey's nautical charting mission. The ability to rapidly deploy a hydrographic mapping sonar is critical for a variety of agency functions in support of safety of navigation, including hurricane/disaster response and search operations. TECHNICAL SPECIFICATIONS: The operational requirements for this system are: It must include all required components to mobilize on a typical vessel-of-opportunity (multibeam sonar, inertial navigation system, surface sound speed probe, GNSS antennas, pole mount, mounting hardware, etc.). When packaged, the kit must be able to be checked on typical commercial flights and it must be hand-portable in its entirety by two people or less. The resulting data must meet or exceed NOAA’s highest hydrographic quality specification (“Exceptional”) as outlined in the Hydrographic Surveys Specifications and Deliverables (Version 2025-0-01). System mobilization, from packaged to deployed on a typical vessel-of-opportunity, must be achievable in 1.5 hours by a practiced team with common hand tools. The system must be delivered “turn-key” and ready for deployment. The system must be capable of collecting data at 8 kts. DELIVERY SCHEDULE Deliver by December 31, 2026. Earlier delivery preferred and accepted to Seattle, WA. The North American Industry Classification Code (NAICS) is 334511 with a size standard of 1,350 employees. Interested firms shall provide, in writing, a brief narrative (no more than 3 pages in length) and documentation to support your firm's capability and experience meeting the requirements herein and include your firm's name, address, point of contact, telephone number, UEID Number, CCR Cage Number, business type and size, i.e., small, large, non-profit, educational, and so forth. Any response that does not include this information will not be considered. The Government will review your response to determine if your firm has the experience, knowledge and capability to provide the items as specified above. This request for information does not constitute a commitment, implied or otherwise, that a procurement action will be issued. Nor does this request for information constitute a commitment, implied or otherwise that any procurement action that may be issued for the Government's requirements. No entitlement to payment of direct or indirect costs or charges by the Government will arise because of the submission of contractor's information. The Government shall not be liable for or suffer any consequential damages for proprietary information not properly identified. Proprietary information will be safeguarded in accordance with the applicable Government regulations. All contractors doing business with the Government are required to be registered with the System for Award Management (SAM). NOTE: THIS SYNOPSIS IS NOT CONSIDERED A REQUEST FOR PROPOSAL BUT A REQUEST FOR INFORMATION ONLY. No solicitation document is available. No contract will be awarded based on responses received to this notice. Detailed information must be submitted by email to Michelle Walton at michelle.walton@noaa.gov by 2:00 PM Eastern Standard Time (EST), on Monday, April 20, 2026. Questions of any nature must be addressed in writing as TELEPHONE INQUIRIES WILL NOT BE HONORED.
+
+## Contacts
+
+- Primary Contact:
+  - Name: WALTON, MICHELLE
+  - Email: MICHELLE.WALTON@NOAA.GOV
+  - Phone: 7576057411
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3c6fbd615fe943499d72c4ed31b107fa/view)

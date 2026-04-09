@@ -1,0 +1,30 @@
+---
+layout: default
+title: Y1PZ--Headstone Setting/Raise & Realign at Abraham Lincoln NC
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Presolicitation
+notice_id: 9db05e0f821e49ee94982e4581c75ad7
+---
+
+# Y1PZ--Headstone Setting/Raise & Realign at Abraham Lincoln NC
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Presolicitation
+- Posted: 2026-04-08 14:16:51.037-04
+- Solicitation Number: 36C78626B0022
+- Awardee: null
+
+## Summary
+
+Solicitation Number: 36C78626B0022 Project Title: Initial and Replacement Upright Headstone and Flat Marker Setting, Raise and Realign Upright Headstones, Fine Tune Alignment Upright Headstones, Cleaning Upright Headstones at Abraham Lincoln National Cemetery This notice is provided for information purposes only and does not constitute a request for Bid, Proposal, or Quote. The Department of Veterans Affairs (VA), National Cemetery Administration (NCA) intends to issue solicitation number 36C78626B0022 entitled, Initial and Replacement Upright Headstone and Flat Marker Setting, Raise and Realign Upright Headstones, Fine Tune Alignment Upright Headstones, Cleaning Upright Headstones at Abraham Lincoln National Cemetery on or about May 15, 2026, unless additional notice is given, or this notice is modified or cancelled. Scope of Work: The Contractor must provide all personnel, management, supplies, transportation, equipment and supervision necessary to perform and complete the following: Initial and Replacement Upright Headstone and Flat Marker Setting: Set all upright headstones and flat markers within 8 days of receipt per the technical specifications and National Shrine Standards. Raise and Realign Upright Headstones: Raise, level, reset, realign, backfill, and clean approximately 4,250 ± 5% existing upright headstones annually per the technical specifications and national shrine standards. The headstones will be grouped in sections and identified by the NCA within the first month of the period of performance. The Contractor must complete the raise and realign requirement within the one-year period of performance specified in the price schedule. Fine Tune Alignment (FTA) Upright Headstones: Bring approximately 8,500 ± 5% existing upright headstones into alignment within one (1) degree plumb. Visually aligned horizontally, vertically, and diagonally. Cleaning Upright Headstones: Clean all upright headstones annually with approved cleaning products and methods All services performed by the contractor must adhere to National Cemetery Administration standards. Period of Performance The Contractor shall complete all work including submittals, reviews, quality control, repair/construction services, punch list corrections, clean up, invoicing and closeouts documentation submittal within Three Hundred and Sixty-Five (365) calendar days from Government issuance of the Notice to Proceed. Option years may be included. Place of Performance Department of Veterans Affairs National Cemetery Administration Abraham Lincoln National Cemetery 20953 W Hoff Road Elwood, IL 60421-9213. The Product Service Code (PSC) for this procurement is Y1PZ - Construction of Other Non-building Facilities. The North American Industry Classification System (NAICS) code for this procurement 238990 - All Other Specialty Trade Contractors, and the business size standard is $19.0 Million. The magnitude of construction for this project is Between $5,000,000 and $10,000,000. per FAR 36.204 including options. The full Solicitation and related documents will be posted on Contract Opportunities on or about May 15, 2026, unless additional notice is given, or this notice is modified or cancelled at SAM.gov. The response submittal address, date and time will be included in the solicitation. This procurement is 100% Set-Aside for Service-Disabled Veteran Owned Small Business (SDVOSB) concerns. Only verified SDVOSB firms are eligible to submit an offer or receive an award of a VA contract that is set aside for SDVOSB in accordance with VAAR Part 819. A non-verified vendor that submits a bid or proposal will be rejected as non-responsive. Offers received from concerns that are not Service-Disabled Veteran-Owned Small Business (SDVOSB) concerns shall not be considered. (See VAAR Clause 852.219-10 VA Notice of Total Service-Disabled Veteran-Owned Small Business Set-Aside.) To be eligible for award, the SDVOSB must be considered small under the relevant NAICS code and must be registered and verified in the following websites: those desiring to receive an award from this solicitation must be registered at https://search.certifications.sba.gov/. Companies must have the Certified Veteran Enterprise (CVE) seal on their registration to be considered for an award. The SBA database https://search.certifications.sba.gov/ will be checked both upon receipt of an offer and prior to award; firms must be currently registered in the System for Award Management (SAM) database at www.SAM.gov and have completed online Representations and Certifications prior to contract award. In accordance with VAAR 819.7003(b), at the time of submission of bids, and prior to award of any contracts, the offeror must represent to the Contracting Officer that it is (1) SDVOSB eligible under VAAR Subpart 819.70; (2) Small business concern under the NAICS code assigned to this acquisition; and (3) SDVOSB listed as verified in SBA database at https://search.certifications.sba.gov/. Interested bidders will be required to furnish a Bid Bond; and the awarded Contractor will be required to provide Performance and Payment Bonds if required. This presolicitation notice is not an invitation to submit a bid. The Contracting Officer and point of contact for this solicitation is Richard Adu at Richard.Adu@va.gov. Telephone requests will NOT be accepted. -End of Document-
+
+## Contacts
+
+- Primary Contact:
+  - Name: Richard Adu
+  - Title: Contracting Officer
+  - Email: Richard.Adu@va.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9db05e0f821e49ee94982e4581c75ad7/view)

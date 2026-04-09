@@ -1,0 +1,31 @@
+---
+layout: default
+title: Remote Interceptor Guidance – 360 (RIG-360) Program
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: c330fb04c70d4d1bb87ac1ea39c2a44a
+---
+
+# Remote Interceptor Guidance – 360 (RIG-360) Program
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-04-08 11:49:11.789-04
+- Solicitation Number: W31P4Q-26-R-0041
+
+## Summary
+
+Pursuant to Federal Acquisition Regulation (FAR) 15.2, this notice is being issued as a REQUEST FOR INFORMATION ONLY in support of market research, to gather information, and to identify potential sources. In accordance with FAR 15.201(e), responses to this notice are not an offer and cannot be accepted by the Government to form a binding contract. No contract award is intended to result from this request. This RFI/SS notice is issued solely for information and planning purposes – it does not constitute a Request for Proposal or a promise to issue a Request for Proposal in the future. This RFI/SS notice does not commit the Government to contract for any supply or service whatsoever. Per FAR 52.215-3, RFI or Solicitation for Planning Purposes: The Government does not intend to award a contract based on this solicitation or to otherwise pay for the information solicited except as an allowable cost under other contracts as provided in subsection 31.205-18, bid and proposal costs, of the FAR. Although “proposed”, “proposal”, and “offeror” may be used in this RFI/SS notice, your response will be treated as information only. It shall not be used as a proposal. This solicitation is issued for the purpose of acquiring information to procure SCH. The Government will use responses to this RFI to determine industry interest and capability. The Army Contracting Command – Redstone Arsenal (ACC-RSA) is issuing this RFI/SS notice as a means of conducting market research to identify parties having an interest in and the resources to fulfill the requirement for RIG-360 in support of the Integrated Fires and Mission Command Project Office, Portfolio Acquisition Executive Fires. The RIG-360 system consists of the integrated assembly (Control Assembly, Array Assembly, and support laptop) and the adapted component (Antenna Mast and installation hardware). The United States Government (USG) seeks potential sources to support RIG-360 requirements to deliver additional RIG-360 prototypes, services to finalize the enduring solution design, and hardware/services for Low Rate Initial Production (LRIP)/ Full Rate Production (FRP). The RIG-360 major supplies and services include: support to the RIG-360 enduring solution design; prototype delivery; production and integration of the RIG-360 Line Replaceable Unit (LRUs) for LRIP/FRP; engineering services (to include engineering changes addressing fixes and obsolescence, test support, system integration and check out); and Contractor Logistics Support. Currently, the USG does not possess a Technical Data Package (TDP) for RIG-360; however, the USG will acquire a TDP at the completion of the Engineering and Manufacturing Development phase of the program. Responses should include any assumptions regarding the TDP. The responses shall address: Complete company name, address, and relevant points of contact (to include name, position, telephone number, and email address); business size, and Commercial and Government Entity code. Army Air Defense Expertise – skills, knowledge, and abilities associated with manufacture and integration of Army Air Defense Systems to include but not limited to PATRIOT; Sentinel; Command, Control, Battle Management and Communications; Indirect Fire Protection Capability; Terminal High Altitude Area Defense; and Integrated Battle Command System. Skills, knowledge, and abilities associated specifically to the design and integration of the RIG-360 system/hardware/software. Conceptual approach, estimated lead times, key Government Furnished Property needed, driving assumptions, staff availability, and risks associated with the RIG-360 system baseline, incorporating engineering changes, facilitization, and production and delivery of RIG-360 to support Initial Operational Capability and fielding. Overall integrated schedule identifying the key elements and lead times (in months) associated with contractor’s conceptual approach to meet the RIG-360 requirements. Production and delivery of RIG-360 system, with first hardware delivery being in 3rd Quarter FY28. The USG will entertain partial proposed solutions for the integration activities for the integrated assembly into the enduring design RIG-360 solution. Requirement Statement: The Government seeks white papers (no more than 10 pages at Arial 12pt font) regarding the capabilities, past similar experience, and technical approach to this effort and industry's assessment/opinion of the most efficient and cost-effective method of executing this effort. Interested firms who can provide the described requirements are invited to indicate interest by providing the requested information to the contract specialist, LaCheryle Ricketts at lacheryle.n.ricketts.civ@army.mil. All assumptions, including any assumed Government support, shall be clearly identified. All proprietary and restricted information shall be clearly marked. Response is due on 16 April 2026 at 4:00PM Central Standard Time and shall be delivered via email or DoD SAFE (https://safe.apps.mil/). For email submission, submit to Contract Specialist, LaCheryle Ricketts at lacheryle.n.ricketts.civ@army.mil. Classification Code: NAICS Code: 336414 Points of contact for this action: LaCheryle Ricketts at lacheryle.n.ricketts.civ@army.mil and Dr. Jeffrey Cox at jeffrey.d.cox46.civ@army.mil. Contracting Office Address: ACC-RSA - (Missile), ATTN: CCAM, Building 5250, Martin Road, Redstone Arsenal, AL 35898-5280 Place of Performance: ACC-RSA - (Missile) ATTN: CCAM, Building 5250, Martin Road Redstone Arsenal AL 35898-5280 US
+
+## Contacts
+
+- Primary Contact:
+  - Name: LaCheryle Ricketts
+  - Email: lacheryle.n.ricketts.civ@army.mil
+- Secondary Contact:
+  - Name: Jeffrey D. Cox
+  - Email: jeffrey.d.cox46.civ@mail.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c330fb04c70d4d1bb87ac1ea39c2a44a/view)

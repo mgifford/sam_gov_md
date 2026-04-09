@@ -1,0 +1,33 @@
+---
+layout: default
+title: 152 AW Bldg. 130 Water Line Break Repair
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 65c6e32da1e7405aa9a8ebf800b8cbb9
+---
+
+# 152 AW Bldg. 130 Water Line Break Repair
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-04-08 11:37:15.856-04
+- Solicitation Number: W50S8C-26-Q-A008
+
+## Summary
+
+1. This is a combined synopsis/solicitation for commercial products or commercial services prepared in accordance with part 12. This announcement constitutes the only solicitation. Offers are being requested and a separate written solicitation will not be issued. 2. Solicitation number W50S8C-26-Q-A008 is issued as a request for quotation (RFQ) for services to fix a leak in the water supply pipe that feeds two fire hydrants in the fuel cell hanger, building 130. 3. This acquisition is not set-aside for small business concerns. This solicitation incorporates provisions and clauses by reference. The full text of provisions and clauses may be accessed electronically at www.acquisition.gov. The Federal Service Code / Product Supply Code is: Z2NE The North American Industry Size Classification System (NAICS) code associated with this requirement is: 237110 Award will be made to the offeror who represents the best value to the Government as outlined in accordance with the criteria set forth within the solicitation. Description: The Nevada Air National Guard, 152 Mission Support Contracting Office in Reno, Nevada, intends to award a Firm Fixed Price Purchase Order for the purchase of services to fix a leak in the water supply pipe that feeds two fire hydrants in the fuel cell hanger, building 130. Contractor will furnish all labor, supplies, parts, transportation, tools, equipment, inspections and facilities necessary to perform work required to complete the project in accordance with this Performance Work Statement. The quote shall contain a; part number, description, all relevant product data, delivery/product lead time, installation time, and price. This price should include delivery as FOB destination only. The quote should also provide a total line-item price for all the labor/ installation/testing/inspection involved and provide a bottom-line price for the summation of the quote. Place of Delivery/Performance/Acceptance/FOB Point: FOB: Destination 152nd Airlift Wing, Building 130, 1776 National Guard Way Reno, NV 89502 Line Item / Description / Quantity 0001 - Repair of fire hydrant water supply piping and backfill of materials - 1 - JOB FAR provision 52.212-1 Instructions to Offerors - Commercial Products and Commercial Services (DEVIATION), the following addendum is provided for this solicitation and hereby amends any language therein: The following words stating “offer”, “offeror”, and “proposal” are replaced with “quotation”, “vendor”, and “quote”. Paragraph (a) first sentence revised as follows: “The NAICS code and small business size standard for this acquisition appear above. Quoted amounts need to be net prices without tax. The Government reserves the right to award on an "All or None" basis Provide Quote Expiration Date, Best Delivery/PoP Date, and any Discount Terms Quotes, attachments, and all other correspondence as listed in this solicitation must be emailed to both points of contact POCs). All questions are to be submitted in writing by 17 April 2026 10:00 AM PDT. Quotes are required to be valid until 120 days after the response deadline. A Site visit will be conducted on 15 April 2026 09:00 AM PDT Attendance to the scheduled site visit is highly encouraged to ensure full understanding of scope of this requirement and may be used as a factor in the evaluation criteria. We will be meeting at the Reno Airport Cellphone parking lot near base 10 minutes prior to site visit.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Alex Norris
+  - Email: alex.norris@us.af.mil
+  - Phone: 7757884662
+- Secondary Contact:
+  - Name: Wendy Cano Perez
+  - Email: wendy.cano_perez@us.af.mil
+  - Phone: 7757889350
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/65c6e32da1e7405aa9a8ebf800b8cbb9/view)

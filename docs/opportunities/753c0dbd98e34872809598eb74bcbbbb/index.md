@@ -1,0 +1,28 @@
+---
+layout: default
+title: FCI Englewood - Replace Powerhouse Roof
+agency: JUSTICE, DEPARTMENT OF
+notice_type: Combined Synopsis/Solicitation
+notice_id: 753c0dbd98e34872809598eb74bcbbbb
+---
+
+# FCI Englewood - Replace Powerhouse Roof
+
+- Agency: JUSTICE, DEPARTMENT OF
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-04-08 14:26:32.527-04
+- Solicitation Number: 15BBNF26Q00000038
+
+## Summary
+
+Amendment 0002 is hereby issued to extend the solicitation due date to May 1, 2026. A revised Statement of Work and the Government’s consolidated responses to vendor questions will be issued under a subsequent amendment. Amendment 0001 is hereby issued to incorporate the following into Request for Quotation 15BBNF26Q00000038: 1) Incorporate Pre-Quotation Site Visit Meeting Minutes and Sign-In Sheet (see attached). 2) Incorporate photos taken at Pre-Quotation Site Visit 3) Extend solicitation closing date (due date of offers) to April 10, 2026. Notice of Combined Synopsis/Solicitation This is a combined synopsis/solicitation for commercial products or commercial services prepared in accordance with part 12. This announcement constitutes only solicitation. Offers are being requested and a separate written solicitation will not be issued. This acquisition IS set-aside for small business concerns. This solicitation incorporates provisions and clauses by reference. The full text of provisions and clauses may be accessed electronically at www.acquisition.gov. Solicitation number 15BBNF26Q00000038 is issued as a request for quotation (RFQ), for: The Federal Bureau of Prisons, Field Acquisition Office, intends to issue a solicitation for the following requirement: FCI Englewood requires the complete removal and replacement of the roofing system on the Outside Powerhouse at the Federal Correctional Institution (FCI) Englewood, located at 9595 W. Quincy Avenue, Littleton, CO 80123.The contractor shall furnish all labor, materials, equipment, tools, supervision, and warranties necessary to remove approximately 12,000 square feet of existing roofing down to, but not including, the metal or concrete deck, and to install a new fully adhered TPO roofing system consisting of approximately 11,500 square feet over metal decking and 500 square feet over concrete decking. The work includes all associated roofing components such as insulation, flashings, copings, transitions, drainage slope, gutters, downspouts, sealants, primers, adhesives, substrate materials, penetration seals, fasteners, fiberboard, gypsum board, termination bars, sheet metal, vapor protection, and walkway protection around roof access points, HVAC units, security equipment, and roof edges. All work shall comply with the manufacturer’s most current specifications, applicable codes, and all requirements contained in Divisions 01, 02, and 07 of the project specifications. The contractor shall also provide a manufacturer’s assembly letter confirming that the roofing system meets a 20?year warranty and a 100?mph wind rating. The Government anticipates awarding a firm?fixed?price contract. Award will be made to the responsible vendor whose quotation conforms to the solicitation and is determined to be Lowest Price Technically Acceptable (LPTA). Technical acceptability and price will be evaluated in accordance with the solicitation. The solicitation will be made available on or about March 16, 2026, and will be posted to the GPE website at www.sam.gov. All future information related to this acquisition, including any solicitation amendments and award notices, will also be disseminated through this site. Interested parties are responsible for monitoring this site to ensure they have the most up-to-date information regarding this solicitation. Registration in SAM: Each offeror must be registered in www.SAM.gov and must complete the necessary representations and certifications in SAM at the time of submitting their quotation. Quotation Deadline: The anticipated closing date for receipt of quotations is April 3, 2026, at 12:00 pm Mountain Time. Payment Terms: Payment will be processed via Electronic Funds Transfer (EFT) in accordance with 52.232-33 Payment by Electronic Funds Transfer- System for Award Management Additional Requirements: Offerors must include a specification sheet and any submittal information about the products offered in their quotation. Faxed and hand-delivered quotes will not be accepted. Site Visit: A site visit will be held at FCI Englewood to allow interested vendors the opportunity to examine existing conditions and the work area. Attendance is encouraged but not mandatory. Vendors wishing to attend must submit NCIC background check forms for all proposed attendees by the deadline stated in the solicitation. Only individuals who have received prior approval will be permitted to enter the facility. Specific instructions regarding the date, time, meeting location, required identification, and security procedures will be provided in the solicitation. Questions will not be answered during the site visit; all questions must be submitted in writing to the Contracting Officer in accordance with the solicitation instructions. Solicitation Post Date: estimated Monday, March 16, 2026 NCIC forms due: Monday, March 23, by 9am MDT - email to jhsmith@bop.gov Site Visit: Wednesday, March 25, 2026 at 9am MDT Questions Due: Friday, March 27, 2026 by 11am MDT Offer Due Date: Friday, April 3 2026 at 12:00pm MDT Any questions regarding the solicitation may be submitted in writing via email to lbonner@bop.gov.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Luke Bonner
+  - Email: lbonner@bop.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/753c0dbd98e34872809598eb74bcbbbb/view)

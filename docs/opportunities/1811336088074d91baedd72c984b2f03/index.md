@@ -1,0 +1,38 @@
+---
+layout: default
+title: NSN 5306-011164391, BOLT,INTERNALLY REL
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 1811336088074d91baedd72c984b2f03
+---
+
+# NSN 5306-011164391, BOLT,INTERNALLY REL
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-04-08 12:33:03.312-04
+- Solicitation Number: SPE4A626Q0800
+
+## Summary
+
+Source Sought Title: NSN 5306-011164391, BOLT,INTERNALLY REL, WSDC: CH-47 Notice ID: The Solicitation #SPE4A626Q0800 The result of this market research will contribute to determining the method of procurement. The applicable North American Industry Classification System (NAICS) code assigned to this procurement is 332722. THERE IS NO SOLICITATION AT THIS TIME. This request for capability information does not constitute a request for proposals; submission of any information in response to this market survey is purely voluntary; the government assumes no financial responsibility for any costs incurred. Drawings are not available. If your organization has the potential capacity to perform these contract services, please provide the following information: 1) Organization name, address, email address, Web site address, telephone number, and size and type of ownership for the organization; and 2) Tailored capability statements addressing the particulars of this effort, with appropriate documentation supporting claims of organizational and staff capability. If significant subcontracting or teaming is anticipated in order to deliver technical capability, organizations should address the administrative and management structure of such arrangements. The government will evaluate market information to ascertain potential market capacity to 1) provide services consistent in scope and scale with those described in this notice and otherwise anticipated; 2) secure and apply the full range of corporate financial, human capital, and technical resources required to successfully perform similar requirements; 3) implement a successful project management plan that includes: compliance with tight program schedules; cost containment; meeting and tracking performance; hiring and retention of key personnel and risk mitigation; and 4) provide services under a performance based service acquisition contract. BASED ON THE RESPONSES TO THIS SOURCES SOUGHT NOTICE/MARKET RESEARCH, THIS REQUIREMENT MAY BE SET-ASIDE FOR SMALL BUSINESSES OR PROCURED THROUGH FULL AND OPEN COMPETITION, and multiple awards MAY be made. Telephone inquiries will not be accepted or acknowledged, and no feedback or evaluations will be provided to companies regarding their submissions. Submission Instructions: Interested parties who consider themselves qualified to perform the above-listed services are invited to submit a response to this Sources Sought Notice by 04/15/2026. All responses under this Sources Sought Notice must be emailed ive.allen@dla.mil. If you have any questions concerning this opportunity, please contact: Ive Allen. Technical Orders and Qualification Requirements are not available. APPENDIX 1: Purpose and Objectives Potential sources shall be capable of furnishing all labor, materials, facilities and equipment required to accomplish the new manufacture of the item(s). Generally, this entails the procurement/manufacture of component parts, inspection, testing, preservation/packaging, and shipping. Additionally, potential sources may be responsible for supply chain management, logistics planning, forecasting production requirements, long-lead time parts procurement, diminishing manufacturing sources and material shortage issues, and shipping serviceable assets. The unit prices will be established at the time of a contract award. The specific requirement for this effort is below: Approved Source: ADEPT FASTENERS INC 1V0G6 P/N 94902-4 THE BOEING COMPANY 77272 P/N 145DS022-4 LEONARDO SPA HELICOPTERS DIVISION A0126 P/N 145DS022-4 SPS TECHNOLOGIES, LLC 56878 P/N 94902-4 BOEING DISTRIBUTION SERVICES, INC. 2V484 P/N 94902-4 Nomenclature: BOLT,INTERNALLY REL NSN: 5306-011164391 Estimated Requirement: 178 EA If your company desires to be reviewed and qualified as an "Approved Source" for this item, submit an application package through the Source Approval Request (SAR) Program as outlined in the attached JACG SAM HB document. A SAR package contains all of the technical data needed to demonstrate that the prospective contractor can competently manufacture the product to the same level of quality, or better, than the required item. The onus is on the contractor to document and demonstrate their product is equal to, or better, than the currently approved item, which DLA Aviation is procuring. DLA-Aviation can only receive Source Approval Requests (SAR) through DoDSafe link due to internet/web safety concerns. To submit your SAR please send an email to: dlaavnsmallbus@dla.mil, subject line "Request a SAR drop off". Include CAGE code, the NSN and the email address where you want to receive the DoDSafe link. After your email is received, a DoDSafe drop off will be returned, where you can download your SAR file.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Ive Allen
+  - Email: ive.allen@dla.mil
+- Secondary Contact:
+  - Name: Shirley LagatXXX-XXX-XXXX
+  - Email: shirley.lagat@dla.mil
+  - Phone: 8042791790
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: Purpose and Objectives Potential sources shall be capable of furnishing all labor, materials, facilities and equipment required to accomplish the new manufacture of the item(s). Generally, this entails the procurement/manufacture of component parts, inspection, testing, preservation/packaging, and shipping. Additionally, potential sources may be responsible for supply chain management, logistics planning, forecasting production requirements, long-lead time parts procurement, diminishing manufacturing sources and material shortage issues, and shipping serviceable assets. The unit prices will be established at the time of a contract award. The specific requirement for this effort is below: Approved Source: ADEPT FASTENERS INC 1V0G6 P/N 94902-4 THE BOEING COMPANY 77272 P/N 145DS022-4 LEONARDO SPA HELICOPTERS DIVISION A0126 P/N 145DS022-4 SPS TECHNOLOGIES, LLC 56878 P/N 94902-4 BOEING DISTRIBUTION SERVICES, INC. 2V484 P/N 94902-4 Nomenclature: BOLT,INTERNALLY REL NSN: 5306-011164391 Estimated Requirement: 178 EA If your company desires to be reviewed and qualified as an "Approved Source" for this item, submit an application package through the Source Approval Request (SAR) Program as outlined in the attached JACG SAM HB document. A SAR package contains all of the technical data needed to demonstrate that the prospective contractor can competently manufacture the product to the same level of quality, or better, than the required item. The onus is on the contractor to document and demonstrate their product is equal to, or better, than the currently approved item, which DLA Aviation is procuring. DLA-Aviation can only receive Source Approval Requests (SAR) through DoDSafe link due to internet/web safety concerns. To submit your SAR please send an email to: dlaavnsmallbus@dla.mil, subject line "Request a SAR drop off". Include CAGE code, the NSN and the email address where you want to receive the DoDSafe link. After your email is received, a DoDSafe drop off will be returned, where you can download your SAR file
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1811336088074d91baedd72c984b2f03/view)
