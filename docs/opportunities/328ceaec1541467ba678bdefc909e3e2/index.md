@@ -1,0 +1,31 @@
+---
+layout: default
+title: S--GETTYSBURG NATIONAL MILITARY PARK & EISENHOWER NATIONAL HISTORIC SITE - 30 CUBIC YARD ROLL OFF CONSTRUCTION DUMPSTER SERVICES
+agency: INTERIOR, DEPARTMENT OF THE
+notice_type: Award Notice
+notice_id: 328ceaec1541467ba678bdefc909e3e2
+---
+
+# S--GETTYSBURG NATIONAL MILITARY PARK & EISENHOWER NATIONAL HISTORIC SITE - 30 CUBIC YARD ROLL OFF CONSTRUCTION DUMPSTER SERVICES
+
+- Agency: INTERIOR, DEPARTMENT OF THE
+- Type: Award Notice
+- Posted: 2026-04-09 16:02:10.749-04
+- Solicitation Number: 140P4326Q0013
+- Awardee: ELVANO CONSULTING LLC 11025 OKINAWA ST NE Minneapolis MN 55449 USA
+- Award Amount: 70000
+
+## Summary
+
+GETTYSBURG NATIONAL MILITARY PARK & EISENHOWER NATIONAL HISTORIC SITE - 30 CUBIC YARD ROLL OFF CONSTRUCTION DUMPSTER SERVICES
+
+## Contacts
+
+- Primary Contact:
+  - Name: Albright, Jason
+  - Email: Jason_Albright@ios.doi.gov
+  - Phone: 6175196145
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/328ceaec1541467ba678bdefc909e3e2/view)

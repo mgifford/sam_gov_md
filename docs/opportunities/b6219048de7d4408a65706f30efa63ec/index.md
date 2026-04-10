@@ -1,0 +1,39 @@
+---
+layout: default
+title: ENGINE 156 BODY DAMAGE REPAIR
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: b6219048de7d4408a65706f30efa63ec
+---
+
+# ENGINE 156 BODY DAMAGE REPAIR
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-04-09 23:11:33.141-04
+- Solicitation Number: FA483026Q0008
+
+## Summary
+
+This is a combined synopsis and solicitation for commercial service prepared in accordance with (IAW) the format in Revolutionary FAR Overhaul (RFO) part 12, as supplemented with additional information included in this notice. This announcement constitutes the only solicitation; quotations are being requested, and a separate written solicitation will not be issued. Requirement Title: Fire Truck Repair- Engine 156 Solicitation Number: FA483026Q0008 Solicitation Issue Date: 09 April 2026 Response Deadline: 24 April 2026 Point of Contact: SSgt De Jesus, justin.de_jesus@us.af.mil Contracting Officer: SSgt Fuller, tahj.fuller@us.af.mil All Offerors must be registered on the System for Award Management (SAM.gov) database to be eligible for a Department of Defense contract award. All responsible sources that submit a timely quotation shall be considered by the agency. Registration requires applicants to have a Unique Entity ID (UEI) from SAM.gov. Registration may take up to several weeks to process. Recommend registering immediately to be eligible for timely award. All prospective Offerors must go to http://www.sam.gov/ to add or update their Representations and Certifications record. Section II. Description The solicitation number for this procurement is FA483026Q0008 and it is issued as an RFQ. The 23D Contracting Squadron is soliciting for: Fire Truck Repair- Engine 156. This acquisition is for a competitive set aside 100% for Small Business concerns. All quotations will be evaluated according to the evaluation criteria stated in the solicitation and award will be made to the lowest priced technically acceptable (LPTA) offeror. The Government intends to evaluate quotes and award a contract without negotiations with Offerors. Therefore, the Offeror’s initial quote should contain the Offeror’s best terms. However, the Government reserves the right to conduct negotiations, if necessary. All References to "offer" or "offeror" in the clauses and provisions incorporated below are deemed to have the meaning of "quotation" and "quoter" respectively. Any quotation received in response to this RFQ is not binding until the contractor either signs the purchase order issued at the time of award or starts performance. This solicitation document and incorporated provisions and clauses are those in effect through: Federal Acquisition Circular Effective 2025-06 Defense Federal Acquisition Regulation Public Notice Effective 11/10/2025 Department of the Air Force Federal Acquisition Circular Effective 10/16/2024 IAW RFO 52.219-1, the North American Industry Classification System Code (NAICS) and the small business size standard for this procurement is 811121 with a small business size standard of $9 million. The Federal Supply Classification code for this requirement is J023. Section III. Requirement Information 1. Description: Complete repairs outlined in the Statement of Work (SOW) necessary for Engine 156, a 2021 Type III Fire Engine, designated by the Air Force as a wildland firefighting apparatus. Specifically, the proposed work includes the removal, repair, and replacement of the damaged body work on the passenger’s side rear compartment panel and replacement of the damaged center compartment door, on a Rosenbauer Vehicle. All work shall be in strict compliance with the specification of the contract and SOW, Attachment 1. 2. Period of Performance: The period of performance shall be: 60 calendar days 3. Place of Delivery/Performance/Acceptance/FOB Point: Fire Truck- Engine 156 shall be picked up from and delivered back to Moody AFB, GA 31699 4. Questions and Answers Submission Deadline: 2:00 PM EST on 16 April 2026. Questions submitted after this date may not be answered. Instructions: All questions must be emailed to the POCs via Attachment 5, Questions and Answers. Answers to all questions will be posted to SAM.gov through an amendment to the solicitation. Interested vendors are responsible for monitoring the solicitation for amendments and updates. List of Attachment: Attachment 1. Statement of Work Attachment 2. Engine 156 Photos Attachment 3. Wage Determinations Attachment 4. Contract Insurance Compliance Attachment 5. Questions and Answers Attachment 6. Price Schedule Attachment 7. SF 1449 Attachment 8. Combo-Synopsis
+
+## Contacts
+
+- Primary Contact:
+  - Name: SSgt Justin DeJesus
+  - Email: justin.de_jesus@us.af.mil
+  - Phone: 2292572084
+- Secondary Contact:
+  - Name: SSgt Tahj Fuller
+  - Email: tahj.fuller@us.af.mil
+  - Phone: 2292573687
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: . 2. Period of Performance: The period of performance shall be: 60 calendar days 3. Place of Delivery/Performance/Acceptance/FOB Point: Fire Truck- Engine 156 shall be picked up from and delivered back to Moody AFB, GA 31699 4. Questions and Answers Submission Deadline: 2:00 PM EST on 16 April 2026. Questions submitted after this date may not be answered. Instructions: All questions must be emailed to the POCs via Attachment 5, Questions and Answers. Answers to all questions will be posted to SAM.gov through an amendment to the solicitation. Interested vendors are responsible for monitoring the solicitation for amendments and updates. List of Attachment: Attachment 1. Statement of Work Attachment 2. Engine 156 Photos Attachment 3. Wage Determinations Attachment 4. Contract Insurance Compliance Attachment 5. Questions and Answers Attachment 6. Price Schedule Attachment 7. SF 1449 Attachment 8. Combo-Synopsis
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b6219048de7d4408a65706f30efa63ec/view)

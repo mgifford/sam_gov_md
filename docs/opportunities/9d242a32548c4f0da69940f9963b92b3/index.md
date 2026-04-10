@@ -1,0 +1,33 @@
+---
+layout: default
+title: E-6B Maintenance, Repair and Overhaul (MRO)
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: 9d242a32548c4f0da69940f9963b92b3
+---
+
+# E-6B Maintenance, Repair and Overhaul (MRO)
+
+- Agency: DEPT OF DEFENSE
+- Type: Presolicitation
+- Posted: 2026-04-09 08:48:31.244-04
+- Solicitation Number: N00019-25-RFPREQ-APM271-0012
+
+## Summary
+
+***Start Presolicitation Update 20260409*** This notice is an update to the E-6B Maintenance, Repair and Overhaul (MRO) Presolicitation Notice N00019-25-RFPREQ-APM271-0012 posted on 14 January 2026. Naval Air Systems Command (NAVAIR) intends to solicit for a single award Indefinite Delivery Indefinite Quantity (IDIQ) Contract for EPMH Overhaul and Repair services for the E-6B aircraft under Federal Acquisition Regulation (FAR) Part 6 full and open competition. The IDIQ is anticipated to include one (1) five-year ordering period with the option for one (1) additional five-year ordering period from Fiscal Year (FYs) 2027 through 2036. The scope of effort under this IDIQ contract will include performing scheduled and unscheduled depot tasks, within-scope repairs, in-service repairs, light planeside manufacturing and fabrication, and modification to airframe structures and aircraft systems per NAVAIR issued E-6B Technical Directives and E-6B depot technical manuals. To the largest degree possible, the Bill of Material parts to support the effort herein will be supplied by the E-6B Contractor Logistics Support (CLS) provider from stock that is owned by the E-6B program. Fulfillment of these requirements will take place primarily at the contractor's facility, but may also be at Tinker AFB, OK and/or other locations as required when directed by the Government. The contractor’s facility where the MRO services will be performed within continental North America. Interested parties must be registered under the North American Industry Classification System (NAICS) code in the System for Award Management (SAM.gov). The draft solicitation is anticipated to be available for comment on or around the end of May 2026. The final solicitation, and all attachments necessary to prepare a proposal are anticipated to be available on or about mid fourth quarter 2026, with a tentative closing date 30 days after final solicitation posting. It is the responsibility of the potential vendors to monitor SAM.gov for any information that may pertain to a future solicitation. Disclaimer: This pre-solicitation notice is for information only and shall not be construed as a commitment by the Government to solicit contractual offers or award contracts. The Government is not soliciting, nor will it accept proposals as a result of this pre-solcitation notice. The Government will not reimburse the cost of any submission in response to this announcement -- the entire cost of any submission will be at the sole expense of the source submitting the information. If a solicitation is issued in the future, it will be announced via SAM.gov and interested parties must comply with that announcement. The Government will not reimburse respondents for any questions submitted or information provided as a result of this notice. ***End Presolicitation Update 20260409*** This notice is an update to the E-6B Enhanced Phased Maintenance-Heavy (EPMH) Overhaul and Repair Sources Sought Notice N00019-25-RFPREQ-APM271-0012 posted on 30 May 2024, and the Special Notice of questions for interested party response posted on 11 August 2025. Naval Air Systems Command (NAVAIR) intends to solicit for a single award Indefinite Delivery Indefinite Quantity (IDIQ) Contract for EPMH Overhaul and Repair services for the E-6B aircraft under Federal Acquisition Regulation (FAR) Part 6 full and open competition. The IDIQ is anticipated to include one (1) five-year ordering period with the option for one (1) additional five-year ordering period from Fiscal Year (FYs) 2027 through 2036. The scope of effort under this IDIQ contract will include performing scheduled and unscheduled depot tasks, within-scope repairs, in-service repairs, light planeside manufacturing and fabrication, and modification to airframe structures and aircraft systems per NAVAIR issued E-6B Technical Directives and E-6B depot technical manuals. To the largest degree possible, the Bill of Material parts to support the effort herein will be supplied by the E-6B Contractor Logistics Support (CLS) provider from stock that is owned by the E-6B program. Fulfillment of these requirements will take place primarily at the contractor's facility, but may also be at Tinker AFB, OK and/or other locations as required when directed by the Government. The contractor’s facility where the MRO services will be performed within continental North America. Interested parties must be registered under the North American Industry Classification System (NAICS) code in the System for Award Management (SAM.gov). The draft solicitation is anticipated to be available for comment on or around 24 April 2026. The final solicitation, and all attachments necessary to prepare a proposal are anticipated to be available on or about 24 June 2026, with a tentative closing date of 08 August 2026. It is the responsibility of the potential vendors to monitor SAM.gov for any information that may pertain to a future solicitation. Disclaimer: This pre-solicitation notice is for information only and shall not be construed as a commitment by the Government to solicit contractual offers or award contracts. The Government is not soliciting, nor will it accept proposals as a result of this pre-solcitation notice. The Government will not reimburse the cost of any submission in response to this announcement -- the entire cost of any submission will be at the sole expense of the source submitting the information. If a solicitation is issued in the future, it will be announced via SAM.gov and interested parties must comply with that announcement. The Government will not reimburse respondents for any questions submitted or information provided as a result of this notice.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Lisa Troccoli
+  - Email: lisa.j.troccoli.civ@us.navy.mil
+  - Phone: 904-504-5558
+- Secondary Contact:
+  - Name: Timothy C. Ayers
+  - Email: timothy.c.ayers.civ@us.navy.mil
+  - Phone: 301-848-1422
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9d242a32548c4f0da69940f9963b92b3/view)

@@ -1,0 +1,32 @@
+---
+layout: default
+title: N40084 BUILDING 90 DEMOLITION AT COMBINED ARMS TRAINING CENTER, CAMP FUJI, JAPAN
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: 786f1c2c1dc749648ea8bf03eca247f7
+---
+
+# N40084 BUILDING 90 DEMOLITION AT COMBINED ARMS TRAINING CENTER, CAMP FUJI, JAPAN
+
+- Agency: DEPT OF DEFENSE
+- Type: Presolicitation
+- Posted: 2026-04-09 22:02:16.384-04
+- Solicitation Number: N4008426B8910
+
+## Summary
+
+1. THE SUBJECT REQUIREMENT IS BEING SYNOPSIZED IN ACCORDANCE WITH FAR 36.213-2. THIS IS A SYNOPSIS ONLY. THIS IS NOT AN INVITATION FOR BID (IFB).2. PROJECTIONThe contractor shall furnish all labor, supervision, management, tools, martials, equipment, facilities transportation, incidental engineering, and other necessary item to perform demolition, removal, and disposal of building as follows:Building and Structures- Interior and exterior finishes, Roofing, Foundation, Structural Components, Tanks, PipelinesBuilding Systems- Heating, Ventilation, and Air Conditioning (HVAC), Fire Protection, Boilers (excluding Central Utility Plant Boilers), Unfired Pressure Vessels (UPV), Compressed Air Systems, Potable Water (including backflow prevention devices), Wastewater, Electrical, Lightning Arrestors and Grounding Devices, Cathodic Protection Systems, Grease Traps, Exhaust Hoods and Ducts, Roll-up Doors, Ventilation SystemsMiscellaneous- Signs, Drainage Ditches, ShedRoads and Paved Surfaces- Sidewalks, Drainage Systems3. The IFB will be issued on or around 7 May 2026. A site visit will be scheduled on or around 19 May 2026. The tentative bid opening will be on or around 8 June 2026. The awardee shall complete the entire work not later than 270 calendar days from the date of award.4. Plans will be available for inspection without charge through https://sam.gov/ or https://piee.eb.mil/ solicitation module. 5. CONTRACTOR LICENSE REQUIRMENTAny contract resulting from a solicitation will be awarded and performed in its entirety in the country of Japan. Contractors must be duly authorized to operate and conduct business in Japan and must fully comply with all laws, decrees, labor standards, and regulations of Japan during the performance of the contract. Contractors must be registered to do business and possess an appropriate license issued by the Ministry of Land, Infrastructure and Transport or prefectural government in order to perform work under this contract.6. STATUS OF FORCES AGREEMENTThe U.S. Government shall not offer United States Official Contractor status under Article XIV of the U.S.-Japan Status of Forces Agreement (SOFA) under this solicitation. Furthermore, unless specifically provided in the specific task order request for proposal, the U.S. Government shall not certify any employees of a contractor as Members of the Civilian Component under Article I(b) of the SOFA.7. INTERESTED OFFERORSInterested offerors can view and/or download the solicitation from this website at https://sam.gov or https://piee.eb.mil/ solicitation module when it becomes available on or about 7 May 2026. It is the offerors responsibility to check the websites daily for any amendments to this pre-solicitation and the posting of the solicitation. Offerors must be registered in System for Award Management (SAM) in order to receive a Government contract award. To register, the internet address is: https://sam.gov/. Offerors must have an active registration and active Representations and Certifications in this website. Interested offerors are encouraged to register as soon as possible.8. NIST SP 800-171In accordance with DFARS 252.204-7019, National Institute of Standards and Technology (NIST) Special Publication (SP) 800-171 is applicable. In order to be considered for an award, the Offeror shall have a current assessment (i.e., not more than 3 years old unless a lesser time is specified in the solicitation) (see DFARS 252.204-7020) for each covered contractor information system that is relevant to the offer, contract, task order, or delivery order. The Basic, Medium, and High NIST SP 800-171 DoD Assessments are described in the NIST SP 800-171 DoD Assessment Methodology located at https://www.acq.osd.mil/asda/dpc/cp/cyber/safeguarding.html#nistSP800171 (1) The Offeror shall verify that summary level scores of a current NIST SP 800-171 DoD Assessment (i.e., not more than 3 years old unless a lesser time is specified in the solicitation) are posted in the Supplier Performance Risk System (SPRS) (https://www.sprs.csd.disa.mil/) for all covered contractor information system relevant to the offer. (2) If the Offeror does not have a summary level scores of a current NIST SP 800-171 DoD Assessment (i.e., not more than 3 years old unless a lesser time is specified in the solicitation) posted in SPRS, the Offeror may conduct and submit a Basic Assessment to mailto:webptsmh@navy.mil for posting to SPRS in the format identified in paragraph (d) of DFARS 252.204-7019.Please be advised that prior to award of a contract, contractors are required to implement NIST SP 800-171, in accordance with DFARS 252.204-7012, and are required at time of award to have at least a Basic NIST SP 800-171 DoD Assessment that is current. The Contracting Officer will verify that summary level scores of a current NIST SP 800-171 DoD Assessment (i.e., not more than 3 years old unless a lesser time is specified in the solicitation) are posted in the SPRS (See DFARS 252.204-7019), prior to award.Please note the assessment must be for the ?offeror? so if your firm is a JV or LLC, the assessment must be completed for the JV or LLC.9. DISCLAIMERThe information being requested does not constitute an Invitation for Bid or a commitment on the part of the government to award a contract, nor, to pay for any costs incurred as a result in replying to this notice. This notice shall not be construed as a commitment by the Government for any purpose. The point of contact for this synopsis is Midori Otomo, Contract Specialist and may be reached via phone at +81-467-63-3144 or via e-mail at midori.otomo.ln@us.navy.mil.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Midori Otomo
+  - Email: midori.otomo.ln@us.navy.mil
+  - Phone: 046-763-3144
+- Secondary Contact:
+  - Name: Chito Bong F. Carabeo
+  - Email: chitobong.f.carabeo.civ@us.navy.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/786f1c2c1dc749648ea8bf03eca247f7/view)

@@ -1,0 +1,31 @@
+---
+layout: default
+title: Remanufacture of B-52 Ballscrew Assembly
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 7b54e59cad6d485f97a4eab45f0bbf99
+---
+
+# Remanufacture of B-52 Ballscrew Assembly
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-04-09 14:17:36.759-04
+- Solicitation Number: 1680015267829RK_1680015267830RK
+
+## Summary
+
+Remanufacture of B-52 Ballscrew Assembly NSN(s) / P/N(s): 1680015267829RK & 1680015267830RK/ 7900832 & 7900831 INTERESTED SOURCES MUST SELECT “ADD ME TO INTERESTED VENDORS” BUTTON ABOVE OR BELOW TO BE CONSIDERED PARTICIPANTS IN THIS MARKET RESEARCH EFFORT BY THE “CLOSING DATE” OF THIS NOTICE. THERE IS NO SOLICITATION AVAILABLE AT THIS TIME. REQUESTS FOR A SOLICITATION WILL NOT RECEIVE A RESPONSE. PURPOSE This Sources Sought Synopsis (SSS) is in support of market research being conducted by the United States Air Force (USAF). This market research is being conducted to notify potential sources of the upcoming requirement and to re-advertise the qualification requirements for the subject item. Additionally, this notice will gauge small business interest. The determination to make this acquisition a Small Business Set-Aside is dependent on the number of small businesses approved to satisfy this requirement. The Government will use the information gathered through publication of this SSS to determine the best acquisition strategy for this requirement. The Government is interested in all potential sources including Small Businesses, Small Disadvantaged Businesses, 8(a) businesses, Service-Disabled Veteran-Owned Small Businesses, HUBZone Small Businesses, Women-Owned Small Businesses, etc. Potential sources shall be capable of furnishing all labor, materials, facilities and equipment required to accomplish the overhaul of the item(s) listed below. Generally, the work to be accomplished includes disassembly, cleaning, inspection, assembly, testing, preservation, and packaging to return an unserviceable asset to a like-new condition. Additionally, potential sources may be responsible for supply chain management, logistics planning, forecasting production requirements, long-lead time parts procurement, and shipping serviceable assets. Potential sources may be responsible for nonrecurring engineering costs associated with becoming an approved source. DESCRIPTION North American Industry Classification System (NAICS) Code: 336413 (Other Aircraft Parts and Auxiliary Equipment Manufacturing) SBA Size Standard: 1,250 employees Requirement Information: Remanufacture of B-52 Ballscrew Assembly PRODUCTION INFORMATION P/N NSN Noun Est. Requirement 7900832 1680015267829RK BALLSCREW ASSEMBLY BEQ: 45ea 7900831 1680015267830RK BALLSCREW ASSEMBLY BEQ: 80ea POP: 5 Year Requirements Contract (3-Year Basic plus One 2-Year Option) ESTIMATED SOLICITATION INFORMATION Estimated Solicitation Date: June 2026 Estimated Solicitation Closing/Response Date: August 2026 CONTRACTOR CAPABILITY SURVEY & TECHNICAL DATA Potential sources wishing to be qualified to perform the requirement specified above are REQUIRED to complete a Source Approval Request (SAR) package as specified in the Qualification Requirements for this item. QRs and Repair Data List (RDL), if applicable, are attached to this notice. The QR attached to this document is for reference only. The official synopsis of the QRs for this item can be found by searching www.sam.gov/ for the keyword “Repair/Remanufacture Qualification Requirements RQR-848”. Changes to the item list or QRs will be published to the official solicitation, not this notice. Government provided data is annotated on the RDL attached to this posting. Absence of an RDL indicates the Government cannot provide technical data and that potential sources are required to independently acquire the necessary technical data to satisfy this requirement.. Requests for technical data in response to this SSS posting should be submitted to the Tinker TO Public Sales Office at AFLCMC.LZP.PubSales@us.af.mil. Please see TO Public Sales Fact Sheet. SAR packages and SAR-process questions should be submitted to the AFSC Small Business Office at: AFSC/SB 3001 Staff Drive, Suite 1AG 85A Tinker AFB, OK 73145-3009 Email: afsc.sb.workflow@us.af.mil Website: https://www.afsc.af.mil/units/sbo/index.asp Due to COVID-19 and the increase in teleworking (social distancing) we ask that all SAR packages be submitted electronically through DoD SAFE https://safe.apps.mil/. DoD SAFE is a safe option for large files. If you have a PKI certificate you can send directly to the POCs below; if you do not then “request a drop-off” by sending an emails message to: 429SCMS.SASPO.Workflow@us.af.mil NOTE: Potential sources should only submit SAR related questions to the above contact. Inquiries of a technical nature should be submitted to the cognizant engineering activity at 423SCMS.FedBizOps.Inquiries@us.af.mil. Disclaimer: This SSS is issued solely for informational and planning purposes. It does not constitute a solicitation (Request for Information, Request for Proposal, or Request for Quotation) or a promise to issue a solicitation in the future. The information in this notice is based on current information as of the publication date. The information in this notice is subject to change and is not binding to the Government. If changes are made, updated information will be provided in future notices and will be posted on the Systems for Award Management (SAM) website at www.sam.gov/ . Responses to this SSS may or may not be returned. Contractors not responding to this SSS will not be precluded from participation in any future solicitation. INTERESTED SOURCES MUST SELECT “ADD ME TO INTERESTED VENDORS” BUTTON ABOVE OR BELOW TO BE CONSIDERED PARTICIPANTS IN THIS MARKET RESEARCH EFFORT BY THE “CLOSING DATE” OF THIS NOTICE.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Dessie Breslin
+  - Email: dessie.breslin@us.af.mil
+- Secondary Contact:
+  - Name: Amy Gil
+  - Email: amy.gil@us.af.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7b54e59cad6d485f97a4eab45f0bbf99/view)

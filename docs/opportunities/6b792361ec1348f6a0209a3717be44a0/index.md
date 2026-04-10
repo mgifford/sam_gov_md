@@ -1,0 +1,30 @@
+---
+layout: default
+title: U.S. Forest Service’s Disaster Recovery Outreach Event Industry Days Preliminary Notice – March 24-26, 2026
+agency: AGRICULTURE, DEPARTMENT OF
+notice_type: Special Notice
+notice_id: 6b792361ec1348f6a0209a3717be44a0
+---
+
+# U.S. Forest Service’s Disaster Recovery Outreach Event Industry Days Preliminary Notice – March 24-26, 2026
+
+- Agency: AGRICULTURE, DEPARTMENT OF
+- Type: Special Notice
+- Posted: 2026-04-09 16:47:33.874-04
+
+## Summary
+
+The US Forest Service is opening contracting opportunities through Congressional disaster supplemental funding from the American Relief Act (2025). This virtual Industry Days event will connect federal contractors with disaster recovery projects spanning multiple national forests and grasslands. BACKGROUND The Forest Service stewards an impressive portfolio of landscapes across 193 million acres of National Forests and Grasslands in the public trust for multiple, sustained uses such as timber, water, wildlife, and recreation. The Agency’s top priority is to maintain and improve the health, diversity, and productivity of the Nation's forests and grasslands to meet the needs of current and future generations. The Forest Service has been entrusted by Congress in the American Relief Act with the responsibility to restore infrastructure and natural resources devastated by the unprecedented impacts of Hurricane Helene and other recent disasters, causing billions of dollars in damage. The Forest Service program of work is aligned to the requirements of American Relief Act (2025) which includes: expenses related to fires, hurricanes, and other disasters that occurred in calendar years 2022, 2023, and 2024; forest health protection efforts to address spruce budworm in Maine and New Hampshire; and establishment and maintenance of shaded fuel breaks in the Pacific Regions that will help reduce fire risk and protect communities. The disaster supplemental funding is allocated to all nine of the Forest Service Regions, two Research and Development Stations (the Southern Research Station and Northern Research Station), and the International Institute of Tropical Forestry in Puerto Rico. Over 88% of the funding will go to calendar year 2024 events, primarily in association with Hurricanes Helene and Milton (80% of the overall total), with the rest divided almost equally between other disaster events from calendar years 2022 and 2023. SCOPE OF WORK & CONTRACTING OPPORTUNITIES CAPITAL IMPROVEMENT & MAINTENANCE Repair and reconstruction of critical infrastructure: Bridge engineering, construction, and replacement Road reconstruction and rehabilitation (forest and access roads) Administrative and recreation facility restoration Trail system reconstruction Dam repair and safety upgrades Emergency access route establishment Mission-critical work: These projects restore public access, support emergency response capabilities, and revitalize recreation economies in rural communities. NATIONAL FOREST SYSTEM RESTORATION Large-scale ecosystem recovery and risk mitigation: Hazardous tree removal and disposal (significant volumes) Invasive species and noxious weed eradication Vegetation reestablishment (rangelands, riparian areas, forested landscapes) Range infrastructure rebuilding Stream and watershed restoration Cultural resources protection and stabilization Timber salvage sales operations Mission-critical work: Salvage timber operations and forest products recovery support rural forest economies STATE, PRIVATE & TRIBAL FORESTRY Cooperative landscape-scale recovery Forest health protection programs Cooperative forestry initiatives Fire protection systems Spruce budworm management (Maine and New Hampshire) Private landowner technical and financial assistance Mission-critical work: Partners work alongside state agencies and tribal nations to restore federal and non-federal forest lands. RESEARCH & ASSESSMENT Scientific foundation for long-term recovery: Forest Inventory and Analysis plot reestablishment Reestablishment of destroyed research projects Economic impact analysis Disturbance-based management assessments NAICS OPPORTUNITIES FOR DISASTER RECOVERY PROJECTS The following NAICS codes represent contracting opportunities (not exhaustive): Construction & Infrastructure 2211 2213 2362 2371 2373 2379 2381 2382 2383 2389 3323 3339 Forestry & Natural Resources 1114 1131 1133 1153 5617 5629 Professional & Technical Services 5413 5414 5416 5417 Equipment & Supplies 4232 4233 4234 4238 5321 5324 8113 Additional opportunities may exist under related NAICS codes Link: https://www.naics.com/. Review solicitations carefully for specific requirements. NEXT STEPS FOR CONTRACTORS 1. REGISTER NOW: Complete the Market Research Form Revised Link: https://forms.office.com/g/7ADRshFj6t 2. VERIFY SAM.GOV REGISTRATION: Ensure your registration is current with accurate NAICS codes 3. REVIEW CAPABILITIES: Assess your firm’s past performance and technical capacity 4. MONITOR FORECASTS: Check the USDA OSDBU Website: https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-small-and-disadvantaged-business-utilization-osdbu and SAM.GOV regularly VIRTUAL INFORMATION SESSION DETAILS Virtual Event Format: Full details including session times, registration links, and specific topic tracks will be distributed to registered participants. No Obligation: Attendance is not required to submit proposals on future Forest Service solicitations. Small Business Opportunities: The Forest Service is committed to maximizing small business participation. Set-aside and partnership opportunities will be discussed. Attendance at this event is not required to submit responses to synopsis or solicitation of Forest Service Projects.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Aurora Cutler
+  - Email: AFSG-Disaster-Recovery-Day@usda.gov
+- Secondary Contact:
+  - Name: Christopher Ford
+  - Email: AFSG-Disaster-Recovery-Day@usda.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6b792361ec1348f6a0209a3717be44a0/view)

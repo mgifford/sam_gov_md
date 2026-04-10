@@ -1,0 +1,30 @@
+---
+layout: default
+title: R420--Annual Accreditation Fees
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Presolicitation
+notice_id: 762472e300924745b4a61a7b2299e8f3
+---
+
+# R420--Annual Accreditation Fees
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Presolicitation
+- Posted: 2026-04-09 19:10:48.057-04
+- Solicitation Number: 36C26026Q0552
+- Awardee: null
+
+## Summary
+
+STATEMENT OF WORK (SOW) 1. Contract Title. American College of Surgeons, Commission on Cancer 2. Background. This is for maintaining continued annual accreditation and approved cancer program status by the Commission on Cancer (CoC) and site visit from the American College of Surgeons, Commission on Cancer (CoC) for renewal of continued accreditation. The site visit is required every 3 years. 3. Scope. Site and annual accreditation by the Commission on Cancer for continued accreditation from the American College of Surgeons. 4. Specific Tasks. The Commission on Cancer shall perform a site visit every three years. At this visit they shall review patient records to ensure we are performing in accordance with the Commission on Cancer guidelines. The CoC accreditation: Demonstrates commitment to quality to patients, providers, payers, and policymakers. Focuses on a system of care that ensures optimal treatment and outcomes. Required participation in the National Cancer Database (NCDB) and access to numerous quality reporting tools enable CoC-accredited programs to compare their provision and timeliness of care and improve performance based on nationally recognized quality measures and standards of cancer care Shows that accredited programs are dedicating resources to providing quality treatment and supportive care services to cancer patients. The American College of Surgeons is the sole source for the Commission on Cancer accreditation. Deliverables: Contract Management Plan Monthly Status Report Accreditation from the Commission on Cancer 5. Performance Monitoring This is a site visit and Annual Accreditation from the Commission on Cancer. 6. Security Requirements: None, the C&A requirements do not apply, and a Security Accreditation Package is not required 7. Government-Furnished Equipment (GFE)/Government-Furnished Information (GFI). 8. Other Pertinent Information or Special Considerations. a. Identification of Possible Follow-on Work. N/A b. Identification of Potential Conflicts of Interest (COI). N/A . c. Identification of Non-Disclosure Requirements. N/A The site visit will include review of patient information. d. Inspection and Acceptance Criteria. N/A 9. Place of Performance. All work will be completed at VA Portland Healthcare System. 10. Period of Performance. Date of Award - 05/31/2031 11. Delivery Schedule. NA 12. Records Management Language for Contracts Required Citations to pertinent laws, codes and regulations such as 44 U.S.C chapters 21, 29, 31 and 33; Freedom of Information Act (5 U.S.C. 552); Privacy Act (5 U.S.C. 552a); 36 CFR Part 1222 and Part 1228. Contractor shall treat all deliverables under the contract as the property of the U.S. Government for which the Government Agency shall have unlimited rights to use, dispose of, or disclose such data contained therein as it determines to be in the public interest. Contractor shall not create or maintain any records that are not specifically tied to or authorized by the contract using Government IT equipment and/or Government records. Contractor shall not retain, use, sell, or disseminate copies of any delivery that contains information covered by the Privacy Act of 1974 or which is generally protected by the Freedom of Information Act. Contractor shall not create or maintain any records containing any Government Agency records that are not specifically tied to or authorized by the contract. The Government Agency owns the rights to all data/records produced as part of this contract. The Government Agency owns the rights to all electronic information (electronic data, electronic information systems, electronic databases, etc.) and all supporting documentation created as part of this contract. Contractor shall deliver sufficient technical documentation with all data deliverables to permit the agency to use the data. Contractors shall comply with Federal and Agency records management policies, including those policies associated with the safeguarding of records covered by the Privacy Act of 1974. These policies include the preservation of all records created or received regardless of format [paper, electronic, etc.] or mode of transmission [e-mail, fax, etc.] or state of completion [draft, final, etc.]. No disposition of documents shall be allowed without the prior written consent of the Contracting Officer. The Agency and its contractors shall be responsible for preventing the alienation or unauthorized destruction of records, including all forms of mutilation. Willful and unlawful destruction, damage or alienation of Federal records shall be subject to the fines and penalties imposed by 18 U.S.C. 2701. Records shall not be removed from the legal custody of the Agency or destroyed without regard to the provisions of the agency records schedules. Contractor shall obtain the Contracting Officer's approval prior to engaging in any contractual relationship (sub-contractor) in support of this contract requiring the disclosure of information, documentary material and/or records generated under, or relating to, this contract. The Contractor (and any sub-contractor) shall abide by Government and Agency guidance for protecting sensitive and proprietary information.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Jeffrey E Kelley
+  - Title: Jeffrey Kelley
+  - Email: jeffrey.kelley1@va.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/762472e300924745b4a61a7b2299e8f3/view)
