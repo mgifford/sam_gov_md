@@ -1,0 +1,29 @@
+---
+layout: default
+title: S201 - Peoria VA CBOC Janitorial Services
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Solicitation
+notice_id: 0bea03ceb47d4fbc98373beeeb3de770
+---
+
+# S201 - Peoria VA CBOC Janitorial Services
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Solicitation
+- Posted: 2026-04-10 09:49:54.007-04
+- Solicitation Number: 36C25226Q0338
+
+## Summary
+
+CONTRACTOR SHALL PROVIDE ALL MATERIALS, LABOR, MANAGEMENT, AND SUPERVISION NEEDED TO PROVIDE JANITORIAL SERVICES AT THE BOB MICHEL VA OUTPATIENT CLINIC LOCATED IN PEORIA, IL. ALL SERVICES SHALL BE PERFORMED IN ACCORDANCE WITH THE STATEMENT OF WORK. SERVICE CONTRACT LABOR STANDARDS APPLY - DEPARTMENT OF LABOR (DOL) WAGE DETERMINATION 2015-5027 (REV-27) DATED 12/3/2025. THIS IS A 100% SDVOSB SET-ASIDE
+
+## Contacts
+
+- Primary Contact:
+  - Name: Dustin Biermann
+  - Email: Dustin.Biermann@va.gov
+  - Phone: NO TELEPHONE INQUIRIES ACCEPTED
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0bea03ceb47d4fbc98373beeeb3de770/view)

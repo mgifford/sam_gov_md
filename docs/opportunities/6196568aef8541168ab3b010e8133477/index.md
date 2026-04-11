@@ -1,0 +1,29 @@
+---
+layout: default
+title: Haag-Streit BX900 Slit Lamp - Brand Name Or Equal
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: 6196568aef8541168ab3b010e8133477
+---
+
+# Haag-Streit BX900 Slit Lamp - Brand Name Or Equal
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-04-10 09:22:23.981-04
+- Solicitation Number: 36C26326Q0559
+
+## Summary
+
+The Minneapolis VA Health Care System requires Haag-Streit BX900 Slit Lamp and accessories with the Salient Characteristics listed below. This is a sources sought looking for businesses to provide the supplies listed below for market research purposes. No awards of a contract will be made from this announcement. If you are a vendor that can provide the requested information above and required supplies described below with competitive pricing, send your information (to include your organization's Unique Entity Identifier number) with a description of proof of capability to: joseph.bloomer@va.gov on or before April 17th, 2026. Only emailed responses will be considered. Additionally, please provide answers as appropriate to the following questions in the table below with your response to this sources sought. Failure to respond to the following questions may affect the acquisition strategy. 1. Identify your organization's socio-economic category. 2. Identify if your organization is the manufacturer of the requested supplies. If you are not the manufacturer, identify the manufacturer of the supplies that you will provide, their socio-economic category and a letter showing that your organization is an authorized distributor for the requested supplies. 3. Fill out the certificate under FAR Provision 52.225-2(b), identifying the item and its country of origin. ( https://www.acquisition.gov/far/part-52#FAR_52_225_2__d3401e52). If the product is a US domestic end product, write in USA for the item's country of origin. 4. State whether any of the requested supplies may be ordered against a government contract awarded to your organization (e.g Federal Supply Schedule (FSS), General Services Administration (GSA), etc.). 5. Address whether your organization meets the requirements of 13 CFR 121.406 (b)(1)(i), (b)(1)(ii) and (b)(1)(iii) (https://www.ecfr.gov/current/title-13/chapter-I/part-121/subpart-A/subject-group-ECFR0fca5207262de47/section-121.406#p-121.406(b)). 6. State if subcontracting is contemplated for this requirement and what percentage of the requirement will be subcontracted and for what tasks. 7. Provide estimated shipping and delivery information for the requested supplies (e.g. Expected lead time on delivery). *If applicable, VAAR 852.219-76 VA Notice of Limitations on Subcontracting—Certificate of Compliance for Supplies and Products, will apply to the potential solicitation if set-aside for Veteran Owned Small-Businesses.* *If applicable, VAAR 852.212-71 Gray Market Items, will apply to the potential solicitation.* *If applicable, FAR 52.219-14 Limitations on Subcontracting, will apply to the potential solicitation if set-aside for Small-Businesses. * STATEMENT OF WORK Project Title Haag-Streit BX 900 Slit Lamp -or- equivalent – FY26 Procurement Background Minneapolis VA Healthcare System (MVAHCS) has a need to purchase a new BX 900 slit lamp for the surgery service or an equivalent. The Haag-Streit BX 900 Slit Lamp is a specialized, high-end imaging device designed specifically for professional ophthalmic photography of the anterior eye segment. The device is designed for ease of access to the patient, making it particularly useful when photographing in conjunction with hand-held diagnostics lenses. The BX 900 or equivalent should feature an integrated, synchronized flash, LED illumination, and adapter systems for top-tier DSLR cameras, enabling high-quality, documented imaging for clinical diagnosis, research, and to guide various ocular surgeries and procedures. See FAR Clause 52.211-6- Brand Name or Equal (Aug 1999) for additional information. Scope MVAHCS is seeking a firm fixed price to purchase the BX 900 LED Slit Lamp Package The project includes delivery, installation, and imaging training. Salient Characteristics/Functional Requirements Illumination Light Source LED for examination Adjustable Xenon flash that enables the ability to take high magnification photos of corneal pathology and offers high quality clarity. Wider range of illumination abilities for sclerotic scatter, indirect illumination, retro-illumination, vitreous photos, iris angiography, as well as gonio images. Light Management 100% of light direction to the camera, allowing for all the light for the image. Adjustable ISO and shutter speed. Aperture and Magnification Adjustments Built-in diaphragm setting to adjust aperture. Adjustable magnification and apertures for the ability to change the depth of field. Camera Integration Camera is mounted above the microscope. Integrated adapters. SLR camera compatible. Microscope Magnification: Multiple options from 6-40x. Instrument Base Single handed operation preferred. Power Requirements 120 Volt AC, 60Hz Software Requirements EyeSuite Imaging capabilities. EMR Interfaces. Schedule of Items: The slit lamp procurement shall include the following part numbers or equivalents and descriptions: Item # Description/Part Number* Qty 1 Bx 900 LED Slit Lamp Package / ESBX900 HSM G 1 Delivery/Setup The contractor shall coordinate delivery, setup, and training with the on-site Point of Contacts (POCs) listed below:
+
+## Contacts
+
+- Primary Contact:
+  - Name: Joey Bloomer
+  - Email: joseph.bloomer@va.gov
+  - Phone: 5156995549
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6196568aef8541168ab3b010e8133477/view)

@@ -1,0 +1,29 @@
+---
+layout: default
+title: Vehicle Toll Management Services
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: d272d22bf33b41d1bfaeab2301b1c77a
+---
+
+# Vehicle Toll Management Services
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-04-10 16:06:40.251-04
+- Solicitation Number: S5121A2026
+
+## Summary
+
+Notice Type: Sources Sought/Market Research for Vehicle Toll Management Services. This is a Sources Sought/Market Research Notice to request information for Government planning purposes only. Responses will assist the Government in planning its acquisition strategy for a potential future acquisition. The Government is not committed to issue a solicitation or award a contract as a result of this announcement. As this is a sources sought synopsis and not a solicitation for request for proposals or quotations, the Government does not encourage questions concerning this market research. OVERVIEW: The Defense Contract Management Agency (DCMA), Fort Lee, VA, has a requirement for toll management services. The services shall include, but are not limited to the following: A centralized electronic toll collection account management service using an internet web-based user interface. Transponder equipment capable of covering all tollways throughout the United States and Puerto Rico. Payment of tolls, fees, violations and all costs for device replacements/new devices. Customer support for DCMA users. Internet web-based reporting and centralized billing system with a user interface that promotes account management. This shall include, but not be limited to: Track and certify toll transactions and toll violation charges; Facilitate the movement and tracking of all provided equipment such as transponders or other technology; Review and certify a detailed monthly billing statement. The requirement will be implemented using the North American Industry Classification System (NAICS) Code 488490 – Other Support Activities for Road Transportation. DCMA is conducting this Sources Sought to identify contractors who possess the capabilities to provide the Toll Management Services and to determine their capability and adequacy. If your firm may be interested in this requirement, and has provided the required service, we request the information shown below. As permitted by FAR Part 10, this is a market research tool being used for informational and planning purposes. Your responses will assist the Government in the development of its acquisition strategy for a possible Request for Proposal (RFP) or Request for Quotation (RFQ), to be issued at a later date, and in determining whether any type of small business set-aside is possible for this procurement or whether full and open competitive procedures should be utilized. If full and open competition is ultimately pursued, responses to this synopsis will be used to aid in establishing small business subcontracting goals. Response is strictly voluntary - it is not mandatory to submit a response to this notice to participate in any formal RFP or RFQ process that may take place in the future. However, it should be noted that information gathered through this notice may significantly influence our acquisition strategy. All interested parties will be required to respond separately to any solicitations posted as a result of this sources sought notice. Submission Instructions: Responses via email are due by 4:00 p.m. Eastern, April 21, 2026 to Ms. Carol Wilkinson at carol.a.wilkinson.civ@mail.mil. Response must include the information requested below. Responses greater than 10 double-sided pages (including all attachments) will not be considered. Late responses will not be accepted. This is strictly market research and the Government will not entertain any questions. Respondents will not be notified of the results of the evaluation. We appreciate your interest and thank you in advance for responding to the Sources Sought. Qualified firms shall submit a statement of interest on company letterhead demonstrating the firm’s qualifications to perform the defined service. Responses must be complete and sufficiently detailed to address the specific information. The documentation shall address, at a minimum, the following: Company Profile to include: Company name and address; Affiliate information: parent company, joint venture partners, and potential teaming partners; Points of contact (name, title, phone number and email address); Unique Entity Identification (UEI) and CAGE Code, as registered in the System for Award Management (SAM) at http://www.sam.gov/: Business designation/status (must correlate with SAM registration): _____ Large Business _____ Small business _____ HUBZone _____ WOSB _____ Small Disadvantaged Business _____ 8(a) Business Development Program _____ VOSB _____ SDVOSB A summary of your company’s expertise in providing the same or similar services outlined in the attached DRAFT Performance Work Statement; Statements of your firm’s expertise should include reference to relevant contracts performed (including a description of the scope, quality of the support provided, and contract number). Again, this information is requested for Government planning purposes only and does not commit the Government to any contractual agreement. This is not a request for proposal. The Government will not award a contract based upon responses to this announcement. The Government will not reimburse or pay for any costs in regards to the preparation or submission of information in response to this notice. Contracting Office Address: Defense Contract Management Agency 3901 Adams Avenue, Bldg 10500 Ft. Lee, VA 23801 ATTN: Carol Wilkinson, carol.a.wilkinson10.civ@mail.mil
+
+## Contacts
+
+- Primary Contact:
+  - Name: Carol Wilkinson
+  - Email: carol.a.wilkinson10.civ@mail.mil
+  - Phone: 8046613767
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d272d22bf33b41d1bfaeab2301b1c77a/view)

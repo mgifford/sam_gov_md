@@ -1,67 +1,34 @@
 # High-value SAM.gov Matches
 
-- Effective date: 2026-04-09
-- Requested date: 2026-04-10
-- Candidate records: 2014
-- High-value matches: 22
+- Effective date: 2026-04-10
+- Requested date: 2026-04-11
+- Candidate records: 953
+- High-value matches: 25
 - Threshold: total term hits >= 8 and includes one focus term
 
-## FAALC Data Modernization and AI Integration
+## Request for Information / Sources Sought Notice for Providers/Suppliers of a Field deployable X-Ray Diffraction System
 
-- Department: TRANSPORTATION, DEPARTMENT OF
-- Type: Justification
-- PostedDate: 2026-04-09 12:06:02.56-04
-- NAICS: 541512
-- Total term hits: 53
-- Link: https://sam.gov/workspace/contract/opp/6a09feebd8034839b4e36046aa406bbb/view
-- Top terms: platform(25), analytics(9), saas(4), modernization(4), application(3), api(3)
-
-### Market Intelligence (USASpending)
-
-- Agency contracts (3yr, NAICS 541512): 1,275
-- Gov-wide top vendors: Accenture Federal Services Llc ($5,054,816,910); Booz Allen Hamilton Inc ($4,012,137,345); General Dynamics Information Techno ($3,983,864,284); Science Applications International  ($3,203,073,710); Leidos, Inc. ($2,952,210,460)
-- Agency top vendors: Cdw Government Llc ($190,928,591); Leidos, Inc. ($80,246,095); Microtechnologies Llc ($67,896,445); Groundswell Corporation ($49,221,622); General Dynamics Information Techno ($47,629,082)
-
-## Weaponeering and Stores Planning (WASP) Software Development
-
-- Department: DEPT OF DEFENSE
+- Department: COMMERCE, DEPARTMENT OF
 - Type: Sources Sought
-- PostedDate: 2026-04-09 14:07:48.394-04
-- NAICS: 541519
-- Total term hits: 49
-- Link: https://sam.gov/workspace/contract/opp/72c9befb929b4a60a1106b21e3acaf97/view
-- Top terms: software(20), devops(9), agile(9), cybersecurity(5), platform(3), api(2)
+- PostedDate: 2026-04-10 10:03:07.184-04
+- NAICS: 334516
+- Total term hits: 30
+- Link: https://sam.gov/workspace/contract/opp/b599e65dff4a49b3b77bd596f7a8ee01/view
+- Top terms: nist(25), web(4), software(1)
 
 ### Market Intelligence (USASpending)
 
-- Agency contracts (3yr, NAICS 541519): 31,422
-- Gov-wide top vendors: Fcn, Inc. ($1,998,501,783); Four Points Technology, L.L.C. ($1,681,941,813); Thundercat Technology, Llc ($1,648,160,947); V3Gate, Llc ($1,375,488,267); Minburn Technology Group, Llc ($1,314,748,376)
-- Agency top vendors: Fcn, Inc. ($583,214,095); World Wide Technology Llc ($564,826,527); Iron Bow Technologies, Llc ($491,942,219); General Dynamics Information Techno ($473,586,419); New Tech Solutions, Inc. ($460,509,257)
-
-## 42--LIFE PRESERVER,VEST
-
-- Department: DEPT OF DEFENSE
-- Type: Combined Synopsis/Solicitation
-- PostedDate: 2026-04-09 14:06:27.491-04
-- NAICS: 333310
-- Total term hits: 29
-- Link: https://sam.gov/workspace/contract/opp/bf0e3caa14fd4494a7bde3412739acfb/view
-- Top terms: ui(29)
-
-### Market Intelligence (USASpending)
-
-- Agency contracts (3yr, NAICS 333310): 7,783
-- Gov-wide top vendors: L3 Technologies, Inc. ($525,814,872); Elbit Systems Of America - Night Vi ($520,159,463); Tru Simulation + Training Inc. ($96,766,571); Rockwell Collins Simulation & Train ($65,000,000); The Boeing Company ($60,193,308)
-- Agency top vendors: L3 Technologies, Inc. ($525,814,872); Elbit Systems Of America - Night Vi ($520,159,463); Tru Simulation + Training Inc. ($96,766,571); Rockwell Collins Simulation & Train ($65,000,000); The Boeing Company ($60,193,308)
+- Agency contracts (3yr, NAICS 334516): 0
+- Agency top vendors: Fei Company ($17,852,016); Cameca Instruments, Inc ($5,555,329); Oxford Instruments America, Inc. ($4,512,234); Bruker Biospin Corp ($3,397,649); Oxford Instruments Asylum Research, ($2,650,798)
 
 ## Well-Septic Repairs and installation at the Florida National Cemetery
 
 - Department: VETERANS AFFAIRS, DEPARTMENT OF
 - Type: Presolicitation
-- PostedDate: 2026-04-09 09:06:24.334-04
+- PostedDate: 2026-04-10 11:11:05.37-04
 - NAICS: 237110
 - Total term hits: 28
-- Link: https://sam.gov/workspace/contract/opp/cdcf1700210e477b8178a2e8f4bdbb60/view
+- Link: https://sam.gov/workspace/contract/opp/37845aa2989b4c57a077479ee603936f/view
 - Top terms: web(28)
 
 ### Market Intelligence (USASpending)
@@ -70,288 +37,368 @@
 - Gov-wide top vendors: Cdm Constructors Inc ($263,558,580); Jacobs Project Management Co. ($262,562,210); Oscar Renda Contracting Inc ($131,872,566); Pcl Construction Inc ($60,045,825); Record Steel And Construction, Inc. ($45,716,126)
 - Agency top vendors: Blue Cord Design And Construction,  ($16,560,902); Boyer Commercial Construction Inc ($11,740,000); Aaecon General Contracting Llc ($8,565,422); B2 Constructors, Llc ($6,222,994); Anchor-41 Construction Llc ($4,667,521)
 
-## N40084 BUILDING 90 DEMOLITION AT COMBINED ARMS TRAINING CENTER, CAMP FUJI, JAPAN
-
-- Department: DEPT OF DEFENSE
-- Type: Presolicitation
-- PostedDate: 2026-04-09 22:10:29.486-04
-- NAICS: 238910
-- Total term hits: 15
-- Link: https://sam.gov/workspace/contract/opp/8ff061f281b8426b8f4c5e33c8cd7cec/view
-- Top terms: nist(9), web(6)
-
-### Market Intelligence (USASpending)
-
-- Agency contracts (3yr, NAICS 238910): 0
-- Agency top vendors: Prism Response, Llc ($28,518,777); Neuber Environmental Service Inc ($14,101,130); Bhate Environmental Associates, Inc ($9,989,598); Pdo-Hgc Jv Llc ($9,518,318); Resource Environmental Inc ($8,560,000)
-
-## N40084 BUILDING 90 DEMOLITION AT COMBINED ARMS TRAINING CENTER, CAMP FUJI, JAPAN
-
-- Department: DEPT OF DEFENSE
-- Type: Presolicitation
-- PostedDate: 2026-04-09 22:02:16.384-04
-- NAICS: 238910
-- Total term hits: 15
-- Link: https://sam.gov/workspace/contract/opp/786f1c2c1dc749648ea8bf03eca247f7/view
-- Top terms: nist(9), web(6)
-
-### Market Intelligence (USASpending)
-
-- Agency contracts (3yr, NAICS 238910): 0
-- Agency top vendors: Prism Response, Llc ($28,518,777); Neuber Environmental Service Inc ($14,101,130); Bhate Environmental Associates, Inc ($9,989,598); Pdo-Hgc Jv Llc ($9,518,318); Resource Environmental Inc ($8,560,000)
-
-## NOAA Fisheries Special Notice of Intent to a Single Source - eLabJournal
-
-- Department: COMMERCE, DEPARTMENT OF
-- Type: Special Notice
-- PostedDate: 2026-04-09 19:18:40.831-04
-- NAICS: 513210
-- Total term hits: 15
-- Link: https://sam.gov/workspace/contract/opp/b7f6fad8636248198dc21fff9b670eca/view
-- Top terms: software(6), application(5), saas(2), cloud(1), accessibility(1)
-
-### Market Intelligence (USASpending)
-
-- Agency contracts (3yr, NAICS 513210): 0
-- Gov-wide top vendors: Palantir Usg Inc ($402,127,049); Carahsoft Technology Corp ($219,926,739); Dell Federal Systems L.P ($209,155,831); Palantir Technologies Inc. ($162,283,538); Ca, Inc. ($40,714,063)
-- Agency top vendors: Lightfront Llc ($2,786,833); The Mathworks, Inc. ($2,179,603); Biocceleration Inc ($1,794,432); Gen3I Inc. ($1,626,990); Systems Integration, Inc. ($1,602,646)
-
-## VA Office of Inspector General (VA OIG) Office of Investigations Case Management (OICM) Services
-
-- Department: VETERANS AFFAIRS, DEPARTMENT OF
-- Type: Sources Sought
-- PostedDate: 2026-04-09 10:50:06.559-04
-- NAICS: 513210
-- Total term hits: 15
-- Link: https://sam.gov/workspace/contract/opp/08310c618c724233b6df7f1bd1a110a1/view
-- Top terms: fedramp(6), cloud(3), ato(2), nist(2), software(1), fisma(1)
-
-### Market Intelligence (USASpending)
-
-- Agency contracts (3yr, NAICS 513210): 535
-- Gov-wide top vendors: Palantir Usg Inc ($402,127,049); Carahsoft Technology Corp ($219,926,739); Dell Federal Systems L.P ($209,155,831); Palantir Technologies Inc. ($162,283,538); Ca, Inc. ($40,714,063)
-- Agency top vendors: Document Storage Systems, Inc. ($9,263,519); Supravista Medical Dss, Llc ($6,283,398); Clinisys, Inc. ($4,153,442); Censis Technologies, Inc. ($3,075,186); Medicom Technologies Inc ($2,950,444)
-
-## Base Roads Pavement Repair-Muñiz ANGB
-
-- Department: DEPT OF DEFENSE
-- Type: Solicitation
-- PostedDate: 2026-04-09 13:44:17.676-04
-- NAICS: 237310
-- Total term hits: 13
-- Link: https://sam.gov/workspace/contract/opp/aa248e4a4d514b0ebfc5cc7f121d2780/view
-- Top terms: web(12), portal(1)
-
-### Market Intelligence (USASpending)
-
-- Agency contracts (3yr, NAICS 237310): 2,791
-- Gov-wide top vendors: The Lane Construction Corporation ($207,849,000); Kiewit Infrastructure West Co. ($155,687,056); R. C. Construction Co., Inc. ($136,226,810); Nova Nacap A Joint Venture ($129,585,372); Granite Construction Company ($121,234,200)
-- Agency top vendors: The Lane Construction Corporation ($207,849,000); Kiewit Infrastructure West Co. ($155,687,056); R. C. Construction Co., Inc. ($136,226,810); Nova Nacap A Joint Venture ($129,585,372); Head / Diaz 2022 ($101,154,198)
-
-## Night Vision Device Accessories and Training for Foreign Military Sales
-
-- Department: DEPT OF DEFENSE
-- Type: Combined Synopsis/Solicitation
-- PostedDate: 2026-04-09 12:28:54.302-04
-- NAICS: 333310
-- Total term hits: 13
-- Link: https://sam.gov/workspace/contract/opp/f612819b2e034e708d53b76067768837/view
-- Top terms: software(8), web(2), cybersecurity(2), application(1)
-
-### Market Intelligence (USASpending)
-
-- Agency contracts (3yr, NAICS 333310): 7,783
-- Gov-wide top vendors: L3 Technologies, Inc. ($525,814,872); Elbit Systems Of America - Night Vi ($520,159,463); Tru Simulation + Training Inc. ($96,766,571); Rockwell Collins Simulation & Train ($65,000,000); The Boeing Company ($60,193,308)
-- Agency top vendors: L3 Technologies, Inc. ($525,814,872); Elbit Systems Of America - Night Vi ($520,159,463); Tru Simulation + Training Inc. ($96,766,571); Rockwell Collins Simulation & Train ($65,000,000); The Boeing Company ($60,193,308)
-
-## N6600126R0002 - Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC)
-
-- Department: DEPT OF DEFENSE
-- Type: Solicitation
-- PostedDate: 2026-04-09 16:52:13.159-04
-- NAICS: 541330
-- Total term hits: 11
-- Link: https://sam.gov/workspace/contract/opp/515f96d3a7a64f71afac097bfe8e0d59/view
-- Top terms: web(9), software(1), cybersecurity(1)
-
-### Market Intelligence (USASpending)
-
-- Agency contracts (3yr, NAICS 541330): 33,365
-- Gov-wide top vendors: Electric Boat Corporation ($11,008,146,138); Booz Allen Hamilton Inc ($3,898,772,702); Science Applications International  ($2,417,080,699); Bae Systems Technology Solutions &  ($1,871,601,580); Amentum Services, Inc. ($1,518,349,565)
-- Agency top vendors: Electric Boat Corporation ($11,008,146,138); Booz Allen Hamilton Inc ($1,853,574,867); Bae Systems Technology Solutions &  ($1,816,681,612); Science Applications International  ($1,379,075,215); Raytheon Company ($1,352,173,753)
-
-## N6600126R0002 - Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC)
-
-- Department: DEPT OF DEFENSE
-- Type: Solicitation
-- PostedDate: 2026-04-09 16:45:59.256-04
-- NAICS: 541330
-- Total term hits: 11
-- Link: https://sam.gov/workspace/contract/opp/1d2ad650a27c45719c17ec2bfafed836/view
-- Top terms: web(9), software(1), cybersecurity(1)
-
-### Market Intelligence (USASpending)
-
-- Agency contracts (3yr, NAICS 541330): 33,365
-- Gov-wide top vendors: Electric Boat Corporation ($11,008,146,138); Booz Allen Hamilton Inc ($3,898,772,702); Science Applications International  ($2,417,080,699); Bae Systems Technology Solutions &  ($1,871,601,580); Amentum Services, Inc. ($1,518,349,565)
-- Agency top vendors: Electric Boat Corporation ($11,008,146,138); Booz Allen Hamilton Inc ($1,853,574,867); Bae Systems Technology Solutions &  ($1,816,681,612); Science Applications International  ($1,379,075,215); Raytheon Company ($1,352,173,753)
-
-## FY27 AFHC Renovate Tower B743 CZ Camp Zama, Kanagawa Japan
-
-- Department: DEPT OF DEFENSE
-- Type: Sources Sought
-- PostedDate: 2026-04-09 01:50:09.597-04
-- NAICS: 236118
-- Total term hits: 11
-- Link: https://sam.gov/workspace/contract/opp/3a0595475c20434082a1f9de03e645ee/view
-- Top terms: web(6), cybersecurity(4), nist(1)
-
-### Market Intelligence (USASpending)
-
-- Agency contracts (3yr, NAICS 236118): 345
-- Gov-wide top vendors: Nippo Corporation ($107,856,798); Ichiken Co Ltd ($57,790,191); Gilbane Japan Gk ($38,707,657); Miscellaneous Foreign Awardees ($31,435,225); Messer Construction Co ($5,945,935)
-- Agency top vendors: Nippo Corporation ($107,856,798); Ichiken Co Ltd ($57,790,191); Gilbane Japan Gk ($38,707,657); Miscellaneous Foreign Awardees ($25,721,361); Messer Construction Co ($5,945,935)
-
-## Various Commodities for use in International Food Assistance Programs
-
-- Department: AGRICULTURE, DEPARTMENT OF
-- Type: Combined Synopsis/Solicitation
-- PostedDate: 2026-04-09 16:03:54.392-04
-- NAICS: 311212
-- Total term hits: 10
-- Link: https://sam.gov/workspace/contract/opp/cc6bbf6fb33941cbb0121dce0a7ca3a6/view
-- Top terms: web(9), portal(1)
-
-### Market Intelligence (USASpending)
-
-- Agency contracts (3yr, NAICS 311212): 135
-- Gov-wide top vendors: Supreme Rice, Llc ($88,098,760); Farmers Rice Milling Co Llc ($66,042,422); Adm Rice Inc ($53,292,946); Gulf Pacific Rice Co., Llc ($7,688,182); Beaumont Rice Mills, Inc ($4,976,312)
-- Agency top vendors: Supreme Rice, Llc ($88,098,760); Farmers Rice Milling Co Llc ($66,042,422); Adm Rice Inc ($53,292,946); Gulf Pacific Rice Co., Llc ($7,688,182); Beaumont Rice Mills, Inc ($4,976,312)
-
-## 5-Axis CNC Mill / Lathe Purchase at Hill AFB, UT
-
-- Department: DEPT OF DEFENSE
-- Type: Combined Synopsis/Solicitation
-- PostedDate: 2026-04-09 15:27:05.74-04
-- NAICS: 333517
-- Total term hits: 10
-- Link: https://sam.gov/workspace/contract/opp/6743d443277147478fda318a2a0450a0/view
-- Top terms: application(6), software(2), ui(1), nist(1)
-
-### Market Intelligence (USASpending)
-
-- Agency contracts (3yr, NAICS 333517): 1,227
-- Gov-wide top vendors: Hartech Group Llc ($50,619,169); Machine Tool Research, Inc. ($40,904,442); Phillips Corporation ($26,731,513); Pauley Rodine Inc ($19,138,269); Machine Tool Marketing Inc ($11,275,442)
-- Agency top vendors: Hartech Group Llc ($50,619,169); Machine Tool Research, Inc. ($40,904,442); Phillips Corporation ($21,294,634); Pauley Rodine Inc ($19,138,269); Machine Tool Marketing Inc ($11,240,487)
-
-## Security Cameras and Lenel HSPD-12/FIPS 201-3 Compliant Door Access Control Systems - Installation, Service, and Maintenance for the Great Plains Area Indian Health Service (GPAIHS), Office of Information Technology (OIT) Department, Aberdeen, South Dakota
+## Sources Sought: Cloud Hosting, Provisioning, and Management for Indian Health Service (IHS)
 
 - Department: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
 - Type: Sources Sought
-- PostedDate: 2026-04-09 16:39:44.028-04
+- PostedDate: 2026-04-10 14:34:48.34-04
 - NAICS: 541519
-- Total term hits: 9
-- Link: https://sam.gov/workspace/contract/opp/46e170359bf144e09421a8eaa6e60147/view
-- Top terms: software(4), web(2), platform(2), application(1)
+- Total term hits: 23
+- Link: https://sam.gov/workspace/contract/opp/c40ab82df3eb40a8b44ad4adbe9dbffd/view
+- Top terms: cloud(8), platform(4), iaas(3), fedramp(3), hosting(2), paas(1)
 
 ### Market Intelligence (USASpending)
 
 - Agency contracts (3yr, NAICS 541519): 5,005
-- Gov-wide top vendors: Fcn, Inc. ($1,998,501,783); Four Points Technology, L.L.C. ($1,681,941,813); Thundercat Technology, Llc ($1,648,160,947); V3Gate, Llc ($1,375,488,267); Minburn Technology Group, Llc ($1,314,748,376)
+- Gov-wide top vendors: Fcn, Inc. ($1,998,501,783); Four Points Technology, L.L.C. ($1,681,941,813); Thundercat Technology, Llc ($1,648,160,947); V3Gate, Llc ($1,376,684,177); Minburn Technology Group, Llc ($1,314,748,376)
 - Agency top vendors: I3 Federal Llc ($206,991,008); Leidos, Inc. ($199,192,125); Semanticbits Llc ($181,611,970); Deloitte & Touche Llp ($164,544,681); Axle Informatics, Llc ($143,854,218)
 
-## PARTS KIT,BALL VALV
+## INNOVATIVE SOLUTIONS FOR DFSP MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES; DFSP Jacksonville (Northside) Jacksonville FL
 
 - Department: DEPT OF DEFENSE
-- Type: Solicitation
-- PostedDate: 2026-04-09 12:00:44.241-04
-- NAICS: 332919
-- Total term hits: 9
-- Link: https://sam.gov/workspace/contract/opp/98c16160dbb84663adcd4547f171f4ca/view
-- Top terms: application(5), software(2), web(2)
-
-### Market Intelligence (USASpending)
-
-- Agency contracts (3yr, NAICS 332919): 10,974
-- Gov-wide top vendors: Sargent Aerospace & Defense, Llc ($61,236,616); Vacco Industries ($22,168,994); Treadwell Corporation (Delaware) ($20,984,297); Marotta Controls Inc ($16,577,402); Bell Boeing Joint Project Office ($13,792,991)
-- Agency top vendors: Sargent Aerospace & Defense, Llc ($61,236,616); Vacco Industries ($22,168,994); Treadwell Corporation (Delaware) ($20,984,297); Marotta Controls Inc ($16,577,402); Bell Boeing Joint Project Office ($13,792,991)
-
-## 6350--NURSE CALL SYSTEM FOR DC VAMC. "BRAND NAME OR EQUAL TO IAW SOW". OEM LETTER FROM THE MANUFACTURER IS REQUIRED. IF NO OEM LETTER VENDOR WILL BE CONSIDERED NON-RESPONSIVE.
-
-- Department: VETERANS AFFAIRS, DEPARTMENT OF
 - Type: Sources Sought
-- PostedDate: 2026-04-09 10:50:10.782-04
-- NAICS: 334290
-- Total term hits: 9
-- Link: https://sam.gov/workspace/contract/opp/180be7ef585d4126afa85a0f4188187e/view
-- Top terms: web(6), software(2), application(1)
+- PostedDate: 2026-04-10 12:24:58.984-04
+- NAICS: 561210
+- Total term hits: 12
+- Link: https://sam.gov/workspace/contract/opp/341df57450054ed3acfe3e66ce421812/view
+- Top terms: cybersecurity(3), modernization(3), web(2), api(2), application(1), accessibility(1)
 
 ### Market Intelligence (USASpending)
 
-- Agency contracts (3yr, NAICS 334290): 366
-- Gov-wide top vendors: L3Harris Global Communications, Inc ($1,607,443,906); Data Link Solutions Llc ($687,106,109); L3 Technologies, Inc. ($367,140,768); Raytheon Company ($335,284,702); Viasat Inc ($230,002,472)
-- Agency top vendors: Johnson Controls, Inc ($18,391,879); Trane U.S. Inc. ($8,722,160); Johnson Controls Fire Protection Lp ($2,554,661); Systec Ltd Of Wisconsin Inc ($2,302,000); Scdatacom, Llc ($2,006,960)
+- Agency contracts (3yr, NAICS 561210): 12,572
+- Gov-wide top vendors: National Technology & Engineering S ($10,685,209,057); Triad National Security, Llc ($10,362,689,970); Consolidated Nuclear Security, Llc ($6,186,043,442); Ut-Battelle Llc ($5,226,059,589); Savannah River Nuclear Solutions Ll ($4,057,046,660)
+- Agency top vendors: Vectrus Systems Llc ($2,859,105,287); Kbr Services, Llc ($1,769,382,854); Amentum Services, Inc. ($1,502,957,792); Amentum Parsons Logistics Services  ($461,734,769); Sallyport Global Holdings Inc ($400,716,036)
 
-## Z1DA--REPLACE BOILER #3 CONSTRUCTION PROJECT NUMBER 540-22-103
-
-- Department: VETERANS AFFAIRS, DEPARTMENT OF
-- Type: Presolicitation
-- PostedDate: 2026-04-09 14:20:27.539-04
-- NAICS: 236220
-- Total term hits: 8
-- Link: https://sam.gov/workspace/contract/opp/e59f99461b5c4e9c9ccdc303e36ee916/view
-- Top terms: web(8)
-
-### Market Intelligence (USASpending)
-
-- Agency contracts (3yr, NAICS 236220): 3,701
-- Gov-wide top vendors: Bccg A Joint Venture ($3,414,137,891); Clark Construction Group Llc ($2,130,861,590); Bl Harbert International Llc ($1,731,497,364); Caddell Construction Co. (De), Llc ($1,192,739,360); Whiting-Turner Contracting Company, ($1,107,985,827)
-- Agency top vendors: Hurley Jv, Llp ($225,910,442); Richard Group Llc ($155,864,192); Esa South, Inc. ($136,600,529); Amcor Jv One Llc ($132,383,948); Bridger Richard Jv Llc ($129,097,246)
-
-## Hydrographic Survey & Mapping Services SATOC
+## INNOVATIVE SOLUTIONS FOR DFSP MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES; DFSP Jacksonville (Northside) Jacksonville FL
 
 - Department: DEPT OF DEFENSE
-- Type: Presolicitation
-- PostedDate: 2026-04-09 12:33:07.212-04
-- NAICS: 541370
-- Total term hits: 8
-- Link: https://sam.gov/workspace/contract/opp/0849c8260d99467e86d487389ed5502c/view
-- Top terms: software(5), web(3)
+- Type: Sources Sought
+- PostedDate: 2026-04-10 12:21:34.868-04
+- NAICS: 541614
+- Total term hits: 12
+- Link: https://sam.gov/workspace/contract/opp/bec7451b7bea40bfb5beb87368da2ad9/view
+- Top terms: cybersecurity(3), modernization(3), web(2), api(2), application(1), accessibility(1)
 
 ### Market Intelligence (USASpending)
 
-- Agency contracts (3yr, NAICS 541370): 914
-- Gov-wide top vendors: Textron Systems Corporation ($127,567,615); Insitu, Inc. ($89,323,861); Nv5 Geospatial, Inc. ($52,233,298); Woolpert, Inc. ($29,724,260); Surdex Corporation ($24,896,501)
-- Agency top vendors: Textron Systems Corporation ($127,567,615); Insitu, Inc. ($69,731,643); Woolpert, Inc. ($26,406,235); Nv5 Geospatial, Inc. ($18,509,491); Towill, Inc. ($15,211,822)
+- Agency contracts (3yr, NAICS 541614): 2,099
+- Gov-wide top vendors: Deployed Resources Llc ($1,985,608,993); General Atomics Aeronautical System ($307,769,266); General Dynamics Information Techno ($298,758,890); Acquisition Logistics Llc ($265,165,511); Lockheed Martin Corporation ($259,028,796)
+- Agency top vendors: General Atomics Aeronautical System ($307,769,266); Acquisition Logistics Llc ($265,165,511); Lockheed Martin Corporation ($259,028,796); Deployed Resources Llc ($100,530,827); Terrestris, Llc ($89,405,575)
 
-## SB Solicitation: Firm Fixed-Price, Non-Personal Service Type, Commercial Item Purchase to provide IT Support Services for the Great Plains Area Office, Office of Information Technology, Aberdeen, South Dakota.
-
-- Department: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
-- Type: Solicitation
-- PostedDate: 2026-04-09 11:10:13.581-04
-- NAICS: 541519
-- Total term hits: 8
-- Link: https://sam.gov/workspace/contract/opp/00c019d7d7c24eb5971762cbf92ae677/view
-- Top terms: web(3), platform(2), nist(2), software(1)
-
-### Market Intelligence (USASpending)
-
-- Agency contracts (3yr, NAICS 541519): 5,005
-- Gov-wide top vendors: Fcn, Inc. ($1,998,501,783); Four Points Technology, L.L.C. ($1,681,941,813); Thundercat Technology, Llc ($1,648,160,947); V3Gate, Llc ($1,375,488,267); Minburn Technology Group, Llc ($1,314,748,376)
-- Agency top vendors: I3 Federal Llc ($206,991,008); Leidos, Inc. ($199,192,125); Semanticbits Llc ($181,611,970); Deloitte & Touche Llp ($164,544,681); Axle Informatics, Llc ($143,854,218)
-
-## Kentucky Lock Conferencing Trailer
+## INNOVATIVE SOLUTIONS FOR DEFENSE FUEL SUPPORT POINT (DFSP) MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES - DFSP NAVAL STATION MAYPORT, FL
 
 - Department: DEPT OF DEFENSE
-- Type: Presolicitation
-- PostedDate: 2026-04-09 10:36:32.669-04
-- NAICS: 236220
-- Total term hits: 8
-- Link: https://sam.gov/workspace/contract/opp/f850bcca65554c50ad24a402d879c3c2/view
-- Top terms: web(4), application(2), portal(1), accessibility(1)
+- Type: Sources Sought
+- PostedDate: 2026-04-10 12:18:04.561-04
+- NAICS: 561210
+- Total term hits: 12
+- Link: https://sam.gov/workspace/contract/opp/790131c6ac5e4be5b960aafbf0c1a49b/view
+- Top terms: cybersecurity(3), modernization(3), web(2), api(2), application(1), accessibility(1)
 
 ### Market Intelligence (USASpending)
 
-- Agency contracts (3yr, NAICS 236220): 22,761
-- Gov-wide top vendors: Bccg A Joint Venture ($3,414,137,891); Clark Construction Group Llc ($2,130,861,590); Bl Harbert International Llc ($1,731,497,364); Caddell Construction Co. (De), Llc ($1,192,739,360); Whiting-Turner Contracting Company, ($1,107,985,827)
-- Agency top vendors: Clark Construction Group Llc ($1,491,729,445); Bl Harbert International Llc ($1,153,908,917); Harper Construction Company, Inc. ($937,248,570); Rq Construction, Llc ($922,827,674); Conti Federal Services, Llc ($568,291,400)
+- Agency contracts (3yr, NAICS 561210): 12,572
+- Gov-wide top vendors: National Technology & Engineering S ($10,685,209,057); Triad National Security, Llc ($10,362,689,970); Consolidated Nuclear Security, Llc ($6,186,043,442); Ut-Battelle Llc ($5,226,059,589); Savannah River Nuclear Solutions Ll ($4,057,046,660)
+- Agency top vendors: Vectrus Systems Llc ($2,859,105,287); Kbr Services, Llc ($1,769,382,854); Amentum Services, Inc. ($1,502,957,792); Amentum Parsons Logistics Services  ($461,734,769); Sallyport Global Holdings Inc ($400,716,036)
+
+## INNOVATIVE SOLUTIONS FOR DFSP MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES; DFSP Jacksonville (Northside) Jacksonville FL
+
+- Department: DEPT OF DEFENSE
+- Type: Sources Sought
+- PostedDate: 2026-04-10 12:17:53.221-04
+- NAICS: 531190
+- Total term hits: 12
+- Link: https://sam.gov/workspace/contract/opp/316fd470a74e4e9db7b572f9c304e12c/view
+- Top terms: cybersecurity(3), modernization(3), web(2), api(2), application(1), accessibility(1)
+
+### Market Intelligence (USASpending)
+
+- Agency contracts (3yr, NAICS 531190): 10
+- Gov-wide top vendors: N.S.P. Ventures Corp. ($34,645,465); Tc Pennsy Drive Llc ($13,573,619); City Of Vinton ($3,508,494); Town Of Fort Jones ($1,154,670); Usgbf Nsf Llc ($993,583)
+- Agency top vendors: Omega Belt Built Joint Venture, Llc ($860,415); Indian Ocean Properties Llc ($207,390); American Towers Llc ($194,630); American Tower Management Llc ($97,315); Mtd, Inc ($42,630)
+
+## INNOVATIVE SOLUTIONS FOR DEFENSE FUEL SUPPORT POINT (DFSP) MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES - DFSP NAVAL STATION MAYPORT, FL
+
+- Department: DEPT OF DEFENSE
+- Type: Sources Sought
+- PostedDate: 2026-04-10 12:15:15.775-04
+- NAICS: 541614
+- Total term hits: 12
+- Link: https://sam.gov/workspace/contract/opp/a24de61dda134836aee5992681141ce5/view
+- Top terms: cybersecurity(3), modernization(3), web(2), api(2), application(1), accessibility(1)
+
+### Market Intelligence (USASpending)
+
+- Agency contracts (3yr, NAICS 541614): 2,099
+- Gov-wide top vendors: Deployed Resources Llc ($1,985,608,993); General Atomics Aeronautical System ($307,769,266); General Dynamics Information Techno ($298,758,890); Acquisition Logistics Llc ($265,165,511); Lockheed Martin Corporation ($259,028,796)
+- Agency top vendors: General Atomics Aeronautical System ($307,769,266); Acquisition Logistics Llc ($265,165,511); Lockheed Martin Corporation ($259,028,796); Deployed Resources Llc ($100,530,827); Terrestris, Llc ($89,405,575)
+
+## INNOVATIVE SOLUTIONS FOR DFSP MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES; DFSP Jacksonville (Northside) Jacksonville FL
+
+- Department: DEPT OF DEFENSE
+- Type: Sources Sought
+- PostedDate: 2026-04-10 12:14:26.47-04
+- NAICS: 493190
+- Total term hits: 12
+- Link: https://sam.gov/workspace/contract/opp/8e22927d2ccc45d79836530b54149dc5/view
+- Top terms: cybersecurity(3), modernization(3), web(2), api(2), application(1), accessibility(1)
+
+### Market Intelligence (USASpending)
+
+- Agency contracts (3yr, NAICS 493190): 60,637
+- Gov-wide top vendors: Dgci Corporation ($397,716,480); Asrc Federal Facilities Logistics,  ($347,772,196); Qatex Limited ($97,591,894); Philippine Coastal Storage & Pipeli ($91,773,725); Motor Oil (Hellas) Corinth Refineri ($57,874,625)
+- Agency top vendors: Dgci Corporation ($397,716,480); Asrc Federal Facilities Logistics,  ($347,772,196); Qatex Limited ($97,591,894); Philippine Coastal Storage & Pipeli ($91,773,725); Motor Oil (Hellas) Corinth Refineri ($57,874,625)
+
+## INNOVATIVE SOLUTIONS FOR DEFENSE FUEL SUPPORT POINT (DFSP) MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES - DFSP NAVAL STATION MAYPORT, FL
+
+- Department: DEPT OF DEFENSE
+- Type: Sources Sought
+- PostedDate: 2026-04-10 12:12:24.628-04
+- NAICS: 531190
+- Total term hits: 12
+- Link: https://sam.gov/workspace/contract/opp/7769dfb5466e4088b1ee40f2c69c2628/view
+- Top terms: cybersecurity(3), modernization(3), web(2), api(2), application(1), accessibility(1)
+
+### Market Intelligence (USASpending)
+
+- Agency contracts (3yr, NAICS 531190): 10
+- Gov-wide top vendors: N.S.P. Ventures Corp. ($34,645,465); Tc Pennsy Drive Llc ($13,573,619); City Of Vinton ($3,508,494); Town Of Fort Jones ($1,154,670); Usgbf Nsf Llc ($993,583)
+- Agency top vendors: Omega Belt Built Joint Venture, Llc ($860,415); Indian Ocean Properties Llc ($207,390); American Towers Llc ($194,630); American Tower Management Llc ($97,315); Mtd, Inc ($42,630)
+
+## INNOVATIVE SOLUTIONS FOR DFSP MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES; DFSP Jacksonville (Northside) Jacksonville FL
+
+- Department: DEPT OF DEFENSE
+- Type: Sources Sought
+- PostedDate: 2026-04-10 12:10:18.974-04
+- NAICS: 488320
+- Total term hits: 12
+- Link: https://sam.gov/workspace/contract/opp/4b8fba842a304b8caa6853b7f8decc6b/view
+- Top terms: cybersecurity(3), modernization(3), web(2), api(2), application(1), accessibility(1)
+
+### Market Intelligence (USASpending)
+
+- Agency contracts (3yr, NAICS 488320): 627
+- Gov-wide top vendors: Cooper/Ports America Llc ($71,745,775); Versability Resources, Inc. ($51,512,712); Delaware River Stevedores, Inc. ($26,827,306); Ssa Atlantic Llc ($26,094,235); Rhenus Midgard Gmbh & Co. Kg ($22,337,834)
+- Agency top vendors: Cooper/Ports America Llc ($71,745,775); Versability Resources, Inc. ($51,512,712); Delaware River Stevedores, Inc. ($26,827,306); Ssa Atlantic Llc ($26,094,235); Rhenus Midgard Gmbh & Co. Kg ($22,337,834)
+
+## INNOVATIVE SOLUTIONS FOR DEFENSE FUEL SUPPORT POINT (DFSP) MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES - DFSP NAVAL STATION MAYPORT, FL
+
+- Department: DEPT OF DEFENSE
+- Type: Sources Sought
+- PostedDate: 2026-04-10 12:09:22.072-04
+- NAICS: 493190
+- Total term hits: 12
+- Link: https://sam.gov/workspace/contract/opp/fe412186849643aa9787fff359123068/view
+- Top terms: cybersecurity(3), modernization(3), web(2), api(2), application(1), accessibility(1)
+
+### Market Intelligence (USASpending)
+
+- Agency contracts (3yr, NAICS 493190): 60,637
+- Gov-wide top vendors: Dgci Corporation ($397,716,480); Asrc Federal Facilities Logistics,  ($347,772,196); Qatex Limited ($97,591,894); Philippine Coastal Storage & Pipeli ($91,773,725); Motor Oil (Hellas) Corinth Refineri ($57,874,625)
+- Agency top vendors: Dgci Corporation ($397,716,480); Asrc Federal Facilities Logistics,  ($347,772,196); Qatex Limited ($97,591,894); Philippine Coastal Storage & Pipeli ($91,773,725); Motor Oil (Hellas) Corinth Refineri ($57,874,625)
+
+## INNOVATIVE SOLUTIONS FOR DFSP MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES; DFSP Jacksonville (Northside) Jacksonville FL
+
+- Department: DEPT OF DEFENSE
+- Type: Sources Sought
+- PostedDate: 2026-04-10 12:06:45.762-04
+- NAICS: 488119
+- Total term hits: 12
+- Link: https://sam.gov/workspace/contract/opp/5adc05c787bd474d9ce18c66546fecb9/view
+- Top terms: cybersecurity(3), modernization(3), web(2), api(2), application(1), accessibility(1)
+
+### Market Intelligence (USASpending)
+
+- Agency contracts (3yr, NAICS 488119): 110
+- Gov-wide top vendors: Vgs Aircraft Services, Inc. ($35,889,563); Algese S.R.L. ($17,970,679); C2G, Ltd Co. ($13,366,552); Bahrain Airport Services Company (B ($8,230,802); Pci Aviation Llc ($7,374,279)
+- Agency top vendors: Vgs Aircraft Services, Inc. ($35,889,563); Algese S.R.L. ($17,970,679); C2G, Ltd Co. ($13,366,552); Bahrain Airport Services Company (B ($8,230,802); Pci Aviation Llc ($7,374,279)
+
+## INNOVATIVE SOLUTIONS FOR DFSP MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES; DFSP Jacksonville (Northside) Jacksonville FL
+
+- Department: DEPT OF DEFENSE
+- Type: Sources Sought
+- PostedDate: 2026-04-10 12:03:08.617-04
+- NAICS: 486910
+- Total term hits: 12
+- Link: https://sam.gov/workspace/contract/opp/fc48fd3ab85a46c09983234e0b000b1e/view
+- Top terms: cybersecurity(3), modernization(3), web(2), api(2), application(1), accessibility(1)
+
+### Market Intelligence (USASpending)
+
+- Agency contracts (3yr, NAICS 486910): 0
+- Gov-wide top vendors: Ps Energy Group, Inc. ($1,514,574); Morton Bahamas Limited ($1,371,071); Gas House Cove Marina, Inc. ($50,000); Pilot Thomas Logistics Llc ($-46,523)
+
+## INNOVATIVE SOLUTIONS FOR DEFENSE FUEL SUPPORT POINT (DFSP) MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES - DFSP NAVAL STATION MAYPORT, FL
+
+- Department: DEPT OF DEFENSE
+- Type: Sources Sought
+- PostedDate: 2026-04-10 12:01:13.853-04
+- NAICS: 488320
+- Total term hits: 12
+- Link: https://sam.gov/workspace/contract/opp/e5d6e0d0b6fb4881b6396de8797511e5/view
+- Top terms: cybersecurity(3), modernization(3), web(2), api(2), application(1), accessibility(1)
+
+### Market Intelligence (USASpending)
+
+- Agency contracts (3yr, NAICS 488320): 627
+- Gov-wide top vendors: Cooper/Ports America Llc ($71,745,775); Versability Resources, Inc. ($51,512,712); Delaware River Stevedores, Inc. ($26,827,306); Ssa Atlantic Llc ($26,094,235); Rhenus Midgard Gmbh & Co. Kg ($22,337,834)
+- Agency top vendors: Cooper/Ports America Llc ($71,745,775); Versability Resources, Inc. ($51,512,712); Delaware River Stevedores, Inc. ($26,827,306); Ssa Atlantic Llc ($26,094,235); Rhenus Midgard Gmbh & Co. Kg ($22,337,834)
+
+## INNOVATIVE SOLUTIONS FOR DFSP MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES; DFSP Jacksonville (Northside) Jacksonville FL
+
+- Department: DEPT OF DEFENSE
+- Type: Sources Sought
+- PostedDate: 2026-04-10 11:58:50.527-04
+- NAICS: 488310
+- Total term hits: 12
+- Link: https://sam.gov/workspace/contract/opp/221135e5af8e40539a11af0bfb3735a9/view
+- Top terms: cybersecurity(3), modernization(3), web(2), api(2), application(1), accessibility(1)
+
+### Market Intelligence (USASpending)
+
+- Agency contracts (3yr, NAICS 488310): 3,511
+- Gov-wide top vendors: S.C.A. - Shipping Consultants Assoc ($229,760,147); Waypoint Llc ($57,789,051); Global Defense Logistics S.R.L. ($55,199,560); Inchcape Shipping Services Dubai Ll ($51,985,503); Parsh Marine (S) Pte. Ltd. ($23,288,176)
+- Agency top vendors: S.C.A. - Shipping Consultants Assoc ($224,401,260); Waypoint Llc ($56,099,760); Global Defense Logistics S.R.L. ($54,856,165); Inchcape Shipping Services Dubai Ll ($51,689,919); Parsh Marine (S) Pte. Ltd. ($23,288,176)
+
+## INNOVATIVE SOLUTIONS FOR DEFENSE FUEL SUPPORT POINT (DFSP) MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES - DFSP NAVAL STATION MAYPORT, FL
+
+- Department: DEPT OF DEFENSE
+- Type: Sources Sought
+- PostedDate: 2026-04-10 11:57:24.515-04
+- NAICS: 488119
+- Total term hits: 12
+- Link: https://sam.gov/workspace/contract/opp/9b361ed6debe4b8abbbccbad8447e6d2/view
+- Top terms: cybersecurity(3), modernization(3), web(2), api(2), application(1), accessibility(1)
+
+### Market Intelligence (USASpending)
+
+- Agency contracts (3yr, NAICS 488119): 110
+- Gov-wide top vendors: Vgs Aircraft Services, Inc. ($35,889,563); Algese S.R.L. ($17,970,679); C2G, Ltd Co. ($13,366,552); Bahrain Airport Services Company (B ($8,230,802); Pci Aviation Llc ($7,374,279)
+- Agency top vendors: Vgs Aircraft Services, Inc. ($35,889,563); Algese S.R.L. ($17,970,679); C2G, Ltd Co. ($13,366,552); Bahrain Airport Services Company (B ($8,230,802); Pci Aviation Llc ($7,374,279)
+
+## INNOVATIVE SOLUTIONS FOR DFSP MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES; DFSP Jacksonville (Northside) Jacksonville FL
+
+- Department: DEPT OF DEFENSE
+- Type: Sources Sought
+- PostedDate: 2026-04-10 11:54:36.4-04
+- NAICS: 425120
+- Total term hits: 12
+- Link: https://sam.gov/workspace/contract/opp/2e05b28b8a694fb798629e504974d09c/view
+- Top terms: cybersecurity(3), modernization(3), web(2), api(2), application(1), accessibility(1)
+
+### Market Intelligence (USASpending)
+
+- Agency contracts (3yr, NAICS 425120): 12
+- Gov-wide top vendors: Aquirecorps Norwalk Auto Auction ($5,029,480); Dealer'S Auto Action Of Idaho, L.L. ($4,851,977); Central Inc ($4,053,734); Farmington Auto Auction Inc ($3,641,233); Delcee Inc ($3,603,177)
+- Agency top vendors: Defense Venture Holdings, Llc ($263,724); Statz Corp ($144,607); North End Group Llc ($96,256); Government Scientific Source Inc ($35,310); Pcx Inc ($16,634)
+
+## INNOVATIVE SOLUTIONS FOR DFSP MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES; DFSP Jacksonville (Northside) Jacksonville FL
+
+- Department: DEPT OF DEFENSE
+- Type: Sources Sought
+- PostedDate: 2026-04-10 11:50:40.978-04
+- NAICS: 424720
+- Total term hits: 12
+- Link: https://sam.gov/workspace/contract/opp/3bff095253954b51a453d9487c457711/view
+- Top terms: cybersecurity(3), modernization(3), web(2), api(2), application(1), accessibility(1)
+
+### Market Intelligence (USASpending)
+
+- Agency contracts (3yr, NAICS 424720): 23
+- Gov-wide top vendors: Tokyo Gas Co.,Ltd. ($6,441,111); Miscellaneous Foreign Awardees ($1,494,311); Morton Bahamas Limited ($1,201,917); Standard Petroleum Logistics Inc ($1,046,566); D Square Construction Llc ($511,152)
+- Agency top vendors: Tokyo Gas Co.,Ltd. ($6,441,111); Ipgs Corporation Pte. Ltd. ($447,300); Christopher I. Oyolokor Sr. ($126,716); Tv Guy Orlando, Llc ($59,773); Miscellaneous Foreign Awardees ($56,077)
+
+## INNOVATIVE SOLUTIONS FOR DFSP MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES; DFSP Jacksonville (Northside) Jacksonville FL
+
+- Department: DEPT OF DEFENSE
+- Type: Sources Sought
+- PostedDate: 2026-04-10 11:47:20.304-04
+- NAICS: 424710
+- Total term hits: 12
+- Link: https://sam.gov/workspace/contract/opp/c320ed79f9a644e096acdef718adec57/view
+- Top terms: cybersecurity(3), modernization(3), web(2), api(2), application(1), accessibility(1)
+
+### Market Intelligence (USASpending)
+
+- Agency contracts (3yr, NAICS 424710): 8
+- Gov-wide top vendors: Trc Government Services, Llc ($18,260,514); Vgs Infrastructure Services Inc ($2,930,209); Professional Logistics Services Inc ($837,852); Paz Oil Company Limited ($750,360); Miscellaneous Foreign Awardees ($593,456)
+- Agency top vendors: Trc Government Services, Llc ($18,260,514); Vgs Infrastructure Services Inc ($2,930,209); Lb & B Associates Inc ($199,476); Tayrona Investments Llc ($14,759); Ergotem S.A. ($-5,796,184)
+
+## INNOVATIVE SOLUTIONS FOR DEFENSE FUEL SUPPORT POINT (DFSP) MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES - DFSP POINT LOMA, CA
+
+- Department: DEPT OF DEFENSE
+- Type: Sources Sought
+- PostedDate: 2026-04-10 11:46:34.286-04
+- NAICS: 561210
+- Total term hits: 12
+- Link: https://sam.gov/workspace/contract/opp/187344aa37c24a9fae1b3e8421e3fe9c/view
+- Top terms: cybersecurity(3), modernization(3), web(2), api(2), application(1), accessibility(1)
+
+### Market Intelligence (USASpending)
+
+- Agency contracts (3yr, NAICS 561210): 12,572
+- Gov-wide top vendors: National Technology & Engineering S ($10,685,209,057); Triad National Security, Llc ($10,362,689,970); Consolidated Nuclear Security, Llc ($6,186,043,442); Ut-Battelle Llc ($5,226,059,589); Savannah River Nuclear Solutions Ll ($4,057,046,660)
+- Agency top vendors: Vectrus Systems Llc ($2,859,105,287); Kbr Services, Llc ($1,769,382,854); Amentum Services, Inc. ($1,502,957,792); Amentum Parsons Logistics Services  ($461,734,769); Sallyport Global Holdings Inc ($400,716,036)
+
+## INNOVATIVE SOLUTIONS FOR DEFENSE FUEL SUPPORT POINT (DFSP) MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES - DFSP POINT LOMA, CA
+
+- Department: DEPT OF DEFENSE
+- Type: Sources Sought
+- PostedDate: 2026-04-10 11:43:48.886-04
+- NAICS: 541614
+- Total term hits: 12
+- Link: https://sam.gov/workspace/contract/opp/dfab225a38cd45178c9a0e7a380406f2/view
+- Top terms: cybersecurity(3), modernization(3), web(2), api(2), application(1), accessibility(1)
+
+### Market Intelligence (USASpending)
+
+- Agency contracts (3yr, NAICS 541614): 2,099
+- Gov-wide top vendors: Deployed Resources Llc ($1,985,608,993); General Atomics Aeronautical System ($307,769,266); General Dynamics Information Techno ($298,758,890); Acquisition Logistics Llc ($265,165,511); Lockheed Martin Corporation ($259,028,796)
+- Agency top vendors: General Atomics Aeronautical System ($307,769,266); Acquisition Logistics Llc ($265,165,511); Lockheed Martin Corporation ($259,028,796); Deployed Resources Llc ($100,530,827); Terrestris, Llc ($89,405,575)
+
+## INNOVATIVE SOLUTIONS FOR DFSP MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES; DFSP Jacksonville (Northside) Jacksonville FL
+
+- Department: DEPT OF DEFENSE
+- Type: Sources Sought
+- PostedDate: 2026-04-10 11:43:38.236-04
+- NAICS: 221210
+- Total term hits: 12
+- Link: https://sam.gov/workspace/contract/opp/6ba0490dc08f4102b04b8f278f87803e/view
+- Top terms: cybersecurity(3), modernization(3), web(2), api(2), application(1), accessibility(1)
+
+### Market Intelligence (USASpending)
+
+- Agency contracts (3yr, NAICS 221210): 343
+- Gov-wide top vendors: Washington Gas Light Company ($49,195,555); Nrg Business Marketing Llc ($39,796,668); Tokyo Gas Co.,Ltd. ($37,672,116); Schuyler Line Navigation Company Ll ($36,659,721); Buyo Gas Co.,Ltd. ($29,610,381)
+- Agency top vendors: Tokyo Gas Co.,Ltd. ($37,672,116); Schuyler Line Navigation Company Ll ($36,659,721); Buyo Gas Co.,Ltd. ($29,610,381); Foreign Utility Consolidated Report ($25,547,356); Eneos Corporation ($22,681,197)
+
+## INNOVATIVE SOLUTIONS FOR DEFENSE FUEL SUPPORT POINT (DFSP) MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES - DFSP POINT LOMA, CA
+
+- Department: DEPT OF DEFENSE
+- Type: Sources Sought
+- PostedDate: 2026-04-10 11:39:42.118-04
+- NAICS: 531190
+- Total term hits: 12
+- Link: https://sam.gov/workspace/contract/opp/01abe8bcf2e6447497d63aa82db1082d/view
+- Top terms: cybersecurity(3), modernization(3), web(2), api(2), application(1), accessibility(1)
+
+### Market Intelligence (USASpending)
+
+- Agency contracts (3yr, NAICS 531190): 10
+- Gov-wide top vendors: N.S.P. Ventures Corp. ($34,645,465); Tc Pennsy Drive Llc ($13,573,619); City Of Vinton ($3,508,494); Town Of Fort Jones ($1,154,670); Usgbf Nsf Llc ($993,583)
+- Agency top vendors: Omega Belt Built Joint Venture, Llc ($860,415); Indian Ocean Properties Llc ($207,390); American Towers Llc ($194,630); American Tower Management Llc ($97,315); Mtd, Inc ($42,630)
+
+## INNOVATIVE SOLUTIONS FOR DFSP MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES; DFSP Naval Station Mayport (Air Operations), Mayport, FL
+
+- Department: DEPT OF DEFENSE
+- Type: Sources Sought
+- PostedDate: 2026-04-10 11:37:54.782-04
+- NAICS: 486910
+- Total term hits: 12
+- Link: https://sam.gov/workspace/contract/opp/1b8e09ce061a4fde8169cf14cfec44da/view
+- Top terms: cybersecurity(3), modernization(3), web(2), api(2), application(1), accessibility(1)
+
+### Market Intelligence (USASpending)
+
+- Agency contracts (3yr, NAICS 486910): 0
+- Gov-wide top vendors: Ps Energy Group, Inc. ($1,514,574); Morton Bahamas Limited ($1,371,071); Gas House Cove Marina, Inc. ($50,000); Pilot Thomas Logistics Llc ($-46,523)

@@ -1,0 +1,31 @@
+---
+layout: default
+title: 6515--Automated Asset Management using RFID and BLE (VA-26-00044895)
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Presolicitation
+notice_id: dc20adb8dd2840a8b17c50346260c06d
+---
+
+# 6515--Automated Asset Management using RFID and BLE (VA-26-00044895)
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Presolicitation
+- Posted: 2026-04-10 20:03:09.097-04
+- Solicitation Number: 36C10B26R0017
+- Awardee: null
+
+## Summary
+
+This is a Pre-solicitation Notice and Response to Request for Information (RFI) for Solicitation 36C10B26R0017 only. The Department of Veterans Affairs has a potential requirement to support and enhance Automated Asset Management Using Passive Radiofrequency for Veterans Integrated Service Network (VISN) 21. The VA intends to issue a Request for Proposal (RFP) for this requirement. VISN 21 seeks to maintain, expand, and enhance existing Automated Asset Management Platform (AAMP) across VISN 21 facilities. The effort includes integrating Zebra® Passive Radiofrequency Identification (RFID), CenTrak® Active RTLS technologies, and the AgileRank® aRTLS mobile application, as well as provisioning of hardware, software, and professional services required for system design, installation, configuration, and interoperability with VA enterprise systems including AEMS/MERS, IBM Maximo®, and Nuvolo. This acquisition will be a Service-Disabled Veteran-owned small businesses (SDVOSBs) set-aside. Please refer to previous Sources Sought Announcements for background. This notice is issued solely for planning and informational purposes and does not commit the VA to procure any supply or service. The VA is not soliciting proposals at this time and will not accept unsolicited proposals. The formal solicitation for Automated Asset Management Using Passive Radiofrequency, VISN 21 (36C10B26R0017) will be posted on or around May 15, 2026. Response to Request for Information 36C10B26R0017 Confirm AgileRank aRTLS version, FedRAMP boundary, data flows, and API quotas. Response: All VA-furnishable information about the aRTLS application is publicly available through the VA SaaS Marketplace. All other information is proprietary to AgileRank. Confirm preferred CDW integration and schemas/frequencies. Response: Integration is UI to CDW. Data delivery frequency should be at least daily. When both Maximo and Nuvolo are present, which is the authoritative for lifecycle/work orders? Response: Nuvolo is authoritative for lifecycle management and work orders. Define UAT sampling to validate >95% accuracy and provide any interference test template. Response: The PWS specifically states: The Contractor shall provide VA with the performance test methodology and results . UAT sampling will be defined using standard, established statistical methods for confidence intervals using a pass/fail criteria. The sample size will vary depending on the scope of each task order. Provide IPv6 adoption timelines at target HCS sites. Response: Target completion is 2027 for all VISN 21 Health Care Systems. Can we schedule a meeting or demonstration with the VA prior to the solicitation release? Response: No. All vendors must be treated fairly and provided equal access to information. What is the anticipated number of task orders expected under the IDIQ base ordering period, and will task orders be competed among VETS SDVOSB holders or limited to a single-award IDIQ? Response: VA anticipates 1-3 task orders under base ordering period. This will be a single-award IDIQ. Are there specific small business subcontracting goals or SDVOSB workshare threshold that will be evaluated at the task order level? Response: No. Requirements may vary based on the scope of each task order. What is the current operational status of the AAMP across VISN 21 facilities specifically, what percentage of Zebra RFID readers and CenTrak gateways are fully configured vs. requiring initial configuration? Response: CenTrak is 100% operational at all deployed sites. Zebra is 100% operational at Las Vegas, Palo Alto, Fresno, and Mather as of time of award. No initial configuration is required for existing hardware. Will transition-in requirements include a formal knowledge transfer from the incumbent (AgileRank LLC), and if so, over what period? Response: No formal knowledge transfer is planned. The transition in approach anticipates that offerors will already have the necessary insight through their existing relationships or teaming arrangements with the OEMs for the COTS products identified in the PWS. Are there existing BLE infrastructure gaps that have been assessed, or will requirements and system design in Task Area 2 include a fresh site survey component? Response: Site assessment is specifically outlined in the PWS, which would then answer the first part of this question. What are the Government s expectations for on-site presence vs remote support across the CA, NV, and HI location? Response: The PWS does not outline staffing requirements. This is a performance-based contract. Will this acquisition require Key Personnel designation, and if so, which position? Response: Yes. Specific positions will depend on the requirements of each task order. What VA security clearance levels (e.g., Tier 1 / PIV eligibility) are anticipated for contractor personnel requiring facility access at VISN 21 sits? Response: Contractor personnel must meet Tier 1, possess PIV eligibility, and have elevated privileges as necessary. The specific OEMs for which licensing or support fees may need to be procured. Response: The PWS outlines requirements for teaming agreements with the relevant OEMs. The scope of licensing or support necessary to fulfill the PWS requirements. Response: The Government cannot define the scope beyond the technical requirements already stated in the PWS. Any direction on how these costs should be addressed within the proposal. Response: The Government cannot provide direction on proposal structuring. This will be a firm-fixed-price contract.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Juan C Perez
+  - Title: Contract Specialist
+  - Email: Juan.Perez5@va.gov
+  - Phone: 512-981-4467
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/dc20adb8dd2840a8b17c50346260c06d/view)

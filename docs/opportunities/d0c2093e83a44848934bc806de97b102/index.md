@@ -1,0 +1,36 @@
+---
+layout: default
+title: 6530--Linen Textile Carts
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Combined Synopsis/Solicitation
+notice_id: d0c2093e83a44848934bc806de97b102
+---
+
+# 6530--Linen Textile Carts
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-04-10 18:26:29.442-04
+- Solicitation Number: 36C26226Q0608
+- Awardee: null
+
+## Summary
+
+This is a combined synopsis/solicitation set aside for Total Small Business for commercial items prepared in accordance with the format in FAR Subpart 12.6, as supplemented with additional information included in this notice. This announcement constitutes the only solicitation; quotes are being requested and a separate written solicitation will not be issued. This is a request for quotes under solicitation number: 36C26226Q0608 The Department of Veterans Affairs Long Beach Healthcare System is looking to purchase linen textile carts equivalent to the items listed below. The contractor shall furnish all supplies to VA Long Beach Healthcare System, 5901 East 7th Street., Long Beach, CA 90822 in accordance with section B.2 STATEMENT OF WORK under this solicitation. Shipping cost must be included in the total cost. CLIN DESCRIPTION QTY UOM 0001 Tecni-Quip Husky L-Series Anodized Aluminum Linen Transport Cart Model# L-77-246066-TH or equal 20 EA The solicitation will be in accordance with FAR part 12, and 19 Acquisition of Commercial Items, Simplified Acquisition Procedures, Small Business Programs, and Veteran Affairs Acquisition Regulations as supplemented with additional information in this notice. The North American Industrial Classification System (NAICS) code for this requirement is 333310, Size Standard 1,000 Employees. The Contractor Combined Synopsis/Solicitation Notice shall adhere to all federal and state laws and regulations in effect during the term of this contract. The Government intends to award a firm-fixed-price contract. The Contract begins on the date of award. Please note system updates may lag policy updates. The System for Award Management (SAM) may continue to require entities to complete representations based on provisions that are not included in agency solicitations. Examples include 52.222-25, Affirmative Action Compliance, and paragraph (d) of 52.212-3, Offeror Representations and Certifications Commercial Products and Commercial Services. Contracting officers will not consider these representations when making award decisions or enforce requirements. Entities are not required to, nor are they able to, update their entity registration to remove these representations in SAM. In advancement of Section 2 of Executive Order 14208, the removal of requirements related to Executive Order 14057 eliminates all non-statutory sustainability requirements or preferences in purchases of food service wares, including paper straws. In addition to removing requirements related to Executive Order 14057, the attachment also reflects recent updates to Code of Federal Regulation citations for the U.S. Department of Agriculture s BioPreferred® Program, a statutory purchasing preference program. Key solicitation milestones are: Submit any questions regarding this procurement via email to Melissa.Ramirez8@va.gov no later than 10am Pacific Time Wednesday April 15th, 2026. No questions will be answered after this date/time unless determined to be in the best interest of the Government as determined by the Contracting Officer. Telephonic questions will not be accepted or returned. RFI responses will be responded to as necessary in amendment format which will be posted to contract opportunities at http://SAM.gov. Due to time constraints, responses to the solicitation shall be due on Monday, April 20th, 2026 at 10:00 Pacific Time. Offerors are advised that it is your responsibility to review and monitor the website frequently to ensure you have the most up to date information, including amendments. Correspondence or questions may be directed to Melissa Ramirez, Contracting Specialist at Melissa.Ramirez8@va.gov with " 36C26226Q0608, Linen Textile Carts in the subject line. Telephone inquiries will not be honored. Inquiries after the allotted period may not be responded to due to the time constraints of the procurement. All offerors must be registered in www.SAM.gov to do business with the Government. Ensure your registration is correct, current and has not expired. All offerors MUST complete and/or provide following: A complete quote/pricing with estimated lead time. The brand name and model number of offering. If offer is an equal to, offeror quotations must demonstrate and submit documentations proving that their offer meets or exceeds ALL the salient characteristics included in this solicitation, otherwise, they will be considered nonresponsive and not be considered for award. A completed E.6 52.225-2 BUY AMERICAN CERTIFICATE if applicable.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Melissa Ramirez
+  - Title: Contract Specialist
+  - Email: Melissa.Ramirez8@va.gov
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: reflects recent updates to Code of Federal Regulation citations for the U.S. Department of Agriculture s BioPreferred® Program, a statutory purchasing preference program. Key solicitation milestones are: Submit any questions regarding this procurement via email to Melissa.Ramirez8@va.gov no later than 10am Pacific Time Wednesday April 15th, 2026. No questions will be answered after this date/time unless determined to be in the best interest of the Government as determined by the Contracting Officer. Telephonic questions will not be accepted or returned. RFI responses will be responded to as necessary in amendment format which will be posted to contract opportunities at http://SAM.gov. Due to time constraints, responses to the solicitation shall be due on Monday, April 20th, 2026 at 10:00 Pacific Time. Offerors are advised that it is your responsibility to review and monitor the website frequently to ensure you have the most up to date information, including amendments. Correspondence or questions may be directed to Melissa Ramirez, Contracting Specialist at Melissa.Ramirez8@va.gov with " 36C26226Q0608, Linen Textile Carts in the subject line. Telephone inquiries will not be honored. Inquiries after the allotted period may not be responded to due to the time constraints of the procurement. All offerors must be registered in www.SAM.gov to do business with the Government. Ensure your registration is correct, current and has not expired. All offerors MUST complete and/or provide following: A complete quote/pricing with estimated lead time. The brand name and model number of offering. If offer is an equal to, offeror quotations must demonstrate and submit documentations proving that their offer meets or exceeds ALL the salient characteristics included in this solicitation, otherwise, they will be considered nonresponsive and not be considered for award. A completed E.6 52.225-2 BUY AMERICAN CERTIFICATE if applicable
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d0c2093e83a44848934bc806de97b102/view)

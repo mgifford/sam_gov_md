@@ -1,0 +1,29 @@
+---
+layout: default
+title: 9520 BEAM, STRUCTURAL
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 86c31a536c494035b4c2ef60db74bb6e
+---
+
+# 9520 BEAM, STRUCTURAL
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-04-10 12:57:32.106-04
+- Solicitation Number: N0040626Q0025
+
+## Summary
+
+EMAIL QUESTIONS TO: KYLE.X.SINGLETON.MIL@US.NAVY.MIL COMPETITIVE. Fleet Logistics Center Puget Sound will be soliciting for BEAM, STRUCTURAL in accordance with solicitation specifications. This acquisition will be negotiated on a SMALL BUSINESS SET A SIDE. Interested parties may identify their interest and capability to respond to the requirement or submit proposals prior to offer due date. A determination to compete this action based upon responses received to this notice is solely within the discretion of the Government. Terms will be FOB: ORIGIN BY FACT-SP (NOLSC): to U.S. NAVAL BASE YOKOSUKA JAPAN It is anticipated that the solicitation will be posted to the Sam.Gov website on or about 25 MARCH 2026 with proposals due by 16 APRIL 2026. A Firm-Fixed Price, Supply type contract will be awarded in accordance with FAR parts 12 and 13, Commercial and Simplified Acquisition Procedures. All responsible sources may submit a proposal which shall be considered by FLCPS. This solicitation and any subsequent amendments will be posted to the Sam.Gov website: https://www.sam.gov. Prospective offerors are responsible for downloading their own copy of the solicitation from this website and for frequently monitoring that site for any amendments. The Government is not responsible for any inability of the offeror to access the posted documents. No telephone or fax requests will be accepted, and no hard-copy solicitation/amendment will be mailed or faxed. Emailed completed solicitations are acceptable. PLEASE SEE ATTCHED SOLICITATION FOR REQUIREMENTS & SPECIFICATIONS, APPLICABLE CLAUSES & PROVISIONS, SHIPPING AND INVOICING INFORMATION.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Kyle Singleton
+  - Email: kyle.x.singleton.mil@us.navy.mil
+  - Phone: 5642260100
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/86c31a536c494035b4c2ef60db74bb6e/view)

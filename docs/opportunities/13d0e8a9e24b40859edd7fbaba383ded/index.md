@@ -1,0 +1,28 @@
+---
+layout: default
+title: Washington D.C. Metro Area Multiple Award IDIQ General Construction
+agency: GENERAL SERVICES ADMINISTRATION
+notice_type: Sources Sought
+notice_id: 13d0e8a9e24b40859edd7fbaba383ded
+---
+
+# Washington D.C. Metro Area Multiple Award IDIQ General Construction
+
+- Agency: GENERAL SERVICES ADMINISTRATION
+- Type: Sources Sought
+- Posted: 2026-04-10 13:50:35.908-04
+- Solicitation Number: 4-10-2026
+
+## Summary
+
+NOTICE: This is a Sources Sought Notice and is for informational purposes only. THIS IS NOT A REQUEST FOR PROPOSALS, QUOTATIONS, OR BIDS. Per Federal Acquisition Regulation (FAR) 15.101(c), The Government does not intend to award a contract on the basis of this notice or otherwise pay for the information requested. Responses will be treated as information only and not as a proposal. This notice is a market survey being conducted solely to determine whether there are adequate Small Business contractors for the subject procurement. The General Services Administration (GSA), Public Buildings Service (PBS), is seeking information on technically capable, and otherwise responsible, general contractors (GC) for the anticipated solicitation for a Multiple Award General Construction Services Indefinite Delivery Indefinite Quantity (IDIQ) Contract. Description of Intended Contract An IDIQ is a type of contract that provides for an indefinite quantity, within stated limits, of supplies or services during a fixed period. The GSA intends to award multiple contracts for General Construction Services resulting from a future solicitation. The number of awardees will be determined at a later date. After award of the IDIQ all awardees will be provided fair opportunity in accordance with FAR 16.507 for specific requirements where a single task order will be issued based on selection criteria established at the ordering level, unless an exemption exists. The Multiple Award IDIQ will be for a base period of one year and will include four, one year option periods for a maximum contract length of five years. The first ordering period is expected to begin in the Fall of 2026. The anticipated Maximum Ordering Limit (MOL) for this contract vehicle is $500,000,000.00, meaning the cumulative total for all task orders awarded to all contractors against this Multiple Award IDIQ shall not exceed $500 Million. The anticipated ordering limits are expected to be between $350,000.00 and $10,000,000.00. General Description of Services A GC shall supervise, administer, perform, and contract all construction activities required to complete a project. Construction activities for the anticipated solicitation include but are not limited to: Office construction and/or renovations/repairs MEP (Mechanical/Electrical/Plumbing) repairs/modifications/replacement Fire sprinkler systems repairs/modification/replacement Sitework, exterior construction repair and alterations (including facades and roofs) Demolition (including abatement of hazardous materials) Elevator modernizations and any other construction activities the government may require The GC may be required to utilize the following delivery methods to deliver projects for the GSA: Design/Bid/Build (DBB) Traditional Design/Build (D/B) Design/Build Bridging Construction Manager as Constructor (CMc) Location of Services The anticipated geographical location for this requirement is expected to cover the following areas: All of Washington, D.C. Virginia: Arlington County, Fairfax County, Independent City of Alexandria Maryland: Montgomery County, Prince George's County Size Standard The applicable NAICS code is 236220, Commercial and Institutional Building Construction, and the small business size standard is $39.5 million. Selection Procedures The anticipated contract will be procured utilizing one of the source selection procedures as described in FAR PART 15.103 to select the firms offering the best value to the Government. Response Information Interested contractors shall complete the form (LINK IS PROVIDED IN ATTACHMENT/LINKS SECTION) via google form no later than 5:00 PM EST on April 24, 2026. NOTE- PLEASE use the google form to submit your response. ONLY use the PDF version if you are unable to complete the google form. Do not submit both. If you are unable to complete the google form, only then should you complete the attached PDF form and return to the contracting officer no later than date specified by email at jay.oxenberg@gsa.gov Responses to this Sources Sought announcement will be used by the Government to make appropriate acquisition decisions. All interested Small Business contractors are encouraged to submit responses. Respondents are advised that the Government is under no obligation to provide feedback to respondents with respect to any information submitted. No proprietary, classified, confidential, or sensitive information should be included in your response. After review of the information received, a solicitation may be published on www.Sam.Gov. A determination by the Government to proceed with the acquisition as a set-aside is within the sole discretion of the Contracting Officer. Contact Information Point of Contact Jay Oxenberg Email: Jay.oxenberg@gsa.gov
+
+## Contacts
+
+- Primary Contact:
+  - Name: Jay Oxenberg
+  - Email: jay.oxenberg@gsa.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/13d0e8a9e24b40859edd7fbaba383ded/view)

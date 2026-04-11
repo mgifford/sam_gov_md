@@ -1,0 +1,28 @@
+---
+layout: default
+title: Propane Delivery Services
+agency: DEPT OF DEFENSE
+notice_type: Special Notice
+notice_id: c228c057f6e34b58882d5ab7a50fbc79
+---
+
+# Propane Delivery Services
+
+- Agency: DEPT OF DEFENSE
+- Type: Special Notice
+- Posted: 2026-04-10 10:47:18.349-04
+
+## Summary
+
+1. The purpose of this amendment is post questions and answers. 2. There are no other changes to solicitation and all other terms and conditions are in full effect. --- The Mission and Installation Contracting Command - West Point, NY (MICC-West Point) is issuing this SOLICITATION for Propane Delivery Services at the United States Military Academy (USMA). The estimated period of performance is 08 September 2026 – 07 September 2028 (base period plus one one-year option period). This requirement will be a 100% set aside for Women-Owned Small Business (WOSB) concerns under NAICS code 324110 - Petroleum Refineries. This industry comprises establishments primarily engaged in refining crude petroleum into refined petroleum. Petroleum refining involves one or more of the following activities: (1) fractionation; (2) straight distillation of crude oil; and (3) cracking (size standard 1,500 employees) and PSC S204 - Housekeeping- Fueling and Other Petroleum. In order to be eligible for award, offerors must be registered as a WOSB under the appropriate NAICS code in the System for Award Management (SAM) at SAM.gov. Please verify that both your Entity Unique Identifier, Cage Code are current and valid in the System for Award Management (SAM). Offerors are reminded to carefully review solicitation documents issued as criteria is stated in the solicitation and shall govern. The solicitation is in electronic format only and available on the Internet at: https://www.SAM.gov/ It is the offeror’s responsibility to check www.SAM.gov provided as necessary for any posted changes. FOLLOW SOLICITATION INSTRUCTIONS Solicitations (Quotes) and additional supporting documentations (If required - See solicitation 52.212-2 Addendum) must be submitted via email to Kelly Kotlik at kelly.p.kotlik2.civ@army.mil on or before the close date noted in the solicitation. Please ensure to submit a completed, signed, and dated document. This is a combined synopsis/solicitation for commercial products or commercial services prepared in accordance with FAR Part 12. This announcement constitutes the only solicitation. Offers are being requested and a separate written solicitation will not be issued. Solicitation number W911SD26QA035 is issued as a request for quotation (RFQ) for propane delivery services. This acquisition is set-aside for small business concerns. This solicitation incorporates provisions and clauses by reference. The full text of provisions and clauses may be accessed electronically at www.acquisition.gov.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Kelly Kotlik
+  - Email: kelly.p.kotlik2.civ@army.mil
+  - Phone: 5206878191
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c228c057f6e34b58882d5ab7a50fbc79/view)

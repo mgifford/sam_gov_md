@@ -1,256 +1,264 @@
 {
-  "requested_date": "2026-04-10",
-  "effective_date": "2026-04-09",
+  "requested_date": "2026-04-11",
+  "effective_date": "2026-04-10",
   "used_fallback_latest": true,
-  "latest_available_date": "2026-04-09",
-  "records_total": 2014,
-  "opportunities_total": 1688,
-  "wins_total": 326,
-  "awarded_total": 326,
-  "departments_total": 23,
+  "latest_available_date": "2026-04-10",
+  "records_total": 953,
+  "opportunities_total": 808,
+  "wins_total": 145,
+  "awarded_total": 145,
+  "departments_total": 25,
   "top_terms": [
     [
-      "ui",
-      797
-    ],
-    [
       "web",
-      384
-    ],
-    [
-      "software",
-      128
-    ],
-    [
-      "platform",
-      81
-    ],
-    [
-      "application",
-      74
-    ],
-    [
-      "nist",
-      64
-    ],
-    [
-      "cybersecurity",
-      25
+      358
     ],
     [
       "modernization",
-      24
+      130
+    ],
+    [
+      "cybersecurity",
+      128
+    ],
+    [
+      "application",
+      112
+    ],
+    [
+      "software",
+      81
+    ],
+    [
+      "api",
+      79
+    ],
+    [
+      "platform",
+      62
+    ],
+    [
+      "nist",
+      55
     ],
     [
       "accessibility",
-      17
+      54
     ],
     [
-      "agile",
-      13
+      "ui",
+      30
+    ],
+    [
+      "portal",
+      25
     ],
     [
       "cloud",
       12
     ],
     [
-      "portal",
-      12
-    ],
-    [
-      "analytics",
-      10
-    ],
-    [
-      "devops",
-      9
-    ],
-    [
-      "saas",
+      "hosting",
       6
-    ],
-    [
-      "cms",
-      6
-    ],
-    [
-      "fedramp",
-      6
-    ],
-    [
-      "api",
-      5
     ],
     [
       "business_intelligence",
+      6
+    ],
+    [
+      "analytics",
+      5
+    ],
+    [
+      "dashboard",
+      5
+    ],
+    [
+      "information_architecture",
+      5
+    ],
+    [
+      "fedramp",
       4
     ],
     [
-      "ato",
-      4
+      "iaas",
+      3
+    ],
+    [
+      "saas",
+      2
     ]
   ],
   "category_counts": [
     [
-      "design",
-      800
-    ],
-    [
       "technology",
-      684
-    ],
-    [
-      "compliance",
-      75
-    ],
-    [
-      "security",
-      29
+      717
     ],
     [
       "modernization",
-      24
+      130
     ],
     [
-      "infrastructure",
-      23
+      "security",
+      128
     ],
     [
-      "development",
-      22
+      "compliance",
+      59
     ],
     [
       "accessibility",
-      17
+      54
+    ],
+    [
+      "design",
+      36
+    ],
+    [
+      "infrastructure",
+      24
     ],
     [
       "data",
-      15
+      18
     ],
     [
-      "content",
-      6
+      "elearning",
+      3
+    ],
+    [
+      "development",
+      1
     ]
   ],
   "type_breakdown": [
     [
-      "Combined Synopsis/Solicitation",
-      954
-    ],
-    [
       "Solicitation",
-      353
+      253
     ],
     [
-      "Award Notice",
-      326
-    ],
-    [
-      "Presolicitation",
-      135
+      "Combined Synopsis/Solicitation",
+      234
     ],
     [
       "Sources Sought",
-      129
+      151
+    ],
+    [
+      "Award Notice",
+      145
+    ],
+    [
+      "Presolicitation",
+      75
     ],
     [
       "Special Notice",
-      93
+      70
     ],
     [
       "Justification",
-      24
+      23
+    ],
+    [
+      "Sale of Surplus Property",
+      1
+    ],
+    [
+      "Consolidate/(Substantially) Bundle",
+      1
     ]
   ],
   "department_breakdown": [
     {
       "department": "DEPT OF DEFENSE",
-      "total": 1543,
-      "opportunities": 1292,
-      "wins": 251
+      "total": 540,
+      "opportunities": 435,
+      "wins": 105
     },
     {
       "department": "VETERANS AFFAIRS, DEPARTMENT OF",
-      "total": 130,
-      "opportunities": 115,
-      "wins": 15
-    },
-    {
-      "department": "INTERIOR, DEPARTMENT OF THE",
-      "total": 61,
-      "opportunities": 44,
+      "total": 141,
+      "opportunities": 124,
       "wins": 17
     },
     {
-      "department": "AGRICULTURE, DEPARTMENT OF",
-      "total": 54,
-      "opportunities": 45,
+      "department": "INTERIOR, DEPARTMENT OF THE",
+      "total": 52,
+      "opportunities": 43,
       "wins": 9
     },
     {
-      "department": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
-      "total": 37,
-      "opportunities": 34,
-      "wins": 3
+      "department": "STATE, DEPARTMENT OF",
+      "total": 35,
+      "opportunities": 35,
+      "wins": 0
     },
     {
       "department": "HOMELAND SECURITY, DEPARTMENT OF",
-      "total": 36,
-      "opportunities": 32,
+      "total": 34,
+      "opportunities": 30,
       "wins": 4
     },
     {
-      "department": "JUSTICE, DEPARTMENT OF",
+      "department": "AGRICULTURE, DEPARTMENT OF",
       "total": 28,
-      "opportunities": 14,
-      "wins": 14
+      "opportunities": 26,
+      "wins": 2
     },
     {
-      "department": "GENERAL SERVICES ADMINISTRATION",
-      "total": 27,
-      "opportunities": 21,
-      "wins": 6
-    },
-    {
-      "department": "STATE, DEPARTMENT OF",
-      "total": 22,
-      "opportunities": 21,
+      "department": "JUSTICE, DEPARTMENT OF",
+      "total": 26,
+      "opportunities": 25,
       "wins": 1
     },
     {
-      "department": "ENERGY, DEPARTMENT OF",
-      "total": 20,
-      "opportunities": 17,
-      "wins": 3
+      "department": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
+      "total": 24,
+      "opportunities": 23,
+      "wins": 1
     },
     {
       "department": "COMMERCE, DEPARTMENT OF",
       "total": 15,
-      "opportunities": 12,
-      "wins": 3
+      "opportunities": 14,
+      "wins": 1
     },
     {
-      "department": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
+      "department": "TRANSPORTATION, DEPARTMENT OF",
       "total": 13,
       "opportunities": 13,
       "wins": 0
     },
     {
-      "department": "TRANSPORTATION, DEPARTMENT OF",
+      "department": "ENERGY, DEPARTMENT OF",
+      "total": 12,
+      "opportunities": 11,
+      "wins": 1
+    },
+    {
+      "department": "GENERAL SERVICES ADMINISTRATION",
       "total": 8,
-      "opportunities": 8,
-      "wins": 0
+      "opportunities": 7,
+      "wins": 1
+    },
+    {
+      "department": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
+      "total": 6,
+      "opportunities": 4,
+      "wins": 2
     },
     {
       "department": "ENVIRONMENTAL PROTECTION AGENCY",
-      "total": 6,
-      "opportunities": 6,
+      "total": 4,
+      "opportunities": 4,
       "wins": 0
     },
     {
-      "department": "TREASURY, DEPARTMENT OF THE",
-      "total": 5,
-      "opportunities": 5,
+      "department": "ARCHITECT OF THE CAPITOL",
+      "total": 2,
+      "opportunities": 2,
       "wins": 0
     },
     {
@@ -260,7 +268,37 @@
       "wins": 0
     },
     {
-      "department": "LIBRARY OF CONGRESS",
+      "department": "TREASURY, DEPARTMENT OF THE",
+      "total": 2,
+      "opportunities": 2,
+      "wins": 0
+    },
+    {
+      "department": "HOUSE OF REPRESENTATIVES, THE",
+      "total": 2,
+      "opportunities": 2,
+      "wins": 0
+    },
+    {
+      "department": "EDUCATION, DEPARTMENT OF",
+      "total": 1,
+      "opportunities": 0,
+      "wins": 1
+    },
+    {
+      "department": "UNITED STATES AGENCY FOR GLOBAL MEDIA, BBG",
+      "total": 1,
+      "opportunities": 1,
+      "wins": 0
+    },
+    {
+      "department": "NATIONAL ARCHIVES AND RECORDS ADMINISTRATION",
+      "total": 1,
+      "opportunities": 1,
+      "wins": 0
+    },
+    {
+      "department": "THE LEGISLATIVE BRANCH",
       "total": 1,
       "opportunities": 1,
       "wins": 0
@@ -272,31 +310,13 @@
       "wins": 0
     },
     {
-      "department": "NUCLEAR REGULATORY COMMISSION",
+      "department": "AMERICAN BATTLE MONUMENTS COMMISSION",
       "total": 1,
       "opportunities": 1,
       "wins": 0
     },
     {
-      "department": "ARCHITECT OF THE CAPITOL",
-      "total": 1,
-      "opportunities": 1,
-      "wins": 0
-    },
-    {
-      "department": "UNITED STATES TRADE AND DEVELOPMENT AGENCY",
-      "total": 1,
-      "opportunities": 1,
-      "wins": 0
-    },
-    {
-      "department": "COURT SERVICES AND OFFENDER SUPERVISION AGENCY",
-      "total": 1,
-      "opportunities": 1,
-      "wins": 0
-    },
-    {
-      "department": "FEDERAL DEPOSIT INSURANCE CORPORATION",
+      "department": "LABOR, DEPARTMENT OF",
       "total": 1,
       "opportunities": 1,
       "wins": 0
@@ -304,65 +324,41 @@
   ],
   "date_breakdown": [
     {
-      "date": "2026-04-09",
-      "total": 2014,
-      "opportunities": 1688,
-      "awarded": 326
+      "date": "2026-04-10",
+      "total": 953,
+      "opportunities": 808,
+      "awarded": 145
     }
   ],
   "award_company_history": {
-    "total_companies": 10071,
+    "total_companies": 9840,
     "top_companies": [
       {
         "company": "KAMPI COMPONENTS CO INC",
-        "awarded": 62
+        "awarded": 55
       },
       {
         "company": "TRIMAN INDUSTRIES INC",
-        "awarded": 58
+        "awarded": 51
       },
       {
         "company": "ECI DEFENSE GROUP, INC.",
-        "awarded": 47
+        "awarded": 40
       },
       {
         "company": "RUTA SUPPLIES INC",
-        "awarded": 34
-      },
-      {
-        "company": "JGILS, LLC",
-        "awarded": 32
+        "awarded": 27
       },
       {
         "company": "INTEGRATED PROCUREMENT TECHNOLOGIES",
-        "awarded": 31
-      },
-      {
-        "company": "S I T CORPORATION",
-        "awarded": 28
-      },
-      {
-        "company": "LARKOS PACKING AND DISTRIBUTION INC.",
         "awarded": 27
       },
       {
         "company": "JO-KELL INC.",
-        "awarded": 27
-      },
-      {
-        "company": "JAMAICA BEARINGS CO., INC.",
-        "awarded": 25
-      },
-      {
-        "company": "CHAND, L.L.C.",
-        "awarded": 25
-      },
-      {
-        "company": "PIONEER INDUSTRIES, LLC",
         "awarded": 24
       },
       {
-        "company": "ASRC Federal Facilities Logistics, LLC",
+        "company": "JGILS, LLC",
         "awarded": 24
       },
       {
@@ -370,16 +366,24 @@
         "awarded": 24
       },
       {
+        "company": "PIONEER INDUSTRIES, LLC",
+        "awarded": 23
+      },
+      {
+        "company": "CHAND, L.L.C.",
+        "awarded": 21
+      },
+      {
         "company": "GOVPARTS LLC",
-        "awarded": 23
+        "awarded": 21
       },
       {
-        "company": "TRANSAERO, INC.",
-        "awarded": 23
+        "company": "JAMAICA BEARINGS CO., INC.",
+        "awarded": 20
       },
       {
-        "company": "PHOENIX TRADING INC.",
-        "awarded": 22
+        "company": "S I T CORPORATION",
+        "awarded": 20
       },
       {
         "company": "YEAJIN E&C CO.,Ltd. 1F, 271, APSANSUNHWAN-RO, DALSEO-GU DAEGU 42819",
@@ -390,28 +394,44 @@
         "awarded": 20
       },
       {
-        "company": "ATF Aerospace, LLC",
-        "awarded": 19
+        "company": "LARKOS PACKING AND DISTRIBUTION INC.",
+        "awarded": 18
+      },
+      {
+        "company": "PHOENIX TRADING INC.",
+        "awarded": 18
       },
       {
         "company": "RTX CORPORATION East Hartford CT 06118 USA",
         "awarded": 17
       },
       {
-        "company": "Argo Turboserve Corporation",
-        "awarded": 16
+        "company": "TRANSAERO, INC.",
+        "awarded": 17
       },
       {
-        "company": "JA MOODY LLC",
-        "awarded": 16
+        "company": "ASRC Federal Facilities Logistics, LLC",
+        "awarded": 17
       },
       {
         "company": "ATLANTIC DIVING SUPPLY, INC.",
-        "awarded": 15
+        "awarded": 16
       },
       {
         "company": "SEAL DYNAMICS LLC",
-        "awarded": 15
+        "awarded": 14
+      },
+      {
+        "company": "Edwards Lifesciences LLC IRVINE 92614",
+        "awarded": 14
+      },
+      {
+        "company": "Argo Turboserve Corporation",
+        "awarded": 13
+      },
+      {
+        "company": "ATF Aerospace, LLC",
+        "awarded": 12
       }
     ],
     "monthly": [
@@ -509,130 +529,41 @@
   },
   "top_matching_records": [
     {
-      "NoticeId": "6a09feebd8034839b4e36046aa406bbb",
-      "Sol#": "6973GH-26-J-data",
-      "Title": "FAALC Data Modernization and AI Integration",
-      "Type": "Justification",
-      "PostedDate": "2026-04-09 12:06:02.56-04",
-      "Agency": "TRANSPORTATION, DEPARTMENT OF",
-      "NaicsCode": "541512",
-      "Link": "https://sam.gov/workspace/contract/opp/6a09feebd8034839b4e36046aa406bbb/view",
+      "NoticeId": "b599e65dff4a49b3b77bd596f7a8ee01",
+      "Sol#": "AMD-SSN-26-00858",
+      "Title": "Request for Information / Sources Sought Notice for Providers/Suppliers of a Field deployable X-Ray Diffraction System",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-10 10:03:07.184-04",
+      "Agency": "COMMERCE, DEPARTMENT OF",
+      "NaicsCode": "334516",
+      "Link": "https://sam.gov/workspace/contract/opp/b599e65dff4a49b3b77bd596f7a8ee01/view",
       "matches": [
         {
-          "term": "platform",
-          "category": "technology",
+          "term": "nist",
+          "category": "compliance",
           "count": 25
         },
         {
-          "term": "analytics",
-          "category": "data",
-          "count": 9
-        },
-        {
-          "term": "saas",
-          "category": "infrastructure",
+          "term": "web",
+          "category": "technology",
           "count": 4
         },
-        {
-          "term": "modernization",
-          "category": "modernization",
-          "count": 4
-        },
-        {
-          "term": "application",
-          "category": "technology",
-          "count": 3
-        },
-        {
-          "term": "api",
-          "category": "technology",
-          "count": 3
-        },
-        {
-          "term": "cybersecurity",
-          "category": "security",
-          "count": 3
-        },
-        {
-          "term": "azure",
-          "category": "infrastructure",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "NoticeId": "72c9befb929b4a60a1106b21e3acaf97",
-      "Sol#": "N00019-26-RFPREQ-WPM281-0151",
-      "Title": "Weaponeering and Stores Planning (WASP) Software Development",
-      "Type": "Sources Sought",
-      "PostedDate": "2026-04-09 14:07:48.394-04",
-      "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "541519",
-      "Link": "https://sam.gov/workspace/contract/opp/72c9befb929b4a60a1106b21e3acaf97/view",
-      "matches": [
         {
           "term": "software",
-          "category": "technology",
-          "count": 20
-        },
-        {
-          "term": "devops",
-          "category": "development",
-          "count": 9
-        },
-        {
-          "term": "agile",
-          "category": "development",
-          "count": 9
-        },
-        {
-          "term": "cybersecurity",
-          "category": "security",
-          "count": 5
-        },
-        {
-          "term": "platform",
-          "category": "technology",
-          "count": 3
-        },
-        {
-          "term": "api",
-          "category": "technology",
-          "count": 2
-        },
-        {
-          "term": "application",
           "category": "technology",
           "count": 1
         }
       ]
     },
     {
-      "NoticeId": "bf0e3caa14fd4494a7bde3412739acfb",
-      "Sol#": "SPE8E626Q0336",
-      "Title": "42--LIFE PRESERVER,VEST",
-      "Type": "Combined Synopsis/Solicitation",
-      "PostedDate": "2026-04-09 14:06:27.491-04",
-      "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "333310",
-      "Link": "https://sam.gov/workspace/contract/opp/bf0e3caa14fd4494a7bde3412739acfb/view",
-      "matches": [
-        {
-          "term": "ui",
-          "category": "design",
-          "count": 29
-        }
-      ]
-    },
-    {
-      "NoticeId": "cdcf1700210e477b8178a2e8f4bdbb60",
+      "NoticeId": "37845aa2989b4c57a077479ee603936f",
       "Sol#": "36C78626B0021",
       "Title": "Well-Septic Repairs and installation at the Florida National Cemetery",
       "Type": "Presolicitation",
-      "PostedDate": "2026-04-09 09:06:24.334-04",
+      "PostedDate": "2026-04-10 11:11:05.37-04",
       "Agency": "VETERANS AFFAIRS, DEPARTMENT OF",
       "NaicsCode": "237110",
-      "Link": "https://sam.gov/workspace/contract/opp/cdcf1700210e477b8178a2e8f4bdbb60/view",
+      "Link": "https://sam.gov/workspace/contract/opp/37845aa2989b4c57a077479ee603936f/view",
       "matches": [
         {
           "term": "web",
@@ -642,643 +573,89 @@
       ]
     },
     {
-      "NoticeId": "38de6ca06a70425ea2adfbad27ae1330",
-      "Sol#": "NIST-SSN-26-OSHE-03",
-      "Title": "Disposal of Chemical Waste (Hazardous and Non-Hazardous) And Emergency Response Support Services at the National Institute of Standards and Technology \u2013 Gaithersburg and Department of Commerce Boulder Lab",
+      "NoticeId": "c40ab82df3eb40a8b44ad4adbe9dbffd",
+      "Sol#": "ACQ-OMAS-2026-ORC-0014_Sources",
+      "Title": "Sources Sought: Cloud Hosting, Provisioning, and Management for Indian Health Service (IHS)",
       "Type": "Sources Sought",
-      "PostedDate": "2026-04-09 10:21:24.909-04",
-      "Agency": "COMMERCE, DEPARTMENT OF",
-      "NaicsCode": "562112",
-      "Link": "https://sam.gov/workspace/contract/opp/38de6ca06a70425ea2adfbad27ae1330/view",
+      "PostedDate": "2026-04-10 14:34:48.34-04",
+      "Agency": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
+      "NaicsCode": "541519",
+      "Link": "https://sam.gov/workspace/contract/opp/c40ab82df3eb40a8b44ad4adbe9dbffd/view",
       "matches": [
-        {
-          "term": "nist",
-          "category": "compliance",
-          "count": 16
-        }
-      ]
-    },
-    {
-      "NoticeId": "8ff061f281b8426b8f4c5e33c8cd7cec",
-      "Sol#": "N4008426B8910",
-      "Title": "N40084 BUILDING 90 DEMOLITION AT COMBINED ARMS TRAINING CENTER, CAMP FUJI, JAPAN",
-      "Type": "Presolicitation",
-      "PostedDate": "2026-04-09 22:10:29.486-04",
-      "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "238910",
-      "Link": "https://sam.gov/workspace/contract/opp/8ff061f281b8426b8f4c5e33c8cd7cec/view",
-      "matches": [
-        {
-          "term": "nist",
-          "category": "compliance",
-          "count": 9
-        },
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 6
-        }
-      ]
-    },
-    {
-      "NoticeId": "786f1c2c1dc749648ea8bf03eca247f7",
-      "Sol#": "N4008426B8910",
-      "Title": "N40084 BUILDING 90 DEMOLITION AT COMBINED ARMS TRAINING CENTER, CAMP FUJI, JAPAN",
-      "Type": "Presolicitation",
-      "PostedDate": "2026-04-09 22:02:16.384-04",
-      "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "238910",
-      "Link": "https://sam.gov/workspace/contract/opp/786f1c2c1dc749648ea8bf03eca247f7/view",
-      "matches": [
-        {
-          "term": "nist",
-          "category": "compliance",
-          "count": 9
-        },
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 6
-        }
-      ]
-    },
-    {
-      "NoticeId": "b7f6fad8636248198dc21fff9b670eca",
-      "Sol#": "ACQ-26-0443",
-      "Title": "NOAA Fisheries Special Notice of Intent to a Single Source - eLabJournal",
-      "Type": "Special Notice",
-      "PostedDate": "2026-04-09 19:18:40.831-04",
-      "Agency": "COMMERCE, DEPARTMENT OF",
-      "NaicsCode": "513210",
-      "Link": "https://sam.gov/workspace/contract/opp/b7f6fad8636248198dc21fff9b670eca/view",
-      "matches": [
-        {
-          "term": "software",
-          "category": "technology",
-          "count": 6
-        },
-        {
-          "term": "application",
-          "category": "technology",
-          "count": 5
-        },
-        {
-          "term": "saas",
-          "category": "infrastructure",
-          "count": 2
-        },
         {
           "term": "cloud",
           "category": "infrastructure",
-          "count": 1
+          "count": 8
         },
         {
-          "term": "accessibility",
-          "category": "accessibility",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "NoticeId": "08310c618c724233b6df7f1bd1a110a1",
-      "Sol#": "VAOIG-RFI-26-0001",
-      "Title": "VA Office of Inspector General (VA OIG) Office of Investigations Case Management (OICM) Services",
-      "Type": "Sources Sought",
-      "PostedDate": "2026-04-09 10:50:06.559-04",
-      "Agency": "VETERANS AFFAIRS, DEPARTMENT OF",
-      "NaicsCode": "513210",
-      "Link": "https://sam.gov/workspace/contract/opp/08310c618c724233b6df7f1bd1a110a1/view",
-      "matches": [
+          "term": "platform",
+          "category": "technology",
+          "count": 4
+        },
+        {
+          "term": "iaas",
+          "category": "infrastructure",
+          "count": 3
+        },
         {
           "term": "fedramp",
           "category": "compliance",
-          "count": 6
+          "count": 3
         },
         {
-          "term": "cloud",
+          "term": "hosting",
           "category": "infrastructure",
+          "count": 2
+        },
+        {
+          "term": "paas",
+          "category": "infrastructure",
+          "count": 1
+        },
+        {
+          "term": "analytics",
+          "category": "data",
+          "count": 1
+        },
+        {
+          "term": "cybersecurity",
+          "category": "security",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "NoticeId": "341df57450054ed3acfe3e66ce421812",
+      "Sol#": "SPE603-26-R-5X59",
+      "Title": "INNOVATIVE SOLUTIONS FOR DFSP MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES; DFSP Jacksonville (Northside) Jacksonville FL",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-10 12:24:58.984-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "561210",
+      "Link": "https://sam.gov/workspace/contract/opp/341df57450054ed3acfe3e66ce421812/view",
+      "matches": [
+        {
+          "term": "cybersecurity",
+          "category": "security",
           "count": 3
         },
         {
-          "term": "ato",
-          "category": "compliance",
-          "count": 2
-        },
-        {
-          "term": "nist",
-          "category": "compliance",
-          "count": 2
-        },
-        {
-          "term": "software",
-          "category": "technology",
-          "count": 1
-        },
-        {
-          "term": "fisma",
-          "category": "compliance",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "NoticeId": "aa248e4a4d514b0ebfc5cc7f121d2780",
-      "Sol#": "W50S9326BA002",
-      "Title": "Base Roads Pavement Repair-Mu\u00f1iz ANGB",
-      "Type": "Solicitation",
-      "PostedDate": "2026-04-09 13:44:17.676-04",
-      "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "237310",
-      "Link": "https://sam.gov/workspace/contract/opp/aa248e4a4d514b0ebfc5cc7f121d2780/view",
-      "matches": [
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 12
-        },
-        {
-          "term": "portal",
-          "category": "technology",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "NoticeId": "f612819b2e034e708d53b76067768837",
-      "Sol#": "W91CRB-26-Q-5003",
-      "Title": "Night Vision Device Accessories and Training for Foreign Military Sales",
-      "Type": "Combined Synopsis/Solicitation",
-      "PostedDate": "2026-04-09 12:28:54.302-04",
-      "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "333310",
-      "Link": "https://sam.gov/workspace/contract/opp/f612819b2e034e708d53b76067768837/view",
-      "matches": [
-        {
-          "term": "software",
-          "category": "technology",
-          "count": 8
-        },
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 2
-        },
-        {
-          "term": "cybersecurity",
-          "category": "security",
-          "count": 2
-        },
-        {
-          "term": "application",
-          "category": "technology",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "NoticeId": "515f96d3a7a64f71afac097bfe8e0d59",
-      "Sol#": "N6600126R0002",
-      "Title": "N6600126R0002 - Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC)",
-      "Type": "Solicitation",
-      "PostedDate": "2026-04-09 16:52:13.159-04",
-      "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "541330",
-      "Link": "https://sam.gov/workspace/contract/opp/515f96d3a7a64f71afac097bfe8e0d59/view",
-      "matches": [
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 9
-        },
-        {
-          "term": "software",
-          "category": "technology",
-          "count": 1
-        },
-        {
-          "term": "cybersecurity",
-          "category": "security",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "NoticeId": "1d2ad650a27c45719c17ec2bfafed836",
-      "Sol#": "N6600126R0002",
-      "Title": "N6600126R0002 - Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC)",
-      "Type": "Solicitation",
-      "PostedDate": "2026-04-09 16:45:59.256-04",
-      "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "541330",
-      "Link": "https://sam.gov/workspace/contract/opp/1d2ad650a27c45719c17ec2bfafed836/view",
-      "matches": [
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 9
-        },
-        {
-          "term": "software",
-          "category": "technology",
-          "count": 1
-        },
-        {
-          "term": "cybersecurity",
-          "category": "security",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "NoticeId": "3a0595475c20434082a1f9de03e645ee",
-      "Sol#": "W912HV26Z0011",
-      "Title": "FY27 AFHC Renovate Tower B743 CZ Camp Zama, Kanagawa Japan",
-      "Type": "Sources Sought",
-      "PostedDate": "2026-04-09 01:50:09.597-04",
-      "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "236118",
-      "Link": "https://sam.gov/workspace/contract/opp/3a0595475c20434082a1f9de03e645ee/view",
-      "matches": [
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 6
-        },
-        {
-          "term": "cybersecurity",
-          "category": "security",
-          "count": 4
-        },
-        {
-          "term": "nist",
-          "category": "compliance",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "NoticeId": "cc6bbf6fb33941cbb0121dce0a7ca3a6",
-      "Sol#": "12-1NFP-26-B-0012",
-      "Title": "Various Commodities for use in International Food Assistance Programs",
-      "Type": "Combined Synopsis/Solicitation",
-      "PostedDate": "2026-04-09 16:03:54.392-04",
-      "Agency": "AGRICULTURE, DEPARTMENT OF",
-      "NaicsCode": "311212",
-      "Link": "https://sam.gov/workspace/contract/opp/cc6bbf6fb33941cbb0121dce0a7ca3a6/view",
-      "matches": [
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 9
-        },
-        {
-          "term": "portal",
-          "category": "technology",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "NoticeId": "6743d443277147478fda318a2a0450a0",
-      "Sol#": "FA8227-26-R-3648",
-      "Title": "5-Axis CNC Mill / Lathe Purchase at Hill AFB, UT",
-      "Type": "Combined Synopsis/Solicitation",
-      "PostedDate": "2026-04-09 15:27:05.74-04",
-      "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "333517",
-      "Link": "https://sam.gov/workspace/contract/opp/6743d443277147478fda318a2a0450a0/view",
-      "matches": [
-        {
-          "term": "application",
-          "category": "technology",
-          "count": 6
-        },
-        {
-          "term": "software",
-          "category": "technology",
-          "count": 2
-        },
-        {
-          "term": "ui",
-          "category": "design",
-          "count": 1
-        },
-        {
-          "term": "nist",
-          "category": "compliance",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "NoticeId": "d990a6a4821f498d93e66373804db78e",
-      "Sol#": "NIST-SS26-104",
-      "Title": "Wavelength Swept Light Source for Photonic Thermometry",
-      "Type": "Sources Sought",
-      "PostedDate": "2026-04-09 10:06:22.772-04",
-      "Agency": "COMMERCE, DEPARTMENT OF",
-      "NaicsCode": "334516",
-      "Link": "https://sam.gov/workspace/contract/opp/d990a6a4821f498d93e66373804db78e/view",
-      "matches": [
-        {
-          "term": "nist",
-          "category": "compliance",
-          "count": 9
-        },
-        {
-          "term": "software",
-          "category": "technology",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "NoticeId": "46e170359bf144e09421a8eaa6e60147",
-      "Sol#": "SS-26-IHS-1520131",
-      "Title": "Security Cameras and Lenel HSPD-12/FIPS 201-3 Compliant Door Access Control Systems - Installation, Service, and Maintenance for the Great Plains Area Indian Health Service (GPAIHS), Office of Information Technology (OIT) Department, Aberdeen, South Dakota",
-      "Type": "Sources Sought",
-      "PostedDate": "2026-04-09 16:39:44.028-04",
-      "Agency": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
-      "NaicsCode": "541519",
-      "Link": "https://sam.gov/workspace/contract/opp/46e170359bf144e09421a8eaa6e60147/view",
-      "matches": [
-        {
-          "term": "software",
-          "category": "technology",
-          "count": 4
-        },
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 2
-        },
-        {
-          "term": "platform",
-          "category": "technology",
-          "count": 2
-        },
-        {
-          "term": "application",
-          "category": "technology",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "NoticeId": "98c16160dbb84663adcd4547f171f4ca",
-      "Sol#": "N0010426QFD09",
-      "Title": "PARTS KIT,BALL VALV",
-      "Type": "Solicitation",
-      "PostedDate": "2026-04-09 12:00:44.241-04",
-      "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "332919",
-      "Link": "https://sam.gov/workspace/contract/opp/98c16160dbb84663adcd4547f171f4ca/view",
-      "matches": [
-        {
-          "term": "application",
-          "category": "technology",
-          "count": 5
-        },
-        {
-          "term": "software",
-          "category": "technology",
-          "count": 2
-        },
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "NoticeId": "180be7ef585d4126afa85a0f4188187e",
-      "Sol#": "36C24526Q0442",
-      "Title": "6350--NURSE CALL SYSTEM FOR DC VAMC. \"BRAND NAME OR EQUAL TO IAW SOW\". OEM LETTER FROM THE MANUFACTURER IS REQUIRED. IF NO OEM LETTER VENDOR WILL BE CONSIDERED NON-RESPONSIVE.",
-      "Type": "Sources Sought",
-      "PostedDate": "2026-04-09 10:50:10.782-04",
-      "Agency": "VETERANS AFFAIRS, DEPARTMENT OF",
-      "NaicsCode": "334290",
-      "Link": "https://sam.gov/workspace/contract/opp/180be7ef585d4126afa85a0f4188187e/view",
-      "matches": [
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 6
-        },
-        {
-          "term": "software",
-          "category": "technology",
-          "count": 2
-        },
-        {
-          "term": "application",
-          "category": "technology",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "NoticeId": "c06bb7699de4420f80279e77f3a46cea",
-      "Sol#": "W911SR26X0001",
-      "Title": "RFI: Standoff Chemical Detector of Vehicles",
-      "Type": "Sources Sought",
-      "PostedDate": "2026-04-09 16:29:56.437-04",
-      "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "334516",
-      "Link": "https://sam.gov/workspace/contract/opp/c06bb7699de4420f80279e77f3a46cea/view",
-      "matches": [
-        {
-          "term": "platform",
-          "category": "technology",
-          "count": 6
-        },
-        {
-          "term": "software",
-          "category": "technology",
-          "count": 1
-        },
-        {
-          "term": "application",
-          "category": "technology",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "NoticeId": "e2963c8137ee46b99408ca26e46fe2fd",
-      "Sol#": "W911SR26X0001",
-      "Title": "RFI: Standoff Chemical Detector of Vehicles",
-      "Type": "Sources Sought",
-      "PostedDate": "2026-04-09 15:48:47.057-04",
-      "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "334516",
-      "Link": "https://sam.gov/workspace/contract/opp/e2963c8137ee46b99408ca26e46fe2fd/view",
-      "matches": [
-        {
-          "term": "platform",
-          "category": "technology",
-          "count": 6
-        },
-        {
-          "term": "software",
-          "category": "technology",
-          "count": 1
-        },
-        {
-          "term": "application",
-          "category": "technology",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "NoticeId": "e59f99461b5c4e9c9ccdc303e36ee916",
-      "Sol#": "36C24526R0025",
-      "Title": "Z1DA--REPLACE BOILER #3 CONSTRUCTION PROJECT NUMBER 540-22-103",
-      "Type": "Presolicitation",
-      "PostedDate": "2026-04-09 14:20:27.539-04",
-      "Agency": "VETERANS AFFAIRS, DEPARTMENT OF",
-      "NaicsCode": "236220",
-      "Link": "https://sam.gov/workspace/contract/opp/e59f99461b5c4e9c9ccdc303e36ee916/view",
-      "matches": [
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 8
-        }
-      ]
-    },
-    {
-      "NoticeId": "0849c8260d99467e86d487389ed5502c",
-      "Sol#": "W912EF26R8487",
-      "Title": "Hydrographic Survey & Mapping Services SATOC",
-      "Type": "Presolicitation",
-      "PostedDate": "2026-04-09 12:33:07.212-04",
-      "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "541370",
-      "Link": "https://sam.gov/workspace/contract/opp/0849c8260d99467e86d487389ed5502c/view",
-      "matches": [
-        {
-          "term": "software",
-          "category": "technology",
-          "count": 5
-        },
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "NoticeId": "77fe8a54385748cda085e8ba2c94c486",
-      "Sol#": "N00104-26-Q-BH10",
-      "Title": "CARTRIDGE, CYAN",
-      "Type": "Solicitation",
-      "PostedDate": "2026-04-09 11:39:44.411-04",
-      "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "325910",
-      "Link": "https://sam.gov/workspace/contract/opp/77fe8a54385748cda085e8ba2c94c486/view",
-      "matches": [
-        {
-          "term": "application",
-          "category": "technology",
-          "count": 6
-        },
-        {
-          "term": "software",
-          "category": "technology",
-          "count": 1
-        },
-        {
-          "term": "information_architecture",
-          "category": "design",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "NoticeId": "00c019d7d7c24eb5971762cbf92ae677",
-      "Sol#": "75H70626R00012",
-      "Title": "SB Solicitation: Firm Fixed-Price, Non-Personal Service Type, Commercial Item Purchase to provide IT Support Services for the Great Plains Area Office, Office of Information Technology, Aberdeen, South Dakota.",
-      "Type": "Solicitation",
-      "PostedDate": "2026-04-09 11:10:13.581-04",
-      "Agency": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
-      "NaicsCode": "541519",
-      "Link": "https://sam.gov/workspace/contract/opp/00c019d7d7c24eb5971762cbf92ae677/view",
-      "matches": [
-        {
-          "term": "web",
-          "category": "technology",
+          "term": "modernization",
+          "category": "modernization",
           "count": 3
         },
         {
-          "term": "platform",
-          "category": "technology",
-          "count": 2
-        },
-        {
-          "term": "nist",
-          "category": "compliance",
-          "count": 2
-        },
-        {
-          "term": "software",
-          "category": "technology",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "NoticeId": "9054e6230672490baf8009a87d598fa5",
-      "Sol#": "36C24626Q0179",
-      "Title": "7A21--Tissue and Implant Tracking Software",
-      "Type": "Special Notice",
-      "PostedDate": "2026-04-09 10:51:46.571-04",
-      "Agency": "VETERANS AFFAIRS, DEPARTMENT OF",
-      "NaicsCode": "513210",
-      "Link": "https://sam.gov/workspace/contract/opp/9054e6230672490baf8009a87d598fa5/view",
-      "matches": [
-        {
-          "term": "software",
-          "category": "technology",
-          "count": 4
-        },
-        {
-          "term": "sso",
-          "category": "security",
-          "count": 2
-        },
-        {
-          "term": "identity",
-          "category": "security",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "NoticeId": "f850bcca65554c50ad24a402d879c3c2",
-      "Sol#": "W912P5-26-B-A002",
-      "Title": "Kentucky Lock Conferencing Trailer",
-      "Type": "Presolicitation",
-      "PostedDate": "2026-04-09 10:36:32.669-04",
-      "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "236220",
-      "Link": "https://sam.gov/workspace/contract/opp/f850bcca65554c50ad24a402d879c3c2/view",
-      "matches": [
-        {
           "term": "web",
           "category": "technology",
-          "count": 4
+          "count": 2
+        },
+        {
+          "term": "api",
+          "category": "technology",
+          "count": 2
         },
         {
           "term": "application",
-          "category": "technology",
-          "count": 2
-        },
-        {
-          "term": "portal",
           "category": "technology",
           "count": 1
         },
@@ -1290,55 +667,1093 @@
       ]
     },
     {
-      "NoticeId": "f9dbb22b24574cbc8f23f7b5ac0ef8fe",
-      "Sol#": "2026-CIO-0044",
-      "Title": "IT Operational Support Services IDIQ",
-      "Type": "Solicitation",
-      "PostedDate": "2026-04-09 19:08:26.044-04",
-      "Agency": "LIBRARY OF CONGRESS",
-      "NaicsCode": "5182",
-      "Link": "https://sam.gov/workspace/contract/opp/f9dbb22b24574cbc8f23f7b5ac0ef8fe/view",
+      "NoticeId": "bec7451b7bea40bfb5beb87368da2ad9",
+      "Sol#": "SPE603-26-R-5X58",
+      "Title": "INNOVATIVE SOLUTIONS FOR DFSP MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES; DFSP Jacksonville (Northside) Jacksonville FL",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-10 12:21:34.868-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "541614",
+      "Link": "https://sam.gov/workspace/contract/opp/bec7451b7bea40bfb5beb87368da2ad9/view",
       "matches": [
         {
-          "term": "application",
-          "category": "technology",
+          "term": "cybersecurity",
+          "category": "security",
           "count": 3
         },
         {
-          "term": "software",
-          "category": "technology",
-          "count": 2
+          "term": "modernization",
+          "category": "modernization",
+          "count": 3
         },
         {
           "term": "web",
           "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "api",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "application",
+          "category": "technology",
           "count": 1
         },
         {
-          "term": "cloud",
-          "category": "infrastructure",
+          "term": "accessibility",
+          "category": "accessibility",
           "count": 1
         }
       ]
     },
     {
-      "NoticeId": "4f59e4e0989745878cc417116b29f97b",
-      "Sol#": "N6893626Q5094",
-      "Title": "Seagate Upgrade",
-      "Type": "Combined Synopsis/Solicitation",
-      "PostedDate": "2026-04-09 16:04:59.323-04",
+      "NoticeId": "790131c6ac5e4be5b960aafbf0c1a49b",
+      "Sol#": "SPE603-26-R-5X41",
+      "Title": "INNOVATIVE SOLUTIONS FOR DEFENSE FUEL SUPPORT POINT (DFSP) MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES - DFSP NAVAL STATION MAYPORT, FL",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-10 12:18:04.561-04",
       "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "334112",
-      "Link": "https://sam.gov/workspace/contract/opp/4f59e4e0989745878cc417116b29f97b/view",
+      "NaicsCode": "561210",
+      "Link": "https://sam.gov/workspace/contract/opp/790131c6ac5e4be5b960aafbf0c1a49b/view",
       "matches": [
+        {
+          "term": "cybersecurity",
+          "category": "security",
+          "count": 3
+        },
+        {
+          "term": "modernization",
+          "category": "modernization",
+          "count": 3
+        },
         {
           "term": "web",
           "category": "technology",
-          "count": 6
+          "count": 2
         },
         {
-          "term": "portal",
+          "term": "api",
           "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "application",
+          "category": "technology",
+          "count": 1
+        },
+        {
+          "term": "accessibility",
+          "category": "accessibility",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "NoticeId": "316fd470a74e4e9db7b572f9c304e12c",
+      "Sol#": "SPE603-26-R-5X57",
+      "Title": "INNOVATIVE SOLUTIONS FOR DFSP MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES; DFSP Jacksonville (Northside) Jacksonville FL",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-10 12:17:53.221-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "531190",
+      "Link": "https://sam.gov/workspace/contract/opp/316fd470a74e4e9db7b572f9c304e12c/view",
+      "matches": [
+        {
+          "term": "cybersecurity",
+          "category": "security",
+          "count": 3
+        },
+        {
+          "term": "modernization",
+          "category": "modernization",
+          "count": 3
+        },
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "api",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "application",
+          "category": "technology",
+          "count": 1
+        },
+        {
+          "term": "accessibility",
+          "category": "accessibility",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "NoticeId": "a24de61dda134836aee5992681141ce5",
+      "Sol#": "SPE603-26-R-5X40",
+      "Title": "INNOVATIVE SOLUTIONS FOR DEFENSE FUEL SUPPORT POINT (DFSP) MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES - DFSP NAVAL STATION MAYPORT, FL",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-10 12:15:15.775-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "541614",
+      "Link": "https://sam.gov/workspace/contract/opp/a24de61dda134836aee5992681141ce5/view",
+      "matches": [
+        {
+          "term": "cybersecurity",
+          "category": "security",
+          "count": 3
+        },
+        {
+          "term": "modernization",
+          "category": "modernization",
+          "count": 3
+        },
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "api",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "application",
+          "category": "technology",
+          "count": 1
+        },
+        {
+          "term": "accessibility",
+          "category": "accessibility",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "NoticeId": "8e22927d2ccc45d79836530b54149dc5",
+      "Sol#": "SPE603-26-R-5X56",
+      "Title": "INNOVATIVE SOLUTIONS FOR DFSP MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES; DFSP Jacksonville (Northside) Jacksonville FL",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-10 12:14:26.47-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "493190",
+      "Link": "https://sam.gov/workspace/contract/opp/8e22927d2ccc45d79836530b54149dc5/view",
+      "matches": [
+        {
+          "term": "cybersecurity",
+          "category": "security",
+          "count": 3
+        },
+        {
+          "term": "modernization",
+          "category": "modernization",
+          "count": 3
+        },
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "api",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "application",
+          "category": "technology",
+          "count": 1
+        },
+        {
+          "term": "accessibility",
+          "category": "accessibility",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "NoticeId": "7769dfb5466e4088b1ee40f2c69c2628",
+      "Sol#": "SPE603-26-R-5X39",
+      "Title": "INNOVATIVE SOLUTIONS FOR DEFENSE FUEL SUPPORT POINT (DFSP) MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES - DFSP NAVAL STATION MAYPORT, FL",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-10 12:12:24.628-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "531190",
+      "Link": "https://sam.gov/workspace/contract/opp/7769dfb5466e4088b1ee40f2c69c2628/view",
+      "matches": [
+        {
+          "term": "cybersecurity",
+          "category": "security",
+          "count": 3
+        },
+        {
+          "term": "modernization",
+          "category": "modernization",
+          "count": 3
+        },
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "api",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "application",
+          "category": "technology",
+          "count": 1
+        },
+        {
+          "term": "accessibility",
+          "category": "accessibility",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "NoticeId": "4b8fba842a304b8caa6853b7f8decc6b",
+      "Sol#": "SPE603-26-R-5X55",
+      "Title": "INNOVATIVE SOLUTIONS FOR DFSP MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES; DFSP Jacksonville (Northside) Jacksonville FL",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-10 12:10:18.974-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "488320",
+      "Link": "https://sam.gov/workspace/contract/opp/4b8fba842a304b8caa6853b7f8decc6b/view",
+      "matches": [
+        {
+          "term": "cybersecurity",
+          "category": "security",
+          "count": 3
+        },
+        {
+          "term": "modernization",
+          "category": "modernization",
+          "count": 3
+        },
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "api",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "application",
+          "category": "technology",
+          "count": 1
+        },
+        {
+          "term": "accessibility",
+          "category": "accessibility",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "NoticeId": "fe412186849643aa9787fff359123068",
+      "Sol#": "SPE603-26-R-5X38",
+      "Title": "INNOVATIVE SOLUTIONS FOR DEFENSE FUEL SUPPORT POINT (DFSP) MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES - DFSP NAVAL STATION MAYPORT, FL",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-10 12:09:22.072-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "493190",
+      "Link": "https://sam.gov/workspace/contract/opp/fe412186849643aa9787fff359123068/view",
+      "matches": [
+        {
+          "term": "cybersecurity",
+          "category": "security",
+          "count": 3
+        },
+        {
+          "term": "modernization",
+          "category": "modernization",
+          "count": 3
+        },
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "api",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "application",
+          "category": "technology",
+          "count": 1
+        },
+        {
+          "term": "accessibility",
+          "category": "accessibility",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "NoticeId": "5adc05c787bd474d9ce18c66546fecb9",
+      "Sol#": "SPE603-26-R-5X54",
+      "Title": "INNOVATIVE SOLUTIONS FOR DFSP MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES; DFSP Jacksonville (Northside) Jacksonville FL",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-10 12:06:45.762-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "488119",
+      "Link": "https://sam.gov/workspace/contract/opp/5adc05c787bd474d9ce18c66546fecb9/view",
+      "matches": [
+        {
+          "term": "cybersecurity",
+          "category": "security",
+          "count": 3
+        },
+        {
+          "term": "modernization",
+          "category": "modernization",
+          "count": 3
+        },
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "api",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "application",
+          "category": "technology",
+          "count": 1
+        },
+        {
+          "term": "accessibility",
+          "category": "accessibility",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "NoticeId": "fc48fd3ab85a46c09983234e0b000b1e",
+      "Sol#": "SPE603-26-R-5X53",
+      "Title": "INNOVATIVE SOLUTIONS FOR DFSP MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES; DFSP Jacksonville (Northside) Jacksonville FL",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-10 12:03:08.617-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "486910",
+      "Link": "https://sam.gov/workspace/contract/opp/fc48fd3ab85a46c09983234e0b000b1e/view",
+      "matches": [
+        {
+          "term": "cybersecurity",
+          "category": "security",
+          "count": 3
+        },
+        {
+          "term": "modernization",
+          "category": "modernization",
+          "count": 3
+        },
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "api",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "application",
+          "category": "technology",
+          "count": 1
+        },
+        {
+          "term": "accessibility",
+          "category": "accessibility",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "NoticeId": "e5d6e0d0b6fb4881b6396de8797511e5",
+      "Sol#": "SPE603-26-R-5X37",
+      "Title": "INNOVATIVE SOLUTIONS FOR DEFENSE FUEL SUPPORT POINT (DFSP) MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES - DFSP NAVAL STATION MAYPORT, FL",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-10 12:01:13.853-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "488320",
+      "Link": "https://sam.gov/workspace/contract/opp/e5d6e0d0b6fb4881b6396de8797511e5/view",
+      "matches": [
+        {
+          "term": "cybersecurity",
+          "category": "security",
+          "count": 3
+        },
+        {
+          "term": "modernization",
+          "category": "modernization",
+          "count": 3
+        },
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "api",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "application",
+          "category": "technology",
+          "count": 1
+        },
+        {
+          "term": "accessibility",
+          "category": "accessibility",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "NoticeId": "221135e5af8e40539a11af0bfb3735a9",
+      "Sol#": "SPE603-26-R-5X52",
+      "Title": "INNOVATIVE SOLUTIONS FOR DFSP MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES; DFSP Jacksonville (Northside) Jacksonville FL",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-10 11:58:50.527-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "488310",
+      "Link": "https://sam.gov/workspace/contract/opp/221135e5af8e40539a11af0bfb3735a9/view",
+      "matches": [
+        {
+          "term": "cybersecurity",
+          "category": "security",
+          "count": 3
+        },
+        {
+          "term": "modernization",
+          "category": "modernization",
+          "count": 3
+        },
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "api",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "application",
+          "category": "technology",
+          "count": 1
+        },
+        {
+          "term": "accessibility",
+          "category": "accessibility",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "NoticeId": "9b361ed6debe4b8abbbccbad8447e6d2",
+      "Sol#": "SPE603-26-R-5X36",
+      "Title": "INNOVATIVE SOLUTIONS FOR DEFENSE FUEL SUPPORT POINT (DFSP) MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES - DFSP NAVAL STATION MAYPORT, FL",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-10 11:57:24.515-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "488119",
+      "Link": "https://sam.gov/workspace/contract/opp/9b361ed6debe4b8abbbccbad8447e6d2/view",
+      "matches": [
+        {
+          "term": "cybersecurity",
+          "category": "security",
+          "count": 3
+        },
+        {
+          "term": "modernization",
+          "category": "modernization",
+          "count": 3
+        },
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "api",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "application",
+          "category": "technology",
+          "count": 1
+        },
+        {
+          "term": "accessibility",
+          "category": "accessibility",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "NoticeId": "2e05b28b8a694fb798629e504974d09c",
+      "Sol#": "SPE603-26-R-5X51",
+      "Title": "INNOVATIVE SOLUTIONS FOR DFSP MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES; DFSP Jacksonville (Northside) Jacksonville FL",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-10 11:54:36.4-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "425120",
+      "Link": "https://sam.gov/workspace/contract/opp/2e05b28b8a694fb798629e504974d09c/view",
+      "matches": [
+        {
+          "term": "cybersecurity",
+          "category": "security",
+          "count": 3
+        },
+        {
+          "term": "modernization",
+          "category": "modernization",
+          "count": 3
+        },
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "api",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "application",
+          "category": "technology",
+          "count": 1
+        },
+        {
+          "term": "accessibility",
+          "category": "accessibility",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "NoticeId": "3bff095253954b51a453d9487c457711",
+      "Sol#": "SPE603-26-R-5X50",
+      "Title": "INNOVATIVE SOLUTIONS FOR DFSP MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES; DFSP Jacksonville (Northside) Jacksonville FL",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-10 11:50:40.978-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "424720",
+      "Link": "https://sam.gov/workspace/contract/opp/3bff095253954b51a453d9487c457711/view",
+      "matches": [
+        {
+          "term": "cybersecurity",
+          "category": "security",
+          "count": 3
+        },
+        {
+          "term": "modernization",
+          "category": "modernization",
+          "count": 3
+        },
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "api",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "application",
+          "category": "technology",
+          "count": 1
+        },
+        {
+          "term": "accessibility",
+          "category": "accessibility",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "NoticeId": "c320ed79f9a644e096acdef718adec57",
+      "Sol#": "SPE603-26-R-5X49",
+      "Title": "INNOVATIVE SOLUTIONS FOR DFSP MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES; DFSP Jacksonville (Northside) Jacksonville FL",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-10 11:47:20.304-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "424710",
+      "Link": "https://sam.gov/workspace/contract/opp/c320ed79f9a644e096acdef718adec57/view",
+      "matches": [
+        {
+          "term": "cybersecurity",
+          "category": "security",
+          "count": 3
+        },
+        {
+          "term": "modernization",
+          "category": "modernization",
+          "count": 3
+        },
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "api",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "application",
+          "category": "technology",
+          "count": 1
+        },
+        {
+          "term": "accessibility",
+          "category": "accessibility",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "NoticeId": "187344aa37c24a9fae1b3e8421e3fe9c",
+      "Sol#": "SPE603-26-R-5X35",
+      "Title": "INNOVATIVE SOLUTIONS FOR DEFENSE FUEL SUPPORT POINT (DFSP) MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES - DFSP POINT LOMA, CA",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-10 11:46:34.286-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "561210",
+      "Link": "https://sam.gov/workspace/contract/opp/187344aa37c24a9fae1b3e8421e3fe9c/view",
+      "matches": [
+        {
+          "term": "cybersecurity",
+          "category": "security",
+          "count": 3
+        },
+        {
+          "term": "modernization",
+          "category": "modernization",
+          "count": 3
+        },
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "api",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "application",
+          "category": "technology",
+          "count": 1
+        },
+        {
+          "term": "accessibility",
+          "category": "accessibility",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "NoticeId": "dfab225a38cd45178c9a0e7a380406f2",
+      "Sol#": "SPE603-26-R-5X34",
+      "Title": "INNOVATIVE SOLUTIONS FOR DEFENSE FUEL SUPPORT POINT (DFSP) MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES - DFSP POINT LOMA, CA",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-10 11:43:48.886-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "541614",
+      "Link": "https://sam.gov/workspace/contract/opp/dfab225a38cd45178c9a0e7a380406f2/view",
+      "matches": [
+        {
+          "term": "cybersecurity",
+          "category": "security",
+          "count": 3
+        },
+        {
+          "term": "modernization",
+          "category": "modernization",
+          "count": 3
+        },
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "api",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "application",
+          "category": "technology",
+          "count": 1
+        },
+        {
+          "term": "accessibility",
+          "category": "accessibility",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "NoticeId": "6ba0490dc08f4102b04b8f278f87803e",
+      "Sol#": "SPE603-26-R-5X48",
+      "Title": "INNOVATIVE SOLUTIONS FOR DFSP MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES; DFSP Jacksonville (Northside) Jacksonville FL",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-10 11:43:38.236-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "221210",
+      "Link": "https://sam.gov/workspace/contract/opp/6ba0490dc08f4102b04b8f278f87803e/view",
+      "matches": [
+        {
+          "term": "cybersecurity",
+          "category": "security",
+          "count": 3
+        },
+        {
+          "term": "modernization",
+          "category": "modernization",
+          "count": 3
+        },
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "api",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "application",
+          "category": "technology",
+          "count": 1
+        },
+        {
+          "term": "accessibility",
+          "category": "accessibility",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "NoticeId": "01abe8bcf2e6447497d63aa82db1082d",
+      "Sol#": "SPE603-26-R-5X33",
+      "Title": "INNOVATIVE SOLUTIONS FOR DEFENSE FUEL SUPPORT POINT (DFSP) MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES - DFSP POINT LOMA, CA",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-10 11:39:42.118-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "531190",
+      "Link": "https://sam.gov/workspace/contract/opp/01abe8bcf2e6447497d63aa82db1082d/view",
+      "matches": [
+        {
+          "term": "cybersecurity",
+          "category": "security",
+          "count": 3
+        },
+        {
+          "term": "modernization",
+          "category": "modernization",
+          "count": 3
+        },
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "api",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "application",
+          "category": "technology",
+          "count": 1
+        },
+        {
+          "term": "accessibility",
+          "category": "accessibility",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "NoticeId": "1b8e09ce061a4fde8169cf14cfec44da",
+      "Sol#": "SPE603-26-R-5X47",
+      "Title": "INNOVATIVE SOLUTIONS FOR DFSP MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES; DFSP Naval Station Mayport (Air Operations), Mayport, FL",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-10 11:37:54.782-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "486910",
+      "Link": "https://sam.gov/workspace/contract/opp/1b8e09ce061a4fde8169cf14cfec44da/view",
+      "matches": [
+        {
+          "term": "cybersecurity",
+          "category": "security",
+          "count": 3
+        },
+        {
+          "term": "modernization",
+          "category": "modernization",
+          "count": 3
+        },
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "api",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "application",
+          "category": "technology",
+          "count": 1
+        },
+        {
+          "term": "accessibility",
+          "category": "accessibility",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "NoticeId": "ddc2b9c48e4f411686f0dc84f212c82c",
+      "Sol#": "SPE603-26-R-5X32",
+      "Title": "INNOVATIVE SOLUTIONS FOR DEFENSE FUEL SUPPORT POINT (DFSP) MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES - DFSP POINT LOMA, CA",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-10 11:36:35.397-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "493190",
+      "Link": "https://sam.gov/workspace/contract/opp/ddc2b9c48e4f411686f0dc84f212c82c/view",
+      "matches": [
+        {
+          "term": "cybersecurity",
+          "category": "security",
+          "count": 3
+        },
+        {
+          "term": "modernization",
+          "category": "modernization",
+          "count": 3
+        },
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "api",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "application",
+          "category": "technology",
+          "count": 1
+        },
+        {
+          "term": "accessibility",
+          "category": "accessibility",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "NoticeId": "f72072dec5484352a25d5680a77c772a",
+      "Sol#": "SPE603-26-R-5X31",
+      "Title": "INNOVATIVE SOLUTIONS FOR DEFENSE FUEL SUPPORT POINT (DFSP) MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES - DFSP POINT LOMA, CA",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-10 11:33:38.46-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "488320",
+      "Link": "https://sam.gov/workspace/contract/opp/f72072dec5484352a25d5680a77c772a/view",
+      "matches": [
+        {
+          "term": "cybersecurity",
+          "category": "security",
+          "count": 3
+        },
+        {
+          "term": "modernization",
+          "category": "modernization",
+          "count": 3
+        },
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "api",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "application",
+          "category": "technology",
+          "count": 1
+        },
+        {
+          "term": "accessibility",
+          "category": "accessibility",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "NoticeId": "fc676c2acac946aca1d33b46d5c62e00",
+      "Sol#": "SPE603-26-R-5X30",
+      "Title": "INNOVATIVE SOLUTIONS FOR DEFENSE FUEL SUPPORT POINT (DFSP) MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES - DFSP POINT LOMA, CA",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-10 11:29:58.303-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "488119",
+      "Link": "https://sam.gov/workspace/contract/opp/fc676c2acac946aca1d33b46d5c62e00/view",
+      "matches": [
+        {
+          "term": "cybersecurity",
+          "category": "security",
+          "count": 3
+        },
+        {
+          "term": "modernization",
+          "category": "modernization",
+          "count": 3
+        },
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "api",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "application",
+          "category": "technology",
+          "count": 1
+        },
+        {
+          "term": "accessibility",
+          "category": "accessibility",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "NoticeId": "0365623d2e164cccabb37fd190ce0504",
+      "Sol#": "SPE603-26-R-5X29",
+      "Title": "INNOVATIVE SOLUTIONS FOR DEFENSE FUEL SUPPORT POINT (DFSP) MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES - DFSP POINT LOMA, CA",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-10 11:25:52.147-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "486910",
+      "Link": "https://sam.gov/workspace/contract/opp/0365623d2e164cccabb37fd190ce0504/view",
+      "matches": [
+        {
+          "term": "cybersecurity",
+          "category": "security",
+          "count": 3
+        },
+        {
+          "term": "modernization",
+          "category": "modernization",
+          "count": 3
+        },
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "api",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "application",
+          "category": "technology",
+          "count": 1
+        },
+        {
+          "term": "accessibility",
+          "category": "accessibility",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "NoticeId": "c44569c54a514939a029bf5770ee9320",
+      "Sol#": "SPE603-26-R-5X46",
+      "Title": "INNOVATIVE SOLUTIONS FOR DFSP MANAGEMENT, INFRASTRUCTURE ENHANCEMENT, AND UNDERUTILIZED LAND AND RESOURCES; DFSP Naval Station Mayport (Air Operations), Mayport, FL",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-10 11:23:02.386-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "488310",
+      "Link": "https://sam.gov/workspace/contract/opp/c44569c54a514939a029bf5770ee9320/view",
+      "matches": [
+        {
+          "term": "cybersecurity",
+          "category": "security",
+          "count": 3
+        },
+        {
+          "term": "modernization",
+          "category": "modernization",
+          "count": 3
+        },
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "api",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "application",
+          "category": "technology",
+          "count": 1
+        },
+        {
+          "term": "accessibility",
+          "category": "accessibility",
           "count": 1
         }
       ]
