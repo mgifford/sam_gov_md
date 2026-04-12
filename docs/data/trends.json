@@ -38,9 +38,718 @@
     "2026-04-07",
     "2026-04-08",
     "2026-04-09",
-    "2026-04-10"
+    "2026-04-10",
+    "2026-04-11"
   ],
   "agencies": {
+    "DEPT OF DEFENSE": [
+      {
+        "date": "2026-03-03",
+        "count": 1044,
+        "wins": 181,
+        "opportunities": 863
+      },
+      {
+        "date": "2026-03-04",
+        "count": 1268,
+        "wins": 189,
+        "opportunities": 1079
+      },
+      {
+        "date": "2026-03-05",
+        "count": 1055,
+        "wins": 234,
+        "opportunities": 821
+      },
+      {
+        "date": "2026-03-06",
+        "count": 595,
+        "wins": 105,
+        "opportunities": 490
+      },
+      {
+        "date": "2026-03-07",
+        "count": 12,
+        "wins": 4,
+        "opportunities": 8
+      },
+      {
+        "date": "2026-03-08",
+        "count": 120,
+        "wins": 0,
+        "opportunities": 120
+      },
+      {
+        "date": "2026-03-09",
+        "count": 1384,
+        "wins": 373,
+        "opportunities": 1011
+      },
+      {
+        "date": "2026-03-10",
+        "count": 1294,
+        "wins": 269,
+        "opportunities": 1025
+      },
+      {
+        "date": "2026-03-11",
+        "count": 981,
+        "wins": 222,
+        "opportunities": 759
+      },
+      {
+        "date": "2026-03-12",
+        "count": 1618,
+        "wins": 212,
+        "opportunities": 1406
+      },
+      {
+        "date": "2026-03-13",
+        "count": 597,
+        "wins": 92,
+        "opportunities": 505
+      },
+      {
+        "date": "2026-03-14",
+        "count": 10,
+        "wins": 0,
+        "opportunities": 10
+      },
+      {
+        "date": "2026-03-15",
+        "count": 183,
+        "wins": 1,
+        "opportunities": 182
+      },
+      {
+        "date": "2026-03-16",
+        "count": 1209,
+        "wins": 268,
+        "opportunities": 941
+      },
+      {
+        "date": "2026-03-17",
+        "count": 1121,
+        "wins": 224,
+        "opportunities": 897
+      },
+      {
+        "date": "2026-03-18",
+        "count": 1129,
+        "wins": 235,
+        "opportunities": 894
+      },
+      {
+        "date": "2026-03-19",
+        "count": 1325,
+        "wins": 251,
+        "opportunities": 1074
+      },
+      {
+        "date": "2026-03-20",
+        "count": 521,
+        "wins": 92,
+        "opportunities": 429
+      },
+      {
+        "date": "2026-03-21",
+        "count": 13,
+        "wins": 4,
+        "opportunities": 9
+      },
+      {
+        "date": "2026-03-22",
+        "count": 152,
+        "wins": 4,
+        "opportunities": 148
+      },
+      {
+        "date": "2026-03-23",
+        "count": 666,
+        "wins": 146,
+        "opportunities": 520
+      },
+      {
+        "date": "2026-03-24",
+        "count": 1799,
+        "wins": 301,
+        "opportunities": 1498
+      },
+      {
+        "date": "2026-03-25",
+        "count": 1155,
+        "wins": 250,
+        "opportunities": 905
+      },
+      {
+        "date": "2026-03-26",
+        "count": 1561,
+        "wins": 361,
+        "opportunities": 1200
+      },
+      {
+        "date": "2026-03-27",
+        "count": 619,
+        "wins": 135,
+        "opportunities": 484
+      },
+      {
+        "date": "2026-03-28",
+        "count": 21,
+        "wins": 3,
+        "opportunities": 18
+      },
+      {
+        "date": "2026-03-29",
+        "count": 201,
+        "wins": 1,
+        "opportunities": 200
+      },
+      {
+        "date": "2026-03-30",
+        "count": 1231,
+        "wins": 364,
+        "opportunities": 867
+      },
+      {
+        "date": "2026-03-31",
+        "count": 1151,
+        "wins": 335,
+        "opportunities": 816
+      },
+      {
+        "date": "2026-04-01",
+        "count": 1247,
+        "wins": 247,
+        "opportunities": 1000
+      },
+      {
+        "date": "2026-04-02",
+        "count": 1262,
+        "wins": 245,
+        "opportunities": 1017
+      },
+      {
+        "date": "2026-04-03",
+        "count": 543,
+        "wins": 115,
+        "opportunities": 428
+      },
+      {
+        "date": "2026-04-04",
+        "count": 18,
+        "wins": 3,
+        "opportunities": 15
+      },
+      {
+        "date": "2026-04-05",
+        "count": 141,
+        "wins": 0,
+        "opportunities": 141
+      },
+      {
+        "date": "2026-04-06",
+        "count": 891,
+        "wins": 257,
+        "opportunities": 634
+      },
+      {
+        "date": "2026-04-07",
+        "count": 987,
+        "wins": 222,
+        "opportunities": 765
+      },
+      {
+        "date": "2026-04-08",
+        "count": 1911,
+        "wins": 246,
+        "opportunities": 1665
+      },
+      {
+        "date": "2026-04-09",
+        "count": 1543,
+        "wins": 251,
+        "opportunities": 1292
+      },
+      {
+        "date": "2026-04-10",
+        "count": 540,
+        "wins": 105,
+        "opportunities": 435
+      },
+      {
+        "date": "2026-04-11",
+        "count": 12,
+        "wins": 3,
+        "opportunities": 9
+      }
+    ],
+    "INTERIOR, DEPARTMENT OF THE": [
+      {
+        "date": "2026-03-03",
+        "count": 74,
+        "wins": 29,
+        "opportunities": 45
+      },
+      {
+        "date": "2026-03-04",
+        "count": 56,
+        "wins": 19,
+        "opportunities": 37
+      },
+      {
+        "date": "2026-03-05",
+        "count": 68,
+        "wins": 12,
+        "opportunities": 56
+      },
+      {
+        "date": "2026-03-06",
+        "count": 55,
+        "wins": 11,
+        "opportunities": 44
+      },
+      {
+        "date": "2026-03-07",
+        "count": 3,
+        "wins": 1,
+        "opportunities": 2
+      },
+      {
+        "date": "2026-03-08",
+        "count": 1,
+        "wins": 0,
+        "opportunities": 1
+      },
+      {
+        "date": "2026-03-09",
+        "count": 51,
+        "wins": 16,
+        "opportunities": 35
+      },
+      {
+        "date": "2026-03-10",
+        "count": 75,
+        "wins": 30,
+        "opportunities": 45
+      },
+      {
+        "date": "2026-03-11",
+        "count": 70,
+        "wins": 17,
+        "opportunities": 53
+      },
+      {
+        "date": "2026-03-12",
+        "count": 71,
+        "wins": 27,
+        "opportunities": 44
+      },
+      {
+        "date": "2026-03-13",
+        "count": 55,
+        "wins": 19,
+        "opportunities": 36
+      },
+      {
+        "date": "2026-03-14",
+        "count": 1,
+        "wins": 0,
+        "opportunities": 1
+      },
+      {
+        "date": "2026-03-16",
+        "count": 46,
+        "wins": 11,
+        "opportunities": 35
+      },
+      {
+        "date": "2026-03-17",
+        "count": 67,
+        "wins": 16,
+        "opportunities": 51
+      },
+      {
+        "date": "2026-03-18",
+        "count": 66,
+        "wins": 15,
+        "opportunities": 51
+      },
+      {
+        "date": "2026-03-19",
+        "count": 78,
+        "wins": 28,
+        "opportunities": 50
+      },
+      {
+        "date": "2026-03-20",
+        "count": 54,
+        "wins": 17,
+        "opportunities": 37
+      },
+      {
+        "date": "2026-03-21",
+        "count": 1,
+        "wins": 1,
+        "opportunities": 0
+      },
+      {
+        "date": "2026-03-22",
+        "count": 2,
+        "wins": 1,
+        "opportunities": 1
+      },
+      {
+        "date": "2026-03-23",
+        "count": 64,
+        "wins": 19,
+        "opportunities": 45
+      },
+      {
+        "date": "2026-03-24",
+        "count": 71,
+        "wins": 22,
+        "opportunities": 49
+      },
+      {
+        "date": "2026-03-25",
+        "count": 63,
+        "wins": 18,
+        "opportunities": 45
+      },
+      {
+        "date": "2026-03-26",
+        "count": 75,
+        "wins": 22,
+        "opportunities": 53
+      },
+      {
+        "date": "2026-03-27",
+        "count": 63,
+        "wins": 21,
+        "opportunities": 42
+      },
+      {
+        "date": "2026-03-29",
+        "count": 2,
+        "wins": 2,
+        "opportunities": 0
+      },
+      {
+        "date": "2026-03-30",
+        "count": 83,
+        "wins": 21,
+        "opportunities": 62
+      },
+      {
+        "date": "2026-03-31",
+        "count": 97,
+        "wins": 38,
+        "opportunities": 59
+      },
+      {
+        "date": "2026-04-01",
+        "count": 78,
+        "wins": 30,
+        "opportunities": 48
+      },
+      {
+        "date": "2026-04-02",
+        "count": 77,
+        "wins": 24,
+        "opportunities": 53
+      },
+      {
+        "date": "2026-04-03",
+        "count": 54,
+        "wins": 12,
+        "opportunities": 42
+      },
+      {
+        "date": "2026-04-05",
+        "count": 1,
+        "wins": 0,
+        "opportunities": 1
+      },
+      {
+        "date": "2026-04-06",
+        "count": 79,
+        "wins": 16,
+        "opportunities": 63
+      },
+      {
+        "date": "2026-04-07",
+        "count": 81,
+        "wins": 19,
+        "opportunities": 62
+      },
+      {
+        "date": "2026-04-08",
+        "count": 67,
+        "wins": 15,
+        "opportunities": 52
+      },
+      {
+        "date": "2026-04-09",
+        "count": 61,
+        "wins": 17,
+        "opportunities": 44
+      },
+      {
+        "date": "2026-04-10",
+        "count": 52,
+        "wins": 9,
+        "opportunities": 43
+      },
+      {
+        "date": "2026-04-11",
+        "count": 1,
+        "wins": 0,
+        "opportunities": 1
+      }
+    ],
+    "VETERANS AFFAIRS, DEPARTMENT OF": [
+      {
+        "date": "2026-03-03",
+        "count": 143,
+        "wins": 23,
+        "opportunities": 120
+      },
+      {
+        "date": "2026-03-04",
+        "count": 152,
+        "wins": 19,
+        "opportunities": 133
+      },
+      {
+        "date": "2026-03-05",
+        "count": 133,
+        "wins": 19,
+        "opportunities": 114
+      },
+      {
+        "date": "2026-03-06",
+        "count": 142,
+        "wins": 15,
+        "opportunities": 127
+      },
+      {
+        "date": "2026-03-07",
+        "count": 1,
+        "wins": 0,
+        "opportunities": 1
+      },
+      {
+        "date": "2026-03-08",
+        "count": 2,
+        "wins": 0,
+        "opportunities": 2
+      },
+      {
+        "date": "2026-03-09",
+        "count": 127,
+        "wins": 18,
+        "opportunities": 109
+      },
+      {
+        "date": "2026-03-10",
+        "count": 162,
+        "wins": 20,
+        "opportunities": 142
+      },
+      {
+        "date": "2026-03-11",
+        "count": 168,
+        "wins": 25,
+        "opportunities": 143
+      },
+      {
+        "date": "2026-03-12",
+        "count": 145,
+        "wins": 26,
+        "opportunities": 119
+      },
+      {
+        "date": "2026-03-13",
+        "count": 129,
+        "wins": 18,
+        "opportunities": 111
+      },
+      {
+        "date": "2026-03-14",
+        "count": 4,
+        "wins": 1,
+        "opportunities": 3
+      },
+      {
+        "date": "2026-03-15",
+        "count": 5,
+        "wins": 0,
+        "opportunities": 5
+      },
+      {
+        "date": "2026-03-16",
+        "count": 125,
+        "wins": 22,
+        "opportunities": 103
+      },
+      {
+        "date": "2026-03-17",
+        "count": 119,
+        "wins": 17,
+        "opportunities": 102
+      },
+      {
+        "date": "2026-03-18",
+        "count": 165,
+        "wins": 18,
+        "opportunities": 147
+      },
+      {
+        "date": "2026-03-19",
+        "count": 144,
+        "wins": 15,
+        "opportunities": 129
+      },
+      {
+        "date": "2026-03-20",
+        "count": 120,
+        "wins": 15,
+        "opportunities": 105
+      },
+      {
+        "date": "2026-03-21",
+        "count": 2,
+        "wins": 1,
+        "opportunities": 1
+      },
+      {
+        "date": "2026-03-22",
+        "count": 2,
+        "wins": 1,
+        "opportunities": 1
+      },
+      {
+        "date": "2026-03-23",
+        "count": 119,
+        "wins": 17,
+        "opportunities": 102
+      },
+      {
+        "date": "2026-03-24",
+        "count": 165,
+        "wins": 22,
+        "opportunities": 143
+      },
+      {
+        "date": "2026-03-25",
+        "count": 148,
+        "wins": 26,
+        "opportunities": 122
+      },
+      {
+        "date": "2026-03-26",
+        "count": 173,
+        "wins": 24,
+        "opportunities": 149
+      },
+      {
+        "date": "2026-03-27",
+        "count": 113,
+        "wins": 23,
+        "opportunities": 90
+      },
+      {
+        "date": "2026-03-28",
+        "count": 5,
+        "wins": 2,
+        "opportunities": 3
+      },
+      {
+        "date": "2026-03-29",
+        "count": 5,
+        "wins": 2,
+        "opportunities": 3
+      },
+      {
+        "date": "2026-03-30",
+        "count": 135,
+        "wins": 20,
+        "opportunities": 115
+      },
+      {
+        "date": "2026-03-31",
+        "count": 166,
+        "wins": 34,
+        "opportunities": 132
+      },
+      {
+        "date": "2026-04-01",
+        "count": 185,
+        "wins": 31,
+        "opportunities": 154
+      },
+      {
+        "date": "2026-04-02",
+        "count": 187,
+        "wins": 31,
+        "opportunities": 156
+      },
+      {
+        "date": "2026-04-03",
+        "count": 105,
+        "wins": 14,
+        "opportunities": 91
+      },
+      {
+        "date": "2026-04-04",
+        "count": 4,
+        "wins": 2,
+        "opportunities": 2
+      },
+      {
+        "date": "2026-04-05",
+        "count": 4,
+        "wins": 3,
+        "opportunities": 1
+      },
+      {
+        "date": "2026-04-06",
+        "count": 127,
+        "wins": 19,
+        "opportunities": 108
+      },
+      {
+        "date": "2026-04-07",
+        "count": 157,
+        "wins": 13,
+        "opportunities": 144
+      },
+      {
+        "date": "2026-04-08",
+        "count": 173,
+        "wins": 24,
+        "opportunities": 149
+      },
+      {
+        "date": "2026-04-09",
+        "count": 130,
+        "wins": 15,
+        "opportunities": 115
+      },
+      {
+        "date": "2026-04-10",
+        "count": 141,
+        "wins": 17,
+        "opportunities": 124
+      },
+      {
+        "date": "2026-04-11",
+        "count": 2,
+        "wins": 2,
+        "opportunities": 0
+      }
+    ],
     "AGRICULTURE, DEPARTMENT OF": [
       {
         "date": "2026-03-03",
@@ -491,242 +1200,6 @@
         "count": 15,
         "wins": 1,
         "opportunities": 14
-      }
-    ],
-    "DEPT OF DEFENSE": [
-      {
-        "date": "2026-03-03",
-        "count": 1044,
-        "wins": 181,
-        "opportunities": 863
-      },
-      {
-        "date": "2026-03-04",
-        "count": 1268,
-        "wins": 189,
-        "opportunities": 1079
-      },
-      {
-        "date": "2026-03-05",
-        "count": 1055,
-        "wins": 234,
-        "opportunities": 821
-      },
-      {
-        "date": "2026-03-06",
-        "count": 595,
-        "wins": 105,
-        "opportunities": 490
-      },
-      {
-        "date": "2026-03-07",
-        "count": 12,
-        "wins": 4,
-        "opportunities": 8
-      },
-      {
-        "date": "2026-03-08",
-        "count": 120,
-        "wins": 0,
-        "opportunities": 120
-      },
-      {
-        "date": "2026-03-09",
-        "count": 1384,
-        "wins": 373,
-        "opportunities": 1011
-      },
-      {
-        "date": "2026-03-10",
-        "count": 1294,
-        "wins": 269,
-        "opportunities": 1025
-      },
-      {
-        "date": "2026-03-11",
-        "count": 981,
-        "wins": 222,
-        "opportunities": 759
-      },
-      {
-        "date": "2026-03-12",
-        "count": 1618,
-        "wins": 212,
-        "opportunities": 1406
-      },
-      {
-        "date": "2026-03-13",
-        "count": 597,
-        "wins": 92,
-        "opportunities": 505
-      },
-      {
-        "date": "2026-03-14",
-        "count": 10,
-        "wins": 0,
-        "opportunities": 10
-      },
-      {
-        "date": "2026-03-15",
-        "count": 183,
-        "wins": 1,
-        "opportunities": 182
-      },
-      {
-        "date": "2026-03-16",
-        "count": 1209,
-        "wins": 268,
-        "opportunities": 941
-      },
-      {
-        "date": "2026-03-17",
-        "count": 1121,
-        "wins": 224,
-        "opportunities": 897
-      },
-      {
-        "date": "2026-03-18",
-        "count": 1129,
-        "wins": 235,
-        "opportunities": 894
-      },
-      {
-        "date": "2026-03-19",
-        "count": 1325,
-        "wins": 251,
-        "opportunities": 1074
-      },
-      {
-        "date": "2026-03-20",
-        "count": 521,
-        "wins": 92,
-        "opportunities": 429
-      },
-      {
-        "date": "2026-03-21",
-        "count": 13,
-        "wins": 4,
-        "opportunities": 9
-      },
-      {
-        "date": "2026-03-22",
-        "count": 152,
-        "wins": 4,
-        "opportunities": 148
-      },
-      {
-        "date": "2026-03-23",
-        "count": 666,
-        "wins": 146,
-        "opportunities": 520
-      },
-      {
-        "date": "2026-03-24",
-        "count": 1799,
-        "wins": 301,
-        "opportunities": 1498
-      },
-      {
-        "date": "2026-03-25",
-        "count": 1155,
-        "wins": 250,
-        "opportunities": 905
-      },
-      {
-        "date": "2026-03-26",
-        "count": 1561,
-        "wins": 361,
-        "opportunities": 1200
-      },
-      {
-        "date": "2026-03-27",
-        "count": 619,
-        "wins": 135,
-        "opportunities": 484
-      },
-      {
-        "date": "2026-03-28",
-        "count": 21,
-        "wins": 3,
-        "opportunities": 18
-      },
-      {
-        "date": "2026-03-29",
-        "count": 201,
-        "wins": 1,
-        "opportunities": 200
-      },
-      {
-        "date": "2026-03-30",
-        "count": 1231,
-        "wins": 364,
-        "opportunities": 867
-      },
-      {
-        "date": "2026-03-31",
-        "count": 1151,
-        "wins": 335,
-        "opportunities": 816
-      },
-      {
-        "date": "2026-04-01",
-        "count": 1247,
-        "wins": 247,
-        "opportunities": 1000
-      },
-      {
-        "date": "2026-04-02",
-        "count": 1262,
-        "wins": 245,
-        "opportunities": 1017
-      },
-      {
-        "date": "2026-04-03",
-        "count": 543,
-        "wins": 115,
-        "opportunities": 428
-      },
-      {
-        "date": "2026-04-04",
-        "count": 18,
-        "wins": 3,
-        "opportunities": 15
-      },
-      {
-        "date": "2026-04-05",
-        "count": 141,
-        "wins": 0,
-        "opportunities": 141
-      },
-      {
-        "date": "2026-04-06",
-        "count": 891,
-        "wins": 257,
-        "opportunities": 634
-      },
-      {
-        "date": "2026-04-07",
-        "count": 987,
-        "wins": 222,
-        "opportunities": 765
-      },
-      {
-        "date": "2026-04-08",
-        "count": 1911,
-        "wins": 246,
-        "opportunities": 1665
-      },
-      {
-        "date": "2026-04-09",
-        "count": 1543,
-        "wins": 251,
-        "opportunities": 1292
-      },
-      {
-        "date": "2026-04-10",
-        "count": 540,
-        "wins": 105,
-        "opportunities": 435
       }
     ],
     "EDUCATION, DEPARTMENT OF": [
@@ -1677,224 +2150,6 @@
         "count": 2,
         "wins": 0,
         "opportunities": 2
-      }
-    ],
-    "INTERIOR, DEPARTMENT OF THE": [
-      {
-        "date": "2026-03-03",
-        "count": 74,
-        "wins": 29,
-        "opportunities": 45
-      },
-      {
-        "date": "2026-03-04",
-        "count": 56,
-        "wins": 19,
-        "opportunities": 37
-      },
-      {
-        "date": "2026-03-05",
-        "count": 68,
-        "wins": 12,
-        "opportunities": 56
-      },
-      {
-        "date": "2026-03-06",
-        "count": 55,
-        "wins": 11,
-        "opportunities": 44
-      },
-      {
-        "date": "2026-03-07",
-        "count": 3,
-        "wins": 1,
-        "opportunities": 2
-      },
-      {
-        "date": "2026-03-08",
-        "count": 1,
-        "wins": 0,
-        "opportunities": 1
-      },
-      {
-        "date": "2026-03-09",
-        "count": 51,
-        "wins": 16,
-        "opportunities": 35
-      },
-      {
-        "date": "2026-03-10",
-        "count": 75,
-        "wins": 30,
-        "opportunities": 45
-      },
-      {
-        "date": "2026-03-11",
-        "count": 70,
-        "wins": 17,
-        "opportunities": 53
-      },
-      {
-        "date": "2026-03-12",
-        "count": 71,
-        "wins": 27,
-        "opportunities": 44
-      },
-      {
-        "date": "2026-03-13",
-        "count": 55,
-        "wins": 19,
-        "opportunities": 36
-      },
-      {
-        "date": "2026-03-14",
-        "count": 1,
-        "wins": 0,
-        "opportunities": 1
-      },
-      {
-        "date": "2026-03-16",
-        "count": 46,
-        "wins": 11,
-        "opportunities": 35
-      },
-      {
-        "date": "2026-03-17",
-        "count": 67,
-        "wins": 16,
-        "opportunities": 51
-      },
-      {
-        "date": "2026-03-18",
-        "count": 66,
-        "wins": 15,
-        "opportunities": 51
-      },
-      {
-        "date": "2026-03-19",
-        "count": 78,
-        "wins": 28,
-        "opportunities": 50
-      },
-      {
-        "date": "2026-03-20",
-        "count": 54,
-        "wins": 17,
-        "opportunities": 37
-      },
-      {
-        "date": "2026-03-21",
-        "count": 1,
-        "wins": 1,
-        "opportunities": 0
-      },
-      {
-        "date": "2026-03-22",
-        "count": 2,
-        "wins": 1,
-        "opportunities": 1
-      },
-      {
-        "date": "2026-03-23",
-        "count": 64,
-        "wins": 19,
-        "opportunities": 45
-      },
-      {
-        "date": "2026-03-24",
-        "count": 71,
-        "wins": 22,
-        "opportunities": 49
-      },
-      {
-        "date": "2026-03-25",
-        "count": 63,
-        "wins": 18,
-        "opportunities": 45
-      },
-      {
-        "date": "2026-03-26",
-        "count": 75,
-        "wins": 22,
-        "opportunities": 53
-      },
-      {
-        "date": "2026-03-27",
-        "count": 63,
-        "wins": 21,
-        "opportunities": 42
-      },
-      {
-        "date": "2026-03-29",
-        "count": 2,
-        "wins": 2,
-        "opportunities": 0
-      },
-      {
-        "date": "2026-03-30",
-        "count": 83,
-        "wins": 21,
-        "opportunities": 62
-      },
-      {
-        "date": "2026-03-31",
-        "count": 97,
-        "wins": 38,
-        "opportunities": 59
-      },
-      {
-        "date": "2026-04-01",
-        "count": 78,
-        "wins": 30,
-        "opportunities": 48
-      },
-      {
-        "date": "2026-04-02",
-        "count": 77,
-        "wins": 24,
-        "opportunities": 53
-      },
-      {
-        "date": "2026-04-03",
-        "count": 54,
-        "wins": 12,
-        "opportunities": 42
-      },
-      {
-        "date": "2026-04-05",
-        "count": 1,
-        "wins": 0,
-        "opportunities": 1
-      },
-      {
-        "date": "2026-04-06",
-        "count": 79,
-        "wins": 16,
-        "opportunities": 63
-      },
-      {
-        "date": "2026-04-07",
-        "count": 81,
-        "wins": 19,
-        "opportunities": 62
-      },
-      {
-        "date": "2026-04-08",
-        "count": 67,
-        "wins": 15,
-        "opportunities": 52
-      },
-      {
-        "date": "2026-04-09",
-        "count": 61,
-        "wins": 17,
-        "opportunities": 44
-      },
-      {
-        "date": "2026-04-10",
-        "count": 52,
-        "wins": 9,
-        "opportunities": 43
       }
     ],
     "JUSTICE, DEPARTMENT OF": [
@@ -3179,242 +3434,6 @@
         "opportunities": 2
       }
     ],
-    "VETERANS AFFAIRS, DEPARTMENT OF": [
-      {
-        "date": "2026-03-03",
-        "count": 143,
-        "wins": 23,
-        "opportunities": 120
-      },
-      {
-        "date": "2026-03-04",
-        "count": 152,
-        "wins": 19,
-        "opportunities": 133
-      },
-      {
-        "date": "2026-03-05",
-        "count": 133,
-        "wins": 19,
-        "opportunities": 114
-      },
-      {
-        "date": "2026-03-06",
-        "count": 142,
-        "wins": 15,
-        "opportunities": 127
-      },
-      {
-        "date": "2026-03-07",
-        "count": 1,
-        "wins": 0,
-        "opportunities": 1
-      },
-      {
-        "date": "2026-03-08",
-        "count": 2,
-        "wins": 0,
-        "opportunities": 2
-      },
-      {
-        "date": "2026-03-09",
-        "count": 127,
-        "wins": 18,
-        "opportunities": 109
-      },
-      {
-        "date": "2026-03-10",
-        "count": 162,
-        "wins": 20,
-        "opportunities": 142
-      },
-      {
-        "date": "2026-03-11",
-        "count": 168,
-        "wins": 25,
-        "opportunities": 143
-      },
-      {
-        "date": "2026-03-12",
-        "count": 145,
-        "wins": 26,
-        "opportunities": 119
-      },
-      {
-        "date": "2026-03-13",
-        "count": 129,
-        "wins": 18,
-        "opportunities": 111
-      },
-      {
-        "date": "2026-03-14",
-        "count": 4,
-        "wins": 1,
-        "opportunities": 3
-      },
-      {
-        "date": "2026-03-15",
-        "count": 5,
-        "wins": 0,
-        "opportunities": 5
-      },
-      {
-        "date": "2026-03-16",
-        "count": 125,
-        "wins": 22,
-        "opportunities": 103
-      },
-      {
-        "date": "2026-03-17",
-        "count": 119,
-        "wins": 17,
-        "opportunities": 102
-      },
-      {
-        "date": "2026-03-18",
-        "count": 165,
-        "wins": 18,
-        "opportunities": 147
-      },
-      {
-        "date": "2026-03-19",
-        "count": 144,
-        "wins": 15,
-        "opportunities": 129
-      },
-      {
-        "date": "2026-03-20",
-        "count": 120,
-        "wins": 15,
-        "opportunities": 105
-      },
-      {
-        "date": "2026-03-21",
-        "count": 2,
-        "wins": 1,
-        "opportunities": 1
-      },
-      {
-        "date": "2026-03-22",
-        "count": 2,
-        "wins": 1,
-        "opportunities": 1
-      },
-      {
-        "date": "2026-03-23",
-        "count": 119,
-        "wins": 17,
-        "opportunities": 102
-      },
-      {
-        "date": "2026-03-24",
-        "count": 165,
-        "wins": 22,
-        "opportunities": 143
-      },
-      {
-        "date": "2026-03-25",
-        "count": 148,
-        "wins": 26,
-        "opportunities": 122
-      },
-      {
-        "date": "2026-03-26",
-        "count": 173,
-        "wins": 24,
-        "opportunities": 149
-      },
-      {
-        "date": "2026-03-27",
-        "count": 113,
-        "wins": 23,
-        "opportunities": 90
-      },
-      {
-        "date": "2026-03-28",
-        "count": 5,
-        "wins": 2,
-        "opportunities": 3
-      },
-      {
-        "date": "2026-03-29",
-        "count": 5,
-        "wins": 2,
-        "opportunities": 3
-      },
-      {
-        "date": "2026-03-30",
-        "count": 135,
-        "wins": 20,
-        "opportunities": 115
-      },
-      {
-        "date": "2026-03-31",
-        "count": 166,
-        "wins": 34,
-        "opportunities": 132
-      },
-      {
-        "date": "2026-04-01",
-        "count": 185,
-        "wins": 31,
-        "opportunities": 154
-      },
-      {
-        "date": "2026-04-02",
-        "count": 187,
-        "wins": 31,
-        "opportunities": 156
-      },
-      {
-        "date": "2026-04-03",
-        "count": 105,
-        "wins": 14,
-        "opportunities": 91
-      },
-      {
-        "date": "2026-04-04",
-        "count": 4,
-        "wins": 2,
-        "opportunities": 2
-      },
-      {
-        "date": "2026-04-05",
-        "count": 4,
-        "wins": 3,
-        "opportunities": 1
-      },
-      {
-        "date": "2026-04-06",
-        "count": 127,
-        "wins": 19,
-        "opportunities": 108
-      },
-      {
-        "date": "2026-04-07",
-        "count": 157,
-        "wins": 13,
-        "opportunities": 144
-      },
-      {
-        "date": "2026-04-08",
-        "count": 173,
-        "wins": 24,
-        "opportunities": 149
-      },
-      {
-        "date": "2026-04-09",
-        "count": 130,
-        "wins": 15,
-        "opportunities": 115
-      },
-      {
-        "date": "2026-04-10",
-        "count": 141,
-        "wins": 17,
-        "opportunities": 124
-      }
-    ],
     "COURT SERVICES AND OFFENDER SUPERVISION AGENCY": [
       {
         "date": "2026-03-09",
@@ -4523,24 +4542,24 @@
   "top_agencies": [
     {
       "agency": "DEPT OF DEFENSE",
-      "total": 33118,
-      "wins": 6547,
-      "opportunities": 26571,
-      "days_seen": 39
+      "total": 33130,
+      "wins": 6550,
+      "opportunities": 26580,
+      "days_seen": 40
     },
     {
       "agency": "VETERANS AFFAIRS, DEPARTMENT OF",
-      "total": 4232,
-      "wins": 612,
+      "total": 4234,
+      "wins": 614,
       "opportunities": 3620,
-      "days_seen": 39
+      "days_seen": 40
     },
     {
       "agency": "INTERIOR, DEPARTMENT OF THE",
-      "total": 1962,
+      "total": 1963,
       "wins": 575,
-      "opportunities": 1387,
-      "days_seen": 36
+      "opportunities": 1388,
+      "days_seen": 37
     },
     {
       "agency": "AGRICULTURE, DEPARTMENT OF",
@@ -4628,6 +4647,12 @@
     }
   ],
   "daily_totals": [
+    {
+      "date": "2026-04-11",
+      "total": 15,
+      "opportunities": 10,
+      "wins": 5
+    },
     {
       "date": "2026-04-10",
       "total": 953,
