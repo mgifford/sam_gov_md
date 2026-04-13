@@ -24,6 +24,10 @@ Maintain Forklifts
   - Email: yasuhiko.motooka3.ln@us.navy.mil
   - Phone: 81956506827
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/90a30ddf4e264a90973d9f35b742d61c/view)

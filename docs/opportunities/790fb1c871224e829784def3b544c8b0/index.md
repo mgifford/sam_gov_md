@@ -28,6 +28,10 @@ This service requirement is to review inspection report, validate, and repair th
   - Email: jackson.basil.1@us.af.mil
   - Phone: 6624347767
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/790fb1c871224e829784def3b544c8b0/view)

@@ -25,6 +25,10 @@ End of solicitation amendment.
   - Title: Contract Specialist
   - Email: Horacio.Fernandez@va.gov
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f04668ecb37a4abeb363ecde31e11e97/view)

@@ -24,6 +24,10 @@ CLEAR AND MAINTAIN SAND AT OCEAN BEACH
   - Email: Patty_Payne@nps.gov
   - Phone: 5597306435
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1dcbea04ded44aea98945adb568f6e15/view)

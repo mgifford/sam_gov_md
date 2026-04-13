@@ -34,6 +34,10 @@ Please see attachments for combined synopsis solicitation FA524026Q0009 – Hood
 
 - Attachment 1: Clauses and Provisions. Offerors must complete the fill-in sections of RFO 52.219-1. All other terms, conditions, and requirements of the original solicitation remain in full force and effect AMENDMENT 0002- SUMMARY OF CHANGES This amendment is to notify all interested contractors that the site visit for the Hoods, Ducts, and Fire Protection Systems Maintenance & Repair Services at Andersen AFB, Guam, has been postponed due to Typhoon Sinlaku. A new date for the site visit will be announced in a future amendment. All interested parties should continue to monitor this solicitation for further updates. All other terms, conditions, and requirements of the original solicitation remain in full force and effect
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6db4984bf4804e029e764e287a60fc22/view)

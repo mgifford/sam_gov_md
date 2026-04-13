@@ -33,6 +33,10 @@ The requirement is for ship repair, maintenance and overhaul of United States (U
 
 - Attachment 1: Work Specification(s) for TGIs. 2. PERIOD OF PERFORMANCE: From 18 Jul 2026 to 20 Sep 2026 3. PLACE OF PERFORMANCE: Yokosuka Naval Base 4. OFFER: Offerors must provide all information required by this solicitation no later than 4 May 2026 at 10:00 AM Japan Standard Time (JST). 5. WORK ITEM INFORMATION: Access to the work specification package listed in Section J as Attachment (I) may only be accessed through DoD SAFE. DoD SAFE is a secure U.S. Government repository which enables the sharing of large files and requires outside users to receive a drop-off request from the U.S. Government. Therefore, any offeror intending to provide a proposal to this solicitation shall request access by sending an email to: CS - miwa.takahashi2.ln@us.navy.mil, KO - ai.gillard.ln@us.navy.mil by 27 Apr 2026 10: 00 am JST. Once the U.S. Government receives the offeror’s access request, the U.S. Government will provide the offeror with a link and instructions to retrieve Attachment (I). Offerors shall note that access is only available for 14 days once sent. When submitting your proposal, you must specify any hazardous material in accordance with FAR 52.223-3 (Hazardous Material ID) and DFARS 252.223-7001. When submitting your proposal, you must specify if you anticipate sea transportation in accordance with DFARS 252.247-7022. If there is a time limit on your offer, you must specify this at submission of your proposal. If there are any amendments to this RFP, please acknowledge them when submitting your proposal in the proposal comment section. On 9 Apr 2026, Soliciation Amendment N6264926RA0360001 was issued to ncorporate changes in Growth Work CLIN amount percentage (CLIN 0002), section L and M of the solicitation N6264926RA036. Other terms and conditions remain unchanged. See revised Attachment II and Solicitation Amendment (SF30) for further details
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f6fc03495e034cf98bfeb9890c6e48bf/view)

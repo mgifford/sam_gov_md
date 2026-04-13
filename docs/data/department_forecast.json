@@ -1,33 +1,47 @@
 {
-  "forecast_date": "2026-04-11",
+  "forecast_date": "2026-04-12",
   "departments_by_opportunity_volume": [
     {
-      "total_records": 12,
-      "open_opportunities": 9,
-      "awarded": 3,
-      "win_rate_percent": 25.0,
-      "estimated_monthly_value": 121635127,
-      "average_award_value": 40545042,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 0,
+      "total_records": 392,
+      "open_opportunities": 391,
+      "awarded": 1,
+      "win_rate_percent": 0.3,
+      "estimated_monthly_value": 14695,
+      "average_award_value": 14695,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 381,
       "top_awardees": [
         {
-          "name": "J. F. BRENNAN COMPANY, INC. La Crosse WI 54603 USA",
+          "name": "AQUACELL CO., LTD. Busan KOR",
           "wins": 1,
-          "total_value": 117748000
-        },
-        {
-          "name": "ACADEMI TRAINING CENTER LLC Moyock NC 27958 USA",
-          "wins": 1,
-          "total_value": 3836202
-        },
-        {
-          "name": "1 SOURCE SOLUTIONS CO, LLC Wake Forest NC 27587 USA",
-          "wins": 1,
-          "total_value": 50925
+          "total_value": 14695
         }
       ],
       "department": "DEPT OF DEFENSE"
+    },
+    {
+      "total_records": 3,
+      "open_opportunities": 3,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "STATE, DEPARTMENT OF"
     },
     {
       "total_records": 1,
@@ -42,79 +56,83 @@
       "department": "INTERIOR, DEPARTMENT OF THE"
     },
     {
-      "total_records": 2,
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF"
+    },
+    {
+      "total_records": 1,
       "open_opportunities": 0,
-      "awarded": 2,
+      "awarded": 1,
       "win_rate_percent": 100.0,
-      "estimated_monthly_value": 2159600,
-      "average_award_value": 1079800,
+      "estimated_monthly_value": 9000000,
+      "average_award_value": 9000000,
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [
         {
-          "name": "UNITED PARCEL SERVICE CO. LOUISVILLE 40223-4015 KGZ",
+          "name": "TEXTRON AVIATION INC Wichita KS 67215 USA",
           "wins": 1,
-          "total_value": 1422000
-        },
-        {
-          "name": "FEDERAL EXPRESS CORPORATION MEMPHIS 38125",
-          "wins": 1,
-          "total_value": 737600
+          "total_value": 9000000
         }
       ],
-      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
+      "department": "AGRICULTURE, DEPARTMENT OF"
     }
   ],
   "departments_by_award_value": [
     {
-      "total_records": 12,
-      "open_opportunities": 9,
-      "awarded": 3,
-      "win_rate_percent": 25.0,
-      "estimated_monthly_value": 121635127,
-      "average_award_value": 40545042,
-      "opportunities_with_attachments": 1,
+      "total_records": 1,
+      "open_opportunities": 0,
+      "awarded": 1,
+      "win_rate_percent": 100.0,
+      "estimated_monthly_value": 9000000,
+      "average_award_value": 9000000,
+      "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [
         {
-          "name": "J. F. BRENNAN COMPANY, INC. La Crosse WI 54603 USA",
+          "name": "TEXTRON AVIATION INC Wichita KS 67215 USA",
           "wins": 1,
-          "total_value": 117748000
-        },
+          "total_value": 9000000
+        }
+      ],
+      "department": "AGRICULTURE, DEPARTMENT OF"
+    },
+    {
+      "total_records": 392,
+      "open_opportunities": 391,
+      "awarded": 1,
+      "win_rate_percent": 0.3,
+      "estimated_monthly_value": 14695,
+      "average_award_value": 14695,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 381,
+      "top_awardees": [
         {
-          "name": "ACADEMI TRAINING CENTER LLC Moyock NC 27958 USA",
+          "name": "AQUACELL CO., LTD. Busan KOR",
           "wins": 1,
-          "total_value": 3836202
-        },
-        {
-          "name": "1 SOURCE SOLUTIONS CO, LLC Wake Forest NC 27587 USA",
-          "wins": 1,
-          "total_value": 50925
+          "total_value": 14695
         }
       ],
       "department": "DEPT OF DEFENSE"
     },
     {
-      "total_records": 2,
-      "open_opportunities": 0,
-      "awarded": 2,
-      "win_rate_percent": 100.0,
-      "estimated_monthly_value": 2159600,
-      "average_award_value": 1079800,
+      "total_records": 3,
+      "open_opportunities": 3,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
-      "top_awardees": [
-        {
-          "name": "UNITED PARCEL SERVICE CO. LOUISVILLE 40223-4015 KGZ",
-          "wins": 1,
-          "total_value": 1422000
-        },
-        {
-          "name": "FEDERAL EXPRESS CORPORATION MEMPHIS 38125",
-          "wins": 1,
-          "total_value": 737600
-        }
-      ],
+      "top_awardees": [],
       "department": "VETERANS AFFAIRS, DEPARTMENT OF"
     },
     {
@@ -127,60 +145,102 @@
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
+      "department": "STATE, DEPARTMENT OF"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
       "department": "INTERIOR, DEPARTMENT OF THE"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF"
     }
   ],
   "department_forecasts": {
     "DEPT OF DEFENSE": {
-      "total_records": 12,
-      "open_opportunities": 9,
-      "awarded": 3,
-      "win_rate_percent": 25.0,
-      "estimated_monthly_value": 121635127,
-      "average_award_value": 40545042,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 0,
+      "total_records": 392,
+      "open_opportunities": 391,
+      "awarded": 1,
+      "win_rate_percent": 0.3,
+      "estimated_monthly_value": 14695,
+      "average_award_value": 14695,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 381,
       "top_awardees": [
         {
-          "name": "J. F. BRENNAN COMPANY, INC. La Crosse WI 54603 USA",
+          "name": "AQUACELL CO., LTD. Busan KOR",
           "wins": 1,
-          "total_value": 117748000
-        },
-        {
-          "name": "ACADEMI TRAINING CENTER LLC Moyock NC 27958 USA",
-          "wins": 1,
-          "total_value": 3836202
-        },
-        {
-          "name": "1 SOURCE SOLUTIONS CO, LLC Wake Forest NC 27587 USA",
-          "wins": 1,
-          "total_value": 50925
+          "total_value": 14695
         }
       ]
     },
     "VETERANS AFFAIRS, DEPARTMENT OF": {
-      "total_records": 2,
+      "total_records": 3,
+      "open_opportunities": 3,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": []
+    },
+    "STATE, DEPARTMENT OF": {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": []
+    },
+    "INTERIOR, DEPARTMENT OF THE": {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": []
+    },
+    "AGRICULTURE, DEPARTMENT OF": {
+      "total_records": 1,
       "open_opportunities": 0,
-      "awarded": 2,
+      "awarded": 1,
       "win_rate_percent": 100.0,
-      "estimated_monthly_value": 2159600,
-      "average_award_value": 1079800,
+      "estimated_monthly_value": 9000000,
+      "average_award_value": 9000000,
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [
         {
-          "name": "UNITED PARCEL SERVICE CO. LOUISVILLE 40223-4015 KGZ",
+          "name": "TEXTRON AVIATION INC Wichita KS 67215 USA",
           "wins": 1,
-          "total_value": 1422000
-        },
-        {
-          "name": "FEDERAL EXPRESS CORPORATION MEMPHIS 38125",
-          "wins": 1,
-          "total_value": 737600
+          "total_value": 9000000
         }
       ]
     },
-    "INTERIOR, DEPARTMENT OF THE": {
+    "HEALTH AND HUMAN SERVICES, DEPARTMENT OF": {
       "total_records": 1,
       "open_opportunities": 1,
       "awarded": 0,

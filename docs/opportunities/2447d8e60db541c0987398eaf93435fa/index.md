@@ -28,6 +28,10 @@ The purpose of this amendment is to extend the quotation deadline from 13 April 
   - Email: MRSSProcurement@state.gov
   - Phone: +6353012000
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2447d8e60db541c0987398eaf93435fa/view)

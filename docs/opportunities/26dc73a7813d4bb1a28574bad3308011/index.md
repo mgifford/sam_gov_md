@@ -23,6 +23,10 @@ Preventive Maintenance Service for LAB Equipment for Misawa Navy Air Field. See 
   - Name: Yukako Hishikura
   - Email: yukako.hishikura.ln@us.navy.mil
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/26dc73a7813d4bb1a28574bad3308011/view)

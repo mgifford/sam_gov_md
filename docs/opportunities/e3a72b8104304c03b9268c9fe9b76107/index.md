@@ -24,6 +24,10 @@ Please reference this solicitation number SPMYM2-26-Q-5926 FALSE DECK PANELS in 
   - Email: Denise.Quist@dla.mil
   - Phone: 3604766075
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e3a72b8104304c03b9268c9fe9b76107/view)

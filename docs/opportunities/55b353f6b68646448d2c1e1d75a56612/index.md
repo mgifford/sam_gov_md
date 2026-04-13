@@ -25,6 +25,10 @@ No summary provided.
   - Name: Amanda Barbosa
   - Email: amanda.barbosa@usda.gov
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/55b353f6b68646448d2c1e1d75a56612/view)

@@ -27,6 +27,10 @@ The 732 Operations Group (OG) requires the purchase, delivery, and installation 
   - Name: Capt Taylor Peeples
   - Email: taylor.peeples.1@us.af.mil
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ad7025a4093f44118198d6339af2e6b2/view)

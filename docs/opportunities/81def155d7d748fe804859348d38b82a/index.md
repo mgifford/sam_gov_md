@@ -27,6 +27,10 @@ This is a combined synopsis/solicitation for commercial products or commercial s
   - Name: Merlinda Labaco
   - Email: merlinda.m.labaco.civ@health.mil
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/81def155d7d748fe804859348d38b82a/view)

@@ -24,6 +24,10 @@ The U.S. Army Corps of Engineers – New England District is issuing a Pre-Solic
   - Email: jennifer.m.samela@usace.army.mil
   - Phone: 9783188324
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/734faaacab1e46bc8e63c434f6cbf07d/view)

@@ -24,6 +24,10 @@ Please reference this solicitation number SPMYM2-26-Q-5918 BATTERY AND CHILLER U
   - Email: Denise.Quist@dla.mil
   - Phone: 3604766075
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a55127d953174143abc86d93e046efa8/view)

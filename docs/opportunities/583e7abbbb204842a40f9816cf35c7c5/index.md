@@ -23,6 +23,10 @@ Please see attached document: Notice of Intent
   - Name: David Shen
   - Email: david.shen@nih.gov
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/583e7abbbb204842a40f9816cf35c7c5/view)

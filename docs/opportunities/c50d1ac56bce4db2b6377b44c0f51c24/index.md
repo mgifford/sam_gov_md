@@ -26,6 +26,10 @@ This contract is awarded to AQUACELL COMPANY in the amount of $14,695.76 (W20,40
   - Email: yun.c.kim4.ln@us.navy.mil
   - Phone: 3157635871
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c50d1ac56bce4db2b6377b44c0f51c24/view)

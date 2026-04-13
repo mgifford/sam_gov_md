@@ -28,6 +28,10 @@ This is a combined synopsis/solicitation for commercial products or commercial s
   - Email: Jocelyn.t.layson-castillo.civ@health.mil
   - Phone: 6713449745
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d7e102d60a2949c694a36b625753ee33/view)

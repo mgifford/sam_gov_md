@@ -26,6 +26,10 @@ THIS IS AN UPDATED PRE-SOLICITATION NOTICE. See attachment "36C25726R0025_3 Upda
   - Email: horacio.fernandez@va.gov
   - Phone: (254) 421-4096
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/93880c5ffb264bbeb4315cd82c58cf1a/view)

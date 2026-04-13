@@ -23,6 +23,10 @@ Unarmed security guard services at the National Memorial Cemetery of Arizona. --
   - Name: Ralph Crum
   - Email: ralph.crum@va.gov
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4e3e263c34064556a7064bc4df12a329/view)
