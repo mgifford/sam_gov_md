@@ -58,7 +58,8 @@ class TestLoadTerms:
     def test_real_config_includes_acr_patterns(self) -> None:
         config = Path(__file__).parent.parent / "config" / "terms.yml"
         terms = st.load_terms(config)
-        acr = next(term for term in terms if term.get("name") == "acr")
+        acr = next((term for term in terms if term.get("name") == "acr"), None)
+        assert acr is not None
         assert st.count_matches("Section 508 ACR required", acr["patterns"]) > 0
         assert (
             st.count_matches("Accessibility Conformance Report included", acr["patterns"]) > 0

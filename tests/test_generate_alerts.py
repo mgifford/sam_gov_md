@@ -101,6 +101,11 @@ class TestScoreRecord:
         _, include = ga.score_record(record, min_hits=8)
         assert include is True
 
+    def test_acr_focus_term_lowercase_qualifies(self) -> None:
+        record = self._record([{"term": "acr", "count": 12}])
+        _, include = ga.score_record(record, min_hits=8)
+        assert include is True
+
     def test_zero_min_hits_always_passes_threshold(self) -> None:
         record = self._record([{"term": "api", "count": 1}])
         _, include = ga.score_record(record, min_hits=0)
