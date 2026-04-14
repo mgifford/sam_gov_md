@@ -154,6 +154,12 @@ terms:
       - '\bOpen\s+Accessibility\s+Conformance\s+Report\b'
     category: "accessibility"
 
+  - name: "acr"
+    patterns:
+      - '\bACR(s)?\b'
+      - '\bAccessibility\s+Conformance\s+Report(s)?\b'
+    category: "accessibility"
+
   # eLearning
   - name: "elearning"
     patterns:
