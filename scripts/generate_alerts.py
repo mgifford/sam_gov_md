@@ -41,7 +41,7 @@ ACCESSIBILITY_SIGNAL_PSC_PREFIXES = (
 
 
 def has_accessibility_code_signal(record: dict[str, Any]) -> bool:
-    """Infer accessibility/SRT relevance from NAICS and PSC-style codes."""
+    """Return True when NAICS/PSC codes suggest SRT (Solicitation Review Tool) relevance."""
     naics = "".join(ch for ch in str(record.get("NaicsCode", "")) if ch.isdigit())
     psc = str(record.get("ClassificationCode") or "").strip().upper()
 
