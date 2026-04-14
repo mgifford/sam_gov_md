@@ -1,0 +1,21 @@
+---
+layout: default
+title: 2nd ANNUAL Virtual RRB Industry Day
+agency: RAILROAD RETIREMENT BOARD
+notice_type: Special Notice
+notice_id: 381c13c84c00440b89351bc0a3a99022
+---
+
+# 2nd ANNUAL Virtual RRB Industry Day
+
+- Agency: RAILROAD RETIREMENT BOARD
+- Type: Special Notice
+- Posted: 2026-04-13 13:39:36.801-04
+
+## Summary
+
+The Railroad Retirement Board (RRB) is hosting our 2nd Annual Virtual Industry Day on Thursday, May 14th 2026. ALL existing, new and potential vendors are highly encouraged to attend. Industry Day allows industry members the unique opportunity to learn about the RRB’s purpose, goals and discover potential and upcoming contracting opportunities with private industry. The RRB will provide a brief overview of its mission, how/where the RRB posts opportunities, socioeconomic goals and a sample RRB solicitation template. The U. S. Railroad Retirement Board (RRB) is an independent Federal agency that administers a retirement and survivor benefits program for railroad employees and their families. The RRB was established by the Railroad Retirement Acts of 1937 and 1974. The RRB headquarters is located in Chicago, Illinois. Its benefit program was the forerunner of the more familiar Social Security System. The Railroad Retirement System is unique inasmuch as it is the only federally administered benefit program covering a single private industry. The RRB also administers the Railroad Unemployment Insurance Act which provides unemployment and sickness benefits to railroad employees. The RRB’s headquarters (HQ) is located in Chicago, Illinois and houses 600+ RRB staff as well as multiple tenants, public and private, organizations. RRB also supports 53 field offices throughout the continental United States, a Congressional Liaison Office in Washington DC and the Office of Inspector General with an office in the RRB HQ building and a field office in Philadelphia, PA. The intent of this engagement is to offer a general overview of the following: COMMUNICATE who we are and what products and services the RRB offers. ENGAGE with industry to find ways to enhance performance of services and to surge contractor interest and intrigue on future contracting opportunities. ACQUIRE best industry practices and impending technology changes that the RRB should consider for future acquisitions. LISTEN to industry feedback on ways we incorporate to improve. We will have representatives from various RRB departments presenting a brief overview on upcoming projects in the next 3-5 years and how each department is critical to the execution of the RRB’s mission. The Contracting Division will provide a synopsis of their process i.e. market research, types of solicitations, evaluating strategies, best practices before submitting responses to Requests for Quotes (RFQs) or Request for Proposals (RFPs), Contract Award & Contract Administration so that contractors/sub-contractors can gauge a better understanding of our expectations and assist us to streamline processes and establish successful partnerships with industry. Please only submit one request per vendor to prevent overloading the bandwidth capacity of the RRB VPN. If you would like multiple attendees, please arrange to log in via a conference room or other means that will only require one link through the VPN; As this is the initial RRB Industry Day and we intend to provide future semi-annual Industry Days. The RRB reserves the right to limit the number of attendees for each presentation due to available bandwidth. To submit questions and/or concerns regarding registration for this event, please submit inquiries to proposals@rrb.gov with RRB Industry Day 2026 in the subject line by 3:00 pm CST on Friday, May 8, 2026. To attend this event please copy/paste the link below and register for event log-in details: https://rrb.webex.com/weblink/register/r9904993497da6882391b53954e2ad958 NOTE: THE WEBINAR WILL BE RECORDED FOR TRAINING PURPOSES
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/381c13c84c00440b89351bc0a3a99022/view)

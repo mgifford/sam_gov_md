@@ -1,0 +1,40 @@
+---
+layout: default
+title: Pilot and Aircrew Curriculum Revision and Maintenance (PACRM) Multiple Award Contract (MAC) II
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 27118b76b0b74ccf88d09f03959b32a3
+---
+
+# Pilot and Aircrew Curriculum Revision and Maintenance (PACRM) Multiple Award Contract (MAC) II
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-04-13 10:05:34.406-04
+- Solicitation Number: N6134026R1001
+
+## Summary
+
+13APR2026-Please note, due date is a place holder. Due date is TBD...The issuance of Amendment 0003 reopens the proposal submission window with a new proposal due date. Action is required from all offerors, including those who have already submitted, to be considered for award, Please see attached (Notes to Contractor, updated L-2, L-7, conformed RFP 0003, and RFP amendment SF30 0003........The due date for submission of PACRM II proposals has been suspended. The Government will provide an update regarding an updated due date for proposals in the future. Interested parties should check back on a regular basis for update. .....Please see the attached RFP amendment N6134026R1001-0002..... Please see the attached RFP amendment N6134026R1001-0001. Please note, EPS makes the Section M, Part B,
+
+4.0 Other Definitions hard to read, but that the conformed copy is legible........Pilot and Aircrew Curriculum Revision and Maintenance (PACRM) Multiple Award Contract (MAC) II --Naval Air Warfare Center Training Systems intends to competitively award a Firm Fixed Price PACRM II MAC for curriculum revision and maintenance services. The MAC will focus on the sustainment aspect of the curriculum lifecycle process. This is inclusive of but not limited to operator and maintenance classified/unclassified curriculum and classroom training delivery systems for the following manned/unmanned aircraft Type/Model/Series (T/M/S): MH-60, MQ-8, E-2, C-2, Landing Signal Officer (LSO), P-3, P-8, EP-3, MQ-4, AV-8B, KC-130, CH-53, AH-1, UH-1, F/A-18, E/A-18, E-6B, new manned/unmanned aircraft T/M/S, and various Navy and Marine Corps technical training courses.--PACRM II Multiple Award IDIQ contract. This opportunity is limited to SDVOSBs only. NAWCTSD has the requirement to establish the second iteration of the Pilot and Aircrew Courseware Revision and Maintenance (PACRM) Indefinite Delivery/Indefinite Quantity (IDIQ) Contract Multiple Award Contract (MAC). The PACRM II MAC provides a wide range of classified and unclassified courseware revision and maintenance services for various Navy and non-Navy customers. The contract is designed to be a streamlined, quick-response contractual vehicle that will meet the long-term Revision and Maintenance needs of the Naval Fleet, Air, Training and Schools Commands, other Government training support activities, and Foreign Military Sales (FMS) cases both domestically and around the world. The various training programs to be supported under the MAC will satisfy a myriad of training requirements, including Pilot and Aircrew, Operator and Maintenance, Mission Rehearsal, etc. Note- A pre-requisite for this requirement is an active Facility Clearance Level of Secret or higher at the time of proposal due date. The clearance must be in the name of legal entity identified in Block 15A of the Offerors SF33. In the case of a Joint Venture (JV) Offeror, where the clearance is not in the name of the legal JV Principal entity identified in Block 15A of the Offerors SF-33, each JV Team Member must have a valid Secret, or higher, FCL at time of proposal due date. Any clearances that are pending or in process at the time of proposal submittal are not permissible and will be removed from consideration, as the Offeror is not eligible for the award. -------------------------------------PACRM MAC II PRE-PROPOSAL CONFERENCE. All prospective Offerors are urged to attend the Pre-Proposal Conference. The Pre-Proposal conference will be conducted virtually via TEAMs by Naval Air Warfare Center Training Systems Division on Tuesday, 10 February 2026 at 9:00am. All Offerors are required to schedule attendance no later than Wednesday, 04 February 2026, 11:00 am. EST. All requests shall be submitted via email. Each company is limited to two email TEAMs meeting makers for the PPC. Meeting Maker Limitation: Each company is restricted to designating a maximum of two individuals to received email TEAMs meeting makers for the Pre-Proposal Conference (PPC).The POC for the Pre-Proposal Conference is Kelly Stevens?s (301) 904-9434, email kelly.m.stevens4.civ@us.navy.mil.Questions generated at the Pre-Proposal Conference shall be submitted in writing in accordance with PACRM II MAC Attachment L-5 Solicitation Question Response Form. At no time will the Government answer questions regarding the solicitation of a single potential Offeror without providing the answer to all potential Offerors. The Government will not engage in sidebar question and answer sessions with any individual or potential Offeror. All questions submitted formally by Thursday, 12 February 2026, 11:00 am. EST will be answered and distributed to Offerors via amendment. Failure of a prospective Offeror to attend the conference or to submit any questions will be construed to mean that the Offeror fully understands all requirements of the solicitation. Prospective Offerors are advised that the conference will be held solely for the purpose of explaining the specifications and terms and conditions of this solicitation. All prospective Offerors are advised that this solicitation will remain unchanged at the conclusion of the conference, unless amended in writing. If an amendment is issued, normal procedures relating to the acknowledgement and receipt of any such amendment shall be applicable. In no event will failure to attend the conference constitute grounds for a claim after award of the contract. The Government is not responsible for, nor will the Government pay, any portion of the costs associated with attendance at the respective site visit(s) by prospective Contractor personnel.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Kelly Stevens
+  - Email: kelly.m.stevens4.civ@us.navy.mil
+  - Phone: 4073804143
+- Secondary Contact:
+  - Name: Jana McEntegart
+  - Email: jana.r.mcentegart.civ@us.navy.mil
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: -5 Solicitation Question Response Form. At no time will the Government answer questions regarding the solicitation of a single potential Offeror without providing the answer to all potential Offerors. The Government will not engage in sidebar question and answer sessions with any individual or potential Offeror. All questions submitted formally by Thursday, 12 February 2026, 11:00 am. EST will be answered and distributed to Offerors via amendment. Failure of a prospective Offeror to attend the conference or to submit any questions will be construed to mean that the Offeror fully understands all requirements of the solicitation. Prospective Offerors are advised that the conference will be held solely for the purpose of explaining the specifications and terms and conditions of this solicitation. All prospective Offerors are advised that this solicitation will remain unchanged at the conclusion of the conference, unless amended in writing. If an amendment is issued, normal procedures relating to the acknowledgement and receipt of any such amendment shall be applicable. In no event will failure to attend the conference constitute grounds for a claim after award of the contract. The Government is not responsible for, nor will the Government pay, any portion of the costs associated with attendance at the respective site visit(s) by prospective Contractor personnel
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/27118b76b0b74ccf88d09f03959b32a3/view)

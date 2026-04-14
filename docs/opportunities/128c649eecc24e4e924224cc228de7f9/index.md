@@ -1,0 +1,31 @@
+---
+layout: default
+title: J030--Generator Testing and Maintenance - Battle Creek, MI
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: 128c649eecc24e4e924224cc228de7f9
+---
+
+# J030--Generator Testing and Maintenance - Battle Creek, MI
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-04-13 12:34:00.948-04
+- Solicitation Number: 36C25026Q0473
+- Awardee: null
+
+## Summary
+
+THIS IS NOT A SOLICITATION. This is a Sources Sought Notice only and is issued in accordance with Federal Acquisition Regulation (FAR) 10 Market Research, to conduct market research. Responses to this notice are not offers and cannot be accepted by the Government to form a binding contract. This Sources Sought Notice is issued solely for information and planning purposes and does not constitute a solicitation or guarantee to issue a solicitation in the future. This Sources Sought Notice does not commit the Government to contract for any supply or service. All information submitted in response to this announcement is voluntary; the Government will not pay for information requested nor will it compensate any respondent for any cost incurred in developing information provided to the Government. Not responding to this Sources Sought Notice does not preclude participation in any future solicitation, if issued. This announcement is based on the best information available at this time and is subject to future modification. The North American Industry Classification System (NAICS) Code is 811310 Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance Size Standard in Millions of dollars $8 Million Product Service Code is J030 Maintenance, Repair, and Rebuilding of Equipment Mechanical Power Transmission Equipment Purpose and Objectives This Sources Sought Notice is issued by VISN 10, Network Contracting Office (NCO) 10 located in Ann Arbor, MI for the purpose of collecting information about Generator Testing and Maintenance Services for the Department of Veterans Affairs Battle Creek VA Medical Center. The VA is seeking a contractor to provide for this requirement for a base year, with four one-year options to extend services. A draft copy of the SOW is attached. Places of Performance: Department of Veterans Affairs Battle Creek VA Medical Center 5500 Armstrong Road Battle Creek, MI 49037 Responses: Please submit your response in accordance with the following instructions: Responses shall be no more than 10 pages in length. Responses are due by 4/30/2026 at 12:00 PM EST. Responses shall be submitted via email. Emails cannot exceed 10mb Subject line of the Email shall include this Sources Sought Notice Number Firm Name Generator Testing and Maintenance Services. If your response contains proprietary information you will place Proprietary Information in front of the Sources Sought Notice Number. No marketing materials are allowed as part of this Sources Sought Notice. The Government will not review any other information or attachments included in your submission that is not listed herein or exceeds the 10-page limitation. Contractors Federal Supply Schedule Contract that carries the desired services If you do not have a Federal Supply Schedule contract, you shall state open market Provide the Schedule Provide expiration date of your Contract Provide your GSA/FSS/SAC Contract Number Provide the SIN for dosimetry badge monitoring services If any of the items are not on your GSA/FSS contract you will mark which items are open market. Contractor Point of Contact to include: Name Title Phone Email Company Information to include: Name Address DUNs Number Tax ID Number Business Size Provide information as to what the dosimetry badge monitoring services are provided by your company. Provide how your company invoices for services in the commercial marketplace. Business Size/Type: Service-Disabled Veteran Owned Small Business (SDVOSB), Veteran Owned Small Business (VOSB), 8(a), Hub Zone Small Business, Women Owned Small Business (WOSB), Small Disadvantaged Business (SDB), Small Business, or Large Business. All prospective Contractors are reminded that in accordance with FAR 4.11 they shall be registered in the System for Award Management (SAM) database and shall complete annual Representations and Certifications in SAM prior to any offer. SAM is located at http://www.sam.gov and consolidated the capabilities of CCR/FedReg, ORCA, and EPLS. There is no cost to use SAM. FOR SDVOSB/VOSB ONLY: Please note that if responding as an SDVOSB or VOSB, your company must be registered and verified in the VA s Vendor Information Pages (VIP) database, which is available at: https://access.va.gov/accessva/?cspSelectFor=vems Please include a copy of your VetBiz certification with your response. Contractor shall include 3 past contracts for the same or similar services. Contractor shall include at minimum: Name of Company Company POC Company POC phone Company POC email Dollar amount of contract Contract number Period of Performance Description of services provided Contractor shall include any relevant comments about the attachments, if applicable. Contractor shall provide a public price list/contract price list for the services described herein. Contractor shall provide a detailed response to include your firm s ability, capability, and responsibility to deliver the services presented in this Sources Sought Notice. Contractor shall provide if they plan to sub-contract all or part of the work, and to what firm to include the subs duns number and business size. Determination by the Government not to compete this proposed contract action based on responses to this notice is solely within the discretion of the Government.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Andrea J. Roach
+  - Title: Contracting Officer
+  - Email: Andrea.Roach2@va.gov
+  - Phone: No Phone Calls Accepted.
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/128c649eecc24e4e924224cc228de7f9/view)

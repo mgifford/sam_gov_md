@@ -1,0 +1,33 @@
+---
+layout: default
+title: Sources Sought for Fishtrap Lake Intake Structure and Dam Rehabilitation
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: d646a5484d684f67b49675382c954041
+---
+
+# Sources Sought for Fishtrap Lake Intake Structure and Dam Rehabilitation
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-04-13 15:35:47.997-04
+- Solicitation Number: W9123726X1BK8
+
+## Summary
+
+Action Code: X Date: 04/13/2026 Year: 2026 Contracting Office Zip Code: 25701-2070 Product or Service Code: Z1PZ Contracting Office Address: US Army Corps of Engineers, Huntington District 502 8th Street Huntington, WV 25701-2070 Subject: D – SOURCES SOUGHT for Intake Structure and Dam Rehabilitation for Fishtrap Lake in Shelbiana, Kentucky. Proposed Solicitation Number: W9123726X1BK8 Closing Response Date: 05/13/2026 Contact Points: Lillie V. Bodie, Contract Specialist, lillie.v.bodie@usace.army.mil; (304) 399-5139 Danielle ‘Logan’ Roar, Contracting Officer, danielle.L.roar@usace.army.mil; (304) 399-5348 Contract Award Number: N/A Contract Award Dollar Amount: N/A Contract Line-Item Number: N/A Contract Award Date: N/A Contractor: N/A This is a SOURCES SOUGHT notice to determine the capabilities of firms. This notice does not constitute a solicitation announcement, nor does it restrict the Government to an ultimate acquisition approach. No solicitation or technical scope of services is available currently. The Government will use the responses to this SOURCES SOUGHT notice to make acquisition decisions. All businesses are strongly encouraged to review this SOURCES SOUGHT and submit according to the directions in this notice. NO SOLICITATION, SPECIFICATIONS, OR DRAWINGS are available for this notice. Responses to this Sources Sought notice will be used by the Government to make appropriate acquisition decisions. The purpose of this notice is to gain knowledge of potentially qualified large and small business sources to include small businesses in the following categories: Small Business, Small Disadvantaged Business, Certified HUBZone, Woman-Owned, and Service-Disabled Veteran-Owned. Contractors shall demonstrate through professional registration, company, and personnel resumes, executed examples, and supporting customer feedback documentation, its ability to meet the requirements for work related to the Intake Structure and Dam Rehabilitation for Fishtrap Lake. The general description of the work is to furnish all materials, equipment, labor, layouts of work features, and supervision needed to accomplish work related to Fishtrap Lake, Intake Structure and Dam Rehab. Complete the work in accordance with appropriate product specifications, industry standards, and contract work order plans and specifications. The current electrical commercial power source is a 12 KV distribution line owned by Kentucky Power Company (KPC). The existing line is located on the hillside and is not accessible by KPC boom trucks. The existing line is an “open delta” configuration, meaning that there are only two phases present instead of the normal three phases. In the open delta configuration, the third phase is derived at the stepdown service transformers. The contract includes the following work tasks: Base Removal and replacement of the Intake Structure Air Circulator. Removal of the Intake Structure Water Pump. Installation of the roof damper motor. Removal and replacement of four sluice gate level monitors. Removal and replacement of new line shafts, line shaft couplings, bearings, and brake wheels and shoes. Removal and replacement of the Motor Control Center. Removal and replacement of wiring. Installation of an E-Stop circuit wiring for the hydraulic pumps. Removal and replacement of the electrical distribution equipment. Option 1 (Cylinder Rehab) Disassembly and removal of the three (3) service gate cylinders and one (1) low flow gate cylinder. One new service gate cylinder will be fabricated and installed in place of one of the existing service gate cylinders. The other two cylinders and the low flow cylinder will be rehabbed and reinstalled. If enacted, Option 1 must be awarded alongside the Base Contract. See Option 4 or work in lieu of this task. Option 2 (Crane Rehab) Removal and replacement of the existing motors, bearings, brakes, wiring, controls, rail clips, bumpers, wire rope, lubricants, grease fittings, couplings, hardware, festoon, lights, and limit switches. Rebuilding of the hook block. Cleaning and painting of the crane trolley, bridge, and runway. Option 3 (Elevator Rehab) Removal and replacement of all power and control systems for the existing elevator. Option 4 (Hydraulic Cylinder Replacement) Replacement of all three service gate cylinders in lieu of rehabilitation. This option will not be awarded in conjunction with but in lieu of Option 1. The project work will be performed in accordance with direction included herein. The submission is limited to 10 pages (20 total, 10 front and back), to include: Contractor’s name, DUNS number, address, point of contact, phone number, and e-mail address. Contractor's interest in proposing on a solicitation, if issued. Contractor's capability to perform a contract of this complexity and examples of comparable work performed within the past 10 years based on the above criteria. Describe any similar activities listed in this announcement that your company is unable to perform. Describe the professional qualifications of your company. Provide the number and qualifications of registered professional personnel and laborers that you intend to utilize for work on this project. Describe your company's capacity to obtain any required bonding, such as proposal, payment, and performance and your company’s ability to meet insurance requirements. Verification of any Small Business Administration (SBA) certification(s), if applicable. All interested contractors should provide a response by close of business, May 13, 2026. Submit your response to Lillie V. Bodie via email at lillie.v.bodie@usace.army.mil and Danielle L. Roar via email at danielle.L.roar@usace.army.mil. Electronic submission is required. Place of Contract Performance: Shelbiana, Kentucky Set Aside Status: Unknown at this time.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Lillie Bodie
+  - Email: lillie.v.bodie@usace.army.mil
+  - Phone: 3043995139
+- Secondary Contact:
+  - Name: Danielle Roar
+  - Email: Danielle.L.Roar@usace.army.mil
+  - Phone: 3043995348
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d646a5484d684f67b49675382c954041/view)

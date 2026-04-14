@@ -1,0 +1,31 @@
+---
+layout: default
+title: Lease of Office Space within Mays Landing, NJ. Request for Lease Proposals (RLP) #26NAT02 - Office Space
+agency: GENERAL SERVICES ADMINISTRATION
+notice_type: Combined Synopsis/Solicitation
+notice_id: 0ea75c22b0c34ce3a7a0bbe826d4442d
+---
+
+# Lease of Office Space within Mays Landing, NJ. Request for Lease Proposals (RLP) #26NAT02 - Office Space
+
+- Agency: GENERAL SERVICES ADMINISTRATION
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-04-13 07:13:46.723-04
+- Solicitation Number: 5NJ0302
+
+## Summary
+
+This advertisement is hereby incorporated into the RLP 26NAT02 by way of reference as an RLP attachment. The RLP can be found by visiting: https://leasing.gsa.gov/leasing/s/Offer-Resources The U.S. Government is seeking competitive lease proposals for new and/or continuing leasing opportunities through its online Leasing Portal. City: Mays Landing State: New Jersey (NJ) Delineated Area: North: From the intersection of NJ-50 and Atlantic City Expressway, the Point of Beginning, travel East/Southeast along Atlantic City Expressway to Main Street. East: Travel Southwest along Main St / Shore Rd to Ocean Heights Ave. South: Go West / Northwest on Ocean Heights Ave to Somers Point Road. West: Continue North/Northwest along Somers Point Road to River Drive. Go West on River Drive to US-40. Travel North along US-40 to NJ-50. Continue North on NJ-50 to the intersection with Atlantic City Expressway, the Point of Beginning. Minimum ABOA Square Feet: 9,221 Maximum ABOA Square Feet:
+
+9.920 Reserved Parking Spaces: 4 Space Type: Office Lease Term*: 10 Years, 5 Years Firm *Offerors are encouraged to submit rates for all terms available in the AAAP for consideration against future GSA requirements. Amortization Term: 5 years for both Tenant Improvements (TI) and Building Specific Amortized Capital (BSAC). Additional Requirements: This requirement includes a public contact function consisting of a minimum of 1,574 ABOA SF which should be located on the first floor, wherever possible, and must be physically separated from the remaining ABOA SF included within this requirement. If space is not available on the first floor for this public contact function, then it must be located near an elevator lobby, where the entry is plainly visible to visitors. Building common restrooms must be available and conveniently located for use by visitors. Non-contiguous space must be provided with a secure pathway (route) for connectivity between the two Government spaces. Public Transportation: A commuter rail, light rail or subway station shall be located within the immediate vicinity of the building, but generally not exceeding a walkable ½ mile, as determined by the contracting officer. Alternatively, two or more public or campus bus lines useable by tenant occupants shall be located within the immediate vicinity of the building, but generally not exceeding a walkable ½ mile, as determined by the contracting officer. Test Fit Layout: To demonstrate potential for efficient layout, the Offeror may be required to provide a test fit layout at the Offeror's expense when the space offered contains certain features such as: narrow column spacing. atriums, light wells, or other areas interrupting contiguous spaces. extremely long, narrow runs of space. irregular space configurations; or other unusual building features. The government will advise the Offeror if the test fit layout demonstrates that the government's requirement cannot be accommodated within the space offered. The Offeror will have the option of increasing the ABOA Square Footage offered, provided it does not exceed the maximum ABOA Square Feet requested under this advertisement. If the Offeror is already providing the maximum ABOA Square Footage and cannot house the government's space requirements, then the government will advise the Offeror that the offer is unacceptable. AGENCY UNIQUE REQUIREMENTS Agency Tenant Improvement Allowance: Existing leased space: $79.10 per ABOA SF Other locations offered: $79.10 per ABOA SF Building Specific Amortized Capital (BSAC): Existing leased space: $12.00 per ABOA SF Other locations offered: $12.00 per ABOA SF HOW TO OFFER The Leasing Portal (https://leasing.gsa.gov) enables interested parties to offer space to the Federal Government through a secure, web-based process. To participate, register on the site by selecting “Register to Offer Space” and follow the instructions provided. Helpful resources—including instructional guides and video tutorials—are available on the portal under the Resources tab. The Open Period runs from the 1st through the 7th of each month, ending at 8:00 p.m. Eastern Time unless otherwise stated by the Government and unless the 7th falls on a weekend or Federal Holiday. If the 7th falls on a weekend or Federal Holiday, the Open Period will end at 8:00 PM (ET) on the next business day. No submissions are accepted during the Closed Period. During an Open Period, users may submit new offers or modify and/or withdraw existing ones. Lease awards will be made to the lowest-priced, technically acceptable offer without negotiations. Offered space must comply with all applicable Federal, State, and Local jurisdiction requirements, including standards for fire and life safety, accessibility, seismic resilience, and energy efficiency. IMPORTANT NOTES Check the attachments and links section of this notice for possible, additional project-specific requirements or modifications to the RLP. Please review Section 889 of the FY19 National Defense Authorization Act (NDAA) regarding telecommunications equipment restrictions: https://acquisition.gov/FAR-Case-2019-009/889_Part_B SAM registration should be initiated as soon as possible. Refer to RLP Clause 3.05, Item 7. The Government may award multiple leases to satisfy new requirements or to compete expiring leases. Specific requirements will be identified following the close of the Open Period. Lease awards will be made without negotiations to the lowest-priced, technically acceptable offer, based on RLP criteria.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Dominic INNAURATO
+  - Email: dominic.innaurato@gsa.gov
+  - Phone: 2154464532
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0ea75c22b0c34ce3a7a0bbe826d4442d/view)

@@ -1,0 +1,22 @@
+---
+layout: default
+title: Notice of Intent to Sole Source - Auto Forecast Solutions
+agency: COMMERCE, DEPARTMENT OF
+notice_type: Special Notice
+notice_id: 56e13196cff34d77aeb6a6dd1c9527e4
+---
+
+# Notice of Intent to Sole Source - Auto Forecast Solutions
+
+- Agency: COMMERCE, DEPARTMENT OF
+- Type: Special Notice
+- Posted: 2026-04-13 13:41:50.688-04
+- Solicitation Number: TAIA0000-26-00058
+
+## Summary
+
+THIS IS A NOTICE OF INTENT TO SOLE SOURCE AND NOT A REQUEST FOR QUOTATION OR PROPOSAL. The U.S. Department of Commerce (DOC), Office of Acquisition Management (OAM), Shared Services Procurement Office (SSPO), located in Washington, D.C., intends to negotiate on a sole-source basis and award a contract to A2M Solutions LLC (also knows as AutoForecastSolutions LLC) on behalf of the International Trade Administration (ITA). This acquisition is being conducted under the authority of permitting other than full and open competition in accordance with the Revolutionary Federal Acquisition Regulation (FAR) Overhaul (RFO) 12.102 and in accordance with 41 U.S.C. 1901. This acquisition will result in a purchase order with a base 12-month period, and 3-12 month option periods. DOC plans to issue a sole source purchase order to A2M for the AFS Light Vehicle & Powertrain & Electrification Production Outlook subscription and associated services. ITA requires an online, subscription-based automotive production forecasting database that provides comprehensive North American light vehicle production data, including both current and projected future production. The service must deliver detailed, query-driven datasets in downloadable formats such as CSV or Excel, with granularity by country, manufacturer, plant, vehicle segment, platform, and powertrain type, including electric, hybrid, and internal combustion vehicles. The subscription must include regularly updated data, with monthly full dataset updates and more frequent updates for changes to production forecasts and manufacturing plans. In addition to raw data access, the requirement includes analytical reporting such as market alerts, special industry reports, and insights on supply chain impacts, as well as direct access to subject matter experts to support interpretation and application of the data. The service will support ITA analysts in conducting trade policy analysis, industry competitiveness assessments, and economic evaluations of the U.S. automotive sector. A2M possesses unique qualifications that make it the only source reasonably available to meet the Government’s requirements. AFS provides a proprietary, fully integrated automotive production forecasting platform that combines detailed North American light vehicle production data with forward-looking projections, powertrain-specific analysis including electrification categories, and plant-level granularity within a single, query-driven database. This subscription is only available from the vendor. This is NOT a solicitation for quotations, quotation abstracts, a request for competitive quotations; or request for competitive proposals; however, all responses received within 15 days from the date of publication of this synopsis will be considered by the Government. Responses must clearly and thoroughly defend any claims or assertions that attempt to refute the Government’s claim. A determination by the Government not to compete this proposed action based upon responses to this notice is solely with the discretion of the Government. Information received will normally be considered for the purpose of determining whether to conduct a competitive procurement. Information received on this notice must eliminate the Government's concerns and address how the required services can be provided. If no affirmative responses are received within 15 days of this notice to determine whether a qualified source is more advantageous to the Government, a purchase orde will be awarded to A2M Solutions LLC. There is no solicitation package available. Any questions regarding this notice must be submitted in writing via email to Jameka Anderson (JAnderson1@doc.gov). Telephonic questions or requests are strongly discouraged.
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/56e13196cff34d77aeb6a6dd1c9527e4/view)
