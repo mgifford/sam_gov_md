@@ -77,7 +77,7 @@ Output: `data/top_matches_report.md`
 
 The term scanner uses regex patterns defined in `config/terms.yml` to find:
 - **Technology**: software, web, API, cloud, CMS, Drupal, SharePoint
-- **Accessibility**: Section 508, WCAG, VPAT, OpenACR
+- **Accessibility**: Section 508, WCAG, VPAT, OpenACR, ACR
 - **eLearning**: LMS, courseware, instructional design
 - **UX/Design**: user experience, design systems, information architecture
 - **Data**: analytics, dashboards, ETL, data migration
@@ -265,7 +265,7 @@ python scripts/generate_alerts.py --min-hits 8
 ```
 
 High-value selection requires at least one focus term match (for example:
-accessibility, WCAG, VPAT, OpenACR, web, API) **or** a digital NAICS/PSC code
+accessibility, WCAG, VPAT, OpenACR, ACR, web, API) **or** a digital NAICS/PSC code
 signal associated with ICT work where Section 508/ACR considerations are likely.
 
 Alert artifacts:

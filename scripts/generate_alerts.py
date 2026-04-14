@@ -12,6 +12,7 @@ FOCUS_TERMS = {
     "web",
     "accessibility",
     "wcag",
+    "acr",
     "vpat",
     "openacr",
     "open source",
