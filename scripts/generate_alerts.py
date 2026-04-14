@@ -27,12 +27,34 @@ FOCUS_TERMS = {
     "content management system",
 }
 
+ACCESSIBILITY_SIGNAL_NAICS_PREFIXES = (
+    "5112",   # Software publishers
+    "518",    # Computing infrastructure, hosting, and related services
+    "51913",  # Internet publishing and broadcasting and web search portals
+    "5415",   # Computer systems design and related services
+)
+
+ACCESSIBILITY_SIGNAL_PSC_PREFIXES = (
+    "D3",  # IT and telecom - information technology systems
+    "D7",  # IT and telecom - IT strategy and architecture
+)
+
+
+def has_accessibility_code_signal(record: dict[str, Any]) -> bool:
+    """Return True when NAICS/PSC codes suggest SRT (Solicitation Review Tool) relevance."""
+    naics = "".join(ch for ch in str(record.get("NaicsCode", "")) if ch.isdigit())
+    psc = str(record.get("ClassificationCode") or "").strip().upper()
+
+    has_naics_signal = any(naics.startswith(prefix) for prefix in ACCESSIBILITY_SIGNAL_NAICS_PREFIXES)
+    has_psc_signal = any(psc.startswith(prefix) for prefix in ACCESSIBILITY_SIGNAL_PSC_PREFIXES)
+    return has_naics_signal or has_psc_signal
+
 
 def score_record(record: dict[str, Any], min_hits: int) -> tuple[int, bool]:
     matches = record.get("matches", [])
     total_hits = sum(int(item.get("count", 0)) for item in matches)
     terms = {str(item.get("term", "")).lower() for item in matches}
-    has_focus = bool(terms & FOCUS_TERMS)
+    has_focus = bool(terms & FOCUS_TERMS) or has_accessibility_code_signal(record)
     return total_hits, bool(total_hits >= min_hits and has_focus)
 
 
@@ -90,7 +112,7 @@ def main() -> None:
         f"- Requested date: {summary.get('requested_date')}",
         f"- Candidate records: {summary.get('records_total', 0)}",
         f"- High-value matches: {len(selected)}",
-        f"- Threshold: total term hits >= {args.min_hits} and includes one focus term",
+        f"- Threshold: total term hits >= {args.min_hits} and includes one focus term or NAICS/PSC accessibility signal",
         "",
     ]
 

@@ -264,6 +264,10 @@ Tracks:
 python scripts/generate_alerts.py --min-hits 8
 ```
 
+High-value selection requires at least one focus term match (for example:
+accessibility, WCAG, VPAT, OpenACR, web, API) **or** a digital NAICS/PSC code
+signal associated with ICT work where Section 508/ACR considerations are likely.
+
 Alert artifacts:
 - `data/today/high_value_matches.json`
 - `data/today/high_value_alert.md`
