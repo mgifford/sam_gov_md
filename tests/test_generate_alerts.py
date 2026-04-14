@@ -42,6 +42,30 @@ class TestScoreRecord:
         _, include = ga.score_record(record, min_hits=8)
         assert include is False
 
+    def test_qualifies_with_digital_naics_signal(self) -> None:
+        record = {
+            "matches": [{"term": "platform", "count": 20}],
+            "NaicsCode": "541512",
+        }
+        _, include = ga.score_record(record, min_hits=8)
+        assert include is True
+
+    def test_qualifies_with_digital_psc_signal(self) -> None:
+        record = {
+            "matches": [{"term": "platform", "count": 20}],
+            "ClassificationCode": "D399",
+        }
+        _, include = ga.score_record(record, min_hits=8)
+        assert include is True
+
+    def test_non_digital_naics_without_focus_term_still_disqualified(self) -> None:
+        record = {
+            "matches": [{"term": "platform", "count": 20}],
+            "NaicsCode": "236220",
+        }
+        _, include = ga.score_record(record, min_hits=8)
+        assert include is False
+
     def test_empty_matches_returns_zero_not_included(self) -> None:
         total, include = ga.score_record({"matches": []}, min_hits=8)
         assert total == 0

@@ -646,6 +646,7 @@ def main() -> None:
                     "PostedDate": row.get("PostedDate"),
                     "Agency": row.get("Department/Ind.Agency"),
                     "NaicsCode": row.get("NaicsCode"),
+                    "ClassificationCode": row.get("ClassificationCode"),
                     "Link": row.get("Link"),
                     "matches": details["terms"][:8],
                 }
