@@ -62,11 +62,10 @@ def test_search_headings_do_not_skip_levels() -> None:
     first_level = int(heading_matches[0].group(1))
     assert first_level == 1
 
-    filters_heading = next(match for match in heading_matches if "Filters" in match.group(2))
+    filters_heading = next((match for match in heading_matches if "Filters" in match.group(2)), None)
+    assert filters_heading is not None
     assert int(filters_heading.group(1)) == 2
 
     heading_levels = [int(match.group(1)) for match in heading_matches]
-    previous_level = heading_levels[0]
-    for level in heading_levels[1:]:
+    for previous_level, level in zip(heading_levels, heading_levels[1:]):
         assert level <= previous_level + 1, f"Heading skipped from h{previous_level} to h{level}"
-        previous_level = level
