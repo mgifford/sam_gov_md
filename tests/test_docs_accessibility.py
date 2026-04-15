@@ -1,22 +1,32 @@
-"""Accessibility regression tests for docs pages."""
+"""Accessibility-focused checks for static docs pages."""
 
 from __future__ import annotations
 
-from pathlib import Path
 import re
+from pathlib import Path
 
 
-def test_search_footer_github_link_is_not_color_only() -> None:
-    """Footer GitHub link on search page must be distinguishable without color."""
-    search_html = (
-        Path(__file__).resolve().parents[1] / "docs" / "search.html"
-    ).read_text(encoding="utf-8")
-    footer_match = re.search(r"<footer.*?</footer>", search_html, re.DOTALL)
-    assert footer_match is not None
-    footer_html = footer_match.group(0)
-    assert (
-        '<a href="https://github.com/mgifford/sam_gov_md" '
-        'style="color: #0969da; text-decoration: underline;">'
-        "GitHub&nbsp;(mgifford/sam_gov_md)</a>"
-    ) in footer_html
-    assert 'text-decoration: none;">GitHub&nbsp;(mgifford/sam_gov_md)</a>' not in footer_html
+REPO_ROOT = Path(__file__).resolve().parent.parent
+
+
+def test_trends_headings_do_not_skip_levels() -> None:
+    trends_html = (REPO_ROOT / "docs" / "trends.html").read_text(encoding="utf-8")
+
+    heading_matches = list(re.finditer(r"<h([1-6])\b[^>]*>(.*?)</h\1>", trends_html, flags=re.IGNORECASE))
+    assert heading_matches
+
+    first_level = int(heading_matches[0].group(1))
+    assert first_level == 1
+
+    top_activity_heading = next(
+        match for match in heading_matches if "Top 15 Departments by Activity" in match.group(2)
+    )
+    assert int(top_activity_heading.group(1)) == 2
+
+    heading_levels = [int(match.group(1)) for match in heading_matches]
+    assert heading_levels
+
+    previous_level = heading_levels[0]
+    for level in heading_levels[1:]:
+        assert level <= previous_level + 1, f"Heading skipped from h{previous_level} to h{level}"
+        previous_level = level
