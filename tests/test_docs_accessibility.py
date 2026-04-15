@@ -32,14 +32,17 @@ def test_trends_headings_do_not_skip_levels() -> None:
         previous_level = level
 
 
-def test_search_footer_github_link_is_distinguishable_without_color() -> None:
+def test_search_footer_link_distinguishable_without_color() -> None:
     search_html = (REPO_ROOT / "docs" / "search.html").read_text(encoding="utf-8")
 
-    link_match = re.search(
-        r'<a\s+href="https://github\.com/mgifford/sam_gov_md"[^>]*>',
+    footer_match = re.search(
+        r"<footer\b[^>]*>.*?</footer>",
         search_html,
-        flags=re.IGNORECASE,
+        flags=re.IGNORECASE | re.DOTALL,
     )
+    assert footer_match is not None
+
+    link_match = re.search(r"<a\b[^>]*>", footer_match.group(0), flags=re.IGNORECASE)
     assert link_match is not None
 
     opening_tag = link_match.group(0)
