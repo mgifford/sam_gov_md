@@ -30,3 +30,18 @@ def test_trends_headings_do_not_skip_levels() -> None:
     for level in heading_levels[1:]:
         assert level <= previous_level + 1, f"Heading skipped from h{previous_level} to h{level}"
         previous_level = level
+
+
+def test_footer_github_links_are_underlined() -> None:
+    footer_files = [
+        REPO_ROOT / "docs" / "index.html",
+        REPO_ROOT / "docs" / "trends.html",
+        REPO_ROOT / "docs" / "_layouts" / "default.html",
+    ]
+
+    for html_file in footer_files:
+        html = html_file.read_text(encoding="utf-8")
+        assert (
+            'href="https://github.com/mgifford/sam_gov_md" style="color: #0969da; text-decoration: underline;"'
+            in html
+        ), f"Expected underlined footer GitHub link in {html_file}"
