@@ -30,3 +30,21 @@ def test_trends_headings_do_not_skip_levels() -> None:
     for level in heading_levels[1:]:
         assert level <= previous_level + 1, f"Heading skipped from h{previous_level} to h{level}"
         previous_level = level
+
+
+def test_search_footer_github_link_is_distinguishable_without_color() -> None:
+    search_html = (REPO_ROOT / "docs" / "search.html").read_text(encoding="utf-8")
+
+    link_match = re.search(
+        r'<a\s+href="https://github\.com/mgifford/sam_gov_md"[^>]*>',
+        search_html,
+        flags=re.IGNORECASE,
+    )
+    assert link_match is not None
+
+    opening_tag = link_match.group(0)
+    assert re.search(
+        r"text-decoration\s*:\s*underline",
+        opening_tag,
+        flags=re.IGNORECASE,
+    ), "Footer GitHub link must be visually distinguishable without relying on color."
