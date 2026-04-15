@@ -51,3 +51,18 @@ def test_search_footer_link_distinguishable_without_color() -> None:
         opening_tag,
         flags=re.IGNORECASE,
     ), "Footer GitHub link must be visually distinguishable without relying on color."
+
+
+def test_search_has_exactly_one_main_landmark() -> None:
+    search_html = (REPO_ROOT / "docs" / "search.html").read_text(encoding="utf-8")
+
+    main_element_matches = re.findall(r"<main\b[^>]*>", search_html, flags=re.IGNORECASE)
+    explicit_main_role_matches = re.findall(
+        r"<(?!main\b)[a-z0-9:-]+\b[^>]*\brole\s*=\s*['\"]main['\"][^>]*>",
+        search_html,
+        flags=re.IGNORECASE,
+    )
+
+    assert len(main_element_matches) + len(explicit_main_role_matches) == 1, (
+        "Search page must expose exactly one main landmark."
+    )
