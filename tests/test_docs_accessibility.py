@@ -30,3 +30,17 @@ def test_trends_headings_do_not_skip_levels() -> None:
     for level in heading_levels[1:]:
         assert level <= previous_level + 1, f"Heading skipped from h{previous_level} to h{level}"
         previous_level = level
+
+
+def test_search_back_link_is_contained_in_landmarks() -> None:
+    search_html = (REPO_ROOT / "docs" / "search.html").read_text(encoding="utf-8")
+
+    header_with_back_link = re.search(
+        r"<header\b[^>]*role=['\"]banner['\"][^>]*>.*?<nav\b[^>]*>.*?<a\b[^>]*class=['\"][^'\"]*back-link[^'\"]*['\"][^>]*>.*?</a>",
+        search_html,
+        flags=re.IGNORECASE | re.DOTALL,
+    )
+    assert header_with_back_link, "Back link must be inside a banner landmark and nested navigation landmark."
+
+    assert re.search(r"<main\b[^>]*role=['\"]main['\"]", search_html, flags=re.IGNORECASE)
+    assert re.search(r"<footer\b[^>]*role=['\"]contentinfo['\"]", search_html, flags=re.IGNORECASE)
