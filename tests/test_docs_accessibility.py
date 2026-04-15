@@ -32,21 +32,22 @@ def test_trends_headings_do_not_skip_levels() -> None:
         previous_level = level
 
 
-def test_footer_github_links_are_underlined() -> None:
-    footer_files = [
-        REPO_ROOT / "docs" / "index.html",
-        REPO_ROOT / "docs" / "trends.html",
-        REPO_ROOT / "docs" / "_layouts" / "default.html",
-    ]
+def test_search_footer_link_distinguishable_without_color() -> None:
+    search_html = (REPO_ROOT / "docs" / "search.html").read_text(encoding="utf-8")
 
-    for html_file in footer_files:
-        html = html_file.read_text(encoding="utf-8")
-        link_match = re.search(
-            r'<a\b[^>]*href="https://github\.com/mgifford/sam_gov_md"[^>]*>',
-            html,
-            flags=re.IGNORECASE,
-        )
-        assert link_match, f"Expected footer GitHub link in {html_file}"
-        assert re.search(r"text-decoration\s*:\s*underline", link_match.group(0), flags=re.IGNORECASE), (
-            f"Expected underlined footer GitHub link in {html_file}"
-        )
+    footer_match = re.search(
+        r"<footer\b[^>]*>.*?</footer>",
+        search_html,
+        flags=re.IGNORECASE | re.DOTALL,
+    )
+    assert footer_match is not None
+
+    link_match = re.search(r"<a\b[^>]*>", footer_match.group(0), flags=re.IGNORECASE)
+    assert link_match is not None
+
+    opening_tag = link_match.group(0)
+    assert re.search(
+        r"text-decoration\s*:\s*underline",
+        opening_tag,
+        flags=re.IGNORECASE,
+    ), "Footer GitHub link must be visually distinguishable without relying on color."
