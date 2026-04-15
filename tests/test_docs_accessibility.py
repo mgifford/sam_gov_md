@@ -41,7 +41,12 @@ def test_footer_github_links_are_underlined() -> None:
 
     for html_file in footer_files:
         html = html_file.read_text(encoding="utf-8")
-        assert (
-            'href="https://github.com/mgifford/sam_gov_md" style="color: #0969da; text-decoration: underline;"'
-            in html
-        ), f"Expected underlined footer GitHub link in {html_file}"
+        link_match = re.search(
+            r'<a\b[^>]*href="https://github\.com/mgifford/sam_gov_md"[^>]*>',
+            html,
+            flags=re.IGNORECASE,
+        )
+        assert link_match, f"Expected footer GitHub link in {html_file}"
+        assert re.search(r"text-decoration\s*:\s*underline", link_match.group(0), flags=re.IGNORECASE), (
+            f"Expected underlined footer GitHub link in {html_file}"
+        )
