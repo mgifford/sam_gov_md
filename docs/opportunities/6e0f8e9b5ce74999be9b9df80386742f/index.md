@@ -1,0 +1,29 @@
+---
+layout: default
+title: COMBINED SOURCES SOUGHT NOTICE AND NOTICE OF INTENT TO SOLE SOURCE: 1552.93 NM LASER SYSTEM
+agency: COMMERCE, DEPARTMENT OF
+notice_type: Special Notice
+notice_id: 6e0f8e9b5ce74999be9b9df80386742f
+---
+
+# COMBINED SOURCES SOUGHT NOTICE AND NOTICE OF INTENT TO SOLE SOURCE: 1552.93 NM LASER SYSTEM
+
+- Agency: COMMERCE, DEPARTMENT OF
+- Type: Special Notice
+- Posted: 2026-04-14 11:40:25.063-04
+- Solicitation Number: NIST-SSN-NOI-26-6800992
+
+## Summary
+
+COMBINED SOURCES SOUGHT NOTICE AND NOTICE OF INTENT TO SOLE SOURCE Announcement Type: Special Notice Announcement Number: NIST-SSN-NOI-26-6800992 Subject: 1552.93 nm Laser System Applicable NAICS: 334513 - Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables with size standard of 750 employees Applicable PSC: 6685 - Pressure, Temperature, and Humidity Measuring and Controlling Instruments Purpose This is a combined sources sought notice and notice of intent to sole source, not a request for a quotation. NIST is seeking information from sources that may be capable of providing a solution that will achieve the essential requirements included in the “Description” section below. If no alternate sources are identified, the Government intends to negotiate a firm-fixed price purchase order on a sole source basis with NKT Photonics, Inc. (UEI: WJNUYEZ9UT11) located at 23 Drydock Avenue, Boston, MA 02210. This action will be conducted under the authority of FAR RFO Part 12.102(a) and 41 USC 1901, allowing the Contracting Officer (CO) to solicit from one source. Delivery will be required within fifteen weeks after contractor receipt of order. Description The Contractor shall provide one laser system which meets the minimum requirements identified below. Design Wavelength: centered at 1550 nm Tunable range of at least 100 nm Maximum tuning step size 10 pm Stable single frequency operation Must be coupled to polarization maintaining fiber (FC/APC) with an output power (through the fiber) of at least 3 mW Linewidth < 1 kHz Relative Intensity Noise less than -150 dBc / Hz at 1 MHz Include power supply and all communication electronics Includes software control Background The National Institute of Standards and Technology (NIST) Sensor Science Division is investigating the use of the ruggedized optical-based pressure metrology using NIST-designed Fixed Length Optical Cavity (FLOC) technology. The purpose of this investigation is to provide air data calibration capability for US Air Force calibration laboratories. The FLOC measures pressure by measuring the change in the resonant frequency of an optical cavity that results from a change in the refractive index that occurs when gas is added. NIST owns and uses NKT Photonics Mikro lasers in the prototype system developed for this investigation. NIST intends to duplicate the prototype system so that both a control version and a version into which variables may be incorporated are available for further research efforts. Based on market research conducted between January 2026 and April 2026, including speaking with colleagues, performing internet searches, and speaking with vendors to determine what sources could meet NIST’s minimum requirements, only NKT Photonics, Inc. appears to be capable of meeting the Government's requirements; the NKT Photonics, Inc. lasers in the original prototype are proprietary to this contractor and NKT Photonics, Inc. does not authorize resellers of its equipment. How to Respond to this Notice Interested parties that believe they could satisfy the requirements listed above for NIST may clearly and unambiguously identify their capability to do so in writing by or before the response date for this notice. This is a combined sources sought notice and notice of intent to sole source is not a solicitation. Any questions regarding this notice must be submitted in writing via email to Ms. Lauren Roller, Contract Specialist, at Lauren.Roller@nist.gov. All responses to this notice of intent must be submitted via email to Lauren.Roller@nist.gov so that they are received no later than April 28, 2026 at 11:00 AM Eastern Time. Each response should include the following Business Information: Contractor Name, Address, Point of Contact Name, Phone Number, and Email address Contractor UEI Contractor Business Classification (i.e., small business, 8(a), woman owned, hubZone, veteran owned, etc.) as validated in System for Award Management (SAM). All offerors must have an active registration in www.SAM.gov. Capability Statement describing what your company is capable of providing to meet the Government’s needs Important Notes The information received in response to this notice will be reviewed and considered so that the NIST may appropriately solicit for its requirements in the near future. This notice should not be construed as a commitment by the NIST to issue a solicitation or ultimately award a contract. This notice is not a request for a quotation. Responses will not be considered as proposals or quotations. No award will be made as a result of this notice. NIST is not responsible for any costs incurred by the respondents to this notice. NIST reserves the right to use information provided by respondents for any purpose deemed necessary and appropriate. Thank you for taking the time to submit a response to this request!
+
+## Contacts
+
+- Primary Contact:
+  - Name: Lauren P. Roller
+  - Email: lauren.roller@nist.gov
+  - Phone: 3019753062
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6e0f8e9b5ce74999be9b9df80386742f/view)

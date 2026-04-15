@@ -1,0 +1,31 @@
+---
+layout: default
+title: DJ10--Data Monitoring and Sensing - Structured Data - RFI (VA-26-00050089)
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: b08226f7fe8d421a9be8b94cf573f521
+---
+
+# DJ10--Data Monitoring and Sensing - Structured Data - RFI (VA-26-00050089)
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-04-14 12:50:37.044-04
+- Solicitation Number: 36C10B26Q0249
+- Awardee: null
+
+## Summary
+
+INTRODUCTION THIS IS A REQUEST FOR INFORMATION (RFI) ONLY. This request is for planning purposes only and does not constitute a Request for Quotation (RFQ), a Solicitation, or an indication that the Government will award a contract for the items contained in this RFI. This notice is not to be construed as a commitment on the part of the Government to award a contract, nor does the Government intend to pay for any information submitted as a result of this request. The Government does not reimburse respondents for any costs associated with submission of the information being requested or, reimburse expenses incurred for responses to this RFI. Companies are encouraged to respond if they have the capability and/or capacity to provide the items identified below. This RFI notice is part of the Government s Market Research, a continuous process for obtaining the latest information from industry, with respect to their current and near-term abilities. If there are not multiple responses to this RFI from preferred socioeconomic categories, any future RFQs for this requirement will be open to ALL Contract Holders in all Groups under the applicable North American Industry Classification System (NAICS). The Government requests information regarding whether or not vendors can provide any/all of the products identified; please see the attached draft Product Description (PD). Interested parties are responsible for adequately marking proprietary, restricted or competition sensitive information contained in their response. The NAICS for this requirement is undecided at this time. Small Business companies with the capability to perform this requirement, in total or in part, are encouraged to participate. If you are interested only in subcontracting opportunities, please indicate this fact clearly in your submission. Please indicate a suggested NAICS code for the requirement requested under this request for information. Please indicate your company size and socio-economic status for applicable NAICS codes. Be advised that set-aside decisions may be made based on the information provided in response to this RFI. Responses should be as complete and informative as possible. RFI RESPONSE INSTRUCTIONS There is a page limitation for this RFI of ten pages. The Government will not review any other information or attachments included, that are in excess of the ten page limit. NO MARKETING MATERIALS ARE ALLOWED AS PART OF THIS RFI. Generic capability statements will not be accepted or reviewed. Your response must address capabilities specific to the services required in the attached DRAFT PD and must include the following: Interested Vendors shall at a minimum, provide the following information in the initial paragraph of the submission: Name of Company SAM Unique Entity ID Commercial and Government Entity Code Address Point of Contact Name Phone Number Fax Number Email address Company Business Size and Status NAICS code(s) Socioeconomic data Existing Contractual Vehicles the contractor holds for providing these services (Government-Wide Acquisition Contract (GWAC), Federal Supply Schedule, other agency GWACs or Multiple Award Contract, etc.) For Service-Disabled Veteran Owned Small Business (SDVOSB) / Veteran Owned Small Business (VOSB), proof of verification in the U.S Small Business Administration Veteran Small Business Certification. Provide a summary of your capability to meet the requirements contained within the draft PD for the following areas: Provide a summary of your technical capability to meet the PD requirements. Provide a brief explanation on how you would approach this requirement. Please provide an informal quote for this requirement. Corporate experience or expertise in performing these services and specific examples or references. Specific examples or references provided must include the agency, point of contact, dollar value, and contract number. For SDVOSB/ VOSB concerns, indicate whether at least 50 percent of the cost of performance incurred is planned to be expended for employees of your concern or employees of other eligible SDVOSB/VOSB concerns. Has the DRAFT PD provided sufficient detail to describe the technical requirements that encompass the software development and production operations support services to be performed under this effort. _____ YES ______ NO (if NO, answer question g.) If NO , please provide your technical comments/recommendations on elements of the DRAFT PD that may contribute to a more accurate proposal submission and efficient, cost-effective effort. RESPONSES Responses are due no later than 1:00 p.m. ET, April 24, 2026 via email to Contract Specialist Jennifer Jefferson at Jennifer.jefferson@va.gov and Contracting Officer John Vardouniotis at ioannis.vardouniotis@va.gov. Please note Zero Trust Data Monitoring RFI in the subject line of your response. Mark your response as Proprietary Information if the information is considered business sensitive. The email file size shall not exceed 20 MB. Note: Provide a capability package that is clear, concise, and complete. VA is under no obligation to provide feedback to the company, or to contact the company for clarification of any information submitted in response to this RFI. OFFERORS ARE ADVISED THAT THIS REQUIREMENT MAY BE DELAYED, CANCELED, OR REVISED AT ANY TIME.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Jennifer Jefferson
+  - Title: Contract Specialist
+  - Email: jennifer.jefferson@va.gov
+  - Phone: (848) 377-5339
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b08226f7fe8d421a9be8b94cf573f521/view)

@@ -1,0 +1,29 @@
+---
+layout: default
+title: GRIT REMOVAL
+agency: HOMELAND SECURITY, DEPARTMENT OF
+notice_type: Combined Synopsis/Solicitation
+notice_id: 763d30967aec43988b27d5878cec3eb9
+---
+
+# GRIT REMOVAL
+
+- Agency: HOMELAND SECURITY, DEPARTMENT OF
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-04-14 11:15:14.547-04
+- Solicitation Number: 70Z04026Q60552Y00
+
+## Summary
+
+This is a combined synopsis/solicitation for commercial items, prepared in accordance with the format in subpart 12.6 of the FAR and as supplemented with additional information included in this notice. This announcement constitutes only solicitation; quotes are being requested and a separate written solicitation will not be issued. Solicitation number 2126406Y61K6597004 applies and is used as a Request for Quote (RFQ). This solicitation document and incorporated provisions and clauses are those in effect through Federal Acquisition Circular (FAC) 2024-05, dated 22 May 2024. It is anticipated that a competitive price purchase order shall be awarded as a result of this synopsis/solicitation. All responsible sources may submit a quotation, which if timely received, shall be considered by this agency. The U.S. Coast Guard, Surface Forces Logistics Center (SFLC) intends to award a Firm Fixed Price Purchase Order. No down payments or advanced payments will be made to the awarded vendor. Vendor shall ensure they can secure funding for this order until delivered and received by the US Coast Guard. Payment will be made by Government Purchase order (Net 30) and the vendor shall assume financial responsibility until the order is accepted and received by US Coast Guard. Payment of the work is authorized to be submitted as work is completed but must be approved by the Contracting Officer First. Basis for Award: This solicitation is based on FAR 13 – Simplified Acquisition Procedures and quotes will be reviewed and awarded on a Best Value basis per the solicitation. Past performance will only be reviewed for “responsibility” basis per FAR 9.1. The evaluation criteria for the quotes will be who meets all the technical requirements, who meets our deadlines and price. All quotes shall be emailed to Erica Gibbs via Erica.L.Gibbs@uscg.mil and shall be received no later than 04/29/2026 at 9:00 A.M. (Eastern). All emailed quotes shall have 2126406Y61K6597004 in the subject of the email. Vendor Information: Entity Name Entity Unique Entity ID Entity Address Entity POC Entity Phone Number POC Email Address Vendor shall provide: Line 1: GRIT REMOVAL AND DISPOSAL DESCRIPTION: GRIT REMOVAL AND DISPOSAL APPROXIMATELY 60 TONS OF 80 MESH GARNET. The Contractor shall provide all personnel, equipment, tools, supervision, and other items necessary to remove the materials from inside the enclosure, dust drums, duct collector, surrounding area, and the deck of the vessel. The contractor must comply to the Coast Guard Yard Statement of Work for Non-Hazardous Grit Removal & Disposal. Unit of Issue: 1 JB Line Total: Estimated Performance Date: *All Work must be completed in accordance with the attached Statement of Work for the order. *Services are Required to be complete by JUNE 28, 2026* Place of Performance: U.S. COAST GUARD YARD ATTN: 154’ RICHARD SNYDER 2401 HAWKINS POINT ROAD BALTIMORE, MD 21226 Invoicing In IPP It is a requirement that all invoicing for Purchase Orders will now be entered and processed through https://www.ipp.gov. All invoices must contain the following information: CG Purchase Order number, vendor’s invoice number, cage number, PO item number, description of supplies or services, unit prices and extended totals (INVOICES FOR PURCHASE ORDERS AWARDED BY SURFACE FORCE LOGISTICS CENTER, BALTIMORE ARE TO BE SUMITTED AS NON-PO IN IPP). Shipping costs will be indicated as a separate line item on the invoice (if applicable). Shipping costs of $100 or more must be accompanied by a separate freight invoice when submitting an invoice(s) for payment (if applicable). To submit an invoice, vendor must have access to www.ipp.gov. To gain access please indicate if you don’t have an account. The issuing office can establish one for you. FAR Clauses This order is subject to but is not limited to the following Federal Acquisition Regulations: 52.204-24 Representation Regarding Certain Telecommunications and Video Surveillance Services or Equipment. 52.204-26 Covered Telecommunications Equipment or Services-Representation. 52.212-1 Instructions to Offerors—Commercial Products and Commercial Services. 52.212-3 Offeror Representations and Certifications—Commercial Products and Commercial Services. 52.204-23 Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab Covered Entities. 52.204-25 Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment. 52.212-4 Contract Terms and Conditions — Commercial Products and Commercial Services. 52.212-5 Contract Terms and Conditions Required To Implement Statutes or Executive Orders—Commercial Products and Commercial Services.
+
+## Contacts
+
+- Primary Contact:
+  - Name: ERICA GIBBS
+  - Email: ERICA.L.GIBBS@USCG.MIL
+  - Phone: 2068155371
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/763d30967aec43988b27d5878cec3eb9/view)

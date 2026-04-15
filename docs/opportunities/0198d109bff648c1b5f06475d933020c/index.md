@@ -1,0 +1,28 @@
+---
+layout: default
+title: BACKSHELL, SWINGARM, NSN 1680 LLF02L001, PN BACC10MM10
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 0198d109bff648c1b5f06475d933020c
+---
+
+# BACKSHELL, SWINGARM, NSN 1680 LLF02L001, PN BACC10MM10
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-04-14 13:48:10.561-04
+- Solicitation Number: N0038326QSA54
+
+## Summary
+
+ITEM NAME: BACKSHELL, SWINGARM NSN: 1680 LLF02L001 PN: BACC10MM10 QTY 1 EA SEE ATTACHED FULL SOLICITATION DOCUMENT.
+
+## Contacts
+
+- Primary Contact:
+  - Name: NADIA GOVORUSHKO, N763.03, PHONE (215)697-2813, FAX (215)697-0189, EMAIL NADIA.GOVORUSHKO.CIV@US.NAVY.MIL
+  - Email: NADIA.GOVORUSHKO.CIV@US.NAVY.MIL
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0198d109bff648c1b5f06475d933020c/view)

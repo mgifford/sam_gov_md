@@ -1,0 +1,28 @@
+---
+layout: default
+title: RAIL ASSY, RIVETED, NSN: 1680 LLF02O039, PN 808034-211
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 54120f81a9034487979023796c86d15a
+---
+
+# RAIL ASSY, RIVETED, NSN: 1680 LLF02O039, PN 808034-211
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-04-14 14:08:07.836-04
+- Solicitation Number: N0038326QSA56
+
+## Summary
+
+ITEM NAME: RAIL ASSY, RIVETED NSN: 1680 LLF02O039 PN: 808034-211 QTY 1 EA SEE ATTACHED SOLICITATION DOCUMENT
+
+## Contacts
+
+- Primary Contact:
+  - Name: NADIA GOVORUSHKO, N763.03, PHONE (215)697-2813, FAX (215)697-0189, EMAIL NADIA.GOVORUSHKO.CIV@US.NAVY.MIL
+  - Email: NADIA.GOVORUSHKO.CIV@US.NAVY.MIL
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/54120f81a9034487979023796c86d15a/view)

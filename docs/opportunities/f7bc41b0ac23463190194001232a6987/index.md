@@ -1,0 +1,31 @@
+---
+layout: default
+title: Department of Education Small Business Innovation Research (SBIR) Direct to Phase II 2026: Pre-Solicitation
+agency: EDUCATION, DEPARTMENT OF
+notice_type: Presolicitation
+notice_id: f7bc41b0ac23463190194001232a6987
+---
+
+# Department of Education Small Business Innovation Research (SBIR) Direct to Phase II 2026: Pre-Solicitation
+
+- Agency: EDUCATION, DEPARTMENT OF
+- Type: Presolicitation
+- Posted: 2026-04-14 12:40:04.279-04
+- Solicitation Number: 91990026R0005
+
+## Summary
+
+The Institute of Education Sciences (IES) and the U.S. Department of Education (ED) anticipate the release of a 2026 Small Business Innovation Research Program (SBIR) Direct to Phase II solicitation #91990026R0005 on or about April 30, 2026. The proposal submission date will be in late June 2026, approximately 60 days after the solicitation release. The program, known as ED/IES SBIR, provides awards to eligible for-profit businesses and partners for the research and development and evaluation of new, commercially viable education technology products (“products”). The ED/IES SBIR Direct to Phase II solicitation will invite proposals for existing evidence-based innovations for awards of $1,000,000 over 2 years for R&D and evaluation of new education technology or special education technology products to ready existing researcher-developed evidence-based innovations (products, interventions, practices) for use at scale, and to plan for commercialization. Projects that focus on advancing innovations that are not evidence-based will not be eligible for the Direct to Phase II program. The existing education innovation is required to have originally been created by researchers at either universities (or other academic institutions) or non-profit education research organizations. Proposals to advance education technology projects that were originated by small businesses are not eligible for the Direct to Phase II program. One or more of the members of the research team that originally created the innovation are required to be part of the project team in the SBIR proposal. Direct to Phase II projects are awarded without a prior Phase I award. Small Business firms and partners who possess strong research and development and evaluation capabilities for education technology products in the below priority area are encouraged to participate. PRIORITY AREA Direct to Phase II: Projects to Develop New Education Technology Products to Ready Existing Evidence-Based Innovations for Use at Scale in Education Settings, and to Plan for Commercialization Three other 2026 ED/IES SBIR solicitations will be released on the same day as the Direct to Phase II solicitation: The Phase IA program solicitation 91990026R0003 will request proposals for the development and evaluation of a prototype of an entirely?novel?education technology product (where no or limited previous development has occurred) over a period of 9 months. The goal of the Phase IA track is to solicit proposals for ground-breaking high-risk high reward approaches to solve pressing problems in education. The Phase IB program solicitation 91990026R0004 will request proposals for the development of a new component to be integrated with an existing education technology prototype or product. The existing prototype or product is required to be research-based. The resulting product from Phase IB and II funding under this solicitation will be a new version of an education technology product. The Phase II program solicitation #91990026R0006 will request proposals for the development of new education technology products to ready existing evidence-based innovations (e.g., products, interventions, tools) for commercial use at scale. This program solicitation invites eligible small business firms who received and successfully completed a 2025 Phase IA or IB SBIR award from ED/IES to submit a 2026 Phase II proposal. Awards will be for $1,000,000 over a period of 2 years. Projects that focus on advancing innovations that are not evidence-based will not be eligible for the Phase II program. Important Notes: Offerors will not be permitted to submit the same or similar proposals under the 2026 Phase IA, IB, Direct to Phase II or Phase II solicitations. Any duplicate or similar proposals that are submitted under more than one of these 2026 solicitations will be rejected without review. For more information and specifications, please refer to the Phase IA, Phase IB, Direct to Phase II or Phase II solicitations after release. About the ED/IES SBIR Program The purpose of the SBIR program is to stimulate technological innovation in the private sector, strengthen the role of small business in meeting Department research and development needs, increase the commercial potential of Department-supported research results, and improve the return on investment from Federally funded research for economic and social benefits to the Nation. ED/IES SBIR provides awards to eligible for-profit businesses and partners for the research and development and evaluation of new, commercially viable education technology products (“products”). The ED/IES SBIR portfolio consists of research-based and commercially viable products that are widely deployed to address pressing needs in education. ED/IES SBIR is a highly competitive program – historically about 5 to 7% of submitted proposals resulted in a Phase I award, about 10% result in a Direct to Phase II award, and about 50% of Phase I awardees have won a Phase II award the following year. For more information about the ED/IES SBIR program, please see:? www.ies.ed.gov/sbir ?Please note: the primary means of communication with Department personnel is via email.? Please review the FAQ page to assist you in the preparation and submission of your proposal. FAQ page: https://ies.ed.gov/small-business-innovation-research-sbir/edies-sbir-frequently-asked-questions This notice is not a request for proposals at this time.? Interested parties should continue to monitor this posting for updates.
+
+## Contacts
+
+- Primary Contact:
+  - Name: David Yadeta
+  - Email: david.yadeta@ed.gov
+- Secondary Contact:
+  - Name: David Geary
+  - Email: david.geary@ed.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f7bc41b0ac23463190194001232a6987/view)

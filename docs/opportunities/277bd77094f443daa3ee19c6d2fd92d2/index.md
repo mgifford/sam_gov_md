@@ -1,0 +1,29 @@
+---
+layout: default
+title: VALVE SOLENOID
+agency: HOMELAND SECURITY, DEPARTMENT OF
+notice_type: Combined Synopsis/Solicitation
+notice_id: 277bd77094f443daa3ee19c6d2fd92d2
+---
+
+# VALVE SOLENOID
+
+- Agency: HOMELAND SECURITY, DEPARTMENT OF
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-04-14 15:45:15-04
+- Solicitation Number: 70Z08026Q056
+
+## Summary
+
+The United States Coast Guard Surface Forces Logistics Center has a requirement and requesting quotations for the following 1.NSN:4810 01 625 9215 QTY: 14 EACH VALVE SOLENOID MFG NAME:parker hannafin PART_NUMBER:60-0162 BARCODING AND LABELING IS NOT WAIVED!!!!! EACH ITEM SHALL BE INDIVIDUALLY PRESERVED AND PACKAGED AS APPROPRIATE IN ACCORDANCE WITH MIL-STD-2073-1E METHOD 10 IN AN APPROPRIATELY SIZED ASTM-D6251 TYPE III, CLASS 1 WOOD-CLEATED PANEL-BOARD SHIPPING BOX, ASTMD6880 CLASS 2 HEAVY DUTY SCREWED WOODEN BOX OR ASTM-D5118 HEAVY DUTY DOUBLE-WALL FIBERBOARD BOX AS APPROPRIATE CUSHIONED OR SECURED TO PREVENT DAMAGE FROM MOVEMENT OR EXTERNAL IMPACTS. ANY CRATES OR BOXES WEIGHING OVER 50 LBS SHALL BE SKID MOUNTED OR SECURED TO AN APPROPRIATE SIZED PALLET TO FACILITATE FORKLIFT USE. MARKING IAW MIL-STD-129R EXCEPT BAR CODED IAW ISO/IEC-16388-2007, CODE 39 SYMBOLOGY ALL ITEMS ARE INSPECTED WHEN DELIVERED TO THE COAST GUARD WAREHOUSE. FAILURE TO MEET THE REQUIREMENTS FOR PACKAGING, PACKING, MARKING (PP&M) AND BAR-CODING WILL RESULT IN THE ITEM(S) BEING REJECTED AND POSSIBLY RETURNED TO THE VENDOR. Delivery shall be F.O.B. DESTINATION to USCG Surface Forces Logistics Center, 2401 Hawkins Point Road, Baltimore MD 21226 Required delivery date no later than: 5/19/26 This is a combined synopsis/solicitation for a commercial item prepared in accordance with the format outlined in FAR Subpart 12.6, FAC 2025-06 and as supplemented with additional information included in this notice. This announcement constitutes the only solicitation. Quotations are being requested and a written solicitation will not be issued. The NAICS code for this solicitation is 332912 and the business size standard is 750. The resultant purchase order will be awarded using simplified acquisition procedures in accordance with FAR 13 All responsible sources may submit a quotation via email to Nina.m.crosby@uscg.mil, which if timely received, shall be considered by the Agency. Companies must have valid DUNS numbers and be registered with SYSTEMS FOR AWARD MANAGEMENT (SAM) and shall provide the company Tax Information Number (TIN) with their offer. The closing date and time for receipt of quote is 4/17/26 10 AM Eastern Standard Time OFFERORS MUST SUBMIT THE FOLLOWING INFORMATION ON THEIR QUOTE: Disclosure: The offeror under this solicitation represents that [Check one]: __ it is not a foreign incorporated entity that should be treated as an inverted domestic corporation pursuant to the criteria of (HSAR) 48 CFR 3009.104-70 through 3009.104-73; __ it is a foreign incorporated entity that should be treated as an inverted domestic corporation pursuant to the criteria of (HSAR) 48 CFR 3009.104-70 through 3009.104-73, but it has submitted a request for waiver pursuant to 3009.104-74, which has not been denied; or __it is a foreign incorporated entity that should be treated as an inverted domestic corporation pursuant to the criteria of (HSAR) 48 CFR 3009.104-70 through 3009.104-73, but it plans to submit a request for waiver pursuant to 3009.104-74. (g) A copy of the approved waiver, if a waiver has already been granted, or the waiver request, if a waiver has been applied for, shall be attached to the bid or proposal. (End of provision) The following FAR Clauses provisions apply to this solicitation. FAR 52.212-1, Instructions to Offerors-Commercial Items (nov 2023); FAR 52.212-3, Offeror Representations and Certifications-Commercial Items (FEB 2023) with Alternate I. Offeror(s) must include a completed copy of FAR 52.212-3 with their quote. The following FAR Clauses apply to this solicitation. Offerors may obtain full text versions of these clauses electronically at www.arnet.gov.; FAR 52.212-4, Contract Terms and Conditions-Commercial Items (dec 2023); FAR 52.212-5, Contract Terms & Conditions Required to Implement Statutes or Executive Orders-Commercial Items (dec 2023). The following clauses listed within FAR 52.212-5 are applicable: FAR 52.219-6 Notice of Total Small Business Set-Aside (Nov 2020)(15 U.S.C. 644), FAR 52.219-28, Post Award Small Business Program representation (oct2022)(15 U.S.C. 632(a)(2); FAR 52.222-3, Convict Labor (Jun 2003)(E.O. 11755); FAR 52.222-19 Child Labor-Cooperation with Authorities and Remedies (Feb 2016) (E.O. 13126); FAR 52.222-21, Prohibition of Segregated Facilities (April 2015); FAR 52.222-26, Equal Opportunity (April 2015)(E.O. 11246); FAR 52.222-36, Equal Opportunity for workers with disabilities (July 2014); FAR 52.223-18 Contractor Policy to Ban Text Messaging while Driving (Aug 2011) (E.O. 13513); FAR 52.225.1 Buy American Act-Supplies (May 2014); FAR 52.225-3, Buy American Act-Free Trade Agreement (dec 2022)(41 U.S.C. 10a-10d); FAR 52.225-13, Restrictions on Certain Foreign Purchases (Jun 2008); 52.232-33, Payment by Electronic Funds Transfer-Central Contractor Registration (July 2013)(31 U.S.C. 3332). The following items are incorporated as addenda to this solicitation: Copies of HSAR clauses may be obtained electronically at www.dhs.gov. CGAP 3042.302-90 Valuation Requirements for the Acquisition of Spare Parts Purchased for Inventory Control Points from HQ Contracts (OCT 2008). Copies of CGAP clauses may be obtained electronically at: www.uscg.mil/acquisition/procurement/pdf/CIM_4200_19H.pdf
+
+## Contacts
+
+- Primary Contact:
+  - Name: NINA CROSBY
+  - Email: NINA.M.CROSBY@USCG.MIL
+  - Phone: 4107626658
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/277bd77094f443daa3ee19c6d2fd92d2/view)

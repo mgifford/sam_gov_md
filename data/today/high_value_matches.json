@@ -1,11 +1,12 @@
 {
-  "requested_date": "2026-04-14",
-  "effective_date": "2026-04-13",
-  "records_total": 1441,
-  "high_value_count": 21,
+  "requested_date": "2026-04-15",
+  "effective_date": "2026-04-14",
+  "records_total": 1956,
+  "high_value_count": 12,
   "min_hits": 8,
   "focus_terms": [
     "accessibility",
+    "acr",
     "api",
     "cloud",
     "cms",
@@ -24,67 +25,25 @@
   ],
   "matches": [
     {
-      "NoticeId": "4f4ea538e5694f11ab3f5587431c7a16",
-      "Sol#": "TMF5-1bRFI",
-      "Title": "ATR IT MODERNIZATION: DATA ANALYTICS SOLUTION",
-      "Type": "Sources Sought",
-      "PostedDate": "2026-04-13 16:22:51.594-04",
-      "Agency": "JUSTICE, DEPARTMENT OF",
-      "NaicsCode": "541519",
-      "Link": "https://sam.gov/workspace/contract/opp/4f4ea538e5694f11ab3f5587431c7a16/view",
-      "matches": [
-        {
-          "term": "analytics",
-          "category": "data",
-          "count": 16
-        },
-        {
-          "term": "platform",
-          "category": "technology",
-          "count": 3
-        },
-        {
-          "term": "cloud",
-          "category": "infrastructure",
-          "count": 2
-        },
-        {
-          "term": "modernization",
-          "category": "modernization",
-          "count": 2
-        },
-        {
-          "term": "azure",
-          "category": "infrastructure",
-          "count": 1
-        },
-        {
-          "term": "dashboard",
-          "category": "data",
-          "count": 1
-        }
-      ],
-      "total_hits": 25
-    },
-    {
-      "NoticeId": "fb8b0ea6992f43ac93a82f2829ae41ff",
-      "Sol#": "36C25726Q0387",
-      "Title": "6525--ENT/URO Scope Consumables *** BRAND NAME OR EQUAL***",
-      "Type": "Sources Sought",
-      "PostedDate": "2026-04-13 19:08:23.916-04",
+      "NoticeId": "7ad4de0ba74b4acabb59f9c711d86b96",
+      "Sol#": "36C24W26Q0122",
+      "Title": "7920--RFQ Janitorial Supplies | Bakersfield Clinic",
+      "Type": "Combined Synopsis/Solicitation",
+      "PostedDate": "2026-04-14 17:59:47.538-04",
       "Agency": "VETERANS AFFAIRS, DEPARTMENT OF",
-      "NaicsCode": "334510",
-      "Link": "https://sam.gov/workspace/contract/opp/fb8b0ea6992f43ac93a82f2829ae41ff/view",
+      "NaicsCode": "339994",
+      "ClassificationCode": "7920",
+      "Link": "https://sam.gov/workspace/contract/opp/7ad4de0ba74b4acabb59f9c711d86b96/view",
       "matches": [
-        {
-          "term": "cybersecurity",
-          "category": "security",
-          "count": 12
-        },
         {
           "term": "web",
           "category": "technology",
-          "count": 3
+          "count": 8
+        },
+        {
+          "term": "cybersecurity",
+          "category": "security",
+          "count": 4
         },
         {
           "term": "nist",
@@ -92,225 +51,52 @@
           "count": 3
         },
         {
-          "term": "software",
-          "category": "technology",
+          "term": "business_intelligence",
+          "category": "data",
           "count": 2
         },
         {
-          "term": "application",
-          "category": "technology",
-          "count": 2
-        },
-        {
-          "term": "api",
+          "term": "platform",
           "category": "technology",
           "count": 1
         },
+        {
+          "term": "fisma",
+          "category": "compliance",
+          "count": 1
+        }
+      ],
+      "total_hits": 19
+    },
+    {
+      "NoticeId": "829e8e101b654bca94bc15d5f822fc0a",
+      "Sol#": "SPE4A626Q0820",
+      "Title": "53--BOLT,SHEAR",
+      "Type": "Combined Synopsis/Solicitation",
+      "PostedDate": "2026-04-14 07:38:11.951-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "332722",
+      "ClassificationCode": "53",
+      "Link": "https://sam.gov/workspace/contract/opp/829e8e101b654bca94bc15d5f822fc0a/view",
+      "matches": [
         {
           "term": "ui",
           "category": "design",
-          "count": 1
+          "count": 19
         }
       ],
-      "total_hits": 24
+      "total_hits": 19
     },
     {
-      "NoticeId": "d289f5d175074e38a206293b7a4c01fd",
-      "Sol#": "N0010426RBL72",
-      "Title": "61--ASSY, UPS",
-      "Type": "Solicitation",
-      "PostedDate": "2026-04-13 10:04:10.751-04",
-      "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "335999",
-      "Link": "https://sam.gov/workspace/contract/opp/d289f5d175074e38a206293b7a4c01fd/view",
-      "matches": [
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 8
-        },
-        {
-          "term": "application",
-          "category": "technology",
-          "count": 2
-        },
-        {
-          "term": "business_intelligence",
-          "category": "data",
-          "count": 2
-        },
-        {
-          "term": "software",
-          "category": "technology",
-          "count": 1
-        },
-        {
-          "term": "cybersecurity",
-          "category": "security",
-          "count": 1
-        }
-      ],
-      "total_hits": 14
-    },
-    {
-      "NoticeId": "fc6aab9b6eb64f9988779c4fb4d9d718",
-      "Sol#": "P1HelpdeskServicesConsolidation",
-      "Title": "Notice of Intent to Consolidate Platform One Help Desk Support Services",
-      "Type": "Special Notice",
-      "PostedDate": "2026-04-13 15:45:10.875-04",
-      "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "541511",
-      "Link": "https://sam.gov/workspace/contract/opp/fc6aab9b6eb64f9988779c4fb4d9d718/view",
-      "matches": [
-        {
-          "term": "platform",
-          "category": "technology",
-          "count": 12
-        },
-        {
-          "term": "ux",
-          "category": "design",
-          "count": 1
-        }
-      ],
-      "total_hits": 13
-    },
-    {
-      "NoticeId": "1adda73a97b649acadcaab7d9f1478b9",
-      "Sol#": "W91CRB-26-Q-5003",
-      "Title": "Night Vision Device Accessories and Training for Foreign Military Sales",
-      "Type": "Combined Synopsis/Solicitation",
-      "PostedDate": "2026-04-13 14:29:15.67-04",
-      "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "333310",
-      "Link": "https://sam.gov/workspace/contract/opp/1adda73a97b649acadcaab7d9f1478b9/view",
-      "matches": [
-        {
-          "term": "software",
-          "category": "technology",
-          "count": 8
-        },
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 2
-        },
-        {
-          "term": "cybersecurity",
-          "category": "security",
-          "count": 2
-        },
-        {
-          "term": "application",
-          "category": "technology",
-          "count": 1
-        }
-      ],
-      "total_hits": 13
-    },
-    {
-      "NoticeId": "782282be56a648a89b621399b0f89a7c",
-      "Sol#": "W91CRB-26-Q-5003",
-      "Title": "Night Vision Device Accessories and Training for Foreign Military Sales",
-      "Type": "Combined Synopsis/Solicitation",
-      "PostedDate": "2026-04-13 13:43:35.911-04",
-      "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "333310",
-      "Link": "https://sam.gov/workspace/contract/opp/782282be56a648a89b621399b0f89a7c/view",
-      "matches": [
-        {
-          "term": "software",
-          "category": "technology",
-          "count": 8
-        },
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 2
-        },
-        {
-          "term": "cybersecurity",
-          "category": "security",
-          "count": 2
-        },
-        {
-          "term": "application",
-          "category": "technology",
-          "count": 1
-        }
-      ],
-      "total_hits": 13
-    },
-    {
-      "NoticeId": "bd5ef9d0d00647ef9cd6d66a33344480",
-      "Sol#": "RFI_MBMTRS_FA2330_Phase3",
-      "Title": "Request for Information Multi-Band Multifunction Tactical Radar System (MB-MTRS)",
-      "Type": "Sources Sought",
-      "PostedDate": "2026-04-13 10:30:45.469-04",
-      "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "334511",
-      "Link": "https://sam.gov/workspace/contract/opp/bd5ef9d0d00647ef9cd6d66a33344480/view",
-      "matches": [
-        {
-          "term": "agile",
-          "category": "development",
-          "count": 5
-        },
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 4
-        },
-        {
-          "term": "software",
-          "category": "technology",
-          "count": 2
-        },
-        {
-          "term": "application",
-          "category": "technology",
-          "count": 1
-        },
-        {
-          "term": "platform",
-          "category": "technology",
-          "count": 1
-        }
-      ],
-      "total_hits": 13
-    },
-    {
-      "NoticeId": "071641ce26264eef8e64686bf5ba77ec",
-      "Sol#": "47PB5126R0022",
-      "Title": "Solicitation Number 47PB5126R0022 - Centers for Medicare & Medicaid Services Headquarters (CMS) Back on Campus-Roofs & Elevators Project",
+      "NoticeId": "0ce51a7e87a34960b0c32227cb30f001",
+      "Sol#": "W912QR26-029536",
+      "Title": "Aerospace Ground Equipment Facility Joint Base San Antonio, TX - Pre-Solicitation Synopsis",
       "Type": "Presolicitation",
-      "PostedDate": "2026-04-13 09:25:56.914-04",
-      "Agency": "GENERAL SERVICES ADMINISTRATION",
-      "NaicsCode": "236220",
-      "Link": "https://sam.gov/workspace/contract/opp/071641ce26264eef8e64686bf5ba77ec/view",
-      "matches": [
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 8
-        },
-        {
-          "term": "cms",
-          "category": "content",
-          "count": 5
-        }
-      ],
-      "total_hits": 13
-    },
-    {
-      "NoticeId": "3910aea776e84a609c0a4f5a0ff95aca",
-      "Sol#": "W912QR26BA007",
-      "Title": "New Castle AMSA / VMS Maintenance Facility - New Castle, PA",
-      "Type": "Solicitation",
-      "PostedDate": "2026-04-13 16:13:14.063-04",
+      "PostedDate": "2026-04-14 15:50:30.163-04",
       "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "236220",
-      "Link": "https://sam.gov/workspace/contract/opp/3910aea776e84a609c0a4f5a0ff95aca/view",
+      "NaicsCode": "",
+      "ClassificationCode": "Y1JZ",
+      "Link": "https://sam.gov/workspace/contract/opp/0ce51a7e87a34960b0c32227cb30f001/view",
       "matches": [
         {
           "term": "web",
@@ -318,182 +104,47 @@
           "count": 10
         },
         {
-          "term": "platform",
-          "category": "technology",
-          "count": 1
-        },
-        {
-          "term": "business_intelligence",
-          "category": "data",
-          "count": 1
-        }
-      ],
-      "total_hits": 12
-    },
-    {
-      "NoticeId": "22152978913a4b33b950e1cffa241eca",
-      "Sol#": "W912QR26BA007",
-      "Title": "New Castle AMSA / VMS Maintenance Facility - New Castle, PA",
-      "Type": "Solicitation",
-      "PostedDate": "2026-04-13 15:59:54.86-04",
-      "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "236220",
-      "Link": "https://sam.gov/workspace/contract/opp/22152978913a4b33b950e1cffa241eca/view",
-      "matches": [
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 10
-        },
-        {
-          "term": "platform",
-          "category": "technology",
-          "count": 1
-        },
-        {
-          "term": "business_intelligence",
-          "category": "data",
-          "count": 1
-        }
-      ],
-      "total_hits": 12
-    },
-    {
-      "NoticeId": "578d02595e1143b3b4775bb23c1e7ca2",
-      "Sol#": "SS-OFR-26-029",
-      "Title": "INTENT TO SOLE SOURCE - Standard & Poor's Financial Services (S&P)",
-      "Type": "Special Notice",
-      "PostedDate": "2026-04-13 11:44:48.98-04",
-      "Agency": "TREASURY, DEPARTMENT OF THE",
-      "NaicsCode": "519290",
-      "Link": "https://sam.gov/workspace/contract/opp/578d02595e1143b3b4775bb23c1e7ca2/view",
-      "matches": [
-        {
-          "term": "analytics",
-          "category": "data",
-          "count": 7
-        },
-        {
-          "term": "portal",
-          "category": "technology",
-          "count": 2
-        },
-        {
-          "term": "application",
-          "category": "technology",
-          "count": 1
-        },
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 1
-        },
-        {
-          "term": "platform",
-          "category": "technology",
-          "count": 1
-        }
-      ],
-      "total_hits": 12
-    },
-    {
-      "NoticeId": "a7680764afae47ad8df99ce9be064e61",
-      "Sol#": "W912QR26BA007",
-      "Title": "New Castle, PA - Area Maintenance Support Activity (AMSA) Mechanical Shop",
-      "Type": "Presolicitation",
-      "PostedDate": "2026-04-13 10:39:22.545-04",
-      "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "236220",
-      "Link": "https://sam.gov/workspace/contract/opp/a7680764afae47ad8df99ce9be064e61/view",
-      "matches": [
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 10
-        },
-        {
-          "term": "platform",
-          "category": "technology",
-          "count": 1
-        },
-        {
-          "term": "business_intelligence",
-          "category": "data",
-          "count": 1
-        }
-      ],
-      "total_hits": 12
-    },
-    {
-      "NoticeId": "e8c81c6a6d7d4c43b9737407a88d031f",
-      "Sol#": "75N98026Q00175",
-      "Title": "On Premise Limfinity License and FreezerPro On Premise Support License Renewals",
-      "Type": "Combined Synopsis/Solicitation",
-      "PostedDate": "2026-04-13 22:38:40.387-04",
-      "Agency": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
-      "NaicsCode": "513210",
-      "Link": "https://sam.gov/workspace/contract/opp/e8c81c6a6d7d4c43b9737407a88d031f/view",
-      "matches": [
-        {
-          "term": "platform",
-          "category": "technology",
-          "count": 6
-        },
-        {
-          "term": "software",
-          "category": "technology",
-          "count": 2
-        },
-        {
-          "term": "application",
-          "category": "technology",
-          "count": 1
-        },
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 1
-        },
-        {
-          "term": "hosting",
-          "category": "infrastructure",
+          "term": "accessibility",
+          "category": "accessibility",
           "count": 1
         }
       ],
       "total_hits": 11
     },
     {
-      "NoticeId": "e219365ece904e52bf72d09ddf79e6a2",
-      "Sol#": "15B20726Q00000009",
-      "Title": "FCI LEWISBURG - ELEVATOR UPGRADE AND MODERNIZATION",
-      "Type": "Combined Synopsis/Solicitation",
-      "PostedDate": "2026-04-13 13:50:43.756-04",
-      "Agency": "JUSTICE, DEPARTMENT OF",
-      "NaicsCode": "238290",
-      "Link": "https://sam.gov/workspace/contract/opp/e219365ece904e52bf72d09ddf79e6a2/view",
+      "NoticeId": "31498a514b874169ba00ea494a1da178",
+      "Sol#": "W912QR-60893604",
+      "Title": "Staging/Marshalling Area at Fort Campbell DB2B",
+      "Type": "Presolicitation",
+      "PostedDate": "2026-04-14 14:21:56.194-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "236220",
+      "ClassificationCode": "Y1JZ",
+      "Link": "https://sam.gov/workspace/contract/opp/31498a514b874169ba00ea494a1da178/view",
       "matches": [
         {
           "term": "web",
           "category": "technology",
-          "count": 8
+          "count": 10
         },
         {
-          "term": "modernization",
-          "category": "modernization",
-          "count": 2
+          "term": "platform",
+          "category": "technology",
+          "count": 1
         }
       ],
-      "total_hits": 10
+      "total_hits": 11
     },
     {
-      "NoticeId": "7d58254dfb04483faf44070ce4a63996",
-      "Sol#": "W912QR26RA047",
-      "Title": "Design-Build Maintenance and Repair of the General Stillwell Memorial Army Reserve Center (ARC) Training Building, Bldg. 1520",
+      "NoticeId": "6cec3435fda84274966c122254eca587",
+      "Sol#": "W912QR25RA054",
+      "Title": "Aircraft Arresting System (AAS) and Re-Striping Homestead, ARB",
       "Type": "Presolicitation",
-      "PostedDate": "2026-04-13 13:44:30.513-04",
+      "PostedDate": "2026-04-14 16:28:44.118-04",
       "Agency": "DEPT OF DEFENSE",
       "NaicsCode": "236220",
-      "Link": "https://sam.gov/workspace/contract/opp/7d58254dfb04483faf44070ce4a63996/view",
+      "ClassificationCode": "Z2PZ",
+      "Link": "https://sam.gov/workspace/contract/opp/6cec3435fda84274966c122254eca587/view",
       "matches": [
         {
           "term": "web",
@@ -504,131 +155,126 @@
       "total_hits": 10
     },
     {
-      "NoticeId": "110edd8eb0fa46838d1dc4707fc39dd8",
-      "Sol#": "36C10X26Q0125",
-      "Title": "6515-- NX EQ Scrub Dispensing System (VA-26-00041629)",
-      "Type": "Combined Synopsis/Solicitation",
-      "PostedDate": "2026-04-13 16:26:40.989-04",
-      "Agency": "VETERANS AFFAIRS, DEPARTMENT OF",
-      "NaicsCode": "339112",
-      "Link": "https://sam.gov/workspace/contract/opp/110edd8eb0fa46838d1dc4707fc39dd8/view",
+      "NoticeId": "e5913d285e9b4325ad726745e847aeea",
+      "Sol#": "W912QR25RA054",
+      "Title": "Aircraft Arresting System (AAS) and Re-Striping Homestead, ARB",
+      "Type": "Presolicitation",
+      "PostedDate": "2026-04-14 16:25:50.192-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "236220",
+      "ClassificationCode": "Z2PZ",
+      "Link": "https://sam.gov/workspace/contract/opp/e5913d285e9b4325ad726745e847aeea/view",
       "matches": [
         {
-          "term": "software",
+          "term": "web",
+          "category": "technology",
+          "count": 10
+        }
+      ],
+      "total_hits": 10
+    },
+    {
+      "NoticeId": "1b6fb0e5ec5b4f3db4f556625de6b0f6",
+      "Sol#": "NB685040-26-00829",
+      "Title": "Notice of Intent to Noncompetitively Acquire for Infrared Optical Spectrum Analyzer",
+      "Type": "Special Notice",
+      "PostedDate": "2026-04-14 14:24:17.835-04",
+      "Agency": "COMMERCE, DEPARTMENT OF",
+      "NaicsCode": "334516",
+      "ClassificationCode": "6640",
+      "Link": "https://sam.gov/workspace/contract/opp/1b6fb0e5ec5b4f3db4f556625de6b0f6/view",
+      "matches": [
+        {
+          "term": "nist",
+          "category": "compliance",
+          "count": 8
+        },
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 2
+        }
+      ],
+      "total_hits": 10
+    },
+    {
+      "NoticeId": "76f213d06af745679e7456b3f53ab277",
+      "Sol#": "N0010425QFF59",
+      "Title": "FLANGE,PIPE",
+      "Type": "Solicitation",
+      "PostedDate": "2026-04-14 08:03:03.277-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "332919",
+      "ClassificationCode": "4730",
+      "Link": "https://sam.gov/workspace/contract/opp/76f213d06af745679e7456b3f53ab277/view",
+      "matches": [
+        {
+          "term": "application",
           "category": "technology",
           "count": 6
         },
         {
-          "term": "web",
-          "category": "technology",
-          "count": 3
-        }
-      ],
-      "total_hits": 9
-    },
-    {
-      "NoticeId": "526e0f101c924768989e021629201d66",
-      "Sol#": "80KSC026R0001-SS",
-      "Title": "NASA Protective Services Contract -South Region (NPSC-SR) II",
-      "Type": "Sources Sought",
-      "PostedDate": "2026-04-13 13:35:50.031-04",
-      "Agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
-      "NaicsCode": "561612",
-      "Link": "https://sam.gov/workspace/contract/opp/526e0f101c924768989e021629201d66/view",
-      "matches": [
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 4
-        },
-        {
-          "term": "application",
-          "category": "technology",
-          "count": 2
-        },
-        {
-          "term": "cybersecurity",
-          "category": "security",
-          "count": 2
-        },
-        {
-          "term": "portal",
-          "category": "technology",
-          "count": 1
-        }
-      ],
-      "total_hits": 9
-    },
-    {
-      "NoticeId": "d76d3b35a23545a7820725e29c0068d4",
-      "Sol#": "75H70626R00012",
-      "Title": "(Amdt No. 0001) SB Solicitation: Firm Fixed-Price, Non-Personal Service Type, Commercial Item Purchase to provide IT Support Services for the Great Plains Area Office, Office of Information Technology, Aberdeen, SD.",
-      "Type": "Solicitation",
-      "PostedDate": "2026-04-13 17:10:10.302-04",
-      "Agency": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
-      "NaicsCode": "541519",
-      "Link": "https://sam.gov/workspace/contract/opp/d76d3b35a23545a7820725e29c0068d4/view",
-      "matches": [
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 3
-        },
-        {
-          "term": "platform",
-          "category": "technology",
-          "count": 2
-        },
-        {
-          "term": "nist",
-          "category": "compliance",
-          "count": 2
-        },
-        {
           "term": "software",
           "category": "technology",
-          "count": 1
-        }
-      ],
-      "total_hits": 8
-    },
-    {
-      "NoticeId": "a622db815ee2420b972223f409578a52",
-      "Sol#": "15BBNF26Q00000062",
-      "Title": "Install Lift Station- FCI Bastrop",
-      "Type": "Combined Synopsis/Solicitation",
-      "PostedDate": "2026-04-13 16:06:26.642-04",
-      "Agency": "JUSTICE, DEPARTMENT OF",
-      "NaicsCode": "237110",
-      "Link": "https://sam.gov/workspace/contract/opp/a622db815ee2420b972223f409578a52/view",
-      "matches": [
+          "count": 2
+        },
         {
           "term": "web",
           "category": "technology",
-          "count": 8
+          "count": 2
         }
       ],
-      "total_hits": 8
+      "total_hits": 10
     },
     {
-      "NoticeId": "67b3d96c6e12410bb9ca6c4ba08f851e",
-      "Sol#": "36C24526Q0431",
-      "Title": "6520--VISN 5 Dental CBCT Replacements",
+      "NoticeId": "e9787bd67e3d45698f504e2570bdfdd8",
+      "Sol#": "36C25926Q0348",
+      "Title": "H261--TRIENNIAL ELECTRICAL TESTING",
       "Type": "Combined Synopsis/Solicitation",
-      "PostedDate": "2026-04-13 15:05:23.107-04",
+      "PostedDate": "2026-04-14 16:03:16.919-04",
       "Agency": "VETERANS AFFAIRS, DEPARTMENT OF",
-      "NaicsCode": "339114",
-      "Link": "https://sam.gov/workspace/contract/opp/67b3d96c6e12410bb9ca6c4ba08f851e/view",
+      "NaicsCode": "541350",
+      "ClassificationCode": "H261",
+      "Link": "https://sam.gov/workspace/contract/opp/e9787bd67e3d45698f504e2570bdfdd8/view",
       "matches": [
         {
-          "term": "software",
+          "term": "application",
           "category": "technology",
           "count": 4
         },
         {
+          "term": "web",
+          "category": "technology",
+          "count": 4
+        },
+        {
+          "term": "ato",
+          "category": "compliance",
+          "count": 1
+        }
+      ],
+      "total_hits": 9
+    },
+    {
+      "NoticeId": "11c9208a26d14089a194151ef0ba8021",
+      "Sol#": "36C25926Q0350",
+      "Title": "7G20--Pathology Service Dictation Software License Brand Name or Equal To Dragon Medical",
+      "Type": "Combined Synopsis/Solicitation",
+      "PostedDate": "2026-04-14 12:15:19.93-04",
+      "Agency": "VETERANS AFFAIRS, DEPARTMENT OF",
+      "NaicsCode": "541519",
+      "ClassificationCode": "7G20",
+      "Link": "https://sam.gov/workspace/contract/opp/11c9208a26d14089a194151ef0ba8021/view",
+      "matches": [
+        {
           "term": "application",
           "category": "technology",
-          "count": 2
+          "count": 4
+        },
+        {
+          "term": "software",
+          "category": "technology",
+          "count": 3
         },
         {
           "term": "web",
@@ -636,22 +282,52 @@
           "count": 2
         }
       ],
-      "total_hits": 8
+      "total_hits": 9
     },
     {
-      "NoticeId": "ad67ff2b2f944efea638f76d48466326",
-      "Sol#": "15BBNF26Q00000051",
-      "Title": "FCI Marion - Replace Summer Boiler #2",
-      "Type": "Combined Synopsis/Solicitation",
-      "PostedDate": "2026-04-13 09:52:21.725-04",
-      "Agency": "JUSTICE, DEPARTMENT OF",
-      "NaicsCode": "238220",
-      "Link": "https://sam.gov/workspace/contract/opp/ad67ff2b2f944efea638f76d48466326/view",
+      "NoticeId": "9934fa8e435c4548b0301ce5686c8092",
+      "Sol#": "AFLCMC-ROUK-26-0005",
+      "Title": "USAF Safe-to-fly Boot Program",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-14 08:27:38.96-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "316210",
+      "ClassificationCode": "8430",
+      "Link": "https://sam.gov/workspace/contract/opp/9934fa8e435c4548b0301ce5686c8092/view",
       "matches": [
         {
           "term": "web",
           "category": "technology",
-          "count": 8
+          "count": 7
+        },
+        {
+          "term": "application",
+          "category": "technology",
+          "count": 1
+        }
+      ],
+      "total_hits": 8
+    },
+    {
+      "NoticeId": "9aba3012e77449f3b60f9af5054d2e40",
+      "Sol#": "AFLCMC-ROUK-26-0006",
+      "Title": "USAF Safe-to-fly Glove Program",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-14 08:22:53.792-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "315210",
+      "ClassificationCode": "8415",
+      "Link": "https://sam.gov/workspace/contract/opp/9aba3012e77449f3b60f9af5054d2e40/view",
+      "matches": [
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 7
+        },
+        {
+          "term": "application",
+          "category": "technology",
+          "count": 1
         }
       ],
       "total_hits": 8
