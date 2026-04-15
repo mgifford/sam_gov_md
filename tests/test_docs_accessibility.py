@@ -53,16 +53,19 @@ def test_search_footer_link_distinguishable_without_color() -> None:
     ), "Footer GitHub link must be visually distinguishable without relying on color."
 
 
-def test_search_has_exactly_one_main_landmark() -> None:
+def test_search_headings_do_not_skip_levels() -> None:
     search_html = (REPO_ROOT / "docs" / "search.html").read_text(encoding="utf-8")
 
-    main_element_matches = re.findall(r"<main\b[^>]*>", search_html, flags=re.IGNORECASE)
-    explicit_main_role_matches = re.findall(
-        r"<(?!main\b)[a-z0-9:-]+\b[^>]*\brole\s*=\s*['\"]main['\"][^>]*>",
-        search_html,
-        flags=re.IGNORECASE,
-    )
+    heading_matches = list(re.finditer(r"<h([1-6])\b[^>]*>(.*?)</h\1>", search_html, flags=re.IGNORECASE))
+    assert heading_matches
 
-    assert len(main_element_matches) + len(explicit_main_role_matches) == 1, (
-        "Search page must expose exactly one main landmark."
-    )
+    first_level = int(heading_matches[0].group(1))
+    assert first_level == 1
+
+    filters_heading = next((match for match in heading_matches if "Filters" in match.group(2)), None)
+    assert filters_heading is not None
+    assert int(filters_heading.group(1)) == 2
+
+    heading_levels = [int(match.group(1)) for match in heading_matches]
+    for previous_level, level in zip(heading_levels, heading_levels[1:]):
+        assert level <= previous_level + 1, f"Heading skipped from h{previous_level} to h{level}"
