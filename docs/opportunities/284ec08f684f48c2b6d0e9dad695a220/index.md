@@ -1,0 +1,31 @@
+---
+layout: default
+title: ROD ASSY,DAMPER P/N: 70106-08003-042 NSN:1615-01-085-5318
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 284ec08f684f48c2b6d0e9dad695a220
+---
+
+# ROD ASSY,DAMPER P/N: 70106-08003-042 NSN:1615-01-085-5318
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-04-15 09:58:29.517-04
+- Solicitation Number: SPRRA126R0046
+
+## Summary
+
+This Sources Sought Synopsis (SSS) is in support of Market Research being conducted by the Defense Logistics Agency to identify potential manufacturing/supply sources, and if future efforts can be competitive or Set Aside for Small Business. The proposed North American Industry Classification Systems (NAICS) Code is 336413 which has a corresponding Size Standard of 1250 employees. This SSS is to notify companies that the Defense Logistics Agency, Redstone Arsenal, Alabama, is seeking qualified sources for the acquisition of a ROD ASSY,DAMPER, NSN: 1615-01-085-5318, Part Number: 70106-08003-042 in support of the BLACKHAWK weapon system. The Government has rights to the technical data, the data package is complete, and there are no technical data, engineering, tooling or manufacturing restrictions. As a result, this acquisition is currently being procured under Federal Acquisition Regulation (FAR) 19.1505 set-aside procedures for Women Owned Small Businesses. The Government is interested in Women-Owned small business concerns. The Government is interested in all businesses to include 8(a), small business and small disadvantaged business, Service-Disabled Veteran-Owned, Hubzone, and Women-Owned small business concerns. All contractors must meet prequalification requirements in order to be registered as a potential source. Firms that possess the ability and can produce the required item(s) described above are encouraged to identify themselves. Contractors are encouraged to seek source approval in order to compete for future solicitations by visiting AvMC's public website: https://www.avmc.army.mil/Directorates/SRD/TechDataMgmt The contractor shall be capable of successfully performing and complying with any and all special requirements in accordance with the terms and conditions set forth in the solicitation annotated above, at the unit prices established at time of a contract award. The contractor will be responsible for recurring and nonrecurring engineering services associated with becoming a qualified source. The contractor will also be responsible for all aspects of the manufacturing/production process, including but not limited to: supply chain management, logistics, forecasting of parts, long-lead parts procurement, material forecasting, obsolescence issues and final delivery of assets as well as any and all additional costs incurred resulting from contract performance.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Phyllis Carroll
+  - Email: phyllis.carroll@dla.mil
+- Secondary Contact:
+  - Name: Josh Evan Long
+  - Email: josh.long@dla.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/284ec08f684f48c2b6d0e9dad695a220/view)

@@ -1,0 +1,31 @@
+---
+layout: default
+title: FCI FT DIX AWARD WINNER FY26 3RD QTR FOOD SUBSISTENCE 15BFTD26Q00000004 AND KOSHER 15BFTD26Q00000005
+agency: JUSTICE, DEPARTMENT OF
+notice_type: Award Notice
+notice_id: 7c0ffad8852c4ba58142834402e6b6dc
+---
+
+# FCI FT DIX AWARD WINNER FY26 3RD QTR FOOD SUBSISTENCE 15BFTD26Q00000004 AND KOSHER 15BFTD26Q00000005
+
+- Agency: JUSTICE, DEPARTMENT OF
+- Type: Award Notice
+- Posted: 2026-04-15 10:51:53.302-04
+- Solicitation Number: 15BFTD26Q00000004
+- Awardee: FCI FT DIX ABSTRACTS FY26 3RD QTR MAINLINE AND KOSHER Joint Base MDL NJ 08641 USA
+- Award Amount: 1000000.00
+
+## Summary
+
+FCI FT DIX ABSTRACTS 3RD QTR FOOD
+
+## Contacts
+
+- Primary Contact:
+  - Name: ARTURO APONTE BERRIOS
+  - Email: AAPONTEBERRIOS@BOP.GOV
+  - Phone: 60972311005162
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7c0ffad8852c4ba58142834402e6b6dc/view)

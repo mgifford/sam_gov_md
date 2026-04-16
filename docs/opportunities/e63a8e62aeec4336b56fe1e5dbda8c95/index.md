@@ -1,0 +1,33 @@
+---
+layout: default
+title: Walkin Refrigerator/ Freezer Replacement
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: e63a8e62aeec4336b56fe1e5dbda8c95
+---
+
+# Walkin Refrigerator/ Freezer Replacement
+
+- Agency: DEPT OF DEFENSE
+- Type: Presolicitation
+- Posted: 2026-04-15 16:37:39.271-04
+- Solicitation Number: W50S7T26BA002
+
+## Summary
+
+The 182 Airlift Wing, Peoria, IL intends to issue an Invitation for Bid (IFB) to award a single, firm fixed-price (FFP) contract for services, non-personal, to provide all plant, labor, transportation, materials, tools, equipment, appliances and supervision necessary for Project Number: W50S7T-26-B-A002, Walkin Refrigerator/ Freezer Replacement located at the 182 Airlift Wing, Peoria, IL. Work of this contract comprises of providing all materials, tools, equipment, labor, and supervision necessary to: CLIN0001 Base Bid – Remove/replace condenser/evaporator for refrigerator and freezer., Dispose of old refrigerant IAW base environmental program. Contractor is to provide new units compatible with R435B refrigerant. Contractor is responsible for all electrical connections to match existing service, safeties and tying into existing alarm and monitoring systems. Contractor is to coordinate with base electrician if existing breakers cannot support the new units. Contractor will be responsible for any changes to existing infrastructure in the event the existing cannot support the new units. Units are to include appropriate defrost equipment and programming to provide maintenance free operation. Provide and install new drain piping and all associated equipment to provide a complete operating refrigerator and freezer.1 Job. CLIN0002 Option 1 – Remove and replace galvalume floor. Provide and install new approximately 8ft x 14ft x 8ft freezer floor and 12ft x 14ft x 8ft cooler galvalume diamond plate floor. Contractor is to ensure area below existing floor is cleaned and prepared to accept new floor prior to installation. Caulk and seal all seams as required, 1 Job. CLIN0003 Option 2 – Remove replace existing cooler/freezer galvalume combination box. Contractor is to demolish and remove all existing components from site. Contractor shall clean and prepare site for installation of new 8ft x 14ft x 8ft freezer and 12ft x 14ft x 8ft cooler (overall 20ft x 14ft x 8ft combination box). Exterior and interior finish is to be Galvalume with a minimum 4in extruded foam insulation. New installation shall include switchable lights, temperature monitoring, door heaters, and lockable doors with emergency egress capability. Doors are to be minimum 34 in opening to facilitate movement of products and able to swing open 180 degrees, 1 Job. The contract duration is 180 calendar days after issuance of the Notice to Proceed (NTP). This project is set aside 100% for small businesses. The North American Industry Classification (NAICS) Code is 238220, with a size standard of $19.0 million average annual revenue for the previous three (3) years. The tentative date for issuing the solicitation is on or about 29 April 2026. The tentative date for the pre-bid conference is on or about 06 May 2026 at 1000 at the 182d Airlift Wing, Logistic Supply Building #728, LRS Classroom, Illinois Air National Guard Base, Peoria, IL. There will be a site visit after the pre-bid conference. Interested contractors are encouraged to attend the pre-bid conference and should register in accordance with the requirements to be provided in the upcoming solicitation for clearance to the facility. A site visit will follow each pre-bid conference. Directions and instructions for entering the base will be provided in the solicitation package. Actual dates and times will be identified in the solicitation. THIS NOTICE IS NOT A SOLICITATION. All questions for the pre-bid conference must be submitted by 20 May 2026 via email to SMSgt Ben Yeutson at benjamin.yeutson@us.af.mil or Mr. Jason Shallenberger at jason.shallenberger@us.af.mil. The bid opening date is scheduled for on- or about 29 May 2026. Actual dates and times will be identified in the solicitation. Interested offerors must be registered in the System for Award Management (SAM). To register go to: https://www.sam.gov/portal/public/SAM. You will need your Unique Entity Identifier (UEI) number to register. Instructions for registering are on the web page. The solicitation and associated information and the plans and specifications will be available only from www.sam.gov website. Please note the registration for access to the secure site takes approximately 2-3 business days. PLAN ACCORDINGLY. Reference the Vendor Guide for instructions to obtain a MPIN to retrieve the specification and drawing documents. Contractors who do not already have a MPIN are advised that the normal processing is 7 to 15 business days to obtain a MPIN password that will give them access to the plans and specifications, which are located in the controlled access location on www.sam.gov. Bidders/offerors who have registered with www.sam.gov must access the data for this solicitation with their MPIN. Bidders/Offerors cannot log into the www.sam.gov home page and search for data. This solicitation is a competitive bid and there will be a formal public bid opening. DISCLAIMER: The official plans and specifications will be located on the official government web page at the time the solicitation is posted and the Government is not liable for information furnished by any other source. Amendments, if/when issued will be posted to https://www.sam.gov/ for electronic downloading. This will normally be the only method of distributing amendments prior to closing; therefore, it is the offeror’s responsibility to check the website periodically for any amendments to the solicitation. Websites are occasionally inaccessible due to various reasons. The Government is not responsible for any loss of Internet connectivity or for an offerors inability to access the documents posted on the referenced web pages. The Government will not issue paper copies. All inquiries must be sent via email to SMSgt Ben Yeutson at benjamin.yeutson@us.af.mil or Mr. Jason Shallenberger at jason.shallenberger@us.af.mil. All answers will be provided in writing via posting to www.sam.gov.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Jason Shallenberger
+  - Email: jason.shallenberger@us.af.mil
+  - Phone: 3096335707
+- Secondary Contact:
+  - Name: SMSgt Ben Yeutson
+  - Email: benjamin.yeutson@us.af.mil
+  - Phone: 3096335204
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e63a8e62aeec4336b56fe1e5dbda8c95/view)

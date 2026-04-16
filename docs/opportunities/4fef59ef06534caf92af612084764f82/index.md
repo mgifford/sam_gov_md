@@ -1,0 +1,28 @@
+---
+layout: default
+title: Blanket Purchase Agreement for Glove Finger Tip Sampling, Media Fill Test, Surface Sampling, Incubation and Microbial Analysis
+agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: 4fef59ef06534caf92af612084764f82
+---
+
+# Blanket Purchase Agreement for Glove Finger Tip Sampling, Media Fill Test, Surface Sampling, Incubation and Microbial Analysis
+
+- Agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-04-15 17:02:24.9-04
+- Solicitation Number: T2SSNGSU-20261261
+
+## Summary
+
+Sources-Sought Notice The Indian Health Service, Gallup Service Unit is issuing this sources-sought notice (SSN) to identify capable Indian-owned, economic enterprises – large (IEE) or small (ISBEE) – that can fill a government requirement for a Blanket Purchase Agreement (BPA) for Tryptic Soy Agar (TSA) with Lecithin/tween including certificate of analysis for growth promotion and quality; Media Fill Test: Hazardous and Non-Hazardous including certificate of analysis for growth promotion and quality; and Microbial Testing required by USP <797> including but not limited to Finger Tip/Thumb Sampling, Surface Sampling and Media Fill including sample processing, incubation at dual temperatures, preliminary plat counts, morphology counts for all bacterial and/or fungal growth and identification of all growth recovered and official final reporting – microbial analysis report. In addition, source must provide training on how to take samples and pack/return media. The anticipated period of performance is: Base Period: 3/13/2027-3/12/2028 Option Period One: 3/13/2028-3/12/2029 Option Period Two: 3/13/2029-3/12/2030 Other capable firms are also invited to respond to this SSN. The Contracting Officer will consider responses for Buy Indian Act (25 U.S.C. 47) opportunities first, then for set aside programs under the Small Business Act (41 U.S.C. 3104). The applicable North American Industry Classification System (NAICS) code assigned to this requirement is 541380- Testing Laboratories and Services with a small business size standard of $19.0 million. THIS IS NOT A SOLICITATION. Information collected from this notice is purely for market research only and will be used to determine the contracting office’s acquisition strategy including competition, set asides, and locating Indian-owned economic enterprises. Submission of any information in response to this market survey is purely voluntary. The government assumes no financial responsibility for any costs incurred in response to this request for information. In accordance with FAR 4.203-1(b), offerors and quoters must be registered in System for Award Management at SAM.gov, at the time an offer or quotation is submitted and at time of award. Submission Instructions: Interested parties who consider themselves qualified to perform the above-listed services are invited to submit a response to this notice by 5/5/2025 at 10:00AM (MDT) to Rodney Brown, Contract Specialist at Rodney.Brown@ihs.gov with the subject line “T2SSNGSU-20261261.” Your submission must include the following information, at a minimum: Company Profile that includes: UEI, Name and Address, Primary POC information, business size and type of ownership, socio-economic status/participation such as 8(a), WOSB/EDWOSB, SDVOSB and HUBZone, identification of Native American ownership, SAM.gov representations and certifications, and other related documentation. A brief statement of the company’s capability that relates to the described government requirement. Additional demonstration of capability may include current and past performance history for the same or similar requirement, established contracts such as GSA or VA Schedule, etc. Indian-owned Small Business Economic Enterprises (ISBEEs) and Indian-owned Economic Enterprises (IEEs) must also submit a completed IHS IEE Representation Form (attached) in accordance with HHSAR 326.606-1(b). Telephone inquiries will not be accepted or acknowledged, and no feedback or evaluations will be provided to companies regarding their submissions.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Rodney Brown
+  - Email: Rodney.Brown@ihs.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4fef59ef06534caf92af612084764f82/view)

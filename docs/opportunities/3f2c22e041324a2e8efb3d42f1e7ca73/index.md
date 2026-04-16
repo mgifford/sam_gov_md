@@ -1,0 +1,29 @@
+---
+layout: default
+title: Sources Sought – Digital Radiographic Technologist (DRT) Services (Mammography & CT) - Phoenix Indian Medical Center
+agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: 3f2c22e041324a2e8efb3d42f1e7ca73
+---
+
+# Sources Sought – Digital Radiographic Technologist (DRT) Services (Mammography & CT) - Phoenix Indian Medical Center
+
+- Agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-04-15 17:23:42.407-04
+- Solicitation Number: SS-26-PHX-019
+
+## Summary
+
+NOTICE TYPE: Sources Sought / Market Research TITLE: Digital Radiographic Technologist (DRT) Services – Mammography and Computed Tomography LOCATION: Phoenix Indian Medical Center (PIMC), Phoenix, Arizona Notice ID: SS-26-PHX-019 1. PURPOSE This is a Sources Sought Notice issued for market research purposes only in accordance with FAR Part 10. This is not a solicitation and does not constitute a commitment by the Government. The Phoenix Area Indian Health Service (IHS) is conducting market research to determine the availability and capability of: Indian Small Business Economic Enterprises (ISBEE) Other Small Business Concerns capable of providing non-personal Digital Radiographic Technologist (DRT) services (Mammography and Computed Tomography) at the Phoenix Indian Medical Center (PIMC), Phoenix, Arizona. The Government intends to use the results of this notice to determine the appropriate acquisition strategy, including potential set-aside determinations under the Buy Indian Act and/or FAR Part 19. 2. REQUIREMENT OVERVIEW The Government anticipates a contract with a 12-month base year and four (4) 12-month option years. The Contractor shall provide non-personal Digital Radiographic Technologist (DRT) services, including: Mammography imaging services (2D and 3D Tomosynthesis) Computed Tomography (CT) imaging services Patient screening, positioning, and imaging procedures Quality Assurance (QA) and Quality Control (QC) in accordance with MQSA and ACR standards Accurate and timely documentation in RPMS/EHR systems Compliance with IHS, Joint Commission (TJC), and CMS standards Estimated Coverage (As Needed): Mammography: Day shift (7:30 AM – 4:00 PM) CT: Day, evening, and night shifts Scheduling: Typically 2–4 weeks in advance Services provided on an as-needed basis (no guaranteed hours) All services shall be performed on-site at PIMC. 3. IMPORTANT CLARIFICATION This requirement is for a non-personal services contract. This requirement is NOT for: Direct Government supervision of contractor personnel Personal services arrangements Individual technologist hiring by the Government The Contractor shall be responsible for the management, supervision, and performance of its personnel. 4. TECHNICAL CAPABILITY REQUIREMENTS Interested firms must demonstrate capability to provide: A. Staffing and Coverage Model Ability to provide qualified DRT personnel for Mammography and CT services Staffing approach for day, evening, and night shifts (CT) Ability to support short-notice or emergency coverage Plan to ensure continuity of coverage for scheduled shifts B. Clinical Capability Experience providing diagnostic radiology services (Mammography and/or CT) Familiarity with MQSA, ACR, TJC, CMS, and IHS standards Experience with digital radiology systems and imaging equipment C. Scheduling and Continuity Ability to develop and manage staffing schedules Experience maintaining continuity of care and services Capability to respond to changing Government scheduling requirements D. Credentialing and Qualifications Ability to provide technologists meeting IHS credentialing requirements Current ARRT certification (Radiology; CT for CT technologists) MQSA certification (for Mammography technologists) Current BLS certification E. Past Performance Experience with contracts of similar size, scope, and complexity Experience providing radiology services in hospital or clinical settings Experience with Federal healthcare facilities (preferred but not required) 5. NAICS CODE Recommended NAICS Code: 621512 – Diagnostic Imaging Centers Size Standard: $19.0M Respondents may recommend an alternative NAICS code with justification. PSC Code: Q522 – Radiology Services 6. BUY INDIAN ACT NOTICE AND DEFINITIONS The IHS Contracting Officer will give priority to Indian Small Business Economic Enterprises (ISBEE) in accordance with the Buy Indian Act. This Sources Sought Notice is being issued, in part, to determine whether this requirement may be set aside for ISBEE firms. Respondents asserting ISBEE status shall: Identify ownership and control structure Demonstrate compliance with ISBEE requirements Describe how the firm will perform the primary and vital contract requirements Identify subcontractors and percentage of work to be performed 7. SUBMISSION INSTRUCTIONS Responses shall not exceed 7 pages. Submit electronically to: Dekovan Cook Supervisory Contract Specialist Dekovan.Cook@ihs.gov Subject Line: DRT Services Sources Sought – PIMC Submission Deadline: As stated in SAM. Interested parties are encouraged to review the attached draft Performance Work Statement (PWS) for detailed requirements. 8. DISCLAIMER This notice is for planning purposes only and does not constitute a solicitation. The Government will not reimburse any costs incurred in responding. The Government reserves the right to determine the appropriate acquisition strategy based on responses received. END OF NOTICE
+
+## Contacts
+
+- Primary Contact:
+  - Name: Dekovan Cook
+  - Email: Dekovan.Cook@ihs.gov
+  - Phone: 6023645018
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3f2c22e041324a2e8efb3d42f1e7ca73/view)

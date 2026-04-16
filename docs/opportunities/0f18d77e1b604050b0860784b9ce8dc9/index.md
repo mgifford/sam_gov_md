@@ -1,0 +1,28 @@
+---
+layout: default
+title: Request for Information - Alameda Family Housing
+agency: HOMELAND SECURITY, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: 0f18d77e1b604050b0860784b9ce8dc9
+---
+
+# Request for Information - Alameda Family Housing
+
+- Agency: HOMELAND SECURITY, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-04-15 14:53:37.356-04
+- Solicitation Number: Alameda_FAM_RFI
+
+## Summary
+
+THE UNITED STATES COAST GUARD - ALAMEDA HOUSING REQUEST FOR INFORMATION / OPPORTUNITY DIRECT LEASE WITH AN OPTION TO PURCHASE HOUSING THIS REQUEST FOR INFORMATION (RFI) is issued in accordance with Federal Acquisition Regulations (FAR) 15.201(d) & (e). This RFI does not constitute a Request for Proposal (RFP), Invitation for Bid (IFB), or Request for Quotation (RFQ), and it is not to be construed as a commitment by the Government to enter a contract, nor will the Government pay for the information submitted in response to this request. All information contained in this RFI is preliminary and is subject to change if, and when, a solicitation is issued. Responses to this notice are not offers and cannot be accepted by the U.S. Government to form a binding contract. If a competitive solicitation is released, it will be synopsized on the System for Award Management (SAM.gov) website. It is the responsibility of the interested parties to monitor this site for additional information pertaining to this RFI, or future solicitations though the Coast Guard will advertise the solicitation to the best of its ability to ensure thorough distribution. BACKGROUND The United States Coast Guard (USCG) is considering use of leasing authority provided by 10 USC 2835, leasing with an option to purchase, for housing needs identified in Alameda, CA. A Direct Lease with the option to purchase is a form of acquisition that allows the USCG to enter into a Construction Agreement. The USCG will utilize these units for eligible CG personnel and family members who are stationed in the local area. The USCG expects to enter into a lease prior to the start of construction with lease implementation commencing once the homes have been cleared for occupancy. The USCG anticipates a negotiated lump sum payment to initiate the lease and reserve the right of first refusal on future purchase of the homes. The USCG may execute a future option to purchase the homes outright following several years of leasing. PROJECT SCOPE/DELIVERABLES USCG is seeking: 180 newly constructed or to-be constructed family housing units comprised of the following: Thirty-five percent three-bedroom units Thirty-five percent four-bedroom unit 10% of three-bedroom and four-bedroom units must meet the Americans with Disabilities Act (ADA) family housing guidelines Twenty percent two-bedroom units Ten percent one-bedroom units All interested builders and developers are encouraged to provide the availability of their offerings. Eligible properties must adhere to all local, state, and federal codes/standards. The USCG prefers that all housing units be townhome- style single family, duplex, or triplex units co-located within a single subdivision integrated within a larger community, however the USCG will consider alternatives. The Lease would be for One year with up to Four option years to extend the lease term. The expectation is the option to purchase would be executed during the first five years of the lease. The lease would be at full market rate along with each extension. An option to purchase fee paid by the Coast Guard would be held in escrow during the leasing period to be paid to the developer if the Coast Guard opts not to purchase the homes, or to be factored out of the final market rate purchase price. PROPERTY IDENTIFICATION CRITERIA Once USCG has had an opportunity to utilize the homes and confirm they meet operational needs it will begin processing the option to purchase. Additional Criteria Include: The developer’s ability to expand the number of Coast Guard homes to higher numbers, with developer articulating their maximum possible unit limits. Earliest possible delivery date of the units specified. Date to start horizontal construction and conditions needed to begin. Date to start vertical construction and conditions needed to begin. Submit conditions of approval from the City and other permitting/zoning/design milestones to demonstrate project viability. The property/unit must comply with Housing Quality Standards established by HUD, and all utilities, appliances, and other furnishings must be functional. Information should include floor plans, room types, square footage, amenities, upgrade options, electrical specs, plumbing specs and any disclosure requirements. All housing units should be contiguous to each other within the housing development and include easements for access to supporting utilities and roadways. Information may include a day care center and/or recreation center as possible ideas to support USCG personnel. Information from the developer on minimum terms or requirements from the USCG to make the project viable for the developer. If significant interest is generated among local developers in response to this RFI, the Coast Guard may facilitate an open-forum information session for interested developers with follow on breakout sessions to best understand developers’ responses to this RFI.
+
+## Contacts
+
+- Primary Contact:
+  - Name: LCDR Erick Jackson
+  - Email: SMB-CEUOakland-RealProperty@uscg.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0f18d77e1b604050b0860784b9ce8dc9/view)

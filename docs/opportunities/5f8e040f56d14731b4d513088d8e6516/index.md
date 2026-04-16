@@ -1,0 +1,28 @@
+---
+layout: default
+title: 1232SA26SS1168972 - Sources Sought for Chemical Disposal Services USDA-ARS-SEA Mississippi State MS
+agency: AGRICULTURE, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: 5f8e040f56d14731b4d513088d8e6516
+---
+
+# 1232SA26SS1168972 - Sources Sought for Chemical Disposal Services USDA-ARS-SEA Mississippi State MS
+
+- Agency: AGRICULTURE, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-04-15 13:51:16.998-04
+- Solicitation Number: 1232SA26Q0476
+
+## Summary
+
+This is a Sources Sought notice Only. This is NOT a solicitation for proposals, proposal abstracts, or quotations. This Sources Sought is issued for information and planning purposes only as part of USDA ARS market research and does not itself constitute an RFQ. This requirement is covered under NAICS code . The purpose of this notice is to obtain information regarding the availability and capability of qualified sources; Small Businesses; HUBZone small business; service-disabled, veteran-owned small business; 8(a) small business; veteran-owned small business; woman-owned small business; or small disadvantaged businesses; Responses to the information requested will assist the Government in determining the appropriate acquisition method, including whether a set-aside is possible. After several years of waste chemicals being stored and not discarded, the MS State location has 900+ containers of waste chemicals. There are laboratory chemicals as well as agricultural chemicals in the collection. Most are labeled and inventoried, but many are not. This project would involve identifying and sorting; then packaging, shipping, and discarding the vast collection of waste chemicals. The chemicals are currently housed in the location’s chemical solvent storage building. This building has one standard 3x7 metal blast resistant door on each end, is well lit and well ventilated; but, has no air conditioning. The Government does not intend to make an award based on responses to this inquiry. This notice does not constitute a commitment by the Government. Capability Statement All information submitted in response to this announcement is voluntary, and the Government will not pay for information requested nor will it compensate any respondent for any cost incurred in developing information provided to the Government. Business concerns that possess the capabilities necessary to undertake this work should submit complete documentation of their capabilities to the Contracting Officer. Capability statements shall include the Contractors contact point to discuss their response. The capability statement should include: 1) Acknowledgement that they are able to provide the subject supplies/services being requested; 2) Interested vendors should identify their size standards in accordance with the Small Business Administration; 3) At least three previous requirements that are similar to the requirement include a discussion of the Contract type, delivery method, duration, etc.; 4) Any other information considered relevant to this requirement; and 5) The government requests that no proprietary, classified, confidential, or sensitive information should be included in the response. Any vendor responding to this notice should ensure that its response is complete and sufficiently detailed to allow the Government to determine their qualifications to perform the work. Respondents are advised that the Government is under no obligation to acknowledge receipt of the information received or provide feedback to respondents with respect to any information submitted. After review of the responses received, a combined synopsis/solicitation may be published on sam.gov depending on the responses received. All responses to this Sources Sought Notice must be received by the notice’s POC by the deadline in order to be considered. Responses may not be returned. Responders are solely responsible for all expenses associated with responding to this Inquiry. Do not submit pricing information in response to this Request.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Theodore Blume
+  - Email: Theodore.Blume@usda.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5f8e040f56d14731b4d513088d8e6516/view)

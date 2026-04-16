@@ -1,0 +1,43 @@
+---
+layout: default
+title: Spaceport and Launch Assessment Study (SPLAS)
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 7389f4f01394496498514383b209a827
+---
+
+# Spaceport and Launch Assessment Study (SPLAS)
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-04-15 11:23:32.714-04
+- Solicitation Number: FA2521SPLASRFI
+
+## Summary
+
+SECTION I. INTRO Space Systems Command (SSC)/International Affairs (IA) and a partner nation (PN) have accepted a Letter of Request (LOR) for Letter of Offer and Acceptance (LOA) to conduct studies and develop a process to enable launch of PN National Security satellites from their sovereign spaceport. As the owners of the USSF space launch mission, PAE Space Access was identified as the project manager for the Foreign Military Sales (FMS) case. Following an initial solicitation attempt that did not result in award, Space Access is conducting market research to assess the viability of accomplishing the PN’s desired objectives with a revised Statement of Work. This is a Request for Information (RFI). PAE Space Access seeks vendor capability information in support of the Technical Services Case scope and requirements listed in Section II and III. Responses to this notice are not offers and cannot be accepted by the Government to form a binding contract. This RFI constitutes neither a solicitation, guarantees future solicitation, nor restricts the Government to any ultimate acquisition approach. This RFI should not be construed as a commitment by the government for any purpose. Requests for a solicitation will not receive a response. The government will not reimburse contractors for any cost associated with preparing or submitting a response to this notice. SSC Federally Funded Research and Development Center (FFRDC), Advisory and Assistance Services (A&AS), and contractors serving in the role of Systems Engineering and Technical Assistance (SETA) may be reviewing data submitted in response to this RFI; respective employees have standard Non?Disclosure Agreements available to the cognizant Government contracting offices. PAE Space Access, in coordination with IA and PN, is seeking industry input to identify potential capabilities/services for technical assistance in the assessment of requirements and interfaces of a launch system and a third-party contractor designed, developed, and operated spaceport. The assessment would cover/include facilities for launch, launch integration, space vehicle processing and integration, providing mission assurance, and day-of-launch activities for the PN’s ongoing military modernization effort. PAE Space Access is seeking specific technical studies information described in Section III of this RFI. This RFI supports the analysis of ONE request; however, SSC/IA anticipates similar requests from other PNs and may repurpose the market research garnered from this RFI to respond to future LORs for LOAs. RFI responses should therefore focus on providing the necessary information to allow PAE Space Access to understand your firm’s ability to assess spaceport processes and infrastructure and inform a launch mission assurance process for a PN. This includes providing the technical background that demonstrates a deep level of knowledge and experience as it relates to the entirety of launch site development, build, and mission integration. This should include experience and knowledge of launch system facilities, processes/procedures, safety requirements (flight and ground), logistics (e.g. international shipping), security (physical and cyber), radio frequency (RF) communications and tracking, and other pertinent information that describes your ability to provide the technical assistance requested. Finally, information on any tools your firm uses or has developed to manage requirements, provide mission assurance analysis, develop/manage and execute plans should be included. SECTION II. SCOPE The objective of the Technical Services Case is to provide the PN with the necessary engineering, logistical, and technical assistance to successfully establish a National Security Space Launch (NSSL) service from a sovereign spaceport utilizing a US commercial launch vehicle (CLV), with a priority focus on tailoring USSF best practices for National Security launch operations and mission assurance from the spaceport. This includes: a. Developing a familiarization with the launch vehicle capability and support systems b. Tailoring US Space Force spaceport development and operations best practices, for launch of national payloads from the spaceport to the PN context c. Identifying potential mission risks and mitigation strategies associated with using the CLV for PN NSSL d. Providing technical documentation and support to enable PN to effectively monitor and control the CLV launch pad as it relates to PN NSSL service e. Assessing the requirements and interfaces of the CLV launch system and the spaceport f. Providing launch mission assurance assessment expertise Timeline for completion of all studies is a 12-month period of performance as requested by the PN. Reference the attached SOW for the full scope of requirements. SECTION III. REQUIREMENTS At the conclusion of the case the following deliverables will have been completed: CRDL No. - CDRL Title - Reference SOW Sec. A01 - General Launch Vehicle assessment - SOW Sec.
+
+3.1 A02 - Spaceport assessment and NSSL requirements document - SOW Sec.
+
+3.2 A03 - National Security Launch Requirements - SOW Sec.
+
+3.3 A04 - List of recommended education & training - SOW Sec.
+
+3.4 A05 - Comprehensive National Security Launch Assessment and Recommendations Report and Briefing - SOW Sec.
+
+3.5 A06 - Meeting Agendas, Meeting invitations, Minutes and Action Items, SOW Sec.
+
+3.6 Reference the attached SOW for full details on anticipated study requirements. SECTION IV. RESPONSE/SUBMISSION GUIDELINES Any interested vendor shall adhere to the following for their response: a. Submit an overview statement of your company’s capability to provide the technical assessment of a launch vehicle and spaceport as described herein and in the attached SOW. b. For each study area (CDRLs A01-A05) address: 1. Your company’s capability to provide the requested criteria; 2. Your company’s expertise to accurately assess what is being requested; 3. Any additional information your company needs from either the PN, SSC/IA, or PAE Space Access; and, 4. Any associated risks. c. Include a rough order of magnitude (ROM), either as a range or estimated price, to provide these services. Each deliverable (A01-A06) shall be separately estimated/priced. d. Include a preliminary project schedule or initial project timeline to provide these services. Each deliverable shall have a separate estimated time to complete identified. e. ROM and schedule should account for all travel, administrative, or other applicable fees. f. Label and portion-mark responses appropriately; the overall classification of an RFI response shall not exceed NATO SECRET. g. Provide an initial plan or discuss how ITAR will be addressed. h. Include your company name, address, Unique Entity Identifier (UEI) number, date of submission, and a RFI response POC with an email address and phone number. i. Include your business size under the applicable NAICS code (541715) and also list any available existing federal contract vehicles or awards your company currently holds that could be used to place these services (i.e. GSA MAS, OASIS+, etc.) j. Do not include unnecessary brochures, marketing materials, or proposals; they will not be considered. k. Do consider including any proficiency demonstrations, use cases, and lessons learned. l. Responses should use 8.5 x 11-inch portrait format pages, single-spaced, using a 12-point font machine readable font such as Arial or Times New Roman, with 1” margins. Landscape format is acceptable for charts or graphs. m. Do not exceed 10 pages for responses. n. Responses should be in either PDF or Microsoft Word-compatible format. o. Submit RFI responses via e-mail to the POCs below: Jose L. Plasencia, Contracting Officer, jose.plasencia.2@spaceforce.mil Ryan R. Hann, Contracting Officer, ryan.hann.2@spaceforce.mil Kristin Burk, Program Manager, kristin.burk.1@spaceforce.mil p. RFI responses are due by 1500 local time on 15 May 2026.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Jose L. Plasencia
+  - Email: jose.plasencia.2@spaceforce.mil
+- Secondary Contact:
+  - Name: Kristin Burk
+  - Email: kristin.burk.1@spaceforce.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7389f4f01394496498514383b209a827/view)
