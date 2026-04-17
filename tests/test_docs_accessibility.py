@@ -76,3 +76,49 @@ def test_index_headings_do_not_skip_levels() -> None:
     assert int(toc_heading.group(1)) == 2, (
         f"Table of Contents should be h2, got h{toc_heading.group(1)}"
     )
+
+
+def test_index_all_content_in_landmarks() -> None:
+    """Regression: all visible page content must be within landmark elements.
+
+    Guards against the axe 'region' rule violation where content (e.g.
+    ``<div class="container">``) appears outside a landmark region such as
+    ``<header>``, ``<main>``, or ``<footer>``.
+    """
+    index_html = (REPO_ROOT / "docs" / "index.html").read_text(encoding="utf-8")
+
+    # All three landmark elements must be present.
+    assert re.search(r"<header\b", index_html, re.IGNORECASE), (
+        "index.html must have a <header> landmark element (role=banner)"
+    )
+    assert re.search(r"<main\b", index_html, re.IGNORECASE), (
+        "index.html must have a <main> landmark element"
+    )
+    assert re.search(r"<footer\b", index_html, re.IGNORECASE), (
+        "index.html must have a <footer> landmark element (role=contentinfo)"
+    )
+
+    # No <div class="container"> should appear between </header> and <main>
+    # (i.e. outside any landmark region).
+    between_header_main = re.search(
+        r"</header\s*>(.*?)<main\b",
+        index_html,
+        re.DOTALL | re.IGNORECASE,
+    )
+    if between_header_main:
+        gap = between_header_main.group(1)
+        assert not re.search(
+            r"<div\b[^>]*\bclass=[\"'][^\"']*container", gap, re.IGNORECASE
+        ), "A <div class='container'> appears between </header> and <main> — outside any landmark"
+
+    # No <div class="container"> should appear between </main> and <footer>.
+    between_main_footer = re.search(
+        r"</main\s*>(.*?)<footer\b",
+        index_html,
+        re.DOTALL | re.IGNORECASE,
+    )
+    if between_main_footer:
+        gap = between_main_footer.group(1)
+        assert not re.search(
+            r"<div\b[^>]*\bclass=[\"'][^\"']*container", gap, re.IGNORECASE
+        ), "A <div class='container'> appears between </main> and <footer> — outside any landmark"
