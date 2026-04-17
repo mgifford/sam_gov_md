@@ -1,0 +1,29 @@
+---
+layout: default
+title: USCG Base Charleston Rice Mill Building Inspection
+agency: HOMELAND SECURITY, DEPARTMENT OF
+notice_type: Solicitation
+notice_id: 4a73f3af480b40eab90f751b2244f6df
+---
+
+# USCG Base Charleston Rice Mill Building Inspection
+
+- Agency: HOMELAND SECURITY, DEPARTMENT OF
+- Type: Solicitation
+- Posted: 2026-04-16 08:43:36.394-04
+- Solicitation Number: 70Z03626Q0088
+
+## Summary
+
+This is a combined synopsis/solicitation for commercial services prepared in accordance with the format in subpart 12.6, as supplemented with additional information included in this notice. This announcement is an official request for quotes. Email written to the POC are the only acceptable bids. This combined synopsis constitutes a solicitation and incorporates provisions and clauses in effect through federal acquisition circular 2024-02. The solicitation number is 70Z03626Q0088. This acquisition is 100% set aside for small businesses. The NAICS code is 541350, with a size standard of $11.5M. The contract type will be a firm fixed-price purchase order. The evaluation process will be Lowest Price Technically Acceptable. The United States Coast Guard (USCG) is seeking qualified engineers to perform a structural and building envelope evaluation of the Rice Mill Building located at USCG BASE Charleston, 196 TRADD ST, CHARLESTON, SC 29401. Specific requirements are detailed in the Statement of Work (SOW). All bidders are encouraged to visit the site to verify all work details and to become familiar with the existing conditions under which the work will be performed prior to submitting their quotes. Site visits will be conducted April 21st and 23rd, between the hours of 8:00 AM and 1:00 PM. To arrange a site visit, please contact CWO Cody Wood at Cody.A.Wood@uscg.mil at least 24 hours prior to desired site visit date. Failure to conduct a site visit does not relieve bidders of responsibility for properly estimating the difficulty or cost of successfully performing this work. The Government assumes no responsibility for any assumptions, understandings, or representations made by any of its officers or agents unless such information is included in the solicitation, SOW, or other written documents. All questions regarding this solicitation must be submitted in writing to Julia.S.Kline2@uscg.mil by 11:00 AM EST on April 25th, 2026. Please include the solicitation number in the subject line of the email. To maintain fairness, all questions and their corresponding answers will be posted on the solicitation no later than 5:00 PM EST April 27th, 2026 for visibility to all interested vendors. Questions submitted after the April 25th question deadline will not be answered. POINT OF CONTACT (POC): CWO Cody Wood Email: cody.a.wood@uscg.mil Phone: (571) 608-7666 SECONDARY POINT OF CONTACT (POC): LT Matthew Fann Email: Matthew.R.Fann@uscg.mil Phone: (843) 323-5553 LOCATION All work shall take place at the following location: U.S. Coast Guard Sector Charleston 196 Tradd St. Charleston, SC. 29401 Ensure sure that your UEI is updated/or registered via www.SAM.gov website. It is mandatory that your UEI number is active within the SAM.gov website before doing business with the Coast Guard. Interested vendors must download and review all attachments included in this solicitation package, which consist of the Statement of Work (SOW), Service Contract Act Wage Determination, SF-1449, and applicable Provisions and Clauses. Please read the entire solicitation package carefully before preparing your quote. Quotes must include a detailed breakdown of estimated labor and material costs and must clearly display the vendor’s Unique Entity Identifier (UEI) and Tax Identification Number (TIN). All quotes must be submitted via email to Julia.S.Kline2@uscg.mil no later than 5:00 PM EST on April 30th, 2026. In addition to submitting your bid on the SF-1449, please provide a brief technical proposal that demonstrates an understanding of the Statement of Work and describes the approach to fulfilling all requirements. Quotes submitted via mail or telephone will not be accepted. A formal notice of changes (if applicable) will be issued in SAM.Gov. The Government intends to award the contract in its entirety to a single contractor on an all-or-nothing basis to the responsible offeror whose proposal is determined to be the lowest price technically acceptable (LPTA) and most advantageous to the Government, in accordance with the evaluation and award procedures outlined in FAR 13.106. While the intent is to select one contractor for this acquisition, the Government reserves the right not to make an award at all, depending on the quality of the proposals, the prices submitted, and the availability of funds. The Government reserves the right to reject any quotation that is deemed unreasonable in terms of program commitments, including contract terms and conditions, or if the cost is unreasonably high or low when compared to Government estimates. A proposal may be rejected if it reflects an inherent lack of competence or a failure to understand the complexity and risks associated with the program. Applicable FAR Clauses by References: 52.212-4 Contract Terms and Conditions - Commercial Products and Commercial Services. 52.212-5- Contract Terms and Conditions Required to Implement Statutes or Executive Orders - Commercial Products and Commercial Services. This solicitation incorporates FAR 52.225-1, Buy American—Supplies (Feb 2021) Service Contract Act Wage Determination #2015-4427 Revision 32 Published 12/03/2025
+
+## Contacts
+
+- Primary Contact:
+  - Name: Julia Kline
+  - Email: julia.s.kline2@uscg.mil
+  - Phone: 2068271234
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4a73f3af480b40eab90f751b2244f6df/view)

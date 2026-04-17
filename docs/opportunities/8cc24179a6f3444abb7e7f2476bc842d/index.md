@@ -1,0 +1,31 @@
+---
+layout: default
+title: 6640--Ventana Vantage System Upgrade and Service
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Special Notice
+notice_id: 8cc24179a6f3444abb7e7f2476bc842d
+---
+
+# 6640--Ventana Vantage System Upgrade and Service
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Special Notice
+- Posted: 2026-04-16 14:22:53.648-04
+- Solicitation Number: 36C26226Q0657
+- Awardee: null
+
+## Summary
+
+NOTICE OF INTENT TO SOLE SOURCE The Department of Veterans Affairs, Network Contracting Office (NCO) 22, located at 4811 Airport Plaza Drive, Long Beach, CA 90815 is issuing this Notice of Intent (NOI) to inform industry contractors of the Government s intent to execute a Sole Source Award under FAR Part 13 Simplified Acquisition Procedures (SAP) for a base plus four year, firm-fixed-price contract, to Roche Diagnostics, Inc. (ROCHE) located at 9115 Hague Road, Indianapolis, IN 46250. The Histology Department located at Southern Arizona VA Healthcare System (SAVAHCS) requires upgrades to the existing Vantage Workflow System with a service and maintenance agreement for a period of one-year base and four optional years. This workflow system is used in the Histology Laboratory to track patient tissue specimens from receipt by generating barcode labels for specimen containers at accessioning through barcoded cassette printing, grossing, tissue processing, embedding, generation of barcoded microscope slide label printing at microtomy, staining, and case assembly. The bar-coding maintained by the system ensures that the patient identification on the microscope slides is accurate, and diagnosis made by the pathologist viewing the slides belongs to the correct patient. The current system requires software and equipment updates along with continued support to produce microscope slide labeling that needs to be compatible with the existing special stainer and digital pathology scanning recognition. The Contractor shall provide upgrades including: new replacement label printers and barcode scanners, update the system to Windows 11 (required by 9/30/2026), and service maintenance coverage for the tracking system instrumentation in the Histology Laboratory. A determination not to compete this proposed contract was made pursuant to the Federal Acquisition Regulation (FAR) Part 12 and FAR Part 13, specifically 13.106-1(b)(1) Soliciting from a single source. (1) For purchases not exceeding the simplified acquisition threshold. (i) Contracting officers may solicit from one source if the contracting officer determines that the circumstances of the contract action deem only one source reasonably available. The North American Industry Classification System (NAICS) for this requirement is, 334516 Analytical Laboratory Instrument Manufacturing. Product of Service Code for this requirement is 6640 Laboratory Equipment and Supplies. The Small Business Administration (SBA) size standard for this sector is 1,000 Employees. This notice of intent is neither a formal solicitation nor a request for competitive proposals. No solicitation document is available and telephone requests will not be honored. No award will be made on the basis of unsolicited quotations or offers received in response to this notice. Any response to this notice must show clear, compelling and convincing evidence that competition will be advantageous to the Government. The intent of this synopsis is for informational purposes only. Information received will normally be considered solely for the purpose of determining whether to conduct a competitive procurement. A determination by the Government not to compete this action based on this notice is solely within the discretion of the Government. All inquiries and concerns must be addressed in writing via e-mail to Samuel Han at Samuel.Han@va.gov with the following information referenced in the subject line, 36C26226Q0657 Ventana Vantage System Upgrade and Service. A determination by the Government not to compete this proposed procurement based on the responses to this notice is solely within the discretion of the Government. Information received will be considered solely for the purpose of determining whether to conduct a competitive procurement. All interested parties who are responsible, certified, and capable may identify their interest and may submit capability statement which shall be considered by the agency no later than 10:00 AM Pacific Time on April 22, 2026 to Samuel Han at Samuel.Han@va.gov. The interested parties bear full responsibility to ensure complete transmission and timely receipt. SDVOSB/VOSB respondents. If respondent is or SDVOSB or VOSB, respondent is encouraged to provide proof of Veteran Small Business Certification (sba.gov) certification. In addition, SDVOSB/VOSB Contractors are asked to acknowledge that they understand the limitations on sub-contracting pursuant to FAR 52.219-14, Limitations on Sub-Contracting, which will be included in the impending solicitation. Further SDVOSB/VOSB contractors are asked to respond that they are capable of providing the requested services keeping within the parameters of this clause. Please provide the information below: Company Name: SAM UEI Number: Address: Point of Contact Name: Phone No: Email: Business size information Select all that applies: o Small Business o Emerging Small Business o Small Disadvantaged Business o Certified under Section 8(a) of the Small Business Act o HubZone o Woman Owned o Certified Service-Disabled Veteran Owned Small Business (registered in VetBiz.gov) o Veteran Owned Small Business (registered in VetBiz.gov) FSS/ GSA Contract Holder Yes No FSS/ GSA Contract Number Effective Date / Expiration Date NASA SEWP Contract Holder Yes No NASA SEWP Contract Number Effective Date / Expiration Date
+
+## Contacts
+
+- Primary Contact:
+  - Name: Contracting Specialist
+  - Title: Samuel Han
+  - Email: Samuel.Han@va.gov
+  - Phone: 562-766-2314
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8cc24179a6f3444abb7e7f2476bc842d/view)

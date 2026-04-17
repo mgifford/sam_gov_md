@@ -1,0 +1,28 @@
+---
+layout: default
+title: CENTRIFUGAL PUMP UNIT
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: c91b89ea8a714b8488d71a51b781232b
+---
+
+# CENTRIFUGAL PUMP UNIT
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-04-16 14:42:20.991-04
+- Solicitation Number: SPRMM1-26-Q-ME51
+
+## Summary
+
+SEE ATTACHED SOLICITATION FOR DETAILS ON REQUIREMENT AND APPPLICABLE TERMS AND CONDITIONS. PLEASE CONSIDER SUBMITTING QUOTATIONS WITH A 60 DAY VALIDITY DATE. NOTE: IF A DISTRIBUTOR OR DEALER, TRACEABILITY DOCUMENTATION IS REQUIRED TO BE CONSIDERED A VALID SOURCE.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Telephone: 3855913468
+  - Email: TYESE.SWAIN@DLA.MIL
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c91b89ea8a714b8488d71a51b781232b/view)

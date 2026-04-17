@@ -1,0 +1,33 @@
+---
+layout: default
+title: NAVSUP WSS has a requirement to procure and to obtain a full range of services to provide direct, on-the-job training for NAVSUP WSS personnel, enabling them to effectively perform their day-to-day duties.
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 44b8f33c8805432b9e7e890af1e990d1
+---
+
+# NAVSUP WSS has a requirement to procure and to obtain a full range of services to provide direct, on-the-job training for NAVSUP WSS personnel, enabling them to effectively perform their day-to-day duties.
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-04-16 18:05:31.127-04
+- Solicitation Number: N0018926QA005
+
+## Summary
+
+REQUEST FOR INFORMATION. This is a Request for Information (RFI) issued by Naval Supply Systems Command (NAVSUP) Fleet Logistics Center (FLC) Norfolk, Regional Directorate-Mechanicsburg, PA on behalf of the NAVSUP Weapon Systems Support (WSS) to include all NAVSUP WSS codes in Mechanicsburg, PA, Philadelphia, PA, and Norfolk, VA. The Fleet Logistics Center Norfolk, Regional Directorate-Mechanicsburg, PA Office is seeking marketing information, from responsible sources to gain knowledge of potential qualified SBA 8(a) business sources capable of providing the following same or similar services. NAVSUP WSS has a requirement to procure and to obtain a full range of services to provide direct, on-the-job training for NAVSUP WSS personnel, enabling them to effectively perform their day-to-day duties. These services include course instruction, one-on-one personnel training, and curriculum development/improvement. The contractor will be responsible for developing new interactive course materials and converting existing courses to a web-based training format. These trainings will be sustained by the contractor and published on Navy-owned portals. This project will also provide virtual and/or on-site knowledge transfer to NAVSUP WSS personnel in all areas of Supply Chain Management. The contractor will be expected to provide an average of 8-10 hours per week of one-on-one Knowledge Transfer Sessions (KTS). Additionally, the contractor will support new-hire training initiatives as required. The goal of the training is to make it relevant to the specific challenges faced by NAVSUP WSS employees. It must serve as direct, functional job training that equips employees with the skills and knowledge needed to perform their day-to-day work. The training shall target and address identified gaps in competencies, highlight best practices specific to NAVSUP WSS, and foster an interactive environment that supports partnerships within and between Command codes for mission readiness and SME development. The Base period of performance (POP) is from 07 September 2026 through 06 September 2027 with four (4) one-year Options if exercised would have an ending POP date of 06 September 2031. The North American Industrial Classification System (NAICS) code is 611430 for Professional and Management Development Training and the small business standard is $15,000,000.00. This requirement is in the SBA 8(a) Program. Only SBA 8(a) companies with a “Certified SBA 8(a)” designation to receive 8(a) awards for the whole term of the pending contract under their CAGE Code Registration in the System for Award Management (SAM) with a valid SAM Registration Date covering the start date of the Period of Performance of 9/07/2026 are invited to reply to this RFI or Sources Sought. Included with this RFI or Sources Sought is the draft performance work statement (PWS) associated with this effort for reference when responding to this RFI or Sources Sought. Certified 8(a)Firms in SAM, with the NAICS Code # 611430, under the applicable the SBA 8(a) Program offering a system or services and/or possessing the requisite skills, resources and capabilities necessary to perform the stated requirement are invited to respond to this RFI providing industry feedback to the draft PWS. Submissions are not to exceed five (5) typewritten WORD document pages in no less than 12 font size. All comments/ideas will be considered, although any questions/comments/ideas will not be responded to directly. The goal of such feedback is to consider suggestions that might enhance competition, improve the clarity of the requirement, or leverage industry expertise, as well as any other ideas that could result in improved services. The submission should include the following information and reference N0018926QA005: 1. Company name, address, and point of contact with corresponding phone number and e-mail address 2. DUNS number, Cage Code #, Business Size and Classification, NAICS Code # 611430 for this Service Requirement 3. An indication if any service is available under your GSA Schedule. 4. Any information that is an industry standard and not particular to your company including performance standards and/or practices that may be considered for this requirement. 5. Please provide if your company can perform to the period of performance with Options until the requirement completion. 6. Does your company provide security clearances and please provide type of clearance? This is not a notice of solicitation. This RFI does not constitute an RFQ, nor does this issuance restrict the Government’s acquisition approach. All responsible sources may submit a capability statement, catalog, or service specifications which shall be considered by the Navy’s FLC Norfolk Regional Directorate-Mechanicsburg, PA. The government will consider and analyze all information received; formal responses will not be furnished; however, the information may be utilized in the development of a final specifications/PWS and/or Request for Quotes (RFQ). Responses should be submitted to NAVSUP Fleet Logistics Center Norfolk, Philadelphia Office – Mr. Thomas Carey - Code 234.2, via email: thomas.carey56.civ@us.navy.mil should be submitted no later than 2:00 PM Eastern Time. (EST) on 30 April 2026. No facsimile responses will be accepted. The Government will not reimburse a Contractor for any costs associated with preparing or submitting a response to this notice. Submissions will not be returned. It is incumbent upon the interested parties to review SAM for updates to this RFI.
+
+## Contacts
+
+- Primary Contact:
+  - Name: THOMAS CAREY
+  - Email: thomas.carey56.civ@us.navy.mil
+  - Phone: 7712293321
+- Secondary Contact:
+  - Name: Jacob Segal
+  - Email: jacob.a.segal.civ@us.navy.mil
+  - Phone: 7712292710
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/44b8f33c8805432b9e7e890af1e990d1/view)

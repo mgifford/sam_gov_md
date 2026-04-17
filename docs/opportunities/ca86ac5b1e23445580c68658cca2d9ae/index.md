@@ -1,0 +1,31 @@
+---
+layout: default
+title: 7E20--SFVA Remote Automated Laboratory System Software and Support
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: ca86ac5b1e23445580c68658cca2d9ae
+---
+
+# 7E20--SFVA Remote Automated Laboratory System Software and Support
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-04-16 10:09:52.465-04
+- Solicitation Number: 36C26126Q0619
+- Awardee: null
+
+## Summary
+
+Subject: Sources Sought, Remote Automated Laboratory (RALS) System Software and Support for the VA San Francisco Healthcare System (VASFHCS) located at 4150 Clement Street, San Francisco, CA 94121. The purpose of this sources sought is to conduct market research to support the procurement of Remote Automated Laboratory (RALS) System Software and Support for the VA San Francisco Healthcare System. This notice serves to survey the market in an attempt to ascertain whether or not sources are capable of providing the requested supplies. This notice allows potential vendors to submit a non-binding statement of interest and documentation demonstrating their capability. The sources sought effort is intended to assess industry capabilities and develop/support the intended direction of acquisition planning. Network Contracting Office (NCO) 21 is requesting responses from qualified business concerns; the qualifying NAICS code for this effort is 541512 Computer Systems Design Services. This sources sought is to gain knowledge of potential qualified sources and their size classifications (Service Disabled/Veteran Owned Small Business (SDVOSB/VOSB), Hub zone, 8(a), small, small disadvantaged, woman owned small business, or large business) relative to NAICS 541512 Computer Systems Design Services. Responses to this notice, will be used by the Government to make appropriate acquisition decisions. After review of the responses to this notice, a solicitation announcement may be published. Responses to this notice are not considered adequate responses to any corresponding solicitation announcement. All interested offerors will have to respond to the solicitation announcement in addition to responding to this notice. Background: The Department of Veterans Affairs (VA), VASFHCS has a requirement for Remote Automated Laboratory (RALS) System Software and Support. Refer to the attached documents for project requirements: Statement of Work Price List INSTRUCTIONS: Submit a brief description, two-three (2-3) pages (including cover letter) that demonstrates how your company can provide the requested supplies that are required. Include past experience in providing this system to the VA, other Government (Federal or State) agency, or for a private facility. Please specify your availability and your address. PLEASE INDICATE WHETHER YOU HOLD A GSA FEDERAL-SUPPLY SCHEDULE CONTRACT THAT COVERS THESE SUPPLIES AND/OR SERVICES AND, IF SO, THE CONTRACT NUMBER. Provide BUSINESS SIZE AND SOCIO-ECONOMIC STATUS; (a) Indicate whether your business is large or small (b) If small, indicate if your firm qualifies as a small, emerging business, or small disadvantages business (c) If disadvantages, specify under which disadvantaged group and if your firm is certified under Section 8(a) of the Small Business Act (d) Indicate if your firm is a certified Service-Disabled Veteran Owned Small Business (SDVOSB) or Veteran Owned Small Business (VOSB) (g) Include the UEI number of your firm. (h) State whether your firm is registered with the System for Award Management (SAM) at http://www.sam.gov and/or the SBA s Dynamic Small Business Search (DSBS) at SBA DSBS. If not, please NOTE that any future solicitation could only be awarded to a contractor who is registered in SAM and to receive award based on VOSB or SDVOSB status you must be registered in the SBA Registry (i) provide current commercial pricing and any applicable discounts. (j) link to the respondent s General Services Administration (GSA) schedule, or attached file of same, if applicable (k) citation of any current or past customers (i.e., within the past two (2) years) to include contract number, point of contact telephone number or e-mail address; and (l) other material relevant to establishing core competencies of the firm. Response is due by 10:00 AM Mountain Time, Thursday, April 23, 2026. Please submit e-mail responses to Mrs. Tawnya Krommenhoek, Contract Specialist, at email address: tawnya.krommenhoek@va.gov. Your response should include a STATEMENT OF CAPABLILITY, GSA SCHEDULE INFORMATION, UEI#, BUSINESS SIZE, AND SOCIO-ECONOMIC STATUS information as explained above. Please place Attention: Remote Automated Laboratory (RALS) System Software and Support in the subject line of your email. This notice is to assist the VA in determining sources only, questions will not be received at this time. NOTES: Issuance of this notice does not constitute any obligation whatsoever on the part of the Government to procure these services, or to issue a solicitation, nor to notify respondents of the results of this notice. No solicitation documents exists at this time; however, in the event the acquisition strategy demonstrates that GSA is a viable option for procuring a solution, the RFQ shall be posted to GSA eBuy where only those firms who currently hold a GSA Schedule with the applicable SIN will be able to respond. The Department of Veterans Affairs is neither seeking quotes nor accepting unsolicited quotes, and responses to this notice cannot be accepted as offers. Any information the vendor considers proprietary should be clearly marked as such. The U.S. Government will not pay for any information or administrative costs incurred in response to this sources sought notice.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Tawnya Krommenhoek
+  - Title: Contracting Officer
+  - Email: tawnya.krommenhoek@va.gov
+  - Phone: tawnya.krommenhoek@va.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ca86ac5b1e23445580c68658cca2d9ae/view)

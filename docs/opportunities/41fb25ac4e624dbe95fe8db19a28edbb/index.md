@@ -1,0 +1,33 @@
+---
+layout: default
+title: Virtual Weapons Range
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 41fb25ac4e624dbe95fe8db19a28edbb
+---
+
+# Virtual Weapons Range
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-04-16 15:11:58.643-04
+- Solicitation Number: FA483026Q0009
+
+## Summary
+
+DAFI 36?2646 establishes the requirement for Security Forces units to employ a virtual weapons simulator as a baseline training capability. This system provides a critical, standardized method for developing and sustaining weapons proficiency across the force. A virtual weapons simulator enables realistic, interactive weapons training designed to enhance marksmanship fundamentals, decision?making, and tactical weapons employment. It supports Congressionally mandated Shoot/No?Shoot training by providing a controlled, safe environment where Defenders can engage in complex use?of?force scenarios without the risks associated with live?fire exercises. The simulator also expands opportunities for additional or remedial weapons training while conserving Air Force resources such as ammunition, range time, and range maintenance costs. Per DAFI 36?2646, paragraph 3.13.4.2, a weapons simulator is defined as a training device that allows Airmen to develop and practice the skills required to meet prescribed standards of competency for their mission and duty position. Security Forces units are required to employ weapons training simulators to create realistic engagement scenarios that prepare Defenders to protect the installation against all levels of threat. The system must support training with all weapons assigned to the unit’s mission and provide value to all Airmen conducting marksmanship training by reinforcing skills that directly translate to improved performance on the live?fire range. The simulator also serves as an essential refresher tool for Airmen who fire less frequently, helping maintain muscle memory and weapons handling proficiency between live?fire events. Space requirements vary based on the system selected and the weapons supported, and must align with mission needs. Additional technical specifications are provided in the attatchement named Virtual Weapon Range Guidance. For any additional guidance, please reference DAFI36-2646_DAFGM2025-01. The Virtual Weapons Range has specific characteristics that MUST be included. These characteristics and specifications are as follows: The Virtual Weapons Range MUST be able to support a minimum of 1 person at a time and a maximum of 4 people at a time. The Virtual Weapons Range MUST be stationary. The Virtual Weapons Range MUST have a minimum of 1 lane. The Virtual Weapons Range MUST simulate Domestic Environments (house, street, cities, stores, restaurants). The Virtual Weapons Range MUST be able to simulate a firing range from a minimum of 7 meters to a mximum of 300 meters. The Virtual Weapons Range MUST have at least two weapons to go with each lane. The Virtual Weapons Range MUST NOT be connected to wifi. The Virtual Weapons Range MUST have each weapon be the same size, weight and recoil of a standard M4. The Virtual Weapons Range MUST include both the M4 and M18 weapons. The Virtual Weapons Range MUST have the weapons be free to carry. In addition to the simulators characteristics, the room the the Virtual Weapons Range will also be taken into consideration. The size of the room, is: 28' 7" Length The maximum length that the simulator could be is 20 feet! 15' 3" Width 8' Height More information on the room layout and size can be found on the attatchment labeled Blueprint. EVALUATION FACOTRS FOR AWARD The Government will issue a purchase order to the responsible offeror whose quotation, conforming to the solicitation, is determined to represent the best value to the Government, price and other factors considered. The following factors shall be used to evaluate offers: Price: The price evaluation will follow a Lowest Price Technically Acceptable (LPTA) approach. The award will be based on the Lowest Price Technically Acceptable (LPTA), where the total price will be evaluated to determine the best value to the Government. Technical Capability: Contractor must provide documentation that demonstrates ability to meet all technical requirements in the solicitation. The offer must meet all technical requirements stated in the solicitation. Past Performance: Performance Quality Assessment. The government will determine how well the offeror performed on past contracts that are both recent and relevant, and, based on an integrated assessment, assign a rating of "Acceptable" or "Unacceptable" as described. (Acceptable: Based on the offeror's performance record, the Government has a reasonable expectation that the Offeror will successfully perform the required effort, or the Offeror's performance record is unknown.) (Unacceptable: Based on the Offeror's performance record, the Government has no reasonable expectation that the Offeror will able to successfully perform the required services) RFQ due date: 29 April 2026 at 3pm All guestions regarding this RFQ must be emailed to jacob.turner.28@us.af.mil no later than the 22nd of April 2026, 3pm EST. Interested parties shall submit their quotations electronically to either POC. Company Name: Unique Entity ID Number (UEID): Cage Code: *Number of Employees *Total Yearly Revenue *Information required determining size of business for the NAICS referenced above. Quotation Contents: Capability Statement: A detailed narrative explaining how the offerors capablities Price Breakdown: Breakdown of cost elements Prodcut Specification Sheet: Detailed description of product being provided. For any questions regarding this solicitation: Email: jacob.turner.28@us.af.mil and CC nasir.smith.1@us.af.mil .zip files are not an acceptable format for the Air Force Network and will not go through our email system. The Government intends to award purchase order without discussion; therefore, offerors should quote their best price. All companies must be registered in the System for Award Management at https://www.sam.gov/portal/public/SAM/ to be considered for award. The Government will not provide contract financing for this acquisition. Invoice instruction shall be provided at time of award.
+
+## Contacts
+
+- Primary Contact:
+  - Name: 2nd Lt. Jacob Turner
+  - Email: jacob.turner.28@us.af.mil
+  - Phone: 2292574776
+- Secondary Contact:
+  - Name: 1st Lt. Nasir Smith
+  - Email: nasir.smith.1@us.af.mil
+  - Phone: 2292573226
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/41fb25ac4e624dbe95fe8db19a28edbb/view)

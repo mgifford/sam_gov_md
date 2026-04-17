@@ -1,0 +1,33 @@
+---
+layout: default
+title: Spare Transformers for the Lower Snake River Plants
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: f18d4cca33764da1bb556a7918b7197c
+---
+
+# Spare Transformers for the Lower Snake River Plants
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-04-16 12:18:17.59-04
+- Solicitation Number: W912EF26RA003
+
+## Summary
+
+Please see attached.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Preston Jones
+  - Email: Preston.E.Jones@usace.army.mil
+  - Phone: 5095277206
+- Secondary Contact:
+  - Name: Jani C Long
+  - Email: jani.c.long@usace.army.mil
+  - Phone: 5095277209
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f18d4cca33764da1bb556a7918b7197c/view)

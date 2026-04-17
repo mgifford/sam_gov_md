@@ -1,0 +1,33 @@
+---
+layout: default
+title: Notice of Intent - Comprehensive annual service and maintenance agreement
+agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+notice_type: Special Notice
+notice_id: 1f49af56753d4c9da4dfb850fdda7527
+---
+
+# Notice of Intent - Comprehensive annual service and maintenance agreement
+
+- Agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+- Type: Special Notice
+- Posted: 2026-04-16 18:55:25.072-04
+- Solicitation Number: NOI-NIAID-26-01542
+
+## Summary
+
+THIS IS A NOTICE OF INTENT AND NOT A REQUEST FOR QUOTATIONS. This notice is published in accordance with Federal Acquisition Regulation (FAR) 5.101(a)(1) requiring the dissemination of information regarding proposed contract actions. This is a Notice of Intent to award a sole source, firm-fixed price purchase order under the authority of 41 U.S.C. 3304(a)(1), as implemented by FAR 12.102 and 6.302-1 - Only One Responsible Source and No Other Supplies or Service Will Satisfy Agency Requirements and is not a request for competitive proposals. POP: 09/24/2026 to 09/23/2027 This acquisition is for a comprehensive annual service and maintenance agreement covering two (2) Operetta CLS high-content imaging systems , six (6) Opera Phenix confocal microscopy systems, and associated integrated equipment, including the Flex 750 plate handler/loader, and robot fixed cell integration system. The objective is to ensure uninterrupted operation, manufacturer-compliant servicing, and rapid repair of these mission-critical imaging and automation platforms. The NCATS Division of Pre-Clinical Innovation (DPI) relies on high-throughput, high-content imaging systems to support translational science initiatives across multiple branches and research programs. The Operetta CLS and Opera Phenix platforms are central to automated, microplate-based imaging and confocal analysis used in: Phenotypic and high-content screening Stem cell characterization and differentiation studies Drug response profiling in complex cellular systems Quantitative fluorescence and colorimetric analysis These systems operate in tightly integrated workflows with robotic handling systems (Flex 750 and fixed cell robotic arm), supporting continuous, high-throughput experimental pipelines. Due to the complexity, precision, and continuous utilization of these instruments, any downtime directly disrupts ongoing experiments, many of which involve biological samples cultivated over weeks or months. Instrument failure without immediate access to certified service would result in irretrievable data loss, wasted resources, and significant delays to federally funded research programs. A manufacturer-backed service agreement is therefore essential to ensure uptime, maintain calibration integrity, and protect the validity and reproducibility of scientific results. This requirement is for the renewal of a full-service maintenance agreement covering NCATS DPI imaging systems and associated automation equipment. The agreement shall include: One (1) annual preventative maintenance visit per instrument Unlimited repair service All labor, travel, and non-consumable replacement parts Access to manufacturer-certified service engineers Use of proprietary diagnostic tools, firmware updates, and OEM components These instruments are highly specialized and interdependent within automated workflows. Failure to maintain them under a comprehensive service agreement would expose the Government to: Extended downtime due to lack of qualified repair services Compromised instrument calibration and data integrity Loss of long-term biological experiments Increased lifecycle costs due to improper servicing or use of non-OEM parts Given their high utilization across multiple research groups, continuous operational readiness is essential to maintain research productivity and mission delivery. Requirement type. X Support services (non-R&D) Type of action. X Follow-on Proposed contract/order type. X Firm-fixed price Acquisition identification number. PCA-NCATS-01542 Only one award will be made as a result of this notice. This will be awarded as a firm-fixed price purchase order. The period of performance for this requirement will be a Base year for 12 months. The North American Industry Classification (NAICS) code for this acquisition is NAICS – 811210 Other Electronic and Precision Equipment Repair and Maintenance - Dollars or Number of Employees: $34 million Specifically, NIAID has a need for the following: This will be the only notice of the Government's intent to solicit, negotiate, and award to one source to satisfy this requirement. The Government plans to award a contract for this requirement within 7 days of this notice. The statutory authority for this sole source requirement is 41 U.S.C. 253(c)(1) as implemented by FAR 6.302-1 (b)(1)(i) only one source available, no substitutions possible. THIS IS NOT A SOLICITATION FOR COMPETITIVE QUOTATIONS. All responsible sources who can provide the Human Genome Mutation Database (HGMD) should submit a capability statement via email to Linda Smith at Linda.Smith2@nih.gov by 5:00 pm EST on April 22, 2026. A determination not to compete this requirement, based upon responses to this notice, is solely within the discretion of the Government. Any responses received by NIAID after this date and exact time specified are late and will not be considered. This notice does not obligate the Government to award a contract or otherwise pay for any information provided in response. The Government reserves the right to use information provided by respondents for any purpose deemed necessary and legally appropriate. Any organization responding to this notice should ensure that it’s sufficiently detailed to allow the Government to determine the organization's qualifications to perform the work. Respondents are advised that the Government is under no obligation to acknowledge receipt of the information received or provide feedback to respondents with respect to any information submitted. For additional information or to submit responses, please contact Linda Smith, Contracting Officer at Linda.smith2@nih.gov or Jessica Emerson at Jessica.emerson@nih.gov.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Linda Smith
+  - Email: linda.smith2@nih.gov
+  - Phone: 2402369341
+- Secondary Contact:
+  - Name: Jessica Emerson
+  - Email: jessica.emerson@nih.gov
+  - Phone: 3014802227
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1f49af56753d4c9da4dfb850fdda7527/view)

@@ -1,0 +1,32 @@
+---
+layout: default
+title: SPE300-26-R-X016 - Fresh Bread & Bakery Products for DoW Troop Customers in the Alabama Zone
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: beb507539851411fa9a2ad458bfe3b7a
+---
+
+# SPE300-26-R-X016 - Fresh Bread & Bakery Products for DoW Troop Customers in the Alabama Zone
+
+- Agency: DEPT OF DEFENSE
+- Type: Presolicitation
+- Posted: 2026-04-16 15:31:00.081-04
+- Solicitation Number: SPE300-26-R-X016
+
+## Summary
+
+Solicitation SPE300-26-R-X016 is designed to place Market Ready Fresh Bread and Bakery items, all fully competitive, on contract(s) for various Department of War (“DoW”) customers in the Alabama Zone. The resultant contract will be issued as a firm-fixed price Indefinite Quantity Contract (IQC) with two pricing tiers for all items for the entire term of the contract. The contract period is expected to be from June 14, 2026, to June 9, 2029. Tier 1 will be from June 14, 2026 – June 10, 2028. Tier 2 will be from June 11, 2028, to June 9, 2029. The solicitation contains one group: Group 1: Ft Rucker, AL A successful offeror(s) will be required to source, purchase, store, and deliver a variety of bread and bakery items to DLA Troop Support customers on an ongoing basis, while at the same time maintaining acceptable fill rates, levels of customer service, and product quality. Therefore, an offeror must currently possess the physical, logistical, and financial resources to serve as a commercial distributor of a variety of bread and bakery items. It is neither sufficient nor acceptable for an offeror to be a third-party logistics (“3PL”) company (i.e., a company that does not intend to serve as the bread and bakery supplier but instead intends to subcontract out the majority of aspects required by the contract, including but not limited to ordering, warehousing, distribution, etc.). By offering, an offeror affirms its status as a current and functioning commercial distributor of bread and bakery items. In order to determine whether an offeror meets the technical requirement of being a current and functioning commercial bread and bakery distributor, the Contracting Officer will require an offeror to submit a copy of each third-party warehouse audit (i.e., American Institute of Baking (AIB) certification, other state or federal sanitation inspection certificates). The audit report(s) must demonstrate that a passing score(s) was/were received. Please note that a request for the aforementioned information by the Contracting Officer will be used to make a determination of whether or not the offeror meets the technical requirement of being a current and functioning commercial distributor of bread and bakery. This information is not being sought to determine an offeror's likelihood of success in performing the contract as would be the case in a responsibility analysis. The Government will award contract(s) resulting from this solicitation to the responsible offeror(s) whose offer(s) conforming to the solicitation will be most advantageous to the Government, price and other factors considered. Lowest Price Technically Acceptable (LPTA) source selection procedures will be used as the source selection method in this procurement. The following factors shall be used to evaluate offers: 1. Technical Acceptability - A technically acceptable offer is an offer that takes no exceptions to the terms and conditions in the solicitation and complies fully with all submission requirements. A proposal that takes exception to solicitation terms and conditions or that fails to comply with all submission requirements may be deemed technically unacceptable and, thus, may be found ineligible, and removed from further consideration, for the awards. By submitting a proposal with no exceptions, an offeror is confirming it possesses the necessary facilities, equipment, technical skills and capacity to successfully provide all items required by this solicitation. 2. Pricing - Pricing is required for all items found in the Schedule of Items (for each Group, if applicable) and for all tiers. Failure to offer pricing for all items and for all tiers may result in a proposal being removed from consideration for award as technically unacceptable. The Government will perform an aggregate price analysis for all items found in the Schedule of Items (for each Group, if applicable). To determine an offeror's evaluated aggregate price, the estimated quantities in the Schedule of Items will be multiplied by the unit prices to determine the lowest aggregate price (for each Group, if applicable) to the Government. Offered prices, on an individual line-item basis, will be evaluated to determine fair and reasonableness. The award(s) will be made on the basis of the lowest Evaluated Aggregate Price (for each Group, if applicable) of proposals meeting or exceeding the acceptability standards for non-price factors. The Government reserves the right to remove item(s) from the Schedule of Items or do a common item comparison if offerors do not submit pricing for all items. Prior to award, the offered prices of the presumptive awardee(s) will be evaluated on an individual line-item basis to determine whether each price is fair and reasonable using analytical techniques deemed appropriate by the Contracting Officer in her/his complete discretion. All responsible sources may submit proposals that will be considered by DLA Troop Support. Copies of the solicitation will be found on the DLA Internet Bid Board System (DIBBS) at https://www.dibbs.bsm.dla.mil and https://www.sam.gov. If not registered on DIBBS; prospective offerors will be required to do so prior to reviewing and downloading a copy of the solicitation. Request for Proposals (RFP's) are in the Portable Document Format (PDF). In order to download and view these documents, prospective offerors will need the latest version of Adobe Acrobat Reader. The software is available free at http://adobe.com. It is anticipated that the solicitation will be issued May 2026. Prospective offerors may request a copy by emailing Ronald Booth at ronald.booth@dla.mil and/or Amy N. Paradis at amy.paradis@dla.mil
+
+## Contacts
+
+- Primary Contact:
+  - Name: Amy Paradis445-737-0937
+  - Email: Amy.Paradis@dla.mil
+- Secondary Contact:
+  - Name: Ronald Booth
+  - Email: ronald.booth@dla.mil
+  - Phone: 4457370941
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/beb507539851411fa9a2ad458bfe3b7a/view)
