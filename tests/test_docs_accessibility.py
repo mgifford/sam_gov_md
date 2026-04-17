@@ -35,25 +35,39 @@ def test_trends_headings_do_not_skip_levels() -> None:
     assert int(top_activity_heading.group(1)) == 2
 
 
-def test_search_footer_link_distinguishable_without_color() -> None:
-    search_html = (REPO_ROOT / "docs" / "search.html").read_text(encoding="utf-8")
-
+def _assert_footer_link_has_underline(html: str, page_name: str) -> None:
+    """Assert that the first link in the footer of *html* has text-decoration:underline."""
     footer_match = re.search(
         r"<footer\b[^>]*>.*?</footer>",
-        search_html,
+        html,
         flags=re.IGNORECASE | re.DOTALL,
     )
-    assert footer_match is not None
+    assert footer_match is not None, f"{page_name} must have a <footer> element"
 
     link_match = re.search(r"<a\b[^>]*>", footer_match.group(0), flags=re.IGNORECASE)
-    assert link_match is not None
+    assert link_match is not None, f"{page_name} footer must contain a link"
 
     opening_tag = link_match.group(0)
     assert re.search(
         r"text-decoration\s*:\s*underline",
         opening_tag,
         flags=re.IGNORECASE,
-    ), "Footer GitHub link must be visually distinguishable without relying on color."
+    ), f"{page_name} footer GitHub link must be visually distinguishable without relying on color."
+
+
+def test_search_footer_link_distinguishable_without_color() -> None:
+    search_html = (REPO_ROOT / "docs" / "search.html").read_text(encoding="utf-8")
+    _assert_footer_link_has_underline(search_html, "search.html")
+
+
+def test_index_footer_link_distinguishable_without_color() -> None:
+    index_html = (REPO_ROOT / "docs" / "index.html").read_text(encoding="utf-8")
+    _assert_footer_link_has_underline(index_html, "index.html")
+
+
+def test_trends_footer_link_distinguishable_without_color() -> None:
+    trends_html = (REPO_ROOT / "docs" / "trends.html").read_text(encoding="utf-8")
+    _assert_footer_link_has_underline(trends_html, "trends.html")
 
 
 def test_search_headings_do_not_skip_levels() -> None:
