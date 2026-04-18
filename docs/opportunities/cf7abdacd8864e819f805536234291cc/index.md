@@ -1,0 +1,31 @@
+---
+layout: default
+title: 2027-2029 Maintenance Dredging, Anchorage Harbor, Alaska
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: cf7abdacd8864e819f805536234291cc
+---
+
+# 2027-2029 Maintenance Dredging, Anchorage Harbor, Alaska
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-04-17 17:35:19.185-04
+- Solicitation Number: W911KB27RA002
+
+## Summary
+
+THIS IS A SOURCES SOUGHT NOTICE ONLY FOR 2027-2029 MAINTENANCE DREDGING, ANCHORAGE HARBOR, ALASKA. OFFERS OR PROPOSALS WILL NOT BE ACCEPTED FOR THIS NOTICE. THIS IS NOT A PRE-SOLICITATION. The Alaska District of the U.S. Army Corps of Engineers is conducting market research to facilitate a determination of acquisition strategy prior to releasing a solicitation for this anticipated project. The determination of acquisition strategy lies solely with the government and will be based on market research and information available to the government from other sources. Please note that this Sources Sought Notice is for information only and does not constitute a solicitation for competitive offers/proposals and is not to be construed as a commitment by the Government. However, all interested parties who believe they can meet the requirement are invited to submit information describing their capability to provide the required services.DESCRIPTION OF WORK: Perform surveying, dredging and disposal of approximately 900,000 cubic yards of fine-grained shoaled material annually for three (3) years at the Anchorage Harbor with an option to annually dredge 350,000 cubic yards of sandy material with some cobbles in Cook Inlet Navigation Channel. The dredging must be accomplished in a manner that keeps the Port of Alaska dock face and terminals accessible for shipping traffic at all times. The Cook Inlet Navigation Channel, which is the marked entrance through Knik Arm Shoal to Anchorage Harbor, may also require periodic maintenance dredging. The Contractor is to furnish all labor, equipment, supplies, materials, supervision and other items and services necessary to accomplish the work. All maintenance dredging in Anchorage Harbor and Cook Inlet Navigation Channel shall be performed using hopper or mechanical dredges only. Cutterhead, suction and pipeline dredges are not permissible. The estimated award date of the contract is 10 January 2027. Options for 2028 and 2029 maintenance dredging and early season dredging each year, will be in this solicitation. Construction Wage Determinations (formerly Davis-Bacon) will apply.The Contractor shall furnish all labor, equipment, supplies, materials, supervision, and other items and services necessary to accomplish the work. The Contractor shall comply with commercial and industry standards as well as all applicable Federal, State, and local laws, regulations, and procedures. The total estimated magnitude of construction for base and option items is between $25,000,000 and $100,000,000. The type of contract shall be firm-fixed price. Construction wage rates (formerly Davis Bacon Act wage rates) shall apply. If the project is cancelled, all proposal/bid preparation costs will be borne by the offeror. If a large firm is selected for this contract, the firm must comply with FAR 52.219-9 regarding the requirements for a subcontracting plan for that part of the work it intends to subcontract. All offerors are advised that they must be registered in the System for Award Management (SAM) (www.sam.gov) before submitting a proposal. Joint ventures must also be registered in SAM as a joint venture. Offerors are advised to begin this process when they prepare their proposal in order to ensure registration is in place should they be selected for award. Lack of registration in the SAM database would make an offeror ineligible for award. The requirement for the submission of both performance and payment bonds in an amount equivalent to 100% of the award price shall be applicable. Therefore, the successful firm shall have the capability to acquire such bonding.THIS IS A SOURCES SOUGHT OPEN TO ALL QUALIFIED PRIME CONTRACTOR FIRMS (Large and Small Businesses under NAICS 237990). All interested firms are encouraged to respond to this announcement no later than 19 May 2026, by 2:00 PM Alaska Time, by submitting all requested documentation listed below to: US Army Corps of Engineers, Alaska District, ATTN: CEPOA-CT (Gosh), PO Box 6898, JBER, AK 99506-0898 or via email to Jennifer.Gosh@usace.army.mil and George.G.Nasif@usace.army.mil. Interested prime contractor firms are encouraged to submit a capabilities package (not exceeding 5 pages) demonstrating the ability to perform the work described above. Packages should include the following information regarding their company:1. Company Name, Address, UEI Number, Cage Code, Business Size under the applicable NAICS above, and Point of Contact information including email and phone number.2. SAM status, Large or Small Business status under the applicable NAICS above, and type of small business (8a, HUBZone, Service-Disabled Veteran-Owned, Women-Owned, etc.)3. Firm?s single project bonding capability/limit. 4. Demonstration of the firm?s experience as a prime contractor on projects of similar size, type, and complexity within the past six years. List actual projects completed and include project title, location, and a brief description of the project including the type of equipment used to accomplish work (for example: hopper, barge, clam shell, etc.).5. Your company?s intent to propose on the 2027-2029 Maintenance Dredging, Anchorage Harbor, Alaska project as a prime contractor and type of equipment to be used to accomplish this work (for example: hopper, barge, clam shell, etc.). Interested parties are invited to submit a response to this Sources Sought by the response time stated above. Please submit all documentation by email in PDF format. Responses received after this time and date may not be reviewed.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Jennifer Gosh
+  - Email: jennifer.gosh@usace.army.mil
+- Secondary Contact:
+  - Name: George Nasif
+  - Email: george.g.nasif@usace.army.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cf7abdacd8864e819f805536234291cc/view)

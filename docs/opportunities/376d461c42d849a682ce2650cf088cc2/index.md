@@ -1,0 +1,28 @@
+---
+layout: default
+title: ABAQUS Renewals
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 376d461c42d849a682ce2650cf088cc2
+---
+
+# ABAQUS Renewals
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-04-17 11:20:23.486-04
+- Solicitation Number: N0016726Q1082
+
+## Summary
+
+This is a combined synopsis/solicitation for commercial items prepared in accordance with Federal Acquisition Regulation (FAR) Subpart 12.6, as supplemented with additional information included in this notice. Naval Surface Warfare Center intends to award a firm fixed price contract for ABAQUS Renewals. This is a BRAND NAME requirement and the compliant material is only available from authorized resellers. All inquiries should be directed to Tracy McDonough at tracy.l.mcdonough2.civ@us.navy.mil
+
+## Contacts
+
+- Primary Contact:
+  - Name: Tracy L McDonough
+  - Email: tracy.l.mcdonough2.civ@us.navy.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/376d461c42d849a682ce2650cf088cc2/view)

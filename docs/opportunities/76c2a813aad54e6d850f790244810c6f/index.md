@@ -1,0 +1,33 @@
+---
+layout: default
+title: Renewal Service Agreement for VITEK Mass Spectrometer Prime
+agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+notice_type: Presolicitation
+notice_id: 76c2a813aad54e6d850f790244810c6f
+---
+
+# Renewal Service Agreement for VITEK Mass Spectrometer Prime
+
+- Agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+- Type: Presolicitation
+- Posted: 2026-04-17 12:56:00.458-04
+- Solicitation Number: NOI-26-000812
+
+## Summary
+
+Announcement Number: NOI-26-000812 Date Posted: 4/17/2026 Date Solicitation Issued: 4/17/2026 Date Response Due: 4/27/2026 Project Title: Renewal Service Agreement for VITEK Mass Spectrometer Prime Contracting Office: Office of Logistics and Office of Administration Contact Points: Contracting Officer: Brian Lind, brian.lind@nih.gov Contract Specialist : tonia.alexander@nih.gov Acquisition Authority: This acquisition is being conducted under Federal Acquisition Regulations (FAR) Part 13 – Simplified Acquisition Procedures, and the resultant contract award will include all applicable provisions and clauses in effect through Federal Acquisition Circular 2026-01, March 13, 2026. North American Classification System (NAICS) Code: 811210 Small business size standard: $34.0 in millions Set-aside Status: This requirement is not set aside for small businesses; this is a sole source requirement. Competition Status: This requirement is posted as limited source\sole source Description of Requirement: This is a Notice of Intent, not a request for proposal. The Office of Logistics and Office of Administration (OLAO), of the National Institutes of Health (NIH) intend to negotiate on an other than full and open competition bases with BioMérieux Inc., 515 Colorow Drive, Salt Lake City, Utah 84108, USA, to procure a renewal maintenance/service agreement for a VITEK Mass Spectrometer Prime instrument. A renewal service agreement for a VITEK Mass Spectrometer with the serial numbers of SW-VT035937, SW-VT035938, MXL2082SZT, and ES00577 is to assure uninterrupted testing of microbiological agents from animal samples. Testing is performed by NIH veterinarians and assist in diagnosis and treatment of sick animals. The vendor is to provide renewal full service coverage and provide a preventive maintenance (PM) visit per year to ensure optimal performance, reliability, and compliance of the mass spectrometer system through routine preventive maintenance, calibration, and repair services. The VITEK MS is required to ensure compliance with federal animal welfare statutes, including the Animal Welfare Act, PHS Policy, and the Guide for the Care and Use of Laboratory Animals. Its implementation supports timely and accurate disease diagnosis, enhances veterinary care, mitigates zoonotic risk, and ensures adherence to AAALAC accreditation standards and federal quality assurance requirements. The current equipment VITEK MS uniquely interfaces with the existing VITEK II platform, allowing seamless integration of organism identification with antimicrobial susceptibility testing and confirmatory analysis. This interoperability is critical to minimizing identification errors, ensuring data integrity, and maintaining continuity within established laboratory workflows. No other vendor systems provide this level of compatibility with existing instrumentation. Failure to maintain the mass spectrometer under a qualified preventive maintenance program introduces significant risk to analytical accuracy, data integrity, regulatory compliance, and operational continuity. Improper servicing or use of non-authorized vendors may result in misidentification of clinically relevant organisms, loss of traceability, and inability to meet NIH, PHS, USDA, and AAALAC requirements. Additionally, due to the proprietary nature of the system’s software and databases, only authorized service providers can ensure continued system performance, validated results, and cybersecurity compliance. Specification of the requirement: Package #4707149 - Full Service Agreement VITEK MS Prime 1-Preventitive Maintenance visit during the performance year L-2-Maint Contract VITEK MS Prime Hotline 24/7 On-Site Repair 7/7 Local Business Hours Must be manufacturer-authorized, with demonstrated experience servicing proprietary mass spectrometry systems Maintain uptime, respond within 24–48 hours, and minimize disruption to lab operations Only authorized personnel may service equipment. Use of OEM-approved parts is required Coverage and response time equaling a direct contract and guaranteeing the equivalent manufacturer’s onsite support is required. If you are a third-party service provider, the response time and documentation of Manufacturer Certified technicians must be listed on a capabilities statement. Only one award will be made as a result of this solicitation. This will be awarded as a firm-fixed price type of contract. Period of Performance: Period of performance for full performance will be a base year of 6/1/2026 – 5/31/2027, and a one-year option period of 6/1/2027 – 5/31/2028. Service Location: NIH, 9000 Rockville Pike, Building 28A, Room 115, Bethesda, MD 20892. The statutory authority for this sole source requirement is 41 U.S.C. 253 (c) (1) as implemented by FAR 13.106-1 only one responsible source and no other supply of service will satisfy agency requirements. THIS IS NOT A REQUEST FOR PROPOSAL. All responsible sources that could provide this service may submit a capability statement to this to include evidence of being capable of providing priority service and a priority partnership with BioMérieux Inc. Capability Statements submitted by third-party vendors must include a contract with BioMérieux Inc. All Capability Statements must be received by Monday, April 27, 2026, 10:00am EST and must reference solicitation number NIH-26-000812 electronically to tonia.alexander@nih.gov. Late submissions shall be treated in accordance with the solicitation provision at FAR 52.212-1(f). A determination not to compete this requirement, based upon responses to this notice, is solely within the discretion of the Government.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Brian Lind
+  - Email: brian.lind@nih.gov
+  - Phone: 0000000000
+- Secondary Contact:
+  - Name: Tonia Alexander
+  - Email: tonia.alexander@nih.gov
+  - Phone: 000-000-0000
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/76c2a813aad54e6d850f790244810c6f/view)

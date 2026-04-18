@@ -1,0 +1,29 @@
+---
+layout: default
+title: Repair AMSA/ECS- Arden Hills Army Reserve Center, Minnesota
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 8fbde792d07d413ca939ccb225046245
+---
+
+# Repair AMSA/ECS- Arden Hills Army Reserve Center, Minnesota
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-04-17 10:26:47.311-04
+- Solicitation Number: W912QR26RA035
+
+## Summary
+
+Request for Proposal (RFP), Solicitation No. W912QR26RA035 is issued for the Design-Build of the Maintenance Support Activity (AMSA) and Equipment Concentration Site (ECS) in Arden Hills, MN. The U.S. Army Corps of Engineers, Louisville District, has a requirement from the Army Reserve to provide for Design and Construction repairing a failing 31,658 SF AMSA/ECS vehicle maintenance facility. Building components and systems to be repaired include Heating, Ventilation, and Air Conditioning (HVAC), electrical distribution, fire alarm and suppression systems, ceilings, windows, doors, floor coverings, interior reconfiguration, and interior finishes. The project includes retrofit installation of a new 10T crane with 20’ hook height and raising overall building roof to accommodate new crane hook height. The project will also repair the exterior facade and finishes. All hazardous materials (HAZMAT) removed as part of the demolition will be disposed of following all state and federal guidelines. The contract duration is estimated at 999 calendar days. This project is subject to availability of funds (SAF); funds are not presently available. No award will be made under this solicitation until funds are available. TYPE OF CONTRACT AND NAICS: This RFP is for one (1) Firm-Fixed-Price (FFP) contract. The North American Industrial Classification System Code (NAICS) for this effort is 236220 – Commercial and Institutional Building Construction. TYPE OF SET-ASIDE: This acquisition is an Unrestricted (Full and Open) Procurement. SELECTION PROCESS: This is a two-phase Design/Build procurement. The proposals will be evaluated using the Best-Value Tradeoff (BVTO) source selection process. The technical information contained in each Offeror’s proposal will be reviewed, evaluated, and rated by the Government. Potential offerors are invited to submit the information described in Section 00 22 16 and Section 00 22 18 of the Solicitation, for review and Consideration by the Government. As described in Section 00 22 16 of the Solicitation, the selection process for Phase I will evaluate such factors as Past Performance (for both the Price Contractor and A/E Designer of Record) and Technical Approach for Design/Build. Pro Forma Information such as bonding and financial capability will also be required to meet the minimum requirements of the solicitation. Following completion of the evaluation of Phase I, a target of five (5) of the most highly qualified offerors will be invited to participate in Phase II. The selected offerors for Phase II will be requested to submit additional information as will be described in Section 00 22 18 of the Solicitation for review and evaluation by the Government. The selection process for Phase II will evaluate such factors as: Design Narrative, Management Plan, Schedule Narrative, Small Business Participation Plan, and Price. The Standard Form (SF) 1442 and a Subcontracting Plan (Large Business Offerors Only) will also be required. (Note: The evaluation factors for Phase II provided in Section 00 22 18 are issued as a DRAFT during Phase I and is subject to change with the Phase II amendment.) All evaluation factors, other than price, are considered approximately equal to price. DISCUSSIONS: The Government intends to award without discussions but reserves the right to conduct discussions should it be deemed in the Government's best interest. CONSTRUCTION MAGNITUDE: The magnitude of this construction project is anticipated to be between $25 million and $100 million. SOLICITATION DOCUMENTS: Paper copies of the solicitation and amendments will not be used. Telephone, email, and fax requests for this solicitation, amendments, and attachments (plans and specifications) will not be honored. Project files are Portable Document Format (PDF) files and can be viewed, navigated, or printed using Adobe Acrobat Reader. To be able to download the solicitation for this project, contractors are required to register at the System for Award Management at https://sam.gov. Amendments, when issued, will be posted to SAM.gov website for electronic downloading. This will be the only method of distributing amendments prior to closing; therefore, it is the Offerors’ responsibility to check the websites periodically for any and all amendments to the solicitation. REGISTRATIONS: Offerors shall have and shall maintain an active registration in the following database: System for Award Management (SAM): Offerors shall have and shall maintain an active registration in the SAM database at https://www.sam.gov to be eligible for a Government contract award. If the Offeror is a Joint Venture (JV), the JV entity shall have a valid SAM registration in the SAM database representing the JV as one business/firm/entity. If at the time of award an Offeror is not actively and successfully registered in the SAM database, the Government reserves the right to award to the next prospective Offeror. POINT-OF-CONTACT: The point-of-contact for this procurement is Contract Specialist, Charity Mansfield, at charity.a.mansfield@usace.army.mil.
+
+## Contacts
+
+- Primary Contact:
+  - Name: CHARITY MANSFIELD
+  - Email: charity.a.mansfield@usace.army.mil
+  - Phone: 5023156925
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8fbde792d07d413ca939ccb225046245/view)
