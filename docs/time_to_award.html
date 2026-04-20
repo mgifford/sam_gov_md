@@ -1,0 +1,568 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SAM.gov Time-to-Award Analytics</title>
+    <style>
+      body {
+        margin: 0;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        background: #f6f8fa;
+        color: #1f2328;
+      }
+      .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 24px;
+      }
+      .header {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        margin-bottom: 18px;
+        flex-wrap: wrap;
+        gap: 12px;
+      }
+      .header h1 {
+        margin: 0 0 4px;
+        font-size: 26px;
+      }
+      .header nav {
+        display: flex;
+        gap: 12px;
+        flex-wrap: wrap;
+      }
+      .header a {
+        color: #0969da;
+        text-decoration: none;
+        padding: 6px 12px;
+        border-radius: 6px;
+        border: 1px solid #d0d7de;
+      }
+      .header a:hover,
+      .header a:focus {
+        background: #f0f6fc;
+        outline: 2px solid #0969da;
+        outline-offset: 2px;
+      }
+      .sub {
+        color: #59636e;
+        font-size: 13px;
+        margin: 0;
+      }
+      .summary-cards {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+        gap: 10px;
+        margin-bottom: 18px;
+      }
+      .card {
+        background: #fff;
+        border: 1px solid #d0d7de;
+        border-radius: 8px;
+        padding: 12px 14px;
+      }
+      .card .label {
+        font-size: 12px;
+        color: #59636e;
+        margin-bottom: 4px;
+      }
+      .card .value {
+        font-size: 24px;
+        font-weight: 700;
+      }
+      .panel {
+        background: #fff;
+        border: 1px solid #d0d7de;
+        border-radius: 8px;
+        padding: 14px;
+        margin-bottom: 14px;
+        overflow-x: auto;
+      }
+      .panel h2 {
+        margin-top: 0;
+        margin-bottom: 12px;
+        font-size: 18px;
+      }
+      .panel h3 {
+        margin-top: 0;
+        margin-bottom: 8px;
+        font-size: 15px;
+        color: #59636e;
+      }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 14px;
+      }
+      th, td {
+        text-align: left;
+        border-bottom: 1px solid #d8dee4;
+        padding: 8px;
+        vertical-align: top;
+      }
+      th {
+        background: #f6f8fa;
+        font-weight: 600;
+        white-space: nowrap;
+      }
+      th button {
+        background: none;
+        border: none;
+        cursor: pointer;
+        font: inherit;
+        font-weight: 600;
+        padding: 0;
+        color: inherit;
+        display: inline-flex;
+        align-items: center;
+        gap: 4px;
+      }
+      th button:hover,
+      th button:focus {
+        color: #0969da;
+        outline: 2px solid #0969da;
+        outline-offset: 2px;
+        border-radius: 2px;
+      }
+      th button[aria-sort="ascending"]::after { content: " ↑"; }
+      th button[aria-sort="descending"]::after { content: " ↓"; }
+      th button[aria-sort="none"]::after { content: " ↕"; color: #bbb; }
+      tr:hover {
+        background: #f6f8fa;
+      }
+      .badge {
+        display: inline-block;
+        border-radius: 12px;
+        padding: 2px 8px;
+        font-size: 12px;
+        font-weight: 600;
+      }
+      .badge-green  { background: #dafbe1; color: #1a7f37; }
+      .badge-yellow { background: #fff8c5; color: #9a6700; }
+      .badge-red    { background: #ffebe9; color: #cf222e; }
+      .empty {
+        color: #59636e;
+        font-style: italic;
+        padding: 16px 0;
+      }
+      .filter-bar {
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+        margin-bottom: 12px;
+        align-items: center;
+      }
+      .filter-bar label {
+        font-size: 13px;
+        font-weight: 600;
+      }
+      .filter-bar input,
+      .filter-bar select {
+        padding: 6px 10px;
+        border: 1px solid #d0d7de;
+        border-radius: 6px;
+        font-size: 13px;
+        font-family: inherit;
+      }
+      .filter-bar input:focus,
+      .filter-bar select:focus {
+        outline: 2px solid #0969da;
+        outline-offset: 2px;
+      }
+      .pagination {
+        display: flex;
+        gap: 8px;
+        align-items: center;
+        margin-top: 10px;
+        font-size: 13px;
+        flex-wrap: wrap;
+      }
+      .pagination button {
+        padding: 4px 10px;
+        border: 1px solid #d0d7de;
+        border-radius: 6px;
+        background: #fff;
+        cursor: pointer;
+        font-size: 13px;
+      }
+      .pagination button:disabled {
+        opacity: 0.4;
+        cursor: default;
+      }
+      .pagination button:hover:not(:disabled),
+      .pagination button:focus:not(:disabled) {
+        background: #f0f6fc;
+        outline: 2px solid #0969da;
+        outline-offset: 2px;
+      }
+      .pagination .page-info { color: #59636e; }
+      @media (max-width: 640px) {
+        .summary-cards { grid-template-columns: repeat(2, 1fr); }
+        .header { flex-direction: column; }
+      }
+    </style>
+  </head>
+  <body>
+    <header class="header container">
+      <div>
+        <h1>SAM.gov Time-to-Award Analytics</h1>
+        <p class="sub" id="info">Loading data&hellip;</p>
+      </div>
+      <nav aria-label="Site navigation">
+        <a href="index.html">← Today&rsquo;s Dashboard</a>
+        <a href="trends.html">Trends</a>
+        <a href="search.html">Search</a>
+      </nav>
+    </header>
+
+    <main class="container">
+
+      <!-- Summary cards -->
+      <section aria-label="Summary statistics">
+        <div class="summary-cards" id="summaryCards">
+          <div class="card"><p class="label">Awards with timing</p><p class="value" id="stat-total">—</p></div>
+          <div class="card"><p class="label">Avg days to award</p><p class="value" id="stat-avg">—</p></div>
+          <div class="card"><p class="label">Median days to award</p><p class="value" id="stat-median">—</p></div>
+          <div class="card"><p class="label">Fastest (days)</p><p class="value" id="stat-fastest">—</p></div>
+          <div class="card"><p class="label">Slowest (days)</p><p class="value" id="stat-slowest">—</p></div>
+          <div class="card"><p class="label">Abandoned / never awarded</p><p class="value" id="stat-abandoned">—</p></div>
+        </div>
+      </section>
+
+      <!-- By Contract Officer -->
+      <section class="panel" aria-labelledby="h2-officers">
+        <h2 id="h2-officers">Performance by Contract Officer</h2>
+        <p class="sub">Officers ranked by average days to award (fastest first). Only officers with at least one matched award are shown.</p>
+        <div class="filter-bar">
+          <label for="officer-search">Filter by name:</label>
+          <input type="search" id="officer-search" placeholder="Search officers…" aria-controls="officer-table-body" />
+        </div>
+        <table aria-label="Contract officer time-to-award performance">
+          <thead>
+            <tr>
+              <th><button aria-sort="none" data-col="name" data-table="officer">Officer</button></th>
+              <th><button aria-sort="ascending" data-col="avg_days" data-table="officer">Avg Days</button></th>
+              <th><button aria-sort="none" data-col="median_days" data-table="officer">Median Days</button></th>
+              <th><button aria-sort="none" data-col="fastest_award" data-table="officer">Fastest</button></th>
+              <th><button aria-sort="none" data-col="slowest_award" data-table="officer">Slowest</button></th>
+              <th><button aria-sort="none" data-col="awarded" data-table="officer">Awards</button></th>
+              <th>Agencies</th>
+            </tr>
+          </thead>
+          <tbody id="officer-table-body">
+            <tr><td colspan="7" class="empty">Loading&hellip;</td></tr>
+          </tbody>
+        </table>
+        <div class="pagination" id="officer-pagination" aria-label="Officer table pagination"></div>
+      </section>
+
+      <!-- By Agency -->
+      <section class="panel" aria-labelledby="h2-agency">
+        <h2 id="h2-agency">Performance by Agency</h2>
+        <p class="sub">Agencies ranked by average days to award. Agencies with no matched awards show only abandoned counts.</p>
+        <div class="filter-bar">
+          <label for="agency-search">Filter by agency:</label>
+          <input type="search" id="agency-search" placeholder="Search agencies…" aria-controls="agency-table-body" />
+        </div>
+        <table aria-label="Agency time-to-award performance">
+          <thead>
+            <tr>
+              <th><button aria-sort="none" data-col="agency" data-table="agency">Agency</button></th>
+              <th><button aria-sort="ascending" data-col="avg_days" data-table="agency">Avg Days</button></th>
+              <th><button aria-sort="none" data-col="median_days" data-table="agency">Median Days</button></th>
+              <th><button aria-sort="none" data-col="awarded" data-table="agency">Awards</button></th>
+              <th><button aria-sort="none" data-col="never_awarded_count" data-table="agency">Abandoned</button></th>
+            </tr>
+          </thead>
+          <tbody id="agency-table-body">
+            <tr><td colspan="5" class="empty">Loading&hellip;</td></tr>
+          </tbody>
+        </table>
+        <div class="pagination" id="agency-pagination" aria-label="Agency table pagination"></div>
+      </section>
+
+      <!-- Abandoned opportunities -->
+      <section class="panel" aria-labelledby="h2-abandoned">
+        <h2 id="h2-abandoned">Abandoned / Never-Awarded Solicitations</h2>
+        <p class="sub">Solicitations not re-sighted for more than <span id="stale-days-label">90</span> days with no matching Award Notice on record. Sorted oldest first.</p>
+        <div class="filter-bar">
+          <label for="abandoned-search">Filter by title or agency:</label>
+          <input type="search" id="abandoned-search" placeholder="Search…" aria-controls="abandoned-table-body" />
+        </div>
+        <table aria-label="Abandoned solicitations">
+          <thead>
+            <tr>
+              <th><button aria-sort="none" data-col="title" data-table="abandoned">Title</button></th>
+              <th><button aria-sort="none" data-col="agency" data-table="abandoned">Agency</button></th>
+              <th><button aria-sort="none" data-col="officer" data-table="abandoned">Officer</button></th>
+              <th><button aria-sort="none" data-col="posted_date" data-table="abandoned">Posted</button></th>
+              <th><button aria-sort="descending" data-col="days_since_last_seen" data-table="abandoned">Days Stale</button></th>
+            </tr>
+          </thead>
+          <tbody id="abandoned-table-body">
+            <tr><td colspan="5" class="empty">Loading&hellip;</td></tr>
+          </tbody>
+        </table>
+        <div class="pagination" id="abandoned-pagination" aria-label="Abandoned table pagination"></div>
+      </section>
+
+    </main>
+
+    <footer style="margin-top: 32px; padding: 20px 0; border-top: 1px solid #d0d7de; text-align: center; font-size: 13px; color: #59636e;">
+      <p>
+        This is an open source project. View the source, report issues, or contribute on
+        <a href="https://github.com/mgifford/sam_gov_md" style="color: #0969da; text-decoration: underline;">GitHub&nbsp;(mgifford/sam_gov_md)</a>.
+        Constructive contributions are welcome and appreciated!
+      </p>
+    </footer>
+
+    <script>
+      'use strict';
+
+      const PAGE_SIZE = 25;
+
+      // Table state keyed by table name
+      const state = {
+        officer:   { data: [], filtered: [], page: 1, sortCol: 'avg_days', sortDir: 'asc' },
+        agency:    { data: [], filtered: [], page: 1, sortCol: 'avg_days', sortDir: 'asc' },
+        abandoned: { data: [], filtered: [], page: 1, sortCol: 'days_since_last_seen', sortDir: 'desc' },
+      };
+
+      // -----------------------------------------------------------------------
+      // Data loading
+      // -----------------------------------------------------------------------
+      async function loadData() {
+        const resp = await fetch('data/time_to_award.json');
+        if (!resp.ok) throw new Error('Failed to load time_to_award.json');
+        return resp.json();
+      }
+
+      // -----------------------------------------------------------------------
+      // Sorting helpers
+      // -----------------------------------------------------------------------
+      function cmp(a, b, col, dir) {
+        let va = a[col], vb = b[col];
+        if (va === null || va === undefined) va = dir === 'asc' ? Infinity : -Infinity;
+        if (vb === null || vb === undefined) vb = dir === 'asc' ? Infinity : -Infinity;
+        if (typeof va === 'string') va = va.toLowerCase();
+        if (typeof vb === 'string') vb = vb.toLowerCase();
+        if (va < vb) return dir === 'asc' ? -1 : 1;
+        if (va > vb) return dir === 'asc' ? 1 : -1;
+        return 0;
+      }
+
+      function sortAndRender(tableName) {
+        const s = state[tableName];
+        s.filtered.sort((a, b) => cmp(a, b, s.sortCol, s.sortDir));
+        renderTable(tableName);
+      }
+
+      // -----------------------------------------------------------------------
+      // Rendering
+      // -----------------------------------------------------------------------
+      function fmt(val, decimals = 1) {
+        if (val === null || val === undefined) return '—';
+        return typeof val === 'number' ? val.toFixed(decimals) : val;
+      }
+
+      function speedBadge(avgDays) {
+        if (avgDays === null || avgDays === undefined) return '';
+        if (avgDays <= 30)  return '<span class="badge badge-green">Fast</span>';
+        if (avgDays <= 90)  return '<span class="badge badge-yellow">Moderate</span>';
+        return '<span class="badge badge-red">Slow</span>';
+      }
+
+      function renderOfficerRow(row) {
+        const agencies = Array.isArray(row.agencies) ? row.agencies.join(', ') : '—';
+        return `<tr>
+          <td>${esc(row.name)} ${speedBadge(row.avg_days)}</td>
+          <td>${fmt(row.avg_days)}</td>
+          <td>${fmt(row.median_days)}</td>
+          <td>${fmt(row.fastest_award, 0)}</td>
+          <td>${fmt(row.slowest_award, 0)}</td>
+          <td>${row.awarded ?? '—'}</td>
+          <td title="${esc(agencies)}">${esc(agencies.length > 60 ? agencies.slice(0, 60) + '…' : agencies)}</td>
+        </tr>`;
+      }
+
+      function renderAgencyRow(row) {
+        return `<tr>
+          <td>${esc(row.agency)} ${speedBadge(row.avg_days)}</td>
+          <td>${fmt(row.avg_days)}</td>
+          <td>${fmt(row.median_days)}</td>
+          <td>${row.awarded ?? '—'}</td>
+          <td>${row.never_awarded_count ?? 0}</td>
+        </tr>`;
+      }
+
+      function renderAbandonedRow(row) {
+        const posted = row.posted_date ? row.posted_date.slice(0, 10) : '—';
+        return `<tr>
+          <td>${esc(row.title ?? '—')}</td>
+          <td>${esc(row.agency ?? '—')}</td>
+          <td>${esc(row.officer ?? '—')}</td>
+          <td>${esc(posted)}</td>
+          <td>${row.days_since_last_seen ?? '—'}</td>
+        </tr>`;
+      }
+
+      const RENDER_ROW = {
+        officer: renderOfficerRow,
+        agency: renderAgencyRow,
+        abandoned: renderAbandonedRow,
+      };
+
+      const EMPTY_COLS = { officer: 7, agency: 5, abandoned: 5 };
+
+      function renderTable(tableName) {
+        const s = state[tableName];
+        const tbody = document.getElementById(tableName + '-table-body');
+        const total = s.filtered.length;
+        const start = (s.page - 1) * PAGE_SIZE;
+        const slice = s.filtered.slice(start, start + PAGE_SIZE);
+
+        if (total === 0) {
+          tbody.innerHTML = `<tr><td colspan="${EMPTY_COLS[tableName]}" class="empty">No records found.</td></tr>`;
+        } else {
+          tbody.innerHTML = slice.map(RENDER_ROW[tableName]).join('');
+        }
+
+        renderPagination(tableName, total);
+      }
+
+      function renderPagination(tableName, total) {
+        const s = state[tableName];
+        const totalPages = Math.ceil(total / PAGE_SIZE);
+        const container = document.getElementById(tableName + '-pagination');
+        if (totalPages <= 1) { container.innerHTML = ''; return; }
+
+        const prevDisabled = s.page <= 1 ? ' disabled' : '';
+        const nextDisabled = s.page >= totalPages ? ' disabled' : '';
+
+        container.innerHTML = `
+          <button${prevDisabled} aria-label="Previous page" onclick="changePage('${tableName}', -1)">← Prev</button>
+          <span class="page-info">Page ${s.page} of ${totalPages} (${total} records)</span>
+          <button${nextDisabled} aria-label="Next page" onclick="changePage('${tableName}', 1)">Next →</button>
+        `;
+      }
+
+      window.changePage = function(tableName, delta) {
+        const s = state[tableName];
+        const totalPages = Math.ceil(s.filtered.length / PAGE_SIZE);
+        s.page = Math.max(1, Math.min(totalPages, s.page + delta));
+        renderTable(tableName);
+      };
+
+      // -----------------------------------------------------------------------
+      // Filtering
+      // -----------------------------------------------------------------------
+      function filterTable(tableName, query) {
+        const s = state[tableName];
+        const q = query.toLowerCase();
+        const SEARCH_FIELDS = {
+          officer: ['name'],
+          agency: ['agency'],
+          abandoned: ['title', 'agency'],
+        };
+        const fields = SEARCH_FIELDS[tableName];
+        s.filtered = q
+          ? s.data.filter(row => fields.some(f => (row[f] || '').toLowerCase().includes(q)))
+          : [...s.data];
+        s.page = 1;
+        sortAndRender(tableName);
+      }
+
+      // -----------------------------------------------------------------------
+      // Sort button handling
+      // -----------------------------------------------------------------------
+      document.querySelectorAll('th button[data-table]').forEach(btn => {
+        btn.addEventListener('click', () => {
+          const tableName = btn.dataset.table;
+          const col = btn.dataset.col;
+          const s = state[tableName];
+
+          // Reset all buttons in this table
+          document.querySelectorAll(`th button[data-table="${tableName}"]`).forEach(b => {
+            b.setAttribute('aria-sort', 'none');
+          });
+
+          if (s.sortCol === col) {
+            s.sortDir = s.sortDir === 'asc' ? 'desc' : 'asc';
+          } else {
+            s.sortCol = col;
+            s.sortDir = 'asc';
+          }
+          btn.setAttribute('aria-sort', s.sortDir === 'asc' ? 'ascending' : 'descending');
+          s.page = 1;
+          sortAndRender(tableName);
+        });
+      });
+
+      // -----------------------------------------------------------------------
+      // Search input wiring
+      // -----------------------------------------------------------------------
+      document.getElementById('officer-search').addEventListener('input', e => {
+        filterTable('officer', e.target.value);
+      });
+      document.getElementById('agency-search').addEventListener('input', e => {
+        filterTable('agency', e.target.value);
+      });
+      document.getElementById('abandoned-search').addEventListener('input', e => {
+        filterTable('abandoned', e.target.value);
+      });
+
+      // -----------------------------------------------------------------------
+      // Escape helper
+      // -----------------------------------------------------------------------
+      function esc(s) {
+        if (s === null || s === undefined) return '—';
+        return String(s)
+          .replace(/&/g, '&amp;')
+          .replace(/</g, '&lt;')
+          .replace(/>/g, '&gt;')
+          .replace(/"/g, '&quot;');
+      }
+
+      // -----------------------------------------------------------------------
+      // Bootstrap
+      // -----------------------------------------------------------------------
+      loadData().then(data => {
+        const s = data.summary || {};
+        document.getElementById('stat-total').textContent    = s.total_awards_with_timing ?? '—';
+        document.getElementById('stat-avg').textContent      = s.avg_days_to_award != null ? s.avg_days_to_award.toFixed(1) : '—';
+        document.getElementById('stat-median').textContent   = s.median_days_to_award != null ? s.median_days_to_award.toFixed(1) : '—';
+        document.getElementById('stat-fastest').textContent  = s.fastest_award_days ?? '—';
+        document.getElementById('stat-slowest').textContent  = s.slowest_award_days ?? '—';
+        document.getElementById('stat-abandoned').textContent = s.total_abandoned ?? '—';
+        document.getElementById('stale-days-label').textContent = data.stale_days_threshold ?? 90;
+
+        const date = data.generated_date || '';
+        document.getElementById('info').textContent = date ? `Generated ${date}` : '';
+
+        // Populate officer table
+        state.officer.data = data.by_officer || [];
+        state.officer.filtered = [...state.officer.data];
+        sortAndRender('officer');
+
+        // Populate agency table
+        state.agency.data = data.by_agency || [];
+        state.agency.filtered = [...state.agency.data];
+        sortAndRender('agency');
+
+        // Populate abandoned table
+        state.abandoned.data = data.abandoned_opportunities || [];
+        state.abandoned.filtered = [...state.abandoned.data];
+        sortAndRender('abandoned');
+      }).catch(err => {
+        document.getElementById('info').textContent = 'Error loading data: ' + err.message;
+        ['officer-table-body', 'agency-table-body', 'abandoned-table-body'].forEach(id => {
+          const el = document.getElementById(id);
+          const cols = id.startsWith('officer') ? 7 : 5;
+          el.innerHTML = `<tr><td colspan="${cols}" class="empty">Data not available.</td></tr>`;
+        });
+      });
+    </script>
+  </body>
+</html>

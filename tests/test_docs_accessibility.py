@@ -92,6 +92,36 @@ def test_index_headings_do_not_skip_levels() -> None:
     )
 
 
+def test_time_to_award_headings_do_not_skip_levels() -> None:
+    html = (REPO_ROOT / "docs" / "time_to_award.html").read_text(encoding="utf-8")
+
+    heading_matches = _assert_headings_do_not_skip_levels(html)
+
+    officers_heading = next(
+        (m for m in heading_matches if "Officer" in m.group(2)), None
+    )
+    assert officers_heading is not None
+    assert int(officers_heading.group(1)) == 2
+
+
+def test_time_to_award_footer_link_distinguishable_without_color() -> None:
+    html = (REPO_ROOT / "docs" / "time_to_award.html").read_text(encoding="utf-8")
+    _assert_footer_link_has_underline(html, "time_to_award.html")
+
+
+def test_time_to_award_has_landmark_elements() -> None:
+    html = (REPO_ROOT / "docs" / "time_to_award.html").read_text(encoding="utf-8")
+    assert re.search(r"<header\b", html, re.IGNORECASE), (
+        "time_to_award.html must have a <header> landmark element"
+    )
+    assert re.search(r"<main\b", html, re.IGNORECASE), (
+        "time_to_award.html must have a <main> landmark element"
+    )
+    assert re.search(r"<footer\b", html, re.IGNORECASE), (
+        "time_to_award.html must have a <footer> landmark element"
+    )
+
+
 def test_index_all_content_in_landmarks() -> None:
     """Regression: all visible page content must be within landmark elements.
 

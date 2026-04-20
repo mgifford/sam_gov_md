@@ -265,3 +265,45 @@ class TestUpsertRecord:
         result = pst.upsert_record(conn, row, "2024-03-15")
         assert result == "skipped"
         conn.close()
+
+    def test_award_date_stored(self) -> None:
+        conn = self._setup()
+        row = _make_row("N001", "Award Notice")
+        row["AwardDate"] = "2024-06-01"
+        pst.upsert_record(conn, row, "2024-06-01")
+        stored = conn.execute(
+            "SELECT award_date FROM opportunities WHERE notice_id = ?", ("N001",)
+        ).fetchone()[0]
+        assert stored == "2024-06-01"
+        conn.close()
+
+    def test_empty_award_date_stored_as_none(self) -> None:
+        conn = self._setup()
+        row = _make_row("N001")
+        row["AwardDate"] = ""
+        pst.upsert_record(conn, row, "2024-03-15")
+        stored = conn.execute(
+            "SELECT award_date FROM opportunities WHERE notice_id = ?", ("N001",)
+        ).fetchone()[0]
+        assert stored is None
+        conn.close()
+
+    def test_contract_officer_stored(self) -> None:
+        conn = self._setup()
+        row = _make_row("N001")
+        row["PrimaryContactFullname"] = "Jane Doe"
+        pst.upsert_record(conn, row, "2024-03-15")
+        stored = conn.execute(
+            "SELECT contract_officer FROM opportunities WHERE notice_id = ?", ("N001",)
+        ).fetchone()[0]
+        assert stored == "Jane Doe"
+        conn.close()
+
+    def test_missing_contract_officer_stored_as_none(self) -> None:
+        conn = self._setup()
+        pst.upsert_record(conn, _make_row("N001"), "2024-03-15")
+        stored = conn.execute(
+            "SELECT contract_officer FROM opportunities WHERE notice_id = ?", ("N001",)
+        ).fetchone()[0]
+        assert stored is None
+        conn.close()
