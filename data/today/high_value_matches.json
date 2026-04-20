@@ -1,8 +1,8 @@
 {
-  "requested_date": "2026-04-19",
-  "effective_date": "2026-04-18",
-  "records_total": 18,
-  "high_value_count": 0,
+  "requested_date": "2026-04-20",
+  "effective_date": "2026-04-19",
+  "records_total": 196,
+  "high_value_count": 2,
   "min_hits": 8,
   "focus_terms": [
     "accessibility",
@@ -23,5 +23,44 @@
     "wcag",
     "web"
   ],
-  "matches": []
+  "matches": [
+    {
+      "NoticeId": "bf990a8cd4e845cc8904d960d28293ff",
+      "Sol#": "SPE2DS26T9756",
+      "Title": "65--OXIMETER,PULSE",
+      "Type": "Combined Synopsis/Solicitation",
+      "PostedDate": "2026-04-19 01:43:49.677-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "334511",
+      "ClassificationCode": "65",
+      "Link": "https://sam.gov/workspace/contract/opp/bf990a8cd4e845cc8904d960d28293ff/view",
+      "matches": [
+        {
+          "term": "ui",
+          "category": "design",
+          "count": 18
+        }
+      ],
+      "total_hits": 18
+    },
+    {
+      "NoticeId": "7655b2d0652b480c8ed155c4f932df60",
+      "Sol#": "M0026426R0013",
+      "Title": "Marine Corps University (MCU) Center for Distance Education (CDET) Distance Professional Military Education (DPME) program Academic Support Services.",
+      "Type": "Presolicitation",
+      "PostedDate": "2026-04-19 21:32:51.105-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "611710",
+      "ClassificationCode": "U009",
+      "Link": "https://sam.gov/workspace/contract/opp/7655b2d0652b480c8ed155c4f932df60/view",
+      "matches": [
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 8
+        }
+      ],
+      "total_hits": 8
+    }
+  ]
 }
