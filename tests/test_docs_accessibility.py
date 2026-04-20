@@ -122,47 +122,82 @@ def test_time_to_award_has_landmark_elements() -> None:
     )
 
 
-def test_index_all_content_in_landmarks() -> None:
-    """Regression: all visible page content must be within landmark elements.
+def _assert_all_content_in_landmarks(html: str, page_name: str) -> None:
+    """Assert that *html* has header/main/footer landmarks and no bare container
+    divs floating outside those landmarks.
 
-    Guards against the axe 'region' rule violation where content (e.g.
-    ``<div class="container">``) appears outside a landmark region such as
-    ``<header>``, ``<main>``, or ``<footer>``.
+    Guards against the axe 'region' rule violation (issues #62, #66, #70) where
+    content appears outside a landmark region such as ``<header>``, ``<main>``,
+    or ``<footer>``.
     """
-    index_html = (REPO_ROOT / "docs" / "index.html").read_text(encoding="utf-8")
-
-    # All three landmark elements must be present.
-    assert re.search(r"<header\b", index_html, re.IGNORECASE), (
-        "index.html must have a <header> landmark element (role=banner)"
+    assert re.search(r"<header\b", html, re.IGNORECASE), (
+        f"{page_name} must have a <header> landmark element (role=banner)"
     )
-    assert re.search(r"<main\b", index_html, re.IGNORECASE), (
-        "index.html must have a <main> landmark element"
+    assert re.search(r"<main\b", html, re.IGNORECASE), (
+        f"{page_name} must have a <main> landmark element"
     )
-    assert re.search(r"<footer\b", index_html, re.IGNORECASE), (
-        "index.html must have a <footer> landmark element (role=contentinfo)"
+    assert re.search(r"<footer\b", html, re.IGNORECASE), (
+        f"{page_name} must have a <footer> landmark element (role=contentinfo)"
     )
 
     # No <div class="container"> should appear between </header> and <main>
     # (i.e. outside any landmark region).
     between_header_main = re.search(
         r"</header\s*>(.*?)<main\b",
-        index_html,
+        html,
         re.DOTALL | re.IGNORECASE,
     )
     if between_header_main:
         gap = between_header_main.group(1)
         assert not re.search(
             r"<div\b[^>]*\bclass=[\"'][^\"']*container", gap, re.IGNORECASE
-        ), "A <div class='container'> appears between </header> and <main> — outside any landmark"
+        ), (
+            f"A <div class='container'> appears between </header> and <main> in "
+            f"{page_name} — outside any landmark"
+        )
 
     # No <div class="container"> should appear between </main> and <footer>.
     between_main_footer = re.search(
         r"</main\s*>(.*?)<footer\b",
-        index_html,
+        html,
         re.DOTALL | re.IGNORECASE,
     )
     if between_main_footer:
         gap = between_main_footer.group(1)
         assert not re.search(
             r"<div\b[^>]*\bclass=[\"'][^\"']*container", gap, re.IGNORECASE
-        ), "A <div class='container'> appears between </main> and <footer> — outside any landmark"
+        ), (
+            f"A <div class='container'> appears between </main> and <footer> in "
+            f"{page_name} — outside any landmark"
+        )
+
+
+def test_index_all_content_in_landmarks() -> None:
+    """Regression: all visible page content must be within landmark elements.
+
+    Guards against the axe 'region' rule violation (issue #62) where content
+    appears outside a landmark region such as ``<header>``, ``<main>``, or
+    ``<footer>``.
+    """
+    index_html = (REPO_ROOT / "docs" / "index.html").read_text(encoding="utf-8")
+    _assert_all_content_in_landmarks(index_html, "index.html")
+
+
+def test_search_all_content_in_landmarks() -> None:
+    """Regression: all visible page content in search.html must be within landmarks.
+
+    Guards against the axe 'region' rule violation (issue #66) where the
+    back-navigation link and other content appear outside a landmark region.
+    """
+    search_html = (REPO_ROOT / "docs" / "search.html").read_text(encoding="utf-8")
+    _assert_all_content_in_landmarks(search_html, "search.html")
+
+
+def test_trends_all_content_in_landmarks() -> None:
+    """Regression: all visible page content in trends.html must be within landmarks.
+
+    Guards against the axe 'region' rule violation (issue #70) where the h1
+    and intro paragraph appear outside a landmark region.
+    """
+    trends_html = (REPO_ROOT / "docs" / "trends.html").read_text(encoding="utf-8")
+    _assert_all_content_in_landmarks(trends_html, "trends.html")
