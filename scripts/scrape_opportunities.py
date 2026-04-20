@@ -86,13 +86,16 @@ def fetch_sam_gov_attachments(
         for att in raw_attachments:
             if not isinstance(att, dict):
                 continue
-            # SAM.gov spells the key "fileInformation" in most responses; an
-            # older/alternate variant spells it "fileInfomation" (missing 'r').
+            # SAM.gov uses "fileInformation" in current API responses.
+            # "fileInfomation" (missing 'r') is accepted defensively in case
+            # any production or staging environment surfaces this typo variant.
             file_info: dict = (
                 att.get("fileInformation")
                 or att.get("fileInfomation")
                 or {}
             )
+            # The field is "fileID" in SAM.gov API v1 responses; "fileId"
+            # (camelCase) is accepted defensively for any future API variants.
             file_id: str = (
                 file_info.get("fileID")
                 or file_info.get("fileId")
