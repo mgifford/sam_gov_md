@@ -25,11 +25,7 @@ DEFAULT_OUTPUT_DIR = "docs/opportunities"
 DEFAULT_LIMIT = 50
 DEFAULT_TIMEOUT = 30
 SAM_GOV_API_BASE = "https://api.sam.gov/opportunities/v1"
-
-_DOCX_CONTENT_TYPES = (
-    "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-    "application/msword",
-)
+SAM_GOV_DOWNLOAD_BASE = "https://sam.gov/api/prod/opps/v3/opportunities"
 
 _DOCX_CONTENT_TYPES = (
     "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -52,12 +48,21 @@ def fetch_sam_gov_attachments(
     api_key: str = "DEMO_KEY",
     timeout: int = DEFAULT_TIMEOUT,
 ) -> list[dict]:
-    """Fetch attachment URLs for an opportunity via the SAM.gov public API.
+    """Fetch attachment metadata for an opportunity via the SAM.gov public API.
 
-    Returns a list of dicts with ``url`` and ``filename`` keys.  Falls back to
-    an empty list on any error so the caller can continue without crashing.
+    Uses the ``/opportunities/v1/noticedesc`` endpoint which returns the full
+    opportunity description including an ``attachments`` array with file IDs.
+    Each file ID is converted to a direct download URL of the form::
+
+        https://sam.gov/api/prod/opps/v3/opportunities/{notice_id}/resources/files/{file_id}/download
+
+    Falls back to the legacy ``resourceLinks`` field (present in older API
+    responses) if the primary parse yields nothing.
+
+    Returns a list of dicts with ``url`` and ``filename`` keys.  Returns an
+    empty list on any error so the caller can continue without crashing.
     """
-    url = f"{SAM_GOV_API_BASE}/search?noticeid={notice_id}&api_key={api_key}"
+    url = f"{SAM_GOV_API_BASE}/noticedesc?noticeid={notice_id}&api_key={api_key}"
     try:
         resp = requests.get(
             url,
@@ -68,24 +73,64 @@ def fetch_sam_gov_attachments(
             return []
         data = resp.json()
 
-        # The SAM.gov API may use different envelope structures across versions.
-        # Walk through several known shapes to find the opportunity record.
+        attachments: list[dict] = []
+
+        # Primary path: parse structured attachment objects that carry file IDs.
+        # The noticedesc response may nest attachments at the top level or under
+        # a "data" envelope – handle both.
+        raw_attachments: list[dict] = (
+            data.get("attachments")
+            or data.get("data", {}).get("attachments")
+            or []
+        )
+        for att in raw_attachments:
+            if not isinstance(att, dict):
+                continue
+            # SAM.gov spells the key "fileInformation" in most responses; an
+            # older/alternate variant spells it "fileInfomation" (missing 'r').
+            file_info: dict = (
+                att.get("fileInformation")
+                or att.get("fileInfomation")
+                or {}
+            )
+            file_id: str = (
+                file_info.get("fileID")
+                or file_info.get("fileId")
+                or ""
+            )
+            filename: str = (
+                file_info.get("fileName")
+                or att.get("name")
+                or att.get("filename")
+                or "attachment"
+            )
+            if not file_id:
+                continue
+            download_url = (
+                f"{SAM_GOV_DOWNLOAD_BASE}/{notice_id}"
+                f"/resources/files/{file_id}/download?api_key={api_key}"
+            )
+            attachments.append({"url": download_url, "filename": filename})
+
+        if attachments:
+            return attachments
+
+        # Fallback: older API responses returned flat ``resourceLinks`` URLs
+        # directly without file IDs.  Preserve compatibility with any responses
+        # that still use this shape.
         results: list[dict] = (
             data.get("opportunitiesData")
             or data.get("_embedded", {}).get("results", [])
             or []
         )
-        if not results:
-            return []
+        for opp in results[:1]:
+            resource_links: list[str] = opp.get("resourceLinks") or []
+            for link in resource_links:
+                if not link:
+                    continue
+                filename = Path(urlparse(link).path).name or "attachment"
+                attachments.append({"url": link, "filename": filename})
 
-        opp = results[0]
-        resource_links: list[str] = opp.get("resourceLinks") or []
-        attachments = []
-        for link in resource_links:
-            if not link:
-                continue
-            filename = Path(urlparse(link).path).name or "attachment"
-            attachments.append({"url": link, "filename": filename})
         return attachments
     except Exception:
         return []

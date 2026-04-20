@@ -337,3 +337,140 @@ class TestFetchSamGovAttachments:
             result = so.fetch_sam_gov_attachments("NOTICE456")
         assert len(result) == 1
         assert result[0]["filename"] == "spec.docx"
+
+    # ------------------------------------------------------------------
+    # Tests for the primary noticedesc endpoint / fileInformation shape
+    # ------------------------------------------------------------------
+
+    def test_parses_file_information_attachments(self) -> None:
+        """Primary path: noticedesc response with fileInformation.fileID."""
+        mock_resp = MagicMock()
+        mock_resp.status_code = 200
+        mock_resp.json.return_value = {
+            "attachments": [
+                {
+                    "name": "RFQ Letter.pdf",
+                    "fileInformation": {
+                        "fileID": "abc-123",
+                        "fileName": "RFQ Letter.pdf",
+                    },
+                }
+            ]
+        }
+        with patch("requests.get", return_value=mock_resp):
+            result = so.fetch_sam_gov_attachments("NOTICE789", api_key="MYKEY")
+        assert len(result) == 1
+        assert result[0]["filename"] == "RFQ Letter.pdf"
+        assert "NOTICE789" in result[0]["url"]
+        assert "abc-123" in result[0]["url"]
+        assert "MYKEY" in result[0]["url"]
+
+    def test_download_url_format(self) -> None:
+        """Constructed download URL matches expected SAM.gov v3 path."""
+        mock_resp = MagicMock()
+        mock_resp.status_code = 200
+        mock_resp.json.return_value = {
+            "attachments": [
+                {
+                    "fileInformation": {
+                        "fileID": "file-uuid-001",
+                        "fileName": "SOW.pdf",
+                    }
+                }
+            ]
+        }
+        with patch("requests.get", return_value=mock_resp):
+            result = so.fetch_sam_gov_attachments("NOTICEID", api_key="TESTKEY")
+        assert len(result) == 1
+        expected_url = (
+            "https://sam.gov/api/prod/opps/v3/opportunities/NOTICEID"
+            "/resources/files/file-uuid-001/download?api_key=TESTKEY"
+        )
+        assert result[0]["url"] == expected_url
+
+    def test_parses_file_infomation_typo_variant(self) -> None:
+        """Fallback spelling 'fileInfomation' (missing 'r') is also accepted."""
+        mock_resp = MagicMock()
+        mock_resp.status_code = 200
+        mock_resp.json.return_value = {
+            "attachments": [
+                {
+                    "name": "attachment.pdf",
+                    "fileInfomation": {
+                        "fileID": "typo-variant-id",
+                        "fileName": "attachment.pdf",
+                    },
+                }
+            ]
+        }
+        with patch("requests.get", return_value=mock_resp):
+            result = so.fetch_sam_gov_attachments("NOTICE_T", api_key="K")
+        assert len(result) == 1
+        assert "typo-variant-id" in result[0]["url"]
+
+    def test_attachment_without_file_id_is_skipped(self) -> None:
+        """Attachment objects that have no fileID are skipped."""
+        mock_resp = MagicMock()
+        mock_resp.status_code = 200
+        mock_resp.json.return_value = {
+            "attachments": [
+                {"name": "no_id.pdf", "fileInformation": {}},
+                {
+                    "name": "has_id.pdf",
+                    "fileInformation": {"fileID": "good-id", "fileName": "has_id.pdf"},
+                },
+            ]
+        }
+        with patch("requests.get", return_value=mock_resp):
+            result = so.fetch_sam_gov_attachments("NOTICE_S")
+        assert len(result) == 1
+        assert "good-id" in result[0]["url"]
+
+    def test_multiple_attachments_all_returned(self) -> None:
+        """All attachments in the response are returned."""
+        mock_resp = MagicMock()
+        mock_resp.status_code = 200
+        mock_resp.json.return_value = {
+            "attachments": [
+                {"fileInformation": {"fileID": f"id-{i}", "fileName": f"file{i}.pdf"}}
+                for i in range(5)
+            ]
+        }
+        with patch("requests.get", return_value=mock_resp):
+            result = so.fetch_sam_gov_attachments("NOTICEMULTI")
+        assert len(result) == 5
+        file_ids = {r["url"].split("/files/")[1].split("/download")[0] for r in result}
+        assert file_ids == {f"id-{i}" for i in range(5)}
+
+    def test_attachments_nested_under_data_envelope(self) -> None:
+        """Attachments nested under a 'data' key are parsed correctly."""
+        mock_resp = MagicMock()
+        mock_resp.status_code = 200
+        mock_resp.json.return_value = {
+            "data": {
+                "attachments": [
+                    {
+                        "fileInformation": {
+                            "fileID": "nested-id",
+                            "fileName": "nested.pdf",
+                        }
+                    }
+                ]
+            }
+        }
+        with patch("requests.get", return_value=mock_resp):
+            result = so.fetch_sam_gov_attachments("NOTICE_NESTED")
+        assert len(result) == 1
+        assert "nested-id" in result[0]["url"]
+
+    def test_noticedesc_endpoint_url_is_queried(self) -> None:
+        """The function calls the noticedesc endpoint, not the old search endpoint."""
+        mock_resp = MagicMock()
+        mock_resp.status_code = 200
+        mock_resp.json.return_value = {}
+        with patch("requests.get", return_value=mock_resp) as mock_get:
+            so.fetch_sam_gov_attachments("NOTICE_URL_CHECK", api_key="K2")
+        called_url = mock_get.call_args[0][0]
+        assert "noticedesc" in called_url
+        assert "NOTICE_URL_CHECK" in called_url
+        assert "search" not in called_url
