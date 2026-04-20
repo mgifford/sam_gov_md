@@ -31,7 +31,9 @@ def init_db(conn: sqlite3.Connection) -> None:
             matches TEXT,
             awardee TEXT,
             set_aside TEXT,
-            additional_info_link TEXT
+            additional_info_link TEXT,
+            award_date TEXT,
+            contract_officer TEXT
         )
         """
     )
@@ -42,6 +44,8 @@ def init_db(conn: sqlite3.Connection) -> None:
         ("awardee", "TEXT"),
         ("set_aside", "TEXT"),
         ("additional_info_link", "TEXT"),
+        ("award_date", "TEXT"),
+        ("contract_officer", "TEXT"),
     ]:
         try:
             conn.execute(f"ALTER TABLE opportunities ADD COLUMN {col} {col_type}")
@@ -91,6 +95,8 @@ def upsert_record(conn: sqlite3.Connection, row: dict, snapshot_date: str) -> st
     awardee = (row.get("Awardee") or "").strip() or None
     set_aside = (row.get("SetASide") or row.get("SetASideCode") or "").strip() or None
     additional_info_link = (row.get("AdditionalInfoLink") or "").strip() or None
+    award_date = (row.get("AwardDate") or "").strip() or None
+    contract_officer = (row.get("PrimaryContactFullname") or "").strip() or None
 
     conn.execute(
         """
@@ -98,8 +104,9 @@ def upsert_record(conn: sqlite3.Connection, row: dict, snapshot_date: str) -> st
             notice_id, sol_number, title, agency, notice_type, posted_date,
             response_deadline, naics_code, link, is_win, first_seen_date,
             last_seen_date, seen_count, last_snapshot_date,
-            description, matches, awardee, set_aside, additional_info_link
-        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 1, ?, ?, ?, ?, ?, ?)
+            description, matches, awardee, set_aside, additional_info_link,
+            award_date, contract_officer
+        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 1, ?, ?, ?, ?, ?, ?, ?, ?)
         ON CONFLICT(notice_id) DO UPDATE SET
             sol_number = excluded.sol_number,
             title = excluded.title,
@@ -117,7 +124,9 @@ def upsert_record(conn: sqlite3.Connection, row: dict, snapshot_date: str) -> st
             matches = excluded.matches,
             awardee = excluded.awardee,
             set_aside = excluded.set_aside,
-            additional_info_link = excluded.additional_info_link
+            additional_info_link = excluded.additional_info_link,
+            award_date = excluded.award_date,
+            contract_officer = excluded.contract_officer
         """,
         (
             notice_id,
@@ -138,6 +147,8 @@ def upsert_record(conn: sqlite3.Connection, row: dict, snapshot_date: str) -> st
             awardee,
             set_aside,
             additional_info_link,
+            award_date,
+            contract_officer,
         ),
     )
 
