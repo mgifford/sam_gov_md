@@ -23,6 +23,10 @@ notice_id: 8ad0d274d4b74d6b9a9fec11d69e5524
   - Name: Ralph Crum
   - Email: ralph.crum@va.gov
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8ad0d274d4b74d6b9a9fec11d69e5524/view)

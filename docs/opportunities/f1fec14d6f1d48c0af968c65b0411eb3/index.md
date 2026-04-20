@@ -24,6 +24,10 @@ The work is to be performed in SASEBO, JAPAN. This solicitation is intended only
   - Email: akiko.tashiro.ln@us.navy.mil
   - Phone: 81956502855
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f1fec14d6f1d48c0af968c65b0411eb3/view)

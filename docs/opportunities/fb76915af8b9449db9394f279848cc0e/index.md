@@ -26,6 +26,10 @@ Electrical Master Planning GENERAL SCOPE OF WORK: The firm selected shall provid
   - Email: Kenyon.Dulaney@va.gov
   - Phone: 614-969-8804
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fb76915af8b9449db9394f279848cc0e/view)

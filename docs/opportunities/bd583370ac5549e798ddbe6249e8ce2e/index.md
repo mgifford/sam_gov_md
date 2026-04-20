@@ -28,6 +28,10 @@ The Department seeks an Administrator for the .usTLD to provide both the baselin
   - Email: bgabriel@doc.gov
   - Phone: 2027056905
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bd583370ac5549e798ddbe6249e8ce2e/view)

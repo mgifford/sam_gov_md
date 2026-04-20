@@ -33,6 +33,10 @@ Post Closing Amendment 0001 - The purpose of this amendment is to extend this so
 
 - Attachment 1: Addendum to 52.212-1 for additional instructions including the submittal instructions. The name and telephone number of the individual to contact for information regarding the solicitation including submission of questions is the Contract Specialist identified in Contract Opportunities for this combined synopsis/solicitation. The Government may not respond to questions received less than 5 days prior to the due date and time for receipt of quotations
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4dd9d3f68134416382b5f502ab69a5dc/view)

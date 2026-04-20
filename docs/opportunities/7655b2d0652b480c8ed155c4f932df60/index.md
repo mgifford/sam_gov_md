@@ -26,6 +26,10 @@ The Marine Corps Installations National Capital Region-Regional Contracting Offi
   - Name: Edgar Lopez-Jimenz
   - Email: edgar.lopezjimenez@usmc.mil
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7655b2d0652b480c8ed155c4f932df60/view)

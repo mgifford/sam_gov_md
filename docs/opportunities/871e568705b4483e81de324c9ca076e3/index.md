@@ -24,6 +24,10 @@ SEE ATTACHED SOLE SOURCE SOURCES SOUGHT NOTICE
   - Email: TRICIA.WINTERSTEEN@DLA.MIL
   - Phone: 3605090205
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/871e568705b4483e81de324c9ca076e3/view)

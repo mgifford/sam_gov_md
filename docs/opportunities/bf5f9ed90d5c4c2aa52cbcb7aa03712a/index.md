@@ -24,6 +24,10 @@ The contractor shall replace and repair Fire Protection System, CFAC according t
   - Email: yun.c.kim4.ln@us.navy.mil
   - Phone: 3157635871
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bf5f9ed90d5c4c2aa52cbcb7aa03712a/view)

@@ -28,6 +28,10 @@ This is a combined synopsis/solicitation for Commercial Products prepared in acc
   - Email: joseph.w.jeddrey.civ@army.mil
   - Phone: 6032251311
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a1becf19c5764cc49f97c5fd1a616474/view)

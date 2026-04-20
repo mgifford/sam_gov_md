@@ -28,6 +28,10 @@ notice_id: 7ba96dd4cbc74192a13b3303b8a8215c
   - Email: MRSSProcurement@state.gov
   - Phone: 63253012000
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7ba96dd4cbc74192a13b3303b8a8215c/view)

@@ -24,6 +24,10 @@ Norfolk Naval Shipyard (NNSY) intends to award a Firm Fixed Price (FFP) Single A
   - Email: rebekah.r.riggins.civ@us.navy.mil
   - Phone: 7579674014
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b2910bda98f342149cd76c39de3038c6/view)

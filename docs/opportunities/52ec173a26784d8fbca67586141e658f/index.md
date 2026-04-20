@@ -23,6 +23,10 @@ This is a combined synopsis/solicitation for commercial services prepared in acc
   - Name: Michael Winstead
   - Email: michael.winstead@fletc.dhs.gov
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/52ec173a26784d8fbca67586141e658f/view)

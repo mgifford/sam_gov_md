@@ -33,6 +33,10 @@ This is a combined synopsis/solicitation for commercial items prepared in accord
 
 - Attachment 1: a complete list of provisions & clauses applicable to this solicitation
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/66845c80797e47119c7c4f448c0aa0e3/view)

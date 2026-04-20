@@ -1,15 +1,15 @@
 {
-  "forecast_date": "2026-04-18",
+  "forecast_date": "2026-04-19",
   "departments_by_opportunity_volume": [
     {
-      "total_records": 8,
-      "open_opportunities": 8,
+      "total_records": 186,
+      "open_opportunities": 186,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
-      "opportunities_with_attachments": 2,
-      "opportunities_with_keyword_matches": 3,
+      "opportunities_with_attachments": 4,
+      "opportunities_with_keyword_matches": 175,
       "top_awardees": [],
       "department": "DEPT OF DEFENSE"
     },
@@ -21,49 +21,13 @@
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 3,
-      "top_awardees": [],
-      "department": "INTERNATIONAL BOUNDARY AND WATER COMMISSION: US-MEXICO"
-    },
-    {
-      "total_records": 3,
-      "open_opportunities": 3,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 3,
+      "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
       "department": "VETERANS AFFAIRS, DEPARTMENT OF"
     },
     {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "INTERIOR, DEPARTMENT OF THE"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "AGRICULTURE, DEPARTMENT OF"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
+      "total_records": 2,
+      "open_opportunities": 2,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
@@ -81,21 +45,81 @@
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 1,
+      "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
       "department": "HOMELAND SECURITY, DEPARTMENT OF"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "COMMERCE, DEPARTMENT OF"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 1,
+      "top_awardees": [],
+      "department": "INTERNATIONAL BOUNDARY AND WATER COMMISSION: US-MEXICO"
+    },
+    {
+      "total_records": 2,
+      "open_opportunities": 0,
+      "awarded": 2,
+      "win_rate_percent": 100.0,
+      "estimated_monthly_value": 57455,
+      "average_award_value": 28727,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [
+        {
+          "name": "Asset Integrity Field Service Inc. Foresthill CA 95631 USA",
+          "wins": 2,
+          "total_value": 57455
+        }
+      ],
+      "department": "AGRICULTURE, DEPARTMENT OF"
     }
   ],
   "departments_by_award_value": [
     {
-      "total_records": 8,
-      "open_opportunities": 8,
+      "total_records": 2,
+      "open_opportunities": 0,
+      "awarded": 2,
+      "win_rate_percent": 100.0,
+      "estimated_monthly_value": 57455,
+      "average_award_value": 28727,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [
+        {
+          "name": "Asset Integrity Field Service Inc. Foresthill CA 95631 USA",
+          "wins": 2,
+          "total_value": 57455
+        }
+      ],
+      "department": "AGRICULTURE, DEPARTMENT OF"
+    },
+    {
+      "total_records": 186,
+      "open_opportunities": 186,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
-      "opportunities_with_attachments": 2,
-      "opportunities_with_keyword_matches": 3,
+      "opportunities_with_attachments": 4,
+      "opportunities_with_keyword_matches": 175,
       "top_awardees": [],
       "department": "DEPT OF DEFENSE"
     },
@@ -107,49 +131,13 @@
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 3,
-      "top_awardees": [],
-      "department": "INTERNATIONAL BOUNDARY AND WATER COMMISSION: US-MEXICO"
-    },
-    {
-      "total_records": 3,
-      "open_opportunities": 3,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 3,
+      "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
       "department": "VETERANS AFFAIRS, DEPARTMENT OF"
     },
     {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "INTERIOR, DEPARTMENT OF THE"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "AGRICULTURE, DEPARTMENT OF"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
+      "total_records": 2,
+      "open_opportunities": 2,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
@@ -167,32 +155,45 @@
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 1,
+      "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
       "department": "HOMELAND SECURITY, DEPARTMENT OF"
-    }
-  ],
-  "department_forecasts": {
-    "DEPT OF DEFENSE": {
-      "total_records": 8,
-      "open_opportunities": 8,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 2,
-      "opportunities_with_keyword_matches": 3,
-      "top_awardees": []
     },
-    "INTERNATIONAL BOUNDARY AND WATER COMMISSION: US-MEXICO": {
-      "total_records": 3,
-      "open_opportunities": 3,
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 3,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "COMMERCE, DEPARTMENT OF"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 1,
+      "top_awardees": [],
+      "department": "INTERNATIONAL BOUNDARY AND WATER COMMISSION: US-MEXICO"
+    }
+  ],
+  "department_forecasts": {
+    "DEPT OF DEFENSE": {
+      "total_records": 186,
+      "open_opportunities": 186,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 4,
+      "opportunities_with_keyword_matches": 175,
       "top_awardees": []
     },
     "VETERANS AFFAIRS, DEPARTMENT OF": {
@@ -203,12 +204,12 @@
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 3,
+      "opportunities_with_keyword_matches": 0,
       "top_awardees": []
     },
-    "INTERIOR, DEPARTMENT OF THE": {
-      "total_records": 1,
-      "open_opportunities": 1,
+    "STATE, DEPARTMENT OF": {
+      "total_records": 2,
+      "open_opportunities": 2,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
@@ -218,17 +219,23 @@
       "top_awardees": []
     },
     "AGRICULTURE, DEPARTMENT OF": {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
+      "total_records": 2,
+      "open_opportunities": 0,
+      "awarded": 2,
+      "win_rate_percent": 100.0,
+      "estimated_monthly_value": 57455,
+      "average_award_value": 28727,
+      "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
-      "top_awardees": []
+      "top_awardees": [
+        {
+          "name": "Asset Integrity Field Service Inc. Foresthill CA 95631 USA",
+          "wins": 2,
+          "total_value": 57455
+        }
+      ]
     },
-    "STATE, DEPARTMENT OF": {
+    "HOMELAND SECURITY, DEPARTMENT OF": {
       "total_records": 1,
       "open_opportunities": 1,
       "awarded": 0,
@@ -239,7 +246,18 @@
       "opportunities_with_keyword_matches": 0,
       "top_awardees": []
     },
-    "HOMELAND SECURITY, DEPARTMENT OF": {
+    "COMMERCE, DEPARTMENT OF": {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": []
+    },
+    "INTERNATIONAL BOUNDARY AND WATER COMMISSION: US-MEXICO": {
       "total_records": 1,
       "open_opportunities": 1,
       "awarded": 0,

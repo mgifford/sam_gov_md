@@ -26,6 +26,10 @@ No summary provided.
   - Email: ricky.mclellan@usda.gov
   - Phone: 9713376197
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/43a69f9a3b0b410b894c55a6e4041311/view)

@@ -30,6 +30,10 @@ UPDATE 04/20/2026 Minutes from the Pre-Quotation Conference --------------------
   - Email: manilapurchasing@state.gov
   - Phone: 63253012000
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/740a84118ac04aeeafa1874d2fc5728e/view)
