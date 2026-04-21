@@ -1,0 +1,31 @@
+---
+layout: default
+title: Sources Sought for Integrated Logistics and Engineering Support for the AN/ALQ-165 Airborne Self Protection Jammer (ASPJ) System for Foreign Military Sales (FMS) Customers
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: a9f5ebd9e1b8446c96690237c3a62945
+---
+
+# Sources Sought for Integrated Logistics and Engineering Support for the AN/ALQ-165 Airborne Self Protection Jammer (ASPJ) System for Foreign Military Sales (FMS) Customers
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-04-20 12:18:09.283-04
+- Solicitation Number: N00019-26-RFPREQ-TPM272-0161
+
+## Summary
+
+DISCLAIMER: THIS SOURCES SOUGHT IS FOR INFORMATIONAL PURPOSES ONLY. THIS IS NOT A REQUEST FOR PROPOSAL. IT DOES NOT CONSTITUTE A SOLICITATION AND SHALL NOT BE CONSTRUED AS A COMMITMENT BY THE GOVERNMENT. RESPONSES IN ANY FORM ARE NOT OFFERS AND THE GOVERNMENT IS UNDER NO OBLIGATION TO AWARD A CONTRACT AS A RESULT OF THIS ANNOUNCEMENT. NO FUNDS ARE AVAILABLE TO PAY FOR PREPARATION OF RESPONSES TO THIS ANNOUNCEMENT. ANY INFORMATION SUBMITTED BY RESPONDENTS TO THIS TECHNICAL DESCRIPTION IS STRICTLY VOULNTARY. INTRODUCTION: The Naval Air Systems Command (NAVAIR) at Patuxent River, MD announces its intention to award a new Order under a previously established Basic Ordering Agreement (BOA). The scope of this order is to provide comprehensive Integrated Logistics and Engineering Support for the AN/ALQ-165 Airborne Self Protection Jammer (ASPJ) System in support of Foreign Military Sales (FMS) customers. This effort will encompass the full range of sustainment activities required to ensure the operational readiness of ASPJ systems currently fielded, and any future systems, with FMS partners. THIS SOURCES SOUGHT IS NOT A REQUEST FOR PROPOSAL. It is a market research tool being used to determine potential and eligible businesses capable of providing the services described herein prior to determining the method of acquisition and issuance of a Request for Proposal. The Government is not obligated to and will not pay for any information received from potential sources as a result of this notice. ELIGIBILITY: The Product/Service Code (PSC) most appropriate for this contract is 5865: Electronic Countermeasures, Counter-Countermeasures and Quick Reaction Capability Equipment, that includes and is restricted to passive and active electronic equipment, systems, and subsystems designed to prevent or reduce an enemy’s effective use of radiated electromagnetic energy or designed to insure our own effective use of radiated electromagnetic energy. All interested businesses are encouraged to respond. ANTICIPATED PERIOD OF PERFORMANCE: The period of performance is anticipated to begin October 2026. ANTICIPATED CONTRACT TYPE: The contract type is anticipated to be Cost Reimbursable. PROGRAM BACKGROUND: The AN/ALQ-165 Airborne Self Protection Jammer (ASPJ) detects, identifies, and provides on-board Electronic Countermeasures (ECM) against RF threats (Pules, Pulse Doppler & Continuous Wave) to protect the aircrew of fixed wing aircraft from surface and air threats. REQUIRED CAPABILITIES: Interested sources must demonstrate a comprehensive and mature capability to provide full-spectrum Integrated Logistics and Engineering Support for the AN/ALQ-165 Airborne Self Protection Jammer (ASPJ) System. This includes a thorough understanding of and experience with managing the complete sustainment lifecycle for advanced avionics systems in a Foreign Military Sales (FMS) environment. Respondents must possess the intrinsic technical expertise to address all elements of integrated logistics, from supply support and training to the development and maintenance of technical documentation, ensuring total system supportability for current and future ASPJ systems fielded with FMS partners. Furthermore, a capable source shall possess the program management infrastructure and engineering expertise required to execute on-site technical support missions in international locations. This includes the ability to deploy integrated teams of engineers and program managers to FMS customer facilities to conduct in-depth technical investigations, analyze field problems, and provide direct, actionable recommendations to both flight and maintenance crews. Respondents must demonstrate a proven ability to coordinate complex international efforts, interface directly with FMS customers, and maintain seamless communication and reporting with the U.S. Government Technical Point of Contact (TPOC). Interested businesses shall demonstrate that your company currently possesses or has authorized access to the necessary technical data, or has a viable plan to obtain, generate, or otherwise secure the necessary technical data, and that it will be maintained throughout the duration of the effort being solicited. Interested businesses shall demonstrate the capability to meet the Government’s required timelines. You may also submit information that demonstrates how you could potentially meet these requirements for future opportunities. INCUMBENT: This notice is for a new Order against an established BOA. SUBMISSION DETAILS: Interested businesses shall submit a brief capabilities statement package (no more than ten (10) 8.5 x 11-inch pages, font no smaller than 12-point, 1.5 line spaced), in bullet point format, demonstrating their ability to perform the services described herein no later than 05 May 2026. The capability statement packages shall be sent by email to craig.s.hayden2.civ@us.navy.mil. Submissions must be received at the office and/or email cited no later than 5:00 p.m. Eastern Standard Time on the dates listed above. Questions or comments regarding this notice may be addressed to Craig Hayden at the above email address. All responses shall include Company Name, Company Address, Company business Size, and Points-of-Contact (POC) including name, phone number, fax number, and email address.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Craig Hayden
+  - Email: craig.s.hayden2.civ@us.navy.mil
+- Secondary Contact:
+  - Name: Elizabeth Lamb
+  - Email: elizabeth.v.lamb2.civ@us.navy.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a9f5ebd9e1b8446c96690237c3a62945/view)

@@ -1,0 +1,37 @@
+---
+layout: default
+title: Repair Radar Radome
+agency: HOMELAND SECURITY, DEPARTMENT OF
+notice_type: Combined Synopsis/Solicitation
+notice_id: fcffeb8bf3924ab3a3f7c0f7e61ad2fb
+---
+
+# Repair Radar Radome
+
+- Agency: HOMELAND SECURITY, DEPARTMENT OF
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-04-20 16:06:45.06-04
+- Solicitation Number: 70Z03826QJ0000137
+
+## Summary
+
+This is a combined synopsis/solicitation for commercial items prepared in accordance with the format in Federal Acquisition Regulation (FAR) subpart 12.201, as supplemented with additional information included in this notice. This announcement constitutes the only solicitation; quotations are being requested and a written solicitation will not be issued. Solicitation number 70Z03826QJ0000137 is issued as a Request for Quotation (RFQ). This solicitation document and incorporated provisions and clauses are those in effect as of November 28, 2025, IAW the Revolutionary FAR Overhaul (RFO). The applicable North American Industry Classification Standard Code is 488190. The small business size standard is $40 million. This is an unrestricted requirement. All responsible sources may submit a quotation which shall be considered by the agency. It is anticipated that a firm-fixed price purchase order will be awarded for repair of the Radar Radome on a competitive basis as a result of this synopsis/solicitation. Pricing should be provided on Attachment 1 – Schedule-70Z03826QJ0000137. At the time of award, the United States Coast Guard (USCG) intends to have one (1) repair completed for the component specified in the schedule. The USCG may require fifteen (15) additional components to be repaired for a maximum quantity of sixteen (16) components repaired at the same price and same turnaround time as the original order, for up to three hundred and sixty-five (365) days after the initial award date. ****Please note that if the USCG chooses to exercise any optional quantity modifications, such modifications will be issued unilaterally to the contractor. Concerns that have the expertise and required capabilities to repair this item are invited to submit offers in accordance with the requirements stipulated in this solicitation. The contractor shall furnish a Certificate of Conformance (COC) in accordance with Federal Acquisition Regulation (FAR) clause 52.246-15. The COC must be submitted in the format specified in the clause. Offerors must be able to provide necessary certification including traceability to the manufacturer, manufacturer's COC and its own certificate of conformance. NOTE: NO DRAWINGS, SPECIFICATIONS OR SCHEMATICS ARE AVAILABLE FROM THIS AGENCY. Please carefully review the following attachments for additional information and requirements: ATTACHMENT 1-“SCHEDULE-70Z03826QJ0000137” ATTACHMENT 2–“STATEMENT OF WORK-70Z03826QJ0000137” ATTACHMENT 3 -“TERMS AND CONDITIONS – 70Z03826QJ0000137” FOR APPLICABLE CLAUSES, INSTRUCTIONS AND EVALUATION CRITERIA ATTACHMENT 4 – “PHOTOS OF STICKERS – 70Z03826QJ0000137” ATTACHMENT 5 -“WAGE DETERMINATION CALIFORNIA-70Z03826QJ0000137” ATTACHMENT 6 -“WAGE DETERMINATION TEXAS-70Z03826QJ0000137” ATTACHMENT 7 -“WAGE DETERMINATION OHIO-70Z03826QJ0000137” Closing date and time for receipt of offers is 4/27/2026 at 2:00 PM Eastern Daylight Time. Anticipated award date is on or about 4/30/2026. E-mail quotations may be sent to Julie.G.Lininger@uscg.mil and MRR-PROCUREMENT@uscg.mil. Please indicate 70Z03826QJ0000137 in subject line.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Julie Lininger
+  - Email: julie.g.lininger@uscg.mil
+- Secondary Contact:
+  - Name: MRR Procurement Mailbox
+  - Email: mrr-procurement@uscg.mil
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: – Schedule-70Z03826QJ0000137. At the time of award, the United States Coast Guard (USCG) intends to have one (1) repair completed for the component specified in the schedule. The USCG may require fifteen (15) additional components to be repaired for a maximum quantity of sixteen (16) components repaired at the same price and same turnaround time as the original order, for up to three hundred and sixty-five (365) days after the initial award date. ****Please note that if the USCG chooses to exercise any optional quantity modifications, such modifications will be issued unilaterally to the contractor. Concerns that have the expertise and required capabilities to repair this item are invited to submit offers in accordance with the requirements stipulated in this solicitation. The contractor shall furnish a Certificate of Conformance (COC) in accordance with Federal Acquisition Regulation (FAR) clause 52.246-15. The COC must be submitted in the format specified in the clause. Offerors must be able to provide necessary certification including traceability to the manufacturer, manufacturer"s COC and its own certificate of conformance. NOTE: NO DRAWINGS, SPECIFICATIONS OR SCHEMATICS ARE AVAILABLE FROM THIS AGENCY. Please carefully review the following attachments for additional information and requirements: ATTACHMENT 1-“SCHEDULE-70Z03826QJ0000137” ATTACHMENT 2–“STATEMENT OF WORK-70Z03826QJ0000137” ATTACHMENT 3 -“TERMS AND CONDITIONS – 70Z03826QJ0000137” FOR APPLICABLE CLAUSES, INSTRUCTIONS AND EVALUATION CRITERIA ATTACHMENT 4 – “PHOTOS OF STICKERS – 70Z03826QJ0000137” ATTACHMENT 5 -“WAGE DETERMINATION CALIFORNIA-70Z03826QJ0000137” ATTACHMENT 6 -“WAGE DETERMINATION TEXAS-70Z03826QJ0000137” ATTACHMENT 7 -“WAGE DETERMINATION OHIO-70Z03826QJ0000137” Closing date and time for receipt of offers is 4/27/2026 at 2:00 PM Eastern Daylight Time. Anticipated award date is on or about 4/30/2026. E-mail quotations may be sent to Julie.G.Lininger@uscg.mil and MRR-PROCUREMENT@uscg.mil. Please indicate 70Z03826QJ0000137 in subject line
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fcffeb8bf3924ab3a3f7c0f7e61ad2fb/view)

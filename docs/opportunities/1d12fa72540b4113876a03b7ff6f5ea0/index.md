@@ -1,0 +1,33 @@
+---
+layout: default
+title: Emergency Spill Cleanup
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 1d12fa72540b4113876a03b7ff6f5ea0
+---
+
+# Emergency Spill Cleanup
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-04-20 13:32:38.984-04
+- Solicitation Number: FA483025Q0097
+
+## Summary
+
+FAR 52.212-2 Evaluation - The following factors shall be used to evaluate offers: item technical capability, lowest price technically acceptable, and past performance. Blanket Purchase Agreement (BPA) for Emergency Spill Clean Up and Hazardous Material Remediation Services at Moody Air Force Base (MAFB) 1. DESCRIPTION OF REQUIREMENTS Moody Air Force Base (MAFB) requires qualified contractors to provide Emergency Spill Clean Up and related hazardous material (HAZMAT) services during the period October 2025 through October 2030 (Not to Exceed 5 years). These services will be requested on an as-needed basis via Blanket Purchase Agreements (BPAs). Scope The Contractor shall provide personnel, supervision, equipment, environmental service supplies, field/laboratory analytical services and supplies, and material samples in accordance with applicable state and EPA regulations. The Contractor shall: -Obtain potentially contaminated material samples to determine contamination levels, complying with state and EPA requirements. -Remove or assist in the removal of underground storage tanks (USTs). -Assist with aircraft accident clean-up operations, including removal, transport, and disposal of contaminated soils and investigative derived waste. -Clean fuel storage tanks. All Contractor operations must comply with OSHA and state safety requirements. Additional requirements may be identified later. 2. SAMPLING AND REPORTING Contractor shall: -Provide qualified samples to a state or federally certified laboratory and receive testing results prior to disposal of materials. -Material sampling requirements will be determined on a case-by-case basis. -Provide an original copy of all analytical reports to the Wing Environmental Coordinator (WEC) for all state or EPA-required samples. Analytical Reports -Each laboratory report must include, at a minimum: -Description and location of the sample. -Name of the person taking the sample. -Date sample(s) were received at the laboratory. -Date(s) analyses were performed. -Name(s) of the individual(s) performing the analyses. -Analytical techniques or methods used. -Detection limits and specific analytical values determined. -Copy of Chain of Custody documents. 3. CONTAMINANT REMOVAL The Contractor shall: -Remove contaminated materials as specified by the WEC upon direction of the CO or authorized representative. -Perform “gridding” and sampling of contaminated sites prior to removal to ensure complete removal of contaminants. -Provide personnel, supervision, vehicles, equipment, tools, supplies, transportation, and cover fees related to mobilization, storage/transport containers, and dunnage. -Dispose of removed materials at state-certified landfills, Contractor-operated off-base remediation facilities, or qualified recycling centers approved by the WEC to ensure regulatory compliance. -Provide disposal documentation (landfill, remediation, recycling documents, and weight tickets from state-certified scales) to the WEC immediately following disposal. Operations will primarily be conducted within Moody AFB; however, some removal operations may occur at various locations related to aircraft operations. Mobilization costs to Moody AFB are included in unit pricing (per ton, pound, or gallon) and additional mobilization fees will be based on distance from Moody AFB as per Table 1. Response Time Contractor must mobilize within 8 to 24 hours from notification, depending on the nature of the response (emergency or routine). Materials to be Removed -Contaminated fuel, oil, hydraulic fluids, or other liquids must be removed and transported to qualified recycling centers. -Contaminated absorbent materials must be removed and disposed of at state-certified landfills or remediated off-base. -Contaminated soil must be removed and properly disposed of at state-certified landfills or remediated off-base. 4. COST / PRICING All costs/fees shall be billed per unit: each (EA), ton (TN), gallon (GL), pound (LB), or man-hour (HR) as indicated in Table 1. Prices quoted to the Government must be equal to or lower than those charged to the Contractor’s most favorable customers for comparable quantities under similar terms and conditions, including any discounts for prompt payment. Price lists shall include any extra charges or fees related to emergency response. Contractor must notify the WEC or CO immediately if anticipated costs are expected to exceed BPA limits. Additional Cost Details Landfill tipping fees and material sampling costs shall be billed at cost with no markup. All deliveries or shipments must be accompanied by delivery tickets/invoices containing: -Name of supplies or services performed -Blanket Purchase Agreement Number XXX-XXX-XXXXX -Date of Purchase -Purchase Number (Call #) -Itemized list of supplies or services furnished -Quantity, unit price, and total amount for each item (less any applicable discounts) -Date of delivery or shipment 5. INSPECTION AND ACCEPTANCE The Government reserves the right to inspect or test any supplies or services submitted for acceptance. Non-conforming supplies or services may require repair, replacement, or re-performance at no additional cost. 6. PRICE LISTS An updated price list shall be submitted annually (at least 30 days prior to any price change) to the CO for approval and distribution to ordering activities. Vendors may offer voluntary price reductions at any time without written approval. 7. DISCONTINUANCE This agreement may be discontinued by either party with 30 days written notice. 8. BASE ENTRY Contractor personnel must obtain base visitor passes prior to entry. To obtain a pass at the Visitors’ Center (South Gate), personnel must present: -A valid Driver’s License -A base pass letter signed by the CO and Contractor management *Questions are due by Thursday 25 September 2025 at 1300 pm EST *Offers are due by Monday 29 September 2025 at 1100 am EST
+
+## Contacts
+
+- Primary Contact:
+  - Name: June Alba
+  - Email: june.alba@us.af.mil
+  - Phone: 2292572053
+- Secondary Contact:
+  - Name: Lance I. Dela Cruz
+  - Email: lance.dela_cruz@us.af.mil
+  - Phone: 2292574704
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1d12fa72540b4113876a03b7ff6f5ea0/view)

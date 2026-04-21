@@ -1,0 +1,31 @@
+---
+layout: default
+title: Z1DA--570-23-223 | Renovate Building 1, First Floor for Acute Respiratory Clinic
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: 7afc884e7d014c22b579dc2d6334f8f1
+---
+
+# Z1DA--570-23-223 | Renovate Building 1, First Floor for Acute Respiratory Clinic
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-04-20 19:02:44.302-04
+- Solicitation Number: 36C26126R0049
+- Awardee: null
+
+## Summary
+
+This is a source sought announcement only. No Solicitation is currently available. The Government intends to solicit a firm-fixed-price construction. All information contained in this Source Sought Announcement is preliminary, as well as subject to modification, and is in no way binding on the Government. The Government will not pay for any information submitted in response to this request. The information requested will be used solely within the Department of Veterans Affairs to facilitate decision making and will not be disclosed outside of the Government. The determination of a procurement strategy, based upon the comments submitted in response to this Sources Sought Announcement, is solely within the discretion of the Government. The applicable North American Industry Classification System (NAICS) Code is 236220 Commercial and Institutional Building Construction and the small business size standard is $45M; PSC Code is Z1DA Maintenance of Hospitals and Infirmaries Project magnitude of this design-build construction project is between $2,000,000.00 and $5,000,000.00. This information is provided per VAAR 836.204(f)(2). Potential Offerors must be registered in the System for Award Management (SAM) to be eligible for an award (See https://www.sam.gov/SAM/pages/public/index.jsf). Potential Offerors must also have a current Online Representations and Certification Application on file with SAM. Service-Disabled Veteran-Owned Small Businesses and Veteran-Owned Small Businesses shall have their ownership and control verified by the Department of Veterans Affairs (VA) and be listed in the SBA Small Business Search: https://search.certifications.sba.gov/ Description of Program Objectives The purpose of this sources sought notice is to conduct market research to seek out interested vendors capable of fulfilling the requirement. The Fresno VA Medical Center located at 2615 East Clinton Avenue, Fresno, CA 93703-2223 is seeking a qualified General Contractor to construct Project 570-23-223, Renovate BLDG 1, 1st Floor Acute Respiratory Clinic. The general scope of this requirement is to renovate the existing space to create an acute respiratory clinic (ARC) at the front of building 1, main hospital. Space will include a secondary front entrance into a separated clinic suite where seasonal flu and pandemic triage procedures may be followed. The intent of the clinic is to serve a dual function. During normal operating conditions it shall be an expansion of Primacy Care (PC) space or procedure space. When activated in response to seasonal influenza or future pandemic measures the suite will be isolated with controlled access, a designated entrance for patients presenting for care, and negative pressure HVAC system. See statement of work for details The period of performance is approximately 224 calendar days after NTP. A draft copy of construction drawings are attached for reference. Information Requested: The Government requests that interested parties provide the following capability information identified below to the Contracting Officer, Daniel Jhun, at daniel.jhun@va.gov by 2:00 PM PDT on April 27, 2026. Please place Attention: Project No. 570-23-223, Renovate Building 1, 1st Floor Acute Respiratory Clinic in the subject line of your email. NOTE: Interested parties are encouraged to provide complete and accurate responses to all items, paragraph a through j below. a) Business Size (Large/Small) b) Business Socio-Economic Status (SDVOSB, WOSB, 8(a), HUBZone, etc.) c) Identify if you are the Prime contractor or Subcontractor d) SAM Unique Entity ID (UEI) e) Bonding Capability; per contract and aggregate. Provide amount of aggregate bonding currently available (i.e., amount not committed). f) Anticipated Teaming Arrangements (if applicable). g) Is the anticipated period of performance realistic for this project? h) Experience in managing Construction projects between $2,000,000.00 and $5,000,000.00. Include general information and technical background describing your firm's experience on contracts requiring similar efforts to meet the program objectives. i) Experience. Past and present corporate experience on public works (Federal, State, County, or City) major repairs/remodel(s) and/or included Acute Respiratory Clinic renovation/remodel(s) projects. Qualifying project[s] must also fall within the same magnitude or greater and be of similar scope and complexity. Similar magnitude is defined as project with award value of greater than $2,000,000.00. Similar scope and complexity are defined as projects that consist of Acute Respiratory Clinic remodel/Renovation/Construction of public works building and/or medical facility. The Government requests that interested party submissions in response to this source sought notice be no more than 10 single-sided, type-written pages using Times New Roman 12-point font or larger. Published literature may be any number of pages. NOTES: Issuance of this notice does not constitute any obligation whatsoever on the part of the Government to procure these services, or to issue a solicitation, nor to notify respondents of the results of this notice. No solicitation documents exist currently. The Department of Veterans Affairs is neither seeking proposals nor accepting unsolicited proposals, and responses to this notice cannot be accepted as offers. Any information the contractor considers proprietary should be clearly marked as such. The U.S. Government will not pay for any information or administrative costs incurred in response to this source sought notice. (End of Document)
+
+## Contacts
+
+- Primary Contact:
+  - Name: Daniel Jhun
+  - Title: Contracting Officer
+  - Email: daniel.jhun@va.gov
+  - Phone: 916-923-4557
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7afc884e7d014c22b579dc2d6334f8f1/view)

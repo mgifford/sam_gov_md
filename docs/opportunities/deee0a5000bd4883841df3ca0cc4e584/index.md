@@ -1,0 +1,28 @@
+---
+layout: default
+title: ROTHR DDRx Sustainment Support Services- Sole Source
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: deee0a5000bd4883841df3ca0cc4e584
+---
+
+# ROTHR DDRx Sustainment Support Services- Sole Source
+
+- Agency: DEPT OF DEFENSE
+- Type: Presolicitation
+- Posted: 2026-04-20 11:14:55.99-04
+- Solicitation Number: N0018926RB001
+
+## Summary
+
+The NAVSUP Fleet Logistics Center Norfolk Philadelphia Office intends to acquire system sustainment support services for the Digital Receivers (DDRx) for the Relocatable Over-the-Horizon Radar (ROTHR) System in Texas, Virginia, and Puerto Rico. The ROTHR System is a relocatable, land based, High Frequency (HF) Radar, which provides wide area surveillance in support of tactical forces afloat through the early detection and tracking of targets of interest, such as aircraft and ships. The ROTHR system is tasked to provide detection and monitoring of drug smuggling aircraft and ships to support the Office of the Department of Defense Coordinator for Drug Enforcement Policy and support counterdrug operations, providing long range detection of narcotic trafficking ships and aircraft as well as filling gaps in the radar coverage provided by fixed and mobile platforms. The U.S. Navy Forces Surveillance Support Center (FSSC) operates, maintains, and sustains three ROTHR systems in Virginia, Texas and Puerto Rico. The digital receiver system delivers significant technological advantages when compared to traditional analog receivers utilized in HF systems to include larger frequency band of operation, larger channel bandwidths, higher repetition frequencies, longer coherent processing times, ability to process different waveforms and the ability to simultaneously execute air, maritime and other missions concurrently by utilizing different digitized channels for each mission. The digital receivers were fielded by BAE Australia at the ROTHR Texas location under the DIA issued contract HHM402-15-C-0059. This contract is now complete as final delivery was made in November of 2024. The Government currently has a contract with BAE Australia Limited, N00189-22-C-Z021, for additional receivers for the Puerto Rico and Virginia ROTHR locations, which was awarded on a sole source basis in September of 2022. This contract is ongoing as the final delivery under contract N00189-22-C-Z021 is scheduled for 15 September 2027. The required sustainment services were most recently procured via the sole source modification N00189-22-C-Z021-P00003 to BAE Australia. The instant requirement is for repair and engineering support services for the DDRx System in ROTHR Texas location and possibly the Virginia and Puerto Rico locations once they are delivered. The contractor will provide maintenance, technical support, software support, risk management framework (RMF) support and asset retrograde repair and return process. BAE’s digital receiver technology is proprietary to BAE Australia and cannot be repaired by any other company. Per Memorandums of Understanding (MOUs) between the DoD of the U.S. and the DOD of Australia signed on 5 August 2020 and 28 September 2020, the U.S. Government will not sell, transfer title to, disclose, or transfer possession of any Australian origin Defense Article and Defense services that have been provided by the Australian DOD under the MOU to any Third Party. This MOU prevents any other contractor from performing the required sustainment services on the Australian designed and produced digital receivers. The placement of a C-type contract with both Firm Fixed Priced (FFP) and Cost Plus Fixed Fee (CPFF) contract line items, is anticipated. The applicable NAICS code is 811210 and the FSC is J059. The proposed contract action is for services for which the Government intends to solicit and negotiate with only one source (BAE Australia) under authority of 10 U.S.C. 2304(c)(1), Only One Responsible Source and No Other Supplies or Services Will Satisfy Agency Requirements, as implemented by FAR 6.302-1. For the reasons described above, the required DDRx system sustainment services cannot be provided by any other company. The Small Business office has reviewed this market research and concurs with the acquisition strategy identified herein. Challengers may identify their interest and capability to respond to the requirement by sending challenges to Lauren Lauver at lauren.a.lauver.civ@us.navy.mil. This notice of intent is NOT a request for competitive proposals; however, all challenges to this sole source determination by the specified response date will be considered by the Government. Information received will normally be considered solely for the purpose of determining whether to conduct a competitive procurement. A determination by the Government not to compete this proposed contract based upon responses to this notice is solely within the discretion of the Government. The Government will not pay for information submitted in response to this notice. Furthermore, this synopsis notice also serves as a follow-up to a previously posted sources sought notice under solicitation N00189-26-R-B001. The fully approved Justification and Approval will be posted at the time of solicitation.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Lauren Lauver 2156975023
+  - Email: lauren.lauver@navy.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/deee0a5000bd4883841df3ca0cc4e584/view)
