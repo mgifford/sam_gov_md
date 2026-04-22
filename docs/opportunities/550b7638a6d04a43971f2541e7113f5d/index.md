@@ -1,0 +1,37 @@
+---
+layout: default
+title: Upgrade Sanitary and Storm Systems at the National Museum of Natural History
+agency: SMITHSONIAN INSTITUTION
+notice_type: Solicitation
+notice_id: 550b7638a6d04a43971f2541e7113f5d
+---
+
+# Upgrade Sanitary and Storm Systems at the National Museum of Natural History
+
+- Agency: SMITHSONIAN INSTITUTION
+- Type: Solicitation
+- Posted: 2026-04-21 12:57:11.237-04
+- Solicitation Number: 33330226RF0010002
+
+## Summary
+
+Amendment 0002 to the RFP is hereby issued and attached for download. The purpose of the amendment is to make the following changes to the Solicitation: 2nd Site Visit RFI Due Date Extension Bid Due Date Extension --------------------------------------------------------------------------------------------------------- Amendment 0001 to the RFP is hereby issued and attached for download. The purpose of the amendment is to make the following change to the Solicitation: 03/27 Site Visit Sign-in Sheet --------------------------------------------------------------------------------------------------------- The Smithsonian Institution is seeking offers to upgrade Sanitary and Storm Systems project at the Smithsonian Institution's National Museum of Natural History located at 10th Street and Constitution Avenue NW, Washington, DC, as described herein and the Contract Documents, including, without limitation, in the Specifications and Drawings for SF Project No. 1600103 both dated December 5, 2025. All of the requirements which the successful Offeror must meet concerning this project are set forth in detail in the solicitation Documents included with this Request for Proposal. Upon receipt of Technical and Cost Proposals and the selection of a successful Offeror, the Smithsonian Institution will execute a Fixed Price construction contract. The Smithsonian currently estimates that the fixed price for the entire project will exceed $10 Million. The scope of this project includes the installation of a new sanitary and stormwater system throughout the Museum Main Building, East and West Wings to replace the existing infrastructure that has reached the end of its service life. Work must be executed with extreme care to protect the museum’s collections, exhibits, and research operations, and preserve its historic architecture features. The major elements of work include, but are not limited to, the following: Installation of new sanitary and stormwater piping systems through the Main Building, East and West Wings in accordance with construction documents. Rerouting stormwater and sanitary piping where possible to avoid passage through the ceiling of exhibit halls, collection storage areas, and other sensitive or restricted spaces. Capping off abandoned piping, where feasible, isolating it from active systems and preventing future infiltration or structural compromise. Removal and disposal of old piping where capping is not feasible, in compliance with environmental regulations and structural safety standards. Lead and asbestos abatement, as necessary, in areas affected by demolition or pipe removal, in accordance with applicable EPA, OSHA, DOT, District of Columbia law and regulations and others as cited in the specification. Installation of new sanitary and storm piping within the existing tunnel system, including structural support, penetrations, and insulation where required. Tie-in of new systems to the existing SI stormwater and sanitary infrastructure external to the building, with proper alignment, connection materials, and testing. Develop and implement a comprehensive erosion and sediment control plan in compliance with EPA Construction General Permit and District of Columbia regulations. Inspect, remove and replace roof scuppers including sealing and integration with the building stormwater management system to restore proper drainage performance. All work must be conducted in accordance with applicable codes, historic preservation requirements, safety regulations, and Smithsonian Institution design and construction standards. Phasing plans must minimize disruption to ongoing museum operations, protect the public, and preserve the integrity of historic and scientific assets. PRE-BID TOUR OF THE SITE The Pre-proposal meeting is scheduled for Friday, March 27, 2026, at 9:00 AM Eastern Time. REQUEST FOR CLARIFICATIONS It is requested that all questions be sent in no later than April 14, 2026. THE PROPOSAL DUE DATE IS TUESDAY, MAY 12, 2026, at 3:00 PM EASTERN STANDARD TIME (EST). The subcontracting goals for this project are: 40% with small business concerns. At least 7% with Service-Disabled Veteran-owned small businesses (SDV). Davis Bacon Building Wage Determination DC20260002 shall apply. The Period of Performance for the Base Contract and Options 1-3, if exercised, is 740 Calendar Days from the date of Notice to Proceed.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Virginia Chan
+  - Email: Chanvc@si.edu
+- Secondary Contact:
+  - Name: Christine Grant
+  - Email: grantCA@si.edu
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: , collection storage areas, and other sensitive or restricted spaces. Capping off abandoned piping, where feasible, isolating it from active systems and preventing future infiltration or structural compromise. Removal and disposal of old piping where capping is not feasible, in compliance with environmental regulations and structural safety standards. Lead and asbestos abatement, as necessary, in areas affected by demolition or pipe removal, in accordance with applicable EPA, OSHA, DOT, District of Columbia law and regulations and others as cited in the specification. Installation of new sanitary and storm piping within the existing tunnel system, including structural support, penetrations, and insulation where required. Tie-in of new systems to the existing SI stormwater and sanitary infrastructure external to the building, with proper alignment, connection materials, and testing. Develop and implement a comprehensive erosion and sediment control plan in compliance with EPA Construction General Permit and District of Columbia regulations. Inspect, remove and replace roof scuppers including sealing and integration with the building stormwater management system to restore proper drainage performance. All work must be conducted in accordance with applicable codes, historic preservation requirements, safety regulations, and Smithsonian Institution design and construction standards. Phasing plans must minimize disruption to ongoing museum operations, protect the public, and preserve the integrity of historic and scientific assets. PRE-BID TOUR OF THE SITE The Pre-proposal meeting is scheduled for Friday, March 27, 2026, at 9:00 AM Eastern Time. REQUEST FOR CLARIFICATIONS It is requested that all questions be sent in no later than April 14, 2026. THE PROPOSAL DUE DATE IS TUESDAY, MAY 12, 2026, at 3:00 PM EASTERN STANDARD TIME (EST). The subcontracting goals for this project are: 40% with small business concerns. At least 7% with Service-Disabled Veteran-owned small businesses (SDV). Davis Bacon Building Wage Determination DC20260002 shall apply. The Period of Performance for the Base Contract and Options 1-3, if exercised, is 740 Calendar Days from the date of Notice to Proceed
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/550b7638a6d04a43971f2541e7113f5d/view)

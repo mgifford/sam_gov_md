@@ -1,0 +1,22 @@
+---
+layout: default
+title: CBP El Paso and Big Bend North Sectors. Tactical Infrastructure Maintenance
+agency: HOMELAND SECURITY, DEPARTMENT OF
+notice_type: Special Notice
+notice_id: ee72eba288c84445a647a1bd533aef5a
+---
+
+# CBP El Paso and Big Bend North Sectors. Tactical Infrastructure Maintenance
+
+- Agency: HOMELAND SECURITY, DEPARTMENT OF
+- Type: Special Notice
+- Posted: 2026-04-21 12:10:34.769-04
+- Solicitation Number: 20154993
+
+## Summary
+
+Special Notice - Pre Solicitation Mandatory Site Visit No RFP responses are being accepted at this time. Due date for RSVPs - April 28, 2026 @ 1200PM ET. U.S. Customs and Border Protection (CBP) intends to issue a Competitive 8 (a) Request for Proposals (RFP) in support of Tactical Infrastructure (TI) Maintenance located along the U.S./Mexico Border in the El Paso and Big Bend North Border Patrol Sectors. This notice is for informational purposes only. General Requirements: CBP is acquiring contractor services to perform maintenance, repair, and improvement services for TI assets in the El Paso and Big Bend North Sectors in the following categories: roads and bridges (including boat ramps and floating boat slip); fences and gates (including concertina/razor wire), vegetation control, debris removal (including Carrizo Cane and Hyacinth/Hydrilla), border lighting and electrical, drainage and grate systems, tunnel remediation, TI attributes including shelters, and generators. The contractor shall furnish all the necessary services, qualified personnel, material, equipment, and facilities not otherwise provided by the Government. Prior to issuing the RFP, CBP intends to facilitate a mandatory site visit for interested 8(a) contractors. The mandatory site visits will be initiated at the following locations on the dates stated below: 5/5/2026 @ 7:00 AM: Kickoff Meeting: 9201 Gateway South Blvd, El Paso TX 79904; Meeting in the muster room. Bring valid state issued ID for access to the facility. Meeting starts at 7:00 AM, limited parking at the facility; arrival is recommended to be 30 minutes ahead of meeting. 5/6/2026 @ 8:00 AM: Santa Teresa, NM; Meeting Point AR-430 off HWY 9. 31.813570 , -106.776721 in the STN AOR ***NOTE: Vendors must be present for all locations of site visit. It is CBP's intent to award one (1) contract for all sites. NAICs codes of “238990, 237990, 238910 & 237310” Please reply to this notice with your name, company name, phone number, email, as well as the names and contact information for each attendee (there is a maximum of 3 people per contractor). RSVPs for attending the mandatory site visit shall be submitted and confirmed with the Contracting Office Point of Contacts (POCs) below via email only and not later than Tuesday, April 28, 2026 @ 1200PM ET: Contract Specialist: muhanad.d.sasa@cbp.dhs.gov and Contracting Officer: donna.r.mcmullen@cbp.dhs.gov Clearly indicate in the email subject line “Site Visit Attendees for Notice ID 20154993- Tactical Infrastructure (TI) Maintenance Prospective quoters shall attend during the time designated for the site visit as outlined above. This notice includes a mandatory site visit for all the sites mentioned above in order for prospective quoters to take the necessary inventory, measurements, dimensions, and gain other pertinent information that will allow for the development of a proper quotation. Vendors submitting a quotation without attending the site visit will not be considered for award (i.e., will receive a non-responsive rating for quotation). Appointments outside of the designated time will not be permitted. Please be advised that reimbursement for travel, per diem, and all other costs associated with submitting a quotation and/or attending the mandatory site visit will not be considered. Additionally, the Government may update/change the dates due to the partial Government shutdown. The Government is not liable for any expenditures incurred by the contractor. The government will not provide a copy of the attached presentation at the kickoff meeting. For any questions related to this notice, please contact the above POCs.
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ee72eba288c84445a647a1bd533aef5a/view)

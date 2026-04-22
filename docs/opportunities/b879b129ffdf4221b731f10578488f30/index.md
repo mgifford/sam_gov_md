@@ -1,0 +1,32 @@
+---
+layout: default
+title: Letterkenny Army Depot Organic Industrial Base (OIB) Event
+agency: DEPT OF DEFENSE
+notice_type: Special Notice
+notice_id: b879b129ffdf4221b731f10578488f30
+---
+
+# Letterkenny Army Depot Organic Industrial Base (OIB) Event
+
+- Agency: DEPT OF DEFENSE
+- Type: Special Notice
+- Posted: 2026-04-21 12:49:27.207-04
+- Solicitation Number: W6QK14OIBINDUSTRYDAY
+
+## Summary
+
+The Department of the Army, Letterkenny Army Depot (LEAD) in conjunction with Army Contracting Command (ACC), invites industry partners to participate in an Organic Industrial Base (OIB) Industry Day scheduled for 20 May 2026 from 0900 to 1600 EST in Chambersburg, Pennsylvania, with a virtual session on 21 May 2026 from 0900 to 1300 EST via Microsoft Teams. Purpose This Industry Day is not a solicitation, and attendance is voluntary with no reimbursement of costs. Letterkenny Army Depot seeks to build dynamic partnerships with industry through direct sales, Public-Private Partnerships (P3), work-share agreements and co-production. These collaborations aim to generate new revenue, improve cost efficiencies, and secure new workload to sustain and modernize LEAD’s organic industrial base capabilities. Event Overview As a vital part of the U.S. Army’s organic industrial base, LEAD is committed to long-term sustainability and modernization. This event will provide attendees with depot tours, briefings, and breakout group sessions to explore partnership opportunities. Event Details In-Person Session: Date: 20 May 2026 Time: 0900–1600 EST Location: Letterkenny Army Depot Headquarters Building, 1 Overcash Avenue, Chambersburg, PA 17257 Capacity: Limited to 42 attendees Virtual Session: Date: 21 May 2026 Time: 0900–1300 EST Platform: Microsoft Teams Capacity: Unlimited Agenda 0915–0945 — Arrival, Greeting, Photos, and Briefing 0945–1145 — Depot Tours 1145–1300 — Lunch on Your Own (Food Trucks Available) 1300–1600 — Breakout Groups Who Should Attend Industry representatives seeking partnership opportunities within the Organic Industrial Base. NAICS and PSC Codes of Interest To assist vendors in self-identifying areas of expertise, the following NAICS and PSC codes are highlighted for this Industry Day: NAICS Codes: 333248 – All Other Industrial Machinery Manufacturing 336413 – Other Aircraft Parts and Auxiliary Equipment Manufacturing (Counter-UAS) 237130 – Power and Communication Line and Related Structures Construction (Microgrid & Alternative Energy Structures) 335999 – All Other Miscellaneous Electrical Equipment and Component Manufacturing (Battery) 334413 – Semiconductor and Related Device Manufacturing (Solar) 486110 – Pipeline Transportation of Crude Oil 213112 – Support Activities for Oil and Gas Operations PSC Codes: 3426 – Metal Finishing Equipment (Cold Spray) 1550 – Unmanned Aircraft (Counter-UAS) Y1NZ – Construction of Other Utilities (Microgrid) 6116 – Fuel Cell Power Units, Components, and Accessories (Battery) 6117 – Solar Electric Power Systems 6115 – Generators and Generator Sets, Electrical (Turbine, Wind Generators) 3835 – Petroleum Production and Distribution Equipment (Gas and Oil) Registration Registration is required for the in-person session and must be completed by 4 May 2026 at 1600 EST. The Register Now Flyer and Capabilities Brief for LEAD are attached for your review. Interested companies should complete the registration forms attached to this posting: Industry Partner Registration Form (LEAD OIB) Registration requires company details including UEI, CAGE, size/socioeconomic status, and attendee contact information. Site access instructions and additional vetting information will be sent with confirmation emails. Virtual session attendance does not require prior registration. One-on-One Sessions Optional one-on-one sessions will be available on 20 May 2026 from 1330 to 1600 ET. Due to limited availability, LEAD will select the industry partners invited to participate in the one-on-one sessions and will notify selected partners during the week of 04 May 2026. Sign-ups for may also be requested after the virtual session on 21 May 2026. Security, Access, and Prohibited Items Visitors must be U.S. citizens with no felony convictions and possess a government-issued photo ID. Each visitor must complete a Letterkenny Army Depot Access Control Application; instructions for secure submission will be provided. Closed-toe, closed low-heel shoes are required on-site. Safety glasses and hearing protection will be provided and must be always worn in production areas. Recording or picture taking using personal electronic devices (cell phones, laptops, cameras, etc.) is prohibited in all depot locations. Failure to comply will result in denied access. Prohibited items include: All firearms and weapons Personal protection devices (stun guns, mace, tear gas, etc.) Explosives in any form or parts thereof Drugs and drug paraphernalia Unauthorized personal electronic radio equipment Alcoholic beverages Questions Questions may be submitted via email to the Technical and Accessibility Points of Contact listed below. The question submission window closes 29 April 2026 at 1600 EST. Consolidated answers will be posted via amendment after the event. Points of Contact Primary POC: Kate Williams Email: kathleen.e.williams3.civ@army.mil Phone: 520-945-0949 Secondary POC: Desirae Roberts Email: desirae.e.roberts.civ@army.mil Phone: 717-267-5567 Contracting Officer: Thomas Hall Email: thomas.c.hall111.civ@army.mil Contract Specialist: Bobie Burkett Email: bobie.j.burkett.civ@army.mil Ombudsman: Email: usarmy.redstone.acc.mbx.acc-rsa-ombudsman@army.mil Disclaimers This is not a solicitation, and no contract award will result from this notice. Attendance is voluntary and costs will not be reimbursed. Information is subject to change; please monitor for amendments. Anticipated Timeline Announcement Date: 21 April 2026 Registration Deadline: 4 May 2026, 1600 EST In-Person Industry Day: 20 May 2026, 0900 - 1600 EST Virtual Industry Day: 21 May 2026, 0900 - 1300 EST Q&A Responses Posted: No later than 15 June 2026 Invitation Confirmation Sent: No later than 8 May 2026
+
+## Contacts
+
+- Primary Contact:
+  - Name: Kate Williams
+  - Email: kathleen.e.williams3.civ@army.mil
+  - Phone: 520-945-0949
+- Secondary Contact:
+  - Name: Jan-Pierre Malboeuf (Ombudsman)
+  - Email: usarmy.redstone.acc.mbx.acc-rsa-ombudsman@army.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b879b129ffdf4221b731f10578488f30/view)

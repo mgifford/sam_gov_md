@@ -1,0 +1,30 @@
+---
+layout: default
+title: N00383-26-Q-FA60
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 70677eda8cf34fe69a4129a746da7e3c
+---
+
+# N00383-26-Q-FA60
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-04-21 09:50:32.169-04
+- Solicitation Number: SOL_N00383-26-Q-FA60
+
+## Summary
+
+LEVER,REMOTE CONTRO SHELF LIFE 0-00 FOR REFERENCE ONLY 78286 06391-08001-041 HM QUP ICQ PMT CD PM WM CUD CT UC LP IC UCL SP MK PACK UNIT PKWT UNIT PKCU OPI N 001 000 41 1 00 EA BG B EC A 00 O 00 EQQ 0.0
+
+0.000 M PACKAGING IS IN ACCORDANCE WITH MIL-STD-2073
+
+## Contacts
+
+- Primary Contact:
+  - Name: DANIELLE M. CUTRERA, N732.73, PHONE (215)697-6566, EMAIL DANIELLE.CUTRERA@NAVY.MIL
+  - Email: DANIELLE.CUTRERA@NAVY.MIL
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/70677eda8cf34fe69a4129a746da7e3c/view)

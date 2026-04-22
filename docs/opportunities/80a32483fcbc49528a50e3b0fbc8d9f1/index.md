@@ -1,0 +1,31 @@
+---
+layout: default
+title: 6515--SSN 21-27 April 2026 667-26-2-133-0288 Ceiling Lifts
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: 80a32483fcbc49528a50e3b0fbc8d9f1
+---
+
+# 6515--SSN 21-27 April 2026 667-26-2-133-0288 Ceiling Lifts
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-04-21 12:28:45.644-04
+- Solicitation Number: 36C25626Q0689
+- Awardee: null
+
+## Summary
+
+DISCLAIMER: THIS IS A SOURCES SOUGHT NOTICE ONLY. THIS SYNOPSIS IS NOT A REQUEST FOR QUOTE, PROPOSAL, OR BID. This notice is not a solicitation as defined by FAR 2.101, therefore it shall not be construed as a commitment by the Government to enter into a contract, nor does it restrict the Government to an acquisition approach. All information contained in this Request for Information (RFI) is preliminary as well as subject to amendment and is in no way binding on the Government. Information submitted in response to this notice is voluntary; the Government will not pay for information requested nor will it compensate any respondent for any cost incurred in developing information provided to the Government. The Government is requesting that restrictive or proprietary markings not be used in response to this notice. If a solicitation is released, it will be synopsized in the Federal Contract Opportunities website or GSA. It is the responsibility of the interested parties to monitor these sites for additional information pertaining to this RFI Title: Ceiling Lift 2. Purpose: The purpose of this RFI is to identify potential sources which will aid in defining the procurement strategy (e.g., set-aside, sole source, unrestricted) for a solicitation the VA intends on issuing shortly for the following: Item /Description of Supplies/Equipment Qty GH3+ 605lb hoist with integrated scale, Wifi, CLM and Service. Includes material for a 3m x 3m ceiling mounted sys 1-EA GH3+ 605lb hoist with integrated scale, Wifi, CLM and Service. Includes material for a 3m x 3m ceiling mounted sys 1-EA GH3+ 605lb hoist with integrated scale, Wifi, CLM and Service. Includes material for a 3m x 3m ceiling mounted sys 1-EA GH3+ 605lb hoist with integrated scale, Wifi, CLM and Service. Includes material for a 4m x 3m wall mounted sys 1-EA The anticipated Small Business Administration (SBA) size standard for the North American Industry Classification System (NAICS) code 339113 is 800 (employees or dollars). 3. Responses Requested: The following questions must be answered in response to this RFI. Answers that are not provided shall be considered non-responsive to the RFI: Where are the requested items/equipment manufactured? For example: City/State, Country Are the requested items/equipment manufactured by a small or large business? Yes or No Is the potential vendor in compliance with the Non-Manufacturer Rule (NMR)? Yes or No Is the Vendor an authorized distributor with access to Original Equipment Manufacturer (OEM) parts which may be required in performance of this requirement? The VA does not accept grey market items and therefore the Vendor must attach evidence of this access (Authorized Distributor letter) to be viewed by the government to be considered as part of the Market Research and responsiveness to this Sources Sought notice. Name of potential Contractor that possess the capability to fulfill this requirement. Contractors shall also provide the following: Point(s) of contact name: _______________________________________________ Address: ___________________________________________________ Telephone number: ___________________________________________ Email address: _______________________________________________ Company's business size: ________________________________________________ Unique Entity ID (UEI) #: ________________________________________________ Is your company considered a small business concern, SB, SDVOSB, VOSB, HUBZone, or 8A concern, with the requisite 339113 NAICS code? Please provide proof of qualifications. Is your company available under any Government Wide Agency Contract (GWAC), General Services Administration (GSA) Schedule, Indefinite Delivery Indefinite Quantity (IDIQ), (FSS) Federal Supply Service and/or Blanket Purchase Agreement (BPA)? If so, please identify the contract number for the Government to review as part of this Market Research. 4. Opportunity/Market Pricing: Overton Brooks (OBVAMC) is seeking information from potential vendors on their ability to provide the required items/equipment. THIS IS A SOURCES SOUGHT REQUEST FOR INFORMATION (RFI) ONLY. Small Business Concerns are encouraged to provide responses to this RFI in order to assist the Overton Brooks VAMC in determining potential levels of competition and general market pricing available in the industry. Therefore, vendors are requested to submit estimated market research pricing along with their responses to the above. The estimated pricing will be considered when determining the procurement strategy for the forthcoming solicitation. 5. RFI responses are due by 10:00am (CST), Tuesday April 27, 2026; size is limited to 8.5 x 11 inches, 12-point font, with 1-inch margins in Microsoft Word format via email to rhonda.gibson2@va.gov The subject line shall read: Overton Brooks (OBVAMC) micro-plate reader research equipment. NO SOLICITATION EXISTS AT THIS TIME. There is no page limitation on subparagraphs 3(a) - 3(f). Please provide the information you deem relevant in order to respond to the specific inquiries of the RFI. Information provided will be used solely by Overton Brooks (OBVAMC) as Market Research and will not be released outside of the Overton Brooks (OBVAMC) Purchasing and Contract Team. 6. Contact Information: Rhonda Gibson Rhonda.gibson2@va.gov Your response to this notice is greatly appreciated!
+
+## Contacts
+
+- Primary Contact:
+  - Name: Rhonda Gibson
+  - Title: Contract Specialist
+  - Email: rhonda.gibson2@va.gov
+  - Phone: 7132152900
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/80a32483fcbc49528a50e3b0fbc8d9f1/view)

@@ -1,0 +1,30 @@
+---
+layout: default
+title: N00383-26-Q-FA59
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 7e3cda19228c4386a0b3f5780de36771
+---
+
+# N00383-26-Q-FA59
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-04-21 09:41:52.719-04
+- Solicitation Number: SOL_N0038326QFA59_2
+
+## Summary
+
+NSN 1RD 1680-01-667-7045 H5 CONTROL STICK,AIRCR SHELF LIFE 0-00 FOR REFERENCE ONLY 78286 06400-01850-103 HM QUP ICQ PMT CD PM WM CUD CT UC LP IC UCL SP MK PACK UNIT PKWT UNIT PKCU OPI N 001 000 31 1 00 EA BG D EC A 00 O 00 EQQ 0.0
+
+0.000 M PACKAGING IS IN ACCORDANCE WITH MIL-STD-2073
+
+## Contacts
+
+- Primary Contact:
+  - Name: DANIELLE M. CUTRERA, N732.73, PHONE (215)697-6566, EMAIL DANIELLE.CUTRERA@NAVY.MIL
+  - Email: DANIELLE.CUTRERA@NAVY.MIL
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7e3cda19228c4386a0b3f5780de36771/view)
