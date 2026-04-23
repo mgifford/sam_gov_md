@@ -1,0 +1,32 @@
+---
+layout: default
+title: 2026 Toyota Hilux SR Single Cab 4x4 – Closed Box Body Configuration
+agency: STATE, DEPARTMENT OF
+notice_type: Solicitation
+notice_id: 5e373ef54dd84c75824019cb6db531ae
+---
+
+# 2026 Toyota Hilux SR Single Cab 4x4 – Closed Box Body Configuration
+
+- Agency: STATE, DEPARTMENT OF
+- Type: Solicitation
+- Posted: 2026-04-22 10:22:05.306-04
+- Solicitation Number: 19GV1026Q0012
+
+## Summary
+
+The United States Embassy in Conakry, Guinea intends to purchase a 2026 Toyota Hilux SR Single Cab 4x4 – Closed Box Body Configuration We invite automobile dealerships and responsible vendors from the public to send us their quote on, or before, May 15, 2026, 11:59 PM GMT. To be considered, offers must strictly adhere to the following specifications: 2026 Toyota Hilux SR Single Cab 4x4 – Closed Box Body Configuration Core Vehicle Specifications: Feature Details Engine 2.4L D-4D Turbo Diesel, 4-cylinder Power/Torque 148 hp / 400 Nm Transmission 6-speed Automatic Drive Type 4WD (Four-Wheel Drive) Wheelbase 3085 mm (Long Chassis) Fuel Tank Capacity 80 liters Ground Clearance ~250–277 mm (depending on box body weight) Gross Vehicle Weight 3210 kg Towing Capacity Up to 3,500 kg Suspension Heavy-duty leaf springs (rear) Tires 225/95 R16 Interior Vinyl trim, AC, USB, infotainment Safety ABS, airbags, stability control, lane departure warning Closed Box Body Specifications (Detailed) Feature Details Body Type Fully enclosed aluminum or Metal composite box body mounted on reinforced chassis External Dimensions Approx. Length: 3.0–3.5 m / Width: 1.7–1.9 m / Height: 1.8–2.2 m Internal Cargo Volume Approx. 6–8 m³ (configurable based on height/length) Payload Capacity Up to ~1,000–1,200 kg (within GVW limits) Structure Lightweight corrosion-resistant aluminum panels with reinforced frame Flooring Heavy-duty anti-slip industrial floor (wood + aluminum or steel finish) Doors Rear double doors (lockable) with heavy-duty hinges and seals Optional Access Side access door (lockable) for operational efficiency Sealing Weatherproof sealing to protect against dust, rain, and humidity Interior Lighting LED lighting system powered by vehicle battery Security Reinforced locking system, anti-theft locks, Mounting Chassis-mounted with vibration-resistant brackets Tie-Down Points Internal anchor points for securing cargo Optional Fit-Out Shelving, partitions, insulation (thermal), branding decals APPLICABLE CLAUSES AND PROVISIONS Please note that this is a combined synopsis/solicitation for a commercial item, prepared in accordance with the format FAR 12.6, as supplemented with additional information included in this notice This announcement constitutes the only solicitation; offers are being requested, and a written solicitation will not be issued. The solicitation number is 19GV1026Q0012 and is issued as a Request for Quotation. The solicitation/contract includes all applicable provisions and clauses in effect through FAC 2005-55. Contract Clauses in addendum to FAR 52.212-1, Instructions to Offerors-Commercial Items, applies to this acquisition. Award will be made to the lowest priced, technically acceptable offeror. FAR clause 52.212-4, Contract Terms and Conditions-Commercial items, applies to this acquisition. The following FAR clauses in paragraph (b) of FAR 52.212-5, Contract Terms and Conditions to Implement Statutes or Executive Orders - Commercial Items (https://www.acquisition.gov/far/current/html/52_212_213.html#wp1179527 – include in full text), will apply to the resultant contract: 52.203-10, Price or Fee Adjustment for Illegal or Improper Activity. The following DOSAR provisions/clauses will also apply: 652.206-70, Competition Advocacy/Ombudsman; 652.214-71, Authorization to Perform; 652.225-70, Arab League Boycott of Israel; 652.225-71, Section 8(a) of the Export Administration Act of 1979, as Amended; 652.242-70, Contracting Officer’s Representative; and 652.243-70, Notices. All offerors must include a completed copy of FAR 52.212-3, Offeror Representations and Certifications - Commercial Items with their offer. Offers are due May 15, 2026, 11:59 PM GMT. All responsible sources may submit an offer that shall be considered. All contractors must be registered in the SAM (System for Award Management) Database https://www.sam.gov prior to contract award pursuant to FAR provision 52.204-7. Therefore, prospective offerors are encouraged to register prior to the submittal of quotations/proposals. The guidelines for registration in SAM are also available at: https://www.statebuy.state.gov/pd/Pages/AdditionalVendorReg.aspx Furthermore, with the recent FAR update, it is now a mandatory requirement for the Government to enquire if contractors are using or will be using, in government contracting, covered telecommunications equipment produced by Huawei, ZTE, Hikvision, Dahua, and Hytera, or their subsidiaries or affiliates. Consequently, vendors are required to update their SAM registration with that information. Potential offerors are advised to take special attention to clauses FAR 52.204-24, FAR 52.204-25 and FAR 52.204-26 while completing their registration in SAM. All bidders are required to submit two separate offers: A technical offer A financial offer Photos on the pick-up Please submit the technical and financial offers as separate documents. Additionally, Toyota Hilux SR Single Cab 4x4 – Closed Box Body Configuration must be delivered to the port of Conakry, Guinea. The U.S. Embassy will handle customs clearance and transportation to the final destination. PREFERRED METHOD OF CONTACT Offers must be submitted via electronic mail to the Contracting Officer at ConakryProc@state.gov and citing the solicitation number 19GV1026Q0012 in the subject line of the email. For questions regarding the specifications provided above or other technical details, please contact Francis KAMANO at kamanoF@state.gov. You will need to check this website periodically for updates. We thank you for your interest. OFFER DUE DATE Offers are due on or before May 15, 2026, at 11:59 PM GMT
+
+## Contacts
+
+- Primary Contact:
+  - Name: Francis KAMANO
+  - Email: kamanof@state.gov
+  - Phone: 00224629000520
+- Secondary Contact:
+  - Name: Abdulrahman, Mohammed H
+  - Email: AbdulrahmanMH@state.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5e373ef54dd84c75824019cb6db531ae/view)

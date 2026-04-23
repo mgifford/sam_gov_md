@@ -1,0 +1,28 @@
+---
+layout: default
+title: Sources Sought for Reconfiguration of Office Furniture/Cubicles
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: d0f04f24be074893b818227e193ec9f8
+---
+
+# Sources Sought for Reconfiguration of Office Furniture/Cubicles
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-04-22 11:10:52.458-04
+- Solicitation Number: W50S9F26Q0009
+
+## Summary
+
+1. Introduction The Department of War is seeking to identify qualified vendors capable of reconfiguring existing UNICOR office furniture systems located at the Air National Guard (ANG) facility in Madison, WI. This project involves the disassembly of an existing layout of 16 workstations and their reconfiguration into a new 14-workstation layout, utilizing existing components to the maximum extent. The purpose of this Sources Sought Notice is to conduct market research to determine if this requirement can be competitively sourced and preserve existing warranties, ensure component compatibility, and match finishes of the existing system. This is not a request for quotes, bids, or proposals. 2. Background The existing office furniture was originally purchased from UNICOR (Federal Prison Industries) in 2021, utilizing the "Crescendo" series cubicle systems. The original 16-workstation open-pod design features low panels that currently inhibit the ability to conduct private customer service and create constant acoustic and visual distractions for personnel working in the space. To mitigate this, the Government intends to reconfigure the system to a new layout comprising fourteen (14) total structures: twelve (12) L-shaped workstations and two (2) U-shaped customer service counters featuring taller 66" high privacy panels to isolate noise and protect customer privacy. The new layout also introduces additional return work surfaces, increased storage, and modified electrical routing. 3. Scope of Work The vendor shall provide all necessary labor, materials, and equipment to perform the following tasks: Disassembly: Tear down the existing 16 UNICOR office cubicle workstations. These are currently in an open layout with 42” separation panels. Cubicles are currently in 4 groups, with the cubicles sharing walls within each group; 1 group of 5, 2 groups of 4, and 1 group of 3. Reconfiguration & Installation: Build the new 14-workstation layout. Cubicles will be in 3 groups with 66” separation panels, with the cubicles sharing walls within each group; 1 group of 4, 1 group of 8, and 1 group of 2. Component Integration: To the maximum extent, integrate existing and reused components with newly sourced components. Provision of New Parts: Provide necessary new components, including but not limited to: New panels to increase height of existing panels to 66" Panel trims, hinges, and corner connectors Return work surfaces for L-shaped and U-shaped desks Additional storage units (overhead bins/pedestals) Internal electrical whips and power poles Finish Matching: Ensure all new components (laminates, fabrics, paint, and trims) are fully compatible with and perfectly match the existing 2021 UNICOR Crescendo finishes. Asset Disposition: Manage the inventory of all components. 4. Site Coordination and Demarcation Vendors must acknowledge and coordinate the following facility constraints: Electrical Demarcation: The vendor is responsible for all furniture-integrated electrical components (whips, receptacles, power poles). Connecting the furniture's base power whip to the facility's building power will be performed by a Government-provided licensed electrician. IT/Data Lines: The Government will remove existing IT/Data (Cat6/NIPR/SIPR) cables prior to disassembly. The vendor must provide the necessary pathways within the new 66" panels for the Government to route new cables after the physical build is complete. 5. Information Requested from Interested Vendors Interested vendors should provide a capability statement (maximum of 10 pages) that addresses the following: Company Profile: Company Name, CAGE Code, UEI Number, and socio-economic size status. Technical Capability: Demonstrated experience reconfiguring UNICOR systems, specifically integrating new parts with existing structures. Provide two (2) relevant past performance examples. Warranty Preservation: Detail your approach to preserving the existing 2021 UNICOR warranty on the reused components. If your installation voids the existing UNICOR warranty, specify the comprehensive warranty you will provide for the entire reconfigured system (both old and new parts). Component Sourcing: Describe your methodology for sourcing the new 66" panels, U-shaped surfaces, and electrical components, ensuring a visual and mechanical match to the 2021 UNICOR line. 6. This notice is issued solely for information and planning purposes. The Government is not seeking quotes, bids or proposals at this time and will not accept unsolicited proposals in response to this sources sought notice. The Government will not pay for any information or administrative costs incurred in response to this notice. Submittals will not be returned to the responder. Not responding to this notice does not preclude participation in any future RFQ, IFB or RFP, if any is issued.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Scott Homner
+  - Email: scott.homner@us.af.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d0f04f24be074893b818227e193ec9f8/view)

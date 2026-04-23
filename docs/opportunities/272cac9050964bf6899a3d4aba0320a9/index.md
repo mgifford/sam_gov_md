@@ -1,0 +1,31 @@
+---
+layout: default
+title: SOURCES SOUGHT SYNOPSIS / REQUEST FOR INFORMATION
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 272cac9050964bf6899a3d4aba0320a9
+---
+
+# SOURCES SOUGHT SYNOPSIS / REQUEST FOR INFORMATION
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-04-22 10:55:11.449-04
+- Solicitation Number: W912J726SS0001
+
+## Summary
+
+SOURCES SOUGHT SYNOPSIS / REQUEST FOR INFORMATION For Fusion 360 or Solid Works or Equal Software, Maintenance, and Training 1. Notice Information • Title: Sources Sought for Brand Name or Equal Computer-Aided Manufacturing (CAM) Software Licenses, Maintenance, and Training • NAICS Code: 541519 – Software Publishers (Small Business Size Standard: $34 million) • Response Due Date: 28 April 2026, 4:00 Mountain Standard Time • Issuing Contracting Office: IDARNG USPFO Purchasing and Contracting Office 2. Description This is a Sources Sought synopsis issued for market research purposes only in accordance with Federal Acquisition Regulation (FAR) Part 10. The IDARNG is seeking to identify responsible Business concerns capable of providing the commercial brand name or equal software products, maintenance, and training detailed in the attached PWS. This notice does not constitute a Request for Quotation (RFQ) or a promise to issue an RFQ in the future. The Government is not seeking proposals at this time and will not accept unsolicited proposals. Responders are advised that the U.S. Government will not pay for any information or administrative costs incurred in response to this synopsis; all costs associated with responding will be solely at the interested party’s expense. Not responding to this notice does not preclude participation in any future RFQ, if one is issued. 3. Background & Requirement The Government requires a complete Computer-Aided Manufacturing (CAM) software solution to support its fabrication and machining operations that utilize Phillips Haas CNC machine: • Hass VF-4SS CNC Mill 4-axis machine The solution must have ability to integrate with the existing MasterCam CAD environment to generate, verify, and output machine toolpaths for various CNC milling applications. The requirement includes new software, (1) perpetual license, annual maintenance/software support, and associated training for up to 7 participants. The Government has identi?ed products from Fusion 360 or Solid Works as meeting their needs. The acquisition will be conducted on a Brand Name or Equal basis. The required items and their salient characteristics are as follows: CLIN Qty Description (Brand Name or Equal) Salient Characteristics CLIN 0001 QTY: 1 Description (Brand Name or Equal):Software Milling Professional Bundle Support- Milling Professional Support for 12 Months CLIN 0002 QTY: 1 Description (Brand Name or Equal): Add 4 Axis Milling to bundle CLIN 0003 QTY: 1 Description (Brand Name or Equal): Software 4 Axis Milling Bundle Add-On Support-Software 4 Axis Milling Support for 12 Months CLIN 0004 QTY: 1 Description (Brand Name or Equal): Post Processor Level Ill 4 Axis indexing and Simultaneous (No right angle heads).4 Axis Modules. Haas VF with rotatory retro?t. POC micah.d.rissler.mil@army.mil CLIN 0005 QTY: 1 Description (Brand Name or Equal): Instructor-led software Mill & Training up to 7 students CLIN 0006 QTY: 1 Description (Brand Name or Equal):Post Level Ill Subscription Service-Must provide technical support, software updates, and bug ?xes for all furnished licenses. Update software Product to current version. Software CAM Custom Post Processor 12- month comprehensive support. CLIN 0007 QTY: 1 Description (Brand Name or Equal): Perpetual Milling License- Includes: 3 Axis Milling w/ Undercutting, 4/5 Axis Indexing, Turning, Mill-turn,
+
+2.5 Axis VoluMill, Sub-Spindle, Rotary Milling, and Cimco Editor/DNC All items must be delivered electronically or FOB Destination to Boise, ID 83705 within 30 days of award. 4. Submission Instructions for Interested Parties Interested parties who believe they have the capability to provide these products and services are invited to submit a capabilities statement. The statement shall not exceed ?ve (5) pages and must include the following information: 1. Company Pro?le: Company name, address, point of contact (name, email, and phone number), UEI number, and CAGE code. 2. Business Size Status: A statement of your company's business size (e.g., Small Business, Woman-Owned Small Business (WOSB), Service-Disabled Veteran-Owned Small Business (SDVOSB), 8(a), HUBZone) under the speci?ed NAICS 541519. 3. Capability Narrative: A brief narrative demonstrating your company's technical ability to provide the required items. If proposing an "or equal" solution, you must include technical documentation proving your product is equivalent to or exceeds the salient characteristics of the brand-name items listed. 4. Authorization: Evidence of status as an authorized reseller/distributor for the proposed products. 5. Non-Manufacturer Rule (NMR): Respondents shall indicate whether they are the manufacturer or a non-manufacturer. If a non-manufacturer of a large business's products, state your approach to NMR compliance (e.g., an existing SBA class waiver applies, intent to request an individual waiver). 6. Contract Vehicles: A list of any existing government-wide acquisition contracts (GWACs), GSA Schedules, or other Inde?nite Delivery/Inde?nite Quantity (IDIQ) contracts through which these items may be procured. 5. Submission and Point of Contact All responses to this Sources Sought Notice must be submitted electronically via email to the primary point of contact below by the speci?ed due date. • Primary POC: Natasha M. Spratt, Contracting Specialist • Email: natasha.m.spratt2civ@army.mil • Phone: 208-272-4671 Located: USPFO ID P&C 3489 WEST HARVARD STREET BOISE ID 83705-6512 Again, this is not a request for quotation. The Government will use the information submitted to determine the appropriate acquisition strategy for a potential future requirement, including whether a 100% Small Business set-aside is feasible.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Natasha M. Spratt
+  - Email: natasha.m.spratt2.civ@mail.mil
+  - Phone: 2082724671
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/272cac9050964bf6899a3d4aba0320a9/view)

@@ -1,8 +1,8 @@
 {
-  "requested_date": "2026-04-22",
-  "effective_date": "2026-04-21",
-  "records_total": 1712,
-  "high_value_count": 21,
+  "requested_date": "2026-04-23",
+  "effective_date": "2026-04-22",
+  "records_total": 1744,
+  "high_value_count": 23,
   "min_hits": 8,
   "focus_terms": [
     "accessibility",
@@ -25,103 +25,40 @@
   ],
   "matches": [
     {
-      "NoticeId": "634ced77911a4606a7ef65a405bb2d56",
-      "Sol#": "OC-2026-133636",
-      "Title": "Preventive Maintenance and Repair Service Agreement for multiple types of Waters instrument systems",
-      "Type": "Sources Sought",
-      "PostedDate": "2026-04-21 09:57:14.952-04",
-      "Agency": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
-      "NaicsCode": "811210",
-      "ClassificationCode": "J066",
-      "Link": "https://sam.gov/workspace/contract/opp/634ced77911a4606a7ef65a405bb2d56/view",
-      "matches": [
-        {
-          "term": "software",
-          "category": "technology",
-          "count": 13
-        },
-        {
-          "term": "accessibility",
-          "category": "accessibility",
-          "count": 4
-        },
-        {
-          "term": "acr",
-          "category": "accessibility",
-          "count": 3
-        },
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 2
-        },
-        {
-          "term": "portal",
-          "category": "technology",
-          "count": 1
-        },
-        {
-          "term": "vpat",
-          "category": "accessibility",
-          "count": 1
-        }
-      ],
-      "total_hits": 24
-    },
-    {
-      "NoticeId": "28b488ae33254edcb34bb03747f1a6d2",
-      "Sol#": "36C26226Q0682",
-      "Title": "J041--Preventative Maintenance on Delta/EnteliWEB software and the replacement of existing controls to integrate with Delta Control Building Automation System at the Northern Arizona VA Healthcare system",
-      "Type": "Sources Sought",
-      "PostedDate": "2026-04-21 12:57:27.071-04",
+      "NoticeId": "5ce013231b7a4b28b81c9e421a467a7f",
+      "Sol#": "36C10B26Q0130",
+      "Title": "7A21--New AWARD | 36C10B26Q0130 | ID.me Software Subscriptions and Support | VA-26-00012041",
+      "Type": "Combined Synopsis/Solicitation",
+      "PostedDate": "2026-04-22 11:58:24.799-04",
       "Agency": "VETERANS AFFAIRS, DEPARTMENT OF",
-      "NaicsCode": "238220",
-      "ClassificationCode": "J041",
-      "Link": "https://sam.gov/workspace/contract/opp/28b488ae33254edcb34bb03747f1a6d2/view",
+      "NaicsCode": "541519",
+      "ClassificationCode": "7A21",
+      "Link": "https://sam.gov/workspace/contract/opp/5ce013231b7a4b28b81c9e421a467a7f/view",
       "matches": [
         {
-          "term": "software",
-          "category": "technology",
-          "count": 10
-        },
-        {
-          "term": "ui",
-          "category": "design",
-          "count": 4
+          "term": "nist",
+          "category": "compliance",
+          "count": 6
         },
         {
           "term": "web",
           "category": "technology",
+          "count": 5
+        },
+        {
+          "term": "software",
+          "category": "technology",
           "count": 3
         },
         {
-          "term": "sso",
-          "category": "security",
-          "count": 2
+          "term": "platform",
+          "category": "technology",
+          "count": 3
         },
         {
-          "term": "identity",
-          "category": "security",
+          "term": "application",
+          "category": "technology",
           "count": 2
-        }
-      ],
-      "total_hits": 21
-    },
-    {
-      "NoticeId": "e7c3d0aa62604190a7f3b2db7eff4011",
-      "Sol#": "FY26-0030",
-      "Title": "Department of Homeland Security (DHS), Department-Wide Cloud (Cumulus)",
-      "Type": "Justification",
-      "PostedDate": "2026-04-21 15:52:09.134-04",
-      "Agency": "HOMELAND SECURITY, DEPARTMENT OF",
-      "NaicsCode": "518210",
-      "ClassificationCode": "DH10",
-      "Link": "https://sam.gov/workspace/contract/opp/e7c3d0aa62604190a7f3b2db7eff4011/view",
-      "matches": [
-        {
-          "term": "cloud",
-          "category": "infrastructure",
-          "count": 6
         },
         {
           "term": "saas",
@@ -129,17 +66,90 @@
           "count": 2
         },
         {
-          "term": "iaas",
-          "category": "infrastructure",
+          "term": "accessibility",
+          "category": "accessibility",
           "count": 2
         },
         {
-          "term": "paas",
-          "category": "infrastructure",
+          "term": "api",
+          "category": "technology",
+          "count": 1
+        }
+      ],
+      "total_hits": 24
+    },
+    {
+      "NoticeId": "ae40795705d5467597e18841b9c9c7b2",
+      "Sol#": "ACQR6124130R",
+      "Title": "HVAC Duct Cleaning",
+      "Type": "Solicitation",
+      "PostedDate": "2026-04-22 12:18:40.885-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "561790",
+      "ClassificationCode": "Z1NZ",
+      "Link": "https://sam.gov/workspace/contract/opp/ae40795705d5467597e18841b9c9c7b2/view",
+      "matches": [
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 8
+        },
+        {
+          "term": "application",
+          "category": "technology",
+          "count": 6
+        },
+        {
+          "term": "software",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "acr",
+          "category": "accessibility",
+          "count": 2
+        }
+      ],
+      "total_hits": 18
+    },
+    {
+      "NoticeId": "ad601fbf33e14d509408660e82e99018",
+      "Sol#": "36C10B26Q0368",
+      "Title": "DE01--Enterprise Service Desk Managed Contact Center Infrastructure (CCI)",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-22 09:53:48.419-04",
+      "Agency": "VETERANS AFFAIRS, DEPARTMENT OF",
+      "NaicsCode": "541512",
+      "ClassificationCode": "DE01",
+      "Link": "https://sam.gov/workspace/contract/opp/ad601fbf33e14d509408660e82e99018/view",
+      "matches": [
+        {
+          "term": "analytics",
+          "category": "data",
+          "count": 4
+        },
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 3
+        },
+        {
+          "term": "dashboard",
+          "category": "data",
+          "count": 3
+        },
+        {
+          "term": "api",
+          "category": "technology",
           "count": 2
         },
         {
           "term": "software",
+          "category": "technology",
+          "count": 1
+        },
+        {
+          "term": "application",
           "category": "technology",
           "count": 1
         },
@@ -147,150 +157,120 @@
           "term": "platform",
           "category": "technology",
           "count": 1
-        }
-      ],
-      "total_hits": 14
-    },
-    {
-      "NoticeId": "2d3c3ca73b7542a58f93f4e260881194",
-      "Sol#": "N0010426QBJ23",
-      "Title": "SILICONE COMPOUND",
-      "Type": "Solicitation",
-      "PostedDate": "2026-04-21 12:33:00.533-04",
-      "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "325998",
-      "ClassificationCode": "6850",
-      "Link": "https://sam.gov/workspace/contract/opp/2d3c3ca73b7542a58f93f4e260881194/view",
-      "matches": [
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 8
         },
         {
-          "term": "application",
-          "category": "technology",
-          "count": 2
-        },
-        {
-          "term": "business_intelligence",
-          "category": "data",
-          "count": 2
-        },
-        {
-          "term": "software",
-          "category": "technology",
-          "count": 1
-        },
-        {
-          "term": "cybersecurity",
-          "category": "security",
+          "term": "agile",
+          "category": "development",
           "count": 1
         }
       ],
-      "total_hits": 14
+      "total_hits": 16
     },
     {
-      "NoticeId": "effc224831f2461a91097cca938942b9",
-      "Sol#": "N0010426QBJ23",
-      "Title": "SILICONE COMPOUND",
-      "Type": "Solicitation",
-      "PostedDate": "2026-04-21 12:31:22.006-04",
-      "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "325998",
-      "ClassificationCode": "6850",
-      "Link": "https://sam.gov/workspace/contract/opp/effc224831f2461a91097cca938942b9/view",
-      "matches": [
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 8
-        },
-        {
-          "term": "application",
-          "category": "technology",
-          "count": 2
-        },
-        {
-          "term": "business_intelligence",
-          "category": "data",
-          "count": 2
-        },
-        {
-          "term": "software",
-          "category": "technology",
-          "count": 1
-        },
-        {
-          "term": "cybersecurity",
-          "category": "security",
-          "count": 1
-        }
-      ],
-      "total_hits": 14
-    },
-    {
-      "NoticeId": "57d1eb81991446658603a19378edef70",
-      "Sol#": "CBER-2026-133990",
-      "Title": "Preventive Maintenance and Repair Service Agreement for Cozzoli Vial Filling Machine.",
+      "NoticeId": "272cac9050964bf6899a3d4aba0320a9",
+      "Sol#": "W912J726SS0001",
+      "Title": "SOURCES SOUGHT SYNOPSIS / REQUEST FOR INFORMATION",
       "Type": "Sources Sought",
-      "PostedDate": "2026-04-21 10:08:21.919-04",
-      "Agency": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
-      "NaicsCode": "811210",
-      "ClassificationCode": "J066",
-      "Link": "https://sam.gov/workspace/contract/opp/57d1eb81991446658603a19378edef70/view",
+      "PostedDate": "2026-04-22 10:55:11.449-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "541519",
+      "ClassificationCode": "",
+      "Link": "https://sam.gov/workspace/contract/opp/272cac9050964bf6899a3d4aba0320a9/view",
       "matches": [
         {
-          "term": "accessibility",
-          "category": "accessibility",
-          "count": 4
+          "term": "software",
+          "category": "technology",
+          "count": 14
         },
         {
+          "term": "application",
+          "category": "technology",
+          "count": 1
+        }
+      ],
+      "total_hits": 15
+    },
+    {
+      "NoticeId": "3bc28647930945eb87d415153483ce23",
+      "Sol#": "FA853226RBORE",
+      "Title": "4mm and 6mm Video Borescopes",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-22 09:04:31.592-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "333310",
+      "ClassificationCode": "6650",
+      "Link": "https://sam.gov/workspace/contract/opp/3bc28647930945eb87d415153483ce23/view",
+      "matches": [
+        {
           "term": "software",
+          "category": "technology",
+          "count": 9
+        },
+        {
+          "term": "application",
           "category": "technology",
           "count": 3
         },
         {
-          "term": "acr",
-          "category": "accessibility",
-          "count": 3
+          "term": "cybersecurity",
+          "category": "security",
+          "count": 2
         },
         {
           "term": "web",
           "category": "technology",
-          "count": 2
+          "count": 1
+        }
+      ],
+      "total_hits": 15
+    },
+    {
+      "NoticeId": "1f9e07e024dc431e985491c5be3a7e09",
+      "Sol#": "W50S9326BA002",
+      "Title": "Base Roads Pavement Repair-Mu\u00f1iz ANGB",
+      "Type": "Solicitation",
+      "PostedDate": "2026-04-22 13:50:00.185-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "237310",
+      "ClassificationCode": "Z2LB",
+      "Link": "https://sam.gov/workspace/contract/opp/1f9e07e024dc431e985491c5be3a7e09/view",
+      "matches": [
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 12
         },
         {
           "term": "portal",
           "category": "technology",
           "count": 1
-        },
-        {
-          "term": "vpat",
-          "category": "accessibility",
-          "count": 1
         }
       ],
-      "total_hits": 14
+      "total_hits": 13
     },
     {
-      "NoticeId": "46436a762a8a404980de8521d7a28c79",
-      "Sol#": "N0010426QBP02",
-      "Title": "CAPACITOR,FIXED,ELE",
-      "Type": "Solicitation",
-      "PostedDate": "2026-04-21 10:54:23.998-04",
+      "NoticeId": "5a18bd90b31444c3a09be3508084d8f6",
+      "Sol#": "N0001426RFI7003",
+      "Title": "ONR Research Protections Division (343) and the Department of the Navy (DON) Human Research Protection Program (HRPP) Research Protections Information Technology Management System (RPITMS) Support Services",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-22 09:55:16.34-04",
       "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "334419",
-      "ClassificationCode": "5910",
-      "Link": "https://sam.gov/workspace/contract/opp/46436a762a8a404980de8521d7a28c79/view",
+      "NaicsCode": "541330",
+      "ClassificationCode": "R408",
+      "Link": "https://sam.gov/workspace/contract/opp/5a18bd90b31444c3a09be3508084d8f6/view",
       "matches": [
+        {
+          "term": "sharepoint",
+          "category": "content",
+          "count": 3
+        },
         {
           "term": "web",
           "category": "technology",
-          "count": 6
+          "count": 2
         },
         {
-          "term": "application",
+          "term": "platform",
           "category": "technology",
           "count": 2
         },
@@ -300,8 +280,18 @@
           "count": 2
         },
         {
-          "term": "software",
-          "category": "technology",
+          "term": "cloud",
+          "category": "infrastructure",
+          "count": 1
+        },
+        {
+          "term": "dashboard",
+          "category": "data",
+          "count": 1
+        },
+        {
+          "term": "nist",
+          "category": "compliance",
           "count": 1
         },
         {
@@ -310,18 +300,18 @@
           "count": 1
         }
       ],
-      "total_hits": 12
+      "total_hits": 13
     },
     {
-      "NoticeId": "93c853d929c04ca292603fe2b6f9dce6",
-      "Sol#": "SPE7M226Q0406",
-      "Title": "15--BRACKET,STRUCTURAL",
+      "NoticeId": "a18c30b833794339a23d9a2d11efc25a",
+      "Sol#": "SPE1C126Q0225",
+      "Title": "84--LENS,VISOR,FLYING H",
       "Type": "Combined Synopsis/Solicitation",
-      "PostedDate": "2026-04-21 07:41:18.691-04",
+      "PostedDate": "2026-04-22 12:08:07.594-04",
       "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "336413",
-      "ClassificationCode": "15",
-      "Link": "https://sam.gov/workspace/contract/opp/93c853d929c04ca292603fe2b6f9dce6/view",
+      "NaicsCode": "315990",
+      "ClassificationCode": "84",
+      "Link": "https://sam.gov/workspace/contract/opp/a18c30b833794339a23d9a2d11efc25a/view",
       "matches": [
         {
           "term": "ui",
@@ -332,144 +322,48 @@
       "total_hits": 12
     },
     {
-      "NoticeId": "daf24f978e85451fa3ceeeb36f47314c",
-      "Sol#": "N0010426QBS07",
-      "Title": "NUT",
-      "Type": "Solicitation",
-      "PostedDate": "2026-04-21 11:03:49.087-04",
+      "NoticeId": "69047c2359af4e68846018c55ca0ac6b",
+      "Sol#": "W912J726SS0002",
+      "Title": "Sources Sought Synopsis/ Request for Information CNC Software",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-22 10:55:49.407-04",
       "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "332722",
-      "ClassificationCode": "5310",
-      "Link": "https://sam.gov/workspace/contract/opp/daf24f978e85451fa3ceeeb36f47314c/view",
+      "NaicsCode": "541519",
+      "ClassificationCode": "",
+      "Link": "https://sam.gov/workspace/contract/opp/69047c2359af4e68846018c55ca0ac6b/view",
       "matches": [
         {
-          "term": "web",
+          "term": "software",
           "category": "technology",
-          "count": 6
+          "count": 11
         },
         {
           "term": "application",
           "category": "technology",
-          "count": 2
-        },
+          "count": 1
+        }
+      ],
+      "total_hits": 12
+    },
+    {
+      "NoticeId": "83d1fd6050264c498daa1e634b1ad759",
+      "Sol#": "NB301000-26-01318",
+      "Title": "This is a Combined Sources Sought/Notice of intent to acquire Semiconductor market research services",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-22 06:52:30.577-04",
+      "Agency": "COMMERCE, DEPARTMENT OF",
+      "NaicsCode": "51929",
+      "ClassificationCode": "DA10",
+      "Link": "https://sam.gov/workspace/contract/opp/83d1fd6050264c498daa1e634b1ad759/view",
+      "matches": [
         {
-          "term": "business_intelligence",
-          "category": "data",
-          "count": 2
+          "term": "nist",
+          "category": "compliance",
+          "count": 8
         },
         {
           "term": "software",
           "category": "technology",
-          "count": 1
-        }
-      ],
-      "total_hits": 11
-    },
-    {
-      "NoticeId": "d73eb480c70f48938e174d10e234b7c1",
-      "Sol#": "SPE7M226Q0407",
-      "Title": "17--COVER,BOTTOM",
-      "Type": "Combined Synopsis/Solicitation",
-      "PostedDate": "2026-04-21 08:02:48.607-04",
-      "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "336413",
-      "ClassificationCode": "17",
-      "Link": "https://sam.gov/workspace/contract/opp/d73eb480c70f48938e174d10e234b7c1/view",
-      "matches": [
-        {
-          "term": "ui",
-          "category": "design",
-          "count": 11
-        }
-      ],
-      "total_hits": 11
-    },
-    {
-      "NoticeId": "2d175dc4fd64416089d948405c4575a9",
-      "Sol#": "SPE7M226Q0405",
-      "Title": "17--SHEAVE ASSEMBLY",
-      "Type": "Combined Synopsis/Solicitation",
-      "PostedDate": "2026-04-21 06:53:39.53-04",
-      "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "336413",
-      "ClassificationCode": "17",
-      "Link": "https://sam.gov/workspace/contract/opp/2d175dc4fd64416089d948405c4575a9/view",
-      "matches": [
-        {
-          "term": "ui",
-          "category": "design",
-          "count": 11
-        }
-      ],
-      "total_hits": 11
-    },
-    {
-      "NoticeId": "4832bfba0c89494b955dc3e9779e6c42",
-      "Sol#": "W50S7T26BA002",
-      "Title": "Walkin Refrigerator/ Freezer Replacement",
-      "Type": "Presolicitation",
-      "PostedDate": "2026-04-21 13:07:57.78-04",
-      "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "238220",
-      "ClassificationCode": "Z2AZ",
-      "Link": "https://sam.gov/workspace/contract/opp/4832bfba0c89494b955dc3e9779e6c42/view",
-      "matches": [
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 9
-        },
-        {
-          "term": "portal",
-          "category": "technology",
-          "count": 1
-        }
-      ],
-      "total_hits": 10
-    },
-    {
-      "NoticeId": "04b5129bfd3049999e02eb9037d1a6d0",
-      "Sol#": "15BBNF26Q00000048",
-      "Title": "FCI Englewood - Upgrade Health Services Elevator",
-      "Type": "Combined Synopsis/Solicitation",
-      "PostedDate": "2026-04-21 11:52:11.18-04",
-      "Agency": "JUSTICE, DEPARTMENT OF",
-      "NaicsCode": "238290",
-      "ClassificationCode": "Z2FF",
-      "Link": "https://sam.gov/workspace/contract/opp/04b5129bfd3049999e02eb9037d1a6d0/view",
-      "matches": [
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 8
-        },
-        {
-          "term": "modernization",
-          "category": "modernization",
-          "count": 1
-        }
-      ],
-      "total_hits": 9
-    },
-    {
-      "NoticeId": "57d44f5afe2c4c97a7b51aaf9978cd89",
-      "Sol#": "86614626R00003",
-      "Title": "Notice of Intent to Sole Source - Comprehensive Congressional News, Analysis, and Legislative Tracking Subscription",
-      "Type": "Special Notice",
-      "PostedDate": "2026-04-21 18:38:30.292-04",
-      "Agency": "HOUSING AND URBAN DEVELOPMENT, DEPARTMENT OF",
-      "NaicsCode": "519290",
-      "ClassificationCode": "DA10",
-      "Link": "https://sam.gov/workspace/contract/opp/57d44f5afe2c4c97a7b51aaf9978cd89/view",
-      "matches": [
-        {
-          "term": "platform",
-          "category": "technology",
-          "count": 3
-        },
-        {
-          "term": "dashboard",
-          "category": "data",
           "count": 2
         },
         {
@@ -478,28 +372,23 @@
           "count": 1
         },
         {
-          "term": "portal",
+          "term": "platform",
           "category": "technology",
-          "count": 1
-        },
-        {
-          "term": "accessibility",
-          "category": "accessibility",
           "count": 1
         }
       ],
-      "total_hits": 8
+      "total_hits": 12
     },
     {
-      "NoticeId": "e7b6086ae7294f85b78bc3f95f4b0e95",
-      "Sol#": "SPE7M126R0010",
-      "Title": "SPRING WIRE SUPPORT 1710-006263917",
-      "Type": "Sources Sought",
-      "PostedDate": "2026-04-21 16:24:12.461-04",
+      "NoticeId": "c2100658f4894f01a31f559382b1e7d4",
+      "Sol#": "N6660426Q0190",
+      "Title": "MANUFACTURE WALTS CABLES",
+      "Type": "Combined Synopsis/Solicitation",
+      "PostedDate": "2026-04-22 09:01:39.513-04",
       "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "336413",
-      "ClassificationCode": "1710",
-      "Link": "https://sam.gov/workspace/contract/opp/e7b6086ae7294f85b78bc3f95f4b0e95/view",
+      "NaicsCode": "334419",
+      "ClassificationCode": "5995",
+      "Link": "https://sam.gov/workspace/contract/opp/c2100658f4894f01a31f559382b1e7d4/view",
       "matches": [
         {
           "term": "web",
@@ -507,62 +396,9 @@
           "count": 4
         },
         {
-          "term": "application",
-          "category": "technology",
-          "count": 2
-        },
-        {
-          "term": "cybersecurity",
-          "category": "security",
-          "count": 2
-        }
-      ],
-      "total_hits": 8
-    },
-    {
-      "NoticeId": "33756ddb1c6045da96c0bcd8c40192fc",
-      "Sol#": "15B20726Q00000011",
-      "Title": "FCI LEWISBURG - HARDEN FRONT LOBBY",
-      "Type": "Combined Synopsis/Solicitation",
-      "PostedDate": "2026-04-21 13:08:05.227-04",
-      "Agency": "JUSTICE, DEPARTMENT OF",
-      "NaicsCode": "236220",
-      "ClassificationCode": "Z2FF",
-      "Link": "https://sam.gov/workspace/contract/opp/33756ddb1c6045da96c0bcd8c40192fc/view",
-      "matches": [
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 8
-        }
-      ],
-      "total_hits": 8
-    },
-    {
-      "NoticeId": "2b0b954ea80b4034b283c319414aad89",
-      "Sol#": "N0010426QBJ88",
-      "Title": "KOH CARTRIDGE",
-      "Type": "Solicitation",
-      "PostedDate": "2026-04-21 12:35:37.407-04",
-      "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "334412",
-      "ClassificationCode": "6625",
-      "Link": "https://sam.gov/workspace/contract/opp/2b0b954ea80b4034b283c319414aad89/view",
-      "matches": [
-        {
-          "term": "application",
-          "category": "technology",
-          "count": 2
-        },
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 2
-        },
-        {
-          "term": "business_intelligence",
-          "category": "data",
-          "count": 2
+          "term": "nist",
+          "category": "compliance",
+          "count": 4
         },
         {
           "term": "software",
@@ -570,41 +406,7 @@
           "count": 1
         },
         {
-          "term": "cybersecurity",
-          "category": "security",
-          "count": 1
-        }
-      ],
-      "total_hits": 8
-    },
-    {
-      "NoticeId": "a49b533830864b849d02be15fac558fa",
-      "Sol#": "N0010426QBJ88",
-      "Title": "KOH CARTRIDGE",
-      "Type": "Solicitation",
-      "PostedDate": "2026-04-21 12:33:46.948-04",
-      "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "334412",
-      "ClassificationCode": "6625",
-      "Link": "https://sam.gov/workspace/contract/opp/a49b533830864b849d02be15fac558fa/view",
-      "matches": [
-        {
-          "term": "application",
-          "category": "technology",
-          "count": 2
-        },
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 2
-        },
-        {
-          "term": "business_intelligence",
-          "category": "data",
-          "count": 2
-        },
-        {
-          "term": "software",
+          "term": "portal",
           "category": "technology",
           "count": 1
         },
@@ -614,51 +416,32 @@
           "count": 1
         }
       ],
-      "total_hits": 8
+      "total_hits": 11
     },
     {
-      "NoticeId": "02d9c78a6efc41188967ddf2902f742b",
-      "Sol#": "N0010426QXA65",
-      "Title": "CIRCUIT CARD ASSEMB",
-      "Type": "Solicitation",
-      "PostedDate": "2026-04-21 12:17:07.438-04",
-      "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "334412",
-      "ClassificationCode": "5998",
-      "Link": "https://sam.gov/workspace/contract/opp/02d9c78a6efc41188967ddf2902f742b/view",
-      "matches": [
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 8
-        }
-      ],
-      "total_hits": 8
-    },
-    {
-      "NoticeId": "4db2145bc9e94e5da7599846662c3714",
-      "Sol#": "FA283426Q0001",
-      "Title": "Data Migration RFI",
+      "NoticeId": "eae7024dba754cea8b3feda288527c74",
+      "Sol#": "9531BP-26-RFI-0002",
+      "Title": "FEC Amazon Web Services",
       "Type": "Sources Sought",
-      "PostedDate": "2026-04-21 10:51:50.561-04",
-      "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "541519",
-      "ClassificationCode": "7E20",
-      "Link": "https://sam.gov/workspace/contract/opp/4db2145bc9e94e5da7599846662c3714/view",
+      "PostedDate": "2026-04-22 15:21:51.533-04",
+      "Agency": "FEDERAL ELECTION COMMISSION",
+      "NaicsCode": "518210",
+      "ClassificationCode": "DB01",
+      "Link": "https://sam.gov/workspace/contract/opp/eae7024dba754cea8b3feda288527c74/view",
       "matches": [
         {
-          "term": "application",
-          "category": "technology",
-          "count": 3
+          "term": "aws",
+          "category": "infrastructure",
+          "count": 5
         },
         {
-          "term": "platform",
+          "term": "web",
           "category": "technology",
           "count": 2
         },
         {
-          "term": "data_migration",
-          "category": "data",
+          "term": "api",
+          "category": "technology",
           "count": 2
         },
         {
@@ -667,22 +450,337 @@
           "count": 1
         }
       ],
-      "total_hits": 8
+      "total_hits": 10
     },
     {
-      "NoticeId": "ec51499c07224cb982e3211195f81a09",
-      "Sol#": "W911KF-26-S-0011",
-      "Title": "Monarch Software License Renewal",
-      "Type": "Sources Sought",
-      "PostedDate": "2026-04-21 10:49:32.852-04",
+      "NoticeId": "ab155e9fd7af4833b8b7dca19eb09658",
+      "Sol#": "SPRMM126RKA39",
+      "Title": "47--MANIFOLD,AIR LINE - AND OTHER REPLACEMENT PARTS",
+      "Type": "Solicitation",
+      "PostedDate": "2026-04-22 08:36:02.703-04",
       "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "513210",
-      "ClassificationCode": "DA10",
-      "Link": "https://sam.gov/workspace/contract/opp/ec51499c07224cb982e3211195f81a09/view",
+      "NaicsCode": "332919",
+      "ClassificationCode": "4820",
+      "Link": "https://sam.gov/workspace/contract/opp/ab155e9fd7af4833b8b7dca19eb09658/view",
+      "matches": [
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 10
+        }
+      ],
+      "total_hits": 10
+    },
+    {
+      "NoticeId": "03952194c8dd4015bb963b2f9d25670f",
+      "Sol#": "3003656",
+      "Title": "Defense Civilian Pay System (DCPS)",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-22 15:39:35.544-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "541519",
+      "ClassificationCode": "DA01",
+      "Link": "https://sam.gov/workspace/contract/opp/03952194c8dd4015bb963b2f9d25670f/view",
       "matches": [
         {
           "term": "software",
           "category": "technology",
+          "count": 9
+        }
+      ],
+      "total_hits": 9
+    },
+    {
+      "NoticeId": "fc769b528ea84cd1873fc5aa3e38e0a0",
+      "Sol#": "N0010426QNB81",
+      "Title": "SEAT,VALVE",
+      "Type": "Solicitation",
+      "PostedDate": "2026-04-22 14:49:22.542-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "332912",
+      "ClassificationCode": "4820",
+      "Link": "https://sam.gov/workspace/contract/opp/fc769b528ea84cd1873fc5aa3e38e0a0/view",
+      "matches": [
+        {
+          "term": "application",
+          "category": "technology",
+          "count": 5
+        },
+        {
+          "term": "software",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 2
+        }
+      ],
+      "total_hits": 9
+    },
+    {
+      "NoticeId": "837dc336e7134e2c961c0208239c2d19",
+      "Sol#": "RFQ_75H70626Q00093",
+      "Title": "Provide Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS) Surveys at the Quentin N Burdick Memorial Health Care Facility in Belcourt, ND",
+      "Type": "Combined Synopsis/Solicitation",
+      "PostedDate": "2026-04-22 12:31:49.813-04",
+      "Agency": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
+      "NaicsCode": "541910",
+      "ClassificationCode": "R422",
+      "Link": "https://sam.gov/workspace/contract/opp/837dc336e7134e2c961c0208239c2d19/view",
+      "matches": [
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 3
+        },
+        {
+          "term": "platform",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "azure",
+          "category": "infrastructure",
+          "count": 2
+        },
+        {
+          "term": "cms",
+          "category": "content",
+          "count": 1
+        },
+        {
+          "term": "dashboard",
+          "category": "data",
+          "count": 1
+        }
+      ],
+      "total_hits": 9
+    },
+    {
+      "NoticeId": "4c131d0c6c6a44fe9b0b0216486ab4ac",
+      "Sol#": "RFQ_75H70626Q00093",
+      "Title": "Provide Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS) Surveys at the Quentin N Burdick Memorial Health Care Facility in Belcourt, ND",
+      "Type": "Combined Synopsis/Solicitation",
+      "PostedDate": "2026-04-22 12:27:54.462-04",
+      "Agency": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
+      "NaicsCode": "541910",
+      "ClassificationCode": "R422",
+      "Link": "https://sam.gov/workspace/contract/opp/4c131d0c6c6a44fe9b0b0216486ab4ac/view",
+      "matches": [
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 3
+        },
+        {
+          "term": "platform",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "azure",
+          "category": "infrastructure",
+          "count": 2
+        },
+        {
+          "term": "cms",
+          "category": "content",
+          "count": 1
+        },
+        {
+          "term": "dashboard",
+          "category": "data",
+          "count": 1
+        }
+      ],
+      "total_hits": 9
+    },
+    {
+      "NoticeId": "3b0de9053e304fc48daba9bbfd047701",
+      "Sol#": "RFQ_75H70626Q00093",
+      "Title": "Provide Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS) Surveys at the Quentin N Burdick Memorial Health Care Facility in Belcourt, ND",
+      "Type": "Combined Synopsis/Solicitation",
+      "PostedDate": "2026-04-22 12:23:24.106-04",
+      "Agency": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
+      "NaicsCode": "541910",
+      "ClassificationCode": "R422",
+      "Link": "https://sam.gov/workspace/contract/opp/3b0de9053e304fc48daba9bbfd047701/view",
+      "matches": [
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 3
+        },
+        {
+          "term": "platform",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "azure",
+          "category": "infrastructure",
+          "count": 2
+        },
+        {
+          "term": "cms",
+          "category": "content",
+          "count": 1
+        },
+        {
+          "term": "dashboard",
+          "category": "data",
+          "count": 1
+        }
+      ],
+      "total_hits": 9
+    },
+    {
+      "NoticeId": "38a06a7fff3b46bb9b9c6e4acc8f6863",
+      "Sol#": "HE125426EDUPLATFORM",
+      "Title": "Request for Information-DoWEA PreK-12 Education Platform",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-22 12:08:56.806-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "541512",
+      "ClassificationCode": "",
+      "Link": "https://sam.gov/workspace/contract/opp/38a06a7fff3b46bb9b9c6e4acc8f6863/view",
+      "matches": [
+        {
+          "term": "platform",
+          "category": "technology",
+          "count": 4
+        },
+        {
+          "term": "lms",
+          "category": "elearning",
+          "count": 2
+        },
+        {
+          "term": "api",
+          "category": "technology",
+          "count": 1
+        },
+        {
+          "term": "cloud",
+          "category": "infrastructure",
+          "count": 1
+        },
+        {
+          "term": "analytics",
+          "category": "data",
+          "count": 1
+        }
+      ],
+      "total_hits": 9
+    },
+    {
+      "NoticeId": "4dcdddc1414443f1993b0e4bbc5a7f0f",
+      "Sol#": "N4008526R0101",
+      "Title": "Vertical Transportation Equipment (VTE) Maintenance, Repair, and Alteration Services, Naval Complex Newport, Newport Rhode Island",
+      "Type": "Presolicitation",
+      "PostedDate": "2026-04-22 09:18:25.015-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "",
+      "ClassificationCode": "S216",
+      "Link": "https://sam.gov/workspace/contract/opp/4dcdddc1414443f1993b0e4bbc5a7f0f/view",
+      "matches": [
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 8
+        },
+        {
+          "term": "software",
+          "category": "technology",
+          "count": 1
+        }
+      ],
+      "total_hits": 9
+    },
+    {
+      "NoticeId": "27f8535da6c6423098deddc015f723ba",
+      "Sol#": "N0010426QZA93",
+      "Title": "PARTS KIT,BALL VALV",
+      "Type": "Solicitation",
+      "PostedDate": "2026-04-22 07:46:56.631-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "332919",
+      "ClassificationCode": "4820",
+      "Link": "https://sam.gov/workspace/contract/opp/27f8535da6c6423098deddc015f723ba/view",
+      "matches": [
+        {
+          "term": "application",
+          "category": "technology",
+          "count": 5
+        },
+        {
+          "term": "software",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 2
+        }
+      ],
+      "total_hits": 9
+    },
+    {
+      "NoticeId": "663abd64e26c4fc8896b6a0221120cfa",
+      "Sol#": "N00024-25-R-5510",
+      "Title": "AN/SPY-6(V) Production RFI/Sources Sought",
+      "Type": "Sources Sought",
+      "PostedDate": "2026-04-22 06:01:48.37-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "334511",
+      "ClassificationCode": "5840",
+      "Link": "https://sam.gov/workspace/contract/opp/663abd64e26c4fc8896b6a0221120cfa/view",
+      "matches": [
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 4
+        },
+        {
+          "term": "platform",
+          "category": "technology",
+          "count": 2
+        },
+        {
+          "term": "software",
+          "category": "technology",
+          "count": 1
+        },
+        {
+          "term": "application",
+          "category": "technology",
+          "count": 1
+        },
+        {
+          "term": "hosting",
+          "category": "infrastructure",
+          "count": 1
+        }
+      ],
+      "total_hits": 9
+    },
+    {
+      "NoticeId": "e417a204c5c84b06b641743c0bfd8ea9",
+      "Sol#": "W51EW7-26-R-A007",
+      "Title": "Joint Base Lewis-McChord (JBLM) FORGE I Other Transaction Authority (OTA) Request for Prototype Proposal (RPP) W51EW7-26-R-A007",
+      "Type": "Special Notice",
+      "PostedDate": "2026-04-22 16:38:24.479-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "",
+      "ClassificationCode": "",
+      "Link": "https://sam.gov/workspace/contract/opp/e417a204c5c84b06b641743c0bfd8ea9/view",
+      "matches": [
+        {
+          "term": "modernization",
+          "category": "modernization",
           "count": 6
         },
         {

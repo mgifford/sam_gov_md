@@ -1,0 +1,31 @@
+---
+layout: default
+title: CCA, VME ETHERNET
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 23695e54afed49919c0e39c0e01bdc1f
+---
+
+# CCA, VME ETHERNET
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-04-22 12:24:32.815-04
+- Solicitation Number: SPRMM1-26-Q-KE20
+
+## Summary
+
+NSN 7HH 5998-01-606-5809 CCA, VME ETHERNET S SHELF LIFE 0-00 FOR REFERENCE ONLY 0BPH5 RM921NBP-24FX-A-N 0BPH5 7572013-1 0BPH5 8652142-1 SEE TECHNICAL REQUIREMENTS IN SECTIONS C, D, E, AND ATTACHMENTS HM QUP ICQ PMT CD PM WM CUD CT UC LP IC UCL SP MK PACK UNIT PKWT UNIT PKCU OPI N 001 000 GX 1 00 K3 LT B ED A 00 B 39 EFF 3.5
+
+0.000 M PACKAGING IS IN ACCORDANCE WITH MIL-STD-2073
+
+## Contacts
+
+- Primary Contact:
+  - Name: Telephone: 4457376768
+  - Email: DAVID.CRUZ@DLA.MIL
+  - Phone: 4457376768
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/23695e54afed49919c0e39c0e01bdc1f/view)

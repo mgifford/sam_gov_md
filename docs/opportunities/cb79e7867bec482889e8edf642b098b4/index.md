@@ -1,0 +1,28 @@
+---
+layout: default
+title: Armed Forces Network (AFN) signals via Transport Steams over Internet Protocol (TSoIP) on commercial internet using the Secure Reliable Transport (SRT)
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: cb79e7867bec482889e8edf642b098b4
+---
+
+# Armed Forces Network (AFN) signals via Transport Steams over Internet Protocol (TSoIP) on commercial internet using the Secure Reliable Transport (SRT)
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-04-22 04:45:06.102-04
+- Solicitation Number: USARCFETSOIP
+
+## Summary
+
+Request for Information – Information Technology Services SUBJECT: Armed Forces Network (AFN) signals via Transport Steams over Internet Protocol (TSoIP) on commercial internet using the Secure Reliable Transport (SRT) protocol AGENCY: Department of War (DoW) NOTICE TYPE: Request for Information / Sources Sought NAICS: 516210 - Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers PLACE OF PERFORMANCE: Rhineland-Palatinate, Germany Description THIS IS A REQUEST FOR INFORMATION (RFI) ONLY – This RFI is issued solely for information and planning purposes – it does not constitute a Request for Proposal (RFP) or a promise to issue an RFP in the future. Solicitations are not available at this time. Requests for a solicitation will not receive a response. This notice does not constitute a commitment by the United States Government to contract for any supply or service whatsoever. All information submitted in response to this announcement is voluntary; the United States Government will not pay for information requested nor will it compensate any respondent for any cost incurred in developing information provided to the United States Government. Not responding to this RFI does not preclude participation in any future RFP, if any is issued. It is the responsibility of the potential offerors to monitor this site for additional information pertaining to this requirement. The US Army Regional Correctional Facility-Europe is exploring options for Contractor performance regarding the recommended equipment list for reception of Armed Forces Network (AFN) signals via Transport Steams over Internet Protocol (TSoIP) on commercial internet using the Secure Reliable Transport (SRT) protocol. Transition to SRT has been recommended for all last-mile distributors (LMDs) worldwide as AFN’s strategic modernization efforts include the abandonment of satellite delivery for AFN content. All SRT decoders provisioned to acquire and distribute AFN signals must be compatible with Multi-Program Transport Streams (MPTS) or Single Program Transport Streams (SPTS), have native or licensed Zixi support, and comply with Section 889 of the FY 2019 National Defense Authorization Act. MPTS is AFN’s preferred content delivery method to achieve operational efficiency within our licensing constraints. AFN will work with LMDs to verify proposed system topography and architecture and for those distributors using SPTS equipment to determine the best method to support their needs. AFN is not funded for, and cannot provide, the equipment needed for SRT distribution. All LMDs should have a stable internet service with redundant pathways, minimum bandwidth of 25 Mbps, and a static IP address for this service. AFN has identified SRT decoder options that meet the above technical specifications. Two SRT equipment options may meet LMD needs that offer an integrated and a modular solution. Integrated options are often the most straightforward choice for facilities that have existing distribution headend systems with available ASI or IP inputs. It acts as a simple, robust bridge between the incoming SRT streams and the existing infrastructure. Modular options provide versatility and can serve as a complete, self-contained distribution headend. It may be an ideal choice if the LMD needs to build a new headend or desires a single system to handle signal reception, processing, and direct-to-cable modulation. Its modularity allows for future expansion to meet changing requirements. USARCF-Europe is seeking the following information: 1. Potential Respondents shall describe how they would propose to successfully perform these services, assuming that all services provided by Respondent would be accomplished in accordance with all applicable U.S. and Germany laws, regulations, policies, and procedures. 2. Potential Respondents should describe both their existing relationships with the following entities and the extent to which such relationships would enable to successfully perform each of the three services: the Internet engineering community Internet standards development organizations Regional Internet Registries Country code top level domain operators Generic and sponsored top level domain operators National governments or public authorities associated with specific country code top level domains. Responses to this RFI shall be submitted via email to 409th_TCC_MSD@army.mil no later than 1600 Central European Summer Time (CEST) on 13 May 2026. Submissions should be provided in Microsoft Word or Adobe PDF format and shall not exceed 5 pages in length. Please ensure the subject line of the email reads: "RFI Response - Transport Steams over Internet Protocol (TSoIP) on commercial internet using the Secure Reliable Transport (SRT) - [Company Name]".
+
+## Contacts
+
+- Primary Contact:
+  - Name: Erin Malinski-Runge
+  - Email: erin.k.malinski-runge.civ@army.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cb79e7867bec482889e8edf642b098b4/view)

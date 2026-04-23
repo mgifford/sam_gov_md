@@ -1,0 +1,31 @@
+---
+layout: default
+title: Justification for Sole Source - Johnson Controls
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Special Notice
+notice_id: 859eef3e5e8246799a269208a2eb0189
+---
+
+# Justification for Sole Source - Johnson Controls
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Special Notice
+- Posted: 2026-04-22 12:16:37.879-04
+- Solicitation Number: 36C26326F0050
+
+## Summary
+
+VHAPG Part 808.405-6 Limiting Sources Page 1 of 3 Revision: 01 Effective Date: 09/01/2024 Acquisition ID#: 36C263-26-AP-1514 LIMITED SOURCES JUSTIFICATION ORDER >SAT FAR PART 8.405-6 Acquisition Plan Action ID: 36C263-26-AP-1514 (1) Contracting Activity: Department of Veterans Affairs, VISN 23, 618 VA Minneapolis Medical Center, Network Contracting Office 23 (NCO 23), Services and Supplies Team 4 (2) Description of Action: This acquisition is conducted under the authority of the Multiple-Award Schedule Program (41 U.S.C. 152(3) and 40 U.S.C. 501). Sole sourced award for a new action. Order against: FSS Contract Number: GS-07F-190CA Name of Proposed Contractor: Johnson Controls Inc. Street Address: 2605 Fernbrook Lane North City, State, Zip: Plymouth, MN 55447 Phone: 763-585-5069 (3) Description of Supplies or Services: The estimated value of the proposed action is $ 740,000.00 The VA Minneapolis Health Care System requires Metasys Building Automation System Services. Due to proprietary software and hardware already installed, this requirement will be sole sourced to Johnson Controls Inc. There are no other third parties authorized to perform maintenance and service on JCI equipment. Johnson Controls Inc is a large business. There are no options for this procurement. (4) Identify the Authority and Supporting Rationale (see below and if applicable, a demonstration of the proposed contractor’s unique qualifications to provide the required supply or service. FAR 8.405-6(a)(1)(A): An urgent and compelling need exists and following the ordering procedures would result in unacceptable delays: FAR 8.405-6(a)(1)(B): Only one source is capable of providing the supplies or services required at the level of quality required because the supplies or services are unique or highly specialized; There is only one responsible/capable source of these required services. Due to proprietary software and hardware communications, JCI is the only responsible/capable source VHAPG Part 808.405-6 Limiting Sources Page 2 of 3 Revision: 01 Effective Date: 09/01/2024 Acquisition ID#: 36C263-26-AP-1514 to provide these maintenance services. JCI does not currently have authorized third parties who could provide these services. FAR 8.405-6(a)(1)(C): In the interest of economy and efficiency, the new work is a logical follow-on to an original Federal Supply Schedule order provided that the original order was placed in accordance with the applicable Federal Supply Schedule ordering procedures. The original order must not have been previously issued under sole source or limited source procedures. FAR 8.405-6(b): Items peculiar to one manufacturer: A patent, copyright or proprietary data limits competition. The proprietary data is: These are “direct replacements” parts/components for existing equipment. The material/service must be compatible in all aspects (form, fit and function) with existing systems presently installed/performing. (5) Describe Why You Believe the Order Represents the Best Value consistent with FAR 8.404(d) to aid the contracting officer in making this best value determination: There is only one responsible/capable source of these required services. Due to proprietary software and hardware communications, JCI is the only responsible/capable source to provide these maintenance services. JCI does not currently have authorized third parties who could provide these services. These services are required to maintain HVAC and other building automation systems. (6) Describe the Market Research Conducted among schedule holders and the results or a statement of the reason market research was not conducted. Due to this requirement being sole sourced to Johnson Controls, limited market research was conducted. Only Johnson Controls can provide the maintenance and service for the installed system due to proprietary software. See sole source letter provided by JCI. This requirement will be sole sourced to JCI. The VA Rule of Two is not met, the SBA rule of two is not met. (7) Any Other Facts Supporting the Justification: Sole source letter from Johnson Controls is in the Acq-Plan Briefcase as a P03. (8) A Statement of the Actions, if any, the agency may take to remove or overcome any barriers that led to the restricted consideration before any subsequent acquisition for the supplies or services is made: N/A VHAPG Part 808.405-6 Limiting Sources Page 3 of 3 Revision: 01 Effective Date: 09/01/2024 Acquisition ID#: 36C263-26-AP-1514 (9) Requirements Certification: I certify that the requirement outlined in this justification is a Bona Fide Need of the Department of Veterans Affairs and that the supporting data under my cognizance, which are included in the justification, are accurate and complete to the best of my knowledge. I understand that processing of this limited sources justification restricts consideration of Federal Supply Schedule contractors to fewer than the number required by FAR Subpart 8.4. (This signature is the requestor’s supervisor, fund control point official, chief of service or someone with responsibility and accountability.) Carl Berning/Minneapolis VAMC/Engineering Technician (10) Approvals in accordance with the VHAPM Part
+
+806.3 OFOC SOP: a. Contracting Officer’s Certification (required): I certify that the foregoing justification is accurate and complete to the best of my knowledge and belief. Joey Bloomer/Contracting Officer/Des Moines, IA/NCO23/SST4 b. One Level Above the Contracting Officer (Required over the SAT but not exceeding $750K): I certify the justification meets requirements for other than full and open competition. Michael Casper NCO23/Branch Chief
+
+## Contacts
+
+- Primary Contact:
+  - Name: Joey Bloomer
+  - Email: joseph.bloomer@va.gov
+  - Phone: 5156995880
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/859eef3e5e8246799a269208a2eb0189/view)

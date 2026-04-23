@@ -1,0 +1,33 @@
+---
+layout: default
+title: 2305--KUBOTA RTV
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: 240835a66697457a98ce9f00ddd31f40
+---
+
+# 2305--KUBOTA RTV
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-04-22 08:50:02.771-04
+- Solicitation Number: 36C24626Q0541
+- Awardee: null
+
+## Summary
+
+Sources Sought Notice Sources Sought Notice Page 4 of 4 Sources Sought Notice *= Required Field Sources Sought Notice SUBJECT* KUBOTA RTV GENERAL INFORMATION CONTRACTING OFFICE S ZIP CODE* 23667 SOLICITATION NUMBER* 36C24626Q0538 RESPONSE DATE/TIME/ZONE 04-29-2026 1600 EASTERN TIME, NEW YORK, USA ARCHIVE 60 DAYS AFTER THE RESPONSE DATE RECOVERY ACT FUNDS N SET-ASIDE VSA PRODUCT SERVICE CODE* 2305 NAICS CODE* 333112 CONTRACTING OFFICE ADDRESS Department of Veterans Affairs Network Contracting Office 6 100 Emancipation Drive Hampton VA 23667 POINT OF CONTACT* Contract Support Specialist Ralf Pietzsch ralf.pietzsch@va.gov PLACE OF PERFORMANCE ADDRESS Department of Veterans Affairs Network Contracting Office 6 100 Emancipation Drive Hampton VA 23667 POSTAL CODE 23667 COUNTRY USA ADDITIONAL INFORMATION AGENCY S URL https://www.va.gov URL DESCRIPTION website AGENCY CONTACT S EMAIL ADDRESS ralf.pietzsch@va.gov EMAIL DESCRIPTION E-Mail DESCRIPTION THIS IS A SOURCES SOUGHT REQUEST ONLY This notice does NOT constitute a request for proposal, request for quote, or invitation for bid. No formal solicitation document exists at this time. The Government will not pay for any information solicited. The Department of Veterans Affairs Medical Center, Network Contracting Office (NCO) 6 Hampton VA Medical Center (HAMVAMC) in Hampton, Virginia, on behalf of is conducting market research to determine whether to set-aside an acquisition for KUBOTA RTV or equal to item, for Hampton VA Medical Center (VAMC). The Department of Veteran Affairs, Hampton VA Medical Center (HAMVAMC) seeks a contractor for the delivery of the KUBOTA RTV or equal to item. The contractor shall provide items which include all requested equipment, and delivery for equipment use by the Interior Design Department. The North American Industry Classification System (NAICS) Code for this acquisition is 333112 (Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing), Product Service Code (PSC) Classification is 2305 (Ground Effect Vehicles) and Size Standard 800 Employees. Â GENERAL: All capable contractors are welcome to respond to this notice and provide a brief capability statement that covers the information in the statement of work. Your response must address capabilities specific to the services/items required in the statement of work and must include the following: REQUEST COMPANY INFORMATION TO INCLUDE: a. Company Name b. SAM CAGE & Unique Entity ID under which the company is registered in Sam.gov/ https://veterans.certify.sba.gov/ c. Company Address d. Point of contact name e. Telephone number f. Email address g. Socioeconomic data h. Company Business Size Status and representations of your business i. Names and types of current federal contracts and/or contract vehicles that can be utilized for the scope of the requirements. j. Capabilities Statement INTRODUCTION This request is to obtain 3 new cargo vehicles for the Interior Design program to keep up with the influx of workflows, employees within the program, and workload of the program to be able to effectively, efficiently, and safely relocate furnishings and supplies around the Hampton VA Medical Center campus. The vehicle will be needed by Spring 2026 to streamline the processes and procedures of the Interior Design program and provide better interior environments for veterans and adjacent staff members. DESCRIPTION OF THE ACTION BEING APPROVED This action is to request the procurement for a delivery order for the purchase of the Kubota Worksite vehicles with extended bed and/or something of equal value: Part Description Quantity Kubota RTVX2L-SKLH-1 Long Bed, Orange, HD Tires, Hydraulic Dump 3 77700-VC5000 CANOPY - METAL (BLACK) 3 77700-VC5025 WINDSHIELD TEMPERED GLASS (AS2) 3 77700-VC5090 DOORS - METAL (BLACK) 3 77700-VC5040 REAR PANEL (BLACK) 3 77700-VC5030 WIPER KIT - SINGLE 172 SWEEP 3 K7121-99610 TURN SIGNAL/LIGHT KIT 3 77700-10705 KUBOTA CLEARVIEW UTV REARVIEW MIRROR 3 77700-10706 RTV SIDE VIEW MIRRORDUAL AXIS BREAKAWAY 3 77700-VC5080 WIREHARNESS, SWITCH PANEL (X900,1120) 3 77700-VC5083A KIT HEATER * 3 DESCRIPTION OF SUPPLIES REQUIRED Contractor shall provide the following salient characteristics for the items. The vehicle should have a D1105-E4-UV, 3 Cylinders, 4 Cycle, Diesel, OHV engine with 68.5 cu. in.in displacement. The chassis shall have an independent, Dual A-Arms with Adjustable Spring Preload front suspension. The front and rear brakes should be wet disc. The rear suspension should be independent with coil-over shock. The transmission should be a variable hydro transmission (VHT-X) with a four-wheel drive system. The cargo bed should be made of steel with a minimum 11 in depth and a hydro power lift dumping system. The vehicle should feature enclosed wing door beds and an enclosed cabin for all-weather protection. The vehicle should have a minimum horsepower of
+
+24.8 HP @ 3000 and a fuel tank capacity of 7.9 gal. WARRANTY Manufacturer shall warrant and imply that the items delivered here under are merchantable, fit for use for the particular purpose and will be free from defects in material and workmanship for a period of two year/1,000 hour use from the date of delivery. Contractor will replace all parts found defective within the period with cost of replacement, including any shipping costs, to be borne by the Contractor. Under no circumstance will any equipment covered by the guarantee be returned without (a) advance written notice to the contractor or (b) obtaining shipping instructions from the Contractor. Please submit responses via email in Microsoft Office format by 4:00 PM (16:00) (Eastern Standard Time) 04/29/2026. Please include 36C24626Q0538 in subject title. Phone inquiries will not be accepted. NOTE: Responses to this announcement will not be returned, nor will there be any ensuing discussions or debriefings of any responses. However, information obtained as a result of this announcement may be reflected in any subsequent solicitation. This announcement is Government market research purposes ONLY.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Ralf Pietzsch
+  - Title: Contract Support Specialist
+  - Email: ralf.pietzsch@va.gov
+  - Phone: 757-722-9961
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/240835a66697457a98ce9f00ddd31f40/view)

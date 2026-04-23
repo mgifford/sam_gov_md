@@ -1,0 +1,31 @@
+---
+layout: default
+title: 6515--WLR Leica DM2700 P for TL Specifically configured for Asbestos Analysis (VA-25-00098025)
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Special Notice
+notice_id: c124d192207541d48015d22aaf252aeb
+---
+
+# 6515--WLR Leica DM2700 P for TL Specifically configured for Asbestos Analysis (VA-25-00098025)
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Special Notice
+- Posted: 2026-04-22 10:02:09.12-04
+- Solicitation Number: 36C25226Q0295
+- Awardee: null
+
+## Summary
+
+Q&A To ensure our submission is fully compliant, technically accurate, and priced appropriately, I respectfully request clarification on the following items:Â Is the Visoria P configuration listed in the amendment considered brand name only, or will the VA accept brand name or equal products that meet all salient characteristics? brand name or equal Â Are substitutions allowed for any optical components (objectives, eyepieces, compensator plate, Bertrand lens, condenser, etc.) if they meet or exceed the listed specifications? We are ok with substitutes as long as they meet the listed specifications and are appropriate for the NIOSH 9002 method. Â Does the VA require any digital imaging, software, or documentation tools beyond the Basic Docu Tube POL BDTP 25? NO Â Should the system include image capture, measurement software, or reporting tools for asbestos analysis? NO Â Is on site installation required, or is delivery of a fully assembled and tested system acceptable? On-site installation is not required as long as microscope is fully assembled. Â Is user training required? If so, how many personnel and what duration. NO Although basic familiarization of components, that may differ from previous models would be useful. Â Â Are there any preferred brands for the refractive index liquids, compensator plates, or dispersion staining components? As far as we understand, RI liquids should all work equally with all PLM microscopes. No specific brand is listed for compensator plate or dispersion staining components. Â Does the VA require polarization alignment verification or any specific optical performance testing beyond NIST calibration? Yes, polarization alignment verification requested. Â Should the quote include spare bulbs, filters, or maintenance kits? NO Â 10.Â Â Â Â Â Â Â Â Â Should proof of compliance with NIOSH 9002 and EPA 600/R 93 be submitted with the quote, or provided at delivery? Provided at delivery Â 11.Â Â Â Â Â Â Â Â Â Will a factory calibration certificate with NIST traceable micrometer scale satisfy the requirement, or is third party calibration preferred? Unclear what requirement is being referred to here. But Factory calibration certification with the NIST traceable micrometer scale is a requirement that is requested. Â 12.Â Â Â Â Â Â Â Â Â Does the VA require participation in any laboratory accreditation programs (e.g., NVLAP) for equipment validation? We are in the Â AIHA PAT Program 13.Â Â Â Â Â Â Â Â Â Â Â Â Â Are there any VA specific documentation formats required for compliance certification? No 14.Â Â Â Â Â Â Â Â Â Should the contractor provide a quality assurance plan or is it not required for this procurement? Yes you may if you would like to 15.Â Â Â Â Â Â Â Â Â The Place of Performance section is blank. Could you please confirm the delivery address, building, room number, and receiving hours? It is on the original solicitation pg. 5 16.Â Â Â Â Â Â Â Â Â Are there any special delivery requirements (e.g., liftgate, inside delivery, white glove handling, security check in)?no 17.Â Â Â Â Â Â Â Â Â Is there a required delivery timeline after award? Yes the 30 days standard 18.Â Â Â Â Â Â Â Â Â Does the VA require on site acceptance testing or a post delivery inspection? No Â 19.Â Â Â Â Â Â Â Â Â Should packaging include any hazard warnings due to refractive index liquids or other components? yes Â 20.Â Â Â Â Â Â Â Â Â Are there any restrictions on shipping chemical reagents (e.g., RI liquids, HCl, etc.) to the facility?no21. Â 21.Â Â Â Â Â Â Â Â Â Will this procurement be awarded as a firm fixed price purchase order?yes 22.Â Â Â Â Â Â Â Â Â Are there any additional vendor registrations required beyond SAM (e.g., TAA compliance, VA-specific vendor portals)?no 23.Â Â Â Â Â Â Â Â Â Does the VA require a warranty period, and if so, what duration?no24. 24.Â Â Â Â Â Â Â Â Â Are extended warranties or service agreements desired or optional?no 25.Â Â Â Â Â Â Â Â Â Is this requirement subject to Buy American, Trade Agreements Act, or other sourcing restrictions? Possibly depending on the number of vendors that send a quote 26.Â Â Â Â Â Â Â Â Â Will the VA accept electronic delivery of manuals, certifications, and documentation? No 27.Â Â Â Â Â Â Â Â Â Should pricing include shipping, installation, training, and calibration, or should these be listed as separate line items? However your quote will be set-up.Â Please send a quote to my email address vernise.newton@va.gov before the deadline listed on the amendment. 28.Â Â Â Â Â Â Â Â Â Does the VA require a breakdown of components, or is a single total price acceptable? No 29.Â Â Â Â Â Â Â Â Â Are there any budgetary constraints or maximum thresholds the VA can share? n/a 30.Â Â Â Â Â Â Â Â Â Should the quote remain valid for a specific period beyond standard terms? If you choose to do so 31.Â Â Â Â Â Â Â Â Â Is there any anticipated timeline for award after the April 27 deadline? No anticipated timeline available right now 32.Â Â Â Â Â Â Â Â Â Will the VA issue any additional amendments or clarifications before the due date? Not sure as this time 33.Â Â Â Â Â Â Â Â Â Is there a preferred point of contact for technical questions versus contractual questions? As long as questions are asked 24 hours before the deadline. .
+
+## Contacts
+
+- Primary Contact:
+  - Name: vernise.newton@va.gov
+  - Title: Vernise L. Newton
+  - Email: vernise.newton@va.gov
+  - Phone: 414-844-4800 x43248
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c124d192207541d48015d22aaf252aeb/view)
