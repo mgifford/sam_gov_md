@@ -1,0 +1,33 @@
+---
+layout: default
+title: GIWW CORPUS CHRISTI BAY TO PORT ISABEL W/ CHANNEL TO HARLINGEN, PIPELINE DREDGING
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 38a0c681b65140aca1ae086ad49b4b70
+---
+
+# GIWW CORPUS CHRISTI BAY TO PORT ISABEL W/ CHANNEL TO HARLINGEN, PIPELINE DREDGING
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-04-23 17:42:16.918-04
+- Solicitation Number: W912HY26BA016
+
+## Summary
+
+THIS SOLICITATION IS BEING ISSUED AS AN UNRESTRICTED PROCUREMENT FOR FY26 USACE GALVESTON DISTRICT, GULF INTRACOASTAL WATERWAY, CORPUS CHRISTI BAY TO PORT ISABEL W/ CHANNEL TO HARLINGEN, PIPELINE DREDGING, NUECES, KLEBERG, KENEDY, WILLACY, AND CAMERON COUNTIES, TEXAS.
+
+## Contacts
+
+- Primary Contact:
+  - Name: DANELLE TATE
+  - Email: DANELLE.M.TATE@USACE.ARMY.MIL
+  - Phone: 409-766-3116
+- Secondary Contact:
+  - Name: Curtis Cole Jr
+  - Email: curtis.cole@usace.army.mil
+  - Phone: (409) 682-7518
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/38a0c681b65140aca1ae086ad49b4b70/view)

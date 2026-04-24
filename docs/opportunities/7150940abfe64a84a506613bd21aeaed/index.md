@@ -1,0 +1,29 @@
+---
+layout: default
+title: CAT DOZER REAPAIR PARTS
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 7150940abfe64a84a506613bd21aeaed
+---
+
+# CAT DOZER REAPAIR PARTS
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-04-23 11:29:00.266-04
+- Solicitation Number: W911S226U3096
+
+## Summary
+
+THIS SOLICITATION IS REQUESTING REPAIR PARTS FOR A CATD6NLGP DOZER SN#CAT00D6NPMG502058. ALL QOUTES MUST INCLUDE FREIGHT FEES TO FORT DRUM, NY 13602ITEM1:LINK AS-TRAC, PN#6503506, QTY:2EAITEM2: SEGMENT-SPRO, PN#618077, QTY:10EAITEM3: BOLT, PN#6V0937, QTY:50EAITEM4:NUT, PN#7H3607, QTY:50EAITEM5:WASHER, PN#2S5658, QTY:50EAITEM6:BOLT, PN#1061642, QTY:4EAITEM7:BOLT, PN#1070719, QTY:4EAITEM8:BOLT, PN#6V1792, QTY:360EAITEM9:NUT, PN#1S1860, QTY:360EA
+
+## Contacts
+
+- Primary Contact:
+  - Name: Jerry Golyar
+  - Email: jerry.t.golyar.civ@army.mil
+  - Phone: 3157724649
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7150940abfe64a84a506613bd21aeaed/view)

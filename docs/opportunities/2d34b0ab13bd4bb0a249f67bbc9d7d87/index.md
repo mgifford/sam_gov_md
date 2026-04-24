@@ -1,0 +1,29 @@
+---
+layout: default
+title: Keystone and Webbers Dam Powerhouse - Excitation System Maintenance Service
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 2d34b0ab13bd4bb0a249f67bbc9d7d87
+---
+
+# Keystone and Webbers Dam Powerhouse - Excitation System Maintenance Service
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-04-23 09:28:09.282-04
+- Solicitation Number: W912BV26QA018
+
+## Summary
+
+Keystone Dam and Webbers Falls Dam Powerhouse - Alstom Excitation System Maintenance Service. Contractor shall supply equipment, materials and labor as require performing inspection, diagnostics, and corrective maintenance on a quantity of two excitation systems designated U1 at the Keystone Dam hydroelectric power plant and U2 at the Webbers Falls Dam hydroelectric power plant. The contractor shall correct known excitation system problems and report problems revealed through diagnostics with proposed corrective maintenance to the government.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Tyler Hastings
+  - Email: tyler.a.hastings@usace.army.mil
+  - Phone: 9186694396
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2d34b0ab13bd4bb0a249f67bbc9d7d87/view)

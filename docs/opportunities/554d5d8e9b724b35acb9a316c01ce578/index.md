@@ -1,0 +1,31 @@
+---
+layout: default
+title: 6515--6515- Medical equipment - UV enclosure, supporting software installation and training MFR: UV Concepts Inc.
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: 554d5d8e9b724b35acb9a316c01ce578
+---
+
+# 6515--6515- Medical equipment - UV enclosure, supporting software installation and training MFR: UV Concepts Inc.
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-04-23 12:18:05.136-04
+- Solicitation Number: 36C26026Q0602
+- Awardee: null
+
+## Summary
+
+This is a SOURCES SOUGHT SYNOPSIS and is for informational / market research purposes only. THIS IS NOT A REQUEST FOR PROPOSAL, QUOTATION OR BID, NOR A SYNOPSIS OF A PROPOSED CONTRACT ACTION. No reimbursement will be made for any costs associated with providing information in response to this synopsis or on any follow up information. NO SOLICITATION IS CURRENTLY AVAILABLE. The purpose for this synopsis is to conduct market research to help identify capable, potential sources and to establish if this requirement can be set-aside for small business or other socio-economic programs. NAICS Code 334510 Electromedical and Electrotherapeutic Apparatus Manufacturing Small Business Size Standard: 1,205 employees PSC/FSC: 6515 Medical and Surgical Instruments, Equipment and Supplies GENERAL INFORMATION: The Department of Veterans Affairs, Seattle VA Health Care System, intends to establish a single award contract for UV enclosure and supporting software suite to offer an automated, traceable UV-C disinfection process for reusable medical equipment (RME), Brand Name or Equal. Must be compatible with existing UVD technology MFR: UV Concepts Inc UVE (UV-Enclosure), large enough to accommodate wheelchairs, IV-poles, computer nurse stations, etc. With a 60-second automated cycle and digital integration with a cloud based process management platform. MFR Part #: UVE001002 UVE Annual Service includes full parts & labor warranty, annual bulb replacement and preventative maintenance MFR Part #: UVE111002 UVE, Annual Process Management Platform with both hardware and software. 250 digital indicator tags that will be attached to portable equipment to automatically update a successful UVE cycle and are digitally integrated with cloud-based process management platform with unlimited access and all SW updates are included. MFR Part #: UVE221002 Installation and On-site training for operating UVE and using the platform Freight included Salient Characteristics or requested system: Capable of inactivating microorganisms on the surfaces of large high-touch portable equipment Documented microbiology testing conducted by an independent (3rd party) & IAC (International Antimicrobial Council) certified laboratory using ASTM Standards A Log-5 reduction (99.999%) in 60 seconds form the center of the enclosure A pathogen reduction performance standard of 2 test microorganisms The unit must be able to be installed into rooms with no limitation of door dimensions Lamp sources are on 4 surfaces (e.g. walls & ceilings) Anodized reflective material with embossed finish produces 86% diffuse reflectivity and lines the full length and width of interior walls, ceiling & door to ensure shadowing in minimized IEC 61010 Certification, Electrical and Safety testing ISO 13849-1 conforming safety controller Independent safety-rated door interlock system ensures the door is confirmed closed before the lamps turn on Passive Infrared (PIR) motion sensor ensures the lamps do not turn on if the enclosure is occupied Occupancy monitoring camera to provide real-time view of the interior of the enclosure during the cycle on touchscreen computer mounted on the front of the enclosure Door obstruction sensor Door drive motor with clutch system which is redundant to the door obstruction sensor and the door closure pinch sensor Multi-frequency RFID and Bluetooth compatible badge reader allows for numerous access cards and badge options Multi-network modem which has the option of being connected via hardwire (LAN), cellular or Wi-Fi (802.11) allowing numerous connections capabilities with or without IT integration Authorized & distinct RFID badges Touchscreen computer is glove compatible and provides step-by-step operating instructions. Standalone program stores all run-cycle data, provide real-time error notifications and operation metrics Touchscreen computer logs the operator time and date; equipment being cycled and cycle success that is automatically transmitted to the cloud-based process management program. Fully automated real time digital indicator tag with 2-way communication has digital screen to provide real-time information and alerts to medical personnel. Tag attaches to equipment and provides 100% oversight to the equipment being cycled. Place of Performance: Seattle VA Health Care System 1660 S Columbian Way Room 2A-104, Building 100 Seattle, WA 98108 INSTRUCTIONS TO RESPOND TO SOURCES SOUGHT SYNOPSIS: Any vendor interested and capable of meeting this requirement should provide a written statement to the Contracting Officer. Vendor response must include at a minimum: Point of Contact Business size Short Description of Capabilities Proof of authorized service provider from the manufacturer VetCert certification (if applicable) Unique Entity ID (UEI#) FSS/GSA schedule Number (if applicable) Any response to this notice must show clear and convincing evidence of the Vendor s capability of meeting this requirement. Please note, responses will be shared within the Government and project team, but otherwise will be held in strict confidence. Interested firms shall respond to this synopsis no later than 3:00 PM Mountain Standard Time on 05/07/2026. All responses shall be submitted electronically to amy.kuczajda@va.gov
+
+## Contacts
+
+- Primary Contact:
+  - Name: Amy Kuczajda
+  - Title: Contract Officer
+  - Email: Amy.kuczajda@va.gov
+  - Phone: 208-429-2018
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/554d5d8e9b724b35acb9a316c01ce578/view)

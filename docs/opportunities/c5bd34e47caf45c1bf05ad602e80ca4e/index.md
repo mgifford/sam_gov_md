@@ -1,0 +1,37 @@
+---
+layout: default
+title: Support Assy and Shim
+agency: HOMELAND SECURITY, DEPARTMENT OF
+notice_type: Special Notice
+notice_id: c5bd34e47caf45c1bf05ad602e80ca4e
+---
+
+# Support Assy and Shim
+
+- Agency: HOMELAND SECURITY, DEPARTMENT OF
+- Type: Special Notice
+- Posted: 2026-04-23 16:07:57.785-04
+- Solicitation Number: 70Z03826QJ0000157
+
+## Summary
+
+NOTICE OF INTENT TO AWARD A SOLE SOURCE BOA CALL: The United States Coast Guard (USCG), Aviation Logistics Center (ALC), Medium Range Recovery (MRR) Procurement Division intends to solicit and negotiate with only one source, the Original Equipment Manufacturer (OEM) – Sikorsky Aircraft Corporation (Cage Code 78286), under Basic Ordering Agreement SPE4A1-22-G-0005 for the items listed in Attachment 1. In accordance with FAR 12.102 (a), the items listed in Attachment 1 are available from only one source. The North American Industry Classification System Code (NAICS) is 336413 with a size standard of 1,250 Employees. The Product Service Code (PSC) is 1560. The small business set aside has been dissolved. This requirement is unrestricted. Delivery is requested within two hundred (200) days after the receipt of order (ARO). The USCG desires early deliveries therefore early shipments are encouraged at no additional cost to the Government. F.O.B. point is Origin. Inspection and Acceptance under this contract will be performed at origin by Defense Contract Management Agency (DCMA). Solicitation number 70Z03826QJ0000157 is assigned for tracking purposes only. No solicitation package will be issued. This notice of intent is not a request for competitive proposals; however, all responsible sources may submit a quotation to Julie.G.Lininger@uscg.mil and mrr-procurement@uscg.mil with 70Z03826QJ0000157 in the subject line which will be considered by the agency if received no later than 2:00 P.M. (EDT) on 25 May 2026. A determination by the Government not to compete the proposed procurement based upon the responses to this notice is solely within the discretion of the Government. Award will be made upon determination of fair and reasonable pricing. 1. See Attachment 1 – “List of Items - 70Z03826QJ0000157” 2. See Attachment 2 – “Redacted J and A – 70Z03826QJ0000157” System updates may lag policy updates. The System for Award Management (SAM) may continue to require entities to complete representations based on provisions that are not included in agency solicitations, Examples include 52.222-25, Affirmative Action Compliance, and paragraph (d) of 52.212-3, Offeror Representations and Certifications—Commercial Products and Commercial Services. Additional examples include 52.212-5, Contract Terms and Conditions Required To Implement Statutes or Executive Orders—Commercial Products and Commercial Services, and 52.213-4, Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products and Commercial Services). Contracting officers will not consider the following representations when making award decisions or enforce requirements: • Paragraph (d) of 52.212-3, Offeror Representations and Certifications—Commercial Products and Commercial Services; • Paragraphs (b)(33), (b)(34), (e)(1)(ix), and (e)(1)(x) of 52.212-5, Contract Terms and Conditions Required To Implement Statutes or Executive Orders—Commercial Products and Commercial Services. • Paragraphs (e)(1)(ii)(I) and (e)(1)(ii)(J) of Alternate II of 52.212-5, Contract Terms and Conditions Required To Implement Statutes or Executive Orders—Commercial Products and Commercial Services; and • Paragraphs (a)(1)(vii) and (a)(1)(viii) of 52.213-4, Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products and Commercial Services). Entities are not required to, nor are they able to, update their entity registration to remove these representations in SAM.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Julie Lininger
+  - Email: julie.g.lininger@uscg.mil
+- Secondary Contact:
+  - Name: MRR Procurement Mailbox
+  - Email: mrr-procurement@uscg.mil
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: . In accordance with FAR 12.102 (a), the items listed in Attachment 1 are available from only one source. The North American Industry Classification System Code (NAICS) is 336413 with a size standard of 1,250 Employees. The Product Service Code (PSC) is 1560. The small business set aside has been dissolved. This requirement is unrestricted. Delivery is requested within two hundred (200) days after the receipt of order (ARO). The USCG desires early deliveries therefore early shipments are encouraged at no additional cost to the Government. F.O.B. point is Origin. Inspection and Acceptance under this contract will be performed at origin by Defense Contract Management Agency (DCMA). Solicitation number 70Z03826QJ0000157 is assigned for tracking purposes only. No solicitation package will be issued. This notice of intent is not a request for competitive proposals; however, all responsible sources may submit a quotation to Julie.G.Lininger@uscg.mil and mrr-procurement@uscg.mil with 70Z03826QJ0000157 in the subject line which will be considered by the agency if received no later than 2:00 P.M. (EDT) on 25 May 2026. A determination by the Government not to compete the proposed procurement based upon the responses to this notice is solely within the discretion of the Government. Award will be made upon determination of fair and reasonable pricing. 1. See Attachment 1 – “List of Items - 70Z03826QJ0000157” 2. See Attachment 2 – “Redacted J and A – 70Z03826QJ0000157” System updates may lag policy updates. The System for Award Management (SAM) may continue to require entities to complete representations based on provisions that are not included in agency solicitations, Examples include 52.222-25, Affirmative Action Compliance, and paragraph (d) of 52.212-3, Offeror Representations and Certifications—Commercial Products and Commercial Services. Additional examples include 52.212-5, Contract Terms and Conditions Required To Implement Statutes or Executive Orders—Commercial Products and Commercial Services, and 52.213-4, Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products and Commercial Services). Contracting officers will not consider the following representations when making award decisions or enforce requirements: • Paragraph (d) of 52.212-3, Offeror Representations and Certifications—Commercial Products and Commercial Services; • Paragraphs (b)(33), (b)(34), (e)(1)(ix), and (e)(1)(x) of 52.212-5, Contract Terms and Conditions Required To Implement Statutes or Executive Orders—Commercial Products and Commercial Services. • Paragraphs (e)(1)(ii)(I) and (e)(1)(ii)(J) of Alternate II of 52.212-5, Contract Terms and Conditions Required To Implement Statutes or Executive Orders—Commercial Products and Commercial Services; and • Paragraphs (a)(1)(vii) and (a)(1)(viii) of 52.213-4, Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products and Commercial Services). Entities are not required to, nor are they able to, update their entity registration to remove these representations in SAM
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c5bd34e47caf45c1bf05ad602e80ca4e/view)

@@ -1,0 +1,31 @@
+---
+layout: default
+title: J073--NEW Canteen Power Washing 537
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: ef292c3adbba4dceb350e4000b025e71
+---
+
+# J073--NEW Canteen Power Washing 537
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-04-23 17:12:44.798-04
+- Solicitation Number: 36C25226Q0413
+- Awardee: null
+
+## Summary
+
+SOURCES SOUGHT SYNOPSIS The Department of Veterans Affairs is issuing this source sought synopsis as a means of conducting market research to identify firms having an interest in and the resources to support a requirement to provide Canteen Power Washing for the Jesse Brown VA Medical Center, located in Chicago, IL. The result of this market research may contribute to determining the method of procurement. The applicable North American Industry Classification System (NAICS) code assigned to this procurement is 561720 Janitorial Services. THERE IS NO SOLICITATION AT THIS TIME. This request for capability information does not constitute a request for proposals; submission of any information in response to this market survey is purely voluntary; the government assumes no financial responsibility for any costs incurred. Requirements: The contractor shall provide all labor; supplies and equipment to power wash/steam clean sanitize and disinfect the entire Canteen Food Service Operations bi-monthly. Services shall include the movement of all furniture and equipment to center of the room(s); remove all dirt and buildup from walls, floors tiles, ceiling and grout lines via power washing/steam cleaning and sanitizing of walls, floors tiles, and grout lines in the food operation areas. Shall treat and sanitize all floor drains with a natural enzyme to remove organic build-up in drains throughout the food operation areas. Power wash and mop floors of all coolers to remove all grease, debris, build up from floor. Remove all grease and build up from twenty (20) rubber floor mats ranging in various sizes via power wash and sanitize all floor mats. Steam clean and sanitize all food carts to remove all grease and build-up. All work shall be performed according to manufacturer s specifications and industry standards at Jesse Brown VAMC. If your Company has the potential capacity to perform these contract services, please provide the following information:1) Company name, address, email address, web site address, telephone number, and size and type of ownership for the company; 2) Tailored capability statements addressing the particulars of this effort, and documentation supporting claims of organizational and staff capability. If significant subcontracting or teaming is anticipated in order to deliver technical capability, companies should address the administrative and management structure of such arrangements; and 3) Confirmation your company can meet the Limitations of Subcontracting should they apply (see below) The government will evaluate market information to ascertain potential market capacity to provide services consistent in scope and scale with those described in this notice and otherwise anticipated. Based on the responses to this synopsis and other market research, this requirement may be set-aside for veteran-owned small businesses (SDVOSBs or VOSBs) (limitation of subcontracting would apply), small businesses (limitations on subcontracting would apply) or procured through full and open competition. Limitations on Subcontracting 13 CFR §125.6 will apply to any procurement set-aside for veteran-owned small businesses (SDVOSBs or VOSBs) or small businesses. 13 CFR §125.6 states: (a) General. In order to be awarded a full or partial small business set-aside contract with a value greater than the simplified acquisition threshold (as defined in the FAR at 48 CFR 2.101) in paragraph (a) introductory text; and an 8(a) contract, an SDVO SBC contract, a HUBZone contract, a WOSB or EDWOSB contract pursuant to part 127 of this chapter, a small business concern must agree that: (1) In the case of a contract for services (except construction), it will not pay more than 50% of the amount paid by the government to it to firms that are not similarly situated. Any work that a similarly situated subcontractor further subcontracts will count towards the 50% subcontract amount that cannot be exceeded. Before any small or large business can be awarded a federal contract, a contracting officer (CO) must affirmatively determine that the firm is responsible to perform the specific contract it is otherwise in line to receive. If an apparent small business successful offeror is denied a contract award because it lacks certain elements of responsibility, the CO will refer the matter to the Small Business Administration. Once a CO s referral is received by the SBA s area office, the SBA will then inform the small business of the CO s determination and offer it the opportunity to apply to the SBA for a Certificate of Competency by a specific date. Burden of proof is on the small business to demonstrate that it meets specific COC eligibility criteria. After award, if a CO or other VA officials determine a review of limitations on subcontracting compliance is warranted based upon reasonable information of possible noncompliance, a request for review will be submitted to VA s Subcontracting Compliance Review Program. Submission Instructions: Interested parties who consider themselves qualified to perform the above-listed services are invited to submit a response to this Sources Sought Notice by 10:00 AM Central Time Wednesday April 29, 2026. All responses under this Sources Sought Notice must be emailed to debbie.bruening@va.gov. Telephone inquiries will not be accepted or acknowledged, and no feedback or evaluations will be provided to companies regarding their submissions.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Debbie Bruening
+  - Title: Contracting Specialist
+  - Email: debbie.bruening@va.gov
+  - Phone: 414-844-4802
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ef292c3adbba4dceb350e4000b025e71/view)

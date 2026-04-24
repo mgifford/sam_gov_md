@@ -1,0 +1,31 @@
+---
+layout: default
+title: Request for Whitepapers: AEDC Velocity Alliance - A Multi-Billion Dollar OTA Consortium Opportunity
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 66595cc1ed9f46e180029068fb7ece91
+---
+
+# Request for Whitepapers: AEDC Velocity Alliance - A Multi-Billion Dollar OTA Consortium Opportunity
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-04-23 07:57:53.917-04
+- Solicitation Number: FA9101-26-9-Velocity_Alliance
+
+## Summary
+
+1. Strategic Purpose: The Department of the Air Force, through the Air Force Test Center (AFTC) and Arnold Engineering Development Complex (AEDC), announces the establishment of the AEDC Velocity Alliance. This strategic consortium-based initiative is established under the authority of 10 U.S.C. § 4022 to accelerate the modernization of national test infrastructure in direct support of next-generation defense systems and key National Defense Strategy objectives. The objective is to establish a pre-qualified industrial base to execute a multi-billion dollar portfolio of complex engineering and construction projects. Upon establishment, all projects under this initiative will be competed exclusively among Alliance members. 2. Key Dates for Industry: The Government intends to onboard members in multiple phases. Onboarding Opportunity 1: Questions Due: 1 May 2026, Close of Business (COB) Whitepapers Due: 1 June 2026, COB Mandatory Site Visit Window: 1 June 2026 – 30 June 2026 (Exact date will be communicated to vendors with successful submissions) Anticipated Consortium Live Date: 1 July 2026 Onboarding Opportunity 2: Whitepapers Due: 1 September 2026, COB Mandatory Site Visit Window: 1 September 2026 – 30 September 2026 This Request for Whitepaper notice will remain active until: 30 September 2032. 3. Action Required: We invite all interested and qualified vendors to carefully review the attached documents in their entirety to ensure all mandatory onboarding criteria are satisfied within their whitepaper submission. 4. Classification Codes: Primary NAICS Code: 541330 - Engineering Services: This NAICS Code will be utilized to determine size standard for consortium onboarding. Primary NAICS code at the project level may differ from 541330 and will be established in each Project Oppurtunity Announcement. Primary PSC Code: AC13 - National Defense R&D Services; Department of Defense - Military; Experimental Development (Note: While these are the primary codes, any NAICS/PSC code that fits within the scope of the Program Objectives is acceptable.) Amendments: 30 Mar 26: Posted Question and Answers received to date in document - AEDC Velocity Alliance Consortium_Q_A-3.30.26.pdf 31 Mar 26: Posted Question and Answers received to date in document - AEDC Velocity Alliance Consortium_Q_A-3.31.26.pdf 31 Mar 26: Posted Question and Answers received to date in document - AEDC Velocity Alliance Consortium_Q_A-3.31.26-2.pdf 14 Apr 26: Posted Question and Answers received to date in document - AEDC Velocity Alliance Consortium_Q_A-4.15.26.pdf Section 4: Classification Codes was modified to clarify the following: Primary NAICS Code: 541330 - Engineering Services: This NAICS Code will be utilized to determine size standard for consortium onboarding. Primary NAICS code at the project level may differ from 541330 and will be established in each Project Oppurtunity Announcement. 17 Apr 26: Posted Question and Answers received to date in document - AEDC Velocity Alliance Consortium_Q_A-4.17.26.pdf 21 Apr 26: Posted the following Amended Documents - AEDC Velocity Alliance - Request for Whitepaper-Amend 1 - 21 Apr 26.pdf Atch 1 - AEDC Velocity Alliance Program Objectives - 21 Apr 26.pdf Atch 2 - AEDC Velocity Alliance Base Articles - 21 Apr 26.pdf AEDC Velocity Alliance Consortium_Q_A-4.21.26.pdf (Answer to Q.9 Amended) 23 Apr 26: Posted Question and Answers received to date in document - AEDC Velocity Alliance Consortium_Q_A-4.23.26.pdf
+
+## Contacts
+
+- Primary Contact:
+  - Name: Greggory Jones
+  - Email: greggory.jones.4@us.af.mil
+- Secondary Contact:
+  - Name: Brooke Vandeman
+  - Email: brooke.vandeman@us.af.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/66595cc1ed9f46e180029068fb7ece91/view)

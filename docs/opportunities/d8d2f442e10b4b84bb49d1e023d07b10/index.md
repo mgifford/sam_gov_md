@@ -1,0 +1,28 @@
+---
+layout: default
+title: 14--CONNECTOR,DUMMY,INS
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: d8d2f442e10b4b84bb49d1e023d07b10
+---
+
+# 14--CONNECTOR,DUMMY,INS
+
+- Agency: DEPT OF DEFENSE
+- Type: Presolicitation
+- Posted: 2026-04-23 12:39:34.882-04
+- Solicitation Number: N0010426QAB21
+
+## Summary
+
+NSN 6X-1440-LWW011523, TDP VER 010, QTY 100 EA, DELIVER TO N63402, STRATEGIC WEAPONS FAC PAC MANPOWER, SILVERDALE, WA 98315-6499, DELIVER TO N68733, RECEIVING OFFICER TRIDENT REFIT FAC, KINGS BAY, GA 31547-2634
+
+## Contacts
+
+- Primary Contact:
+  - Name: AMANDA R. HAYWARD, N97113, PHONE (717)605-5834, FAX (717)605-4163, EMAIL AMANDA.R.HAYWARD.CIV@US.NAVY.MIL
+  - Email: AMANDA.R.HAYWARD.CIV@US.NAVY.MIL
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d8d2f442e10b4b84bb49d1e023d07b10/view)

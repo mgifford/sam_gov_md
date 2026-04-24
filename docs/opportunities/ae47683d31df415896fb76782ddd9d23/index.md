@@ -1,0 +1,29 @@
+---
+layout: default
+title: AMMENDMENT 001 | Y1DZ | 36C25626R0044 | 564-26-103 | REPLACE CAMPUS STEAM AND CONDENSATE LINES | DESIGN-BUILD | FAYETTEVILLE, ARK.
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Solicitation
+notice_id: ae47683d31df415896fb76782ddd9d23
+---
+
+# AMMENDMENT 001 | Y1DZ | 36C25626R0044 | 564-26-103 | REPLACE CAMPUS STEAM AND CONDENSATE LINES | DESIGN-BUILD | FAYETTEVILLE, ARK.
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Solicitation
+- Posted: 2026-04-23 10:40:54.567-04
+- Solicitation Number: 36C25626R0044_AMENDMENT_0001
+
+## Summary
+
+AMMENDMENT 0001 INCLUDES - Response to RFI's with Clarifications See Attachments -36C25626R0044 0001 (RFI'S AND AMMENDMENT 0001) -36C25626R0044 FOR REFERENCE GEOTECH REPORT -36C25626R0044 ASBESTOS AHERA INSPECTION
+
+## Contacts
+
+- Primary Contact:
+  - Name: Madeline Allison
+  - Email: madeline.allison@va.gov
+  - Phone: 7133502906
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ae47683d31df415896fb76782ddd9d23/view)

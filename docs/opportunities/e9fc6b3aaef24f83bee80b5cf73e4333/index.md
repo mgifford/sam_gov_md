@@ -1,0 +1,37 @@
+---
+layout: default
+title: Combination Chemistry and Immunoassay Analyzer with Reagents
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: e9fc6b3aaef24f83bee80b5cf73e4333
+---
+
+# Combination Chemistry and Immunoassay Analyzer with Reagents
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-04-23 17:35:55.365-04
+- Solicitation Number: PANHCA260000027894
+
+## Summary
+
+This notice does not constitute a commitment by the Government. All information submitted in response to this announcement is voluntary, and the Government will not pay for information requested nor will it compensate any respondent for any cost incurred in developing information provided to the Government. The Government anticipates a 12 month base period with four (4) 12- month option year contract. As part of its market research, the Medical Readiness Contracting Office -West (MRCO-W) is issuing this Sources Sought notice to identify and determine if there are potential sources which have the capabilities to the lease of one (1) Chemistry and Immunoassay Analyzer and the reagents/consumables needed to perform the following general chemistry tests: A1C, Alb, ALP, ALT, AST, Bicarb, BUN, Ca, HDL, Iron, K, LDL, Microalb, Na, Phos, and T Bil. Additionally needed to perform the following Immunoassay testing: Ferritin, Folate, FT4, Testo, TSH, Vitamin B12, Vitamin D, PSA, T3 Uptake, Cortisol, Estradiol, Free PSA, Free T3, FSH, LH, Progesterone, Prolactin, and Total T4. The chemistry and immunoassay analyzer shall be capable of operating in various modes inlcluding continuous, random STAT, and batch specimen. The system shall bi-directionally interface with the electronic health record and with the laboratory information system (LIS), as specified in attachment 1. The Government may use the responses to this Sources Sought for information and planning purposes. This notice does not constitute a Request for Quote (RFQ)/lnvitation for Bid {IFB)/Request for Proposal (RFP) or a promise to issue an RFQ, IFB or RFP in the future. This notice does not commit the U.S. Government to contract for any supply or service. Further, the U.S. Government is not seeking quotes, bids or proposals at this time and will not accept unsolicited proposals in response to this source sought notice. The U.S. Government will not pay for any information or administrative costs incurred in response to this notice. Submittals will not be returned to the responder. A determination not to compete this requirement, based upon responses to this notice, is solely within the discretion of the Government. However, if a competitive solicitation is released, it will be synopsized on the Government wide Point of Entry, if applicable. It is the responsibility of potential offerers to monitor the Government wide Point of Entry for additional information pertaining to this requirement. The NAICS code is 334516 - In Vitro Diagnostic Substance Manufacturing. Interested Vendors shall provide the following information: 1) Organization name, physical address, valid POC email address, Web site address, telephone number, SAM EUI number, business size under sources sought notice NAICS 334516 2) Tailored capability statements no longer than 3 pages, addressing the particulars of this effort as stated in Attachment 1- Product Description, with appropriate documentation supporting claims of organizational capability that can meet the government's technical requirement. 3) Show proof all required combination Chemistry and Immunoassay analyzer meet the required characteristics and features listed above and in the Product Description. 4) Submit the expected proposed Analyzer make and model along with identification of ATO approval number and expiration (if approved) or agree to go through the DHA RMF process to obtain the RMF ATO within acceptable timelines. Telephonic responses WILL NOT be accepted. Sources sought notice closing date: Thursday, 30 April 2026, no later than 12PM (Central Time) The Point of contact to email the above information before closing date is: MAJ Renee Combs at renee.n.combs.mil@health.mil and cc Ms. Rashonda Jones at rashonda.n.jones.civ@health.mil. When responding to this notice, please include in the email subject line the following format: tailor to your company name. "Company name, Sources sought response- Chemistry and Immunoassay analyzer_Reagents Attachment 1- PWS
+
+## Contacts
+
+- Primary Contact:
+  - Name: Renee Combs
+  - Email: renee.n.combs.mil@health.mil
+- Secondary Contact:
+  - Name: Rashonda Jones
+  - Email: rashonda.n.jones.civ@health.mil
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: . The Government may use the responses to this Sources Sought for information and planning purposes. This notice does not constitute a Request for Quote (RFQ)/lnvitation for Bid {IFB)/Request for Proposal (RFP) or a promise to issue an RFQ, IFB or RFP in the future. This notice does not commit the U.S. Government to contract for any supply or service. Further, the U.S. Government is not seeking quotes, bids or proposals at this time and will not accept unsolicited proposals in response to this source sought notice. The U.S. Government will not pay for any information or administrative costs incurred in response to this notice. Submittals will not be returned to the responder. A determination not to compete this requirement, based upon responses to this notice, is solely within the discretion of the Government. However, if a competitive solicitation is released, it will be synopsized on the Government wide Point of Entry, if applicable. It is the responsibility of potential offerers to monitor the Government wide Point of Entry for additional information pertaining to this requirement. The NAICS code is 334516 - In Vitro Diagnostic Substance Manufacturing. Interested Vendors shall provide the following information: 1) Organization name, physical address, valid POC email address, Web site address, telephone number, SAM EUI number, business size under sources sought notice NAICS 334516 2) Tailored capability statements no longer than 3 pages, addressing the particulars of this effort as stated in Attachment 1- Product Description, with appropriate documentation supporting claims of organizational capability that can meet the government"s technical requirement. 3) Show proof all required combination Chemistry and Immunoassay analyzer meet the required characteristics and features listed above and in the Product Description. 4) Submit the expected proposed Analyzer make and model along with identification of ATO approval number and expiration (if approved) or agree to go through the DHA RMF process to obtain the RMF ATO within acceptable timelines. Telephonic responses WILL NOT be accepted. Sources sought notice closing date: Thursday, 30 April 2026, no later than 12PM (Central Time) The Point of contact to email the above information before closing date is: MAJ Renee Combs at renee.n.combs.mil@health.mil and cc Ms. Rashonda Jones at rashonda.n.jones.civ@health.mil. When responding to this notice, please include in the email subject line the following format: tailor to your company name. "Company name, Sources sought response- Chemistry and Immunoassay analyzer_Reagents Attachment 1- PWS
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e9fc6b3aaef24f83bee80b5cf73e4333/view)
