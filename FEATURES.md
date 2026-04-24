@@ -1,107 +1,228 @@
-# New Features: Prompt Logging & Dashboard Anchors
+# SAM.gov Opportunities Explorer — Features
 
-## 1. Ollama Prompt Logging
+This document is the canonical inventory of **implemented features** in this project.
+It is organized by functional area. For setup and usage, see [README.md](README.md).
+For testing and contribution guidelines, see [AGENTS.md](AGENTS.md).
+For the definition of done and testable acceptance criteria, see [DEFINITION_OF_DONE.md](DEFINITION_OF_DONE.md).
 
-All prompts sent to Ollama (or GitHub Models) are now automatically logged to track usage over time.
+---
 
-### Usage
+## 1. Data Ingestion
 
-**View prompt log analysis:**
-```bash
-python scripts/analyze_ollama_log.py
-```
+### Daily CSV feed processing (`scripts/process_today.py`)
+- Downloads the live SAM.gov `ContractOpportunitiesFullCSV.csv` feed.
+- Filters records to a target date; falls back to the most recent available date (`--fallback-latest`).
+- Scores each record against 50+ ICT/digital terms defined in `config/terms.yml`.
+- Classifies records as opportunities or awards (`is_win`).
+- Writes structured JSON artifacts under `data/today/`:
+  - `summary.json` — counts, top agencies, notice-type breakdown
+  - `opportunities.json` — full filtered record list
+  - `wins.json` — awarded contracts only
+  - `relationships.json` — agency ↔ notice-type ↔ NAICS graph edges
+  - `high_value_matches.json` — records above scoring threshold
+  - `high_value_alert.md` — human-readable alert report
+  - `persistence_summary.json` — dedup statistics
+- Exports `docs/data/today_summary.json`, `today_relationships.json`, and `today_departments.json` for the GitHub Pages dashboard.
 
-This will show:
-- Total prompts logged
-- Prompts grouped by task type (generate, chat, github-chat)
-- Prompts grouped by model
-- Estimated token usage
-- Prompts by date
-- Latest 5 prompts as samples
+### Legacy FBO XML extraction (`scripts/explore_extracts.py`)
+- Discovers and downloads historical SAM.gov extract files via Playwright + API fallback.
+- Parses legacy FBO XML records into structured JSON.
+- Exports each record as Markdown for full-text search.
+- Produces `data/samples_report.json` discovery summary.
 
-**Log file location:** `data/ollama_prompts.log` (automatically created)
+### Manual CSV download (`scripts/download_csv.py`)
+- Standalone utility to download the full opportunities CSV without running the full pipeline.
 
-**Log format:** Each line is JSON with:
-- `timestamp`: ISO format timestamp when prompt was sent
-- `task`: Type of operation (generate, chat, github-chat)
-- `model`: Model used
-- `prompt_length`: Number of characters in the prompt
-- `prompt_preview`: First 200 characters of the prompt for reference
+---
 
-**Note:** The log file is ignored by git (in `.gitignore`) so it won't be committed, making it safe to track locally.
+## 2. Deduplication & Persistence
 
-### Example Log Analysis Output
+### SQLite store (`scripts/persist_to_sqlite.py`)
+- Reads `data/today/opportunities.json` and upserts records to `data/opportunities.sqlite`.
+- Tracks per-record: `first_seen_date`, `last_seen_date`, `seen_count`, and per-day sightings.
+- Key: `NoticeId` (SAM.gov canonical notice identifier).
+- Idempotent — safe to run multiple times on the same data.
 
-```
-📊 Ollama Prompt Log Analysis
-==================================================
-Total prompts logged: 245
-Date range: 2026-02-28 to 2026-03-05
+---
 
-Prompts by task:
-  - generate: 180
-  - chat: 65
+## 3. Term Scanning & Matching
 
-Prompts by model:
-  - gpt-oss:20b: 245
+### Term scanner (`scripts/scan_terms.py`)
+- Reads Markdown exports from `data/samples_md/` (or a configurable directory).
+- Applies regex patterns from `config/terms.yml` across seven categories:
+  - **Technology**: software, web, API, cloud, CMS, Drupal, SharePoint
+  - **Accessibility**: Section 508, WCAG, VPAT, OpenACR, ACR
+  - **eLearning**: LMS, courseware, instructional design
+  - **UX/Design**: user experience, design systems, information architecture
+  - **Data**: analytics, dashboards, ETL, data migration
+  - **Compliance**: FedRAMP, FISMA, ATO, NIST
+  - **Modernization**: digital services, legacy systems, open source
+- Writes `data/term_scan_report.json` with per-term frequencies and matched records.
 
-Estimated token usage:
-  - Total characters: 1,234,567
-  - Estimated tokens: 308,641
+### Match annotation (`scripts/add_matches_to_records.py`)
+- Adds term-match lists back into individual opportunity records.
 
-Prompts by date:
-  - 2026-02-28: 42 prompts
-  - 2026-03-01: 38 prompts
-  - 2026-03-02: 51 prompts
-  - ...
-```
+### Top-matches report (`scripts/analyze_matches.py`)
+- Reads `data/term_scan_report.json` and generates `data/top_matches_report.md`.
+- Ranks records by total match count and lists URLs and context snippets.
 
-## 2. Dashboard Anchor Links
+---
 
-The main SAM.gov dashboard now has clickable anchor links for easier sharing and navigation.
+## 4. High-Value Alert Generation
 
-### Features
+### Alert generator (`scripts/generate_alerts.py`)
+- Selects high-value records from `data/today/opportunities.json`.
+- A record is high-value if it has at least one focus-term match **or** a digital NAICS/PSC code.
+- Focus terms include: `accessibility`, `wcag`, `vpat`, `openacr`, `acr`, `web`, `api`, `section 508`, and others.
+- Minimum hit threshold configurable via `--min-hits` (default: 8).
+- Writes `data/today/high_value_matches.json`, `high_value_alert.md`, and `alerts_summary.json`.
 
-- **Table of Contents:** Links to all major sections
-- **Shareable URLs:** Each section can be linked directly
-  - `http://localhost:8000/#notice-breakdown`
-  - `http://localhost:8000/#department-breakdown`
-  - `http://localhost:8000/#awarded-companies`
-  - `http://localhost:8000/#popular-terms`
-  - `http://localhost:8000/#top-matches`
-  - `http://localhost:8000/#relationships`
+---
 
-- **Automatic headings:** Opportunity pages (markdown) automatically get anchors from Jekyll
+## 5. Departmental Investigation
 
-### Usage
+### Department breakdown (dashboard)
+- `docs/data/today_departments.json` is generated by `process_today.py` and contains per-department opportunity and award counts for the current day.
+- The main dashboard (`docs/index.html`) renders a department-by-department panel with links to each agency's opportunities.
 
-1. Open the dashboard at `http://localhost:8000` (or your deployment URL)
-2. Click any link in the "Table of Contents" section at the top
-3. Share specific sections by copying the URL from the address bar
+### Departmental trends over time (`scripts/export_trends.py` + `docs/trends.html`)
+- Queries `data/opportunities.sqlite` for agency activity across all ingested dates.
+- Exports `docs/data/trends.json` with daily counts per agency.
+- The trends page visualizes department activity with sparkline charts, historical bars, and a top-agencies comparison table.
+- Accessible at `docs/trends.html` (or `/trends.html` on the deployed site).
 
-Examples:
-- Link to Department Breakdown: `https://example.com/#department-breakdown`
-- Link to Top Matches: `https://example.com/#top-matches`
+### Departmental forecasting (`scripts/department_forecasting.py`)
+- Reads `data/today/opportunities.json` and `today_departments.json`.
+- Aggregates per-department: opportunity count, award count, total award value, and average response time.
+- Produces `docs/data/department_forecast.json` for dashboard consumption.
+- Identifies departments with the highest volume and win rates for prioritization.
 
-## Implementation Details
+### Contract officer intelligence (`scripts/extract_contract_officers.py`)
+- Parses `PrimaryContactFullname`, `PrimaryContactEmail`, and secondary contact fields from records.
+- Builds a per-officer profile: departments served, opportunity count, award count, and total award value.
+- Produces `docs/data/contract_officers.json` to support relationship-building with procurement leads.
 
-### Prompt Logging
+### USASpending market intelligence (`scripts/enrich_usaspending.py`)
+- For each unique (NAICS code, agency) pair in the high-value matches, queries the [USASpending API](https://api.usaspending.gov) (no API key required).
+- Returns: 3-year contract counts at the agency level, top incumbent vendors (government-wide and agency-scoped).
+- Rewrites `data/today/high_value_alert.md` with a **Market Intelligence** section per match.
+- Also writes `data/today/usaspending_enrichment.json`.
 
-Modified files:
-- `scripts/ollama_analyzer.py`: Added `log_prompt()` function and logging calls in:
-  - `OllamaClient.generate()`
-  - `OllamaClient.chat()`
-  - `GitHubModelsClient.chat()`
+---
 
-### Dashboard Anchors
+## 6. GitHub Pages Dashboard
 
-Modified files:
-- `docs/index.html`: 
-  - Added table of contents section
-  - Added `id` attributes to all major section headings
-  - Links follow format: `#section-name` (kebab-case)
+Served from the `docs/` directory; deployed via GitHub Pages.
 
-### Gitignore
+### Main dashboard (`docs/index.html`)
+- Summary cards: total opportunities, awards, agencies, and matching records for the current day.
+- Notice-type breakdown (Presolicitation, Sources Sought, Award, etc.).
+- Department breakdown panel — counts per agency with section anchor links.
+- Top-matching records panel with title, agency, and score.
+- Agency/type/NAICS relationship graph.
+- Table of contents with shareable anchor links to all panels.
 
-Modified:
-- `.gitignore`: Added `data/ollama_prompts.log` to prevent committing logs
+### Trends page (`docs/trends.html`)
+- Department posting volume over time.
+- Sparkline charts per agency.
+- Historical bar chart comparing top agencies.
+- Filterable agency list.
+
+### Time-to-Award analytics (`docs/time_to_award.html`)
+- Distribution of days between solicitation posting and award.
+- Breakdown by agency and NAICS code.
+- Generated from `scripts/time_to_award.py`.
+
+### Search page (`docs/search.html`)
+- Client-side full-text search across all exported opportunities.
+- Filters by agency, notice type, and date range.
+- Search index built by `scripts/export_all_opportunities.py` and `scripts/update_search_with_filters.py`.
+
+### Individual opportunity pages (`docs/opportunities/`)
+- One Markdown/HTML page per high-value opportunity, rendered by Jekyll.
+- Includes: title, agency, NAICS, response deadline, description, term-match list, PDF attachment links.
+- Generated by `scripts/regenerate_markdown_with_attachments.py`.
+
+---
+
+## 7. PDF Attachment Processing
+
+### PDF link analysis (`scripts/analyze_pdf_links.py`)
+- Discovers attachment URLs embedded in opportunity records.
+- Reports which opportunities have downloadable PDFs or ZIP files.
+
+### PDF extraction (weekly workflow)
+- The `weekly-pdf-extraction.yml` GitHub Actions workflow runs `scrape_opportunities.py` against top matches to download and convert attachments.
+- Converted content is added to individual opportunity Markdown pages.
+
+---
+
+## 8. Optional AI Analysis (Ollama / GitHub Models)
+
+### LLM opportunity analyzer (`scripts/ollama_analyzer.py`)
+- Connects to a local Ollama server (default model: `gpt-oss:20b`) or GitHub Models (`gpt-4o-mini`).
+- Four analysis tasks:
+  - **summarize** — 2–3 sentence summary of an opportunity.
+  - **extract_tech** — list all technology keywords mentioned.
+  - **classify** — categorize by domain (ICT, Web, Data, etc.).
+  - **assess_relevance** — score relevance 0–10 for a digital-services company.
+- Activated by `--with-ollama` flag on `process_today.py`, or run standalone.
+- **Not enabled in the default daily automation.**
+
+### Prompt logging & analysis (`scripts/analyze_ollama_log.py`)
+- All LLM prompts are logged to `data/ollama_prompts.log` (git-ignored).
+- `analyze_ollama_log.py` reports: total prompts, prompts by task/model/date, estimated token usage.
+
+### Interactive spec assistant (`scripts/spec_kitty.py`)
+- Conversational assistant for clarifying ambiguous requirements.
+- Presents 2–3 options with pros/cons for pipeline design decisions.
+- Supports single-shot (`--prompt`) and interactive modes; conversation history is saveable.
+
+---
+
+## 9. Automation (GitHub Actions)
+
+### Daily ingest (`ingest.yml`)
+- Runs every day (America/New_York timezone).
+- Steps: process today's CSV → persist to SQLite → generate alerts → enrich with USASpending → export trends → extract contract officers → run departmental forecasting → update search index → open a GitHub Issue when high-value matches exist → commit and push changed artifacts.
+
+### Weekly PDF extraction (`weekly-pdf-extraction.yml`)
+- Downloads the latest full CSV.
+- Refreshes opportunities, persistence, alerts, and trends.
+- Exports all opportunities for the search index.
+- Extracts PDFs from top opportunities.
+
+### Jekyll build (`build-jekyll.yml`)
+- Builds the `docs/` GitHub Pages site with Jekyll.
+
+### Accessibility scan (`a11y-scan.yml`)
+- Runs the `github/accessibility-scanner` action against the deployed GitHub Pages site.
+- Files issues for detected WCAG violations; optionally assigns them to GitHub Copilot for automated remediation.
+
+---
+
+## 10. Accessibility
+
+- All `docs/` pages target **WCAG 2.2 Level AA** (see [ACCESSIBILITY.md](ACCESSIBILITY.md)).
+- Semantic HTML, visible labels, keyboard-accessible controls throughout.
+- SVG charts include `<title>` and `aria-labelledby`.
+- Automated axe-core regression tests in `tests/test_docs_accessibility.py`.
+- CI accessibility scan via `a11y-scan.yml`.
+
+---
+
+## 11. Validation & Markdown Quality
+
+### Markdown file validator (`scripts/validate_markdown_files.py`)
+- Checks all generated Markdown files for required front-matter fields, broken links, and empty descriptions.
+- Run before committing opportunity pages.
+
+---
+
+## Configuration
+
+| File | Purpose |
+|------|---------|
+| `config/terms.yml` | Term definitions (name, patterns, category) for all scanning |
+
+Term matching is case-insensitive, word-boundary-anchored, and hyphen-aware by default.
