@@ -1,0 +1,32 @@
+---
+layout: default
+title: Hawaii Hazardous Waste Disposal
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 02b3d77584e5411296be2bb869e3f8ae
+---
+
+# Hawaii Hazardous Waste Disposal
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-04-24 13:35:21.103-04
+- Solicitation Number: SP450026RXXXX
+
+## Summary
+
+THE INTENT OF THIS SOURCES SOUGHT IS TO IDENTIFY QUALIFIED SMALL BUSINESSES, specifically 8(a), HUBZone, woman-owned, and service-disabled veteran-owned small businesses, for the requirement described below. The intent of this Sources Sought is to identify capable small business that can perform with limitations on subcontracting. The scope of work will consist primarily of the removal, transportation, and disposal of Resource Conservation and Recovery Act (RCRA) hazardous wastes, non-RCRA wastes, State-Regulated wastes, Non-State Regulated wastes, Universal Wastes, Compressed Gases, Polychlorinated Biphenyls (PCBs), and Per- and Polyfluoroalkyl Substances (PFAS) located on or around military installations within the state of Hawaii, to include the outer islands. Additional pick-up locations within Hawaii may be added during the life of this contract at no additional cost to the government. FAR 52.52.219-14 Limitations on Subcontracting (FEB 2023) CLASS DEVIATION 2021-O0008 states the Offeror/Contractor agrees to not pay more than 50% of the amount paid by the Government for contract performance to subcontractors that are not similarly situated entities. Contractors may be subject to a minimum $500,000 fine if awarded a contract with this clause and don’t meet the requirement. We have identified the majority of RCRA TSDFs (Treatment, Storage, Disposal Facilities) in the industry as large businesses. All TSDFs used during the performance of this contract must be approved and listed on the Qualified Facilities List located at the following website: https://www.dla.mil/DispositionServices/Offers/Disposal/HazardousWaste/HazWasteDisposal/. Given there is a lack of small business ownership of TSDFs and that disposal costs make up a large portion of the contract dollar value, there is a reasonable probability that a small business would pay more than 50% of the cost of the contract to large businesses. *The Government intends to solicit proposals on SAM.gov and award a Firm-Fixed Priced, Indefinite Delivery Indefinite Quantity Services Contract. The contract is anticipated to have one 30-month base period, followed by one 30-month option period. There is no solicitation available at this time. However, attached is a DRAFT Price Schedule and DRAFT PWS that firms responding to this Sources Sought should use to help determine if they would be able to meet the Limitations on Subcontracting requirements. IF YOUR FIRM IS CAPABLE OF PERFORMING THE REQUESTED SERVICES, WITHOUT THE LIMITATIONS ON SUBCONTRACTING, THE CAPABILITIES PACKAGE DETAILED BELOW IS NOT REQUIRED. In accordance with FAR 6.101(a), with certain limited exceptions, contracting officers shall promote and provide for full and open competition in soliciting offers and awarding Government contracts. If your firm would like to respond to this Sources Sought, but is unable to meet the limitations on subcontracting, please email Aldona.mcmullen@DLA.mil with “SOURCES SOUGHT HAZ WASTE Hawaii” in the subject line, stating your firms’ Notification of Interest (a capabilities package is not required). SUBMISSION REQUIREMENTS: Interested firms must demonstrate their ability to perform the requested services, described above, by submitting a brief capabilities package (no more than three pages in length, single-spaced, 12-point font minimum). This documentation shall identify, at a minimum: (1) Company name, office location(s), CAGE Code, and a statement identifying small business category and current status of the small business classification. (2) Relevant experience within the last five years, including any contract number(s), names of individuals responsible for the referenced contracts/projects, and current telephone numbers for those individuals; if you were a subcontractor, identify the work you actually performed as the sub-contractor; and (3) A statement identifying your firm’s ability to perform in accordance with FAR 52.219-14 Limitations on Subcontracting (CLASS DEVIATION 2021-O0008), as well as an explanation of how you would be able to comply with this requirement if you are a small business of any type considering the disposal requirements within the draft price schedule that is anticipated to be included in the contract; (note: large business respondents do not need to address this). (4) A listing of TSDFs your firm would use during the performance of this contract, identifying each TSDF as similarly situated or not as your firm. The submittal package must be emailed to Aldona.mcmullen@DLA.mil with “SOURCES SOUGHT HAZ WASTE Hawaii” in the subject line. The submittal package must be received no later than 3:00 PM EST, 08 May 2026. LATE RESPONSES WILL NOT BE ACCEPTED. Upon review of industry response to this Sources Sought, the Government will determine whether a set-aside acquisition is in the Government's best interest. If an unrestricted solicitation is issued, then the Class Deviation 2021-O0008 Limitations on Subcontracting would not apply. All responsible firms, including small businesses, are eligible to submit a proposal in response to an unrestricted solicitation. A response to this Sources Sought will not be considered an adequate response to any forthcoming solicitation announcement. The Government WILL NOT provide a debriefing on the results of the survey. No reimbursement will be made for any costs associated with providing information in response to this Sources Sought notice or any follow-up information requests. All information submitted will be held in a confidential manner and will only be used for the purpose intended.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Aldona McMullen
+  - Email: aldona.mcmullen@dla.mil
+- Secondary Contact:
+  - Name: Denna Crandall
+  - Email: Denna.Crandall@dla.mil
+  - Phone: 2699615540
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/02b3d77584e5411296be2bb869e3f8ae/view)
