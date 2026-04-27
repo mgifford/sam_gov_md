@@ -1,8 +1,8 @@
 {
-  "requested_date": "2026-04-26",
-  "effective_date": "2026-04-25",
-  "records_total": 27,
-  "high_value_count": 0,
+  "requested_date": "2026-04-27",
+  "effective_date": "2026-04-26",
+  "records_total": 257,
+  "high_value_count": 1,
   "min_hits": 8,
   "focus_terms": [
     "accessibility",
@@ -23,5 +23,25 @@
     "wcag",
     "web"
   ],
-  "matches": []
+  "matches": [
+    {
+      "NoticeId": "678683347c9b472ab6c822c6307bf630",
+      "Sol#": "SPE7L126T440W",
+      "Title": "25--COVER,VEHICULAR COM",
+      "Type": "Combined Synopsis/Solicitation",
+      "PostedDate": "2026-04-26 09:33:40.774-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "334419",
+      "ClassificationCode": "25",
+      "Link": "https://sam.gov/workspace/contract/opp/678683347c9b472ab6c822c6307bf630/view",
+      "matches": [
+        {
+          "term": "ui",
+          "category": "design",
+          "count": 20
+        }
+      ],
+      "total_hits": 20
+    }
+  ]
 }
