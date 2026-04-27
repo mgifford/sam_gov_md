@@ -1,21 +1,51 @@
 {
-  "forecast_date": "2026-04-25",
+  "forecast_date": "2026-04-26",
   "departments_by_opportunity_volume": [
     {
-      "total_records": 21,
-      "open_opportunities": 21,
+      "total_records": 242,
+      "open_opportunities": 242,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
-      "opportunities_with_attachments": 6,
-      "opportunities_with_keyword_matches": 10,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 234,
       "top_awardees": [],
       "department": "DEPT OF DEFENSE"
     },
     {
-      "total_records": 3,
-      "open_opportunities": 3,
+      "total_records": 6,
+      "open_opportunities": 5,
+      "awarded": 1,
+      "win_rate_percent": 16.7,
+      "estimated_monthly_value": 9785,
+      "average_award_value": 9785,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 1,
+      "top_awardees": [
+        {
+          "name": "Veteran Elevator Inspection Services, LLC CLAYTON 27520 NCL",
+          "wins": 1,
+          "total_value": 9785
+        }
+      ],
+      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
+    },
+    {
+      "total_records": 2,
+      "open_opportunities": 2,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 2,
+      "top_awardees": [],
+      "department": "INTERNATIONAL BOUNDARY AND WATER COMMISSION: US-MEXICO"
+    },
+    {
+      "total_records": 2,
+      "open_opportunities": 2,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
@@ -23,7 +53,19 @@
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
+      "department": "INTERIOR, DEPARTMENT OF THE"
+    },
+    {
+      "total_records": 2,
+      "open_opportunities": 2,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 2,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "HOMELAND SECURITY, DEPARTMENT OF"
     },
     {
       "total_records": 1,
@@ -35,7 +77,7 @@
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "HOMELAND SECURITY, DEPARTMENT OF"
+      "department": "AGRICULTURE, DEPARTMENT OF"
     },
     {
       "total_records": 1,
@@ -57,27 +99,57 @@
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
+      "opportunities_with_keyword_matches": 1,
       "top_awardees": [],
-      "department": "AGRICULTURE, DEPARTMENT OF"
+      "department": "TREASURY, DEPARTMENT OF THE"
     }
   ],
   "departments_by_award_value": [
     {
-      "total_records": 21,
-      "open_opportunities": 21,
+      "total_records": 6,
+      "open_opportunities": 5,
+      "awarded": 1,
+      "win_rate_percent": 16.7,
+      "estimated_monthly_value": 9785,
+      "average_award_value": 9785,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 1,
+      "top_awardees": [
+        {
+          "name": "Veteran Elevator Inspection Services, LLC CLAYTON 27520 NCL",
+          "wins": 1,
+          "total_value": 9785
+        }
+      ],
+      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
+    },
+    {
+      "total_records": 242,
+      "open_opportunities": 242,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
-      "opportunities_with_attachments": 6,
-      "opportunities_with_keyword_matches": 10,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 234,
       "top_awardees": [],
       "department": "DEPT OF DEFENSE"
     },
     {
-      "total_records": 3,
-      "open_opportunities": 3,
+      "total_records": 2,
+      "open_opportunities": 2,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 2,
+      "top_awardees": [],
+      "department": "INTERNATIONAL BOUNDARY AND WATER COMMISSION: US-MEXICO"
+    },
+    {
+      "total_records": 2,
+      "open_opportunities": 2,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
@@ -85,7 +157,19 @@
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
+      "department": "INTERIOR, DEPARTMENT OF THE"
+    },
+    {
+      "total_records": 2,
+      "open_opportunities": 2,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 2,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "HOMELAND SECURITY, DEPARTMENT OF"
     },
     {
       "total_records": 1,
@@ -97,7 +181,7 @@
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "HOMELAND SECURITY, DEPARTMENT OF"
+      "department": "AGRICULTURE, DEPARTMENT OF"
     },
     {
       "total_records": 1,
@@ -119,26 +203,54 @@
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
+      "opportunities_with_keyword_matches": 1,
       "top_awardees": [],
-      "department": "AGRICULTURE, DEPARTMENT OF"
+      "department": "TREASURY, DEPARTMENT OF THE"
     }
   ],
   "department_forecasts": {
     "DEPT OF DEFENSE": {
-      "total_records": 21,
-      "open_opportunities": 21,
+      "total_records": 242,
+      "open_opportunities": 242,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
-      "opportunities_with_attachments": 6,
-      "opportunities_with_keyword_matches": 10,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 234,
       "top_awardees": []
     },
     "VETERANS AFFAIRS, DEPARTMENT OF": {
-      "total_records": 3,
-      "open_opportunities": 3,
+      "total_records": 6,
+      "open_opportunities": 5,
+      "awarded": 1,
+      "win_rate_percent": 16.7,
+      "estimated_monthly_value": 9785,
+      "average_award_value": 9785,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 1,
+      "top_awardees": [
+        {
+          "name": "Veteran Elevator Inspection Services, LLC CLAYTON 27520 NCL",
+          "wins": 1,
+          "total_value": 9785
+        }
+      ]
+    },
+    "INTERNATIONAL BOUNDARY AND WATER COMMISSION: US-MEXICO": {
+      "total_records": 2,
+      "open_opportunities": 2,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 2,
+      "top_awardees": []
+    },
+    "INTERIOR, DEPARTMENT OF THE": {
+      "total_records": 2,
+      "open_opportunities": 2,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
@@ -148,6 +260,17 @@
       "top_awardees": []
     },
     "HOMELAND SECURITY, DEPARTMENT OF": {
+      "total_records": 2,
+      "open_opportunities": 2,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 2,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": []
+    },
+    "AGRICULTURE, DEPARTMENT OF": {
       "total_records": 1,
       "open_opportunities": 1,
       "awarded": 0,
@@ -169,7 +292,7 @@
       "opportunities_with_keyword_matches": 1,
       "top_awardees": []
     },
-    "AGRICULTURE, DEPARTMENT OF": {
+    "TREASURY, DEPARTMENT OF THE": {
       "total_records": 1,
       "open_opportunities": 1,
       "awarded": 0,
@@ -177,7 +300,7 @@
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
+      "opportunities_with_keyword_matches": 1,
       "top_awardees": []
     }
   }

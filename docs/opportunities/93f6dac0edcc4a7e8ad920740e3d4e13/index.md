@@ -24,6 +24,10 @@ This is a combined synopsis/solicitation for commercial items prepared in accord
   - Email: erin.riffey@usda.gov
   - Phone: 19706312294
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/93f6dac0edcc4a7e8ad920740e3d4e13/view)

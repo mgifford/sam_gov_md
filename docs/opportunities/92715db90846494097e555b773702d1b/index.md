@@ -24,6 +24,10 @@ The National Park Service (NPS) Structural Fire Program Office, 3833 S. Developm
   - Email: stephen_loftus@ios.doi.gov
   - Phone: 202-354-2267
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/92715db90846494097e555b773702d1b/view)

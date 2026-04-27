@@ -28,6 +28,10 @@ This purchase requirement will be used to purchase parts to restore necessary sy
   - Email: miyoko.hokama.jp@us.af.mil
   - Phone: 3156343541
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e2f5dfd9c9bf40709cb02744bf9e1fb7/view)

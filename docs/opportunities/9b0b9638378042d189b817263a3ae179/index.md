@@ -24,6 +24,10 @@ The Marine Corps Logistics Command, Contracts Department (CONT) intends to solic
   - Email: jazelle.gomes@usmc.mil
   - Phone: 2296396742
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9b0b9638378042d189b817263a3ae179/view)

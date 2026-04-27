@@ -28,6 +28,10 @@ This amendment is to attach revised SOW for the project W90VN6-26-R-A016_SMYU 26
   - Email: chaeyong.yi5.ln@army.mil
   - Phone: (0503) 357-6018
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/86e02717995844d08762104e0a9de0a5/view)

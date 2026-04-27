@@ -26,6 +26,10 @@ TEST Description
   - Email: Stephen.Ieraci@va.gov
   - Phone: 848-377-5085
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4ed67f6ae8764d77a5decc364582bce0/view)

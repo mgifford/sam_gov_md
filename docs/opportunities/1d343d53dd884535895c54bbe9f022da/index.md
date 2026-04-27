@@ -28,6 +28,10 @@ Please find attached Solicitation Amendment 0001. ------------------------------
   - Email: janice.o.arrieta.ln@us.navy.mil
   - Phone: 0468162793
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1d343d53dd884535895c54bbe9f022da/view)

@@ -24,6 +24,10 @@ Non-Clinical Case Management - the Vermont Army National Guard (ARNG) requires M
   - Email: joel.m.greer.civ@army.mil
   - Phone: 8023383190
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/14a2e6b373894c41b952111edc6a0a7f/view)

@@ -26,6 +26,10 @@ This is a combined synopsis/solicitation for commercial items in accordance with
   - Name: Seone Michael Jones
   - Email: seone.jones@ibwc.gov
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/49a2920109084fcd8598521c6873abe7/view)

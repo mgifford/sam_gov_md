@@ -27,6 +27,10 @@ DRAFT SOLICITATION NOTICE – FOR INFORMATIONAL PURPOSES ONLY This notice is iss
   - Name: Patricia Brown
   - Email: patricia.e.brown@irs.gov
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/37850aca1eb4480f86616655f94601aa/view)

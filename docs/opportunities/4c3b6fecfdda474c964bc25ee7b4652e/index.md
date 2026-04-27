@@ -28,6 +28,10 @@ notice_id: 4c3b6fecfdda474c964bc25ee7b4652e
   - Email: naoko.ookawa.ln@us.navy.mil
   - Phone: 81467632341
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4c3b6fecfdda474c964bc25ee7b4652e/view)

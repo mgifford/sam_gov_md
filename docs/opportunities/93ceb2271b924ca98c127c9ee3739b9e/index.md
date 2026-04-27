@@ -23,6 +23,10 @@ NASA/ARC has a requirement for software development services in support of the N
   - Name: Joshua Taggart
   - Email: joshua.d.taggart@nasa.gov
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/93ceb2271b924ca98c127c9ee3739b9e/view)

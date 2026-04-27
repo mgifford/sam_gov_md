@@ -23,6 +23,10 @@ DLA Land and Maritime is preparing to solicit a long-term contract (LTC) for the
   - Name: Kimberly Pozderac
   - Email: kimberly.pozderac@dla.mil
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7b76d135837a4786901d50a37133df2a/view)

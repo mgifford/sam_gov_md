@@ -24,6 +24,10 @@ This is a combined synopsis/solicitation for a commercial item prepared in accor
   - Email: edward_dingle@nps.gov
   - Phone: 4045075747
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/66f6629694ac4e20aafe5354c591eacc/view)

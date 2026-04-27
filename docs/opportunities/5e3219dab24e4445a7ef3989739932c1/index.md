@@ -26,6 +26,10 @@ THIS REQUEST FOR INFORMATION (RFI) SOURCES SOUGHT IS ISSUED SOLELY FOR MARKET RE
   - Email: dyne.kim@va.gov
   - Phone: 562-826-8000
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5e3219dab24e4445a7ef3989739932c1/view)

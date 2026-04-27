@@ -25,6 +25,10 @@ Testing
   - Title: eCMS Consultant
   - Email: Stephen.Ieraci@va.gov
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/60825c3ab81f4101801e498fc884c650/view)

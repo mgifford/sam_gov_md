@@ -34,6 +34,10 @@ Pursuant to FAR 5.202(a)(12), this is a non-mandatory synopsis. This solicitatio
 
 - Attachment 1: as below. 3819P24302-A01 PERIOD OF PERFORMANCE: 21 JUL 2026 through 01 MAR 2027 PLACE OF PERFORMANCE: Commander, Fleet Activities Yokosuka (CFAY) Naval Base OFFER: Offerors must provide all information required by this solicitation no later than 01 MAY 2026 at 10:00AM Japan Standard Time (JST). References in the Work Items will be provided to offerors via DoD safe (a web_based tool that provides users the capability to securely send and receive large files, including files that are too large to be transmitted via email.) Please email request for references to: Kumi Matsumoto, kumi.matsumoto.ln@us.navy.mil Miwa Takahashi, miwa.takahashi2.ln@us.navy.mil
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1b73473ea58346ee91455f11f7fbaf26/view)

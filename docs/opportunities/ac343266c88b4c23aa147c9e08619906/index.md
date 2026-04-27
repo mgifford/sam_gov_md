@@ -24,6 +24,10 @@ notice_id: ac343266c88b4c23aa147c9e08619906
   - Email: Jonathan.lutmer@va.gov
   - Phone: 4104463862
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ac343266c88b4c23aa147c9e08619906/view)

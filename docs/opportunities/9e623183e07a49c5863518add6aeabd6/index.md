@@ -24,6 +24,10 @@ The sources sought closing date is 15 May, 2026, at 1200 PM Chamorro Standard Ti
   - Email: nicole.servin@us.af.mil
   - Phone: 6713661721
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9e623183e07a49c5863518add6aeabd6/view)

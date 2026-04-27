@@ -27,6 +27,10 @@ No summary provided.
   - Email: Makena.James@va.gov
   - Phone: (414) 844-4871
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/12927ab81d2c4072a5eeee7bb23eac17/view)
