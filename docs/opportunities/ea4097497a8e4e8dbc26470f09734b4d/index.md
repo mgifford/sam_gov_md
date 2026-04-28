@@ -1,0 +1,29 @@
+---
+layout: default
+title: Environmental Chamber for MTS-Criterion C45 System
+agency: COMMERCE, DEPARTMENT OF
+notice_type: Special Notice
+notice_id: ea4097497a8e4e8dbc26470f09734b4d
+---
+
+# Environmental Chamber for MTS-Criterion C45 System
+
+- Agency: COMMERCE, DEPARTMENT OF
+- Type: Special Notice
+- Posted: 2026-04-27 15:23:42.846-04
+- Solicitation Number: NIST-SSN-NOI-26-7301180
+
+## Summary
+
+COMBINED SOURCES SOUGHT NOTICE AND NOTICE OF INTENT TO SOLE SOURCE Announcement Type: Special Notice Announcement Number: NIST-SSN-NOI-26-7301180 Subject: Environmental Chamber for MTS-Criterion C45 System Applicable NAICS: 334513 - Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables with size standard of 750 employees Applicable PSC: 6636 – Environmental Chambers and Related Equipment Purpose This is a combined sources sought notice and notice of intent to sole source, not a request for a quotation. NIST is seeking information from sources that may be capable of providing a solution that will achieve the essential requirements included in the “Description” section below. If no alternate sources are identified, the Government intends to negotiate a firm-fixed price purchase order on a sole source basis with MTS Systems Corporation (UEI: PVMFSLG6GFF7) located at 14000 Technology Drive, Eden Prairie, MN 55344. This action will be conducted under the authority of FAR RFO Part 12.102(a) and 41 USC 1901, allowing the Contracting Officer (CO) to solicit from one source. Delivery will be required within 90 Days after contractor receipt of order. Description The Contractor shall provide one environmental chamber which meets the minimum requirements identified below. Designed for use with MTS C45 load frames (specifically mounting bracketry for C45 models). Temperature Range: -70 oC to +250 oC. Control/Interface: Must interface with the existing MTS Criterion C45 system. External Dimensions (Width x Depth x Height) 533 x 889 x 864 mm (21 x 35 x 34 in). Must accommodate specimen grips and extensometer. A water-cooling capacity to manage heat transfer during environmental simulation testing The Contractor shall install and calibrate the new environmental chamber on the existing MTS Criterion C45 system at the NIST Gaithersburg, MD site. Background The National Institute of Standards and Technology (NIST) Engineering Laboratory (EL) Materials and Structural Systems Division’s (MSSD) Infrastructure Materials Group (IMG) studies the mechanical properties of materials (polymer, concrete, engineered composites) used for building, infrastructure, and energy applications. IMG owns and operates an MTS-Criterion 45 tensile tester to generate essential research data. The current thermal environmental chamber is non-functional and beyond economical repair due to its age and the unavailability of legacy parts. A replacement is essential to restore the lab's capability to conduct mechanical testing under controlled thermal conditions. The environmental chamber must work with an MTS Criterion C45 load frame NIST also owns and operates. Based on market research conducted between January 2026 and April 2026, including speaking with colleagues, performing internet searches, and speaking with vendors to determine what sources could meet NIST’s minimum requirements, only MTS Systems Corporation appears to be capable of meeting the Government's requirements. The MTS Systems Corporation equipment NIST uses is proprietary to this contractor and MTS Systems Corporation does not authorize resellers of its equipment. How to Respond to this Notice Interested parties that believe they could satisfy the requirements listed above for NIST may clearly and unambiguously identify their capability to do so in writing by or before the response date for this notice. This is a combined sources sought notice and notice of intent to sole source is not a solicitation. Any questions regarding this notice must be submitted in writing via email to Ms. Lauren Roller, Contract Specialist, at Lauren.Roller@nist.gov. All responses to this notice of intent must be submitted via email to Lauren.Roller@nist.gov so that they are received no later than May 12, 2026 at 11:00 AM Eastern Time. Each response should include the following Business Information: Contractor Name, Address, Point of Contact Name, Phone Number, and Email address Contractor UEI Contractor Business Classification (i.e., small business, 8(a), woman owned, hubZone, veteran owned, etc.) as validated in System for Award Management (SAM). All offerors must have an active registration in www.SAM.gov. Capability Statement describing what your company is capable of providing to meet the Government’s needs Important Notes The information received in response to this notice will be reviewed and considered so that the NIST may appropriately solicit for its requirements in the near future. This notice should not be construed as a commitment by the NIST to issue a solicitation or ultimately award a contract. This notice is not a request for a quotation. Responses will not be considered as proposals or quotations. No award will be made as a result of this notice. NIST is not responsible for any costs incurred by the respondents to this notice. NIST reserves the right to use information provided by respondents for any purpose deemed necessary and appropriate. Thank you for taking the time to submit a response to this request!
+
+## Contacts
+
+- Primary Contact:
+  - Name: Lauren P. Roller
+  - Email: lauren.roller@nist.gov
+  - Phone: 3019753062
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ea4097497a8e4e8dbc26470f09734b4d/view)

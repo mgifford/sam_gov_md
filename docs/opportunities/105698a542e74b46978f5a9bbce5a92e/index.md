@@ -1,0 +1,28 @@
+---
+layout: default
+title: Cyber Maintenance Hangar Modernization
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 105698a542e74b46978f5a9bbce5a92e
+---
+
+# Cyber Maintenance Hangar Modernization
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-04-27 14:07:31.819-04
+- Solicitation Number: W912QR-MANS-HANGAR
+
+## Summary
+
+This is a Sources Sought Notice for market research purposes only. This is not a solicitation for proposals/bids, and no contract will be awarded from this notice. The U.S. Army Corps of Engineers (USACE), Louisville District, is conducting market research to identify qualified and interested businesses capable of performing the construction project described below. No reimbursement will be made for any costs associated with providing information or industry response to this notice or any follow-up information requests. Not responding to this notice does not preclude participation in any future procurement. If a solicitation is released, it will be synopsized in the System for Award Management (SAM). It is the responsibility of potential offerors to monitor SAM for additional information pertaining to this requirement. The acquisition strategy will be determined based on responses received from this notice and/or other market research methods. The planned acquisition strategy will be posted in SAM upon completion of market research analysis. The purpose of this notice is to gain knowledge of interest, capabilities and qualifications of industry, to include the Small Business Community: Small Business, Section 8(a), Historically Underutilized Business Zones (HUBZone), Service-Disabled Veteran-Owned Small Business (SDVOSB), or [Women-Owned Small Business (WOSB). All are highly encouraged to respond. Prior Government contract work is not required for submitting a response to this notice. However, respondents are reminded that all construction performance must follow the Engineer Manual (EM) 385-1-1, USACE Safety and Health Requirements Manual and any other requirements contained in the solicitation, and must also comply with all Federal, State and local laws, ordinances, codes and/or regulations. This announcement provides the detailed information necessary for your firm to prepare its response. Project Title: Cyber Maintenance Hangar Modernization Project Location: Mansfield, OH NAICS Code: 236220 PSC: Z2AZ Estimated Magnitude of Construction: Between $50,000,000-$75,000,000 Anticipated Solicitation Issuance Date: Q3 FY26 Estimated duration of the project: 1440 calendar days Anticipated Contract Type: Anticipated project will be a competitive, firm-fixed price contract. Anticipated Acquisition Method: Anticipated project will be acquired using FAR Part 15, Negotiated Procurement using “Best Value” trade-off process procedures. High-Level Project Summary: This is a 76,227 SF Design-Bid-Build project that will consist of a new construction of an endo skeleton structure to an existing hangar to house Cyber Warfare Operations. Provide cyber operations space within the existing bay, to include three floors. Construct all spaces up to appropriate security levels. Install communications room to accommodate servers and equipment. Provide all supporting electrical, mechanical, security, fire suppression, and communications supporting infrastructure. Provide emergency power systems and standby generator connection. Minimum Technical Requirements" and "Critical Features of Work: a. Projects considered similar in scope will include: 1) construction of a building within a building; 2) new construction of facilities that included installation of micro-pile foundations; 3) and new construction of facilities at least 3 stories tall, requiring progressive collapse construction, Office, Conference/Training Spaces and Secure Rooms. b. Projects considered similar in size will include: new construction of a minimum of 45,000 square feet. Cybersecurity Maturity Model Certification (CMMC) Requirement: This project will require Level 2 (C3PAO) Certification. Prospective subcontractors are encouraged to submit so the information can be used when developing the potential Small Business Participation Plan percentages if the eventual acquisition is conducted as an unrestricted, negotiated acquisition. If your firm is interested in subcontracting opportunities rather than performing as the Prime Contractor on this future procurement, please identify the feature(s) of work you are interested in and your small business socio-economic category in the Market Survey Form. All submissions must be made as follows, using the official online Market Survey Form. AUTHORIZED SUBMISSION METHOD: The only authorized method for responding to this Sources Sought Notice is via the online Market Survey Form. Submissions sent by email or other means will not be accepted. DEADLINE: All responses must be submitted through the form no later than 12 May 2026 by 2:00 PM ET. ONLINE FORM LINK: Please submit your firm's information using the following link: https://forms.osi.apps.mil/r/NF5c6ny6Q0 PREPARATION: It is highly recommended that you review all questions in this document and prepare your narrative responses and required documentation offline before beginning the online form.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Megan Murphy
+  - Email: megan.r.murphy@usace.army.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/105698a542e74b46978f5a9bbce5a92e/view)

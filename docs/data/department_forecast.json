@@ -1,35 +1,406 @@
 {
-  "forecast_date": "2026-04-26",
+  "forecast_date": "2026-04-27",
   "departments_by_opportunity_volume": [
     {
-      "total_records": 242,
-      "open_opportunities": 242,
+      "total_records": 1109,
+      "open_opportunities": 810,
+      "awarded": 299,
+      "win_rate_percent": 28.0,
+      "estimated_monthly_value": 214675493,
+      "average_award_value": 690274,
+      "opportunities_with_attachments": 84,
+      "opportunities_with_keyword_matches": 423,
+      "top_awardees": [
+        {
+          "name": "M.C. FUHRMAN & ASSOCIATES, LLC Haddonfield NJ 08033 USA",
+          "wins": 1,
+          "total_value": 47467558
+        },
+        {
+          "name": "CALEY OCEAN SYSTEMS LIMITED Glasgow G51 2SE GBR",
+          "wins": 1,
+          "total_value": 24683872
+        },
+        {
+          "name": "See General Information for MATOC Awardee Seattle WA USA",
+          "wins": 1,
+          "total_value": 20000000
+        },
+        {
+          "name": "M-K CONSTRUCTION CO INC Brownstown MI 48193 USA",
+          "wins": 1,
+          "total_value": 11670060
+        },
+        {
+          "name": "KRATOS UNMANNED AERIAL SYSTEMS, INC Sacramento CA 95838 USA",
+          "wins": 1,
+          "total_value": 10816371
+        }
+      ],
+      "department": "DEPT OF DEFENSE"
+    },
+    {
+      "total_records": 160,
+      "open_opportunities": 140,
+      "awarded": 20,
+      "win_rate_percent": 12.5,
+      "estimated_monthly_value": 805088862,
+      "average_award_value": 40254443,
+      "opportunities_with_attachments": 6,
+      "opportunities_with_keyword_matches": 41,
+      "top_awardees": [
+        {
+          "name": "Indivior Inc. NORTH CHESTERFIELD 23235",
+          "wins": 1,
+          "total_value": 748865840
+        },
+        {
+          "name": "STRYKER SALES, LLC SAN JOSE 95138",
+          "wins": 1,
+          "total_value": 25555202
+        },
+        {
+          "name": "LABORATORY CORPORATION OF AMERICA BURLINGTON 27215 NCL",
+          "wins": 1,
+          "total_value": 17000000
+        },
+        {
+          "name": "ABBOTT LABORATORIES INC. ABBOTT PARK 60064",
+          "wins": 1,
+          "total_value": 3378770
+        },
+        {
+          "name": "ACUSTAF DEVELOPMENT CORP Edina MN 55435 USA",
+          "wins": 1,
+          "total_value": 2300000
+        }
+      ],
+      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
+    },
+    {
+      "total_records": 84,
+      "open_opportunities": 70,
+      "awarded": 14,
+      "win_rate_percent": 16.7,
+      "estimated_monthly_value": 16434888,
+      "average_award_value": 1173920,
+      "opportunities_with_attachments": 10,
+      "opportunities_with_keyword_matches": 11,
+      "top_awardees": [
+        {
+          "name": "Aramark Sports and Entertainment Services, LLC 2400 MARKET ST PHILADELPHIA PA 19103 USA",
+          "wins": 1,
+          "total_value": 9033988
+        },
+        {
+          "name": "BOYER EAGLE ROCK ASSOCIATES LTD Idaho Falls ID 83401 USA",
+          "wins": 1,
+          "total_value": 6441133
+        },
+        {
+          "name": "TEACHING STRATEGIES LLC 80 M ST SE STE 1010 WASHINGTON DC 20003 USA",
+          "wins": 1,
+          "total_value": 245258
+        },
+        {
+          "name": "CONTENDER BOATS INC 1820 SE 38TH AVE Homestead FL 33035 USA",
+          "wins": 1,
+          "total_value": 232404
+        },
+        {
+          "name": "ATZ SOLUTION LLC 226 E 9TH ST UNIT 403 Charlotte NC 28202 USA",
+          "wins": 1,
+          "total_value": 141520
+        }
+      ],
+      "department": "INTERIOR, DEPARTMENT OF THE"
+    },
+    {
+      "total_records": 70,
+      "open_opportunities": 57,
+      "awarded": 13,
+      "win_rate_percent": 18.6,
+      "estimated_monthly_value": 33819881,
+      "average_award_value": 2601529,
+      "opportunities_with_attachments": 6,
+      "opportunities_with_keyword_matches": 13,
+      "top_awardees": [
+        {
+          "name": "multiple Washington DC USA",
+          "wins": 1,
+          "total_value": 18780665
+        },
+        {
+          "name": "Multiple Boca Raton FL USA",
+          "wins": 1,
+          "total_value": 11910410
+        },
+        {
+          "name": "HASKINS EXCAVATING LLC Superior MT 59872 USA",
+          "wins": 1,
+          "total_value": 1815737
+        },
+        {
+          "name": "ECO-FRIENDLY CLEANING SPECIALIST, LLC Gonzales LA 70737 USA",
+          "wins": 1,
+          "total_value": 569437
+        },
+        {
+          "name": "TRIPLE R INVESTMENTS, LLC Springfield OR 97478 USA",
+          "wins": 1,
+          "total_value": 194300
+        }
+      ],
+      "department": "AGRICULTURE, DEPARTMENT OF"
+    },
+    {
+      "total_records": 39,
+      "open_opportunities": 38,
+      "awarded": 1,
+      "win_rate_percent": 7.7,
+      "estimated_monthly_value": 1989037,
+      "average_award_value": 663012,
+      "opportunities_with_attachments": 10,
+      "opportunities_with_keyword_matches": 16,
+      "top_awardees": [
+        {
+          "name": "JAG INDUSTRIAL SERVICES, INC Jonesville MI 49250 USA",
+          "wins": 1,
+          "total_value": 1989037
+        },
+        {
+          "name": "",
+          "wins": 2,
+          "total_value": 0
+        }
+      ],
+      "department": "HOMELAND SECURITY, DEPARTMENT OF"
+    },
+    {
+      "total_records": 24,
+      "open_opportunities": 23,
+      "awarded": 1,
+      "win_rate_percent": 4.2,
+      "estimated_monthly_value": 1843470,
+      "average_award_value": 1843470,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 4,
+      "top_awardees": [
+        {
+          "name": "WIENER STADTISCHE OSIGURANJE ADO BEOGRAD Beograd 11070 SRB",
+          "wins": 1,
+          "total_value": 1843470
+        }
+      ],
+      "department": "STATE, DEPARTMENT OF"
+    },
+    {
+      "total_records": 23,
+      "open_opportunities": 20,
+      "awarded": 3,
+      "win_rate_percent": 17.4,
+      "estimated_monthly_value": 7558304,
+      "average_award_value": 1889576,
+      "opportunities_with_attachments": 2,
+      "opportunities_with_keyword_matches": 10,
+      "top_awardees": [
+        {
+          "name": "ISOLA THERAPEUTICS INC Minneapolis MN 55410 USA",
+          "wins": 1,
+          "total_value": 7485416
+        },
+        {
+          "name": "BISON TRAIL DEVELOPMENT LLC Middleport NY 14105 USA",
+          "wins": 1,
+          "total_value": 50400
+        },
+        {
+          "name": "ALKO ENTERPRISES INC Oklahoma City OK 73116 USA",
+          "wins": 1,
+          "total_value": 22487
+        },
+        {
+          "name": "",
+          "wins": 1,
+          "total_value": 0
+        }
+      ],
+      "department": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF"
+    },
+    {
+      "total_records": 19,
+      "open_opportunities": 19,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 234,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 1,
       "top_awardees": [],
-      "department": "DEPT OF DEFENSE"
+      "department": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION"
+    },
+    {
+      "total_records": 20,
+      "open_opportunities": 18,
+      "awarded": 2,
+      "win_rate_percent": 20.0,
+      "estimated_monthly_value": 13435918,
+      "average_award_value": 3358979,
+      "opportunities_with_attachments": 2,
+      "opportunities_with_keyword_matches": 7,
+      "top_awardees": [
+        {
+          "name": "KEETON CORRECTIONS INC Spanish Fort AL 36527 USA",
+          "wins": 1,
+          "total_value": 13398330
+        },
+        {
+          "name": "SPRINGFIELD SOLUTIONS LLC Roseburg OR 97471 USA",
+          "wins": 1,
+          "total_value": 37588
+        },
+        {
+          "name": "",
+          "wins": 2,
+          "total_value": 0
+        }
+      ],
+      "department": "JUSTICE, DEPARTMENT OF"
+    },
+    {
+      "total_records": 17,
+      "open_opportunities": 17,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 2,
+      "opportunities_with_keyword_matches": 4,
+      "top_awardees": [],
+      "department": "ENERGY, DEPARTMENT OF"
+    },
+    {
+      "total_records": 17,
+      "open_opportunities": 14,
+      "awarded": 3,
+      "win_rate_percent": 17.6,
+      "estimated_monthly_value": 72392720,
+      "average_award_value": 24130906,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 9,
+      "top_awardees": [
+        {
+          "name": "ADVANTOR SYSTEMS II LLC Orlando FL 32826-2784 USA",
+          "wins": 1,
+          "total_value": 40000000
+        },
+        {
+          "name": "APEX TK LLC Tampa FL 33629-8354 USA",
+          "wins": 1,
+          "total_value": 30000000
+        },
+        {
+          "name": "REGIONS BANK Birmingham AL 35203 USA",
+          "wins": 1,
+          "total_value": 2392720
+        }
+      ],
+      "department": "GENERAL SERVICES ADMINISTRATION"
+    },
+    {
+      "total_records": 16,
+      "open_opportunities": 14,
+      "awarded": 2,
+      "win_rate_percent": 12.5,
+      "estimated_monthly_value": 2526341,
+      "average_award_value": 1263170,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 9,
+      "top_awardees": [
+        {
+          "name": "SHIP & SHORE CONSTRUCTION LLC 17629 STATE HWY 613 Moss Point MS 39562 USA",
+          "wins": 1,
+          "total_value": 2508246
+        },
+        {
+          "name": "BIOMARK LLC 705 S. 8TH STREET Boise ID 83702 USA",
+          "wins": 1,
+          "total_value": 18095
+        }
+      ],
+      "department": "COMMERCE, DEPARTMENT OF"
     },
     {
       "total_records": 6,
       "open_opportunities": 5,
       "awarded": 1,
       "win_rate_percent": 16.7,
-      "estimated_monthly_value": 9785,
-      "average_award_value": 9785,
+      "estimated_monthly_value": 8035640,
+      "average_award_value": 8035640,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 2,
+      "top_awardees": [
+        {
+          "name": "BLOOMBERG INDUSTRY GROUP, INC. Arlington VA 22202 USA",
+          "wins": 1,
+          "total_value": 8035640
+        }
+      ],
+      "department": "TREASURY, DEPARTMENT OF THE"
+    },
+    {
+      "total_records": 5,
+      "open_opportunities": 4,
+      "awarded": 1,
+      "win_rate_percent": 20.0,
+      "estimated_monthly_value": 234155,
+      "average_award_value": 234155,
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 1,
       "top_awardees": [
         {
-          "name": "Veteran Elevator Inspection Services, LLC CLAYTON 27520 NCL",
+          "name": "Array - Washington DC Washington DC 20036 USA",
           "wins": 1,
-          "total_value": 9785
+          "total_value": 234155
         }
       ],
-      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
+      "department": "UNITED STATES GOVERNMENT PUBLISHING OFFICE"
+    },
+    {
+      "total_records": 4,
+      "open_opportunities": 4,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "TRANSPORTATION, DEPARTMENT OF"
+    },
+    {
+      "total_records": 4,
+      "open_opportunities": 4,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 2,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "ENVIRONMENTAL PROTECTION AGENCY"
+    },
+    {
+      "total_records": 3,
+      "open_opportunities": 3,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 3,
+      "top_awardees": [],
+      "department": "SENATE, THE"
     },
     {
       "total_records": 2,
@@ -41,7 +412,7 @@
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 2,
       "top_awardees": [],
-      "department": "INTERNATIONAL BOUNDARY AND WATER COMMISSION: US-MEXICO"
+      "department": "MILLENNIUM CHALLENGE CORPORATION"
     },
     {
       "total_records": 2,
@@ -51,21 +422,21 @@
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
+      "opportunities_with_keyword_matches": 1,
       "top_awardees": [],
-      "department": "INTERIOR, DEPARTMENT OF THE"
+      "department": "FEDERAL DEPOSIT INSURANCE CORPORATION"
     },
     {
-      "total_records": 2,
-      "open_opportunities": 2,
+      "total_records": 1,
+      "open_opportunities": 1,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
-      "opportunities_with_attachments": 2,
+      "opportunities_with_attachments": 1,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "HOMELAND SECURITY, DEPARTMENT OF"
+      "department": "SMITHSONIAN INSTITUTION"
     },
     {
       "total_records": 1,
@@ -77,7 +448,7 @@
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "AGRICULTURE, DEPARTMENT OF"
+      "department": "SOCIAL SECURITY ADMINISTRATION"
     },
     {
       "total_records": 1,
@@ -89,7 +460,7 @@
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 1,
       "top_awardees": [],
-      "department": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION"
+      "department": "FEDERAL COMMUNICATIONS COMMISSION"
     },
     {
       "total_records": 1,
@@ -101,91 +472,402 @@
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 1,
       "top_awardees": [],
-      "department": "TREASURY, DEPARTMENT OF THE"
+      "department": "NUCLEAR REGULATORY COMMISSION"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "HOUSING AND URBAN DEVELOPMENT, DEPARTMENT OF"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 0,
+      "awarded": 1,
+      "win_rate_percent": 100.0,
+      "estimated_monthly_value": 1348994,
+      "average_award_value": 1348994,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [
+        {
+          "name": "OLIN CONSERVATION, INC. Great Falls VA 22066 USA",
+          "wins": 1,
+          "total_value": 1348994
+        }
+      ],
+      "department": "ARCHITECT OF THE CAPITOL"
     }
   ],
   "departments_by_award_value": [
     {
-      "total_records": 6,
-      "open_opportunities": 5,
-      "awarded": 1,
-      "win_rate_percent": 16.7,
-      "estimated_monthly_value": 9785,
-      "average_award_value": 9785,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 1,
+      "total_records": 160,
+      "open_opportunities": 140,
+      "awarded": 20,
+      "win_rate_percent": 12.5,
+      "estimated_monthly_value": 805088862,
+      "average_award_value": 40254443,
+      "opportunities_with_attachments": 6,
+      "opportunities_with_keyword_matches": 41,
       "top_awardees": [
         {
-          "name": "Veteran Elevator Inspection Services, LLC CLAYTON 27520 NCL",
+          "name": "Indivior Inc. NORTH CHESTERFIELD 23235",
           "wins": 1,
-          "total_value": 9785
+          "total_value": 748865840
+        },
+        {
+          "name": "STRYKER SALES, LLC SAN JOSE 95138",
+          "wins": 1,
+          "total_value": 25555202
+        },
+        {
+          "name": "LABORATORY CORPORATION OF AMERICA BURLINGTON 27215 NCL",
+          "wins": 1,
+          "total_value": 17000000
+        },
+        {
+          "name": "ABBOTT LABORATORIES INC. ABBOTT PARK 60064",
+          "wins": 1,
+          "total_value": 3378770
+        },
+        {
+          "name": "ACUSTAF DEVELOPMENT CORP Edina MN 55435 USA",
+          "wins": 1,
+          "total_value": 2300000
         }
       ],
       "department": "VETERANS AFFAIRS, DEPARTMENT OF"
     },
     {
-      "total_records": 242,
-      "open_opportunities": 242,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 234,
-      "top_awardees": [],
+      "total_records": 1109,
+      "open_opportunities": 810,
+      "awarded": 299,
+      "win_rate_percent": 28.0,
+      "estimated_monthly_value": 214675493,
+      "average_award_value": 690274,
+      "opportunities_with_attachments": 84,
+      "opportunities_with_keyword_matches": 423,
+      "top_awardees": [
+        {
+          "name": "M.C. FUHRMAN & ASSOCIATES, LLC Haddonfield NJ 08033 USA",
+          "wins": 1,
+          "total_value": 47467558
+        },
+        {
+          "name": "CALEY OCEAN SYSTEMS LIMITED Glasgow G51 2SE GBR",
+          "wins": 1,
+          "total_value": 24683872
+        },
+        {
+          "name": "See General Information for MATOC Awardee Seattle WA USA",
+          "wins": 1,
+          "total_value": 20000000
+        },
+        {
+          "name": "M-K CONSTRUCTION CO INC Brownstown MI 48193 USA",
+          "wins": 1,
+          "total_value": 11670060
+        },
+        {
+          "name": "KRATOS UNMANNED AERIAL SYSTEMS, INC Sacramento CA 95838 USA",
+          "wins": 1,
+          "total_value": 10816371
+        }
+      ],
       "department": "DEPT OF DEFENSE"
     },
     {
-      "total_records": 2,
-      "open_opportunities": 2,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 2,
-      "top_awardees": [],
-      "department": "INTERNATIONAL BOUNDARY AND WATER COMMISSION: US-MEXICO"
+      "total_records": 17,
+      "open_opportunities": 14,
+      "awarded": 3,
+      "win_rate_percent": 17.6,
+      "estimated_monthly_value": 72392720,
+      "average_award_value": 24130906,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 9,
+      "top_awardees": [
+        {
+          "name": "ADVANTOR SYSTEMS II LLC Orlando FL 32826-2784 USA",
+          "wins": 1,
+          "total_value": 40000000
+        },
+        {
+          "name": "APEX TK LLC Tampa FL 33629-8354 USA",
+          "wins": 1,
+          "total_value": 30000000
+        },
+        {
+          "name": "REGIONS BANK Birmingham AL 35203 USA",
+          "wins": 1,
+          "total_value": 2392720
+        }
+      ],
+      "department": "GENERAL SERVICES ADMINISTRATION"
     },
     {
-      "total_records": 2,
-      "open_opportunities": 2,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "INTERIOR, DEPARTMENT OF THE"
-    },
-    {
-      "total_records": 2,
-      "open_opportunities": 2,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 2,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "HOMELAND SECURITY, DEPARTMENT OF"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
+      "total_records": 70,
+      "open_opportunities": 57,
+      "awarded": 13,
+      "win_rate_percent": 18.6,
+      "estimated_monthly_value": 33819881,
+      "average_award_value": 2601529,
+      "opportunities_with_attachments": 6,
+      "opportunities_with_keyword_matches": 13,
+      "top_awardees": [
+        {
+          "name": "multiple Washington DC USA",
+          "wins": 1,
+          "total_value": 18780665
+        },
+        {
+          "name": "Multiple Boca Raton FL USA",
+          "wins": 1,
+          "total_value": 11910410
+        },
+        {
+          "name": "HASKINS EXCAVATING LLC Superior MT 59872 USA",
+          "wins": 1,
+          "total_value": 1815737
+        },
+        {
+          "name": "ECO-FRIENDLY CLEANING SPECIALIST, LLC Gonzales LA 70737 USA",
+          "wins": 1,
+          "total_value": 569437
+        },
+        {
+          "name": "TRIPLE R INVESTMENTS, LLC Springfield OR 97478 USA",
+          "wins": 1,
+          "total_value": 194300
+        }
+      ],
       "department": "AGRICULTURE, DEPARTMENT OF"
     },
     {
+      "total_records": 84,
+      "open_opportunities": 70,
+      "awarded": 14,
+      "win_rate_percent": 16.7,
+      "estimated_monthly_value": 16434888,
+      "average_award_value": 1173920,
+      "opportunities_with_attachments": 10,
+      "opportunities_with_keyword_matches": 11,
+      "top_awardees": [
+        {
+          "name": "Aramark Sports and Entertainment Services, LLC 2400 MARKET ST PHILADELPHIA PA 19103 USA",
+          "wins": 1,
+          "total_value": 9033988
+        },
+        {
+          "name": "BOYER EAGLE ROCK ASSOCIATES LTD Idaho Falls ID 83401 USA",
+          "wins": 1,
+          "total_value": 6441133
+        },
+        {
+          "name": "TEACHING STRATEGIES LLC 80 M ST SE STE 1010 WASHINGTON DC 20003 USA",
+          "wins": 1,
+          "total_value": 245258
+        },
+        {
+          "name": "CONTENDER BOATS INC 1820 SE 38TH AVE Homestead FL 33035 USA",
+          "wins": 1,
+          "total_value": 232404
+        },
+        {
+          "name": "ATZ SOLUTION LLC 226 E 9TH ST UNIT 403 Charlotte NC 28202 USA",
+          "wins": 1,
+          "total_value": 141520
+        }
+      ],
+      "department": "INTERIOR, DEPARTMENT OF THE"
+    },
+    {
+      "total_records": 20,
+      "open_opportunities": 18,
+      "awarded": 2,
+      "win_rate_percent": 20.0,
+      "estimated_monthly_value": 13435918,
+      "average_award_value": 3358979,
+      "opportunities_with_attachments": 2,
+      "opportunities_with_keyword_matches": 7,
+      "top_awardees": [
+        {
+          "name": "KEETON CORRECTIONS INC Spanish Fort AL 36527 USA",
+          "wins": 1,
+          "total_value": 13398330
+        },
+        {
+          "name": "SPRINGFIELD SOLUTIONS LLC Roseburg OR 97471 USA",
+          "wins": 1,
+          "total_value": 37588
+        },
+        {
+          "name": "",
+          "wins": 2,
+          "total_value": 0
+        }
+      ],
+      "department": "JUSTICE, DEPARTMENT OF"
+    },
+    {
+      "total_records": 6,
+      "open_opportunities": 5,
+      "awarded": 1,
+      "win_rate_percent": 16.7,
+      "estimated_monthly_value": 8035640,
+      "average_award_value": 8035640,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 2,
+      "top_awardees": [
+        {
+          "name": "BLOOMBERG INDUSTRY GROUP, INC. Arlington VA 22202 USA",
+          "wins": 1,
+          "total_value": 8035640
+        }
+      ],
+      "department": "TREASURY, DEPARTMENT OF THE"
+    },
+    {
+      "total_records": 23,
+      "open_opportunities": 20,
+      "awarded": 3,
+      "win_rate_percent": 17.4,
+      "estimated_monthly_value": 7558304,
+      "average_award_value": 1889576,
+      "opportunities_with_attachments": 2,
+      "opportunities_with_keyword_matches": 10,
+      "top_awardees": [
+        {
+          "name": "ISOLA THERAPEUTICS INC Minneapolis MN 55410 USA",
+          "wins": 1,
+          "total_value": 7485416
+        },
+        {
+          "name": "BISON TRAIL DEVELOPMENT LLC Middleport NY 14105 USA",
+          "wins": 1,
+          "total_value": 50400
+        },
+        {
+          "name": "ALKO ENTERPRISES INC Oklahoma City OK 73116 USA",
+          "wins": 1,
+          "total_value": 22487
+        },
+        {
+          "name": "",
+          "wins": 1,
+          "total_value": 0
+        }
+      ],
+      "department": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF"
+    },
+    {
+      "total_records": 16,
+      "open_opportunities": 14,
+      "awarded": 2,
+      "win_rate_percent": 12.5,
+      "estimated_monthly_value": 2526341,
+      "average_award_value": 1263170,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 9,
+      "top_awardees": [
+        {
+          "name": "SHIP & SHORE CONSTRUCTION LLC 17629 STATE HWY 613 Moss Point MS 39562 USA",
+          "wins": 1,
+          "total_value": 2508246
+        },
+        {
+          "name": "BIOMARK LLC 705 S. 8TH STREET Boise ID 83702 USA",
+          "wins": 1,
+          "total_value": 18095
+        }
+      ],
+      "department": "COMMERCE, DEPARTMENT OF"
+    },
+    {
+      "total_records": 39,
+      "open_opportunities": 38,
+      "awarded": 1,
+      "win_rate_percent": 7.7,
+      "estimated_monthly_value": 1989037,
+      "average_award_value": 663012,
+      "opportunities_with_attachments": 10,
+      "opportunities_with_keyword_matches": 16,
+      "top_awardees": [
+        {
+          "name": "JAG INDUSTRIAL SERVICES, INC Jonesville MI 49250 USA",
+          "wins": 1,
+          "total_value": 1989037
+        },
+        {
+          "name": "",
+          "wins": 2,
+          "total_value": 0
+        }
+      ],
+      "department": "HOMELAND SECURITY, DEPARTMENT OF"
+    },
+    {
+      "total_records": 24,
+      "open_opportunities": 23,
+      "awarded": 1,
+      "win_rate_percent": 4.2,
+      "estimated_monthly_value": 1843470,
+      "average_award_value": 1843470,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 4,
+      "top_awardees": [
+        {
+          "name": "WIENER STADTISCHE OSIGURANJE ADO BEOGRAD Beograd 11070 SRB",
+          "wins": 1,
+          "total_value": 1843470
+        }
+      ],
+      "department": "STATE, DEPARTMENT OF"
+    },
+    {
       "total_records": 1,
-      "open_opportunities": 1,
+      "open_opportunities": 0,
+      "awarded": 1,
+      "win_rate_percent": 100.0,
+      "estimated_monthly_value": 1348994,
+      "average_award_value": 1348994,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [
+        {
+          "name": "OLIN CONSERVATION, INC. Great Falls VA 22066 USA",
+          "wins": 1,
+          "total_value": 1348994
+        }
+      ],
+      "department": "ARCHITECT OF THE CAPITOL"
+    },
+    {
+      "total_records": 5,
+      "open_opportunities": 4,
+      "awarded": 1,
+      "win_rate_percent": 20.0,
+      "estimated_monthly_value": 234155,
+      "average_award_value": 234155,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 1,
+      "top_awardees": [
+        {
+          "name": "Array - Washington DC Washington DC 20036 USA",
+          "wins": 1,
+          "total_value": 234155
+        }
+      ],
+      "department": "UNITED STATES GOVERNMENT PUBLISHING OFFICE"
+    },
+    {
+      "total_records": 19,
+      "open_opportunities": 19,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
@@ -196,6 +878,102 @@
       "department": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION"
     },
     {
+      "total_records": 17,
+      "open_opportunities": 17,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 2,
+      "opportunities_with_keyword_matches": 4,
+      "top_awardees": [],
+      "department": "ENERGY, DEPARTMENT OF"
+    },
+    {
+      "total_records": 4,
+      "open_opportunities": 4,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "TRANSPORTATION, DEPARTMENT OF"
+    },
+    {
+      "total_records": 4,
+      "open_opportunities": 4,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 2,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "ENVIRONMENTAL PROTECTION AGENCY"
+    },
+    {
+      "total_records": 3,
+      "open_opportunities": 3,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 3,
+      "top_awardees": [],
+      "department": "SENATE, THE"
+    },
+    {
+      "total_records": 2,
+      "open_opportunities": 2,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 2,
+      "top_awardees": [],
+      "department": "MILLENNIUM CHALLENGE CORPORATION"
+    },
+    {
+      "total_records": 2,
+      "open_opportunities": 2,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 1,
+      "top_awardees": [],
+      "department": "FEDERAL DEPOSIT INSURANCE CORPORATION"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "SMITHSONIAN INSTITUTION"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "SOCIAL SECURITY ADMINISTRATION"
+    },
+    {
       "total_records": 1,
       "open_opportunities": 1,
       "awarded": 0,
@@ -205,39 +983,419 @@
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 1,
       "top_awardees": [],
-      "department": "TREASURY, DEPARTMENT OF THE"
+      "department": "FEDERAL COMMUNICATIONS COMMISSION"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 1,
+      "top_awardees": [],
+      "department": "NUCLEAR REGULATORY COMMISSION"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "HOUSING AND URBAN DEVELOPMENT, DEPARTMENT OF"
     }
   ],
   "department_forecasts": {
     "DEPT OF DEFENSE": {
-      "total_records": 242,
-      "open_opportunities": 242,
+      "total_records": 1109,
+      "open_opportunities": 810,
+      "awarded": 299,
+      "win_rate_percent": 28.0,
+      "estimated_monthly_value": 214675493,
+      "average_award_value": 690274,
+      "opportunities_with_attachments": 84,
+      "opportunities_with_keyword_matches": 423,
+      "top_awardees": [
+        {
+          "name": "M.C. FUHRMAN & ASSOCIATES, LLC Haddonfield NJ 08033 USA",
+          "wins": 1,
+          "total_value": 47467558
+        },
+        {
+          "name": "CALEY OCEAN SYSTEMS LIMITED Glasgow G51 2SE GBR",
+          "wins": 1,
+          "total_value": 24683872
+        },
+        {
+          "name": "See General Information for MATOC Awardee Seattle WA USA",
+          "wins": 1,
+          "total_value": 20000000
+        },
+        {
+          "name": "M-K CONSTRUCTION CO INC Brownstown MI 48193 USA",
+          "wins": 1,
+          "total_value": 11670060
+        },
+        {
+          "name": "KRATOS UNMANNED AERIAL SYSTEMS, INC Sacramento CA 95838 USA",
+          "wins": 1,
+          "total_value": 10816371
+        }
+      ]
+    },
+    "VETERANS AFFAIRS, DEPARTMENT OF": {
+      "total_records": 160,
+      "open_opportunities": 140,
+      "awarded": 20,
+      "win_rate_percent": 12.5,
+      "estimated_monthly_value": 805088862,
+      "average_award_value": 40254443,
+      "opportunities_with_attachments": 6,
+      "opportunities_with_keyword_matches": 41,
+      "top_awardees": [
+        {
+          "name": "Indivior Inc. NORTH CHESTERFIELD 23235",
+          "wins": 1,
+          "total_value": 748865840
+        },
+        {
+          "name": "STRYKER SALES, LLC SAN JOSE 95138",
+          "wins": 1,
+          "total_value": 25555202
+        },
+        {
+          "name": "LABORATORY CORPORATION OF AMERICA BURLINGTON 27215 NCL",
+          "wins": 1,
+          "total_value": 17000000
+        },
+        {
+          "name": "ABBOTT LABORATORIES INC. ABBOTT PARK 60064",
+          "wins": 1,
+          "total_value": 3378770
+        },
+        {
+          "name": "ACUSTAF DEVELOPMENT CORP Edina MN 55435 USA",
+          "wins": 1,
+          "total_value": 2300000
+        }
+      ]
+    },
+    "INTERIOR, DEPARTMENT OF THE": {
+      "total_records": 84,
+      "open_opportunities": 70,
+      "awarded": 14,
+      "win_rate_percent": 16.7,
+      "estimated_monthly_value": 16434888,
+      "average_award_value": 1173920,
+      "opportunities_with_attachments": 10,
+      "opportunities_with_keyword_matches": 11,
+      "top_awardees": [
+        {
+          "name": "Aramark Sports and Entertainment Services, LLC 2400 MARKET ST PHILADELPHIA PA 19103 USA",
+          "wins": 1,
+          "total_value": 9033988
+        },
+        {
+          "name": "BOYER EAGLE ROCK ASSOCIATES LTD Idaho Falls ID 83401 USA",
+          "wins": 1,
+          "total_value": 6441133
+        },
+        {
+          "name": "TEACHING STRATEGIES LLC 80 M ST SE STE 1010 WASHINGTON DC 20003 USA",
+          "wins": 1,
+          "total_value": 245258
+        },
+        {
+          "name": "CONTENDER BOATS INC 1820 SE 38TH AVE Homestead FL 33035 USA",
+          "wins": 1,
+          "total_value": 232404
+        },
+        {
+          "name": "ATZ SOLUTION LLC 226 E 9TH ST UNIT 403 Charlotte NC 28202 USA",
+          "wins": 1,
+          "total_value": 141520
+        }
+      ]
+    },
+    "AGRICULTURE, DEPARTMENT OF": {
+      "total_records": 70,
+      "open_opportunities": 57,
+      "awarded": 13,
+      "win_rate_percent": 18.6,
+      "estimated_monthly_value": 33819881,
+      "average_award_value": 2601529,
+      "opportunities_with_attachments": 6,
+      "opportunities_with_keyword_matches": 13,
+      "top_awardees": [
+        {
+          "name": "multiple Washington DC USA",
+          "wins": 1,
+          "total_value": 18780665
+        },
+        {
+          "name": "Multiple Boca Raton FL USA",
+          "wins": 1,
+          "total_value": 11910410
+        },
+        {
+          "name": "HASKINS EXCAVATING LLC Superior MT 59872 USA",
+          "wins": 1,
+          "total_value": 1815737
+        },
+        {
+          "name": "ECO-FRIENDLY CLEANING SPECIALIST, LLC Gonzales LA 70737 USA",
+          "wins": 1,
+          "total_value": 569437
+        },
+        {
+          "name": "TRIPLE R INVESTMENTS, LLC Springfield OR 97478 USA",
+          "wins": 1,
+          "total_value": 194300
+        }
+      ]
+    },
+    "HOMELAND SECURITY, DEPARTMENT OF": {
+      "total_records": 39,
+      "open_opportunities": 38,
+      "awarded": 1,
+      "win_rate_percent": 7.7,
+      "estimated_monthly_value": 1989037,
+      "average_award_value": 663012,
+      "opportunities_with_attachments": 10,
+      "opportunities_with_keyword_matches": 16,
+      "top_awardees": [
+        {
+          "name": "JAG INDUSTRIAL SERVICES, INC Jonesville MI 49250 USA",
+          "wins": 1,
+          "total_value": 1989037
+        },
+        {
+          "name": "",
+          "wins": 2,
+          "total_value": 0
+        }
+      ]
+    },
+    "STATE, DEPARTMENT OF": {
+      "total_records": 24,
+      "open_opportunities": 23,
+      "awarded": 1,
+      "win_rate_percent": 4.2,
+      "estimated_monthly_value": 1843470,
+      "average_award_value": 1843470,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 4,
+      "top_awardees": [
+        {
+          "name": "WIENER STADTISCHE OSIGURANJE ADO BEOGRAD Beograd 11070 SRB",
+          "wins": 1,
+          "total_value": 1843470
+        }
+      ]
+    },
+    "HEALTH AND HUMAN SERVICES, DEPARTMENT OF": {
+      "total_records": 23,
+      "open_opportunities": 20,
+      "awarded": 3,
+      "win_rate_percent": 17.4,
+      "estimated_monthly_value": 7558304,
+      "average_award_value": 1889576,
+      "opportunities_with_attachments": 2,
+      "opportunities_with_keyword_matches": 10,
+      "top_awardees": [
+        {
+          "name": "ISOLA THERAPEUTICS INC Minneapolis MN 55410 USA",
+          "wins": 1,
+          "total_value": 7485416
+        },
+        {
+          "name": "BISON TRAIL DEVELOPMENT LLC Middleport NY 14105 USA",
+          "wins": 1,
+          "total_value": 50400
+        },
+        {
+          "name": "ALKO ENTERPRISES INC Oklahoma City OK 73116 USA",
+          "wins": 1,
+          "total_value": 22487
+        },
+        {
+          "name": "",
+          "wins": 1,
+          "total_value": 0
+        }
+      ]
+    },
+    "JUSTICE, DEPARTMENT OF": {
+      "total_records": 20,
+      "open_opportunities": 18,
+      "awarded": 2,
+      "win_rate_percent": 20.0,
+      "estimated_monthly_value": 13435918,
+      "average_award_value": 3358979,
+      "opportunities_with_attachments": 2,
+      "opportunities_with_keyword_matches": 7,
+      "top_awardees": [
+        {
+          "name": "KEETON CORRECTIONS INC Spanish Fort AL 36527 USA",
+          "wins": 1,
+          "total_value": 13398330
+        },
+        {
+          "name": "SPRINGFIELD SOLUTIONS LLC Roseburg OR 97471 USA",
+          "wins": 1,
+          "total_value": 37588
+        },
+        {
+          "name": "",
+          "wins": 2,
+          "total_value": 0
+        }
+      ]
+    },
+    "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION": {
+      "total_records": 19,
+      "open_opportunities": 19,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 1,
+      "top_awardees": []
+    },
+    "ENERGY, DEPARTMENT OF": {
+      "total_records": 17,
+      "open_opportunities": 17,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 2,
+      "opportunities_with_keyword_matches": 4,
+      "top_awardees": []
+    },
+    "GENERAL SERVICES ADMINISTRATION": {
+      "total_records": 17,
+      "open_opportunities": 14,
+      "awarded": 3,
+      "win_rate_percent": 17.6,
+      "estimated_monthly_value": 72392720,
+      "average_award_value": 24130906,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 9,
+      "top_awardees": [
+        {
+          "name": "ADVANTOR SYSTEMS II LLC Orlando FL 32826-2784 USA",
+          "wins": 1,
+          "total_value": 40000000
+        },
+        {
+          "name": "APEX TK LLC Tampa FL 33629-8354 USA",
+          "wins": 1,
+          "total_value": 30000000
+        },
+        {
+          "name": "REGIONS BANK Birmingham AL 35203 USA",
+          "wins": 1,
+          "total_value": 2392720
+        }
+      ]
+    },
+    "COMMERCE, DEPARTMENT OF": {
+      "total_records": 16,
+      "open_opportunities": 14,
+      "awarded": 2,
+      "win_rate_percent": 12.5,
+      "estimated_monthly_value": 2526341,
+      "average_award_value": 1263170,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 9,
+      "top_awardees": [
+        {
+          "name": "SHIP & SHORE CONSTRUCTION LLC 17629 STATE HWY 613 Moss Point MS 39562 USA",
+          "wins": 1,
+          "total_value": 2508246
+        },
+        {
+          "name": "BIOMARK LLC 705 S. 8TH STREET Boise ID 83702 USA",
+          "wins": 1,
+          "total_value": 18095
+        }
+      ]
+    },
+    "TREASURY, DEPARTMENT OF THE": {
+      "total_records": 6,
+      "open_opportunities": 5,
+      "awarded": 1,
+      "win_rate_percent": 16.7,
+      "estimated_monthly_value": 8035640,
+      "average_award_value": 8035640,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 2,
+      "top_awardees": [
+        {
+          "name": "BLOOMBERG INDUSTRY GROUP, INC. Arlington VA 22202 USA",
+          "wins": 1,
+          "total_value": 8035640
+        }
+      ]
+    },
+    "UNITED STATES GOVERNMENT PUBLISHING OFFICE": {
+      "total_records": 5,
+      "open_opportunities": 4,
+      "awarded": 1,
+      "win_rate_percent": 20.0,
+      "estimated_monthly_value": 234155,
+      "average_award_value": 234155,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 1,
+      "top_awardees": [
+        {
+          "name": "Array - Washington DC Washington DC 20036 USA",
+          "wins": 1,
+          "total_value": 234155
+        }
+      ]
+    },
+    "TRANSPORTATION, DEPARTMENT OF": {
+      "total_records": 4,
+      "open_opportunities": 4,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 234,
+      "opportunities_with_keyword_matches": 0,
       "top_awardees": []
     },
-    "VETERANS AFFAIRS, DEPARTMENT OF": {
-      "total_records": 6,
-      "open_opportunities": 5,
-      "awarded": 1,
-      "win_rate_percent": 16.7,
-      "estimated_monthly_value": 9785,
-      "average_award_value": 9785,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 1,
-      "top_awardees": [
-        {
-          "name": "Veteran Elevator Inspection Services, LLC CLAYTON 27520 NCL",
-          "wins": 1,
-          "total_value": 9785
-        }
-      ]
+    "ENVIRONMENTAL PROTECTION AGENCY": {
+      "total_records": 4,
+      "open_opportunities": 4,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 2,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": []
     },
-    "INTERNATIONAL BOUNDARY AND WATER COMMISSION: US-MEXICO": {
+    "SENATE, THE": {
+      "total_records": 3,
+      "open_opportunities": 3,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 3,
+      "top_awardees": []
+    },
+    "MILLENNIUM CHALLENGE CORPORATION": {
       "total_records": 2,
       "open_opportunities": 2,
       "awarded": 0,
@@ -248,7 +1406,7 @@
       "opportunities_with_keyword_matches": 2,
       "top_awardees": []
     },
-    "INTERIOR, DEPARTMENT OF THE": {
+    "FEDERAL DEPOSIT INSURANCE CORPORATION": {
       "total_records": 2,
       "open_opportunities": 2,
       "awarded": 0,
@@ -256,21 +1414,21 @@
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
+      "opportunities_with_keyword_matches": 1,
       "top_awardees": []
     },
-    "HOMELAND SECURITY, DEPARTMENT OF": {
-      "total_records": 2,
-      "open_opportunities": 2,
+    "SMITHSONIAN INSTITUTION": {
+      "total_records": 1,
+      "open_opportunities": 1,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
-      "opportunities_with_attachments": 2,
+      "opportunities_with_attachments": 1,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": []
     },
-    "AGRICULTURE, DEPARTMENT OF": {
+    "SOCIAL SECURITY ADMINISTRATION": {
       "total_records": 1,
       "open_opportunities": 1,
       "awarded": 0,
@@ -281,7 +1439,24 @@
       "opportunities_with_keyword_matches": 0,
       "top_awardees": []
     },
-    "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION": {
+    "ARCHITECT OF THE CAPITOL": {
+      "total_records": 1,
+      "open_opportunities": 0,
+      "awarded": 1,
+      "win_rate_percent": 100.0,
+      "estimated_monthly_value": 1348994,
+      "average_award_value": 1348994,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [
+        {
+          "name": "OLIN CONSERVATION, INC. Great Falls VA 22066 USA",
+          "wins": 1,
+          "total_value": 1348994
+        }
+      ]
+    },
+    "FEDERAL COMMUNICATIONS COMMISSION": {
       "total_records": 1,
       "open_opportunities": 1,
       "awarded": 0,
@@ -292,7 +1467,7 @@
       "opportunities_with_keyword_matches": 1,
       "top_awardees": []
     },
-    "TREASURY, DEPARTMENT OF THE": {
+    "NUCLEAR REGULATORY COMMISSION": {
       "total_records": 1,
       "open_opportunities": 1,
       "awarded": 0,
@@ -301,6 +1476,17 @@
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 1,
+      "top_awardees": []
+    },
+    "HOUSING AND URBAN DEVELOPMENT, DEPARTMENT OF": {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
       "top_awardees": []
     }
   }
