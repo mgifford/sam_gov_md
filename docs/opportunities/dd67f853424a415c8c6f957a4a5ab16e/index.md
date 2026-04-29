@@ -1,0 +1,29 @@
+---
+layout: default
+title: MC TEM Industry Day May 2026
+agency: DEPT OF DEFENSE
+notice_type: Special Notice
+notice_id: dd67f853424a415c8c6f957a4a5ab16e
+---
+
+# MC TEM Industry Day May 2026
+
+- Agency: DEPT OF DEFENSE
+- Type: Special Notice
+- Posted: 2026-04-28 09:40:24.748-04
+- Solicitation Number: 20260528_MC_TEM_MAY26
+
+## Summary
+
+OUSW(R&E) Mission Capabilities (MC) Office Industry Engagement Technical Exchange Meeting WHAT: The Assistant Secretary of War for Mission Capabilities (ASW(MC)), in the Office of the Under Secretary of War for Research and Engineering (OUSW(R&E)), is hosting a Technical Exchange Meeting (TEM) with industry. This engagement provides private industry with an update on the threats and challenges OUSW(R&E) programs are attempting to address. Additional info is available at the OUSW(R&E) website (https://ac.cto.mil/). The overall classification of the event is SECRET // FVEY. Advanced registration is required (U.S. Citizen Registration Link: https://secwww.jhuapl.edu/EventLink/Event/648 Foreign Citizen Registration Link: https://secwww.jhuapl.edu/EventLink/Event/649), all registrants must submit their clearance via a Visitor Access Request (VAR). WHY: Mission Capabilities drives efforts to compete with adversaries through the development of capabilities that support the joint warfighter including, but not limited to, Contested Logistics, C-C5ISRT, and Multi-Domain Collaborative Autonomy. Mission Capabilities coordinates these efforts through multiple programs with independent pathways for industry participation in experimentation, prototypes, and capabilities that explore new concepts. This TEM will enable the illustration of the current and future operating environments and the associated priority technical challenges. The TEM will also provide participants with a better understanding of ASW(MC)’s vision, technical priorities, and challenges, while directly enabling interested industry partners to explore partnerships with Government subject matter experts and leadership. Networking opportunities will occur throughout the day, with specific venues occurring at the end of the day. WHEN: Thursday, May 28, 2026 (8:00 AM – 17:00 PM ET) WHERE: Kossiakoff Center located at Johns Hopkins University Applied Physics Laboratory (JHU-APL), 11100 Johns Hopkins Rd, Laurel, MD 20723 (https://goo.gl/maps/Gv2AdygtR4v). From Johns Hopkins Road, turn right onto Pond Road. The Kossiakoff Center is located on the left; parking is to the lower right, off Pond Road. THIS IS AN INDUSTRY ENGAGEMENT ANNOUNCEMENT ONLY. This announcement is issued solely for information and planning purposes and does not constitute a Request for Proposal (RFP) or a promise to issue an RFP in the future. To RSVP: You MUST pass your clearance to JHU-APL no later than 13 May 2026 for U.S. Citizen admission and no later than 28 April for foreign partners. Follow instructions below. In addition, please fill out the registration form located: U.S. Citizen Registration: https://secwww.jhuapl.edu/EventLink/event/648 Foreign Citizen Registration: https://secwww.jhuapl.edu/EventLink/event/649 We cannot accept late RSVPs or same-day registrants due to the time required to clear participants. Company RFI Submissions: Must be received by May 15. 1:1 Notifications: Selected companies will be notified by May 20. CLEARANCE PASSING INSRUCTIONS: Visitors from DoD organizations should send their clearances via the Defense Information System for Security (DISS) to SMO code 88898-JOHNS HOPKINS UNIVERSITY APL-1 Event Name: MC TEM Industry Day 2026 Security POC: Mr. Craig Koons, Visitor Control Office - Incoming Security Number: 240-228-5661 Technical POC: Ms. Brittany Evans Ward Industry and non-DoD visitors who cannot use DISS must complete a Visit Authorization Letter containing the information below. Requests must be typed and on company letterhead. This letter may be sent by fax to 443-778-6400, uploaded to our FedRAMP certified secure Dropbox, or emailed using a password-protected document to the address: invis-office@aplmsg.jhuapl.edu. The password must be provided either in a separate email or verbally by calling 240-228-5661. Dropbox and/or email are preferred as faxes may not be collected daily. Visitor’s full name (last, first, and middle), position, date and place of birth, citizenship, social security number, and email address Certification of the visitor’s DoW clearance level, date granted, and any special accesses (if applicable). Company name, address, telephone number, and assigned DoD CAGE code (if applicable) and certification of the level of the facility security clearance. Date of visit: May 28, 2026 Purpose of Visit: MC TEM Industry Day 2026 Authorizing individual signature and printed name (e.g., officer of the company, contract authority, person in a position of public trust). A visitor may not sign his/her own request, and the signature cannot be typed. If you have any questions or concerns, please contact the JHU/APL Incoming Visitor Control Office at 240-228-5661. ADMINISTRATION: FOOD/CATERING: Coffee, pastries, and lunch will be provided. The registration link will include a request for $30 per person that covers registration, breakfast, lunch, and coffee for the day. If you have any dietary restrictions, please contact Sarah French. Sarah can be reached via email at Sarah.French@jhuapl.edu. No food or drink is allowed in the auditorium. ELECTRONICS: The overall classification of the event is SECRET//FVEY. Storage will be provided for your cell phones. Please do not bring large electronics. Note-taking in the classified rooms will not be permitted. The lobby and dining areas will be unclassified.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Matthew Woods
+  - Email: matthew.d.woods10.ctr@mail.mil
+  - Phone: 7036930960
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/dd67f853424a415c8c6f957a4a5ab16e/view)

@@ -1,0 +1,30 @@
+---
+layout: default
+title: 6530--DOMICILIARY Furniture
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Solicitation
+notice_id: 657e2f915fe6481a84f46a9405b97668
+---
+
+# 6530--DOMICILIARY Furniture
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Solicitation
+- Posted: 2026-04-28 13:05:06.708-04
+- Solicitation Number: 36C24626Q0439
+- Awardee: null
+
+## Summary
+
+Amendment 36C24626Q0439 (0005) Question (Black) / Response (Red) Do the lights need to stay in the room? Response: Yes, the lights are utilized for the configuration of the beds within the residential rooms. They were part of the renovation contract. Is moisture barrier needed on fabric? Response: Please be advised that CAL 133 & Moister Barrier is required. Are the dimensions the same? Response: Yes, the dimensions are the same for each alcove, however, awardee is recommended to field verify existing conditions. Is there a loading dock? Response: Yes, there is, however, VA recommends a truck with a liftgate for ease of access into the Pods. Is trim to match the existing? Response: Trim should match the wardrobe offered by the solicitor. Do the wardrobes need to be built in to the alcoves? Response: While they are not required to be built in, the wardrobe should be safe for patient use and installed per manufacturer s recommendation. VA recommends the wardrobes being fastened to prevent them from tipping onto the end-user. What is the scheduling of the Pods? Response: Pod C as soon as possible, followed by Pod D, Pod B, Pod A. VA estimates around a maximum of two weeks for install of pod to include the relocation of internal VA veterans and stakeholder collaboration. Alcove Dimensions Response: The existing wardrobes are not built in or fastened to the wall. The team was able to pull it out of the alcove. They are heavy, but it s not a terrible feat. Previous Wardrobes: The evaluation criteria in the RFQ package didn t appear to set clear evaluation criteria. I would like to know if this will be a low cost technically acceptable evaluation or is it best value evaluation? If it is best value what are the specific components that will be evaluated? Response: best value evaluation criteria: Experience and Past Performance (50%): The contracting firm shall have a minimum of 5 years worth of experience of furniture installation and project management within healthcare interior design. They must be able to provide project scopes and documentation for three Federal projects valued at $750,000 and above. These projects will be evaluated on the scale found below. 1 Below Average 2 Average 3 Good 4 Great 5 Exceeds Expectations Based on: Continuity of Design thoughtful and calculated design decision based on the importance of consistency as utilized throughout the project Project Scope: product selection, size of install, quality of work Project Management: timeliness of deliverable, customer satisfaction, staffing Budget Adherence: ability to deliver value of money with best value Technical & Management Ability (30%) Labor/Services appropriate to the scope of work Project Staffing plan Project Management Plan References (20%) Should provide two references of testimonials from previous clients Request an extension on the submission deadline? Response: Solicitation 36C24626Q0439 has been extended to Wednesday May 06, 2026 at 11:00 a.m. EST. To add FAR 52.222-90 Addressing DEI Discrimination by Federal Contractors (APR 2026) 52.222-90Â Addressing DEI Discrimination by Federal Contractors. As prescribed in 22.2203, insert the following clause: Addressing DEI Discrimination by Federal Contractors (Deviation DATE) (a)Â Definitions. As used in this clause Program participationÂ means membership or participation in, or access or admission to: training, mentoring, or leadership development programs; educational opportunities; clubs; associations; or similar opportunities that are sponsored or established by the contractor or subcontractor. Racially discriminatory diversity, equity, and inclusion (DEI) activitiesÂ means disparate treatment based on race or ethnicity in the recruitment, employment (e.g., hiring, promotions), contracting (e.g., vendor agreements), program participation, or allocation or deployment of an entity's resources. (b)Â In connection with the performance of work under this contract, the Contractor agrees as follows: (1)Â The Contractor will not engage in any racially discriminatory DEI activities; (2)Â The Contractor will furnish all information and reports, including providing access to books, records, and accounts, as required by the Contracting Officer, for purposes of ascertaining compliance with this clause; (3)Â In the event of the Contractor's or a subcontractor's noncompliance with this clause, this contract may be canceled, terminated, or suspended in whole or in part, and the Contractor or subcontractor may be declared ineligible for further Government contracts; (4)Â The Contractor will report any subcontractor's known or reasonably knowable conduct that may violate this clause to the Contracting Officer and take any appropriate remedial actions directed by the Contracting Officer; and (5)Â The Contractor will inform the Contracting Officer if a subcontractor sues the Contractor and the suit puts at issue, in any way, the validity of this clause. (6)Â The Contractor recognizes that compliance with the requirements of this clause are material to the Government's payment decisions for purposes of 31 U.S.C. 3729(b)(4). (c)Â The Contractor must include the substance of this clause, including this paragraph (c), in subcontracts at any tier, including those for commercial products and commercial services, except those where the place of delivery or performance is outside the United States. (End of clause)
+
+## Contacts
+
+- Primary Contact:
+  - Name: Ruth A Morris
+  - Title: Contract Specialist
+  - Email: Ruth.Morris@va.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/657e2f915fe6481a84f46a9405b97668/view)

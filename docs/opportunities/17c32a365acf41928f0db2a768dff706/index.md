@@ -1,0 +1,29 @@
+---
+layout: default
+title: 6515 - Polysomnography - Sleep Lab EEG Analyzers and Software
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: 17c32a365acf41928f0db2a768dff706
+---
+
+# 6515 - Polysomnography - Sleep Lab EEG Analyzers and Software
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-04-28 09:52:46.578-04
+- Solicitation Number: 36C24426Q0539
+
+## Summary
+
+The following is a Source Sought Notice. This posted notice is not a Pre- Solicitation or Solicitation document. The Government is not currently soliciting bids, quotes, or proposals at this time; however, reserves the right to do so at a later date. The Department of Veterans Affairs, Wilkes-Barre VA Medical Center, has a requirement for new a new polysomnography system. The intended use is to properly monitor Veterans during sleep studies. Required Salient Characteristics: Comprehensive PSG/EEG capability with multi?channel acquisition suitable for in?lab sleep studies (e.g., EEG, EOG, EMG, ECG, respiratory effort, airflow, SpO?, body position). High?fidelity signal sampling and low?noise design adequate for clinical scoring and review, with bedside impedance or equivalent real?time quality checks. Synchronized video (HD/IR or equivalent) and audio options to support behavioral correlation during studies. Flexible hardware configurations (e.g., head boxes, breakout boxes, portable modules) enabling standard to advanced PSG workflows. Secure, enterprise?ready deployment (e.g., role?based access, encryption, remote access/Citrix?style environments). Standards?aligned scoring (e.g., AASM?compliant workflows) and configurable reporting. Interoperability with hospital systems (e.g., HL7 or similar bi?directional integration) and support for common data formats (e.g., EDF/EDF+ or equivalent). Scalable database/archiving suitable for multi?room or multi?site operations (e.g., SQL?based or equivalent). Therapy titration support (e.g., PAP interfaces) with tools to document settings and outcomes. Basic Functionalities: Set up and run sleep studies efficiently, including patient registration, quick hook?ups, and live signal checks. Collect and stream PSG data reliably with options for real?time review during acquisition and fault?tolerant recording to network storage. Provide automated event detection (e.g., apneas, hypopneas, arousals, limb movements) with manual review and editing tools.) Support synchronized video review alongside waveforms for scoring and documentation. Enable configurable montages, filters, and workspaces to match local protocols and user preferences. Generate customizable reports (e.g., Word/PDF templates) with summary statistics and trends; allow export to common formats. Integrate with EMR/HIS systems for order intake and results posting; support secure remote access for authorized users. Offer therapy titration workflows (e.g., PAP) and capture therapy parameters within the study record. Provide administration tools for user roles, software deployment/updates, and centralized lab settings. ALL ITEMS AND INSTALLATION TO BE COMLETED AT THE FOLLOWING LOCATION: Wilkes-Barre VA Medical Center 1111 East End BLVD Wilkes-Barre, PA 18711 ALL INTERESTED PARTIES MUST ALSO HAVE AN ACTIVE REGISTRATION IN THE SYSTEM FOR AWARD MANAGEMENT (SAM) DATABASE. TO REGISTER, PLEASE VISIT WWW.SAM.GOV. Responses to this Sources Sought shall include: Company Name Address Point of Contact Phone Number Email Address Unique Entity ID CAGE Code In accordance with 38 U.S.C. 8127(d), a contracting officer of the “Department” shall award contracts on the basis of competition restricted to small business concerns owned and controlled by Veterans, if the contracting officer has a reasonable expectation that two or more small business concerns owned and controlled by veterans will submit offers, and that the award can be made at a fair and reasonable price that offers the best value to the United States Government. For purposes of this VA specific rule, a service-disabled veteran-owned small business (SDVOSB) or a veteran-owned small business (VOSB), must meet the eligibility requirements in 38 U.S.C. 8127(e), (f) and VAAR subpart 819.7003 and be listed as verified by the U.S. Small Business Administration Please provide answers to all questions below regarding your firm’s Socio-Economic status pursuant to North American Industrial Classification Code (NAICS) 334510 1. Is your business a small business under NAICS 334510? YES ______ NO ______ 2. Is your firm a Veteran-Owned Small Business? YES ______ NO ______ 3. Is your firm a Service-Disabled Veteran-Owned Small Business? YES ______ NO ______ 4. Is you firm a certified HUB Zone firm? YES ______ NO ______ 5. Is your firm a Woman Owned business? YES ______ NO ______ 6. Is your firm a Large Business? YES ______ NO ______ 7. What is your GSA/FSS schedule for these items? YES______ NO______ Schedule Number: ___________________ Expiration Date: _____________________ 8. Where is the product manufactured? ______________________________ Please provide a capability statement as well as any relevant literature addressing your organization’s ability to supply the required items. Please also provide a Letter of Authorization from the OEM and a brochure/specification sheet of the product. Note: Questions regarding this notice should be addressed to Nathan Lohr via email only. NO PHONE CALLS WILL BE ACCEPTED REGARDING THIS REQUIREMENT. Please submit all responses to this notice via e-mail to: Nathan Lohr Contract Specialist nathan.lohr@va.gov Responses to this Sources Sought Notice are required by no later than Friday, May 8, 2025, at 4:00 pm (1630) EST.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Nathan Lohr
+  - Email: nathan.lohr@va.gov
+  - Phone: 4126283595
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/17c32a365acf41928f0db2a768dff706/view)

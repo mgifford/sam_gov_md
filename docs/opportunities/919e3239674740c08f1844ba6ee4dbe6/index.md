@@ -1,0 +1,28 @@
+---
+layout: default
+title: Noun_Control Box, Electric_Application_F-15_NSN_1660-01-196-5999_Part_Number_11217-2
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 919e3239674740c08f1844ba6ee4dbe6
+---
+
+# Noun_Control Box, Electric_Application_F-15_NSN_1660-01-196-5999_Part_Number_11217-2
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-04-28 15:03:16.496-04
+- Solicitation Number: FD20302402016
+
+## Summary
+
+THERE IS NO SOLICITATION AVAILABLE AT THIS TIME. REQUESTS FOR A SOLICITATION WILL NOT RECEIVE A RESPONSE. This Sources Sought Synopsis (SSS) is in support of Market Research being conducted by the United States Air Force to identify potential manufacturing sources and to determine if this effort can be competitive or a Small Business Set-Aside. This is not a Request for Proposal (or solicitation) or an indication that a contractual commitment will exist for this requirement. The government does not intend to award a contract on the basis of this market research. No funds are available to fund the information solicited. The 422nd Supply Chain Management Squadron located at Tinker Air Force Base is requesting information, pursuant to FAR PART 10, in support of Market Research to identify potential sources for the manufacture of the NSN(s) listed below. The government does not have the associated technical data to provide to potential sources. Qualification requirements exist and can be located in www.sam.gov. A Source Approval Request (SAR) package must be submitted for approval determination to the Oklahoma City Small Business Office. Consequently, potential sources for this effort are companies who have a licensing agreement with the Data Rights Holder or Original Equipment Manufacturer. The company must have manufactured the Subject or Similar item within the past 36 months for the Original Equipment Manufacturer or Department of Defense and intends to produce Subject item to the Subject technical data. The proposed North American Industry Classification Systems (NAICS) Code is 336413, which has a corresponding Size Standard of 1,250 employees. The Government is interested in all businesses to include, Large Business, Small Business, Small Disadvantaged Businesses 8(a)s, Service-Disabled Veteran-Owned Small Businesses, Hubzone Businesses, and Women-Owned Small Businesses. The government requests that interested parties respond to this notice if applicable and identify your small business status to the identified NAICS code. Additionally, please provide any anticipated teaming arrangements, along with a description of similar services offered to the Government and to commercial customers for the past three years. Any responses involving teaming agreements should delineate between the work that will be accomplished by the prime, and the work accomplished by the teaming partners. The contractor shall be capable of furnishing all required labor, material, facilities and equipment to accomplish manufacture, test, preservation and packaging, and return to the government a completely serviceable unit. Contractor will be responsible for supply chain management, logistics, forecasting of parts, long-lead parts procurement, reparable forecasting, obsolescence issues and delivery of serviceable assets. The government requests that interested parties respond to this notice in writing including details of your ability to either provide a copy of the OEM’s manufacturing data (including disassembly, repair, test and an illustrated parts breakdown including part numbers) or an OEM licensee agreement certifying your business is approved by the OEM to manufacture this equipment. The specific requirement for this effort is found in the table below. The item is a Control Box, Electric for the F-15 aircraft. Part Number NSN Estimated Requirement AMC/AMSC 11217-2 1660011965999 21 ea 3P PURCHASE REQUEST NUMBER FD2030-24-02016 The work specified in this SSS does not have any associated technical data available for distribution. Potential sources for this effort shall be companies who have a current license or agreement with the OEM to complete the work described in this SSS. Companies interested in performing the work specified, and have met the requirements stated above, should submit this information (i.e. license or agreement information) to the requirements workflow at the following address. Please include the PR number in the subject line of the request to ensure the action is routed to the responsible organization. Please e-mail your response advising if the requirements stated above can be met to the following address: 430scms.afmc.rfiresponses@us.af.mil. This SSS is issued solely for informational and planning purposes. No funds are available to fund the information requested. The information in this notice is current as of the publication date but is subject to change and is not binding to the Government. Oral submissions of information are not acceptable. Submit the following information also: Company Name and Address Cage Code DUNs Number Company business size by NAIC code Small Business Type (s), if applicable Point of Contact for questions and/or clarification Telephone Number, fax number, and email address Web Page URL Teaming Partners (if applicable) OEM License/Agreement/Manual Provide any recommendations and/or concerns. Responses and/or questions to this synopsis will be posted through FBO.
+
+## Contacts
+
+- Primary Contact:
+  - Name: 430 SCMS
+  - Email: 430scms.afmc.rfiresponses@us.af.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/919e3239674740c08f1844ba6ee4dbe6/view)

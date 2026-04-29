@@ -1,0 +1,32 @@
+---
+layout: default
+title: Training and migration of data into existing LORENZ docuBridge license agreement
+agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+notice_type: Presolicitation
+notice_id: 1e5ae928cc204db0924005f29a71a708
+---
+
+# Training and migration of data into existing LORENZ docuBridge license agreement
+
+- Agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+- Type: Presolicitation
+- Posted: 2026-04-28 15:54:03.616-04
+- Solicitation Number: PCA-NIAID-04840
+
+## Summary
+
+Pre-Solicitation Notice – Notice of Intent to award on a Sole Source Basis Title: Notice of Intent to Award a Sole Source for training and migration of data into an existing LORENZ docuBridge license agreement Notice Number: PCA-NIAID-04840 Agency: Department of Health and Human Services, National Institutes of Health (NIH), National Institute of Allergy and Infectious Diseases (NIAID) Contracting Office: HHS – Office of Mission Acquisition Solutions Product Service Code (PSC): OC code L069 / PCS Code 18 (Technical Representative Training – training aids and devices) NAICS Code: 513210 (Software Publishers) Place of Performance: NIH/NIAID, 5601 Fishers Lane, Room 5G70, Rockville, MD 20852 Set Aside: Not Applicable (Sole Source) Response Date: 05/04/2026 1:00 PM MST Description This is a Notice of Intent to negotiate on a sole source basis for a firm-fixed-price purchase order to LORENZ International LLC, 1515 Market Street, Suite 1200, Philadelphia, PA 19102 NIH/NIAID has a requirement for a one-time service to import data and provide associated training to the Biomedical Advanced Research and Development Authority (BARDA) federal agency team to migrate into the existing NIAID-owned LORENZ docuBridge software and license agreement. Requirement Details: The Biomedical Advanced Research and Development Authority (BARDA) has a bona-fide need to use NIAID’s Software-as-a-Service (SaaS) services for NIAID’s LORENZ docuBridge system to facilitate and support BARDA’s lifecycle management of all BARDA-sponsored regulatory application submissions to the U.S. Food and Drug Administration (FDA). NIAID provides and supports software and information technology (IT) infrastructure resources for Institutes and Centers across the NIH and other Department of Health and Human Services Operating/Staff Divisions. NIAID offers SaaS using NIAID’s resources, including application hosting, database, storage, backups, and related services. NIAID’s electronic Common Technical Document (eCTD) LORENZ docuBridge system is built using commercial off-the-shelf software provided by LORENZ Life Sciences Group. If this request is not approved, BARDA will not be able to fulfill its responsibility to submit regulatory filings to the FDA. BARDA will need to duplicate the cost and effort of establishing its own eCTD software. The migration period will begin immediately upon submission of the award and must be completed no later than September 29, 2026. Justification for Sole Source: LORENZ is the manufacturer of the docuBridge software and user license, and the only source capable of providing the required services for the following reasons: Proprietary Technology: The docuBridge software is a proprietary program owned and developed exclusively by LORENZ. docuBridge is an eCTD (electronic common technical document) publishing tool that has been specifically approved by HHS for use as the standard format for submission of pharmaceutical applications to regulatory agencies like the U.S. Food and Drug Administration (FDA). No other vendor is licensed to sell, distribute, or provide mandatory software upgrades for this system, nor are they able to perform the migration of data and training as associated with this proprietary software. Continuity of Service and Patient Data: The existing LORENZ docuBridge software was purchased by NIAID several years ago and provides and supports software and IT infrastructure resources for Institutes and Centers across NIH and other Department of Health and Human Services Operating/Staff Divisions, including the NIH Clinical Center. Allowing BARDA to access the existing system supported by NIAID will facilitate and support all BARDA-sponsored regulatory application submissions to the FDA. In order to gain access to the NIAID docuBridge system, LORENZ must be the facilitator to import data and train on the existing system. Avoidance of Unacceptable Risk and Cost: If this request is not approved, BARDA will not be able to fulfill its responsibility to submit regulatory filings to the FDA. BARDA will need to duplicate the cost and effort of establishing its own eCTD software. Continued service with the incumbent provider is the only method to avoid these risks and share in the cost, therefore avoiding unnecessary government expense. This is a Notice of Intent, not a request for quotation (RFQ). A solicitation document will not be issued, and quotations will not be requested. This notice is not a request for competitive quotes. However, all responsible sources who believe they can meet the requirement as stated herein may submit a capability statement, proposal, or quotation which shall be considered by the agency. A determination by the Government not to compete this proposed contract action based upon responses to this notice is solely within the discretion of the Government. Submission Instructions: Interested parties must identify their interest and capability to respond to this requirement by the response date. All responses should be submitted electronically to the primary point of contact listed below. The response should include sufficient technical information to allow for a Government review and determination of capability. Primary Point of Contact: Dana Monroe Contract Specialist Office of Mission Acquisition Solutions (OMAS) Office of Acquisitions (OA) | Assistant Secretary for Financial Resources (ASFR) U.S. Department of Health and Human Services dana.monroe@hhs.gov 12.201-1, Simplified procedures
+
+12.205 Solicitation provisions and contract clauses. 41 USC 1901: Simplified acquisition procedures 52.212-1, Instructions to Offerors—Commercial Products and Commercial Services
+
+17.203 Solicitation provisions and contract clauses.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Dana Monroe
+  - Email: dana.monroe@hhs.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1e5ae928cc204db0924005f29a71a708/view)
