@@ -1,0 +1,31 @@
+---
+layout: default
+title: Mobile Crane
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 06abeb9985ca4174898d212087b94191
+---
+
+# Mobile Crane
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-04-29 15:51:50.256-04
+- Solicitation Number: Mobile_Crane
+
+## Summary
+
+See attached. DISCLAIMER THIS REQUEST FOR INFORMATION IS FOR INFORMATIONAL PURPOSES ONLY. THIS IS NOT A REQUEST FOR PROPOSAL (RFP) TO BE SUBMITTED. IT DOES NOT CONSTITUTE A SOLICITATION AND SHALL NOT BE CONSTRUED AS A COMMITMENT BY THE GOVERNMENT. RESPONSES IN ANY FORM ARE NOT OFFERS AND THE GOVERNMENT IS UNDER NO OBLIGATION TO AWARD A CONTRACT AS A RESULT OF THIS ANNOUNCEMENT. NO FUNDS ARE AVAILABLE TO PAY FOR PREPARATION OF RESPONSES TO THIS ANNOUNCEMENT. ANY INFORMATION SUBMITTED BY RESPONDENTS TO THIS TECHNICAL DESCRIPTION IS STRICTLY VOLUNTARY.
+
+## Contacts
+
+- Primary Contact:
+  - Name: James Harris
+  - Email: james.t.harris208.civ@army.mil
+- Secondary Contact:
+  - Name: Ricky Saunders
+  - Email: ricky.saunders.civ@army.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/06abeb9985ca4174898d212087b94191/view)

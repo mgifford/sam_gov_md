@@ -1,0 +1,35 @@
+---
+layout: default
+title: Rehab Power and Cooling Systems, Pinnalces NP
+agency: INTERIOR, DEPARTMENT OF THE
+notice_type: Solicitation
+notice_id: 11cd9ef60cb5434789ba4476d61e3843
+---
+
+# Rehab Power and Cooling Systems, Pinnalces NP
+
+- Agency: INTERIOR, DEPARTMENT OF THE
+- Type: Solicitation
+- Posted: 2026-04-29 18:43:18.452-04
+- Solicitation Number: 140P8426R0002
+
+## Summary
+
+This is a solicitation as a Request for Proposals (RFP) for the National Park Service (NPS) at Pinnacles National Park (PINN) for a contractor to replace the existing photovoltaic system and rehabilitate the cooling systems at the maintenance and Park housing area. Refer to ALL attachments herein comprising a complete solicitation package. Instructions for what to include in proposal are in Section L, and Evaluation Factors are in Section M of Attachment no. 1, Terms-Clauses-Provisions. SITE VISIT. The organized site visit was initially scheduled for May 5, 2026 at 11am (PT) at Pinnacles National Park, as announced in the pre-solicitation notice. The date has changed because of when this solicitation is being made available in SAM, later than planned. THE SITE VISIT WILL OCCUR ON MAY 14, 2026, 1pm (PT), at same location and directions as described in solicitation Attachment 1, Section L, 52.236-2. PROJECT SCHEDULE. The government anticipates work starting August or September 2026 and being completed February or March 2027 (approx. 6 to 7 months). SMALL BUSINESS SET-ASIDE. This acquisition is a Total Small Business Set-Aside. Offers are solicited only from small business concerns. Offers received from concerns that are not small business concerns shall not be considered. The North American Industry Classification System (NAICS) Code for this requirement is 238210, Electrical Contractors and Other Wiring Installation Contractors, with a corresponding size standard of $19 million in annual gross receipts for the past three years. AFFORDABILITY. The Government seeks offers with a total price between $1,000,000 and $2,000,000. Offerors should not interpret this figure as a ceiling (or as a floor) on offers; rather, this information is provided as a courtesy to prospective offerors. The Government may select an offer for award with a price below, at, or exceeding this figure if it finds that offer provides the best value and funds are available. BEST VALUE PROCUREMENT. The Government intends to award a single, firm-fixed-price contract. Evaluation for award will be made in accordance with the negotiated acquisition procedures outlined in FAR Part 15. Award selection will be made on a Best Value determination made after consideration of price and factors other than price) as listed in Section M of the solicitation. WHERE TO CHECK FOR AMENDMENTS TO SOLICITATION. Prospective offerors must visit SAM.gov periodically to check for amendments and other changes to the solicitation documents; no other notifications will be sent nor will hard copies of the solicitation be mailed or issued. QUESTIONS? All questions shall be submitted in writing, emailed to: Phaedra_Fuller@nps.gov and cc: Noah_Buikema@nps.gov. Email shall contain Solicitation number 140P8426R0002 in the subject line of the email. If questions pertain to technical specification, include the specific citation within the specs for the question asked. If question is about the Plans/Drawings, include the drawing number for the question asked. Any Questions and Answers (Q and A) from the site visit will be posted as an amendment in SAM.gov, so keep watch for that. Any additional questions will be compiled and provided to all offerors as additional amendment(s) in SAM.gov. Final questions are due no later than five (5) days prior to solicitation closing date. The Government reserves the right to cancel this solicitation.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Fuller, Phaedra
+  - Email: Phaedra_Fuller@ios.doi.gov
+  - Phone: 360-461-1827
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: . 1, Terms-Clauses-Provisions. SITE VISIT. The organized site visit was initially scheduled for May 5, 2026 at 11am (PT) at Pinnacles National Park, as announced in the pre-solicitation notice. The date has changed because of when this solicitation is being made available in SAM, later than planned. THE SITE VISIT WILL OCCUR ON MAY 14, 2026, 1pm (PT), at same location and directions as described in solicitation Attachment 1, Section L, 52.236-2. PROJECT SCHEDULE. The government anticipates work starting August or September 2026 and being completed February or March 2027 (approx. 6 to 7 months). SMALL BUSINESS SET-ASIDE. This acquisition is a Total Small Business Set-Aside. Offers are solicited only from small business concerns. Offers received from concerns that are not small business concerns shall not be considered. The North American Industry Classification System (NAICS) Code for this requirement is 238210, Electrical Contractors and Other Wiring Installation Contractors, with a corresponding size standard of $19 million in annual gross receipts for the past three years. AFFORDABILITY. The Government seeks offers with a total price between $1,000,000 and $2,000,000. Offerors should not interpret this figure as a ceiling (or as a floor) on offers; rather, this information is provided as a courtesy to prospective offerors. The Government may select an offer for award with a price below, at, or exceeding this figure if it finds that offer provides the best value and funds are available. BEST VALUE PROCUREMENT. The Government intends to award a single, firm-fixed-price contract. Evaluation for award will be made in accordance with the negotiated acquisition procedures outlined in FAR Part 15. Award selection will be made on a Best Value determination made after consideration of price and factors other than price) as listed in Section M of the solicitation. WHERE TO CHECK FOR AMENDMENTS TO SOLICITATION. Prospective offerors must visit SAM.gov periodically to check for amendments and other changes to the solicitation documents; no other notifications will be sent nor will hard copies of the solicitation be mailed or issued. QUESTIONS? All questions shall be submitted in writing, emailed to: Phaedra_Fuller@nps.gov and cc: Noah_Buikema@nps.gov. Email shall contain Solicitation number 140P8426R0002 in the subject line of the email. If questions pertain to technical specification, include the specific citation within the specs for the question asked. If question is about the Plans/Drawings, include the drawing number for the question asked. Any Questions and Answers (Q and A) from the site visit will be posted as an amendment in SAM.gov, so keep watch for that. Any additional questions will be compiled and provided to all offerors as additional amendment(s) in SAM.gov. Final questions are due no later than five (5) days prior to solicitation closing date. The Government reserves the right to cancel this solicitation
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/11cd9ef60cb5434789ba4476d61e3843/view)

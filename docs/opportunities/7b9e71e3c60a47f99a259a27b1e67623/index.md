@@ -1,0 +1,37 @@
+---
+layout: default
+title: X1DB--RFI Response and document corrections
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Combined Synopsis/Solicitation
+notice_id: 7b9e71e3c60a47f99a259a27b1e67623
+---
+
+# X1DB--RFI Response and document corrections
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-04-29 09:38:29.051-04
+- Solicitation Number: 36C25026R0006
+- Awardee: null
+
+## Summary
+
+Department of Veterans Affairs AMENDMENT TO REQUEST FOR LEASE PROPOSAL (RLP) RLP No. 36C25026R0006 Amendment No. 0001 Effective Date Page of Issued By Department of Veterans Affairs Network Contracting Office 10 8888 Keystone Crossing Suite 325 Indianapolis, IN 46240 Description of Amendment RLP# 36C25026R0006 Amendment No. 0001 is hereby issued for the purpose of: (a) responding to Requests for Information (RFIs) submitted by interested Parties up through April 28,2026; (b) Exhibit G GSA 3517B- is hereby deleted in its entirety, and the revised updated Exhibit G- GSA 3517B is amended into RLP 36C25026R0006, as required under recent governing authorities; and (c) issues an amended RLP 36C25026R0006 correcting the response date recital; and amending scrivener s errors by the VA. Except as provided herein, all terms and conditions of the document referenced in Item 1, as heretofore changed, remains unchanged and in full force and effect. Name and Title of Signer Name and Title of Contracting Officer Kevin Adkins Lease Contracting Officer Offeror Date Signed United States of America Date Signed VA RFI RESPONSE THRU April 28, 2026 RFI #1: Can you verify the current due date? May 22nd and May 28th are listed in a few locations within the sam.gov/related RLP documents. VA Response: The RLP due date is May 28,2026. Please refer to the updated RLP attached to this amendment as it will serve as the RLP document going forward. RFI #2: Please confirm that the correct solicitation number(s) and exhibits are being noted on page 20, under Factor 1 Building, Architectural and Design Concept. VA Response: The RLP document has been revised to reflect the correct RLP and Exhibit reference. The revised RLP is attached to this amendment. RFI #3: Would the Government consider extending the Past Performance recency requirement from three (3) years to ten (10) years, or alternatively allowing the inclusion of highly relevant projects outside the three (3) year window for consideration? As currently written in Factor 4 Submission Instructions (Page 23), Projects must have been completed during the past three (3) years by the offering entity. For specialized healthcare development and construction projects such as VA Community-Based Outpatient Clinics project delivery timelines often span multiple years from design through completion. Expanding the recency window, or allowing consideration of older but highly relevant projects, would enhance the Government s ability to evaluate experience on comparable medical facilities and reduce performance risk by ensuring that offerors can demonstrate meaningful, directly relevant past performance. VA Response: The Government will retain the three-year recency requirement as written and does not intend to amend the RLP. However, all offerors are encouraged to submit all relevant past performance information they believe appropriately represents their capabilities, consistent with the holistic review structure already established under Factor 4. As stated in the RLP, in cases where recent past performance is limited or unavailable, an offeror: may not be evaluated favorably or unfavorably This allows the Government to consider past performance in context, without penalizing offerors lacking projects completed within the past three years. These clarifications are issued for all interested offerors and do not amend the terms of the solicitation. See attached document: 36C25026R0006. See attached document: Exhibit G-36C25026R0006 3517 B General Clauses April 2026.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Brian Walton
+  - Title: Lease Contracting Officer
+  - Email: Brian.Walton@va.gov
+  - Phone: (216) 447-8300 x49519
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: GSA 3517B- is hereby deleted in its entirety, and the revised updated Exhibit G- GSA 3517B is amended into RLP 36C25026R0006, as required under recent governing authorities; and (c) issues an amended RLP 36C25026R0006 correcting the response date recital; and amending scrivener s errors by the VA. Except as provided herein, all terms and conditions of the document referenced in Item 1, as heretofore changed, remains unchanged and in full force and effect. Name and Title of Signer Name and Title of Contracting Officer Kevin Adkins Lease Contracting Officer Offeror Date Signed United States of America Date Signed VA RFI RESPONSE THRU April 28, 2026 RFI #1: Can you verify the current due date? May 22nd and May 28th are listed in a few locations within the sam.gov/related RLP documents. VA Response: The RLP due date is May 28,2026. Please refer to the updated RLP attached to this amendment as it will serve as the RLP document going forward. RFI #2: Please confirm that the correct solicitation number(s) and exhibits are being noted on page 20, under Factor 1 Building, Architectural and Design Concept. VA Response: The RLP document has been revised to reflect the correct RLP and Exhibit reference. The revised RLP is attached to this amendment. RFI #3: Would the Government consider extending the Past Performance recency requirement from three (3) years to ten (10) years, or alternatively allowing the inclusion of highly relevant projects outside the three (3) year window for consideration? As currently written in Factor 4 Submission Instructions (Page 23), Projects must have been completed during the past three (3) years by the offering entity. For specialized healthcare development and construction projects such as VA Community-Based Outpatient Clinics project delivery timelines often span multiple years from design through completion. Expanding the recency window, or allowing consideration of older but highly relevant projects, would enhance the Government s ability to evaluate experience on comparable medical facilities and reduce performance risk by ensuring that offerors can demonstrate meaningful, directly relevant past performance. VA Response: The Government will retain the three-year recency requirement as written and does not intend to amend the RLP. However, all offerors are encouraged to submit all relevant past performance information they believe appropriately represents their capabilities, consistent with the holistic review structure already established under Factor 4. As stated in the RLP, in cases where recent past performance is limited or unavailable, an offeror: may not be evaluated favorably or unfavorably This allows the Government to consider past performance in context, without penalizing offerors lacking projects completed within the past three years. These clarifications are issued for all interested offerors and do not amend the terms of the solicitation. See attached document: 36C25026R0006. See attached document: Exhibit G-36C25026R0006 3517 B General Clauses April 2026
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7b9e71e3c60a47f99a259a27b1e67623/view)

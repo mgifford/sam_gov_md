@@ -1,0 +1,31 @@
+---
+layout: default
+title: J--HAUL OUT/REFURBISH CAPTAIN GEORGE VESSEL
+agency: INTERIOR, DEPARTMENT OF THE
+notice_type: Award Notice
+notice_id: 72151ee338ae4fd3ad2eb6954f0bfd35
+---
+
+# J--HAUL OUT/REFURBISH CAPTAIN GEORGE VESSEL
+
+- Agency: INTERIOR, DEPARTMENT OF THE
+- Type: Award Notice
+- Posted: 2026-04-29 10:45:14.44-04
+- Solicitation Number: 140P5226Q0011
+- Awardee: SIGNET MARITIME CORPORATION 3802 PORT RIVER RD Pascagoula MS 39567 USA
+- Award Amount: 57926.54
+
+## Summary
+
+CYCLIC HAUL-OUT/REFURBISH M/V CAPTAIN GEORGE; VIN SAMA1820D707. PREVIOUS HAUL-OUT COMPLETED IN 2023. 54FT SEAARK MDL 4614-B TRANSPORTER OWNED AND OPERATED BY THE NATIONAL PARK SERVICE. MARINE VESSEL IS EQUIPPED WITH TWO (2) JOHN DEERE 6 CYLINDER DIESEL ENGINES MODEL 6081
+
+## Contacts
+
+- Primary Contact:
+  - Name: Ward, Evans
+  - Email: Andre_Ward@nps.gov
+  - Phone: 8502324630
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/72151ee338ae4fd3ad2eb6954f0bfd35/view)

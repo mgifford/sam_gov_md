@@ -1,0 +1,37 @@
+---
+layout: default
+title: 6515--36C26126Q0677 | SURGICAL TABLE | SF
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: 20a670343a5649c7b09d73bf5b5a1170
+---
+
+# 6515--36C26126Q0677 | SURGICAL TABLE | SF
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-04-29 18:32:29.453-04
+- Solicitation Number: 36C26126Q0677
+- Awardee: null
+
+## Summary
+
+In accordance with Federal Acquisition Regulation (FAR) 10.002(b)(2), this Sources Sought Notice is for market research and informational purposes only at this time and shall not be construed as a solicitation or as an obligation on the part of the Department of Veterans Affairs (VA). This notice serves to survey the market to ascertain whether-or-not sources are capable of providing the requested supplies/services. The Department of Veterans Affairs, Veterans Health Administration, Network Contracting Office (NCO) 21 is seeking sources for the following procurement: 36C26126Q0677 | SURGICAL TABLE for the VA San Francisco Health Care System (VASFHCS). Please see attached draft Statement of Work (SOW) for the description and quantities for this sources sought notice. This notice allows potential contractors/vendors to submit a non-binding statement of interest and documentation demonstrating their capability. This Sources Sought is to gain knowledge of potential qualified sources and their size classification(s) (Service Disabled/Veteran Owned Small Business (SD/VOSB), Hub zone, 8(a), small, small disadvantaged, woman owned small business, or large business) relative to North American Industry Classification System (NAICS) code 339113 Hospital furniture, specialized (e.g., hospital beds, operating room furniture) with a size standard of 800 employees. The proposed contract will be a Firm Fixed Price contract. The Veterans Administration seeks sources who would be interested in submitting an offer in response to a future solicitation for the following supplies. This is a SOURCES SOUGHT ANNOUNCEMENT ONLY. It is neither a solicitation announcement nor a request for proposals or quotes and does not obligate the Government to award a contract. Requests for a solicitation in response to this Sources Sought announcement will not receive a response. Responses to this Sources Sought announcement must be in writing. The purpose of this Sources Sought announcement is for market research. Responses to this notice shall include the following: (a) Company name (b) Address (c) Point of contact (d) Phone, fax, and email (e) SAM Unique Entity ID (f) Cage Code (g) Tax ID Number (h) Type of small business, e.g. Services Disabled Veteran Owned small Business, Veteran-owned small business, 8(a), HUBZone, Women Owned Small Business, Small disadvantaged business, or Small Business HUBZone business. (i) Contract number(s) of any current active GSA, NAC, GWAC or any other Federal Supply Schedule IDIQ contract(s) held from which all the supplies listed below may be ordered by the VA. (j) Country of origin where the product is manufactured. (if applicable). (k) If you are not the manufacturer of the requested product, do you have an Authorized Distributorship Letter issued from the manufacturer (If so, please provide the letter in your response.) (l) What is the material order lead time for the supplies? (m) For each supply item, the VA requires the name of the country where the product is manufactured in. Important information: the Government is not obligated to nor will it pay for or reimburse any costs associated with responding to this sources sought request announcement. This notice shall not be construed as a commitment by the Government to issue a solicitation or ultimately award a contract, nor does it restrict the Government to a particular acquisition approach. The Government will in no way be bound to this information if any solicitation is issued. The VA is mandated by Public Law 109-461 to consider a total set-aside for Service Disabled Veteran Owned Small Business set aside. However, if response by Service Disabled Veteran Owned Small Business firms proves inadequate, an alternate set-aside or full and open competition may be determined. No sub-contracting opportunity is anticipated. The North American Classification System (NAICS) code for this acquisition is 339113 Hospital furniture, specialized (e.g., hospital beds, operating room furniture). Notice to potential offerors: all offerors who provide goods or services to the United States Federal Government must be registered in the System for Award Management (SAM) at www.sam.gov. Additionally, all Service Disabled Veteran Owned Businesses or Veteran Owned Businesses who respond to a solicitation on this project must be registered with the U. S. Small Business Administration Veteran Small Business Certification (VetCert) Registry located at http://veterans.certify.sba.gov. All interested offerors should submit information by e-mail to david.rovner@va.gov. All information submissions to be marked Attn: David Rovner, Contract Specialist and should be received no later than 12:00 PM Pacific Time on May 06, 2026. The VA Sierra Nevada Health Care System, San Francisco VA Medical Center in San Francisco, California seeks a potential qualified contractor who can provide one (1) Steris 5095 Surgical Table part number # ST015211002 or equal and accessory equipment as listed below. Brand Name or Equal to Steris 5095 Surgical Table part # ST015211002 as listed below. Brand Name or Equal Item: Steris 5095 Surgical Table Essential/significant physical, functional, or performance characteristics. Compatibility Surgical Table must have: Must accommodate every surgical specialty 1,200 lb. (544 kg) patient support, including raise/lower (when centered on the column in Normal Orientation) 900 lb. (408 kg) full table articulation (when centered on the column in Normal Orientation) 600 lb. (272 kg) full table articulation, including slide Robust casters have ultra smooth bearings for easy movement 4-section motorized table top with powered radiolucent kidney elevator Flush side rails Integrated manual override system Conductive heat transfer Compact design Intelligent controller with LCD, dedicated colored buttons, backlit screen and auto-collision sensors Dual articulating headrest Table Length 81 (2,057 mm) Table Width 20 (508 mm) (28 with extenders) Table Height Range 22.8 to 42.5 (581 to 1080 mm) Tabletop Slide Range 9 (227 mm) to head, 9 to foot Trendelenburg / Reverse 30° / 30° Lateral Tilt (left/right) 20° / 20° Head Section +90° to -90° (15° increments) Back Section +82° to -40° (reverse) Leg Section 0° to -105° Flex/Reflex 140° / 98° Kidney Elevator 4" (102 mm) powered 2) Complete generic identification Surgical Table 3) Applicable model/make/catalog number 5095, ST015221022 4) Manufacturer name Steris ITEM NUMBER DESCRIPTION OF SUPPLIES/SERVICES QUANTITY UNIT 0001 ST015211002 STERIS STERIS 5095 Surgical Table
+
+1.00 EA 0002 BF069 STERIS ShroudGuard Column Protector for 5000-Series Surgical Tables.
+
+1.00 EA 0003 SE1102500072 Uncrate, Inspect & Start-Up 5095 Table
+
+1.00 EA
+
+## Contacts
+
+- Primary Contact:
+  - Name: David Rovner
+  - Title: Contract Specialist
+  - Email: david.rovner@va.gov
+  - Phone: Contracting Officer
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/20a670343a5649c7b09d73bf5b5a1170/view)

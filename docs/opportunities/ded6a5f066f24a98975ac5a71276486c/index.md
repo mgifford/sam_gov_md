@@ -1,0 +1,33 @@
+---
+layout: default
+title: 7A20--New Award - Venous Care Pathway (VA-25-00104851)
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: ded6a5f066f24a98975ac5a71276486c
+---
+
+# 7A20--New Award - Venous Care Pathway (VA-25-00104851)
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-04-29 12:18:37.629-04
+- Solicitation Number: 36C10B26Q0053
+- Awardee: null
+
+## Summary
+
+Sources Sought Notice Sources Sought Notice Page 3 of 3 Sources Sought Notice *= Required Field Sources Sought Notice Page 1 of 3 SUBJECT* Venous Care Pathway GENERAL INFORMATION CONTRACTING OFFICE S ZIP CODE* 07724 SOLICITATION NUMBER* 36C10B26Q0053 RESPONSE DATE/TIME/ZONE 11-14-2025 10AM EASTERN TIME, NEW YORK, USA ARCHIVE 30 DAYS AFTER THE RESPONSE DATE PRODUCT SERVICE CODE* 7A20 NAICS CODE* 541519 CONTRACTING OFFICE ADDRESS Department of Veterans Affairs Technology Acquisition Center 23 Christopher Way Eatontown NJ 07724 POINT OF CONTACT* Crystal Lomonaco Crystal.lomonaco@va.gov DESCRIPTION Introduction This Request for Information (RFI) is issued for information and planning purposes only and does not constitute a solicitation nor does it restrict the Government as to the ultimate acquisition approach. In accordance with Federal Acquisition Regulation (FAR) 15.201(e), responses to this notice are not offers and cannot be accepted by the Government to form a binding contract. The purpose of this RFI is to identify qualified vendors, who are able to meet Department of Veterans Affairs (VA) requirements for System Integration and Device Testing Support. Any contract/order that might be awarded based on information received or derived from this market research will be the outcome of the competitive process. The purpose of this RFI is to obtain market information on capable sources of supply, industry s best practices, and input specific to the information provided. The Government is not responsible for any cost incurred by industry in furnishing this information. All costs associated with responding to this RFI will be solely at the interested vendor's expense. Not responding to this RFI does not preclude participation in any future Request for Quote (RFQ), if any is issued. Any information submitted by respondents to this RFI is strictly voluntary. All submissions will become Government property and will not be returned. Interested vendors are responsible for adequately marking proprietary, restricted or competition sensitive information contained in their response. Scope The Contractor shall provide a digital health system that fully supports VA National Center for Collaborative Healthcare Innovation (NCCHI) needs to enhance protocols for diagnosis, stratification, referrals, treatment, and post-treatment care of venous disease and comply with Federal Law and VA requirements capable of supporting up to 2000 patients in the VA Palo Alto Healthcare System (VAPAHCS) and Minneapolis VA Health Care System (MVAHCS). The Contractor shall fully implement the system in both VAPAHCS and MVAHCS, including software installation, data migration, testing, deployment and technical support. The Contractor shall also provide training to the VA staff, system maintenance and technical support. This effort aims to standardize care protocols for vascular ulcers, and implement a digital platform for Veterans, care providers, and hospital executives. The platform will provide improved protocols, evidence-based guidance, and enhanced educational resources to ensure effective management and treatment of lower extremity vascular ulcers. RFI Response Instructions NOTE: The capability package must be clear, concise, and complete. VA is under no obligation to provide feedback to the company or to contact the company for clarification of any information submitted in response to this RFI. Provide the following information: Company Information: 1. Company Name 2. CAGE/Unique Entity Identifier (UEI) under which the company is registered in SAM.gov and SBA Veteran Certification (VetCert) 3. Company Address 4. Point of contact 5. Telephone number 6. Email address 7. For small business concerns, indicate whether at least 50 percent of the total amount paid by the Government will be paid to firms that are similarly situated. Brief summary describing your company s technical approach to meeting the requirements, to include: 1. Describe your approach to meeting the scope stated in this RFI. 2. Does the draft PWS overall provide sufficient detail to describe the technical and functional requirements that encompass the requirement? If NO , please provide your technical and functional comments, recommendations and questions on elements of the draft PWS that may contribute to a more accurate proposal submission and efficient, cost-effective effort. 3. Does Section
+
+5.0 Specific Task and Deliverables accurately describe what services are to be provided? If NO , please provide your technical and functional comments, recommendations and questions. 4. Please include a Rough Order Magnitude (ROM) in your response. 5. If your company is a Small Business, also include the following: The intent and ability to meet set-aside requirements for performance of this effort. Information as to proposed team members, the percentage of work each is to perform and which PWS requirements would be subcontracted. All proprietary/company confidential material shall be clearly marked on every page that contains such. Service-Disabled Veteran Owned Small Businesses (SDVOSB) and Veteran Owned Small Businesses (VOSB) must indicate whether at least 50% of the cost incurred would be expended for prime employees or employees of other eligible SDVOSB/VOSB firms. This should also include the prime planned percentage and if under 50%, the names of the potential team members that may be used to fulfill the 50% SDVOSB/VOSB requirement. SDVOSB and/or VOSB s MUST CHECK THE APPROPRIATE BOX BELOW: At least 50% of the cost incurred would be expended for SDVOSB/VOSB prime employees or employees of other eligible SDVOSB/VOSB firms. YES NO Responses to this RFI shall be submitted electronically no later than 10:00 AM Eastern Standard Time on November 14, 2025 via email. Contract Specialist: Crystal Lomonaco, crystal.lomonaco@va.gov See attached document: Performance Work Statement Venous Care Pathway DRAFT
+
+## Contacts
+
+- Primary Contact:
+  - Name: Crystal Lomonaco
+  - Title: Contract Specialist
+  - Email: crystal.lomonaco@va.gov
+  - Phone: 848-377-5101
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ded6a5f066f24a98975ac5a71276486c/view)

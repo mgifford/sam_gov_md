@@ -1,0 +1,32 @@
+---
+layout: default
+title: Five (5) Automated Apheresis Systems for the Robertson Blood Center, Fort Hood, Texas
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 54dd6715d468439c96d6f5a4ee5c9a7c
+---
+
+# Five (5) Automated Apheresis Systems for the Robertson Blood Center, Fort Hood, Texas
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-04-29 10:32:43.891-04
+- Solicitation Number: 0012424616
+
+## Summary
+
+This is a Sources Sought Notice announcement; market survey for information only, to be used for preliminary planning purposes. No proposals are being requested or accepted with this synopsis. THIS IS NOT A SOLICITATION FOR PROPOSALS AND NO CONTRACT SHALL BE AWARDED FROM THIS NOTICE. Any requests for a solicitation in response to this notice will not be honored. The Medical Readiness Contracting Office-West, Fort Hood, TX, has an upcoming requirement to solicit for and award for a Five (5) Automated Apheresis Systems for Carl R. Darnall Army Medical Center, Fort Hood Texas. Basic requirement details are listed below. This request is anticipated to result in a Firm Fixed-Priced contract. The type of solicitation to issue will be based upon the responses to this synopsis. Contact with Government Personnel, other than the Contract Specialist identified at the bottom of this notice, by any potential offeror, or their employees’, regarding this requirement is strictly prohibited. The purpose of this synopsis is to gain knowledge of interest, capabilities and qualifications of various members of the Small Business Community to include Section 8(a), Historically Underutilized Business Zones (HUB-Zone), Women-Owned Small Business, and Service-Disabled Veteran-Owned Small Business (SDVOSB), as well as the interest, capabilities and qualifications of various members of the Large Business community, to compete and perform a Firm Fixed Price Contract for these supplies. The type of solicitation to issue will depend upon the responses to this sources sought synopsis. The Government must ensure there is adequate competition among the potential pool of responsive contractors. The North American Classification System (NAICS) code for this requirement is 339112–Surgical and Medical Instrument Manufacturing. The Small Business Size Standard is 1000 employees. Responses to this Sources Sought Notice should demonstrate the firm’s ability, capability, and responsibility to provide and deliver the products listed below. In response to this notice, interested parties shall submit a written Statement of Capability limited to 3 pages and shall include the following information: •Offeror’s name, address, point of contact, phone number, and e-mail address. •Offeror’s interest in providing a proposal/quote on the solicitation when it is issued. •Offeror’s capability to provide the products being requested. For reference the proposed offeror must meet the government’s salient characteristics: Multi-Component Versatility: The system must be capable of collecting Platelets, Plasma, and Red Blood Cells (RBCs) either individually or concurrently in a single donor procedure. High-Yield Capacity: The system must be validated to perform single, double, and triple platelet unit collections (achieving ? 9.3 \times 10 11 platelets for triple units). Integrated Leukoreduction: The system must achieve leukoreduction automatically during the collection cycle (yielding ? 5.0 \times 106 residual WBCs) without requiring secondary or manual filtration steps. Donor Safety & Flow Management: The system must utilize automated pressure-monitoring technology that automatically throttles draw and return flow rates (up to 150 mL/min) to optimize collection speed while preventing donor vein collapse. Isovolemic Fluid Management: The system must automatically calculate and administer precise saline compensation based on donor biometrics (height, weight, hematocrit) to maintain donor fluid balance. Data Security: The platform must support bi-directional BECS integration and provide documentation (e.g., Software Bill of Materials) supporting compliance with DoD RMF protocols. Offeror’s capability to perform a contract of this magnitude and complexity (include offeror’s capability to provide a Five (5) Automated Apheresis Systems for Carl R. Darnall Army Medical Center, Fort Hood Texas-provide at least three (3) examples. Documentation of appropriate products must be presented in sufficient detail for the Government to determine that your company possesses the necessary means to compete for this acquisition. Offeror’s type of small business and Business Size (Whether 8(a), HUB Zone, Women-Owned Small Business, Service Disabled Veteran Owned Small Business, etc.), or Large Business Status, should be documented in the Statement of Capability. Interested parties are responsible for marking information that is proprietary in nature. No reimbursement will be made for any costs associated with providing information in response to this notice or any follow up information requests. The Government is not obligated to, nor will it, pay for or reimburse any costs associated with responding to this sources sought notice. This notice shall not be construed as a commitment by the Government to issue a solicitation or ultimately award a contract, nor does it restrict the Government to a particular acquisition approach. The Government will in no way be bound to this information if any solicitation is issued. No subcontracting opportunity is anticipated. A determination by the Government to not compete this proposed contract action based on the responses to this notice is solely within the discretion of the Government. Interested Offeror shall respond to this Sources Sought Notice no later than 5 May 2026 at 10:00 A.M Central Daylight Time. All interested businesses must be registered in the System for Award Management (SAM) at https://beta.SAM.gov to be eligible for award of Government contracts. Email your response to Sheryl J. Egans, Contract Specialist: sheryl.j.egans.civ@health.mil. Telephonic inquiries will NOT be honored. EMAIL IS THE ONLY CURRENT METHOD FOR CONTACT.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Sheryl Egans
+  - Email: sheryl.j.egans.civ@health.mil
+  - Phone: 2542878881
+- Secondary Contact:
+  - Name: Joshua Barbero
+  - Email: joshua.p.barbero.civ@health.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/54dd6715d468439c96d6f5a4ee5c9a7c/view)

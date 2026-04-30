@@ -1,0 +1,29 @@
+---
+layout: default
+title: Refuse and Recycling Collection Services, Coyote Valley Dam and Lake Mendocino Ukiah, CA 95482
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 16e82512421e43859766984daf0322f7
+---
+
+# Refuse and Recycling Collection Services, Coyote Valley Dam and Lake Mendocino Ukiah, CA 95482
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-04-29 15:10:47.47-04
+- Solicitation Number: W912P726S0011
+
+## Summary
+
+TITLE: Refuse and Recycling Collection Services, Coyote Valley Dam (CVD) and Lake Mendocino, Ukiah, CA 95482 This is a Sources Sought Synopsis Request for Information RFI. This announcement seeks information from industry, which will be used for preliminary planning purposes. No proposals are being requested or accepted with this synopsis. THIS IS NOT A SOLICITATION FOR PROPOSALS AND NO CONTRACT WILL BE AWARDED FROM THIS RFI. No reimbursements will be made for any costs associated with providing information in response to this synopsis or any follow up information requests. Respondents will not be notified of the results of the evaluation. Responses to this RFI will be used by the Government to make appropriate acquisition planning decisions. The type of set-aside decisions to be issued will depend upon the responses to this sources sought synopsis. The purpose of this RFI is to gain knowledge of interest, capabilities and qualifications of various members of industry, to include the Small Business Community: Small Business, Section 8(a), Historically Underutilized Business Zones (HUB-Zone), Service-Disabled Veteran-Owned Small Business (SDVOSB), and Economically Disadvantaged Women-Owned Small Business. The Government must ensure there is adequate competition among the potential pool of responsible contractors. The U.S. Army Corps of Engineers, San Francisco District is seeking sources for Market Research to support the services below. REQUIREMENT: Project Location: Coyote Valley Dam and Lake Mendocino (Ukiah, CA) NAICS Code: 562111 (Solid Waste Collection) Small Business Size Standard: $47.0 Million Product Service Code is S205 Housekeeping- Trash/Garbage Collection DESCRIPTION: The U.S. Army Corps of Engineers has a recurring requirement for commercial Refuse and Recycling Collection and Disposal Services at the Coyote Valley Dam (CVD) and Lake Mendocino recreation areas located near Ukiah, California. All refuse and recycling collected shall be properly disposed of in accordance with all federal, state, and local regulations. Coyote Valley Dam (CVD) and Lake Mendocino form a reservoir near Ukiah, California that serves flood risk management, water supply, recreation, and environmental stewardship missions. Its recreation areas are managed by the U.S. Army Corps of Engineers (USACE) and offer the public a wide variety of recreational activities such as boating, camping, picnicking, swimming, and hiking. The contractor shall provide all personnel, equipment, materials, and transportation necessary to perform waste management services. Key tasks include, but are not limited to: Container Provision: Furnishing, delivering, and maintaining refuse dumpsters (size is 6 cubic yards, quantity is approximately 19), recycling containers (size is 6 CY, and quantity is approximately 4), and one 20-yard roll-off container. Scheduled Collection: Emptying all containers on a routine schedule that varies between peak (twice a week) and non-peak (once a week) recreation seasons. Transportation and Disposal: Transporting and disposing of all solid waste and recyclable materials in strict accordance with all federal, state, and local laws. Emergency Services: Providing unscheduled, on-call collection services in response to emergencies to ensure public health and safety. A Firm Fixed Price for a base year and four (4) option years are anticipated. This project is planned for advertising around late May 2026. CAPABILITY STATEMENT:/SUBMISSION REQUIREMENTS FOR RESPONSES TO THIS SOURCES SOUGHT NOTICE Response shall include the following. The submission is limited to no more than 5 pages. Offeror's name, address, point of contact, email address, and phone number. Offeror's interest in bidding on the solicitation when issued. CAGE code and UEI number Offeror's type of small business and Business Size (small business, 8(a), HUBZone, veteran owned small business, woman owned small business, or SDVOSB). Offeror's Statement of capability (SOC) - include a statement demonstrating: a. The skills, equipment, and personnel required to perform the specified type of services are available or can become available if the contract is awarded. b. Recent and relevant experience in providing waste management and recycling services. The contractor should submit at least 2 examples from the last 5 years. RESPONSE DUE: All interested contractors should notify this office in writing via email by 10:00 AM Pacific Daylight Time Wednesday, May 20, 2026. Submit response and information: via email to sara.d.kimsey@usace.army.mil. RESULT INFORMATION: Respondents will NOT be notified of the results of the evaluation. Firms responding to this sources sought notice, who fail to provide all the required information requested, will not be used to help by the government to make the acquisition decision, which is the intent of this sources sought announcement. Please include the Sources Sought number in the e-mail subject line W912P726S0011.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Sara Kimsey
+  - Email: sara.d.kimsey@usace.army.mil
+  - Phone: 602-671-5410
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/16e82512421e43859766984daf0322f7/view)
