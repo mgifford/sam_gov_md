@@ -1,0 +1,29 @@
+---
+layout: default
+title: Replacement of 36 HWK03K Hydronic Coil Kits on PTAC Units on the Quarters Barge Taggatz.
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 139c2226e4fc43579b90e51ec90a80b2
+---
+
+# Replacement of 36 HWK03K Hydronic Coil Kits on PTAC Units on the Quarters Barge Taggatz.
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-04-30 11:42:43.737-04
+- Solicitation Number: W912ES26QA047
+
+## Summary
+
+Replacement of 36 HWK03K Hydronic Coil Kits on PTAC Units on the Quarters Barge Taggatz.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Benjamin Knutson
+  - Email: benjamin.t.knutson@usace.army.mil
+  - Phone: 651-290-5418
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/139c2226e4fc43579b90e51ec90a80b2/view)

@@ -1,0 +1,33 @@
+---
+layout: default
+title: Security Camera System w/Installation
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 04d32106cbc54a45968908b8dbf36018
+---
+
+# Security Camera System w/Installation
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-04-30 11:25:00.362-04
+- Solicitation Number: FA485526Q0101
+
+## Summary
+
+Amendment 1 - Issued to post the Government's responses to contractor questions received for this solicitation. The attached "Contractor Questions Answers - 28 Apr 26" is incorporated into the solicitiation. The solicitation closing date and time remain unchanged. All other terms and conditions remain unchanged. This solicitation is for the purchase and installation of a complete video surveillance system at building 848, Cannon Air Force Base, Clovis, NM. The contractor shall provide all labor, materials, equipment, and supervision necessary to furnish and install a fully operational system. The system shall include, at a minimum: One (1) Network Video Recorder (NVR) system with associated components capable of storing a minimum of 30-day video retention. Six (6) 4K dome cameras installed throughout the facility. Two (2) 8MP Fisheye cameras (One at the generator OPS room exterior and one at the door of room 114, OSA entrance. Three (3) 4K multi-head exterior cameras providing full coverage of surrounding areas. One (1) workstation including monitor(s), PoE switches, UPS, and rack-mounted equipment. The contractor shall provide all required infrastructure, including but not limited to Cat6 cabling, conduit, mounting hardware, junction boxes, and any ancillary materials necessary for a complete and functional system. Camera placement and system configuration shall ensure full coverage of designated areas with no blind spots and shall be coordinated with the Government prior to installation. All equipment shall be new, commercially available, and shall meet or exceed the stated requirements (brand name or equal). ***Offerors shall submit a bill of materials identifying manufacturer and model number for all proposed equipment that is being installed*** System Requirements (Revised-Standalone System) The system shall be a standalone video surveillance system and shall not require connection to any Government network. System shall operate on a local, closed network only. The system shall not include or enable Wi-Fi capability, remote access functionality, cloud-based services, or any external data transmission. All video storage and management shall be locally hosted on the NVR system. The system shall not require manufacturer cloud accounts, remote access subscriptions, or external data transmission for full functionality. Security / Access Requirements Contractor personnel will be required to access controlled areas on a Department of the Air Force installation. Contractor personnel shall comply will all installation access, escort, and security requirements. Personnel shall not receive unescorted access unless specifically authorized by the Government. Background check will be required for installation access. Offers shall submit a list of personnel (full name) anticipated to attend the site visit no later than Friday, 3 April at 1400 MDT. Note: Additional personally identifiable information (PII), to include SSN and/or date of birth, required for installation access vetting will be coordinated and submitted through secure Government-approved methods after award or as otherwise directed by the Government. Site Visit A site visit is strongly encouraged to verify existing conditions and system requirements. Date: Thursday, 9 April 2026 Time: 1300 MDT Location: Cannon Air Force Base (Specific meeting location will be provided upon coordination) Failure to attend the site visit will not relieve the contractor from responsibility for accurately estimating the effort, equipment, and products required to perform the work. Submission Requirements All questions must be submitted no later than: Tuesday, 28 April at 1200 MDT All quotes shall be submitted no later than: Friday, 1 May at 1200 MDT Late submissions may not be considered Section 889 Compliance Contractor will comply with FAR 52.204-24 and 42.204-25. The contractor shall not provide any covered telecommunications or video surveillance equipment or services as defined by these provisions.
+
+## Contacts
+
+- Primary Contact:
+  - Name: John Ambrus
+  - Email: john.ambrus.2@us.af.mil
+  - Phone: 575-784-6615
+- Secondary Contact:
+  - Name: Peter Iannuzzo
+  - Email: peter.iannuzzo@us.af.mil
+  - Phone: 5757842815
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/04d32106cbc54a45968908b8dbf36018/view)

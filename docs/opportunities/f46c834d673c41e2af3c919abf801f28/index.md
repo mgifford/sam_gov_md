@@ -1,0 +1,29 @@
+---
+layout: default
+title: FCI Ashland-Replace J&K Unit Windows
+agency: JUSTICE, DEPARTMENT OF
+notice_type: Combined Synopsis/Solicitation
+notice_id: f46c834d673c41e2af3c919abf801f28
+---
+
+# FCI Ashland-Replace J&K Unit Windows
+
+- Agency: JUSTICE, DEPARTMENT OF
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-04-30 11:40:25.042-04
+- Solicitation Number: 15B10226Q00000009
+
+## Summary
+
+Solicitation The Federal Bureau of Prisons (FBOP) is issuing solicitation 15B10226Q00000009 for the award of a firm-fixed-price construction contract for a project entitled Replace J&K Unit Windows at the Federal Correctional Institution Ashland (FCI Ashland), located in Ashland, Kentucky. FCI Ashland is a federally owned facility located at State Route 716, Ashland, KY 41105. The Project will consist of the following: Provision of all labor supervision, materials, equipment, permits, quality control, safety measures, and incidentals necessary to remove and replace 236 window assemblies in Housing Units J and K. The Contractor shall remove the existing window assemblies and furnish and install new heavy commercial aluminum double-hung window systems incorporating pour and debridge urethane thermal barrier technology. Work shall be executed in phases to maintain full building occupancy, continuous operations, weather protection, life safety, and security. The contractor shall coordinate work to minimize disruption to occupants and maintain security and environmental control. The performance period for the project will be 366 Calendar Days from issuance of the notice to proceed. The North American Industrial Classification System (NAICS) code applicable to this requirement is 238150 (Glass and Glazing Contractors) with a corresponding small business size standard of $19 million. The estimated magnitude of this project lies between $100,000 and $250,000. To be considered an interested vendor, you must possess this NAICS code in your www.sam.gov registration. (NOTE: This range is not meant to imply that the project has necessarily been estimated/budgeted to the maximum of the selected range. It merely conveys that the estimate/budget lies somewhere within that range.) The solicitation will be distributed solely through the Contract Opportunity website at https://www.sam.gov. Hard copies of the solicitation will not be made available. The website provides download instructions. The "Sensitive /Secure package Upload" option will be selected for this procurement. All secure/locked documents uploaded, to include the solicitation, will require an active SAM vendor registration to obtain access. In addition, only those vendors who have been issued a valid Marketing Partner Identification Number (MPIN) from www.sam.gov will be granted access. If your firm does not have the NAICS code listed in www.sam.gov required for this solicitation, an email may be forwarded to your firm requesting an explanation as to why your firm should be granted access. If you encounter problems accessing these documents, please contact the Federal Service Desk at 866-606-8220. All future information about this solicitation, including any amendments, will also be distributed solely through this website. Interested parties are responsible for continuously monitoring this website to ensure that they have the most recent information about this proposed contract action. This is a 100 percent small business set-aside. You must be registered in www.sam.gov as a small business for the applicable NAICS code (see FAR provision 52.219-1 in the Representations & Certifications section of your www.sam.gov registration). System updates may lag policy updates. The System for Award Management (SAM) may continue to require entities to complete representations based on provisions that are not included in agency solicitations. IMPORTANT: Any contractor interested in obtaining a contract award with the Federal Bureau of Prisons must be registered in https://www.sam.gov. In order to qualify for award, your business size metrics information entered in your www.sam.gov SAM registration must be less than or equal to the size standard specified above. Each bidder's www.sam.gov registration will be reviewed by the Government to confirm that your business size meets the small business size standard requirement. All bidders are urged to double-check their www.sam.gov registration and update as necessary, including the size metrics information. Examples include: • 52.222-25, Affirmative Action Compliance, and • 52.212-3, Offeror Representations and Certifications—Commercial Products and Commercial Services, paragraph (d). • 52.223-22, Public Disclosure of Greenhouse Gas Emissions and Reduction Goals—Representation, and • paragraph (t) of 52.212-3, Offeror Representations and Certifications—Commercial Products and Commercial Services. Contracting officers will not consider these representations above when making award decisions or enforce requirements. Entities are not required to, nor are they able to, update their entity registration to remove these representations in SAM. Pre-Quotation Conference Site Visit (See Instructions to Offerors): (a) An organized site visit has been scheduled for Wednesday, May 20, 2026, at 9:00 A.M. Local time. (b) Participants will meet at FCI Ashland Admin building, State Route 716, Ashland, KY 41102. Electronic Quotation Submission (See Instructions to Offerors): Email to csmart@bop.gov .
+
+## Contacts
+
+- Primary Contact:
+  - Name: Candi Smart
+  - Email: csmart@bop.gov
+  - Phone: 803-625-5298
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f46c834d673c41e2af3c919abf801f28/view)

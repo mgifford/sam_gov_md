@@ -1,0 +1,29 @@
+---
+layout: default
+title: COOLING COIL 56DWM
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: 2531d5041b244919bd380649c54012f0
+---
+
+# COOLING COIL 56DWM
+
+- Agency: DEPT OF DEFENSE
+- Type: Presolicitation
+- Posted: 2026-04-30 13:19:05.17-04
+- Solicitation Number: N00104-26-R-BT37
+
+## Summary
+
+NSN 7HH 4520 017254100; COOLING COIL 56DWM; QTY 4 EACH;; PLEASE VISIT HTTPS://WWW.NECO.NAVY.MIL TO VIEW THE ENTIRE PRE-SOLICITATION SYNOPSIS OR CONTACT THE LISTED POC FOR MORE INFORMATION.
+
+## Contacts
+
+- Primary Contact:
+  - Name: MIKELYN E. MACKAVAGE, N9433.16, PHONE (564)230-3802, EMAIL MIKELYN.MACKAVAGE@NAVY.MIL
+  - Email: MIKELYN.MACKAVAGE@NAVY.MIL
+  - Phone: 564-230-3802
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2531d5041b244919bd380649c54012f0/view)

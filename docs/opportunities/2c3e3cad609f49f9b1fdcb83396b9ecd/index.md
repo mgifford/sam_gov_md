@@ -1,0 +1,35 @@
+---
+layout: default
+title: 1864th Life Support Camp Navajo June & Aug 2026
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 2c3e3cad609f49f9b1fdcb83396b9ecd
+---
+
+# 1864th Life Support Camp Navajo June & Aug 2026
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-04-30 11:52:28.404-04
+- Solicitation Number: W9124X26QA011
+
+## Summary
+
+Amendment 0001 The purpose of this amendment is to update the PWS and answer questions from industry. 1. The PWS is amended as follows (changes are highlighted in blue on the PWS): a. Para 1.6.2. now reads, "Quality Assurance: The government shall evaluate the contractor’s performance under this contract via daily inspections by the POC. The daily inspections focus on ensuring that the contractor has performed in accordance with the performance standards." b. Para 1.6.3 now reads, "Recognized Holidays: the contractor is expected to perform services on holidays." c. Para 1.6.4 now reads, "Hours of Operation: The contractor is responsible for conducting business, between the hours of 0800-1800 during the period of performance dates except when the Government facility is closed due to local or national emergencies, administrative closings, or similar Government-directed facility closings..." d. Para 7.2 now reads, "Attachment 2/Technical Exhibit 2 – Deliverables Schedule." e. Technical Exhibit 2 now includes delivery of a Quality Control Program (QCP). 2. This is a new requirement. End of Amendment 0001 ------------------------------ 1. The Nevada Army National Guard USPFO Purchasing and Contracting Division on behalf of the 1864th MTC is requesting services in support of their Annual Training at Camp Navajo 14317 Veterans Drive, Bellemont, AZ 86015. a. Please read the "PWS 1864 MTC Life Support Camp Navajo AZ" thoroughly for a complete understanding of 1864th's requirements. b. Required services and equipment include but are not limited to : Six chemical latrines with services approximately every third day. Three hand washing stations with services approximately every third day. 2. The Government will award a contract resulting from this solicitation to the responsible offeror whose quotation conforming to the solicitation will be most advantageous to the Government, price and other factors considered. The following factors shall be used to evaluate quotation: a. Timeliness - the quotation must be received on or before the closing date and time; otherwise, the quotation may not be considered. b. Price. c. Technical - meaning that the government will have reasonable assurance that the proposed facility is fully capable of meeting the requirements of the Performance Work Statement. d. Compliance with the solicitation and PWS requirements - if the quotation does not comply with requirements, the quotation may not be evaluated further and may be considered nonresponsive. e. Past performance is not required, but the government reserves the right to check past performance records and other government agencies if deemed necessary. 3. Award will be made without holding discussions; however, the Government reserves the right to hold discussions if required. 4. Award will be made to the lowest priced offeror quotation that meets the instructions to offerors with a fair and reasonable price. 5. Interested offeror quotations shall be valid for at least 15 days after the solicitation close date. 6. A written notice of award or acceptance of a quotation, mailed or otherwise furnished to the successful offeror within the time for acceptance specified in the quotation, shall result in a binding contract without further action by either party. Before the quotation's specified expiration time, the Government may accept a quotation (or part of an offer), whether or not there are negotiations after its receipt, unless a written notice of withdrawal is received before award. 7. Interested vendors may use the attached "Pricing Sheet" or submit thier company's formatted pricing quote.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Andrew Simbeck
+  - Email: andrew.simbeck.civ@army.mil
+  - Phone: 7758877868
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: /Technical Exhibit 2 – Deliverables Schedule." e. Technical Exhibit 2 now includes delivery of a Quality Control Program (QCP). 2. This is a new requirement. End of Amendment 0001 ------------------------------ 1. The Nevada Army National Guard USPFO Purchasing and Contracting Division on behalf of the 1864th MTC is requesting services in support of their Annual Training at Camp Navajo 14317 Veterans Drive, Bellemont, AZ 86015. a. Please read the "PWS 1864 MTC Life Support Camp Navajo AZ" thoroughly for a complete understanding of 1864th"s requirements. b. Required services and equipment include but are not limited to : Six chemical latrines with services approximately every third day. Three hand washing stations with services approximately every third day. 2. The Government will award a contract resulting from this solicitation to the responsible offeror whose quotation conforming to the solicitation will be most advantageous to the Government, price and other factors considered. The following factors shall be used to evaluate quotation: a. Timeliness - the quotation must be received on or before the closing date and time; otherwise, the quotation may not be considered. b. Price. c. Technical - meaning that the government will have reasonable assurance that the proposed facility is fully capable of meeting the requirements of the Performance Work Statement. d. Compliance with the solicitation and PWS requirements - if the quotation does not comply with requirements, the quotation may not be evaluated further and may be considered nonresponsive. e. Past performance is not required, but the government reserves the right to check past performance records and other government agencies if deemed necessary. 3. Award will be made without holding discussions; however, the Government reserves the right to hold discussions if required. 4. Award will be made to the lowest priced offeror quotation that meets the instructions to offerors with a fair and reasonable price. 5. Interested offeror quotations shall be valid for at least 15 days after the solicitation close date. 6. A written notice of award or acceptance of a quotation, mailed or otherwise furnished to the successful offeror within the time for acceptance specified in the quotation, shall result in a binding contract without further action by either party. Before the quotation"s specified expiration time, the Government may accept a quotation (or part of an offer), whether or not there are negotiations after its receipt, unless a written notice of withdrawal is received before award. 7. Interested vendors may use the attached "Pricing Sheet" or submit thier company"s formatted pricing quote
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2c3e3cad609f49f9b1fdcb83396b9ecd/view)

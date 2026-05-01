@@ -1,0 +1,31 @@
+---
+layout: default
+title: 9905--Replace Marquee Signs - Dayton VA Medical Center
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: 10a61141e22e43c7baf78b16b38afa4e
+---
+
+# 9905--Replace Marquee Signs - Dayton VA Medical Center
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-04-30 14:10:34.054-04
+- Solicitation Number: 36C25026Q0544
+- Awardee: null
+
+## Summary
+
+This is a SOURCES SOUGHT request for informational and planning purposes only and shall not be construed as a solicitation or as an obligation or commitment by the Government at this time. This notice is intended strictly for market research. The purpose of this Sources Sought notice is to determine the interest and capability of businesses to meet the requirements listed below. Description of Requirement: 1. Background: The old marquee signs utilize outdated technology that is failing and making it harder for Veterans to get information as they are entering the VA campus. With the signs being outdated, they are getting harder to update and starting to lose functionality. Installing new and up to date signs will allow for better communication to get to the Veterans as they are entering the VA campus and it will be easier to work on and program, being newer technology. 2. Scope: The complete removal of three (3) existing marquee signs, and the complete installation and programming of three (3) new marquee signs replacing the existing signs at the following locations: One (1) at the Gettysburg entrance One (1) at the South Liscum entrance One (1) in field facing State Route 35 3. Specific Tasks: Complete removal of the three (3) existing marquee signs. Complete installation of three (3) new color LED marquee signs. Signs must be able to display images on it, such as a flag in the background behind the words, or a ribbon of the awareness for that month. New signs must be same size or bigger than old signs. Old Signs (120 wide x 45 tall). Each sign has 120-volt 20-amp circuit going to it. Each sign can be turned off by a breaker and/or switch that is located next to the sign. The new frames/housings for the marquee signs, need to have Dayton VA Medical Center stated on them. Design of the sign must meet VA standards and be approved by VA Engineering Dept. before it can be installed. Design of the sign that the contractor proposes, must be attached to the contractor s submittals for the project. Sign supports going in ground must be properly supported and incased in concrete. The area around the sign must be returned to the way it was, when the project started. Provide maintenance and support during installation and for 1yr following the commission of the marquee signs. Provide programming and testing during installation and for 1yr following the commission of the marquee signs. Two (2) Government owned laptop computers will need to be uploaded with all the software to control all three (3) marquee signs. Programming must have the capability to program all three (3) marquee signs at once or each one separately. Provide licensing and support for equipment during installation and for 1yr following the commission of the marquee signs. Provide all professional services needed to accomplish the above tasks. 4. Performance Monitoring: All work will be inspected by the COR. 5. Security Requirements: Contractor personnel will be required to have VA access badges or be escorted by VA personnel at all times. The C&A requirements do not apply, and a Security Accreditation Package is not required. 6. Government-Furnished Equipment (GFE)/Government-Furnished Information (GFI): None 7. Other Pertinent Information or Special Considerations: All trash must be properly disposed of at end of each workday. Must be able to respond to any issues with the marquee signs by end of the following business day. Must work with COR on scheduling, especially if there is going to be any impediment to the traffic entering or leaving the VA campus. Provide weekly updates via email to COR on progression of the project, or any foreseeable delays. 8. Risk Control: All work will be done in compliance with OHSA standards, plus all other governing regulations associated with them. 9. Place of Performance: 4100 West Third St. Dayton, OH 45428 10. Period of Performance: Work to be completed within 90 days of contract award. 11. Delivery Schedule: All work to be completed during normal business hours, Monday through Friday 0800-1630 except federal holidays. The associated North American Industry Classification System (NAICS) Code is 339950 Sign Manufacturing, and the Business Size Standard is 500 Employees. The associated Product Service Code is 9905 Signs, Advertising Displays, and Identification Plates. Requested Information: To aid acquisition planning, contractors that are interested and capable of meeting this requirement are asked to provide a response via the email address listed below. Please provide at minimum the following information in your response: (1) Business name and address (2) Point of contact name, phone number and e-mail address (3) SAM Unique Entity ID (UEI) (4) Socio-economic status (5) Any relevant past performance information Additional information: All contractors must be registered with the System for Award Management (SAM) at https://sam.gov. Any contractor that believes they are capable and desires to claim preference for small business status must be registered with the SBA and meet the requirements of FAR 19.103. Any contractor that believes they are capable and desires to claim preference for SDVOSB or VOSB status must be registered with the SBA Veteran Small Business Certification Program. Responses due to the Contracting Officer, Jeffrey Rozema, by Thursday, May 14, 2026, at 5:00 PM Eastern Time. Please e-mail all responses to jeffrey.rozema@va.gov.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Jeffrey Rozema
+  - Title: Contracting Officer
+  - Email: jeffrey.rozema@va.gov
+  - Phone: 269-966-5600
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/10a61141e22e43c7baf78b16b38afa4e/view)

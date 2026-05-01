@@ -1,0 +1,29 @@
+---
+layout: default
+title: N0038326QH059 (NSN: 1650011435655)
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 79b4a96aa72a4c479c7f68c2b737b8a2
+---
+
+# N0038326QH059 (NSN: 1650011435655)
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-04-30 08:11:15.241-04
+- Solicitation Number: N0038326QH059
+
+## Summary
+
+Case: KU-P-GHY Cage: C59211 NSN: 1650011435655 Nomenclature: VALVE ASSEMBLY,FAIL PN: 287870-1001 RMC: 3C Mark for MAPAC: DKUA00 SUPPAD: DA5GHY 0001AA - PKUAE41340087R - SN: 5671 0001AB - PKUAE43122163R - SN: 525 0001AC - PKUAE43155005R - SN: 563 0001AD - PKUAE43191022R - SN: 5630 0001AE - PKUAE43191023R - SN: 5218
+
+## Contacts
+
+- Primary Contact:
+  - Name: JEREMY P. BARNEY, N722.10, EMAIL JEREMY.P.BARNEY.CIV@US.NAVY.MIL
+  - Email: JEREMY.P.BARNEY.CIV@US.NAVY.MIL
+  - Phone: 7712290384
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/79b4a96aa72a4c479c7f68c2b737b8a2/view)

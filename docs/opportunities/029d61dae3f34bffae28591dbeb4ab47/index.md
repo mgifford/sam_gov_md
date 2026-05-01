@@ -1,0 +1,29 @@
+---
+layout: default
+title: Norfolk Harbor and Channel to Newport News Maintenance Dredging located in Hampton Roads, Virginia
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 029d61dae3f34bffae28591dbeb4ab47
+---
+
+# Norfolk Harbor and Channel to Newport News Maintenance Dredging located in Hampton Roads, Virginia
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-04-30 13:46:24.473-04
+- Solicitation Number: W9123626SA003
+
+## Summary
+
+THIS IS A SOURCES SOUGHT NOTICE ONLY. THIS IS NOT A REQUEST FOR PROPOSALS. THERE WILL NOT BE A SOLICITATION, SPECIFICATIONS, NOR DRAWINGS AVAILABLE AT THIS TIME. The U.S. Army Corps of Engineers – Norfolk District is anticipating a future procurement for a firm-fixed-price construction contract for the Norfolk Harbor and Channel to Newport News Maintenance Dredging Project, Hampton Roads, Virginia. Description of Work: The United States Army Corps of Engineers, Norfolk District, is seeking eligible firms capable of performing maintenance dredging at Norfolk Harbor, Hampton Roads, Virginia. The work consists of dredging approximately 600,000 cubic yards of maintenance material from the Sewells Point to Lamberts Bend Federal channel segment and approximately 200,000 cubic yards of maintenance material from the Channel to Newport News Federal channel segment. All material will be dredged by mechanical dredge with the dredged material placed overboard at the Norfolk Ocean Disposal Site and directly pumped into the cells at the Craney Island Dredged Material Management Area. Dredging depths up to -56 feet MLLW will be required. The contract includes special requirements and precautions when dredging over the Navy Degaussing Array in the Sewells Point to Lamberts Bend Federal channel segment, and when dredging in the vicinity of protected cultural resources in the Channel to Newport News Federal channel segment. In accordance with DFARS 236.204(ii), the estimated construction price range for this project is between $25,000,000.00 and $100,000,000.00. NAICS Code 237990, Other Heavy and Civil Engineering Construction, applies to this project. PSC Y1KF, Construction of Dredging Facilities, applies to this project with a small business size standard of $37,000,000.00. The Government is not obligated to and will not pay for any information received from potential sources as a result of this sources sought. Construction Time: The construction period of performance will be approximately 175 calendar days from issuance of the Notice to Proceed (NTP). The official synopsis citing the solicitation number will be issued on System for Award Management (SAM) at www.sam.gov. SURVEY OF THE DREDGING INDUSTRY The following confidential survey questionnaire is designed to apprise the Corps of prospective dredging contractors' project execution capabilities. Please provide your response to the following questions. All questions are in regard to the Norfolk Harbor to Newport News Maintenance Dredging Project in Hampton Roads, Virginia. Firm's response to this Synopsis shall be limited to 5 pages and shall include the following information. 1. Firm's name, address, point of contact, phone number, and e-mail address. 2. Firm's interest in bidding on the solicitation when it is issued. 3. Firm's capability to perform a contract of this magnitude and complexity (include firm's capability to execute construction, comparable work performed within the past 5 years): Brief description of the project, (customer name, timeliness of performance, and dollar value of the project) - provide at least 3 examples. 4. Firm's Business Size - LB, SB, 8(a), HUBZone, SDVOSB, or WOB. 5. Firm's Joint Ventures (existing), including Mentor Protégés and teaming arrangement information is acceptable. 6. Firm's Bonding Capability (construction bonding level per contract and aggregate construction bonding level, both expressed in dollars) via letter from a bonding company. Please only include a narrative of the requested information. Additional information will not be reviewed. This Sources Sought Synopsis should not be construed in any manner to be an obligation of the U.S. Army Corps of Engineers, Norfolk District to issue a contract, or result in any claim for reimbursement of costs for any effort you expand responding to this request. No solicitation is currently available. The Government will utilize this information in determining an acquisition strategy. Please state all of the socio-economic categories in which your company belongs—(8)(a), Hub-zone, Service-Disabled Veteran Owned Small Business, Woman Owned. Please submit capability packages and responses to the above questions via email to Caleb Bookout at Brian.C.Bookout@usace.army.mil, copying Tiffany N. Kirtsey at tiffany.n.kirtsey@usace.army.mil. Responses must be submitted no later than Close of Business 15 May 2026. The official synopsis citing the solicitation number will be issued on SAM.gov at https://sam.gov/content/home. All prospective contractors are required to be registered in the System for Award Management (SAM) database prior to contract award. Offerors and contractors may obtain information on registration and annual confirmation requirements by calling 1-866-606-8220 or via the Internet at https://www.sam.gov. Representations and Certifications Applications apply to this solicitation. Representations and Certifications may be completed online via the SAM. No attachments or links have been added to this opportunity.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Caleb Bookout
+  - Email: brian.c.bookout@usace.army.mil
+  - Phone: 7572017797
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/029d61dae3f34bffae28591dbeb4ab47/view)

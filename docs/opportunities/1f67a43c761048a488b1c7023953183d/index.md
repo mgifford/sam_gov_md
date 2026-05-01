@@ -1,0 +1,28 @@
+---
+layout: default
+title: Rebuilding of TRASIS ALL-IN-ONE and Subsequent Maintenance Agreement
+agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+notice_type: Combined Synopsis/Solicitation
+notice_id: 1f67a43c761048a488b1c7023953183d
+---
+
+# Rebuilding of TRASIS ALL-IN-ONE and Subsequent Maintenance Agreement
+
+- Agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-04-30 12:59:15.682-04
+- Solicitation Number: PCA-NIMH-02360
+
+## Summary
+
+NON-COMPETITIVE COMBINED SYNOPSIS / SOLICITATION Title: Rebuilding of TRASIS ALL-IN-ONE and Subsequent Maintenance Agreement (i) This is a combined synopsis/solicitation for commercial items prepared in accordance with the format in FAR Subpart 12.6, as supplemented with additional information included in this notice. This announcement constitutes the only solicitation; proposals are being requested, and a separate written solicitation will not be issued. (ii) The solicitation number is PCA-NIMH-02360. This solicitation is issued as a Notice of Intent (NOI) for a non-competitive combined synopsis/solicitation to award a contract or purchase order without providing for full and open competition (including brand-name, if applicable). This acquisition is conducted under the authority of FAR 12.603, Streamlined Solicitation for Commercial Products or Commercial Services, and is not expected to exceed the simplified acquisition threshold. Additional authority includes 41 U.S.C. 1901 and FAR 6.302-3(a)(2)(ii). The National Institutes of Health (NIH), Office of the Director, Office of Acquisitions, intends to negotiate and award a fixed price purchase order on a non-competitive basis to iPharmasupports, LLC, 42 W Byers Place, Denver, Colorado, 80223 for immediate repairs and a maintenance agreement for the TRASIS AllInone. (iii) The solicitation document and incorporated provisions and clauses are those in effect through Federal Acquisition Circular 2026-01 dated 03/13/2026. (iv) The associated NAICS code is 541690, and the small business size standard is (insert size standard). This requirement is not set aside for small business. (v) Description of Requirement: Please refer to the attached statement of work for complete details and specifications. (vi) Delivery Location: Jinsoo Hong, Ph.D. Bldg. 10, Room B3C346, Bethesda MD. 20892 (vii) [Reserved, if needed] (viii) The provision at FAR 52.212-1, Instructions to Offerors—Commercial Items, applies to this acquisition. (ix) The provision at FAR 52.212-2, Evaluation—Commercial Items, applies to this acquisition. (a) A written notice of award or acceptance of an offer, issued to the successful offeror within the time specified in the offer, shall result in a binding contract without further action by either party. The Government reserves the right to accept any offer (or part of an offer) before the expiration date, whether or not discussions are conducted, unless a written notice of withdrawal is received prior to award. Add additional evaluation criteria as required. (x) Offerors shall include a completed copy of FAR 52.212-3, Offeror Representations and Certifications—Commercial Items, with their offer. (xi) FAR 52.212-4, Contract Terms and Conditions—Commercial Items, applies to this acquisition. (xii) FAR 52.212-5, Contract Terms and Conditions Required to Implement Statutes or Executive Orders—Commercial Items, applies to this acquisition. (xiii) Additional contract requirements or terms and conditions, as determined necessary by the Contracting Officer and consistent with customary commercial practices: None. (xiv) The Defense Priorities and Allocations System (DPAS) is not applicable to this requirement. (xv) Submission Requirements: Responses must include sufficient information to demonstrate the respondent’s capability to provide the required product or service. Price quotations shall include, at a minimum: unit price, list price, shipping and handling costs, delivery timeframe after award, delivery terms, prompt payment discount terms, F.O.B. point (destination or origin), product or catalog numbers, product descriptions, and any other relevant information. Evaluation factors may include, but are not limited to: past performance, technical capability, special features, trade-in considerations, expected lifecycle, warranty, maintenance availability, and environmental or energy efficiency considerations. Respondents claiming to be manufacturers or authorized resellers of a specified brand-name product must provide: (a) Product, catalog, model, and/or part number(s); (b) Product description; (c) Documentation demonstrating that the offered item meets all required salient characteristics; (d) Quantity; (e) Estimated price or cost; (f) Shipping, handling, and/or installation charges; and (g) Delivery timeframe after receipt of order. Responses must also include the Unique Entity Identifier (UEI), Taxpayer Identification Number (TIN), and business size certification. All offerors must be actively registered in the System for Award Management (SAM) at www.sam.gov. All responses must be received by 05/08/2026 at 09:00am EST and must reference solicitation number PCA-NIMH-02360. Responses may be submitted electronically to brian.lind@nih.gov. (xvi) Point of Contact: Brian Lind Supervisory Program Specialist Brian.lind@nih.gov For full details see attached statement of work
+
+## Contacts
+
+- Primary Contact:
+  - Name: Brian Lind
+  - Email: brian.lind@nih.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1f67a43c761048a488b1c7023953183d/view)
