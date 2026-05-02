@@ -1,0 +1,29 @@
+---
+layout: default
+title: McNary Downstream Miter Gate Replacement
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: edc03b10b58149a7a425cada7c37dc4f
+---
+
+# McNary Downstream Miter Gate Replacement
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-05-01 17:43:17.849-04
+- Solicitation Number: W912EF26RSS26
+
+## Summary
+
+W912EF26RSS26 The US Army Corps of Engineers, Walla Walla District is seeking interested business sources for a construction project entitled: McNary Downstream Miter Gate Replacement. The construction will occur at the locations listed below. This solicitation will result in an award of a firm-fixed-price construction contract. The magnitude of construction is estimated to be between $25,000,000 and $100,000,000. 100% performance and payment bonds will be required. The North American Industry Classification System (NAICS) code for this project is 237990 – Other Heavy Civil Engineering and Construction and the associated small business size standard is $45.0 million. This sources-sought notice is a tool to identify businesses with the interest in and capability to accomplish the work. Please respond only if you intend to propose on this project when it is solicited in the future. This is not a solicitation. Responses to this sources sought notice should include the following information: A list of no more than three current or past projects demonstrating technical experience with work of a similar nature to that listed in the Summary Scope of Work. For each project submitted, provide a brief narrative statement of the work involved, how it relates to the described herein and your company’s role in the project, the dollar value, and the completion date. Include a statement detailing any special qualifications and certifications, applicable to the scope of this project, held by your company and/or in-house personnel. A reference list for each of the projects submitted. Include the name, title, phone number, and email address for each reference. If subcontracting, state what percentage overall will be subcontracted and what portions of the work would be subcontracted. Provide a statement of your company’s business size status (Large, Small, HUBZone, Service Disabled Veteran Owned, 8(a), small disadvantaged, or woman-owned) with regard to the NAICS code listed above. Provide a statement that your company intends to submit an offer on the project when it is advertised. Provide a statement of your company’s bonding capacity. A statement from your surety is NOT required. Cage Code and SAM.gov Unique Entity ID (UEI) number. This sources sought notice is for market research and planning purposes only and is not to be construed as a commitment by the Government to pay for information submitted in response to this request. No reimbursement will be made for any costs associated with providing information in response to this notice. Respondents will not be notified of the results of the market analysis and debriefings will not be available. It is the reader's responsibility to monitor the Government Point of Entry (GPE) via SAM.gov Contract Opportunities for any resultant or future solicitation package(s) that may be issued. Submit this information to Preston Jones, Contract Specialist, via email to preston.e.jones@usace.army.mil. Your response to this notice must be received on or before 3:00 pm on May 12, 2026. Summary of Scope of Work: Replacement of the existing two-leaf arch rib miter gate, mechanical equipment and embedded pintle ball and sill beam. Leaf Weight (each): 425 Tons (850,000 pounds). Leaf Dimensions (each): 53.5 feet wide, 106 feet tall Specifications: Gates (each leaf) must be fabricated and coated in the shop and delivered to the site in one piece by barge. Gate weldment: ASTM A709 Grade 50 steel AWS D1.5 Bridge Welding Code with some Fracture Critical Members (FCM) AISC fabricator certification (required for each shop performing fabrication, must have at least one): Certified Bridge Fabricator – Intermediate (IBR) with Fracture Control Endorsement (FCE) OR Certified Bridge Fabricator – Advanced (ABR) with Fracture Control Endorsement (FCE) OR Certified Hydraulic Fabricator – Advanced (HYDA) Coating: USACE System 5-E-Z Impacted Immersion Vinyl Painter Certification Required: SSPC QP 1 OR AISC Complex Coating Endorsement Tentative Schedule (subject to change): Contract Award April 2028 (NTP) Fabrication Complete December 2029 (20 months from NTP) Site Work Window is 16 weeks during the 2030 Extended Columbia River Navigation Outage, January 2030 to April 2030 Information Needed Fabrication time: Is 20 months enough time? Barge delivery: Is it feasible to fabricate each leaf in one piece and load onto barge for delivery? Crane: Is it feasible to remove old gates and install new gate with a crane in one piece? See attached site plan. What size crane is needed? Is this crane available? What is the crane footprint and does the site have this space? Site installation. Is it feasible to install the new gate in the nav outage work window (16 weeks)? Remove old gate leafs and load onto barge with heavy crane. Demolish embedded wall quoins, sill beam and pintle bases. Set new sill beam and pintle bases, form, pour and cure concrete Set new wall quoins and pour epoxy backing Demo and install gate machinery Pick and set new gate leafs off barge with heavy crane. Align gate leafs, set seal blocks (quoin and miter). Lock in seal blocks (quoin and miter) with epoxy backing.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Preston Jones
+  - Email: Preston.E.Jones@usace.army.mil
+  - Phone: 5095277206
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/edc03b10b58149a7a425cada7c37dc4f/view)

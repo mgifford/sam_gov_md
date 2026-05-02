@@ -1,0 +1,31 @@
+---
+layout: default
+title: Tainter Gates Sandblasting
+agency: INTERNATIONAL BOUNDARY AND WATER COMMISSION: US-MEXICO
+notice_type: Solicitation
+notice_id: 6c9348148b7d4cb8be3acee5d03e7b41
+---
+
+# Tainter Gates Sandblasting
+
+- Agency: INTERNATIONAL BOUNDARY AND WATER COMMISSION: US-MEXICO
+- Type: Solicitation
+- Posted: 2026-05-01 15:49:07.614-04
+- Solicitation Number: 191BWC26B0001
+
+## Summary
+
+The International Boundary and Water Commission, United States and Mexico, United States Section (USIBWC) intends to issue a solicitation for the sandblasting and painting of eight (8) Tainter gates at the Amistad Dam located in Val Verde County, Texas. The project involves the rehabilitation of the radial gates, including surface preparation, sandblasting, and application of a new coating system to ensure the longevity and functionality of the gates. Scope of Work: The scope of work includes, but is not limited to, the following tasks: Testing for lead-based paint on the existing coatings. Complete removal of existing paint/coating from the eight radial gates. Surface preparation through sandblasting to achieve the required cleanliness and profile. Application of a new coating system as specified in the technical specifications. Replacement of radial gate anodes, side seals, bottom seals, and seal fasteners. Re-tensioning of gate cables and alignment of gates after seal replacement and re-lubrication. Compliance with all safety and environmental regulations, including the handling and disposal of hazardous materials. Project Duration: The project is expected to be completed within six months from the date of award. Site Visit: Contractors are highly encouraged to attend a site visit to provide potential bidders with an opportunity to inspect the worksite and existing conditions. Site visits may be schedule for Amistad Field Office, 670 Texas Spur 349, Del Rio, TX 78840 with the following CORs: Evelio Siller-Area Operations Manager evelio.siller@ibwc.gov 830-469-3440 915-315-0009 Juan Escobar – Powerplant Superintendent juan.escobar@ibwc.gov 830-469-3440 Demetrius Gaines-Assistant Area Operations Manager demetrius.gaines@ibwc.gov 830-469-3440 Virtual site visits (video/photographs) are not permitted. Site visits should be scheduled by the due date posted on form SF1442 Section "01-08 - Bid Instructions" The approximate Estimated Magnitude of this project is $1 Million to $5 Million. Contract Type: This is a 100% Small Business Set Aside. Only Offers from Small Businesses will be considered for this solicitation. The resulting contract will be a firm-fixed-price contract. NAICS Code: The North American Industry Classification System (NAICS) code for this project is 237990 - Other Heavy and Civil Engineering Construction with a corresponding small business standard of $45 Million. Active Unique Entity ID (UEI#) needs to be included in your offer. The government will award to the lowest price, technically acceptable, responsible offeror. The Contractor shall provide all labor, material, equipment, subcontract, supervision, and management to perform the requirements of this Statement of Work (SOW). The Government will award a contract resulting from this solicitation to the responsible Offeror based on Lowest Price Technically Acceptable. Technical acceptability will be based on the Contractor’s Technical Approach, Expertise and Qualified Personnel to provide the services, and Past Performance. Technical Approach - Quote must demonstrate the technical approach by providing a narrative addressing all the items in the scope. The narrative shall at a minimum include your plan of action, equipment, key team members, and schedule. Past Performance – Quotes shall demonstrate successful past performance of at least 3 three (3) references for similar projects. The information shall include name of person, company, phone number, email address, and brief description of the project. Offerors shall meet or exceed and specifications and scope of work of items being quoted. Failure to submit required technical approach and past performance will deem a proposal non-responsive and no consideration for award will be given. INVOICE PROCESSING PLATFORM The U.S. Section International Boundary and Water Commission (USIBWC) has transitioned to an electronic invoicing system. The Invoice Processing Platform (IPP) is a secure, web-based system provided by the U.S. Department of the Treasury’s Bureau of the Fiscal Service in partnership with the Federal Reserve Bank of St. Louis. IPP is available at no cost to any commercial vendor or independent contractor doing business with a participating government agency. Information concerning accessing the IPP system will be provided at time of award. For further information, please contact angelica.baca@ibwc.gov via email ONLY END of solicitation/RFB Attachments: SF1442 - 191BWC26B0001 245A - Minimum Quals for Award Joint Venture 245B - Minimum Quals for Award 245 - Minimum Quals for Award 358 - Non-Disclosure Agreement B-1 Amistad Dam Asbestos and Lead-Based Paint Survey B-2 Amistad Power Plant Asbestos and Lead Survey Report B-3 Amistad Asbestos and Lead paint Survey SOW Radial Gate SPECS IBWC-110 Certification of Authority for Signing Bids IBWC-116 Statement of Equipment IBWC-117 Pre-Bid Conference Attendance Wage Determination
+
+## Contacts
+
+- Primary Contact:
+  - Name: Angelica Baca
+  - Email: angelica.baca@ibwc.gov
+- Secondary Contact:
+  - Name: Seone Michael Jones
+  - Email: seone.jones@ibwc.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6c9348148b7d4cb8be3acee5d03e7b41/view)

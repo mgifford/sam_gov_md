@@ -1,0 +1,31 @@
+---
+layout: default
+title: Ramp repair PH II
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: e3e4dda475414afea00c4ac46e3661b1
+---
+
+# Ramp repair PH II
+
+- Agency: DEPT OF DEFENSE
+- Type: Presolicitation
+- Posted: 2026-05-01 15:45:28.822-04
+- Solicitation Number: W50S8S26BA001
+
+## Summary
+
+Pre-Solicitation – Ramp repair PH II Document Type: Pre-solicitation Notice PSC Category Z2LA - Repair or Alteration of Airport Service Roads NAICS Code: 238110 – Poured Concrete Foundation and Structure Contractors Set Aside: 100% Small Business The USPFO for Ohio intends to issue an Invitation for Bid to award a single firm fixed-price contract for services, non-personal, to provide all plant, labor, transportation, materials, tools, equipment, and supervision necessary for ramp alterations, located at the 180th Fighter Wing (FW), Swanton, Ohio Air National Guard Base. Objective is to demo and remove buildings 115, 131, 133, tent structure 321, abandoned electrical components, guardrail, fencing, and concrete and asphalt areas as shown on the demolition plan. Purchase and install storm water control structures as shown in the drawings to include catch basins, piping, and trench drains to provide a proper flow channel and remove water from the areas allowing the grounds to be maintained. Purchase and install the required electrical conduit and wiring to support new fabric shelters. Prepare areas for placement of a new concrete access road, concrete tent pad, and concrete approach around building 137 and an asphalt shoulder patch as shown on the pavements plan. Purchase and install two new tensioned fabric shelters with liners, electrical equipment, interior lights, and doors as shown on attached drawing with one shelter having dehumidification equipment for humidity control. The contract duration is estimated to be 180 calendar days, after the issuance of notice to proceed (NTP), which includes estimated lead time for delivery of equipment. This project is set aside 100% for Small Business. The North American Industry Classification (NAICS) Code is 238110, with a size standard of $19,000,000.00. The magnitude is between $1,000,000 and $5,000,000. The TENTATIVE date for issuing the solicitation is on-or-about 14 May 2026. The TENTATIVE date for the pre-bid conference/site visit is on-or-about 2 June 2026, 10:00AM EST; location will be in solicitation, as well as ACTUAL date. Interested contractors are encouraged to attend and shall follow conference registration and base access requirements shown in the solicitation. A site visit will follow the pre-bid conference. All questions for the pre-bid conference shall be submitted no later 3 business days prior to pre-bid conference date, via email to adam.krouse@us.af.mil. Submitting questions prior to pre-bid conference is crucial to preparation and efficient flow of meeting. The bid opening date is TENTATIVELY scheduled for on- or about 17 June 2026. ACTUAL dates and times will be identified in the solicitation. Interested offerors shall be registered in the System for Award Management (SAM). To register go to https://sam.gov.The solicitation, plans, specifications, and all other pertinent information will be available ONLY through Contract Opportunities, also accessed through https://sam.gov. Contract Opportunities through SAM.GOV is a web-based dissemination tool designed to safeguard acquisition-related information for all Federal agencies. Interested bidders/offerors shall register with SAM.GOV before accessing the system. (Please note the registration for access to the secure site takes approximately 15 business days. PLAN ACCORDINGLY. Your attention is directed to FAR Clause 52.219-14 (e) (3) LIMITATIONS ON SUBCONTRACTING (DEVIATION 2021-O0008), which states “By submission of an offer and execution of a contract, the Offeror/Contractor agrees in performance of the contract for General construction, it will not pay more than 85 percent of the amount paid by the Government for contract performance, excluding the cost of materials, to subcontractors that are not similarly situated entities. Any work that a similarly situated entity further subcontracts will count towards the prime contractor’s 85 percent subcontract amount that cannot be exceeded”. In accordance with FAR 36.211(b), the following information is provided: (1) The National Guard has no agency-specific policies or procedures applicable to definitization of equitable adjustments for change orders under construction contracts other than those described at FAR 43.204, DFARS 243.204 and AFARS 5143.204. (2) Data for the prior 3 fiscal years regarding the time required to definitize equitable adjustments for change orders under construction contracts for the National Guard is currently not available, but will be compiled and provided in future announcements. DISCLAIMER: The official plans and specifications are located on the official government webpage (SAM.gov), and the Government is not liable for information furnished by any other source. Amendments, if/when issued will be posted to https://sam.gov. This will be the only method of distributing amendments prior to closing; therefore, it is the offeror’s responsibility to check the website periodically for any amendments to the solicitation. Websites are occasionally inaccessible, due to various reasons. The Government is not responsible for any loss of Internet connection or for an offeror’s inability to access the documents posted on the referenced web pages. The Government will not issue paper copies. All inquiries must be in writing, submitted via email to the adam.krouse@us.af.mil. All answers will be provided in writing via posting to SAM.gov. Place of performance is Swanton, Ohio (Lucas Co.).
+
+## Contacts
+
+- Primary Contact:
+  - Name: 2d Lt Adam Krouse
+  - Email: adam.krouse@us.af.mil
+- Secondary Contact:
+  - Name: Barry B. Beale
+  - Email: barry.b.beale.civ@army.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e3e4dda475414afea00c4ac46e3661b1/view)
