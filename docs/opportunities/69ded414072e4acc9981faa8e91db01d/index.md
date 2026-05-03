@@ -1,0 +1,28 @@
+---
+layout: default
+title: Expand Emergency Power to HVAC Systems (Phoenix VA Hospital)
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 69ded414072e4acc9981faa8e91db01d
+---
+
+# Expand Emergency Power to HVAC Systems (Phoenix VA Hospital)
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-05-02 16:33:09.633-04
+- Solicitation Number: W912PL26S0022
+
+## Summary
+
+Description: This is a SOURCES SOUGHT NOTICE for information only. Replies by interested parties will be used by this agency for preliminary planning purposes. No proposal or contract will be awarded from this notice. No reimbursement will be made for any costs associated with providing information in response to this notice or any follow up information requests. Items below subject to change. The U. S. Army Corps of Engineers has been tasked to solicit and award a firm fixed price contract (DBB), to expand emergency power to HVAC systems at the Carl T. Hayden Medical Center, Phoenix VA Hospital in AZ Project Scope: This project provides 100% emergency backup power to operate all components of the VA’s HVAC system in the event of a power outage. Additionally, emergency power shall be used for the heating and cooling systems of the outpatient clinics and administration areas. Scopes include, but are not limited to the following: -Provide back-up generator power to the campus, automatic transfer switch (ATS), and paralleling switchgear at the 12,470 Volt, main power distribution to the hospital -Place HVAC equipment on the Emergency Equipment power branch as required by code -Remove and strengthen the walls to make them blast resistant against a GP2 blast load at a W2 design level threat -Perform selective demolition as required to support new work -Ensure all systems and structural upgrades fit within existing space constraints The type of set-aside, either small business or among the socioeconomic categories, if any, will depend upon the responses to this sources sought notice. The purpose of this notice is to gain knowledge of the experience and capabilities of both small and large business concerns in the construction industry, in performing similar projects in magnitude and complexity of this requirement. The estimated construction price range for this project is between $5M and $10M. The total contract performance period is anticipated to be 700+ days In accordance with (RFO) 52.219-14, Limitations on Subcontracting, small business prime contractors will not pay more than 85 percent of the amount paid by the Government for contract performance, excluding the cost of materials, to subcontractors that are not similarly situated entities. Any work that a similarly situated entity further subcontracts will count towards the prime contractor's 85 percent subcontract amount that cannot be exceeded. Minimum capabilities required, include previous experience of projects similar in magnitude and complexity. Interested sources shall submit a capability statement demonstrating their ability to perform the work as described above. Responses should include the following information, which shall not exceed a total of four pages Offerors name, address, point of contact, with telephone numbers, and email addresses. Business size/classification, to include any designations as a Small Business, HUBZone, Service Disabled, Veteran Owned, Women-Owned, Disadvantaged Small Business, 8(a), in addition to others, and NAICS code designations. Bonding capability (construction bonding level per single contract and aggregate construction bonding level, both expressed in dollars; along with current available bonding capacity). Past experience on individual projects of similar scope and magnitude, as described above in the project scope, and describing no more than three (3) projects that are complete or at least 50% construction complete and within the past six (6) years. Examples should have a construction value greater than $4,000,000. Examples occurring on a military installation (Army, Navy, Air Force, Marine Corp) within the continental United States or Allied Military installation and/or at a VA campus built to US codes and standard and under a US Government Contracting Agency is important. The projects should be similar in nature to what is described above in the Project Scope. The project title, location, general description to demonstrate relevance to the proposed project, the Offerors’ role, dollar value of contract, type of contract (design-build or design bid build), and name of the company, agency, or Government entity for which the work was performed with contact information (reference name, phone number and e-mail address) should be included for each project. VERY IMPORTANT: work scopes self-performed vs subcontracted and percentage of self-performed vs subcontracted). If past performance was as a JV, indicate which scopes was performed by which JV member If submitting as a JV, please include information about the JV (mentor-protégé agreement, JV agreement, etc) Submittals will not be returned. This is not a Request for Proposals, only a Request for Information. No award will result from this Sources Sought Notice. This notice does not constitute any commitment by the Government.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Roger Minami
+  - Email: kinya.r.minami@usace.army.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/69ded414072e4acc9981faa8e91db01d/view)
