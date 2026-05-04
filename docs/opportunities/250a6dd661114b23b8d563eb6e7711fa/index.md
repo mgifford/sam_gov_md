@@ -23,6 +23,10 @@ Proposed procurement for NSN 1005016113273 BODY,BUTTSTOCK ASSE: Line 0001 Qty 66
   - Name: Questions regarding this solicitation should be emailed to the buyer listed in block 5 of the solicitation document which can be found under the Additional Information link. If the Additional Information link does not work, please go to https://www.dibbs.bsm.dla.mil/Solicitations/ and type the solicitation number in the Global Search box.
   - Email: DibbsBSM@dla.mil
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/250a6dd661114b23b8d563eb6e7711fa/view)

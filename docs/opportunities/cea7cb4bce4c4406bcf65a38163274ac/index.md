@@ -24,6 +24,10 @@ TITLE: Bureau of Indian Affairs (BIA) Western Region – METAL DOOR REFRAMING - 
   - Email: Melanie.Schiaveto@bia.gov
   - Phone: 4807444870
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cea7cb4bce4c4406bcf65a38163274ac/view)

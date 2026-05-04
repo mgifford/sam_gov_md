@@ -1,251 +1,141 @@
 {
-  "forecast_date": "2026-05-02",
+  "forecast_date": "2026-05-03",
   "departments_by_opportunity_volume": [
     {
-      "total_records": 28,
-      "open_opportunities": 25,
-      "awarded": 3,
-      "win_rate_percent": 10.7,
-      "estimated_monthly_value": 116450000,
-      "average_award_value": 38816666,
-      "opportunities_with_attachments": 2,
-      "opportunities_with_keyword_matches": 8,
+      "total_records": 229,
+      "open_opportunities": 228,
+      "awarded": 1,
+      "win_rate_percent": 1.3,
+      "estimated_monthly_value": 204273,
+      "average_award_value": 68091,
+      "opportunities_with_attachments": 7,
+      "opportunities_with_keyword_matches": 217,
       "top_awardees": [
         {
-          "name": "SU-MO BUILDERS, INC. Honolulu HI 96819 USA",
+          "name": "JESSY RANDY HAPDEI 119 PAGACHAO DR. Agat GU 96928 USA",
           "wins": 1,
-          "total_value": 49500000
+          "total_value": 204273
         },
         {
-          "name": "RORE, INC. San Diego CA 92122 USA",
-          "wins": 1,
-          "total_value": 49500000
-        },
-        {
-          "name": "GEORGIA TECH APPLIED RESEARCH CORP Atlanta GA 30318 USA",
-          "wins": 1,
-          "total_value": 17450000
+          "name": "",
+          "wins": 2,
+          "total_value": 0
         }
       ],
       "department": "DEPT OF DEFENSE"
     },
     {
-      "total_records": 4,
-      "open_opportunities": 4,
+      "total_records": 6,
+      "open_opportunities": 6,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
-      "opportunities_with_attachments": 1,
+      "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
       "department": "INTERIOR, DEPARTMENT OF THE"
     },
     {
-      "total_records": 2,
-      "open_opportunities": 2,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
+      "total_records": 1,
+      "open_opportunities": 0,
+      "awarded": 1,
+      "win_rate_percent": 100.0,
+      "estimated_monthly_value": 6490000,
+      "average_award_value": 6490000,
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "POSTAL SERVICE"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "AGRICULTURE, DEPARTMENT OF"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 1,
-      "top_awardees": [],
-      "department": "INTERNATIONAL BOUNDARY AND WATER COMMISSION: US-MEXICO"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "ENERGY, DEPARTMENT OF"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "JUSTICE, DEPARTMENT OF"
+      "top_awardees": [
+        {
+          "name": "DOMINGUEZ & PERSONS, LLC Pensacola FL 32504 USA",
+          "wins": 1,
+          "total_value": 6490000
+        }
+      ],
+      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
     }
   ],
   "departments_by_award_value": [
     {
-      "total_records": 28,
-      "open_opportunities": 25,
-      "awarded": 3,
-      "win_rate_percent": 10.7,
-      "estimated_monthly_value": 116450000,
-      "average_award_value": 38816666,
-      "opportunities_with_attachments": 2,
-      "opportunities_with_keyword_matches": 8,
+      "total_records": 1,
+      "open_opportunities": 0,
+      "awarded": 1,
+      "win_rate_percent": 100.0,
+      "estimated_monthly_value": 6490000,
+      "average_award_value": 6490000,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
       "top_awardees": [
         {
-          "name": "SU-MO BUILDERS, INC. Honolulu HI 96819 USA",
+          "name": "DOMINGUEZ & PERSONS, LLC Pensacola FL 32504 USA",
           "wins": 1,
-          "total_value": 49500000
+          "total_value": 6490000
+        }
+      ],
+      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
+    },
+    {
+      "total_records": 229,
+      "open_opportunities": 228,
+      "awarded": 1,
+      "win_rate_percent": 1.3,
+      "estimated_monthly_value": 204273,
+      "average_award_value": 68091,
+      "opportunities_with_attachments": 7,
+      "opportunities_with_keyword_matches": 217,
+      "top_awardees": [
+        {
+          "name": "JESSY RANDY HAPDEI 119 PAGACHAO DR. Agat GU 96928 USA",
+          "wins": 1,
+          "total_value": 204273
         },
         {
-          "name": "RORE, INC. San Diego CA 92122 USA",
-          "wins": 1,
-          "total_value": 49500000
-        },
-        {
-          "name": "GEORGIA TECH APPLIED RESEARCH CORP Atlanta GA 30318 USA",
-          "wins": 1,
-          "total_value": 17450000
+          "name": "",
+          "wins": 2,
+          "total_value": 0
         }
       ],
       "department": "DEPT OF DEFENSE"
     },
     {
-      "total_records": 4,
-      "open_opportunities": 4,
+      "total_records": 6,
+      "open_opportunities": 6,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
-      "opportunities_with_attachments": 1,
+      "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
       "department": "INTERIOR, DEPARTMENT OF THE"
-    },
-    {
-      "total_records": 2,
-      "open_opportunities": 2,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "POSTAL SERVICE"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "AGRICULTURE, DEPARTMENT OF"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 1,
-      "top_awardees": [],
-      "department": "INTERNATIONAL BOUNDARY AND WATER COMMISSION: US-MEXICO"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "ENERGY, DEPARTMENT OF"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "JUSTICE, DEPARTMENT OF"
     }
   ],
   "department_forecasts": {
     "DEPT OF DEFENSE": {
-      "total_records": 28,
-      "open_opportunities": 25,
-      "awarded": 3,
-      "win_rate_percent": 10.7,
-      "estimated_monthly_value": 116450000,
-      "average_award_value": 38816666,
-      "opportunities_with_attachments": 2,
-      "opportunities_with_keyword_matches": 8,
+      "total_records": 229,
+      "open_opportunities": 228,
+      "awarded": 1,
+      "win_rate_percent": 1.3,
+      "estimated_monthly_value": 204273,
+      "average_award_value": 68091,
+      "opportunities_with_attachments": 7,
+      "opportunities_with_keyword_matches": 217,
       "top_awardees": [
         {
-          "name": "SU-MO BUILDERS, INC. Honolulu HI 96819 USA",
+          "name": "JESSY RANDY HAPDEI 119 PAGACHAO DR. Agat GU 96928 USA",
           "wins": 1,
-          "total_value": 49500000
+          "total_value": 204273
         },
         {
-          "name": "RORE, INC. San Diego CA 92122 USA",
-          "wins": 1,
-          "total_value": 49500000
-        },
-        {
-          "name": "GEORGIA TECH APPLIED RESEARCH CORP Atlanta GA 30318 USA",
-          "wins": 1,
-          "total_value": 17450000
+          "name": "",
+          "wins": 2,
+          "total_value": 0
         }
       ]
     },
     "INTERIOR, DEPARTMENT OF THE": {
-      "total_records": 4,
-      "open_opportunities": 4,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": []
-    },
-    "POSTAL SERVICE": {
-      "total_records": 2,
-      "open_opportunities": 2,
+      "total_records": 6,
+      "open_opportunities": 6,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
@@ -254,49 +144,22 @@
       "opportunities_with_keyword_matches": 0,
       "top_awardees": []
     },
-    "AGRICULTURE, DEPARTMENT OF": {
+    "VETERANS AFFAIRS, DEPARTMENT OF": {
       "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
+      "open_opportunities": 0,
+      "awarded": 1,
+      "win_rate_percent": 100.0,
+      "estimated_monthly_value": 6490000,
+      "average_award_value": 6490000,
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
-      "top_awardees": []
-    },
-    "INTERNATIONAL BOUNDARY AND WATER COMMISSION: US-MEXICO": {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 1,
-      "top_awardees": []
-    },
-    "ENERGY, DEPARTMENT OF": {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": []
-    },
-    "JUSTICE, DEPARTMENT OF": {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": []
+      "top_awardees": [
+        {
+          "name": "DOMINGUEZ & PERSONS, LLC Pensacola FL 32504 USA",
+          "wins": 1,
+          "total_value": 6490000
+        }
+      ]
     }
   }
 }

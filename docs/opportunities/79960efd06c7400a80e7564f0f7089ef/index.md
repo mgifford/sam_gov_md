@@ -24,6 +24,10 @@ Please reference this solicitation number SPMYM2-26-Q-7157 BLOCK LEVEL in the su
   - Email: Denise.Quist@dla.mil
   - Phone: 3604766075
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/79960efd06c7400a80e7564f0f7089ef/view)

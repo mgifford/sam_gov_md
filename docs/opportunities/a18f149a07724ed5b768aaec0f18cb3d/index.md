@@ -24,6 +24,10 @@ Wiring Replacement for NPS, Reconstruction Era National Historical Park This is 
   - Email: Jade_Bynum@nps.gov
   - Phone: 4045075756
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a18f149a07724ed5b768aaec0f18cb3d/view)

@@ -23,6 +23,10 @@ notice_id: 4ff3449dbc2e4859a24bfe516ae76aea
   - Name: Candace Fernandez
   - Email: candace.fernandez@us.af.mil
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4ff3449dbc2e4859a24bfe516ae76aea/view)

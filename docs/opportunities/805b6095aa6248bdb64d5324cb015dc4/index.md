@@ -34,6 +34,10 @@ This solicitation is intended only for sources duly authorized to operate and do
 
 - Attachment 1: Work Specification(s) for TGIs. PERIOD OF PERFORMANCE: From 29 Jun 2026 to 8 Dec 2026 PLACE OF PERFORMANCE: Yokosuka Naval Base OFFER: Offerors must provide all information required by this solicitation no later than 11 May 2026 at 10:00 AM Japan Standard Time (JST). WORK ITEM INFORMATION: Access to the work specification package listed in Section J as Attachment (I) may only be accessed through DoD SAFE. DoD SAFE is a secure U.S. Government repository which enables the sharing of large files and requires outside users to receive a drop-off request from the U.S. Government. Therefore, any offeror intending to provide a proposal to this solicitation shall request access by sending an email to: risa.sakurai.ln@us.navy.mil, peterjommel.s.arrieta.ln@us.navy.mil by 4 May 2026 10:00 am JST. Once the U.S. Government receives the offeror’s access request, the U.S. Government will provide the offeror with a link and instructions to retrieve Attachment (I). Offerors shall note that access is only available for 14 days once sent
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/805b6095aa6248bdb64d5324cb015dc4/view)

@@ -27,6 +27,10 @@ No summary provided.
   - Email: Lisa.Peace@va.gov
   - Phone: N/A
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/94b1a3f6eed0450aa1401ef9109501b0/view)

@@ -34,6 +34,10 @@ The requirement is for ship repair, maintenance and overhaul of United States (U
 
 - Attachment 1: may only be accessed through DoD SAFE. DoD SAFE is a secure U.S. Government repository which enables the sharing of large files and requires outside users to receive a drop-off request from the U.S. Government. Therefore, any offeror intending to provide a proposal to this solicitation shall request access by sending an email to the following Point of Contact: Contracting Officer: Miwa Takahashi miwa.takahashi2.ln@us.navy.mil Contract Specialist: Irene Saito irene.a.saito.civ@us.navy.mil All documents including Solicitation Attachments, Task Order Instructions (TGIs) and drawings will be available through DoD SAFE. Once the U.S. Government receives the offeror’s access request, the U.S. Government will provide the offeror with a link and instructions to retrieve ATTACHMENT (I). When submitting your proposal, you must specify and hazardous material in accordance with FAR 52.223-3 (Hazardous Material ID) and DFARS 252.223-7001. When submitting your proposal, you must specify if you anticipate sea transportation in accordance with DFARS 252.247-7022. If there is a time limit on your offer, you must specify this at submission of your proposal. If there are any amendments to this RFP, please acknowledge them when submitting your proposal in the proposal comment section
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b6220bb25c6543c7b33d110cdfd9baee/view)

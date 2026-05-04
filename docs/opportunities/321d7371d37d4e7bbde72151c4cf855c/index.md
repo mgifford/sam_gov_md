@@ -28,6 +28,10 @@ The 136th Airlift Wing requires renovations of portions of Buildings 1672 and 16
   - Email: 136.AW.MSC@us.af.mil
   - Phone: 8178523308
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/321d7371d37d4e7bbde72151c4cf855c/view)

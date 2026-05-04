@@ -23,6 +23,10 @@ This is a notification of award of a sole source acquisition for advertising on 
   - Name: 194th Contracting Office
   - Email: 194.wg.fal.msc.contracting@us.af.mil
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/baf6cbf4aa3e400ea44601ce4406d3ba/view)

@@ -28,6 +28,10 @@ This RFQ includes and incorporates clauses from the Federal Acquisition Regulati
   - Email: chester.terrill@us.af.mil
   - Phone: 7572258550
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/bab6efc96f4f468b9fd3aa83c3a39772/view)

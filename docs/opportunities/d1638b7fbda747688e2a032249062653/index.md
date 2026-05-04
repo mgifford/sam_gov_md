@@ -24,6 +24,10 @@ NRL NOTICE OF INTENT TO AWARD A SOLE SOURCE This Notice of Intent is not a reque
   - Email: james.buie@nrl.navy.mil
   - Phone: 2029231553
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d1638b7fbda747688e2a032249062653/view)

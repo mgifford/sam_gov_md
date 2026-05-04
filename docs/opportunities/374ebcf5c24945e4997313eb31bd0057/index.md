@@ -24,6 +24,10 @@ TITLE: Bureau of Indian Affairs (BIA) Western Region - STOPLOG LIFTING BEAM MODI
   - Email: Melanie.Schiaveto@bia.gov
   - Phone: 4807444870
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/374ebcf5c24945e4997313eb31bd0057/view)

@@ -23,6 +23,10 @@ This is a notification of a sole source acquisition for advertising on select mo
   - Name: 194th Contracting Office
   - Email: 194.wg.fal.msc.contracting@us.af.mil
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/83d512e28dc84ac59f38b8a54c61927e/view)

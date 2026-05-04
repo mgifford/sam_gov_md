@@ -24,6 +24,10 @@ WESTERN MINES LIDAR SURVEY
   - Email: lsherman@blm.gov
   - Phone: 9072714440
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9c482352092e4e7381f8db40564616a9/view)

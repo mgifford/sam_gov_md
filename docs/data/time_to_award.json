@@ -1,14 +1,14 @@
 {
-  "generated_date": "2026-05-03",
+  "generated_date": "2026-05-04",
   "stale_days_threshold": 90,
   "summary": {
-    "total_awards_with_timing": 1333,
-    "avg_days_to_award": 25.5,
-    "median_days_to_award": 22,
+    "total_awards_with_timing": 1334,
+    "avg_days_to_award": 25.6,
+    "median_days_to_award": 22.0,
     "fastest_award_days": 0,
-    "slowest_award_days": 59,
+    "slowest_award_days": 61,
     "total_abandoned": 0,
-    "officers_with_timing": 416,
+    "officers_with_timing": 417,
     "agencies_with_timing": 14
   },
   "by_officer": [
@@ -5004,6 +5004,18 @@
       "fastest_award": 59,
       "slowest_award": 59,
       "awarded": 1
+    },
+    {
+      "name": "JOSEPH LOPEZ",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 61.0,
+      "median_days": 61,
+      "fastest_award": 61,
+      "slowest_award": 61,
+      "awarded": 1
     }
   ],
   "by_agency": [
@@ -5036,12 +5048,12 @@
     },
     {
       "agency": "DEPT OF DEFENSE",
-      "awarded": 1109,
+      "awarded": 1110,
       "never_awarded_count": 0,
       "avg_days": 24.3,
-      "median_days": 21,
+      "median_days": 21.0,
       "fastest_award": 0,
-      "slowest_award": 58
+      "slowest_award": 61
     },
     {
       "agency": "JUSTICE, DEPARTMENT OF",

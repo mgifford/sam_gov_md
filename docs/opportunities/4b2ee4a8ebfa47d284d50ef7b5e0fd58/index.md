@@ -24,6 +24,10 @@ Replace Deteriorated Lighting System in Building #6953, USAG-Humphreys
   - Email: kumok.kim2.ln@army.mil
   - Phone: 0503-355-0642
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4b2ee4a8ebfa47d284d50ef7b5e0fd58/view)
