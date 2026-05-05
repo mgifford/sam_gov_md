@@ -1,0 +1,39 @@
+---
+layout: default
+title: FY26 Flooring Installation Services IDIQ, MacDill AFB/Avon Park Range
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 26867c8d19b3443993e010be580fd0fb
+---
+
+# FY26 Flooring Installation Services IDIQ, MacDill AFB/Avon Park Range
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-05-04 13:34:31.556-04
+- Solicitation Number: FA481426Q0014
+
+## Summary
+
+Combined Synopsis/Solicitation 6 CONS/PKM MacDill Air Force Base, FL, 33261-5119 Date: 4 May 2026 Title: FY26 Flooring Installation Services IDIQ, MacDill AFB/Avon Park Range Request for Quote (RFQ) / Solicitation Number: FA481426Q0014 (See full desription in RFO Combined Synopsis-Solicitation) Quotes Due: 4 June 2026 at 12:00 PM EST Contact Point(s): SSgt Thomas Grove, Contract Specialist, Email: Thomas.Grove.1@us.af.mil Contact Point(s): Lt Ljuan Benbow, Contracting Officer, Email: Ljuan.Benbow.1@us.af.mil 1. Description: The Government intends to award a single IDIQ flooring replacement and installation services with a ceiling value of $9,000.000. Flooring installation is normally for the replacement of existing flooring of the same or a different type, but could include an initial flooring installation. The contractor shall provide all materials for each project including, but not limited to, carpet, vinyl composition tile (VCT), luxury vinyl plank (LVP), luxury vinyl tile (LVT), rubber flooring, adhesives, rubber cove base and adhesives, ceramic / porcelain / quarry tile and adhesives, grout, seam sealers, floor patch, transition strips, wood base sealers and finishes, and fastening hardware. Additionally, the contractor shall provide all equipment, tools, labor, transportation, and off-base storage required to perform the work. For task orders requiring installation of carpet, the contractor will be required to source from the Air Force Carpet Program manufacturers unless otherwise specified by the Contracting Officer. See Attachment 2 – Flooring Installation Services Performance Work Statement. 2. Period of Performance: Base year plus six option years from the date of award, estimated to be by 1 July 2026. A six-month extension of services is also included under RFO 52.217-8. 3. Request for Information (RFIs): Due by 12 PM EST on 11 May 2026 . The use of email subject line leading with “Flooring IDIQ RFI” is requested. 4. Quotes Due Date: Quotes must be submitted electronically to the Contract Specialist via e-mail at Thomas.Grove.1@us.af.mil and Contracting Officer at Ljuan.Benbow.1@us.af.mil. Quotes must conform to the requirements of this solicitation and be received no later than 4 June 2026 at 12:00 PM EST. It is the responsibility of the offeror to ensure that the quote and its attachments are received. Any correspondence sent via e-mail must contain the subject line “FA481426Q0014, FY26 Flooring Installation Services IDIQ”. The entire quotation must be contained in a single e-mail that does not exceed 25 megabytes including attachments, if any.? E-mails with compressed files are not permitted.? Note that e-mail filters at MacDill Air Force Base are designed to filter e-mails without subject lines or with suspicious subject lines or contents (i.e., .exe or .zip files).? Therefore, if the specified subject line is not included, the e-mail may not get through the e-mail filters. Also be advised that .zip or .exe files are not allowable attachments and may be deleted by the email filters. If sending attachments with email, ensure only .pdf, .doc, .docx, .xls or .xlsx documents are sent.? The email filter may delete any other form of attachments. If a DoDSafe drop off is needed, please notify the contract specialist or contracting officer at least 48 hours before quotes are due. Any quotes received after designated closing date and time need not be considered. 5. SAM Registration: Firms submitting a quote for the solicitation described herein, MUST be registered in the System for Award Management (SAM) database, or risk the quote as being non-responsive, regardless of the package being considered complete, timely or any other salient consideration. Information to register on SAM can be found at the web site, SAM.gov. List of Attachements: Attachment 1- Solicitation Provisions & Clauses Attachment 2- Flooring Installation Services Performance Work Statement Attachment 3- IDIQ Price Matrix.xlsx Attachment 4A& B- Sample Task Order 1 MacDill AFB PWS and Price Sheet.xlsx Attachment 5A&B- Sample Task Order 2 MacDill AFB PWS and Price Sheet.xlsx Attachment 6A&B- Sample Task Order 3 Avon Park Air Force Range PWS and Price Sheet.xlsx Attachment 7 – Past Performance Questionnaire Attachment 8 - Addendum to RFO 52.212-1
+
+## Contacts
+
+- Primary Contact:
+  - Name: Thomas Grove
+  - Email: thomas.grove.1@us.af.mil
+  - Phone: 8138288291
+- Secondary Contact:
+  - Name: Ljuan Benbow
+  - Email: ljuan.benbow.1@us.af.mil
+  - Phone: 8138281674
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: – Flooring Installation Services Performance Work Statement. 2. Period of Performance: Base year plus six option years from the date of award, estimated to be by 1 July 2026. A six-month extension of services is also included under RFO 52.217-8. 3. Request for Information (RFIs): Due by 12 PM EST on 11 May 2026 . The use of email subject line leading with “Flooring IDIQ RFI” is requested. 4. Quotes Due Date: Quotes must be submitted electronically to the Contract Specialist via e-mail at Thomas.Grove.1@us.af.mil and Contracting Officer at Ljuan.Benbow.1@us.af.mil. Quotes must conform to the requirements of this solicitation and be received no later than 4 June 2026 at 12:00 PM EST. It is the responsibility of the offeror to ensure that the quote and its attachments are received. Any correspondence sent via e-mail must contain the subject line “FA481426Q0014, FY26 Flooring Installation Services IDIQ”. The entire quotation must be contained in a single e-mail that does not exceed 25 megabytes including attachments, if any.? E-mails with compressed files are not permitted.? Note that e-mail filters at MacDill Air Force Base are designed to filter e-mails without subject lines or with suspicious subject lines or contents (i.e., .exe or .zip files).? Therefore, if the specified subject line is not included, the e-mail may not get through the e-mail filters. Also be advised that .zip or .exe files are not allowable attachments and may be deleted by the email filters. If sending attachments with email, ensure only .pdf, .doc, .docx, .xls or .xlsx documents are sent.? The email filter may delete any other form of attachments. If a DoDSafe drop off is needed, please notify the contract specialist or contracting officer at least 48 hours before quotes are due. Any quotes received after designated closing date and time need not be considered. 5. SAM Registration: Firms submitting a quote for the solicitation described herein, MUST be registered in the System for Award Management (SAM) database, or risk the quote as being non-responsive, regardless of the package being considered complete, timely or any other salient consideration. Information to register on SAM can be found at the web site, SAM.gov. List of Attachements: Attachment 1- Solicitation Provisions & Clauses Attachment 2- Flooring Installation Services Performance Work Statement Attachment 3- IDIQ Price Matrix.xlsx Attachment 4A& B- Sample Task Order 1 MacDill AFB PWS and Price Sheet.xlsx Attachment 5A&B- Sample Task Order 2 MacDill AFB PWS and Price Sheet.xlsx Attachment 6A&B- Sample Task Order 3 Avon Park Air Force Range PWS and Price Sheet.xlsx Attachment 7 – Past Performance Questionnaire Attachment 8 - Addendum to RFO 52.212-1
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/26867c8d19b3443993e010be580fd0fb/view)

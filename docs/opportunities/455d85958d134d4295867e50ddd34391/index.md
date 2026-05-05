@@ -1,0 +1,28 @@
+---
+layout: default
+title: 58--RECEIVER-TRANSMITTE, IN REPAIR/MODIFICATION OF
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: 455d85958d134d4295867e50ddd34391
+---
+
+# 58--RECEIVER-TRANSMITTE, IN REPAIR/MODIFICATION OF
+
+- Agency: DEPT OF DEFENSE
+- Type: Presolicitation
+- Posted: 2026-05-04 13:08:55.018-04
+- Solicitation Number: N0038326RNA36
+
+## Summary
+
+NSN 0R-5821-016571359-CC, TDP VER 001, QTY 100 EA, DELIVERY FOB ORIGIN. ALL TERMS AND CONDITIONS OF BOA N00383-23-G-S201 SHALL APPLY.
+
+## Contacts
+
+- Primary Contact:
+  - Name: ALYSSA T. THIEU, N731.45, PHONE (215)697-0169, EMAIL ALYSSA.T.THIEU.CIV@US.NAVY.MIL
+  - Email: ALYSSA.T.THIEU.CIV@US.NAVY.MIL
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/455d85958d134d4295867e50ddd34391/view)

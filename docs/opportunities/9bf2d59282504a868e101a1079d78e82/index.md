@@ -1,0 +1,28 @@
+---
+layout: default
+title: 48--VALVE,GLOBE
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 9bf2d59282504a868e101a1079d78e82
+---
+
+# 48--VALVE,GLOBE
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-05-04 13:50:18.95-04
+- Solicitation Number: N0010426QBQ42
+
+## Summary
+
+AMENDMENT 0001 - IF QUOTING, PLEASE REFERENCE AMENDMENT 0001. REVIEW OF IRPOD AND DRAWING ON BPMI E-COMMERCE IS MANDATORY PRIOR TO QUOTE SUBMITTAL. NSN 1HD 4820 013411285 X5, PD N0010426X1051, QTY 279 EA
+
+## Contacts
+
+- Primary Contact:
+  - Name: BRIANNA WALKER, N9432.11, PHONE (717)605-1391, EMAIL BRIANNA.L.WALKER@NAVY.MIL
+  - Email: BRIANNA.L.WALKER@NAVY.MIL
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9bf2d59282504a868e101a1079d78e82/view)

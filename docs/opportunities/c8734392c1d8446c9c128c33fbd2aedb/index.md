@@ -1,0 +1,30 @@
+---
+layout: default
+title: NMMI Mini Camp
+agency: DEPT OF DEFENSE
+notice_type: Special Notice
+notice_id: c8734392c1d8446c9c128c33fbd2aedb
+---
+
+# NMMI Mini Camp
+
+- Agency: DEPT OF DEFENSE
+- Type: Special Notice
+- Posted: 2026-05-04 14:59:51.552-04
+
+## Summary
+
+The U.S. Government intends to award, on a sole source basis, a contract to the New Mexico Military Institute to provide lodging, meals, dedicated training facilities, classrooms, sanitation services, and Troop Leadership Advisors (TLAs) for NMMI ROTC Mini Camp. The statutory authority for the sole source procurement of these services is Federal Acquisition Regulation (FAR) 12.102(a) (DFARS CD 2026-O0028), Restricting Competition, which states, “For acquisitions valued at or below the Simplified Acquisition Threshold (SAT), document the decision that only one source is available and the basis for the decision”. However, the Mission and Installation Contracting Command (MICC) Fort Knox is seeking vendors that may be capable of performing these services in order to support competitive procurement. Accordingly, the U.S. Government highly encourages all interested businesses (large and small) to respond to this notice. In addition, be advised that the U.S. Government will not be able to set-aside this requirement for small businesses unless 2 or more small businesses respond with information sufficient to support the requirement as a set-aside. We encourage all small businesses, in all socioeconomic categories (including, 8(a) Business Development Program, Small Disadvantage Business, Historically Underutilized Business Zone, Veteran-Owned, Service-Disabled Veteran-Owned, Women-Owned, Economically Disadvantaged Women-Owned Small Business concerns), to identify their capabilities in meeting the requirement at a fair market price. This notice is issued solely for information and planning purposes – it does not constitute a Request for Quote (RFQ)/Invitation for Bid (IFB)/Request for Proposal (RFP) or a promise to issue an RFQ, IFB or RFP in the future. This notice does not commit the U.S. Government to contract for any supply or service. Further, the U.S. Government is not seeking quotes, bids or proposals at this time and will not accept unsolicited proposals in response to this notice. The U.S. Government will not pay for any information or administrative costs incurred in response to this notice. Submittals will not be returned to the responder. A determination not to compete this requirement, based upon responses to this notice, is solely within the discretion of the Contracting Officer (KO). However, if a competitive solicitation is released, it will be synopsized on the Governmentwide Point of Entry. It is the responsibility of potential offerors to monitor the Governmentwide Point of Entry for additional information pertaining to this requirement. 721214, Recreational and Vacation Camps (except Campgrounds) with a size standard of $9M. The requested Period of Performance is 23-27 June 2026. Limitations on subcontracting and nonmanufacturer rule do not apply to small business set-asides for contracts at or below the Simplified Acquisition Threshold (SAT). It does apply to 8(a), HUBZone, VOSB/SDVOSB, and WOSB/EDWOSB, set-asides regardless of the dollar value of the award if awarding on a sole source basis only. Small business contractors awarded contracts above the SAT are required to comply with Federal Acquisition Regulation (FAR) 52.219-14, Limitations on Subcontracting (DEVIATION 2021-O0008) when utilizing subcontractors. The penalty for non-compliance is the greater of $500K or the dollar amount spent, in excess of permitted levels, by the entity on subcontractors, in accordance with 13 CFR 125.6(h). See FAR 52.219-14 - Limitations on Subcontracting for Small Business (DEVIATION 2021-O0008). The Draft Performance Work Statement (PWS) is attached for more details. In response to this notice of intent, please provide: 1. Name of the firm, point of contact, phone number, email address, Unique Entity ID Number, CAGE code, a statement regarding small business status (including small business type(s)/certifications(s) such as SDB, 8(a), HUBZone, SDVOSB, WOSB, etc.) and the corresponding NAICS code. 2. Identify whether your firm is interested in competing for this requirement as a prime contractor or not. Identify subcontracting, joint ventures or teaming arrangement that will be pursued, if any. 3. Information in sufficient detail explaining how you can satisfy the requirement to include previous experience (indicate whether as a prime contractor or subcontractor) on similar requirements (include size, scope, complexity, timeframe, government or commercial), pertinent certifications, etc., that will facilitate making a capability determination. General statements will not be accepted. 4. Information to help determine if the requirement (service) is commercially available, including pricing information, basis for the pricing information (e.g., market pricing, catalog pricing), delivery schedules, customary terms and conditions, warranties, etc. 5. Information to help determine if the requirement (item or service) is commercially available, including pricing information, basis for the pricing information (e.g., market pricing, catalog pricing), delivery schedules, customary terms and conditions, warranties, etc. 6. Responses to this notice shall be e-mailed to Contract Specialist, Eric V. Tollefson at eric.v.tollefson.civ@army.mil and Contracting Officer Samuel M. Henderson at samuel.m.henderson1.civ@army.mil no later than 6 May 2026 at 11:00 a.m. EDT (Fort Knox local time).
+
+## Contacts
+
+- Primary Contact:
+  - Name: Eric V. Tollefson
+  - Email: eric.v.tollefson.civ@army.mil
+- Secondary Contact:
+  - Name: Samuel M. Henderson
+  - Email: Samuel.M.Henderson1.civ@army.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c8734392c1d8446c9c128c33fbd2aedb/view)

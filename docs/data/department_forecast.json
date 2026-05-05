@@ -1,32 +1,390 @@
 {
-  "forecast_date": "2026-05-03",
+  "forecast_date": "2026-05-04",
   "departments_by_opportunity_volume": [
     {
-      "total_records": 229,
-      "open_opportunities": 228,
-      "awarded": 1,
-      "win_rate_percent": 1.3,
-      "estimated_monthly_value": 204273,
-      "average_award_value": 68091,
-      "opportunities_with_attachments": 7,
-      "opportunities_with_keyword_matches": 217,
+      "total_records": 1404,
+      "open_opportunities": 1064,
+      "awarded": 340,
+      "win_rate_percent": 25.0,
+      "estimated_monthly_value": 929243575,
+      "average_award_value": 2647417,
+      "opportunities_with_attachments": 267,
+      "opportunities_with_keyword_matches": 628,
       "top_awardees": [
         {
-          "name": "JESSY RANDY HAPDEI 119 PAGACHAO DR. Agat GU 96928 USA",
+          "name": "INMARSAT GOVERNMENT, INC. Reston VA 20191 USA",
           "wins": 1,
-          "total_value": 204273
+          "total_value": 307102288
         },
         {
-          "name": "",
-          "wins": 2,
-          "total_value": 0
+          "name": "MANCON LLC Virginia Beach VA 23455 USA",
+          "wins": 1,
+          "total_value": 96000000
+        },
+        {
+          "name": "PERATON INC. 12975 WORLDGATE DR STE 7322 Herndon VA 20170 USA",
+          "wins": 1,
+          "total_value": 90685458
+        },
+        {
+          "name": "THE BOEING COMPANY ",
+          "wins": 1,
+          "total_value": 65060600
+        },
+        {
+          "name": "PRESCIENT EDGE CORPORATION 7925 JONES BRANCH DR STE 2300 Mc Lean VA 22102 USA",
+          "wins": 1,
+          "total_value": 59309378
         }
       ],
       "department": "DEPT OF DEFENSE"
     },
     {
-      "total_records": 6,
-      "open_opportunities": 6,
+      "total_records": 134,
+      "open_opportunities": 112,
+      "awarded": 22,
+      "win_rate_percent": 17.2,
+      "estimated_monthly_value": 27163459,
+      "average_award_value": 1181019,
+      "opportunities_with_attachments": 8,
+      "opportunities_with_keyword_matches": 26,
+      "top_awardees": [
+        {
+          "name": "Veteran Elevated Solutions, LLC Tacoma WA 98406 USA",
+          "wins": 1,
+          "total_value": 6888999
+        },
+        {
+          "name": "CDEEM CO Orlando FL 32825 USA",
+          "wins": 1,
+          "total_value": 4776000
+        },
+        {
+          "name": "SEBIA, INC. Norcross GA 30093 USA",
+          "wins": 1,
+          "total_value": 3559789
+        },
+        {
+          "name": "VETERANS CHOICE SERVICES LLC Phoenix AZ 85027 USA",
+          "wins": 1,
+          "total_value": 3491000
+        },
+        {
+          "name": "EVIDEON, INC Grand Rapids MI 49506 USA",
+          "wins": 1,
+          "total_value": 1198800
+        }
+      ],
+      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
+    },
+    {
+      "total_records": 87,
+      "open_opportunities": 63,
+      "awarded": 24,
+      "win_rate_percent": 27.6,
+      "estimated_monthly_value": 9634243,
+      "average_award_value": 401426,
+      "opportunities_with_attachments": 2,
+      "opportunities_with_keyword_matches": 9,
+      "top_awardees": [
+        {
+          "name": "MISSOURI RIVER CONTRACTORS, LLC 1500 BLAINE ST HELENA MT 59601 USA",
+          "wins": 1,
+          "total_value": 7407366
+        },
+        {
+          "name": "STATE OF CALIFORNIA DEPARTMENT OF WATER RESOURCES 715 P ST SACRAMENTO CA 95814 USA",
+          "wins": 1,
+          "total_value": 1230182
+        },
+        {
+          "name": "S&P GLOBAL INC. 55, WATER STREET NEW YORK NY 10041 USA",
+          "wins": 1,
+          "total_value": 168757
+        },
+        {
+          "name": "TODD MARCHANT 7807 SW 30TH AVE APT 3 Portland OR 97219 USA",
+          "wins": 1,
+          "total_value": 127875
+        },
+        {
+          "name": "BLACK GOLD INDUSTRIES 527 N RICE AVE Oxnard CA 93030 USA",
+          "wins": 1,
+          "total_value": 100000
+        }
+      ],
+      "department": "INTERIOR, DEPARTMENT OF THE"
+    },
+    {
+      "total_records": 55,
+      "open_opportunities": 46,
+      "awarded": 9,
+      "win_rate_percent": 16.4,
+      "estimated_monthly_value": 130381780,
+      "average_award_value": 14486864,
+      "opportunities_with_attachments": 10,
+      "opportunities_with_keyword_matches": 1,
+      "top_awardees": [
+        {
+          "name": "NATIONAL RURAL WATER ASSOCIATION Duncan OK 73533 USA",
+          "wins": 1,
+          "total_value": 130013794
+        },
+        {
+          "name": "KOCINSKI, TANYA Wasilla AK 99654 USA",
+          "wins": 1,
+          "total_value": 87400
+        },
+        {
+          "name": "GOVCREST INC Metairie LA 70001 USA",
+          "wins": 1,
+          "total_value": 54029
+        },
+        {
+          "name": "RAINFOREST SERVICES, LLC Sitka AK 99835 USA",
+          "wins": 1,
+          "total_value": 50343
+        },
+        {
+          "name": "EXPRESS FORESTRY SERVICE, LLC Leslie AR 72645 USA",
+          "wins": 1,
+          "total_value": 48860
+        }
+      ],
+      "department": "AGRICULTURE, DEPARTMENT OF"
+    },
+    {
+      "total_records": 46,
+      "open_opportunities": 36,
+      "awarded": 10,
+      "win_rate_percent": 23.9,
+      "estimated_monthly_value": 307077432,
+      "average_award_value": 27916130,
+      "opportunities_with_attachments": 6,
+      "opportunities_with_keyword_matches": 10,
+      "top_awardees": [
+        {
+          "name": "BARRICADE INTERNATIONAL LLC Nashville TN 37215 USA",
+          "wins": 1,
+          "total_value": 99000000
+        },
+        {
+          "name": "CHECKMATE GLOBAL, LLC Frederick MD 21703 USA",
+          "wins": 1,
+          "total_value": 99000000
+        },
+        {
+          "name": "ARCUS GROUP, LLC Nashville TN 37201 USA",
+          "wins": 1,
+          "total_value": 99000000
+        },
+        {
+          "name": "SKYQUEST AVIATION LLC Glendale AZ 85307 USA",
+          "wins": 1,
+          "total_value": 5942408
+        },
+        {
+          "name": "KENNEL CLUB OF SOUTHERN CALIFORNIA INC. Los Angeles CA 90045 USA",
+          "wins": 1,
+          "total_value": 1970000
+        }
+      ],
+      "department": "HOMELAND SECURITY, DEPARTMENT OF"
+    },
+    {
+      "total_records": 28,
+      "open_opportunities": 25,
+      "awarded": 3,
+      "win_rate_percent": 10.7,
+      "estimated_monthly_value": 6007916,
+      "average_award_value": 2002638,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 6,
+      "top_awardees": [
+        {
+          "name": "COLOSSAL CONTRACTING LLC Annapolis MD 21401 USA",
+          "wins": 1,
+          "total_value": 3301864
+        },
+        {
+          "name": "FOUR WINDS STAFFING LLC McKinney TX 75072 USA",
+          "wins": 1,
+          "total_value": 1357320
+        },
+        {
+          "name": "AKICITA CYBER LLC Lower Brule SD 57548 USA",
+          "wins": 1,
+          "total_value": 1348732
+        }
+      ],
+      "department": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF"
+    },
+    {
+      "total_records": 22,
+      "open_opportunities": 22,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 11,
+      "top_awardees": [],
+      "department": "COMMERCE, DEPARTMENT OF"
+    },
+    {
+      "total_records": 19,
+      "open_opportunities": 18,
+      "awarded": 1,
+      "win_rate_percent": 5.3,
+      "estimated_monthly_value": 2393103,
+      "average_award_value": 2393103,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 10,
+      "top_awardees": [
+        {
+          "name": "LIFE TECHNOLOGIES CORPORATION Carlsbad CA 92008 USA",
+          "wins": 1,
+          "total_value": 2393103
+        }
+      ],
+      "department": "JUSTICE, DEPARTMENT OF"
+    },
+    {
+      "total_records": 16,
+      "open_opportunities": 16,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 4,
+      "top_awardees": [],
+      "department": "STATE, DEPARTMENT OF"
+    },
+    {
+      "total_records": 17,
+      "open_opportunities": 15,
+      "awarded": 2,
+      "win_rate_percent": 11.8,
+      "estimated_monthly_value": 151761366,
+      "average_award_value": 75880683,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 6,
+      "top_awardees": [
+        {
+          "name": "New Rights Group, Inc. Washington DC 20001 USA",
+          "wins": 2,
+          "total_value": 151761366
+        }
+      ],
+      "department": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION"
+    },
+    {
+      "total_records": 17,
+      "open_opportunities": 15,
+      "awarded": 2,
+      "win_rate_percent": 11.8,
+      "estimated_monthly_value": 127692,
+      "average_award_value": 63846,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 5,
+      "top_awardees": [
+        {
+          "name": "RURAL ELECTRIC SUPPLY COOPERATIVE P.O. BOX 44430 Madison WI 53744 USA",
+          "wins": 1,
+          "total_value": 88692
+        },
+        {
+          "name": "NORTHWEST POWER POOL 7525 NE Ambassador Pl Ste M Portland OR 97220 USA",
+          "wins": 1,
+          "total_value": 39000
+        }
+      ],
+      "department": "ENERGY, DEPARTMENT OF"
+    },
+    {
+      "total_records": 19,
+      "open_opportunities": 14,
+      "awarded": 5,
+      "win_rate_percent": 26.3,
+      "estimated_monthly_value": 1731686,
+      "average_award_value": 346337,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 6,
+      "top_awardees": [
+        {
+          "name": "CERTIFIED STAINLESS SERVICE INC. Ceres CA 95307 USA",
+          "wins": 1,
+          "total_value": 1134712
+        },
+        {
+          "name": "4XBOLT, LLC Westerville OH 43082-9097 USA",
+          "wins": 1,
+          "total_value": 475000
+        },
+        {
+          "name": "LOMBART BROTHERS, INC Norfolk VA 23513 USA",
+          "wins": 1,
+          "total_value": 47740
+        },
+        {
+          "name": "JONATHAN GEORGE Clarksville TN 37043 USA",
+          "wins": 1,
+          "total_value": 41734
+        },
+        {
+          "name": "CURED RELEAF LLC Portsmouth VA 23707 USA",
+          "wins": 1,
+          "total_value": 32500
+        }
+      ],
+      "department": "GENERAL SERVICES ADMINISTRATION"
+    },
+    {
+      "total_records": 8,
+      "open_opportunities": 7,
+      "awarded": 1,
+      "win_rate_percent": 12.5,
+      "estimated_monthly_value": 41425,
+      "average_award_value": 41425,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 1,
+      "top_awardees": [
+        {
+          "name": "ARHAB LLC Stratford CT 06614 USA",
+          "wins": 1,
+          "total_value": 41425
+        }
+      ],
+      "department": "TRANSPORTATION, DEPARTMENT OF"
+    },
+    {
+      "total_records": 3,
+      "open_opportunities": 3,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 1,
+      "top_awardees": [],
+      "department": "TREASURY, DEPARTMENT OF THE"
+    },
+    {
+      "total_records": 3,
+      "open_opportunities": 3,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 2,
+      "top_awardees": [],
+      "department": "ADMINISTRATIVE OFFICE OF THE US COURTS"
+    },
+    {
+      "total_records": 2,
+      "open_opportunities": 2,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
@@ -34,72 +392,526 @@
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "INTERIOR, DEPARTMENT OF THE"
+      "department": "UNITED STATES HOLOCAUST MEMORIAL MUSEUM"
+    },
+    {
+      "total_records": 2,
+      "open_opportunities": 2,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "POSTAL SERVICE"
+    },
+    {
+      "total_records": 2,
+      "open_opportunities": 2,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 2,
+      "top_awardees": [],
+      "department": "THE LEGISLATIVE BRANCH"
+    },
+    {
+      "total_records": 2,
+      "open_opportunities": 1,
+      "awarded": 1,
+      "win_rate_percent": 50.0,
+      "estimated_monthly_value": 5391195,
+      "average_award_value": 5391195,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [
+        {
+          "name": "SERCO INC 12930 Worldgate Drive Suite 600 Herndon VA 20170 USA",
+          "wins": 1,
+          "total_value": 5391195
+        }
+      ],
+      "department": "ENVIRONMENTAL PROTECTION AGENCY"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "SMITHSONIAN INSTITUTION"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "EXPORT-IMPORT BANK OF THE US"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "HOUSING AND URBAN DEVELOPMENT, DEPARTMENT OF"
     },
     {
       "total_records": 1,
       "open_opportunities": 0,
       "awarded": 1,
       "win_rate_percent": 100.0,
-      "estimated_monthly_value": 6490000,
-      "average_award_value": 6490000,
+      "estimated_monthly_value": 49400,
+      "average_award_value": 49400,
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [
         {
-          "name": "DOMINGUEZ & PERSONS, LLC Pensacola FL 32504 USA",
+          "name": "RICECAPADES LLC Brooklyn NY 11226 USA",
           "wins": 1,
-          "total_value": 6490000
+          "total_value": 49400
         }
       ],
-      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
+      "department": "LIBRARY OF CONGRESS"
     }
   ],
   "departments_by_award_value": [
     {
-      "total_records": 1,
-      "open_opportunities": 0,
-      "awarded": 1,
-      "win_rate_percent": 100.0,
-      "estimated_monthly_value": 6490000,
-      "average_award_value": 6490000,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
+      "total_records": 1404,
+      "open_opportunities": 1064,
+      "awarded": 340,
+      "win_rate_percent": 25.0,
+      "estimated_monthly_value": 929243575,
+      "average_award_value": 2647417,
+      "opportunities_with_attachments": 267,
+      "opportunities_with_keyword_matches": 628,
       "top_awardees": [
         {
-          "name": "DOMINGUEZ & PERSONS, LLC Pensacola FL 32504 USA",
+          "name": "INMARSAT GOVERNMENT, INC. Reston VA 20191 USA",
           "wins": 1,
-          "total_value": 6490000
-        }
-      ],
-      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
-    },
-    {
-      "total_records": 229,
-      "open_opportunities": 228,
-      "awarded": 1,
-      "win_rate_percent": 1.3,
-      "estimated_monthly_value": 204273,
-      "average_award_value": 68091,
-      "opportunities_with_attachments": 7,
-      "opportunities_with_keyword_matches": 217,
-      "top_awardees": [
-        {
-          "name": "JESSY RANDY HAPDEI 119 PAGACHAO DR. Agat GU 96928 USA",
-          "wins": 1,
-          "total_value": 204273
+          "total_value": 307102288
         },
         {
-          "name": "",
-          "wins": 2,
-          "total_value": 0
+          "name": "MANCON LLC Virginia Beach VA 23455 USA",
+          "wins": 1,
+          "total_value": 96000000
+        },
+        {
+          "name": "PERATON INC. 12975 WORLDGATE DR STE 7322 Herndon VA 20170 USA",
+          "wins": 1,
+          "total_value": 90685458
+        },
+        {
+          "name": "THE BOEING COMPANY ",
+          "wins": 1,
+          "total_value": 65060600
+        },
+        {
+          "name": "PRESCIENT EDGE CORPORATION 7925 JONES BRANCH DR STE 2300 Mc Lean VA 22102 USA",
+          "wins": 1,
+          "total_value": 59309378
         }
       ],
       "department": "DEPT OF DEFENSE"
     },
     {
-      "total_records": 6,
-      "open_opportunities": 6,
+      "total_records": 46,
+      "open_opportunities": 36,
+      "awarded": 10,
+      "win_rate_percent": 23.9,
+      "estimated_monthly_value": 307077432,
+      "average_award_value": 27916130,
+      "opportunities_with_attachments": 6,
+      "opportunities_with_keyword_matches": 10,
+      "top_awardees": [
+        {
+          "name": "BARRICADE INTERNATIONAL LLC Nashville TN 37215 USA",
+          "wins": 1,
+          "total_value": 99000000
+        },
+        {
+          "name": "CHECKMATE GLOBAL, LLC Frederick MD 21703 USA",
+          "wins": 1,
+          "total_value": 99000000
+        },
+        {
+          "name": "ARCUS GROUP, LLC Nashville TN 37201 USA",
+          "wins": 1,
+          "total_value": 99000000
+        },
+        {
+          "name": "SKYQUEST AVIATION LLC Glendale AZ 85307 USA",
+          "wins": 1,
+          "total_value": 5942408
+        },
+        {
+          "name": "KENNEL CLUB OF SOUTHERN CALIFORNIA INC. Los Angeles CA 90045 USA",
+          "wins": 1,
+          "total_value": 1970000
+        }
+      ],
+      "department": "HOMELAND SECURITY, DEPARTMENT OF"
+    },
+    {
+      "total_records": 17,
+      "open_opportunities": 15,
+      "awarded": 2,
+      "win_rate_percent": 11.8,
+      "estimated_monthly_value": 151761366,
+      "average_award_value": 75880683,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 6,
+      "top_awardees": [
+        {
+          "name": "New Rights Group, Inc. Washington DC 20001 USA",
+          "wins": 2,
+          "total_value": 151761366
+        }
+      ],
+      "department": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION"
+    },
+    {
+      "total_records": 55,
+      "open_opportunities": 46,
+      "awarded": 9,
+      "win_rate_percent": 16.4,
+      "estimated_monthly_value": 130381780,
+      "average_award_value": 14486864,
+      "opportunities_with_attachments": 10,
+      "opportunities_with_keyword_matches": 1,
+      "top_awardees": [
+        {
+          "name": "NATIONAL RURAL WATER ASSOCIATION Duncan OK 73533 USA",
+          "wins": 1,
+          "total_value": 130013794
+        },
+        {
+          "name": "KOCINSKI, TANYA Wasilla AK 99654 USA",
+          "wins": 1,
+          "total_value": 87400
+        },
+        {
+          "name": "GOVCREST INC Metairie LA 70001 USA",
+          "wins": 1,
+          "total_value": 54029
+        },
+        {
+          "name": "RAINFOREST SERVICES, LLC Sitka AK 99835 USA",
+          "wins": 1,
+          "total_value": 50343
+        },
+        {
+          "name": "EXPRESS FORESTRY SERVICE, LLC Leslie AR 72645 USA",
+          "wins": 1,
+          "total_value": 48860
+        }
+      ],
+      "department": "AGRICULTURE, DEPARTMENT OF"
+    },
+    {
+      "total_records": 134,
+      "open_opportunities": 112,
+      "awarded": 22,
+      "win_rate_percent": 17.2,
+      "estimated_monthly_value": 27163459,
+      "average_award_value": 1181019,
+      "opportunities_with_attachments": 8,
+      "opportunities_with_keyword_matches": 26,
+      "top_awardees": [
+        {
+          "name": "Veteran Elevated Solutions, LLC Tacoma WA 98406 USA",
+          "wins": 1,
+          "total_value": 6888999
+        },
+        {
+          "name": "CDEEM CO Orlando FL 32825 USA",
+          "wins": 1,
+          "total_value": 4776000
+        },
+        {
+          "name": "SEBIA, INC. Norcross GA 30093 USA",
+          "wins": 1,
+          "total_value": 3559789
+        },
+        {
+          "name": "VETERANS CHOICE SERVICES LLC Phoenix AZ 85027 USA",
+          "wins": 1,
+          "total_value": 3491000
+        },
+        {
+          "name": "EVIDEON, INC Grand Rapids MI 49506 USA",
+          "wins": 1,
+          "total_value": 1198800
+        }
+      ],
+      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
+    },
+    {
+      "total_records": 87,
+      "open_opportunities": 63,
+      "awarded": 24,
+      "win_rate_percent": 27.6,
+      "estimated_monthly_value": 9634243,
+      "average_award_value": 401426,
+      "opportunities_with_attachments": 2,
+      "opportunities_with_keyword_matches": 9,
+      "top_awardees": [
+        {
+          "name": "MISSOURI RIVER CONTRACTORS, LLC 1500 BLAINE ST HELENA MT 59601 USA",
+          "wins": 1,
+          "total_value": 7407366
+        },
+        {
+          "name": "STATE OF CALIFORNIA DEPARTMENT OF WATER RESOURCES 715 P ST SACRAMENTO CA 95814 USA",
+          "wins": 1,
+          "total_value": 1230182
+        },
+        {
+          "name": "S&P GLOBAL INC. 55, WATER STREET NEW YORK NY 10041 USA",
+          "wins": 1,
+          "total_value": 168757
+        },
+        {
+          "name": "TODD MARCHANT 7807 SW 30TH AVE APT 3 Portland OR 97219 USA",
+          "wins": 1,
+          "total_value": 127875
+        },
+        {
+          "name": "BLACK GOLD INDUSTRIES 527 N RICE AVE Oxnard CA 93030 USA",
+          "wins": 1,
+          "total_value": 100000
+        }
+      ],
+      "department": "INTERIOR, DEPARTMENT OF THE"
+    },
+    {
+      "total_records": 28,
+      "open_opportunities": 25,
+      "awarded": 3,
+      "win_rate_percent": 10.7,
+      "estimated_monthly_value": 6007916,
+      "average_award_value": 2002638,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 6,
+      "top_awardees": [
+        {
+          "name": "COLOSSAL CONTRACTING LLC Annapolis MD 21401 USA",
+          "wins": 1,
+          "total_value": 3301864
+        },
+        {
+          "name": "FOUR WINDS STAFFING LLC McKinney TX 75072 USA",
+          "wins": 1,
+          "total_value": 1357320
+        },
+        {
+          "name": "AKICITA CYBER LLC Lower Brule SD 57548 USA",
+          "wins": 1,
+          "total_value": 1348732
+        }
+      ],
+      "department": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF"
+    },
+    {
+      "total_records": 2,
+      "open_opportunities": 1,
+      "awarded": 1,
+      "win_rate_percent": 50.0,
+      "estimated_monthly_value": 5391195,
+      "average_award_value": 5391195,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [
+        {
+          "name": "SERCO INC 12930 Worldgate Drive Suite 600 Herndon VA 20170 USA",
+          "wins": 1,
+          "total_value": 5391195
+        }
+      ],
+      "department": "ENVIRONMENTAL PROTECTION AGENCY"
+    },
+    {
+      "total_records": 19,
+      "open_opportunities": 18,
+      "awarded": 1,
+      "win_rate_percent": 5.3,
+      "estimated_monthly_value": 2393103,
+      "average_award_value": 2393103,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 10,
+      "top_awardees": [
+        {
+          "name": "LIFE TECHNOLOGIES CORPORATION Carlsbad CA 92008 USA",
+          "wins": 1,
+          "total_value": 2393103
+        }
+      ],
+      "department": "JUSTICE, DEPARTMENT OF"
+    },
+    {
+      "total_records": 19,
+      "open_opportunities": 14,
+      "awarded": 5,
+      "win_rate_percent": 26.3,
+      "estimated_monthly_value": 1731686,
+      "average_award_value": 346337,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 6,
+      "top_awardees": [
+        {
+          "name": "CERTIFIED STAINLESS SERVICE INC. Ceres CA 95307 USA",
+          "wins": 1,
+          "total_value": 1134712
+        },
+        {
+          "name": "4XBOLT, LLC Westerville OH 43082-9097 USA",
+          "wins": 1,
+          "total_value": 475000
+        },
+        {
+          "name": "LOMBART BROTHERS, INC Norfolk VA 23513 USA",
+          "wins": 1,
+          "total_value": 47740
+        },
+        {
+          "name": "JONATHAN GEORGE Clarksville TN 37043 USA",
+          "wins": 1,
+          "total_value": 41734
+        },
+        {
+          "name": "CURED RELEAF LLC Portsmouth VA 23707 USA",
+          "wins": 1,
+          "total_value": 32500
+        }
+      ],
+      "department": "GENERAL SERVICES ADMINISTRATION"
+    },
+    {
+      "total_records": 17,
+      "open_opportunities": 15,
+      "awarded": 2,
+      "win_rate_percent": 11.8,
+      "estimated_monthly_value": 127692,
+      "average_award_value": 63846,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 5,
+      "top_awardees": [
+        {
+          "name": "RURAL ELECTRIC SUPPLY COOPERATIVE P.O. BOX 44430 Madison WI 53744 USA",
+          "wins": 1,
+          "total_value": 88692
+        },
+        {
+          "name": "NORTHWEST POWER POOL 7525 NE Ambassador Pl Ste M Portland OR 97220 USA",
+          "wins": 1,
+          "total_value": 39000
+        }
+      ],
+      "department": "ENERGY, DEPARTMENT OF"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 0,
+      "awarded": 1,
+      "win_rate_percent": 100.0,
+      "estimated_monthly_value": 49400,
+      "average_award_value": 49400,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [
+        {
+          "name": "RICECAPADES LLC Brooklyn NY 11226 USA",
+          "wins": 1,
+          "total_value": 49400
+        }
+      ],
+      "department": "LIBRARY OF CONGRESS"
+    },
+    {
+      "total_records": 8,
+      "open_opportunities": 7,
+      "awarded": 1,
+      "win_rate_percent": 12.5,
+      "estimated_monthly_value": 41425,
+      "average_award_value": 41425,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 1,
+      "top_awardees": [
+        {
+          "name": "ARHAB LLC Stratford CT 06614 USA",
+          "wins": 1,
+          "total_value": 41425
+        }
+      ],
+      "department": "TRANSPORTATION, DEPARTMENT OF"
+    },
+    {
+      "total_records": 22,
+      "open_opportunities": 22,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 11,
+      "top_awardees": [],
+      "department": "COMMERCE, DEPARTMENT OF"
+    },
+    {
+      "total_records": 16,
+      "open_opportunities": 16,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 4,
+      "top_awardees": [],
+      "department": "STATE, DEPARTMENT OF"
+    },
+    {
+      "total_records": 3,
+      "open_opportunities": 3,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 1,
+      "top_awardees": [],
+      "department": "TREASURY, DEPARTMENT OF THE"
+    },
+    {
+      "total_records": 3,
+      "open_opportunities": 3,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 2,
+      "top_awardees": [],
+      "department": "ADMINISTRATIVE OFFICE OF THE US COURTS"
+    },
+    {
+      "total_records": 2,
+      "open_opportunities": 2,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
@@ -107,35 +919,439 @@
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "INTERIOR, DEPARTMENT OF THE"
+      "department": "UNITED STATES HOLOCAUST MEMORIAL MUSEUM"
+    },
+    {
+      "total_records": 2,
+      "open_opportunities": 2,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "POSTAL SERVICE"
+    },
+    {
+      "total_records": 2,
+      "open_opportunities": 2,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 2,
+      "top_awardees": [],
+      "department": "THE LEGISLATIVE BRANCH"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "SMITHSONIAN INSTITUTION"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "EXPORT-IMPORT BANK OF THE US"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "HOUSING AND URBAN DEVELOPMENT, DEPARTMENT OF"
     }
   ],
   "department_forecasts": {
     "DEPT OF DEFENSE": {
-      "total_records": 229,
-      "open_opportunities": 228,
-      "awarded": 1,
-      "win_rate_percent": 1.3,
-      "estimated_monthly_value": 204273,
-      "average_award_value": 68091,
-      "opportunities_with_attachments": 7,
-      "opportunities_with_keyword_matches": 217,
+      "total_records": 1404,
+      "open_opportunities": 1064,
+      "awarded": 340,
+      "win_rate_percent": 25.0,
+      "estimated_monthly_value": 929243575,
+      "average_award_value": 2647417,
+      "opportunities_with_attachments": 267,
+      "opportunities_with_keyword_matches": 628,
       "top_awardees": [
         {
-          "name": "JESSY RANDY HAPDEI 119 PAGACHAO DR. Agat GU 96928 USA",
+          "name": "INMARSAT GOVERNMENT, INC. Reston VA 20191 USA",
           "wins": 1,
-          "total_value": 204273
+          "total_value": 307102288
         },
         {
-          "name": "",
-          "wins": 2,
-          "total_value": 0
+          "name": "MANCON LLC Virginia Beach VA 23455 USA",
+          "wins": 1,
+          "total_value": 96000000
+        },
+        {
+          "name": "PERATON INC. 12975 WORLDGATE DR STE 7322 Herndon VA 20170 USA",
+          "wins": 1,
+          "total_value": 90685458
+        },
+        {
+          "name": "THE BOEING COMPANY ",
+          "wins": 1,
+          "total_value": 65060600
+        },
+        {
+          "name": "PRESCIENT EDGE CORPORATION 7925 JONES BRANCH DR STE 2300 Mc Lean VA 22102 USA",
+          "wins": 1,
+          "total_value": 59309378
+        }
+      ]
+    },
+    "VETERANS AFFAIRS, DEPARTMENT OF": {
+      "total_records": 134,
+      "open_opportunities": 112,
+      "awarded": 22,
+      "win_rate_percent": 17.2,
+      "estimated_monthly_value": 27163459,
+      "average_award_value": 1181019,
+      "opportunities_with_attachments": 8,
+      "opportunities_with_keyword_matches": 26,
+      "top_awardees": [
+        {
+          "name": "Veteran Elevated Solutions, LLC Tacoma WA 98406 USA",
+          "wins": 1,
+          "total_value": 6888999
+        },
+        {
+          "name": "CDEEM CO Orlando FL 32825 USA",
+          "wins": 1,
+          "total_value": 4776000
+        },
+        {
+          "name": "SEBIA, INC. Norcross GA 30093 USA",
+          "wins": 1,
+          "total_value": 3559789
+        },
+        {
+          "name": "VETERANS CHOICE SERVICES LLC Phoenix AZ 85027 USA",
+          "wins": 1,
+          "total_value": 3491000
+        },
+        {
+          "name": "EVIDEON, INC Grand Rapids MI 49506 USA",
+          "wins": 1,
+          "total_value": 1198800
         }
       ]
     },
     "INTERIOR, DEPARTMENT OF THE": {
-      "total_records": 6,
-      "open_opportunities": 6,
+      "total_records": 87,
+      "open_opportunities": 63,
+      "awarded": 24,
+      "win_rate_percent": 27.6,
+      "estimated_monthly_value": 9634243,
+      "average_award_value": 401426,
+      "opportunities_with_attachments": 2,
+      "opportunities_with_keyword_matches": 9,
+      "top_awardees": [
+        {
+          "name": "MISSOURI RIVER CONTRACTORS, LLC 1500 BLAINE ST HELENA MT 59601 USA",
+          "wins": 1,
+          "total_value": 7407366
+        },
+        {
+          "name": "STATE OF CALIFORNIA DEPARTMENT OF WATER RESOURCES 715 P ST SACRAMENTO CA 95814 USA",
+          "wins": 1,
+          "total_value": 1230182
+        },
+        {
+          "name": "S&P GLOBAL INC. 55, WATER STREET NEW YORK NY 10041 USA",
+          "wins": 1,
+          "total_value": 168757
+        },
+        {
+          "name": "TODD MARCHANT 7807 SW 30TH AVE APT 3 Portland OR 97219 USA",
+          "wins": 1,
+          "total_value": 127875
+        },
+        {
+          "name": "BLACK GOLD INDUSTRIES 527 N RICE AVE Oxnard CA 93030 USA",
+          "wins": 1,
+          "total_value": 100000
+        }
+      ]
+    },
+    "AGRICULTURE, DEPARTMENT OF": {
+      "total_records": 55,
+      "open_opportunities": 46,
+      "awarded": 9,
+      "win_rate_percent": 16.4,
+      "estimated_monthly_value": 130381780,
+      "average_award_value": 14486864,
+      "opportunities_with_attachments": 10,
+      "opportunities_with_keyword_matches": 1,
+      "top_awardees": [
+        {
+          "name": "NATIONAL RURAL WATER ASSOCIATION Duncan OK 73533 USA",
+          "wins": 1,
+          "total_value": 130013794
+        },
+        {
+          "name": "KOCINSKI, TANYA Wasilla AK 99654 USA",
+          "wins": 1,
+          "total_value": 87400
+        },
+        {
+          "name": "GOVCREST INC Metairie LA 70001 USA",
+          "wins": 1,
+          "total_value": 54029
+        },
+        {
+          "name": "RAINFOREST SERVICES, LLC Sitka AK 99835 USA",
+          "wins": 1,
+          "total_value": 50343
+        },
+        {
+          "name": "EXPRESS FORESTRY SERVICE, LLC Leslie AR 72645 USA",
+          "wins": 1,
+          "total_value": 48860
+        }
+      ]
+    },
+    "HOMELAND SECURITY, DEPARTMENT OF": {
+      "total_records": 46,
+      "open_opportunities": 36,
+      "awarded": 10,
+      "win_rate_percent": 23.9,
+      "estimated_monthly_value": 307077432,
+      "average_award_value": 27916130,
+      "opportunities_with_attachments": 6,
+      "opportunities_with_keyword_matches": 10,
+      "top_awardees": [
+        {
+          "name": "BARRICADE INTERNATIONAL LLC Nashville TN 37215 USA",
+          "wins": 1,
+          "total_value": 99000000
+        },
+        {
+          "name": "CHECKMATE GLOBAL, LLC Frederick MD 21703 USA",
+          "wins": 1,
+          "total_value": 99000000
+        },
+        {
+          "name": "ARCUS GROUP, LLC Nashville TN 37201 USA",
+          "wins": 1,
+          "total_value": 99000000
+        },
+        {
+          "name": "SKYQUEST AVIATION LLC Glendale AZ 85307 USA",
+          "wins": 1,
+          "total_value": 5942408
+        },
+        {
+          "name": "KENNEL CLUB OF SOUTHERN CALIFORNIA INC. Los Angeles CA 90045 USA",
+          "wins": 1,
+          "total_value": 1970000
+        }
+      ]
+    },
+    "HEALTH AND HUMAN SERVICES, DEPARTMENT OF": {
+      "total_records": 28,
+      "open_opportunities": 25,
+      "awarded": 3,
+      "win_rate_percent": 10.7,
+      "estimated_monthly_value": 6007916,
+      "average_award_value": 2002638,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 6,
+      "top_awardees": [
+        {
+          "name": "COLOSSAL CONTRACTING LLC Annapolis MD 21401 USA",
+          "wins": 1,
+          "total_value": 3301864
+        },
+        {
+          "name": "FOUR WINDS STAFFING LLC McKinney TX 75072 USA",
+          "wins": 1,
+          "total_value": 1357320
+        },
+        {
+          "name": "AKICITA CYBER LLC Lower Brule SD 57548 USA",
+          "wins": 1,
+          "total_value": 1348732
+        }
+      ]
+    },
+    "COMMERCE, DEPARTMENT OF": {
+      "total_records": 22,
+      "open_opportunities": 22,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 11,
+      "top_awardees": []
+    },
+    "GENERAL SERVICES ADMINISTRATION": {
+      "total_records": 19,
+      "open_opportunities": 14,
+      "awarded": 5,
+      "win_rate_percent": 26.3,
+      "estimated_monthly_value": 1731686,
+      "average_award_value": 346337,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 6,
+      "top_awardees": [
+        {
+          "name": "CERTIFIED STAINLESS SERVICE INC. Ceres CA 95307 USA",
+          "wins": 1,
+          "total_value": 1134712
+        },
+        {
+          "name": "4XBOLT, LLC Westerville OH 43082-9097 USA",
+          "wins": 1,
+          "total_value": 475000
+        },
+        {
+          "name": "LOMBART BROTHERS, INC Norfolk VA 23513 USA",
+          "wins": 1,
+          "total_value": 47740
+        },
+        {
+          "name": "JONATHAN GEORGE Clarksville TN 37043 USA",
+          "wins": 1,
+          "total_value": 41734
+        },
+        {
+          "name": "CURED RELEAF LLC Portsmouth VA 23707 USA",
+          "wins": 1,
+          "total_value": 32500
+        }
+      ]
+    },
+    "JUSTICE, DEPARTMENT OF": {
+      "total_records": 19,
+      "open_opportunities": 18,
+      "awarded": 1,
+      "win_rate_percent": 5.3,
+      "estimated_monthly_value": 2393103,
+      "average_award_value": 2393103,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 10,
+      "top_awardees": [
+        {
+          "name": "LIFE TECHNOLOGIES CORPORATION Carlsbad CA 92008 USA",
+          "wins": 1,
+          "total_value": 2393103
+        }
+      ]
+    },
+    "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION": {
+      "total_records": 17,
+      "open_opportunities": 15,
+      "awarded": 2,
+      "win_rate_percent": 11.8,
+      "estimated_monthly_value": 151761366,
+      "average_award_value": 75880683,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 6,
+      "top_awardees": [
+        {
+          "name": "New Rights Group, Inc. Washington DC 20001 USA",
+          "wins": 2,
+          "total_value": 151761366
+        }
+      ]
+    },
+    "ENERGY, DEPARTMENT OF": {
+      "total_records": 17,
+      "open_opportunities": 15,
+      "awarded": 2,
+      "win_rate_percent": 11.8,
+      "estimated_monthly_value": 127692,
+      "average_award_value": 63846,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 5,
+      "top_awardees": [
+        {
+          "name": "RURAL ELECTRIC SUPPLY COOPERATIVE P.O. BOX 44430 Madison WI 53744 USA",
+          "wins": 1,
+          "total_value": 88692
+        },
+        {
+          "name": "NORTHWEST POWER POOL 7525 NE Ambassador Pl Ste M Portland OR 97220 USA",
+          "wins": 1,
+          "total_value": 39000
+        }
+      ]
+    },
+    "STATE, DEPARTMENT OF": {
+      "total_records": 16,
+      "open_opportunities": 16,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 4,
+      "top_awardees": []
+    },
+    "TRANSPORTATION, DEPARTMENT OF": {
+      "total_records": 8,
+      "open_opportunities": 7,
+      "awarded": 1,
+      "win_rate_percent": 12.5,
+      "estimated_monthly_value": 41425,
+      "average_award_value": 41425,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 1,
+      "top_awardees": [
+        {
+          "name": "ARHAB LLC Stratford CT 06614 USA",
+          "wins": 1,
+          "total_value": 41425
+        }
+      ]
+    },
+    "TREASURY, DEPARTMENT OF THE": {
+      "total_records": 3,
+      "open_opportunities": 3,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 1,
+      "top_awardees": []
+    },
+    "ADMINISTRATIVE OFFICE OF THE US COURTS": {
+      "total_records": 3,
+      "open_opportunities": 3,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 2,
+      "top_awardees": []
+    },
+    "UNITED STATES HOLOCAUST MEMORIAL MUSEUM": {
+      "total_records": 2,
+      "open_opportunities": 2,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
@@ -144,22 +1360,94 @@
       "opportunities_with_keyword_matches": 0,
       "top_awardees": []
     },
-    "VETERANS AFFAIRS, DEPARTMENT OF": {
-      "total_records": 1,
-      "open_opportunities": 0,
+    "POSTAL SERVICE": {
+      "total_records": 2,
+      "open_opportunities": 2,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": []
+    },
+    "THE LEGISLATIVE BRANCH": {
+      "total_records": 2,
+      "open_opportunities": 2,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 2,
+      "top_awardees": []
+    },
+    "ENVIRONMENTAL PROTECTION AGENCY": {
+      "total_records": 2,
+      "open_opportunities": 1,
       "awarded": 1,
-      "win_rate_percent": 100.0,
-      "estimated_monthly_value": 6490000,
-      "average_award_value": 6490000,
+      "win_rate_percent": 50.0,
+      "estimated_monthly_value": 5391195,
+      "average_award_value": 5391195,
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [
         {
-          "name": "DOMINGUEZ & PERSONS, LLC Pensacola FL 32504 USA",
+          "name": "SERCO INC 12930 Worldgate Drive Suite 600 Herndon VA 20170 USA",
           "wins": 1,
-          "total_value": 6490000
+          "total_value": 5391195
         }
       ]
+    },
+    "SMITHSONIAN INSTITUTION": {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": []
+    },
+    "EXPORT-IMPORT BANK OF THE US": {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": []
+    },
+    "LIBRARY OF CONGRESS": {
+      "total_records": 1,
+      "open_opportunities": 0,
+      "awarded": 1,
+      "win_rate_percent": 100.0,
+      "estimated_monthly_value": 49400,
+      "average_award_value": 49400,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [
+        {
+          "name": "RICECAPADES LLC Brooklyn NY 11226 USA",
+          "wins": 1,
+          "total_value": 49400
+        }
+      ]
+    },
+    "HOUSING AND URBAN DEVELOPMENT, DEPARTMENT OF": {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": []
     }
   }
 }

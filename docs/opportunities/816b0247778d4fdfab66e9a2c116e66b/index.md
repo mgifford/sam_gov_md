@@ -1,0 +1,31 @@
+---
+layout: default
+title: Lease or rental of 10-ton forklift IAW PWS
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 816b0247778d4fdfab66e9a2c116e66b
+---
+
+# Lease or rental of 10-ton forklift IAW PWS
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-05-04 16:27:51.171-04
+- Solicitation Number: N3225326Q0036
+
+## Summary
+
+**NOTE** The Solicitation has been amended to add: i. FAR 52.222-90 Addressing DEI Discrimination by Federal Contractors. Please see updated Solicitation Amendment ----------------------------------------------------------------------------------------------------- Pearl Harbor Naval Shipyard & Intermediate Maintenance Facility (PHNSY & IMF) is a US Navy regional industrial center that maintains, overhauls and repairs various vessels of the US Navy. Its industrial operations provide the US naval forces with a wide range of services and resources located on the island of Oahu, Hawaii, with direct and indirect support to submarines, surface vessels and shore based activities in the Pacific. PHNSY & IMF seeks the rental of one (1) 10-Ton forklift to assist in operations within the shipyard. Contract to cover base year and one (1) option year, which will consist of six (6) months. The contractor shall provide all labor, equipment, tools and materials in order to accomplish the work detailed in the Performance Work Statement (PWS). The tentative period of performance for this service: Base Period*: From 18 May 2026 to 17 May 2027 Option Period*: From 18 May 2027 to 18 November 2027 * Performance Period may be updated. If you are unable to meet the Period of Performance date, please submit soonest availability with submission of quotation. The applicable North American Industry Classification System (NAICS) code assigned to this procurement is 532490 Other Commercial and Industrial Machinery and Equipment Rental and Leasing; size standard for this NAICS is $40,000,000.00. Product Service Code is W039 – Lease or Rental of Equipment – Materials Handling Equipment. Please note the following: The solicitation number for this requirement is N32253-26-Q-0036 Quotes are due no later than 05/08/2026 at 12:00 p.m. HST. Quotes must be sent via email to both the primary and secondary points of contact. All firms or individuals responding must be registered with the System for Award Management(SAM) https://www.sam.gov) by the award date. As part of the price quote package, the Offeror shall submit the completed SF 1449 with blocks 17a., 30a., 30b. and 30c. (SF 1449 page 1) and CLIN information 0001 and 1001 (SF 1449 page 3) completed. Submission of a signed offer to the Government constitutes agreement and acceptance of the solicited terms and conditions. The Government may revise the solicitation at any time by means of an Amendment. It is an offeror’s responsibility to ensure it is accessing the Government Point of Entry (GPE) website, https://sam.gov/, to view potential amendments and procurement notifications for this solicitation. The proposal shall include: Technical Capability Statement: Please submit a technical capability statement (not to exceed 5 pages) that clearly demonstrates thorough knowledge and understanding of, and approach to, accomplishing each paragraph listed in the PWS and solicitation requirements. The proposal must contain sufficient details so that it may be evaluated in accordance with the PWS and comply with the period of performance set forth in the solicitation. Nonconformance will deem an Offeror ineligible. As part of the technical proposal submit the following documents: forklift specifications or brochure, if using subcontractor provide a subcontracting statement that describes the prime and subcontractor roles and a signed commitment letter form the subcontractor. Certification that the forklift can be delivered on or before POP start date; Past Performance: On a separate sheet (no more than 3 pages) submit a list (2 to 3) recent (within 2 years) previous contracts that is similar or the same as on this solicitation. The resulting contract award requires a CMMC Level 1 self certification for handling Federal Contract Information (FCI). Therefore, this solicitation includes DFARS provision 252.204-7025. Offerors must possess a valid CMMC Level 1 (SelfAssessment) certification at the time of offer submission and for the duration of any resulting contract. Government will verify Offeror's CMMC Level 1 (Self- Assessment) certification at the time of offer submission. Offerors failing to meet this requirement at the time of offer submission will be considered ineligible for award and their offers will not be evaluated. Offer Delivery: Offerors shall deliver their Offer via email only to the Government Points of Contact (POC's) listed below. No other means of delivery will be accepted. Notice of email size and attachments: Offerors are hereby advised that the size limit including attachments is 35 MB per email. Emails that exceed this size limit will not be received by the Government. It is the Offeror's sole responsibility to ensure their Offer is received by the Government POCs no later than the specified closing date and time. When necessary to comply with this size limit, the Offeror may deliver their Offer through multiple emails, with each email clearly marked in the Subject line indicating its sequence order within the total number of emails being transmitted (for example, email 1 of 3). Offers received after the due date may not be considered unless the Contracting Officer determines that the delay was caused solely by the Government and accepting the Offer is in the best interest of the Government. Contract award will be in accordance to 52.212-2 as stated in the solicitation. All questions regarding solicitation N32253-26-Q-0036 shall be submitted in writing via email to the listed POCs. Questions are due 05/04/2026 12:00 PM HST.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Kelliann Shimote
+  - Email: kelliann.a.shimote.civ@us.navy.mil
+- Secondary Contact:
+  - Name: Lyndon Paloma
+  - Email: lyndon.g.paloma.civ@us.navy.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/816b0247778d4fdfab66e9a2c116e66b/view)

@@ -1,0 +1,28 @@
+---
+layout: default
+title: Janitorial Services for GLERL in Muskegon, MI
+agency: COMMERCE, DEPARTMENT OF
+notice_type: Solicitation
+notice_id: 1ff4e0fffec74e63adae27e153806224
+---
+
+# Janitorial Services for GLERL in Muskegon, MI
+
+- Agency: COMMERCE, DEPARTMENT OF
+- Type: Solicitation
+- Posted: 2026-05-04 12:10:30.951-04
+- Solicitation Number: 1305M326Q0160
+
+## Summary
+
+REQUEST FOR QUOTATIONS (RFQ) Janitorial Services for GLERL in Muskegon, MI (i) This is a request for quotations (RFQ) for commercial products or commercial services prepared in accordance with part 12. This announcement constitutes the only solicitation. Offers are being requested and a separate written solicitation will not be issued. Solicitation number 1305M326Q0160 is issued as a request for quotations (RFQ), for Janitorial Services for GLERL in Muskegon, MI. This acquisition is set-aside for small business concerns. The associated NAICS code is 561720. The small business size standard is $22.0 Million. This solicitation incorporates provisions and clauses by reference. The full text of provisions and clauses may be accessed electronically at www.acquisition.gov. (ii) A list of line-item number(s) and items, quantities, and units of measure (including option(s), if applicable). CLIN 0001 – Base Year Services, non-personal, to provide all labor, equipment and materials (unless otherwise provided herein) necessary for Janitorial Services at the Great Lakes Environmental Research Laboratory in Muskegon, MI, in accordance with the Statement of Work. Period of Performance 06/01/2026 through 05/31/2027. CLIN 1001 – Option Year 1 Services, non-personal, to provide all labor, equipment and materials (unless otherwise provided herein) necessary for Janitorial Services at the Great Lakes Environmental Research Laboratory in Muskegon, MI, in accordance with the Statement of Work. Period of Performance 06/01/2027 through 05/31/2028. CLIN 2001 – Option Year 2 Services, non-personal, to provide all labor, equipment and materials (unless otherwise provided herein) necessary for Janitorial Services at the Great Lakes Environmental Research Laboratory in Muskegon, MI, in accordance with the Statement of Work. Period of Performance 06/01/2028 through 05/31/2029. CLIN 3001 – Option Year 3 Services, non-personal, to provide all labor, equipment and materials (unless otherwise provided herein) necessary for Janitorial Services at the Great Lakes Environmental Research Laboratory in Muskegon, MI, in accordance with the Statement of Work. Period of Performance 06/01/2029 through 05/31/2030. CLIN 4001 – Option Year 4 Services, non-personal, to provide all labor, equipment and materials (unless otherwise provided herein) necessary for Janitorial Services at the Great Lakes Environmental Research Laboratory in Muskegon, MI, in accordance with the Statement of Work. Period of Performance 06/01/2030 through 05/31/2031. (iii) Description of requirements for the items to be acquired, including documentation supporting any brand name descriptions (see 12.102). See attached Statement of Work which applies to Base Year and all Option Years 1 – 4, and Department of Labor Wage Rates: WD 2015-4861, Revision No. 28, dated 12/03/2025, which can be found on: https://sam.gov/content/wage-determinations INVOICES TO BE BILLED MONTHLY IN ARREARS VIA IPP. PROVIDE MONTHLY AND ANNUAL PRICING FOR EACH BASE AND OPTION YEAR. QUOTE PRICING MAY BE PROVIDED ON ATTACHED SF18 FORM OR ON COMPANY LETTERHEAD. (iv) Date(s) and place(s) of delivery and acceptance and f.o.b. point (see part 47). Period of performance shall be: Base Year for a twelve month period 06/01/2026 through 05/31/2027. Option Period 1 for a twelve month period 06/01/2027 through 05/31/2028. Option Period 2 for a twelve month period 06/01/2028 through 05/31/2029. Option Period 3 for a twelve month period 06/01/2029 through 05/31/2030. Option Period 4 for a twelve month period 06/01/2030 through 05/31/2031. The start date is an estimate and is subject to new funding approval processes. If there is a significant delay in awarding this contract, a shortened base year Period of Performance may be utilized or an updated quote may be requested with a new 12-month base year and corresponding option years. Place of Performance is: Great Lakes Environmental Research Laboratory Lake Michigan Field Station 1431 Beach Street Muskegon, MI 49441 (v) A list of solicitation provisions that apply to the acquisition (see 12.205(a)) can be found on the Request for Quote Form SF18 attachment. (vi) A list of contract clauses that apply to the acquisition (see 12.205(b)) can be found on the Request for Quote Form SF18 attachment. (vii) Quotes are required to be received via email to Jamie.Rosales@noaa.gov no later than 12:00 PM MST/MDT on 05/08/2026. THE GOVERNMENT DOES NOT ACCEPT RESPONSIBILITY FOR NON-RECEIPT OF QUOTES. IT IS THE CONTRACTOR’S RESPONSIBILITY TO REQUEST AND RECEIVE A CONFIRMATION OF THE QUOTE RECEIPT. (End of clause) (viii) Any other additional information required by 5.101(c). Per NOAA Deviation 2025-02/03: System updates may lag policy updates. The System for Award Management (SAM) may continue to require entities to complete representations based on provisions that are not included in agency solicitations. Contracting officers will not consider those representations when making award decisions or enforce requirements. Entities are not required to, nor are they able to, update their entity registration to remove these representations in SAM. (End)
+
+## Contacts
+
+- Primary Contact:
+  - Name: ROSALES, JAMIE
+  - Email: JAMIE.ROSALES@NOAA.GOV
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1ff4e0fffec74e63adae27e153806224/view)

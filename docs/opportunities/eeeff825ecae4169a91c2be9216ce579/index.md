@@ -1,0 +1,29 @@
+---
+layout: default
+title: REPAIR SERVICES FOR THE JTE PROGRAM
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: eeeff825ecae4169a91c2be9216ce579
+---
+
+# REPAIR SERVICES FOR THE JTE PROGRAM
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-05-04 10:27:23.365-04
+- Solicitation Number: FA825026R0005
+
+## Summary
+
+THIS REQUIREMENT IS FOR REPAIR SERVICES FOR THE JTE PROGRAM AND OPEN TO CURRENT APPROVED SOURCES LISTED ON THE APPROVED SOURCES LIST. THIS IS FOR THE REPAIR OF 10 EACH, BEARING UNIT, BALL, NSN: 3130-01-600-0428, PN: 723B16. THIS SOLICITATION WILL CLOSE JUNE 1, 2026, AT 4P. MOUNTAIN TIME.
+
+## Contacts
+
+- Primary Contact:
+  - Name: JOHN PRATHER
+  - Email: JOHN.PRATHER.3@US.AF.MIL
+  - Phone: 8015863463
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/eeeff825ecae4169a91c2be9216ce579/view)

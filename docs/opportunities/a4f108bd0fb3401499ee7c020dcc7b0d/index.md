@@ -1,0 +1,28 @@
+---
+layout: default
+title: 58--RECEIVER TRANSMIT,A
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: a4f108bd0fb3401499ee7c020dcc7b0d
+---
+
+# 58--RECEIVER TRANSMIT,A
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-05-04 15:36:13.158-04
+- Solicitation Number: SPRPA126RXA83
+
+## Summary
+
+ITEM UNIQUE IDENTIFICATION AND VALUATION (JAN 2023)|19|||||||||||||||||||| HIGHER-LEVEL CONTRACT QUALITY REQUIREMENT|8|||x|AS9100 or higher||||| STOP-WORK ORDER (AUG 1989)|1|| FMS DELIVERY AND SHIPPING INSTRUCTIONS|3||P090|N52212.30| WIDE AREA WORKFLOW PAYMENT INSTRUCTIONS (JAN 2023)|16|Invoice and Receiving Report(combo)||TBD|SPRPA1|TBD|TBD|TBD|TBD||||||||| NAVY USE OF ABILITYONE SUPPORT CONTRACTOR - RELEASE OF OFFEROR INFORMATION (3-18))|1|| MANDATORY USE OF WORKFLOW PRO (WFP) MOD ASSIST MODULE|1|| VALUE ENGINEERING (JUN 2020)|3|||| INTEGRITY OF UNIT PRICES (NOV 2021)|1|| EQUAL OPPORTUNITY FOR VETERANS (DEV 2026-O0040)(FEB 2026)|4||||| WARRANTY OF SUPPLIES OF A NONCOMPLEX NATURE (JUN 2003)|6|365 Days|45 Days After Discovery of Defect||||| EQUAL OPPORTUITY FOR WORKERS WITH DISABILITIES (DEV 2026-O0040)(FEB 2026)|4||||| TRANSPORTATION OF SUPPLIES BY SEA (OCT 2024)|2||| BUY AMERICAN-FREE TRADE AGREEMENTS-BALANCE OF PAYMENTS PROGRAM-BASIC (FEB 2024)|11|||||||||||| LIMITATION OF LIABILITY--HIGH-VALUE ITEMS (FEB 1997)|1|| ESTIMATE OF PERCENTAGE OF RECOVERED MATERIAL CONTENT FOR EPA DESIGNATED PRODUCTS (MAY 2008))|1|| SECURITY PROHIBITIONS AND EXCLUSIONS (CLASS DEVIATION 2026-O0025)(FEB 2026)|7|||||||| BUY AMERICAN-FREE TRADE AGREEMENTS-BALANCE OF PAYMENTS PROGRAM CERTIFICATE-BASIC (FEB 2024))|5|||||| BUY AMERICAN--BALANCE OF PAYMENTS PROGRAM CERTIFICATE-BASIC (FEB 2024)|1|| ALTERNATE A, ANNUAL REPRESENTATIONS AND CERTIFICATIONS (DEVIATION 2026-O0043)(FEB 2026))|13|||||||||||||| ROYALTY INFORMATION (APR 1984)|1|| NOTICE OF PRIORITY RATING FOR NATIONAL DEFENSE, EMERGENCY PREPAREDNESS, ANDENERGY PROGRAM USE (APR 2008))|2||x| ONLY ONE OFFER (DEVIATION 2026-O0048)(MAR 2026)|1|| No drawings are available for this Request for Proposal. NAICS Code:334290 Small Business Size Standard: 800 Requested Delivery SUBCLIN: 0001AA Quantity:4 Delivery Days:365 days THIS IS A CRITICAL APPLICATION ITEM (CAI). This solicitation includes procurement note L09 Reverse Auction (Oct 2016) from DLAD 15.407-90. The Government may conduct a reverse auction. The following is included in section M of this solicitation: The Government will consider all responsible offerors/quoters for award. The Government will evaluate offerors/quoters based on price, delivery timeframe, and past performance. All evaluation factors other than cost or price, when combined, are approximately equal to cost or price. Only New and Unsed Items will be considered. \
+
+## Contacts
+
+- Primary Contact:
+  - Name: Telephone: 2157373832
+  - Email: MARY.LINDSAY@DLA.MIL
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a4f108bd0fb3401499ee7c020dcc7b0d/view)

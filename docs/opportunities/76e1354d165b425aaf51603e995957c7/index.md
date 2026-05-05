@@ -1,0 +1,28 @@
+---
+layout: default
+title: Notice of Intent to Sole Source for Sensor Deployment
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: 76e1354d165b425aaf51603e995957c7
+---
+
+# Notice of Intent to Sole Source for Sensor Deployment
+
+- Agency: DEPT OF DEFENSE
+- Type: Presolicitation
+- Posted: 2026-05-04 18:13:20.489-04
+- Solicitation Number: W913E526N4982
+
+## Summary
+
+The U.S. Army Corps of Engineers (USACE), Engineer Research and Development Center (ERDC), Cold Regions Research Laboratory (CRREL) intends to award a contract on a sole source basis to Mount Washington Observatory upon the basis of the authority provided at RFO 12.102(a). ERDC-CRREL requires services of site access, field support, and data products supporting a sensor deployment near the summit of Mount Washington in New Hampshire that will begin in 2026. The anticipated Period of Performance (POP) is one 12-month base period and three 12-month option periods. CRREL, through the ERDC GRE 6.1 program, is testing the sensitivity of fiber optic sensor systems to environmental conditions, with an emphasis on cold and extreme conditions. Under this action, CRREL requires support services, data products, site access, deployment and maintenance support to advance the research project as follows: Support Services – The contractor shall provide field support services and data products to CRREL in accordance with the subtasks detailed in the Performance Work Statement (PWS). Data Products – The contractor shall provide data products (raw data and formatted summary reports) resulting from meteorological (MET) stations in close proximity to the deployed fiber-optic cable. The specific MET stations will be determined by cable layout. Data will be provided at the highest sampling rate possible (e.g., hourly), and data reports will summarize monthly data. Site Access – The contractor shall provide site access support to CRREL during the funded period of this task. Site access includes access for up to 10 CRREL personnel as needed throughout the deployment, including to support site scouting, data download, and cable maintenance. Site access also includes the ability to house the interrogator units with peripherals and provide continuous power. Lastly, site access includes coordination with other parties with land rights near the summit and along the access roads, including the Cog Railway and the Mount Washington Auto road. Any fees required by these organizations will be handled by the Contractor. Deployment and Maintenance Support – The contractor will support CRREL during sensor deployment and / or maintenance throughout the year, when required and with sufficient lead time. Mount Washington Observatory has been identified as the only source capable of fulfilling the Government’s requirement due to its unique combination of setting, access, and independent data collection. Mount Washington exhibits extreme and highly variable environmental and meteorological conditions, rendering it an ideal natural environment for testing and data collection that cannot be replicated in a laboratory. The Government requires a site that can provide a stable, climate-controlled setting for sensitive instrumentation along with a site to run several kilometers of fiber-optic cable that will serve as the sensing element. The Observatory, which maintains a continuous presence at the summit, is uniquely positioned to offer infrastructure at the summit as well as continuous, year-round access to the site for maintenance. Furthermore, the Observatory operates a dense sensor network that records conditions with unusually fine spatial resolution, meeting another requirement of the work to correlate sensor performance with environmental fluctuations. Lastly, the field site is within 100 miles of the duty station of key RS/GIS CX technical staff, addressing the need for supplemental field measurements that must be conducted during the duration of the experiment. Due to the unique scientific exploration access and support required, Mount Washington Observatory is deemed the only provider reasonably capable of fulfilling the Government’s requirements. This Notice of Intent is not a request for competitive quotations. However, interested parties may identify their interest and capability to respond to this requirement. Any interested party that believes they can fulfill this requirement should submit a capability statement to be reviewed. All submissions will be considered, however there is no guarantee that submissions in response to this notice will in any way alter the Government's acquisition strategy. Responses to this notice shall be submitted NLT 12:00 PM CDT, 11 May 2026 to: Tomeka.J.McNeely@usace.army.mil. Telephone responses will not be accepted. Responses to this notice will not be considered as a response to any solicitation, a request to be added to a prospective offerors list, or to receive a copy of any solicitation. A determination by the Government not to compete the contract based upon responses to this notice is solely within the discretion of the Government. Information received will be considered solely for the purpose of determining whether to conduct a competitive procurement. Note: In order to be eligible for award of a Government contract, vendors must be actively registered in the System for Award Management (SAM), have no active exclusions, and complete the FAR and DFARS representations and certifications.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Tomeka McNeely
+  - Email: Tomeka.J.McNeely@usace.army.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/76e1354d165b425aaf51603e995957c7/view)
