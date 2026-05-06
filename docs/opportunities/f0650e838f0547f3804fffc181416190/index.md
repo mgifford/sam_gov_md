@@ -1,0 +1,29 @@
+---
+layout: default
+title: Environmental Monitoring and ISO 14644 Certification Services for NIH Center for Cellular Engineering (CCE)
+agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+notice_type: Presolicitation
+notice_id: f0650e838f0547f3804fffc181416190
+---
+
+# Environmental Monitoring and ISO 14644 Certification Services for NIH Center for Cellular Engineering (CCE)
+
+- Agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+- Type: Presolicitation
+- Posted: 2026-05-05 18:15:10.873-04
+- Solicitation Number: 26-004699
+
+## Summary
+
+Title: Environmental Monitoring and ISO 14644 Certification Services for NIH Center for Cellular Engineering (CCE) Classification Code (PSC): Q301 – Medical – Laboratory Testing NAICS Code: 621511 – Medical Laboratories Place of Performance: National Institutes of Health Clinical Center Bethesda, MD 20892 POTS: 26-004699 Description This notice is issued for informational purposes only and does not constitute a request for quotations. A solicitation will not be issued, and quotations will not be requested. The National Institutes of Health (NIH), Clinical Center, intends to award a sole source firm-fixed-price contract to American Certified LLC to provide environmental monitoring and certification services for the Center for Cellular Engineering facilities. These services include confirmation that air changes per hour, HEPA filter integrity, differential pressure between controlled rooms, and non-viable particulate levels comply with Food and Drug Administration (FDA) mandates and meet the established criteria outlined in ISO 14644. ISO 14644 defines the standards for cleanrooms used in aseptic processing and is critical to ensure patient safety by minimizing the risk of environmental contamination during the production of cell-based therapies. The anticipated period of performance is from 05/25/2026 to 10/25/2026 Background The Center for Cellular Engineering (CCE) manufactures cell-based therapies for patients who have no remaining or effective standard treatment options. These manufacturing operations are regulated under Current Good Manufacturing Practices (cGMP) as mandated by the Food and Drug Administration (FDA) in accordance with 21 CFR Parts 210, 211, 600, and 1271. This contract supports CCE’s environmental monitoring program, which ensures that facilities used for aseptic processing of cell-based therapies for patients enrolled in NIH-sponsored clinical trials are certified as fit for use. The program includes routine sampling of facility air and surfaces to assess environmental conditions and detect the presence of microorganisms. Data collected through this program enables tracking and trending to identify potential issues with air handling systems and facility conditions before they impact patient therapies. These environmental monitoring activities are required by the FDA to ensure compliance with regulatory standards and to safeguard patient safety. The contractor shall provide environmental monitoring, testing, and certification services to ensure that the Center for Cellular Engineering (CCE) facilities meet the room classification standards established under ISO 14644 and are fit for aseptic processing operations. Required tasks include sampling air quality for non-viable particulates, performing viable and non-viable air sampling, calculating air changes per hour (ACH) for each critical room, conducting HEPA filter integrity testing, measuring differential pressures between controlled rooms to verify proper airflow and pressure relationships, and testing Biological Safety Cabinets (BSCs) in accordance with NSF/ANSI 49 standards. The contractor shall perform these services within the 2J and T10B facilities and provide a comprehensive certification package for each facility. Deliverables shall include detailed reports documenting all testing performed, results obtained, and confirmation that each room meets its designated ISO classification and applicable FDA requirements. The contractor shall coordinate with the Head of the CCE Environmental Monitoring Program to schedule testing activities, submit reports for review, and make any necessary corrections to ensure final acceptance by CCE Quality Assurance. Rationale: American Certified LLC is the only vendor approved and qualified to perform these services without risk to regulatory compliance or patient safety. Authority This acquisition is being conducted in accordance with: FAR 13.106-1(b)(1) – Soliciting from a Single Source Under this authority, the Contracting Officer may solicit from a single source when it is determined that only one source is reasonably available to meet the Government’s requirements. Acquisitions conducted under FAR Part 13 – Simplified Acquisition Procedures are exempt from the competition requirements of FAR Part 6. Responses This is not a request for quotations. However, interested parties may submit a capability statement demonstrating their ability to meet the Government’s requirement. Responses must include: Company name and address Technical capability Proof of OEM authorization Relevant past performance The Government will evaluate capability statements received in response to this notice. The determination not to compete this requirement is solely within the discretion of the Government. Submission Instructions Responses referencing POTS: 26-004699 must be submitted electronically no later than May 15, 2026, at 4:30PM EST to: Shasheshe Goolsby Team Leader Hospital and Laboratory Support Division Office of Acquisitions and Logistics Management National Institutes of Health Email: shasheshe.goolsby@nih.gov
+
+## Contacts
+
+- Primary Contact:
+  - Name: Shasheshe Goolsby
+  - Email: shasheshe.goolsby@nih.gov
+  - Phone: 3018274879
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f0650e838f0547f3804fffc181416190/view)

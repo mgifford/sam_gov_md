@@ -1,0 +1,38 @@
+---
+layout: default
+title: 618-26-702 EHRM Install DDPO 2
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Solicitation
+notice_id: 958181cfe48644d0867b330838f784e0
+---
+
+# 618-26-702 EHRM Install DDPO 2
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Solicitation
+- Posted: 2026-05-05 17:12:59.246-04
+- Solicitation Number: 36C26326B0030
+
+## Summary
+
+The intent of this project is to provide construction services for a Department of Veteran Affairs Electronic Health Records Modernization (EHRM) project initiative and a 2026 Current State Review (CSR) at the Minneapolis VA Medical Center, One Veterans Drive, Minneapolis, MN 55417-2309. The initiative is an implementation and the deployment of new Electronic Health Record (EHR) system across federal entities and install additional Data Drop and Power Outlets (DDPO’s) as identified during the CSR assessment. The construction contractor shall supply all equipment, labor, materials, and supervision to complete project upgrades which includes the installation of Data Drops and Power Outlets, mounting of Over-Current Elements (OCE’s), Tracking Boards and Wall mounts. Conduct and incorporate pre-construction risk assessments (PCRA) and Infection Control Risk Assessments (ICRA) for air quality, infection control, noise, vibration, or any other hazards applicable to their work per Veterans Affairs (VA) Standard Environment of Care Standard (EC) 02 06 05. See ICRA Matrix of Precautions for Construction and Renovation. See Attachment 3 ICRA Assessments, Level 2 through 4 (three [3] total). Power and transmission cable pulls will be installed in separate raceways/conduits/ and or separated, per manufacturer performance data information. All data cabling to be Category CAT 6A. Install quantity (QTY) (29) CAT 6A cable drops from new Telecommunication Rooms (TRs) to identified locations. See Building Plan Views for 618-26-702 for room and wall locations of installs. Telecommunication Cable pulls/drops not to exceed 300 feet for estimating purposes. QTY (1) cable drop location will require QTY (29) CAT 6A cables to be pulled. The QTY (29) cable drops installed within wall space to be protected in conduit requiring demolition of a wall section, repair and paint finishing. Furnish and install wall boxes and cover plates as needed for network connections or power installations. Follow current telecommunication or efficient routing paths above or below ceiling from Telecommunications Room (TR) patch panels to wall room outlets. All cables shall be in continuous lengths for origin to destination and secured to cable support structures per National Electric Code (NEC) requirements. (Any and all Cable splices will have to be approved by the COR) All new CAT 6A cable installations shall be tested and certified. Certification reports shall be submitted to the COR Bi-Weekly. All new cable pulls to be terminated at both ends. Termination locations in TR closets will be identified by site Subject Matter Experts (SME’s) Contractor to follow current VA Standards for cable, patch panel, and outlet labeling. All labels to be machine generated (not hand-written) using labeling software or machine. Install QTY (50) duplex 120 Volts Alternating Current (VAC) emergency power sourced outlets. Contractor to consider emergency power installations not to exceed 250 feet. Contractor to conduct a load test in the nearest junction box to verify the suitability for both new and existing outlets. The combined loads in a circuit shall not exceed 80% of the circuit’s total load capacity. If extending from an existing junction box to surface mounted raceway, flexible conduit may be used if it does not exceed 6 feet in length. Analog Phone List. Contractor to complete all work in accordance with: VA standards and Construction Specifications. NEC Standards Office of Electronic Health Record Modernization (OEHRM) Site Infrastructure, and End user Device (EUD) requirements (Latest Revision) Office of Information Technology (OIT) Design Guide, and design templates Infrastructure Standard for Telecommunication Spaces (ISTS) (Latest Version). Replace any damaged ceiling tiles due to the course of work. Touchup/repair/paint and damaged walls or ceilings due to new installation of wire and cable, conduit installations,etc. This project shall be completed within Ninety-Five (95) calendar days once NTP is issued.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Timothy Wanamaker
+  - Email: Timothy.Wanamaker@va.gov
+- Secondary Contact:
+  - Name: Dwayne Brauch
+  - Email: dwayne.brauch@va.gov
+  - Phone: 6512933039
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: ICRA Assessments, Level 2 through 4 (three [3] total). Power and transmission cable pulls will be installed in separate raceways/conduits/ and or separated, per manufacturer performance data information. All data cabling to be Category CAT 6A. Install quantity (QTY) (29) CAT 6A cable drops from new Telecommunication Rooms (TRs) to identified locations. See Building Plan Views for 618-26-702 for room and wall locations of installs. Telecommunication Cable pulls/drops not to exceed 300 feet for estimating purposes. QTY (1) cable drop location will require QTY (29) CAT 6A cables to be pulled. The QTY (29) cable drops installed within wall space to be protected in conduit requiring demolition of a wall section, repair and paint finishing. Furnish and install wall boxes and cover plates as needed for network connections or power installations. Follow current telecommunication or efficient routing paths above or below ceiling from Telecommunications Room (TR) patch panels to wall room outlets. All cables shall be in continuous lengths for origin to destination and secured to cable support structures per National Electric Code (NEC) requirements. (Any and all Cable splices will have to be approved by the COR) All new CAT 6A cable installations shall be tested and certified. Certification reports shall be submitted to the COR Bi-Weekly. All new cable pulls to be terminated at both ends. Termination locations in TR closets will be identified by site Subject Matter Experts (SME’s) Contractor to follow current VA Standards for cable, patch panel, and outlet labeling. All labels to be machine generated (not hand-written) using labeling software or machine. Install QTY (50) duplex 120 Volts Alternating Current (VAC) emergency power sourced outlets. Contractor to consider emergency power installations not to exceed 250 feet. Contractor to conduct a load test in the nearest junction box to verify the suitability for both new and existing outlets. The combined loads in a circuit shall not exceed 80% of the circuit’s total load capacity. If extending from an existing junction box to surface mounted raceway, flexible conduit may be used if it does not exceed 6 feet in length. Analog Phone List. Contractor to complete all work in accordance with: VA standards and Construction Specifications. NEC Standards Office of Electronic Health Record Modernization (OEHRM) Site Infrastructure, and End user Device (EUD) requirements (Latest Revision) Office of Information Technology (OIT) Design Guide, and design templates Infrastructure Standard for Telecommunication Spaces (ISTS) (Latest Version). Replace any damaged ceiling tiles due to the course of work. Touchup/repair/paint and damaged walls or ceilings due to new installation of wire and cable, conduit installations,etc. This project shall be completed within Ninety-Five (95) calendar days once NTP is issued
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/958181cfe48644d0867b330838f784e0/view)

@@ -1,0 +1,31 @@
+---
+layout: default
+title: S208--GROUNDS MAINTENANCE | STL | JB |
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: 591ad2d298bf4a84a54d26fe4d5f158a
+---
+
+# S208--GROUNDS MAINTENANCE | STL | JB |
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-05-05 16:23:04.925-04
+- Solicitation Number: 36C25526Q0380
+- Awardee: null
+
+## Summary
+
+THIS REQUEST FOR INFORMATION (RFI)/SOURCES SOUGHT DISCLAIMER 1. This RFI is issued solely for information and planning purposes only. The information received in response to this RFI will be safeguarded adequately from any unauthorized disclosure. The Government does not intend to award a contract on the basis of the RFI or otherwise pay for the information requested. All information received in response to this RFI will be treated as information only and not as a proposal. 2. The submission of pricing, capabilities for planning purposes, and other market information is highly encouraged and allowed under this RFI In Accordance With (IAW) RFO FAR Part 15.101(c). SOURCES SOUGHT DESCRIPTION 3. This is NOT a solicitation announcement. This is a RFI/sources sought only. The purpose of this sources sought/RFI is to gain knowledge of potential qualified sources and their size classification relative to NAICS 561730. Responses to this sources sought will be used by the Government to make appropriate acquisition decisions. After review of the responses to this sources sought, a solicitation announcement may be published. Responses to this sources sought synopsis are not considered adequate responses for a solicitation announcement. 4. The Department of Veterans Affairs (VA), VISN 15 Network Contracting Office, is seeking sources that can provide the following: GROUND MAINTENANCE SERVICES AT JEFFERSON BARRACKS VAMC Description of Services: The contractor shall provide all personnel and equipment, supplies, facilities, transportation, tools, materials, supervision, and other items necessary for ground maintenance in a manner that will maintain healthy grass and present a clean, neat, professional appearance. Background: The Jefferson Barracks campus is a 126.65-acre facility located at 1 Jefferson Barracks Dr., St. Louis Mo, 63125. The facility has a requirement for a grounds contractor to cut, trim, and maintain all grass, and remove weeds, as scheduled per the Quality Control plan and performance standards. The contractor shall remove dead trees/shrubs/limbs/debris, clear freshly cut grass from all roads and sidewalks, fertilize the grass twice per year, pick up and dispose of fallen leaves. Objective: The daily (work week) services are intended to improve and maintain the overall visual impression of the Jefferson Barracks VAMC. These professional services will maintain the grass and trees by cutting, trimming and fertilizing the grass the contractor will also be responsible for the cleaning of exterior concrete surfaces to remove dirt, debris, (cigarette butts, cups, trash), nests, and other foreign matters that detract from the visual appeal of the facilities entrances. Scope: The contractor shall provide all labor and supervision required to maintain grass, remove weeds, seeding, and cutting of the lawn, edging and blowing the grass from the sidewalks/road, fertilization of the lawn twice per year, removal of fallen leaves, removal of dead trees/shrubs/limbs/debris from the grounds. Lawn cutting and edging will occur weekly, on a schedule agreed by both parties. Hedge/ tree trimming will occur based on their natural growth habits. 5. It is the responsibility of the interested source to demonstrate to the government that the interested parties can provide the services required. If you are interested, and are capable of providing the sought out services, please provide the requested information as well as the information indicated below. Failure to respond to all questions in this sources sought will determine the interested party as non-responsive which may affect a set-aside decision for a resulting solicitation. Response to this notice should include company name, address, point of contact, size of business pursuant to the following questions: a. Please provide your UEI number. b. Please indicate the size status and representations of your business, such as but not limited to: Service Disabled Veteran Owned Small Business (SDVOSB), Veteran Owned Small Business (VOSB), Hubzone, Woman Owned Small Business (WOSB), Large Business, etc.)? c. Is your company considered small under the NAICS code identified under this RFI? d. Are you, as the prime contractor (and regardless of subcontractor s licensure), licensed and permitted in the State of Missouri to apply pesticides? e. If you are identified as a SDVOSB/VOSB or SB, identify how you intend to meet the requirements found in the limitations on subcontracting FAR or VAAR clauses. (providing 51% of the work outlined in section 4 above) f. Does your company have an FSS contract with GSA, VA NAC, NASA SEWP, or any other federal contract, that can be utilized to procure the requirement listed above? If so, please provide the contract number(s). g. Please submit your capabilities that show clear, compelling, and convincing evidence that you can meet the requirement described above. 6. Responses to this notice shall be submitted via email to Leslie Ross at Leslie.ross2@va.gov. Telephone responses shall not be accepted. Responses must be received no later than Monday, May 11, at 9:00 AM CT. If a solicitation is issued it shall be announced at a later date, and all interested parties must respond to that solicitation announcement separately from the responses to this sources sought. Responses to this sources sought notice are not a request to be added to a prospective bidders list or to receive a copy of the solicitation.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Leslie Ross
+  - Title: Contracting Officer
+  - Email: leslie.ross2@va.gov
+  - Phone: 913-946-1964
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/591ad2d298bf4a84a54d26fe4d5f158a/view)

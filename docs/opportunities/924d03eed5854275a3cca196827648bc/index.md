@@ -1,0 +1,29 @@
+---
+layout: default
+title: Mail-Center Postage Meter Lease
+agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: 924d03eed5854275a3cca196827648bc
+---
+
+# Mail-Center Postage Meter Lease
+
+- Agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-05-05 15:30:56.575-04
+- Solicitation Number: SS-75H70926BAO_044
+
+## Summary
+
+SOURCES SOUGHT NOTICE This is a Sources Sought notice. This is NOT a solicitation for proposals, proposal abstracts, or quotations. Pursuant to 48 CFR Part 326, Subpart 326.603-3 and IHM 5.5-6, Indian Health Service must use the negotiation authority of the Buy Indian Act, 25 U.S.C. 47, to give preference to Indian Economic Enterprises (IEE) whenever the use of that authority is authorized and practicable. The Government is seeking to identify Indian Small Business Economic Enterprises (ISBEEs), Indian Economic Enterprises (IEE), and any other category of vendor capable of performing the below Indian Health Services (IHS) requirement. Any vendor responding to this notice should submit their capability statement as well as the Buy Indian Act Indian Economic Enterprise Representation Form (attached). Consistent with the revised Buy Indian Act, HHS/IHS adopted the definition of an Indian Economic Enterprise (IEE) set forth in 48 CFR 1480.201. This definition includes the following requirement, amongst others: “the Indians or Indian Tribes must, together, receive at least a majority of the earnings from the contract.”. Instructions for submission are outlined further below. DEFINITIONS INDIAN ECONOMIC ENTERPRISE (IEE): Any business activity owned by one or more Indians, Federally Recognized Indian Tribes, or Alaska Native Corporations provided that: • The combined Indian, Federally Recognized Indian Tribe or Alaska Native Corporation ownership of the enterprise constitutes not less than 51%; • The Indian, Federal Recognized Indian Tribes, or Alaska Native Corporations must, together, receive at least 51% of the earnings from the contract; and • The management and daily business operations must be controlled by one or more individuals who are Indians. DESCRIPTION OF REQUIREMENT NAICS: 532420 - Office Machinery and Equipment Rental and Leasing Size Standard: $40 Million Duration: One (1) Year with Three (3) Option Years Deliverables and Delivery Schedule: Ensuring the equipment arrives in good condition and meets specifications. Delivery shall occur to coincide with the time of award and not to exceed 45 days after award. Equipment: Postage Meter lease Removal and Replacement of the BFSU Mail Center Machine, located at PHS Browning Hospital, Browning MT 59417. a) Removal of Old Machine: Safely decommission and remove existing machine. b) Installation and Setup: Install new machine according to manufacturer's guidelines, test machine’s performance, connect to the network, and verify that all software and firmware, including postage rates, are updated. c) Training & Safety: Train staff on new operations, including startup, shutdown, and troubleshooting procedures. d) Testing & Maintenance: Perform calibration for weighing and printing, establish an end-user regular maintenance schedule. (proactive plan designed to keep equipment operating optimally). INSTRUCTIONS TO INDUSTRY ISBEEs are highly encouraged to respond to this notice. However, firms must also understand that generic capability statements are not sufficient for effective evaluation of their capacity and capability to perform the work required. To be considered a capable source, responses must directly demonstrate the company’s capability, experience, and ability to provide services as shown below. Your response must include but is not limited to the following: • Number of years of experience in providing routine food service delivery and customizable menus to healthcare facilities • List of past jobs/contracts of providing routine food service delivery and customizable menus to healthcare facilities • Demonstrate how your company meets the definition for Indian Economic Enterprise (IEE) in consideration to this requirement. • Demonstrate how your company will receive at least 51% of the earnings from the awarded contract. • If identifying a partnership with a subcontractor that is a similarly situated entity, demonstrate how together with the subcontractor you will receive a combined 51% of the earnings from the contract. • If identifying a partnership with a subcontractor that is NOT a similarly situated entity, demonstrate how you will receive 51% of the earnings from the contract. • Demonstrate how the prime IEE, or together with the subcontractor, will conduct management and daily operations to be controlled by one or more individuals who are Indians. Failure to address these items in your capability statement could exclude your firm from being determined a capable IEE/ISBEE source. SUBMISSION Interested parties capable of performing the required services may submit a response via email to: Shannon.Connelly@ihs.gov no later than 7 days from the date of the sources sought announcement. Interested parties shall submit their capability response as instructed above and include a copy of the Buy Indian Act Indian Economic Enterprise Representation Form. It is recommended to include the sources sought ID in the subject line. Sources Sought ID: SS-75H70926BAO_044. Responses received to this notice will assist in determining the acquisition strategy of the requirement.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Shannon Connelly
+  - Email: shannon.connelly@ihs.gov
+  - Phone: 4063386452
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/924d03eed5854275a3cca196827648bc/view)

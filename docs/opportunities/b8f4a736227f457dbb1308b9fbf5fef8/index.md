@@ -1,0 +1,28 @@
+---
+layout: default
+title: BRACKET ASSY
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: b8f4a736227f457dbb1308b9fbf5fef8
+---
+
+# BRACKET ASSY
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-05-05 03:41:39.325-04
+- Solicitation Number: N0038326QTB22
+
+## Summary
+
+CONTACT INFORMATION|4|N791.16|T1V|771-229-2706|JACK.W.MCLAUGHLIN6.CIV@US.NAVY.MIL| ITEM UNIQUE IDENTIFICATION AND VALUATION (JAN 2023)|19|||||||||||||||||||| HIGHER-LEVEL CONTRACT QUALITY REQUIREMENT|8||||||||| WIDE AREA WORKFLOW PAYMENT INSTRUCTIONS (JAN 2023)|16|INVOICE AND RECEIVING COMBO||TBD|N00383|TBD|TBD|SEE SCHEDULE|TBD||||||||| NAVY USE OF ABILITYONE SUPPORT CONTRACTOR - RELEASE OF OFFEROR INFORMATION (3-18))|1|| MANDATORY USE OF WORKFLOW PRO (WFP) MOD ASSIST MODULE|1|| EQUAL OPPORTUITY FOR WORKERS WITH DISABILITIES (DEV 2026-O0040)(FEB 2026)|4||||| BUY AMERICAN-FREE TRADE AGREEMENTS-BALANCE OF PAYMENTS PROGRAM-BASIC (FEB 2024)|11|||||||||||| SECURITY PROHIBITIONS AND EXCLUSIONS (CLASS DEVIATION 2026-O0025)(FEB 2026)|7|||||||| BUY AMERICAN-FREE TRADE AGREEMENTS-BALANCE OF PAYMENTS PROGRAM CERTIFICATE-BASIC (FEB 2024))|5|||||| BUY AMERICAN--BALANCE OF PAYMENTS PROGRAM CERTIFICATE-BASIC (FEB 2024)|1|| ALTERNATE A, ANNUAL REPRESENTATIONS AND CERTIFICATIONS (DEVIATION 2026-O0043)(FEB 2026))|13|||||||||||||| ROYALTY INFORMATION (APR 1984)|1|| NOTICE OF PRIORITY RATING FOR NATIONAL DEFENSE, EMERGENCY PREPAREDNESS, ANDENERGY PROGRAM USE (APR 2008))|2||A1, A1A| This RFQ is for a spares requirement. This contract/delivery order/purchase order/modification is issued by theGovernment when deposited in the mail, transmitted by facsimile or sent by anyelectronic commerce method, including email. The Government's acceptance of the contractor's proposal constitutes bilateral agreement to issue thiscontract/delivery order/purchase order/modification. \
+
+## Contacts
+
+- Primary Contact:
+  - Name: Telephone: 2156974959
+  - Email: JACK.W.MCLAUGHLIN6.CIV@US.NAVY.MIL
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b8f4a736227f457dbb1308b9fbf5fef8/view)

@@ -1,0 +1,39 @@
+---
+layout: default
+title: Aircraft Preservation BAFB
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 2d3568927fd24b1caddc4c8236fdb74f
+---
+
+# Aircraft Preservation BAFB
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-05-05 12:43:08.491-04
+- Solicitation Number: FA460826QS018
+
+## Summary
+
+The Contractor shall provide all necessary personnel, supervision, tools, materials, and equipment to complete the project in full compliance with this Statement of Work (SOW), USAF Technical Orders (T.O.s), Barksdale AFB Environmental Requirements, National Museum of the USAF guidance, and all applicable Federal, State, County, and local regulations. This includes strict adherence to safety standards, OSHA, DEQ, DOT, EPA regulations, and directives from the Barksdale AFB Hazardous Waste Program Manager. CLIN 0001: Plane Preservation in accordance with Attachment 1: Statement of Work and Attachment 2: Aircraft Photographs
+
+## Contacts
+
+- Primary Contact:
+  - Name: Shanecer Johnson
+  - Email: shanecer.johnson@us.af.mil
+  - Phone: 3184563403
+- Secondary Contact:
+  - Name: Mr. Thomas Hutchins
+  - Email: thomas.hutchins.2@us.af.mil
+  - Phone: 3184563729
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: Statement of Work and Attachment 2: Aircraft Photographs
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2d3568927fd24b1caddc4c8236fdb74f/view)

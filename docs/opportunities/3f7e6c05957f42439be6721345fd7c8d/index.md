@@ -1,0 +1,29 @@
+---
+layout: default
+title: USDA Seeks to Lease Office and Related Space in Gaylord, MI (Otsego County)
+agency: AGRICULTURE, DEPARTMENT OF
+notice_type: Presolicitation
+notice_id: 3f7e6c05957f42439be6721345fd7c8d
+---
+
+# USDA Seeks to Lease Office and Related Space in Gaylord, MI (Otsego County)
+
+- Agency: AGRICULTURE, DEPARTMENT OF
+- Type: Presolicitation
+- Posted: 2026-05-05 08:38:10.825-04
+- Solicitation Number: 57-26137-23-NR
+
+## Summary
+
+U.S. GOVERNMENT Department of Agriculture (USDA) seeks to lease the following space: State: Michigan City: Gaylord Delineated Area: North: North from M32 on Hayes Road, then West on Fairview Road, then North on Old 27 N., then West on Parmeter Road, then South on Pike School Road, then West on Allis Road, then South on Meecher Road, then West on 5 Lakes Road, then South on Murner Road to M 32, then West on M32. East: Krys Road South: Millbocker/McCoy Roads West: Townline Road Minimum Sq. Ft. (ABOA): 3,506 Maximum Sq. Ft. (ABOA): 3,681 Maximum Sq. Ft. (RSF) 4,207 Space Type: Office and Related Space Reserved Parking Spaces (GOV) (Total): Ten (10) Reserved for GOV Reserved Customer Parking: Fifteen (15) Reserved Non-Reserved Parking Spacing (Total): Fifteen (15) non reserved for employees at no additional cost to the Government located on site or at least ¼ of a mile. Full Term: Up to 20 years Firm Term: Up to 10 years firm Termination Rights: 120 days in whole or in part Additional Requirements: Parking lot must be able to accommodate pull through parking for trucks and trailers and or farm equipment. Space offered, location, and it’s surrounding areas must be compatible with the Governments Intended use. Space must be contiguous, on one floor. If space is above ground level, at least one accessible elevator is required. Offered space should not be located near establishments whose primary operation is the sale of alcoholic beverages, firearms sold/discharged, or where there are tenants related to drug treatment or detention facilities. Space will not be considered where any living quarters are located within the building. Subleases are not acceptable Offered space must meet Government requirements for fire safety, accessibility, seismic, and sustainability standards per the terms of the Lease. A fully serviced lease is required. Offered space shall not be in the 100 [1-percent-annual chance (formally 100-year) Entities are advised to familiarize themselves with the telecommunications prohibitions outlined under Section 889 of the FY19 National Defense Authorization Act (NDAA), as implemented by the Federal Acquisition Regulation (FAR).). For more information, visit: https://acquisition.gov/FAR-Case-2019-009/889_Part_B. Expressions of Interest Due: Friday, February 13, 2026 Market Survey (Estimated): TBD Occupancy (Estimated): TBD Note: Entities not currently registered in the System for Award Management (SAM) at SAM.gov, are advised to start the registration process as soon as possible if intending to submit an offer for possible lease award. Expressions of Interest shall include the following: 1. If existing building, building name and address, and location of the available space within the Building, along with building site/ lot plans, interior layout drawings/pictures (with dimensions shown) reflecting the Space that is being offered. 2. If new construction, site/aerial plans or building site/lot plans showing the location of the proposal land, along with the parcel number (if part of multiple parcels, all parcel numbers associated with the proposed land). Adjacent streets showing proposed ingress/egress shall be shown on the plans. 3. Rentable square feet (RSF) and ANSI/BOMA office area (ABOA) square feet to be offered. 4. Date of space availability. 5. If offeror is not the owner of the building, an authorization letter signed by owner to represent owner for property will be required. * 6. Amount of/type of parking available on-site. 7. Photos of the space or site being submitted, or permission for Market Survey participants to photograph the space or site. 8. For existing buildings, provide information on condition of building systems, roof, foundation, and current floor plan. Alternatively, provide a copy of a recent commercial building inspection or appraisal. 9. Confirmation that offered space meets or will be made to meet Architectural Barriers Act Accessibility Standards (ABAAS). 10. Confirmation that offered space meets or will be made to meet Fire Protection & Life Safety Requirements. 12. For new construction or properties requiring expansion of the footprint of the building, confirmation that offered space meets or will be made to meet National Environmental Protection Act of 1969 (NEPA) Requirements. * As mentioned in #5 above, any submission received without written authorization to represent owner(s) will not be considered until such time the documentation has been received. In cases where an agent is representing multiple entities, written acknowledgement/permission from each entity to represent multiple interest parties for the same submission must be submitted prior to the Expressions of Interest due date. Send Expressions of Interest to: Name/Title: Iris Bates Email Address: Iris.Bates@usda.gov
+
+## Contacts
+
+- Primary Contact:
+  - Name: Iris Bates
+  - Email: iris.bates@usda.gov
+  - Phone: 2027203418
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3f7e6c05957f42439be6721345fd7c8d/view)
