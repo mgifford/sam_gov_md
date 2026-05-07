@@ -1,0 +1,31 @@
+---
+layout: default
+title: CDF Power Supply to X-Ray Machine
+agency: JUSTICE, DEPARTMENT OF
+notice_type: Solicitation
+notice_id: f2fcff6b52ff4449a142915b91369b66
+---
+
+# CDF Power Supply to X-Ray Machine
+
+- Agency: JUSTICE, DEPARTMENT OF
+- Type: Solicitation
+- Posted: 2026-05-06 11:33:26.807-04
+- Solicitation Number: 15F06726Q0000229
+
+## Summary
+
+This is a combined synopsis/solicitation for a commercial item prepared in accordance with the format in Subpart 12.2, as supplemented with additional information included in this notice. This announcement constitutes the only solicitation; proposals/quotations are being requested. The solicitation number is 15F06726Q0000229 and is being issued as a Request for Quote (RFQ). The award will be made to the lowest priced, technically acceptable Offeror under NAICS 238210 - Electrical Contractors and Other Wiring Installation Contractors. This is a total Small Business set-aside with a size standard of $19M. The Federal Bureau of Investigation requests a quote for complete specialized high voltage electrical to upgrade the electrical power to the new X-ray machine that was installed at the Consolidated Deployment Facility (CDF) in Sandston, VA. Services should include the following: • Furnish and install one 60-amp feed from the existing panel • Furnish and install one 60-amp 2 pole breaker • Furnish and install two fused disconnects • Furnish and install one 208-volt to 480-volt transformer • Furnish and install one 480-volt receptacle Tasks The Contractor will conduct electrical services at the FBI Richmond Airport CDF. The CDF Facility Manager will ensure the electrical services are complete and professional in appearance. The CDF Facility Manager will notify the Contractor if services are unacceptable. Security Requirements The Contractor service personnel will be required to complete a FBI Limited Access Request (LAR) and will be escorted and monitored while on the property. Access to the Richmond Airport CDF is limited to normal working hours and while the facility is occupied. Contract Type: Firm Fixed Price - Lowest Price Technically Acceptable (LPTA) Period of Performance: The requested period of performance is 30 days after the award of a service contract. Place of Performance: The requested electrical services will occur at the Richmond Airport CDF. Address: 61 Falcon Road Sandston, VA 23150 Submission of Questions Questions shall be submitted via email – Request for Information (RFI) and sent to the attention of Lakeita Wilson at lrwilson3@fbi.gov and Ezekiel Galyon at ecgalyon@fbi.gov, no later than Friday, May 8, 2026, at 3:00 pm, CT. Questions sent via other means (i.e., telephone call, facsimile transmission, etc.) will not receive responses. Submission of Quotes The RFQ number is 15F06726Q0000229 and shall be referenced on all quotes. Quotations and any accompanying information shall be submitted to the attention of Lakeita Wilson at lrwilson3@fbi.gov and Ezekiel Galyon at ecgalyon@fbi.gov, no later than Friday, May 15,2026, at 4:00PM, CT. Quotes sentvia other means(i.e.,telephone call,email, facsimile transmission, etc.) will not receive responses. The government will not reimburse any cost incurred in relation to proposal preparation. BASIS FOR AWARD The acquisition evaluation will be conducted utilizing the Lowest Price Technically Acceptable process. As defined in the FAR, lowest price technically acceptable process represents an award made based on the lowest evaluated price of proposals meeting or exceeding the acceptability standards for non-price factors and past performance. The following criteria will be evaluated: FACTOR 1: Technical - The term “technical,” as used herein, refers to the non-price elements listed below. Quotes will be rated as "Acceptable" or "Unacceptable" regarding their ability to meet each element. All elements must be acceptable for a quote to be considered for award. a. Element 1: General Specifications – The Offeror shall submit a proposal that meets or exceeds ALL technical specifications required in the RFQ. Refer to Table 1 for a description of the ratings. All elements must be acceptable for a quote to be considered for award. Table 1. Technical Evaluation Ratings for General Specifications Rating Description. Acceptable Proposal clearly meets the minimum requirements of thesolicitation Unacceptable Proposal does not clearly meet the minimum requirements of the solicitation 2. FACTOR 2: Price - The Government will utilize a Lowest Price Technically Acceptable ("LPTA") evaluation method for this requirement. Trade-offs between cost/price and non cost/price Elements are not permitted. The Government intends to award a firm fixed price contract using competitive procedures to the responsible offeror whose proposal, is/are deemed responsible in accordance with the solicitation (to include all stated terms, conditions, and all other information required by the solicitation), provides the Lowest Priced Technically Acceptable offer to satisfy the requirements of this solicitation and the SOW. Proposals that fail to address all the requirements set forth in the solicitation will be rejected. The Government will evaluate all aspects of the price for fairness, and reasonablenes. Invoice Submission Instructions The Federal Bureau of Investigation (FBI) has implemented an electronic invoicing system, the Invoice Processing Platform (IPP), to comply with the Office of Management and Budget’s 2018 electronic invoicing mandate. IPP is a secure, web-based electronic invoicing system provided by the U.S. Department of the Treasury’s Bureau of the Fiscal Service (Treasury) in partnership with the Federal Reserve Bank of St. Louis (FRSTL). IPP is available at no cost to any commercial vendor or independent contractor doing business with a participating government agency. To learn more about IPP, please visit IPP.gov.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Ezekiel Galyon
+  - Email: ecgalyon@fbi.gov
+- Secondary Contact:
+  - Name: Lakeita Wilson
+  - Email: lrwilson3@fbi.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f2fcff6b52ff4449a142915b91369b66/view)

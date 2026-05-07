@@ -1,0 +1,33 @@
+---
+layout: default
+title: TOW - Integrated Target Acquisition System (ITAS) - Contractor Logistics Support (CLS)
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 45ea73399e374d1dbb6218e1ec8df848
+---
+
+# TOW - Integrated Target Acquisition System (ITAS) - Contractor Logistics Support (CLS)
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-05-06 15:26:43.908-04
+- Solicitation Number: W31P4Q-26-R-0030
+
+## Summary
+
+Tube-launched Optically-tracked Wireless-guided (TOW) Improved Target Acquisition System (ITAS) Contractor Logistics Support (CLS) SOURCES SOUGHT NOTICE W31P4Q-26-R-0030 RESPONSE DATE: 5/19/26 by 5:00 PM CST NAICS CODE: 541330 DESCRIPTION: The U.S. Army Contracting Command, Redstone Arsenal, Alabama is issuing this Sources Sought Notice as a means of conducting market research to identify parties having an interest in and the resources to support this requirement for Contractor Logistics Support (CLS) of the Tube-launched Optically-tracked Wireless-guided (TOW) Improved Target Acquisition System (ITAS) for Calendar Years (CY) 2028 - 2030. DISCLAIMER: THIS SOURCES SOUGHT IS FOR INFORMATIONAL PURPOSES ONLY. THIS IS NOT A REQUEST FOR PROPOSAL (RFP) TO BE SUBMITTED. IT DOES NOT CONSTITUTE A SOLICITATION AND SHALL NOT BE CONSTRUED AS A COMMITMENT BY THE GOVERNMENT. RESPONSES IN ANY FORM ARE NOT OFFERS AND THE GOVERNMENT IS UNDER NO OBLIGATION TO AWARD A CONTRACT AS A RESULT OF THIS ANNOUNCEMENT. NO FUNDS WILL BE PROVIDED TO PAY FOR PREPARATION OF RESPONSES TO THIS ANNOUNCEMENT AND NO AWARD WILL BE MADE OFF THIS RFI. ANY INFORMATION SUBMITTED BY RESPONDENTS TO THIS TECHNICAL DESCRIPTION IS STRICTLY VOLUNTARY. ELIGIBILITY: This action is limited to US Based Companies with approved facilities for classified information. This acquisition will require personnel that are US citizens with a Secret security clearance. The Technical Data Package (TDP) is not available. It is owned by Raytheon Company located at 2501 West University Drive McKinney, TX 75071-2813 (CAGE Code 96214). The applicable North American Industry Classification Systems (NAICS) Code is 541330 which has a corresponding Size Standard of $16.5M. SUBMISSION DETAILS If your organization has the potential capacity to perform these contract services, please provide the following information: 1. Organization name, address, POC, email address, web-site address, telephone number, and size and type of ownership for the organization. Please provide your Data Universal Numbering System (DUNS) Number and Commercial and Government Entity (CAGE) Code. 2. Tailored capability statements addressing the particulars of this effort, with appropriate documentation supporting claims of organizational and staff capability. If significant subcontracting or teaming is anticipated in order to deliver technical capability, organizations should address the administrative and management structure of such arrangements. Additionally, provide a description of similar services offered to the Government and/or to commercial customers for the past three years. Submission Instructions: Responses shall not exceed 15 pages and use Times New Roman or Arial 12-point font size. Interested parties who consider themselves qualified to perform the above listed requirement are invited to submit a response to this Sources Sought Notice by 1700 CST / 1800 EST on 21 May 2026. All responses to this Sources Sought Notice must be emailed to christopher.t.walker47.civ@army.mil and jacqueline.a.reaves2.civ@army.mil. All questions and comments concerning this Sources Sought should be e-mailed to the POC's aforementioned above and must be in writing; no telephone calls. All data received in response to this Sources Sought that is marked or designated as corporate or proprietary will be fully protected from any release outside the Government. Primary Point of Contact: Christopher T. Walker Contract Specialist christopher.t.walker47.civ@army.mil Secondary Point of Contact: Jacqueline A. Reaves Contracting Officer jacqueline.a.reaves2.civ@army.mil
+
+## Contacts
+
+- Primary Contact:
+  - Name: Jacqueline Reaves
+  - Email: jacqueline.a.reaves2.civ@army.mil
+  - Phone: (520) 687-9245
+- Secondary Contact:
+  - Name: Christopher Walker
+  - Email: christopher.t.walker47.civ@army.mil
+  - Phone: (520) 725-7411
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/45ea73399e374d1dbb6218e1ec8df848/view)

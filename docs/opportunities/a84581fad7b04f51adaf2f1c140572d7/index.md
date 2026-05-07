@@ -1,0 +1,39 @@
+---
+layout: default
+title: Q999--Portfolio and Project Management Smartsheet Solution License
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: a84581fad7b04f51adaf2f1c140572d7
+---
+
+# Q999--Portfolio and Project Management Smartsheet Solution License
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-05-06 10:01:21.196-04
+- Solicitation Number: 36C26226Q0779
+- Awardee: null
+
+## Summary
+
+THIS REQUEST FOR INFORMATION (RFI) IS ISSUED SOLELY FOR INFORMATION AND PLANNING PURPOSES ONLY AND DOES NOT CONSTITUTE A SOLICITATION. THE SUBMISSION OF PRICING, CAPABILITIES FOR PLANNING PURPOSES, AND OTHER MARKET INFORMATION IS HIGHLY ENCOURAGED AND ALLOWED UNDER THIS RFI IN ACCORDANCE WITH (IAW) FAR 15.201(e). DISCLAIMER This RFI is issued solely for information and planning purposes only and does not constitute a solicitation. All information received in response to this RFI that is marked as proprietary will be handled accordingly. IAW FAR 15.201(e), responses to this notice are not offers and cannot be accepted by the Government to form a binding contract. Responders are solely responsible for all expenses associated with responding to this RFI. SOURCES SOUGHT DESCRIPTION This is NOT a solicitation announcement. This is a sources sought/RFI only. The purpose of this sources sought/RFI is to gain knowledge of potential qualified sources and their size classification relative to NAICS 513210 (size standard of 47 million). Responses to this sources-sought will be used by the Government to make appropriate acquisition decisions. After review of the responses to this sources-sought, a solicitation announcement may be published. Responses to this sources-sought synopsis are not considered adequate responses for a solicitation announcement. The Department of Veterans Affairs (VA), VISN 22 Network Contracting Office, is seeking sources that can provide the below requested items for Smartsheet Gov License. The purpose of this project is to design and implement a centralized, scalable Smartsheet solution that gives VA Long Beach leadership real-time visibility into all strategic initiatives and projects, aligns work to strategic priorities, standardizes project structures, and reduces manual reporting effort through automation. The reason for this procurement is to increase visibility, transparency, accountability, and alignment of projects within the facility and to ensure clear alignment to executive leaders and strategic initiatives. Scope of Work The contractor will implement a Smartsheet GOV environment configured for portfolio and project management across VA Long Beach strategic initiatives, including: Establishing a single, portfolio-level view of all initiatives, projects, and key performance indicators (KPIs) using Smartsheet dashboards, reports, and sheets. Designing and configuring standardized project templates (e.g., A3s, KPI tracking, status reporting) and associated workflows to drive consistent execution and reporting. Implementing Control Center for automated project creation, change management, resource planning, and project archiving at scale (up to 5,000 active projects per blueprint). Implementing Data Shuttle to automate data movement and syncing between Smartsheet assets and source/target systems, reducing manual data entry and enabling aligned metrics. Configuring real-time dashboards that provide executive and operational visibility into portfolio health, status, risk, and progress against strategic priorities (e.g., safety, quality). Enabling cross-team visibility so stakeholders can see related work, reduce duplication, and improve collaboration across service lines and departments. The contractor shall provide and be responsible for the shipment and delivery to VA Long Beach Healthcare System at 5901 E 7th Street, Long Beach, CA 90822 Item Information: ITEM NUMBER DESCRIPTION OF SUPPLIES/SERVICES QUANTITY UNIT UNIT PRICE AMOUNT 0001
+
+10.00 EA __________________ __________________ Smartsheet Gov License Pack B (FedRamp) Annual Term License, 12 months. Smartsheet-Smar_Gov_Lic_B_Fedramp LOCAL STOCK NUMBER: Smar_Gov_lic_B_fedramp-2 0002
+
+10.00 EA __________________ __________________ Data Shuttle-Per workflow Smartsheet- SMAR-US-25-09-074 LOCAL STOCK NUMBER: SMAR-US-25-09-074 0003
+
+1.00 EA __________________ __________________ SMAR_GOV_Addin_automation_A_additional_Fedramp Smartsheet- SMAR-US-25-09-081 LOCAL STOCK NUMBER: SMAR-US-25-09-081 0004
+
+1.00 EA __________________ __________________ Arrowpoint Implementation Smartsheet - Archer-Services1 LOCAL STOCK NUMBER: Archer-Services1 GRAND TOTAL __________________ The information identified above is intended to be descriptive, not restrictive and to indicate the quality of the supplies that will be satisfactory. It is the responsibility of the interested to demonstrate to the government that the interested parties can provide the product that fulfills the required specifications. If you are interested and capable of providing the sought-out supplies, please provide the requested information as well as the information indicated below. Response to this notice should include company name, address, point of contact, size of business pursuant to the following questions: (1) Please indicate the size status and representations of your business, such as but not limited to: Service-Disabled Veteran Owned Small Business (SDVOSB), Veteran Owned Small Business (VOSB), HUBZone, Woman Owned Small Business (WOSB), Large Business, etc. (2) Is your company considered small under the NAICS code (513210) identified under this RFI? (3) Are you the manufacturer or distributor of the items being referenced above (or equivalent product/solution)? What is the manufacturing country of origin of these items? (4) If you re a small business and you are an authorized distributor/reseller for the items identified above (or equivalent product/solution), do you alter; assemble; modify; the items requested in any way? If you do, state how and what is altered; assembled; modified? (5) Does your company have an FSS contract with GSA or the NAC or are you a contract holder with NASA SEWP or any other federal contract? If so, please provide the contract type and number. (6) If you are an FSS GSA/NAC or NASA SEWP contract holder or other federal contract holder, are the referenced items/solutions available on your schedule/contract? (7) If possible, please provide general pricing for your products/solutions for market research purposes. (8) Please submit your capabilities in regard to the salient characteristics being provided and any information pertaining to equal to items to establish capabilities for planning purposes? *** Submissions addressing Section (8) should show clear, compelling, and convincing*** evidence that all equal to items" meet all required salient characteristics. Responses to this notice shall be submitted via email to Anette.doan@va.gov. Telephone responses shall not be accepted. Responses must be received no later than 05/20/2026, at 12:00 p.m. Pacific Standard Time (PST). If a solicitation is issued it shall be announced later, and all interested parties must respond to that solicitation announcement separately from the responses to this request for information. Responses to this notice are not a request to be added to a prospective bidders list or to receive a copy of the solicitation.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Anette Doan
+  - Title: Contracting Officer
+  - Email: Anette.Doan@va.gov
+  - Phone: 562-766-2200
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a84581fad7b04f51adaf2f1c140572d7/view)

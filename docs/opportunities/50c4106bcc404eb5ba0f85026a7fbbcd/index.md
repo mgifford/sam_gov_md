@@ -1,0 +1,31 @@
+---
+layout: default
+title: Custom C-17 ADS Link Calibration Adapters
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 50c4106bcc404eb5ba0f85026a7fbbcd
+---
+
+# Custom C-17 ADS Link Calibration Adapters
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-05-06 16:16:15.735-04
+- Solicitation Number: FA930226Q0047
+
+## Summary
+
+This is a Combined Synopsis/Solicitation for the acquisition of Custom C-17 ADS Link Calibration Adapters. Please see attached solicitation documents for further details. This is a combined synopsis/solicitation for commercial products prepared in accordance with RFO Part 12. This announcement constitutes the only solicitation. A quotation is being requested, and a separate written solicitation will not be issued. Solicitation Number: FA930226Q0047 **Please provide the full solicitation number on all packages** NOTICE OF INTENT TO SOLE SOURCE: The Air Force Test Center (AFTC/PZZF) at Edwards AFB intends to award a sole-source, firm-fixed-price purchase order to Instron (CAGE: CM3YHLY12DF5) under the authority of 6.302-1, "Only one responsible source and no other supplies or services will satisfy agency requirements." Market research has determined that only the Original Equipment Manufacturer (OEM), Instron, possesses the proprietary technical data required to manufacture these adapters to safely interface with the Government's existing Instron calibration machine. While this is a sole-source requirement, any responsible source who believes they can meet all the requirements described in this synopsis may submit, in writing, a complete quote and technical capability statement for consideration. Offerors are required to submit with their quote enough information for the Government to evaluate the requirements detailed in this combined synopsis/solicitation. Offerors shall submit quotes via email; please note the maximum file size is 10MB. Emails over this file size will not be received. Submit only written offers; oral offers will not be accepted. This solicitation is issued as a Request for Quote (RFQ). This solicitation document and incorporated provisions and clauses are in effect through the Revolutionary Federal Acquisition Regulations Overhaul (RFO) 2026-1, R-DFARS Change 03/09/2026, and Class Deviation 2026-O0015. THIS REQUIREMENT WILL BE: Sole Source to a Large Business (Instron). The North American Industry Classification System (NAICS) number for this acquisition is 334515 with a size standard of 750 employees. Delivery: Period of Performance / Lead time will be 30 Days ARO. FOB Destination to Edwards AFB, CA 93524. The provision at 52.212-1, Instructions to Offerors—Commercial Products and Commercial Services (DEV 2026-O0038), applies to this acquisition. Provisions and clauses can be viewed via internet at Acquisition.gov, https://www.acquisition.gov/far-overhaul. Offerors shall prepare their quotations in accordance with 52.212-1. In addition, the following information shall be included: PROVIDE THE FOLLOWING CONTRACTOR INFORMATION WITHIN YOUR QUOTE: SAM UEI: TIN Number: CAGE Code: Contractor Name: Payment Terms (NET 30) or Discount: Point of Contact Name and Phone Number: Email address: Warranty: Date Offer Expires: FOB Destination: Edwards AFB, CA 93524 Estimated Delivery Lead Time: Basis for Award: Because this is a sole-source acquisition, the provision at 52.212-2, Evaluation—Commercial Products and Commercial Services, is not applicable. The Government will award a purchase order resulting from this RFQ to Instron upon a determination by the Contracting Officer that the proposed price is fair and reasonable. Offerors shall include complete copies of all applicable provisions. Offers will be considered incomplete if these are not included with the quote. The Offeror shall ensure their annual representations and certifications are current on the System for Award Management (SAM) website at https://www.sam.gov. The clause at 52.212-4, Terms and Conditions—Commercial Products and Commercial Services (DEV 2026-O0038), applies to this acquisition. Additional Contract Requirement or Terms and Conditions: Please find the complete list of applicable provisions and clauses in the attached solicitation document. Pursuant to new RFO procedures, 52.212-5 is no longer utilized, and all applicable statutory and executive order clauses have been explicitly incorporated by reference or full text in the attachment. Defense Priorities and Allocation System (DPAS): N/A Quote Submission Information: It is the government’s intent to award without discussions. Therefore, the initial quote should contain the offeror’s best terms from a price and technical standpoint. However, the government reserves the right to conduct discussions if the Contracting Officer (CO) determines that discussions are necessary. Offers are due on 28 APRIL 2026 at 4:00 PM, Pacific Daylight Time (PDT). Offers must be sent via email to: Josiah Broadway at josiah.broadway@us.af.mil AND Christina Day at christina.day.6@us.af.mil. NO LATE SUBMISSIONS WILL BE ACCEPTED. For additional information regarding this solicitation contact: Primary Point of Contact: Josiah Broadway Contract Specialist josiah.broadway@us.af.mil (661) 277-4458 Secondary Point of Contact: Christina Day Contracting Officer christina.day.6@us.af.mil QUESTION PERIOD: As this is a sole-source requirement to the OEM, a formal question period for the general public is not established. Instron may submit any questions directly to the buyer via email at josiah.broadway@us.af.mil. Phone inquiries are not available currently. All questions and answers will be posted to this RFQ if deemed necessary.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Josiah Broadway
+  - Email: josiah.broadway@us.af.mil
+- Secondary Contact:
+  - Name: Christina Day
+  - Email: christina.day.6@us.af.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/50c4106bcc404eb5ba0f85026a7fbbcd/view)

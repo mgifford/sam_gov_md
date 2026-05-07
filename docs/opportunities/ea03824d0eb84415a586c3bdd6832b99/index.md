@@ -1,0 +1,28 @@
+---
+layout: default
+title: Vertical Baler
+agency: JUSTICE, DEPARTMENT OF
+notice_type: Combined Synopsis/Solicitation
+notice_id: ea03824d0eb84415a586c3bdd6832b99
+---
+
+# Vertical Baler
+
+- Agency: JUSTICE, DEPARTMENT OF
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-05-06 07:07:40.388-04
+- Solicitation Number: SV0212-26
+
+## Summary
+
+Unicor, SV0212-26 Vertical Baler Solicitation posted on SAM.gov: 5/6/2026 Deadline for quotes: 5/22/2026, 2PM EST. SOLICITATION: Issued as Request for Quote (RFQ) for a Firm-Fixed-Price, Definite Delivery-Definite Quantity. Set Aside: This is a 100% small business set-aside. Buy American: This requirement must meet the Buy American Statute. Timeline: We require this baler to be delivered and installed within 30 days of Award. Requirement: Federal Prison Industries (FPI) is seeking to purchase one vertical baler, shipped FBO Destination, and installed at: Unicor Lompoc Recycling 3901 Kline Blvd Lompoc, CA 93436 SALIENT CHARACTERISTICS / WORK DESCRIPTION: The baler shall meet or exceed the following minimum specifications: Type: Vertical downstroke hydraulic baler Motor: Minimum 20 HP Cycle Time: Maximum 60 seconds per cycle Platen Force: Minimum 80,000 lbs compression force Cylinder Rod: Minimum 4 inches Bale Size (Approximate): Width: ~60 inches Depth: ~30 inches Height: ~48 inches Bale Weight: Capable of producing bales between 1,000–1,600 lbs or greater Electrical Requirements: 208/230/460V, 3-phase Safety Features: Interlocked safety doors Multi-point safety switch system Emergency stop controls The quote should include the baler, shipping FOB DST to Unicor in Lompoc, and installation and testing to ensure proper operation. Questions for this solicitation will be addressed in writing to: wesley.newell2@usdoj.gov. AWARD METHODOLOGY: This acquisition will be procured in accordance with FAR Part 12 – Acquisition of Commercial Items and Part 13 – Simplified Acquisition Procedures. The Government intends to evaluate quotes and award a contract that is the best overall value to the government, in accordance with FAR 52.212-1(g). Evaluation factors are price, technical capabilities, warranty and lead time. The Government reserves the right to require the quoter to submit additional information as necessary to support a pre-award determination of responsibility. PERIOD OF PERFORMANCE: UNICOR’s desired delivery is as soon as possible. Vendors are required to provide their best delivery time for evaluation. Delivery schedule will be established at time of award. OFFERS: Signed and dated offers are submitted by email to: wesley.newell2@usdoj.gov The date and time for receipt of quotes is: Friday, May 8, 2026, at 2:00 p.m. EASTERN STANDARD TIME (EST). Do not send offers via U.S. mail. OMB Clearance 1103-0018. Offer must indicate Solicitation No. SV0212-26, time specified for receipt of offer, name, address, telephone number of offeror, technical description of the items being offered in sufficient detail to evaluate compliance with the requirements in the solicitation, terms of any expressed warranty, price and any discount terms. Offer must include acknowledgment of all amendments, if any. THE FOLLOWING INFORMATION IS REQUIRED TO BE COMPLETED BY THE OFFEROR: SAM UNIQUE ENTITY IDENTIFIER (UEI): _______________________________________ VENDOR POINT OF CONTACT: _____________________________________ VENDOR TELEPHONE & FAX NUMBER: _____________________________ VENDOR EMAIL ADDRESS: ________________________________________ VENDOR BUSINESS SIZE FOR NAICS CODE 333998: Small Business (Y or N): _____________ By submission of an offer, the offeror acknowledges the requirement that a prospective awardee shall be registered in the SAM database (System Award Management) prior to submitting a quote, during performance and through final payment of any contract resulting from this solicitation. The Contracting Officer is Wesley Newell at wesley.newell2@usdoj.gov. PART I: INFORMATION This is a combined synopsis/solicitation for commercial items prepared in accordance with the format in Subpart 12.6 as supplemented with additional information included in this notice. This announcement constitutes the only solicitation; offers are being requested and a written solicitation will not be issued. The solicitation number is SV0212-26 and this solicitation is issued as a Request For Quote (RFQ). The North American Industry Classification System code is 333998, All Other Miscellaneous General Purpose Machinery Manufacturing (small business size 700). This requirement is 100% set-aside for small business. This solicitation should result in a Purchase Order. It will not be an ongoing contract. NOTICE TO GOVERNMENT WHEN CONTRACTOR(S) DELAYS: In the event the contractor(s) encounter difficulty in meeting performance requirements, or when there is an anticipated difficulty in complying with the delivery terms or completion dates, or whenever the contractor has knowledge that any actual or potential situation is delaying or threatens to delay the timely delivery/performance of this contract, the contractor must immediately notify the Contracting Officer at UNICOR in writing, giving pertinent details. This information will not be construed as a waiver by the Government of the required delivery schedule, or the Governments rights to impose consideration against delinquencies or other remedies provided by this contract. INVOICES ARE TO BE EMAILED TO: Accounts.payable@usdoj.gov ****See attachments for full text including clauses and provisions.****
+
+## Contacts
+
+- Primary Contact:
+  - Name: Wes Newell
+  - Email: wesley.newell2@usdoj.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ea03824d0eb84415a586c3bdd6832b99/view)

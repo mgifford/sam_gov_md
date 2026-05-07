@@ -1,0 +1,29 @@
+---
+layout: default
+title: DISK AND SEAT SET, V
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: d4dd2edb4aad4687ab7af35e7074a392
+---
+
+# DISK AND SEAT SET, V
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-05-06 09:40:06.773-04
+- Solicitation Number: N0010426QLB61
+
+## Summary
+
+CONTACT INFORMATION|4|N713.33|GL0|(771) 229-0386|ASHLEY.H.BETLOCK..CIV@US.NAVY.MIL| ITEM UNIQUE IDENTIFICATION AND VALUATION (JAN 2023)|19|||||||||||||||||||| INSPECTION OF SUPPLIES--FIXED-PRICE (AUG 1996)|2||| WIDE AREA WORKFLOW PAYMENT INSTRUCTIONS (JAN 2023)|16|COMBO INVOICE & RECEIVING||TBD|N00104|TBD|TBD|SEE SCHEDULE|TBD|||TBD|||||| NAVY USE OF ABILITYONE SUPPORT CONTRACTOR - RELEASE OF OFFEROR INFORMATION (3-18))|1|WSS| FIRM FIXED PRICE REPAIR PURCHASE ORDERS|1|| MANDATORY USE OF WORKFLOW PRO (WFP) MOD ASSIST MODULE|1|| BUY AMERICAN-FREE TRADE AGREEMENTS-BALANCE OF PAYMENTS PROGRAM-BASIC (FEB 2024)|11|||||||||||| NOTICE OF CYBERSECURITY MATURITY MODEL CERTIFICATION LEVEL REQUIREMENTS (NOV 2025))|1|| SMALL BUSINESS SUBCONTRACTING PLAN (DOD CONTRACTS)-BASIC (DEV 2026-O0037)(FEB 2026))|2||| CONTRACTOR PURCHASING SYSTEM ADMINISTRATION-BASIC (DEVIATION 2026-O0015)|1|| SECURITY PROHIBITIONS AND EXCLUSIONS (CLASS DEVIATION 2026-O0025)(FEB 2026)|7|||||||| BUY AMERICAN-FREE TRADE AGREEMENTS-BALANCE OF PAYMENTS PROGRAM CERTIFICATE-BASIC (FEB 2024))|5|||||| BUY AMERICAN-BALANCE OF PAYMENTS PROGRAM CERTIFICATE-BASIC (FEB 2024)|1|| ALTERNATE A, ANNUAL REPRESENTATIONS AND CERTIFICATIONS (DEVIATION 2026-O0043)(FEB 2026))|13|||||||||||||| NOTICE OF PRIORITY RATING FOR NATIONAL DEFENSE, EMERGENCY PREPARDENESS, AND ENERGY PROGAM USE (APRIL 2008))|2||X| This solicitation is issued pursuant to Emergency Acquisition Flexibilities (EAF). Accelerated delivery is encouraged and accepted before the delivery date(s) listed in the schedule. All freight is FOB Origin. This RFQ is for repair. The resultant award of this solicitation will be issued bilaterally, requiring the contractor's written acceptance prior to execution. Verify nomenclature, part number, and NSN prior to responding. The Government is seeking a Repair Turnaround Time (RTAT) of: 172 DAYS Government Source Inspection (GSI) is required. Please note freight is handled by the Navy as per the Commercial Asset Visibility (CAV) Statement of Work. Your quote should include the following information: QUOTE AMOUNT AND RTAT Unit Price:__________ Total Price:__________ Check one: Firm-fixed-Price ___ Estimated ___ Not-to Exceed (NTE): ___ Return Material Authorization # (RMA), if applicable:__________ Delivery Vehicle (if Delivery Order requested) (if your company has a current BOA/IDIQ, for example) :__________________ Repair Turnaround Time (RTAT): _______ days If your company is not quoting the Government's Required Repair Turnaround Time (RTAT) or earlier, provide your company's capacity constraints: _________________________________________________________________ _________________________________________________________________ _________________________________________________________________ Repair Turnaround Time (RTAT): The resultant contractual delivery requirement is measured from asset Return to the date of asset acceptance under the terms of the contract. For purposes of this section, Return is defined as physical receipt of the F-condition asset at the contractor's facility as reflected in the Action Date entry in the Commercial Asset Visibility (CAV) system. In accordance with the CAV Statement of Work, the contractor is required to accurately report all transactions by the end of the fifth regular business day after receipt and the Action Date entered in CAV must be dated to reflect the actual date of physical receipt. The Contractor must obtain final inspection and acceptance by the Government for all assets within the RTATs established in this contract. IMPORTANT NOTE: Any asset for which the contractor does not meet the required RTAT will incur a price reduction per unit/per month the contractor is late - any delay determined to be excusable (e.g. Government Delay) will not result in a price reduction. If a price reduction is required due to inexcusable contractor delay, the Contracting Officer will implement the aforementioned price reduction via a "reconciliation modification" at the end of the contract performance. Price reductions made pursuant to this section shall not limit other remedies available to the Government for failure to meet required RTATs, including but not limited to the Government's right to terminate for default. In reference to the above important note, the contractor provides the following price reduction amount per unit per month the contractor does not meet the RTAT: $__________, up to a maximum of: $_________. TESTING AND EVALUATION IF BEYOND REPAIR T&E fee/price (if asset is determined BR/BER): If an item is determined BR, and the contractor provides documentation that costs were incurred during evaluation and determination of BR, the contracting officer will negotiate a reduced contract price, not-to exceed (NTE) $___________associated with the repair effort to reflect the BR status of the equipment. The T&E fee (if asset is determined BR/BER) was determined/computed based on:______________________________________. AWARDEE INFO & PERFORMANCE LOCATION Awardee CAGE: __________ Inspection & Acceptance CAGE, if not same as "awardee CAGE": __________ Facility/Subcontractor CAGE (where the asset should be shipped), if not same as "awardee CAGE":__________ IOT COMPARE REPAIR PRICE TO PRICE TO BUY NEW New unit price:__________ New unit delivery lead-time:__________
+
+## Contacts
+
+- Primary Contact:
+  - Name: ASHLEY BETLOCK, N713.33
+  - Email: ASHLEY.BETLOCK@NAVY.MIL
+  - Phone: 7712290386
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d4dd2edb4aad4687ab7af35e7074a392/view)

@@ -1,0 +1,28 @@
+---
+layout: default
+title: Grounds Maintenance
+agency: AGRICULTURE, DEPARTMENT OF
+notice_type: Combined Synopsis/Solicitation
+notice_id: 6b928de28576477db781461f86fac97e
+---
+
+# Grounds Maintenance
+
+- Agency: AGRICULTURE, DEPARTMENT OF
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-05-06 09:46:13.029-04
+- Solicitation Number: 1232SA26Q0596
+
+## Summary
+
+Amendment 0001 is issued to incorporate the Service Contract Act (SCA) Wage Determination. All other terms and conditions remain unchanged. _____________________________________________________________________________ Description - This is a combined synopsis/solicitation for commercial items prepared in accordance with the format in FAR Part 12. This announcement constitutes the only solicitation. Quotations are being requested and a separate written solicitation will not be issued. Solicitation number 1232SA26Q0596 is issued as a Request for Quotation (RFQ) for Grounds Maintenance. This acquisition is set-aside for small business concerns. The applicable North American Industry Classification Standard Code is 561730 The small business size standard is $9.5M This acquisition is a Total Small Business Set-Aside. All responsible sources may submit a quotation which will be considered by the agency. The USDA, ARS, in Tallahassee, FL has a new requirement for grounds maintenance. Service Required: Mowing of grass Trim shrubs as needed Weeding of internal areas between walkways Edging of parking lot and walkway Sweeping and cleaning all walkways, drives, and parking lot Removal of all lawn maintenance debris from premises All applicable health and safety laws and regulations must be complied with The intent is to award a contract of a Base Year plus 4 Option Years. Estimated dates: Base Year – 5-25-26 to 5-24-27 Option Year 1 – 5-25-27 to 5-24-28 Option Year 2 – 5-25-28 to 5-24-29 Option Year 3 – 5-25-29 to 5-24-30 Option Year 4 – 5-25-30 to 5-24-31 Award Type The Government intends to make one award from this solicitation. Therefore, to be considered responsive, contractors must submit pricing for all items. Evaluation and Basis for Award The provision at FAR 52.212-2, Evaluation—Commercial Products and Commercial Services is not applicable to this solicitation. In lieu of this provision, quotes will be evaluated in accordance with FAR 12.203 based on the criteria listed below. Award will be made to the offeror representing the best value to the Government. The Government will conduct a comparative evaluation of quotes to select the Contractor that is best suited to fulfill the requirement. The evaluation factors are: Price and Technical Capability. The Government reserves the right to select a quote that represents a superior technical solution, even if it is not the lowest priced. Submission Requirements: To be considered, provide a quote on company letterhead including: Vendor Details: SAM.gov UEI Number. Technical Documentation: Provide a brief Capability Statement listing the equipment and number of personnel to be used and a "meets/does not meet" statement confirming your ability to fulfill all tasks and frequencies in the SOW. Self-Performance/Subcontracting: State whether work will be self-performed or subcontracted; if subcontracting, provide the subcontractor's company name, UEI number, and a signed Letter of Commitment from the subcontractor confirming they have reviewed the SOW and are prepared to perform the services at the proposed price. Pricing: The total aggregate price for the Base Year and all Option Years (complete section 5.0 of the SOW). Timeline: Estimated lead time/delivery date. Validity: Quote must be valid for at least 60 days. Offerors shall identify where the offered item meets or does not meet each of the Government's functional and performance minimum specifications listed herein. Please ensure all email correspondence includes the solicitation number in the subject line. Emails without the RFQ number in the subject line may not be seen, read, and /or reviewed and therefore disqualified from consideration. QUESTIONS REGARDING THIS RFQ ARE DUE TO RICHARD HAWTHORNE at Richard.hawthorne@usda.gov, NO LATER THAN 1:00 p. m. ET, May 14th, 2026. Questions will only be accepted via email and WILL NOT be answered if received after this date/time. QUOTES REGARDING THIS RFQ ARE DUE TO RICHARD HAWTHORNE at Richard.hawthorne@usda.gov , NO LATER THAN 5:00 p. m. ET, May 18th, 2026. Performance Location: USDA-ARS-CENTER FOR BIOLOGICAL CONTROL 6383 Mahan Drive Tallahassee, Florida 32308 Site Visit Information Date/Time: 10am, ET, Tuesday May 12th, 2026 Meeting Location: 6383 Mahan Drive, Tallahassee, Florida 32308 at the East end of the parking lot in front of the USDA sign. POC for Access: Alex Gaffke, 352-283-7712, alexander.gaffke@usda.gov Inquiries: The POC is for site visit coordination and physical access only. The POC is not authorized to discuss the RFQ, technical specifications, or contract terms. All formal inquiries and Requests for Information (RFIs) must be submitted in writing to the Contract Specialist at Richard.hawthorne@usda.gov. Any information obtained from unauthorized sources is unofficial and non-binding. Bidders who attempt to bypass formal RFI procedures or seek an unfair competitive advantage through unauthorized technical contact may have their proposals found non-responsive.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Richard Hawthorne
+  - Email: richard.hawthorne@usda.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6b928de28576477db781461f86fac97e/view)

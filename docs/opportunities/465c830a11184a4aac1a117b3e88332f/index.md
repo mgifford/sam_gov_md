@@ -1,0 +1,32 @@
+---
+layout: default
+title: B1610 and 2310 Boiler Replacement
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 465c830a11184a4aac1a117b3e88332f
+---
+
+# B1610 and 2310 Boiler Replacement
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-05-06 12:00:42.546-04
+- Solicitation Number: FA489726Q0008
+
+## Summary
+
+MHAFB has an construction requirement for the dismantling and replacement/ installation of boilers in building B1610 and 2310 IAW the SOW provided. Period of Performance : Coordinate boilers replacement for late spring, summer, and/or early fall 2026, boilers must be installed and functioning by 2 October 2026. Plan for minimal impact on occupants. Note: service interruptions are NOT allowed during cold weather months when boilers are in use for facility heat. A site walk through will be conducted with interested contractors. Estimated range: $25,000 to $100,000 Site Visit Date/Time: April 20, 2026, 10:00 AM MDT. Site visit information requests such as base access procedure or additional site visits shall only be submitted in writing to the CONS POCs. Site visit attendees must submit full names, driver’s license numbers and state of issue, company name, and vehicle type (personal or commercial vehicle), for all attendees, to the CONS POCs no later than 12:00 PM MDT on April 15, 2026. The site visit will start at B1610 and move to B2310 Amendment 1: All questions shall be submitted to both the Contracting Officer and the Contracting Specialist within three business days from the date the site visit is conducted. Amendment 2: Updates the solicitation document with updated provisions and clauses. Amendment 3: Extend response date to 13 May 2026 at 1000 MST.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Gage Bergman
+  - Email: gage.bergman@us.af.mil
+- Secondary Contact:
+  - Name: SrA Deivid Baez
+  - Email: deivid.baez.co@us.af.mil
+  - Phone: 2088281665
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/465c830a11184a4aac1a117b3e88332f/view)

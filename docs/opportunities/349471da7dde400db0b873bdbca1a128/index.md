@@ -1,0 +1,49 @@
+---
+layout: default
+title: 7320--Combi Ovens
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: 349471da7dde400db0b873bdbca1a128
+---
+
+# 7320--Combi Ovens
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-05-06 06:55:56.82-04
+- Solicitation Number: 36C24526Q0499
+- Awardee: null
+
+## Summary
+
+Page 1 of Page 1 of Page 1 of Page 1 of This is not a solicitation but rather a Request for Information (RFI/Sources Sought) for market research purposes only. Department of Veterans Affairs, Veterans Health Administration, Network Contracting Office 5, is issuing this Sources Sought in order to identify capable firms and obtain information for planning purposes only. Responses must be submitted by 12:00 PM EST, May 15th, 2026. Submit responses to this Sources Sought via email to james.ferro@va.gov All SDVOSB and VOSB firms that respond shall include proof of SBA certification via https://veterans.certify.sba.gov/All small business firms that respond shall include proof of small business status via their Representations and Certifications in accordance with (FAR
+
+4.1102 Policy). While SDVOSB/VOSB firms are preferred, all capable firms are welcome to respond to this Sources Sought. All respondents to this Sources Sought shall include as part of their response answers to the below questions and provide any additional pertinent information that supports the answers. If there are any ambiguities in this Sources Sought, please identify them in your response. The results of this market research will assist in the development of (1) the requirement, and (2) the acquisition strategy (e.g., socioeconomic set-aside, full and open competition, etc.). VA assumes no responsibility for any costs incurred associated with the preparation of responses. Suggested NAICS: 325998 All Other Miscellaneous Chemical Product and Preparation Manufacturing Suggested PSC: 7320 Kitchen Equipment and Appliances Open to suggestions from the market as to a more proper NAICS and/or PSC, as well as any potential GSA/FSS Schedule SIN categories. Product ID# Product Description Quantity ICP 10 FULL NG 208/240V 1 PH RATIONAL iCombi Pro 10 full size 1ph 208V (240V) 60Hz UL Gas unit Natural Gas (Gas A) 1 ICARESYSTEM AUTODOSE ICARESYSTEM AUTODOSE iCareSystem AutoDose, Integrated autonomous cleaning and storage system for iCombi Pro tabletop units 2 56.01.912 Active Green Cleaner Cartridges, iCombi Pro Table Top units with AutoDose option /6 cartridges per box 2 56.01.914 Care Cartridges, iCombi Pro Table Top units with AutoDose option /6 cartridges per box 2 2 years parts and labor, 5 years steam generator warranty 2 CAP Chef Assistance Program, a RATIONAL certified Chef conducts 4 hours/location specialized application training with personnel, no charge 2
+
+9999.2002 Pre Installation Site Consultation, provides an installation consultation to ensure the site has proper space and connections for gas, electric, drain & water, one (1) Consultation is needed for every four (4) cooking systems, add in one (1) kitchen , includes 100 miles (200 miles round trip) 2
+
+9999.2211 RCI RATIONAL Certified Installation, new certified installation for each individual gas table top iCombi on a stand or counter, 100 miles (200 round trip) included. 2 8720.1561US Installation Kit, for gas iCombi/SCC/CMP 102G (208 240/60Hz/1ph); gas iCombi/SCC/CMP 201G (120/60Hz/1ph); gas iCombi/SCC/CMP 202G (208 240/60Hz/1ph) 2 1900.1159US Water Filtration Single Cartridge System, for any single combi model, or XS & half size Combi Duos, or iVario includes: (1) single head with pressure gauge, R95 CLX filter & (1) filter installation kit 2
+
+9999.2271 RCI RATIONAL Certified Installation, additional installation cost for a RATIONAL Water Filter System is available when purchased with Certified Installation of RATIONAL unit 2
+
+9999.2271 The RATIONAL Water Filtration Systems helps provide consistent high quality water to your RATIONAL cooking systems. The patented carbon block technology reduces the effects of sediment, chloramines, and chlorine while delivering the required flow rates. 2 60.31.087 Stand II Stationary Oven Stand, 26 3/8"H, (14) supporting rails, side panels and top closed, rear panel open, stainless steel construction, for 6 and 10 full size Classic/Pro 2
+
+6010.2101 Gastronorm Grid Shelf, 2/1 size, 25 5/8" x 20 7/8", stainless steel 2 ICP 10 FULL E 208/240V 3 PH RATIONAL Model No. ICP 10 FULL E 208/240V 3 PH (LM100EE) (CE1ERRA.0023076) RATIONAL iCombi Pro 10 full size 3ph 208V (240V) 60Hz UL Electrical unit 1
+
+9999.2201 RCI RATIONAL Certified Installation, new certified installation for each individual electric table top iCombi on a stand or counter, 100 miles (200 round trip) included. 1 8720.1554US S (Installation Kit, for electric iCombi/SCC/CMP 102 (208/60Hz/3 & 240/60Hz/3); electric iCombi/SCC/CMP 202 (440/60Hz/3) 1 Statement of Work (SOW) Nutrition and Food Service Combi Ovens A. Background The mission of the Hershel Woody Williams VAMC is to provide patient care. The mission of the department is the safe delivery of nearly 50,000 meals per annum. Food safety and temperature control are extremely important as related to patient safety. The existing Convectional Ovens in place is in need of replacement due to wear and tear, therefore replacement is warranted. In accordance with VHA
+
+1109.3 Nutrition and Food Service Safety and VHA
+
+1109.4 Food Service Management Program, requires the use of effective and safe equipment for the production and service of patient meals. B. Objective Following the completion of the proposed tasks, the client will be able effectively heat food to proper levels required to assure patient safety and customer satisfaction, in Accordance With (IAW) established guidelines. C. Scope of Work The proposed turn-key operation will include meeting the gas/electrical specifications in full scope. The contractor will coordinate with in-house services to ensure the safety of delivery and work area during all phases of the proposed work. Requirements: Pre-Installation Site Consultation provides an installation consultation to ensure the site has proper space and connections for gas, electricity, drain & water, one (1) Consultation is needed for two (2) cooking systems, includes 100 miles (200 miles round trip). RCI RATIONAL Certified Installation, new certified installation for each individual gas and/or electric table-top iCombi on a stand or counter, 100 miles (200 round-trip) included. RCI RATIONAL Certified Installation for a RATIONAL Water Filter System The contractor shall meet the gas/electrical requirements and measure specifications of the facility. The contractor shall ensure that the equipment is installed IAW, plumbing, electrical, gas, and building codes through the measurement of BTU, voltage, watts, and amperage. Contractor shall uninstall, remove, and dispose of existing oven equipment. The contractor shall do a functional test of the equipment and trouble shoot as necessary. The contractor shall provide client training on operation and maintenance. CAP Chef Assistance Program, a RATIONAL certified Chef conducts 4 hours/location specialized application training with personnel, no charge Without Wi-Fi Schedule: Post 40 days of contract award, the contractor shall complete the noted deliverables. Government Furnished Property: None Property provided by Contractor: Contractor shall provide all tools required to manage the task. Contractor shall ensure personnel protective equipment for personnel. Security Requirements: The contractor shall ensure that all contractor personnel working on the jobsite obtain successful background investigations. General Responsibilities: Timely and safe installation of proposed equipment. Qualifications: Contractors will be licensed/certified IAW that specified work. If you are interested, please e-mail the following information: Company Name: UEI Number: Cage Code: Dun & Bradstreet Number: Person of Contact (including telephone number and email address). Socio-economic status (SDVOSB, VOSB, Woman-Owned, Other etc.). Are you a distributor or a manufacturer? If you are an authorized distributor, please provide confirmation on Company Letter Head. If you are a distributor, who is the manufacturer? Where is the manufacturer located in the world? Do you currently hold a government contract? Contract Number? Type of contract? Are these particular quoted items under contract? With whom (GSA, SEWP, etc )? If GSA what Schedule and SIN? Can your company provide the service for the listed Department of Veterans Affairs locations? Page 1 of Page 1 of Page 1 of Page 1 of Page 1 of Page 1 of Page 1 of Page 1 of Page 5 of 5 Page 5 of 5 Page 1 of 2 Page 1 of Page 1 of Page 1 of Page 1 of Does your firm utilize the suggested NAICS and PSC per this Sources Sought Notice? If not, please suggest a more appropriate NAICS and/or PSC and explain why it s more appropriate? How do you invoice for this service, including rates? What Certifications, State and/or Federal, if any must you have to perform this service? Please list all of your concerns, questions and ambiguities below. Questions will not be addressed directly but will be used by the Government in the event that this Sources Sought would move forward to solicitation. Please provide estimated rates if possible.
+
+## Contacts
+
+- Primary Contact:
+  - Name: James Ferro
+  - Title: Contracting Officer
+  - Email: james.ferro@va.gov
+  - Phone: 202-745-8000
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/349471da7dde400db0b873bdbca1a128/view)

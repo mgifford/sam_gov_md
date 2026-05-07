@@ -1,0 +1,36 @@
+---
+layout: default
+title: TEST SET, SEMICONDU
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: d317a76b173c4f58b4406a99a332d55e
+---
+
+# TEST SET, SEMICONDU
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-05-06 06:46:38.231-04
+- Solicitation Number: SPRMM1-26-Q-GD62
+
+## Summary
+
+0001 NSN 7ZH 6625-01-583-5473 TE TEST SET, SEMICONDU SHELF LIFE 0-00 FOR REFERENCE ONLY 57705 TRACKER 2800S SEE TECHNICAL REQUIREMENTS IN SECTIONS C, D, E, AND ATTACHMENTS HM QUP ICQ PMT CD PM WM CUD CT UC LP IC UCL SP MK PACK UNIT PKWT UNIT PKCU OPI N 001 000 41 1 00 EA GH D ED A 00 B 00 EFF 14.0
+
+1.036 O PACKAGING IS IN ACCORDANCE WITH MIL-STD-2073 SHIP TO 0001AA M/F: N60530-6107-13VF N60530 1 EA NAVAL AIR WARFARE CTR WEAPONS DIV SEE CONSIGNMENT INSTRUCTIONS FOR ADDRESS TP: 1 PROJ: YY9 RDD: 611 See attachment for full details.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Telephone: 6146930001
+  - Email: KATHERINE.DAVIES@DLA.MIL
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: full details
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d317a76b173c4f58b4406a99a332d55e/view)

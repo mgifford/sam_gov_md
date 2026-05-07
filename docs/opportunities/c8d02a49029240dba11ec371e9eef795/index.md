@@ -1,0 +1,31 @@
+---
+layout: default
+title: 6530--EQUIPMENT - GULDMANN PATIENT CEILING LIFT SYSTEMS BRAND NAME ONLY
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: c8d02a49029240dba11ec371e9eef795
+---
+
+# 6530--EQUIPMENT - GULDMANN PATIENT CEILING LIFT SYSTEMS BRAND NAME ONLY
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-05-06 10:06:06.385-04
+- Solicitation Number: 36C24226Q0596
+- Awardee: null
+
+## Summary
+
+This is a SOURCES SOUGHT ANNOUNCEMENT ONLY.Â Â It is neither a solicitation announcement nor a request for proposals or quotes and does not obligate theÂ Government to award a contract.Â Requests for a solicitation will not receive a response.Â Responses to this Sources Sought must be in writing.Â The purpose of this Sources Sought Announcement is for market research to make appropriate acquisition decisions and to gain knowledge of potential qualified businesses interested in and capable of providing the requested commodities. The NAICS Code is 339113; size standard is 800 employees; PSC is 6530. Unrestricted no set-aside Responses to this notice shall include the following: (a) company nameÂ Â b) address (c) socio-economic status, (d) point of contact (e) phone, fax, and email (f) SAM UEI number (g) Cage CodeÂ (h) Tax ID Number (i) and mustÂ Â provide a capability statement that addresses the organizations qualifications and abilityÂ to perform as a contractor and provide the commodities described below.Â Â BRAND NAME ONLY GULDMANN, INC. OBJECTIVE: James J. Peters VA Medical Center is replacing their outdated patient lifts that have exceeded their end-of-life. This project involves the deinstallation of the old units, procurement, installation, inspection, and staff training on the Guldmann GH3+ lifts, in coordination with Safe Patient Handling (SPH), Facilities Management Service (FMS), and Healthcare Technology Management (HTM). STANDARDS AND SPECIFICATIONS: Ceiling Lifts shall meet the latest versions of NFPA 13, NFPA 101, NFPA 70, NFPA 99, and all other applicable federal, state and local codes. Appropriate documentation should be provided. Ceiling Lifts shall comply with ISO 10535: Hoists for the transfer of disabled persons Requirements and test methods . Ceiling lifts must include a 2-point hangar bar, and manufacturers must allow and warrant the use of their lifts with the full range of manufacturer loop slings. The lifts shall be mounted (using ceiling support as determined by building structure and room covering layout needs) to provide lifting capability for the maximum area possible within each room which means wall to wall. The contractor shall offer both traverse and straight track options for the ceiling mounted lifts. Lifts must be capable of picking patients up off the floor. Scales must be internal; with patient weight displayed on LCD screen located on the hand control and must not decrease the lifting height of the system. Hoist must not have an external scale attachment. The lift hand control must be attached to the lift in a way that allows it not to be lost. Ceiling lift motors shall be capable of lifting at least 600 pounds for standard lifts and 880 pounds for bariatric lifts, as specified. Ceiling lifts vertical motion must be motorized. Motors shall be GFCI protected. Lift must charge automatically anywhere on the track via continuous AC charging. Ceiling lifts must include safeguards to prevent patients from being trapped or hurt, such as emergency stop buttons or emergency lowering devices in case of power failure. Use of emergency lowering devices must not require tools or ladders and easily accessible to patient care personnel (i.e. Nursing). Contractor shall not interfere with operations of existing sprinkler heads, lights, HVAC grills, curtain tracks, IV tracks, televisions, permanent furniture, or other permanent structures. Contractor shall not breach any firewalls during the installation of these lifts. Any fire barrier that must be penetrated must be discussed with VA safety personnel and must immediately have fire barrier repaired. An Above Ceiling Permit must be filled out before ceiling work, and the COR will check the ceiling after ceiling work, to make sure any fire barrier penetration was repaired. Each room where lifts are installed shall be returned to its original condition, excluding the newly installed ceiling lift. Holes in the wall or ceiling tile must be patched with appropriate materials. Ceilings must not be slotted exposing space above ceiling to the room below. Rail system and Patient Lift Motor must be provided by the same manufacturer. Place of Delivery: James J Peters VA Medical Center 130 W Kingsbridge Rd Bronx, NY 10468 The Government is not obligated to, nor will it pay for or reimburse any costs associated with responding to this Sources Sought request. This notice shall not be construed as a commitment by the Government to issue a solicitation or ultimately award a contract, nor does it restrict the Government to a particular acquisition approach. The Government will in no way be bound to this information if any solicitation is issued.Â Notice to Potential Offerors: All Offerors who provide goods or services to the United States Federal Government must be registered in the System for Award Management (SAM located on the web at www.sam.gov). It is desirable that any Offeror to have completed their business Online Representations and Certifications Application (ORCA). Additionally, all Service-Disabled Veteran Owned Small Businesses or Veteran Owned Small Businesses who respond to a solicitation on this project must be registered and certified with the Small Business Administration (SBA).Â Requests for information and resultant responses shall be submitted directly to the contracting officer, Response due no later than 15:00 Eastern Standard Time on May 15, 2026 to Paul Speedling, Contracting Officer at Paul.Speedling@va.gov.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Paul Speedling
+  - Title: Contracting Officer
+  - Email: Paul.Speedling@va.gov
+  - Phone: 914-737-4400 x202107
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c8d02a49029240dba11ec371e9eef795/view)
