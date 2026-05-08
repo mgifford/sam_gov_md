@@ -1,0 +1,87 @@
+{
+  "version": "1.0",
+  "source": "docs/data/recompetes.json",
+  "row_count": 0,
+  "manifests": [
+    {
+      "id": "agency-value-bar",
+      "title": "Recompete Value by Agency",
+      "description": "Total expiring award value by awarding agency.",
+      "manifest": {
+        "type": "bar",
+        "series": [
+          {
+            "name": "Total Value",
+            "data": []
+          }
+        ],
+        "categories": []
+      }
+    },
+    {
+      "id": "expiry-quarter-column",
+      "title": "Expiry Quarter Distribution",
+      "description": "Count of expiring awards by fiscal quarter.",
+      "manifest": {
+        "type": "column",
+        "series": [
+          {
+            "name": "Expiring Awards",
+            "data": [
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "categories": [
+          "Q1",
+          "Q2",
+          "Q3",
+          "Q4"
+        ]
+      }
+    },
+    {
+      "id": "set-aside-donut",
+      "title": "Set-Aside Status Mix",
+      "description": "Distribution of set-aside statuses in expiring awards.",
+      "manifest": {
+        "type": "donut",
+        "series": [
+          {
+            "name": "Set-Aside Count",
+            "data": []
+          }
+        ],
+        "categories": []
+      }
+    },
+    {
+      "id": "benchmark-diff-bar",
+      "title": "Benchmark Difference Bands",
+      "description": "Count of rows grouped by benchmark difference bands.",
+      "manifest": {
+        "type": "bar",
+        "series": [
+          {
+            "name": "Rows",
+            "data": [
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "categories": [
+          "Below -10%",
+          "-10% to +10%",
+          "+10% to +25%",
+          "Above +25%"
+        ]
+      }
+    }
+  ]
+}

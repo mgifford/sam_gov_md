@@ -27,6 +27,67 @@ Toolkit for discovering, analyzing, and tracking ICT/digital project opportuniti
 - SQLite deduplication
 - GitHub Pages search index
 
+## Recompete Discovery (No SAM.gov API Key)
+
+Use USASpending-based extraction to identify expiring awards for a selected
+company cohort and export ParaCharts-ready risk rows.
+
+```bash
+python scripts/build_recompete_risk.py \
+  --cohort dsc \
+  --fy-start 2026-10-01 \
+  --fy-end 2027-09-30 \
+  --output-json data/today/recompetes.json \
+  --output-docs-json docs/data/recompetes.json \
+  --output-paracharts-spec docs/data/recompetes_paracharts_specs.json \
+  --output-md data/today/summary.md
+```
+
+Run the AI vendor cohort:
+
+```bash
+python scripts/build_recompete_risk.py \
+  --cohort ai \
+  --fy-start 2026-10-01 \
+  --fy-end 2027-09-30 \
+  --output-json data/today/recompetes_ai.json \
+  --output-docs-json docs/data/recompetes.json \
+  --output-paracharts-spec docs/data/recompetes_paracharts_specs.json \
+  --output-md data/today/summary_ai.md
+```
+
+GitHub Pages visualization:
+- `docs/recompete.html`
+- `docs/recompete.js`
+- Data feed: `docs/data/recompetes.json`
+- ParaCharts manifests: `docs/data/recompetes_paracharts_specs.json`
+
+Refresh the AI cohort file from current USASpending data:
+
+```bash
+python scripts/refresh_ai_vendor_cohort.py \
+  --start-date 2023-10-01 \
+  --end-date 2026-09-30 \
+  --top-n 30 \
+  --output config/company_lists/ai_vendors_federal.json
+```
+
+Outputs:
+- `data/today/recompetes.json` (ParaCharts schema)
+- `data/today/summary.md` (narrative summary)
+
+To run for any other cohort, create a file using
+`config/company_lists/example_companies.json` as a template and pass it with
+`--companies-file`.
+
+## 1102tools Skills
+
+Relevant skills from 1102tools are cataloged locally for acquisition workflow
+routing:
+
+- `config/skills/1102tools_skills_catalog.json`
+- `docs/1102TOOLS_SKILLS.md`
+
 ## Quick Start
 
 ### Setup

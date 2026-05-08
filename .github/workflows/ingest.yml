@@ -73,6 +73,17 @@ jobs:
         run: |
           python scripts/export_all_opportunities.py
 
+      - name: Generate recompete dashboard data
+        run: |
+          python scripts/build_recompete_risk.py \
+            --cohort ai \
+            --fy-start 2026-10-01 \
+            --fy-end 2027-09-30 \
+            --output-json data/today/recompetes_ai.json \
+            --output-docs-json docs/data/recompetes.json \
+            --output-paracharts-spec docs/data/recompetes_paracharts_specs.json \
+            --output-md data/today/summary_ai.md
+
       - name: Determine whether alerts exist
         id: alert_check
         run: |
@@ -112,13 +123,35 @@ jobs:
 
       - name: Commit and push if changed
         run: |
-          if [[ -z "$(git status --porcelain -- data/today docs/data data/opportunities.sqlite docs/opportunities)" ]]; then
-            echo "No changes to commit."
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add \
+            data/today/summary.json \
+            data/today/opportunities.json \
+            data/today/wins.json \
+            data/today/relationships.json \
+            data/today/high_value_matches.json \
+            data/today/high_value_alert.md \
+            data/today/alerts_summary.json \
+            data/today/usaspending_enrichment.json \
+            data/today/recompetes_ai.json \
+            data/today/summary_ai.md \
+            docs/data/today_summary.json \
+            docs/data/today_relationships.json \
+            docs/data/today_departments.json \
+            docs/data/trends.json \
+            docs/data/contract_officers.json \
+            docs/data/department_forecast.json \
+            docs/data/time_to_award.json \
+            docs/data/recompetes.json \
+            docs/data/recompetes_paracharts_specs.json \
+            docs/opportunities
+
+          if git diff --cached --quiet; then
+            echo "No staged changes to commit."
             exit 0
           fi
 
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/today docs/data data/opportunities.sqlite docs/opportunities
           git commit -m "chore: daily SAM.gov refresh ($(date -u +%F))"
           git push

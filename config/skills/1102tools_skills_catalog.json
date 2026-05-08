@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ot-project-description-builder",
+    "name": "OT Project Description Builder",
+    "source": "https://github.com/1102tools/federal-contracting-skills/tree/main/skills/ot-project-description-builder",
+    "relevance": "Builds clear project narratives and scope framing for recompete planning and executive summaries.",
+    "workflow_stage": "Discovery framing"
+  },
+  {
+    "id": "sow-pws-builder",
+    "name": "SOW/PWS Builder",
+    "source": "https://github.com/1102tools/federal-contracting-skills/tree/main/skills/sow-pws-builder",
+    "relevance": "Turns strategy decisions into a structured work statement for upcoming recompetes.",
+    "workflow_stage": "Pre-solicitation drafting"
+  },
+  {
+    "id": "igce-builder-ffp",
+    "name": "IGCE Builder FFP",
+    "source": "https://github.com/1102tools/federal-contracting-skills/tree/main/skills/igce-builder-ffp",
+    "relevance": "Supports fixed-price independent government estimates once labor categories are known.",
+    "workflow_stage": "Price strategy"
+  },
+  {
+    "id": "igce-builder-lh-tm",
+    "name": "IGCE Builder LH/T&M",
+    "source": "https://github.com/1102tools/federal-contracting-skills/tree/main/skills/igce-builder-lh-tm",
+    "relevance": "Supports labor-hour and T&M estimate structures for service recompetes.",
+    "workflow_stage": "Price strategy"
+  },
+  {
+    "id": "igce-builder-cr",
+    "name": "IGCE Builder Cost Reimbursement",
+    "source": "https://github.com/1102tools/federal-contracting-skills/tree/main/skills/igce-builder-cr",
+    "relevance": "Supports cost-reimbursement estimate workflows for uncertain R&D-style efforts.",
+    "workflow_stage": "Price strategy"
+  },
+  {
+    "id": "ot-cost-analysis",
+    "name": "Other Transaction Cost Analysis",
+    "source": "https://github.com/1102tools/federal-contracting-skills/tree/main/skills/ot-cost-analysis",
+    "relevance": "Useful for market-based analysis patterns when comparing traditional and non-traditional acquisition paths.",
+    "workflow_stage": "Acquisition planning"
+  }
+]
