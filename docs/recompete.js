@@ -132,6 +132,7 @@ function renderRowsTable(rows) {
           <td>${money(Number(row.value || 0))}</td>
           <td>${row.expiry_quarter || "Q1"}</td>
           <td>${row.set_aside_status || "Unknown"}</td>
+          <td>${row.rule_of_two_signal || "unknown"}</td>
           <td>${diff.toFixed(1)}%</td>
         </tr>
       `
@@ -146,6 +147,7 @@ function renderRowsTable(rows) {
           <th>Value</th>
           <th>Expiry Quarter</th>
           <th>Set-Aside</th>
+          <th>Rule-of-Two Signal</th>
           <th>Benchmark Diff</th>
         </tr>
       </thead>

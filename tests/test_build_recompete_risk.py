@@ -101,7 +101,18 @@ def test_build_recompete_rows_shape() -> None:
         }
     ]
 
-    para_rows, detail_rows = br.build_recompete_rows(awards)
+    def _depth_provider(_naics: str, _agency: str, _fy_end: date) -> dict:
+        return {
+            "small_business_vendor_count_3y": 3,
+            "total_vendor_count_3y": 12,
+            "vendor_depth_signal": "medium",
+        }
+
+    para_rows, detail_rows = br.build_recompete_rows(
+        awards,
+        fy_end=date(2027, 9, 30),
+        vendor_depth_provider=_depth_provider,
+    )
     assert len(para_rows) == 1
     assert len(detail_rows) == 1
 
@@ -112,8 +123,31 @@ def test_build_recompete_rows_shape() -> None:
         "expiry_quarter",
         "set_aside_status",
         "benchmark_diff",
+        "rule_of_two_signal",
     }
     assert row["expiry_quarter"] == "Q1"
+    assert row["rule_of_two_signal"] == "medium"
+
+
+def test_classify_vendor_depth_signal() -> None:
+    """Vendor depth signal thresholds should be deterministic."""
+    assert br.classify_vendor_depth_signal(0) == "insufficient"
+    assert br.classify_vendor_depth_signal(1) == "low"
+    assert br.classify_vendor_depth_signal(2) == "medium"
+    assert br.classify_vendor_depth_signal(5) == "high"
+
+
+def test_build_rule_of_two_evidence_not_applicable() -> None:
+    """Non set-aside awards should get not-applicable signal."""
+    evidence = br.build_rule_of_two_evidence(
+        is_set_aside=False,
+        naics_code="541512",
+        awarding_agency="Department of Defense",
+        fy_end=date(2027, 9, 30),
+        vendor_depth_provider=lambda *_args, **_kwargs: {},
+    )
+    assert evidence["rule_of_two_applicable"] is False
+    assert evidence["vendor_depth_signal"] == "not-applicable"
 
 
 def test_resolve_companies_file_uses_cohort() -> None:
@@ -137,6 +171,7 @@ def test_build_paracharts_specs_structure() -> None:
             "expiry_quarter": "Q2",
             "set_aside_status": "Total Small Business Set-Aside",
             "benchmark_diff": 0,
+            "rule_of_two_signal": "high",
         },
         {
             "agency": "Department of Veterans Affairs",
@@ -144,13 +179,14 @@ def test_build_paracharts_specs_structure() -> None:
             "expiry_quarter": "Q4",
             "set_aside_status": "Full and Open Competition",
             "benchmark_diff": 18,
+            "rule_of_two_signal": "not-applicable",
         },
     ]
 
     specs = br.build_paracharts_specs(rows)
     assert specs["version"] == "1.0"
     assert specs["row_count"] == 2
-    assert len(specs["manifests"]) == 4
+    assert len(specs["manifests"]) == 5
     assert specs["manifests"][0]["manifest"]["type"] == "bar"
 
 

@@ -16,7 +16,7 @@ import urllib.parse
 from dataclasses import dataclass
 from datetime import date, datetime
 from pathlib import Path
-from typing import Any
+from typing import Any, Callable
 
 import requests
 
@@ -24,6 +24,7 @@ USASPENDING_ENDPOINT = "https://api.usaspending.gov/api/v2/search/spending_by_aw
 EARLIEST_USASPENDING_DATE = "2007-10-01"
 REQUEST_TIMEOUT = 30
 CONTRACT_AWARD_TYPE_CODES = ["A", "B", "C", "D"]
+ECFR_FAR_PART_19_5_URL = "https://www.ecfr.gov/current/title-48/chapter-1/subchapter-C/part-19"
 GSA_CALC_ENDPOINT = "https://api.gsa.gov/acquisition/calc/v3/api/ceilingrates/"
 BLS_ENDPOINT_V1 = "https://api.bls.gov/publicAPI/v1/timeseries/data/"
 BLS_ENDPOINT_V2 = "https://api.bls.gov/publicAPI/v2/timeseries/data/"
@@ -221,6 +222,123 @@ def far_rule_of_two_note(is_set_aside: bool) -> str:
             "likely applies to recompete strategy."
         )
     return "No Small Business Set-Aside signal detected in award metadata."
+
+
+def classify_vendor_depth_signal(small_vendor_count: int) -> str:
+    """Classify Rule-of-Two market depth confidence by small vendor count."""
+    if small_vendor_count >= 5:
+        return "high"
+    if small_vendor_count >= 2:
+        return "medium"
+    if small_vendor_count >= 1:
+        return "low"
+    return "insufficient"
+
+
+def fetch_vendor_depth_signal(
+    naics_code: str,
+    awarding_agency: str,
+    fy_end: date,
+    max_pages: int = 2,
+) -> dict[str, Any]:
+    """Estimate small-business vendor depth signal from recent USASpending awards."""
+    if not naics_code:
+        return {
+            "small_business_vendor_count_3y": 0,
+            "total_vendor_count_3y": 0,
+            "vendor_depth_signal": "not-available",
+        }
+
+    lookback_start = date(fy_end.year - 2, 10, 1)
+    filters: dict[str, Any] = {
+        "time_period": [{"start_date": str(lookback_start), "end_date": str(fy_end)}],
+        "award_type_codes": CONTRACT_AWARD_TYPE_CODES,
+        "naics_codes": [naics_code],
+    }
+    if awarding_agency:
+        filters["agencies"] = [{"type": "awarding", "tier": "toptier", "name": awarding_agency}]
+
+    fields = ["Recipient Name", "Type Set Aside"]
+    total_vendors: set[str] = set()
+    small_vendors: set[str] = set()
+
+    for page in range(1, max_pages + 1):
+        payload = {
+            "fields": fields,
+            "filters": filters,
+            "page": page,
+            "limit": 100,
+            "sort": "Recipient Name",
+            "order": "asc",
+            "subawards": False,
+        }
+        try:
+            response = requests.post(USASPENDING_ENDPOINT, json=payload, timeout=REQUEST_TIMEOUT)
+            response.raise_for_status()
+            body = response.json()
+        except (requests.RequestException, ValueError):
+            return {
+                "small_business_vendor_count_3y": 0,
+                "total_vendor_count_3y": 0,
+                "vendor_depth_signal": "unknown",
+            }
+
+        rows = body.get("results", [])
+        for row in rows:
+            recipient = str(row.get("Recipient Name") or "").strip()
+            if not recipient:
+                continue
+            total_vendors.add(recipient)
+            if is_small_business_set_aside(str(row.get("Type Set Aside") or "")):
+                small_vendors.add(recipient)
+
+        if not body.get("page_metadata", {}).get("hasNext"):
+            break
+
+    small_count = len(small_vendors)
+    return {
+        "small_business_vendor_count_3y": small_count,
+        "total_vendor_count_3y": len(total_vendors),
+        "vendor_depth_signal": classify_vendor_depth_signal(small_count),
+    }
+
+
+def build_rule_of_two_evidence(
+    is_set_aside: bool,
+    naics_code: str,
+    awarding_agency: str,
+    fy_end: date,
+    vendor_depth_provider: Callable[[str, str, date], dict[str, Any]],
+) -> dict[str, Any]:
+    """Build a compact Rule-of-Two evidence object for downstream reporting."""
+    if not is_set_aside:
+        return {
+            "far_part": "19.5",
+            "ecfr_url": ECFR_FAR_PART_19_5_URL,
+            "rule_of_two_applicable": False,
+            "vendor_depth_signal": "not-applicable",
+            "small_business_vendor_count_3y": 0,
+            "total_vendor_count_3y": 0,
+            "evidence_note": "Award is not marked as a small-business set-aside.",
+        }
+
+    depth = vendor_depth_provider(naics_code, awarding_agency, fy_end)
+    signal = str(depth.get("vendor_depth_signal") or "unknown")
+    small_count = int(depth.get("small_business_vendor_count_3y") or 0)
+    total_count = int(depth.get("total_vendor_count_3y") or 0)
+
+    return {
+        "far_part": "19.5",
+        "ecfr_url": ECFR_FAR_PART_19_5_URL,
+        "rule_of_two_applicable": True,
+        "vendor_depth_signal": signal,
+        "small_business_vendor_count_3y": small_count,
+        "total_vendor_count_3y": total_count,
+        "evidence_note": (
+            "Rule-of-Two screening uses recent USASpending vendor depth for the same "
+            "NAICS and awarding agency as a proxy market signal."
+        ),
+    }
 
 
 def infer_labor_category(description: str | None) -> str:
@@ -427,6 +545,7 @@ def search_awards_for_company(
         "Award ID",
         "Recipient Name",
         "Recipient UEI",
+        "naics_code",
         "Awarding Agency",
         "Award Amount",
         "Description",
@@ -479,12 +598,16 @@ def search_awards_for_company(
 def build_recompete_rows(
     awards: list[dict[str, Any]],
     benchmark_resolver: RateBenchmarkResolver | None = None,
+    fy_end: date | None = None,
+    vendor_depth_provider: Callable[[str, str, date], dict[str, Any]] | None = None,
 ) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
     """Transform award payloads into ParaCharts rows and detail rows."""
     para_rows: list[dict[str, Any]] = []
     detail_rows: list[dict[str, Any]] = []
 
     resolver = benchmark_resolver or RateBenchmarkResolver(mode="fallback", bls_burden_multiplier=2.0)
+    end_date = fy_end or date.today()
+    depth_provider = vendor_depth_provider or fetch_vendor_depth_signal
 
     for award in awards:
         agency = str(award.get("Awarding Agency") or "Unknown")
@@ -501,6 +624,14 @@ def build_recompete_rows(
         is_set_aside = is_small_business_set_aside(set_aside_text)
         labor_category = infer_labor_category(description)
         benchmark_diff, benchmark_meta = resolver.resolve(labor_category, description)
+        naics_code = str(award.get("naics_code") or "").strip()
+        rule_of_two_evidence = build_rule_of_two_evidence(
+            is_set_aside=is_set_aside,
+            naics_code=naics_code,
+            awarding_agency=agency,
+            fy_end=end_date,
+            vendor_depth_provider=depth_provider,
+        )
 
         para_rows.append(
             {
@@ -509,6 +640,7 @@ def build_recompete_rows(
                 "expiry_quarter": quarter_from_date(pop_end),
                 "set_aside_status": set_aside_text,
                 "benchmark_diff": benchmark_diff,
+                "rule_of_two_signal": rule_of_two_evidence["vendor_depth_signal"],
             }
         )
 
@@ -519,9 +651,11 @@ def build_recompete_rows(
                 "recipient_uei": award.get("Recipient UEI"),
                 "agency": agency,
                 "award_amount": award_amount,
+                "naics_code": naics_code,
                 "period_of_performance_end_date": str(pop_end),
                 "set_aside_status": set_aside_text,
                 "rule_of_two_note": far_rule_of_two_note(is_set_aside),
+                "rule_of_two_evidence": rule_of_two_evidence,
                 "labor_category": labor_category,
                 "benchmark_diff": benchmark_diff,
                 "benchmark_meta": benchmark_meta,
@@ -547,6 +681,11 @@ def write_summary_md(
 
     top_agencies = sorted(by_agency.items(), key=lambda item: item[1], reverse=True)[:10]
     set_aside_count = sum(1 for row in detail_rows if is_small_business_set_aside(row.get("set_aside_status")))
+    high_confidence_rule_two = sum(
+        1
+        for row in detail_rows
+        if ((row.get("rule_of_two_evidence") or {}).get("vendor_depth_signal") == "high")
+    )
 
     lines = [
         "# Recompete Discovery Summary",
@@ -555,6 +694,7 @@ def write_summary_md(
         f"- FY window: {fy_start} to {fy_end}",
         f"- Expiring awards found: {len(detail_rows)}",
         f"- Small-business set-aside awards: {set_aside_count}",
+        f"- Rule-of-Two high-confidence signals: {high_confidence_rule_two}",
         "- Data source: USASpending API (no SAM.gov key required)",
         "- FAR reference: 19.5 / 19.502-2 (Rule of Two)",
         "- Rate benchmark method: blended GSA CALC+ and BLS when available; fallback defaults otherwise",
@@ -580,6 +720,8 @@ def write_summary_md(
                 f"- POP End: {row.get('period_of_performance_end_date', '')}",
                 f"- Set-Aside: {row.get('set_aside_status', 'Unknown')}",
                 f"- FAR 19.5 note: {row.get('rule_of_two_note', '')}",
+                f"- Rule-of-Two signal: {(row.get('rule_of_two_evidence') or {}).get('vendor_depth_signal', 'unknown')}",
+                f"- Rule-of-Two evidence: SB vendors={(row.get('rule_of_two_evidence') or {}).get('small_business_vendor_count_3y', 0)} / total={(row.get('rule_of_two_evidence') or {}).get('total_vendor_count_3y', 0)}",
                 f"- Labor Category: {row.get('labor_category', 'General IT Services')}",
                 f"- Benchmark diff: {row.get('benchmark_diff', 0.0)}%",
                 f"- Benchmark source: {(row.get('benchmark_meta') or {}).get('source_mode', 'fallback')}",
@@ -603,6 +745,14 @@ def build_paracharts_specs(rows: list[dict[str, Any]]) -> dict[str, Any]:
         "+10% to +25%": 0,
         "Above +25%": 0,
     }
+    rule_two_signal_counts: dict[str, int] = {
+        "high": 0,
+        "medium": 0,
+        "low": 0,
+        "insufficient": 0,
+        "unknown": 0,
+        "not-applicable": 0,
+    }
 
     for row in rows:
         agency = str(row.get("agency") or "Unknown")
@@ -610,6 +760,7 @@ def build_paracharts_specs(rows: list[dict[str, Any]]) -> dict[str, Any]:
         quarter = str(row.get("expiry_quarter") or "Q1")
         set_aside = str(row.get("set_aside_status") or "Unknown")
         benchmark = float(row.get("benchmark_diff") or 0.0)
+        rule_two_signal = str(row.get("rule_of_two_signal") or "unknown")
 
         agency_totals[agency] = agency_totals.get(agency, 0.0) + value
         if quarter in quarter_counts:
@@ -617,6 +768,7 @@ def build_paracharts_specs(rows: list[dict[str, Any]]) -> dict[str, Any]:
         else:
             quarter_counts[quarter] = quarter_counts.get(quarter, 0) + 1
         set_aside_counts[set_aside] = set_aside_counts.get(set_aside, 0) + 1
+        rule_two_signal_counts[rule_two_signal] = rule_two_signal_counts.get(rule_two_signal, 0) + 1
 
         if benchmark < -10:
             benchmark_bands["Below -10%"] += 1
@@ -692,6 +844,21 @@ def build_paracharts_specs(rows: list[dict[str, Any]]) -> dict[str, Any]:
                 "categories": list(benchmark_bands.keys()),
             },
         },
+        {
+            "id": "rule-of-two-signal-bar",
+            "title": "Rule-of-Two Evidence Signal",
+            "description": "Signal strength from small-business vendor depth for Rule-of-Two screening.",
+            "manifest": {
+                "type": "bar",
+                "series": [
+                    {
+                        "name": "Rows",
+                        "data": [rule_two_signal_counts[key] for key in rule_two_signal_counts],
+                    }
+                ],
+                "categories": list(rule_two_signal_counts.keys()),
+            },
+        },
     ]
 
     return {
@@ -725,7 +892,11 @@ def main() -> None:
         mode=args.benchmark_mode,
         bls_burden_multiplier=args.bls_burden_multiplier,
     )
-    para_rows, detail_rows = build_recompete_rows(all_awards, benchmark_resolver=benchmark_resolver)
+    para_rows, detail_rows = build_recompete_rows(
+        all_awards,
+        benchmark_resolver=benchmark_resolver,
+        fy_end=fy_end,
+    )
 
     output_json_path = Path(args.output_json)
     output_json_path.parent.mkdir(parents=True, exist_ok=True)

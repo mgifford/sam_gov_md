@@ -82,6 +82,35 @@
           "Above +25%"
         ]
       }
+    },
+    {
+      "id": "rule-of-two-signal-bar",
+      "title": "Rule-of-Two Evidence Signal",
+      "description": "Signal strength from small-business vendor depth for Rule-of-Two screening.",
+      "manifest": {
+        "type": "bar",
+        "series": [
+          {
+            "name": "Rows",
+            "data": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "categories": [
+          "high",
+          "medium",
+          "low",
+          "insufficient",
+          "unknown",
+          "not-applicable"
+        ]
+      }
     }
   ]
 }
