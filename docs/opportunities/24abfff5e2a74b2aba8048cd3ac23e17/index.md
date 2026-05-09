@@ -1,0 +1,28 @@
+---
+layout: default
+title: Sale of Scrap- Mixed Metal- Watervliet Arsenal
+agency: DEPT OF DEFENSE
+notice_type: Sale of Surplus Property
+notice_id: 24abfff5e2a74b2aba8048cd3ac23e17
+---
+
+# Sale of Scrap- Mixed Metal- Watervliet Arsenal
+
+- Agency: DEPT OF DEFENSE
+- Type: Sale of Surplus Property
+- Posted: 2026-05-08 09:47:10.696-04
+- Solicitation Number: W911PT26Q004S
+
+## Summary
+
+Scrap to be sold: Approximately 1,000,000 lbs. of Mixed Metals (to include machine tool parts, and various misc. metals, mixed metals typically contain iron, steel, stainless steel, and tin). Payments Due: Payment is due within 5 days of receiving an invoice from the Government in pay.gov and prior to scrap removal. SALE OF SCRAP W911PT26Q004S TERMS AND CONDITIONS Watervliet Arsenal (WVA) expects to generate approximately 1,000,000 lbs. of Mixed Metals to be sold and removed from the facility. The weight of Mixed Metal is an estimate and may vary due to mission production and equipment availability. The Mixed Metals will be sold per pound. A deposit is not required to submit a proposal; however, the successful contractor must pay the entire amount of the sale price prior to removal of the scrap metal. Scrap will be sold as is. No sorting will be permitted on site. An invoice will be processed and sent to the Contractor via pay.gov. Payment is due within 5 days of receiving the invoice and prior to the scrap removal. If the actual weight of scrap is less or more than 1,000,000 lbs., the Government will issue a credit or additional invoice to vendor via pay.gov, that shall be paid within 5 days of receipt. The WVA Installation Management Logistics Division shall oversee the loading of the Mixed Metal. Removal weight will be determined after the award; removal scheduling will also be conducted after the award. Prior to removal, the Mixed Metals are put into a shed for the cutting fluids to drain out and then lift into a roll off dumpster. WVA will notify the Contractor when Mixed Metals are ready for removal. The Contractor shall send a roll off dumpster, which will be loaded by the WVA. Roll off dumpsters are required to have a lid/ cover (per NYSDEC SPDS Multi-Sector General Permit For Stormwater Discharges Associated with Industrial Activity, Part II.A.2.c.). The Contractor shall weigh truck upon arrival and departure at WVA to determine actual weight of scrap. The Contractor shall send a roll off box (if required), which will be loaded by the WVA. WVA shall complete a scrap weight pick up form, driver shall sign the WVA scrap weight form after truck is weighed at departure and provide to the Contractor and Contracting Office. The contractor is responsible for safely and efficiently securing the scrap prior to removing from the WVA. WVA does possess equipment and can assist in the loading of the scrap; WVA employees only operate Government owned equipment. Instructions to Offerors: Proposals are to be submitted per pound on the following form: SF 114A-C (see attached). Proposals are due by 4:00 PM Eastern Standard Time on Friday, 15 May 2026. Proposals shall be submitted to Lauren Scripps electronically via email to lauren.a.scripps.civ@army.mil. Questions shall be submitted to Lauren Scripps via email above. Payment Instructions: Payment is to be made through pay.gov at the following address: https://www.pay.gov/public/home. Instructions on how to register to pay.gov can be found on the website. Financial Terms 1. Contractor shall pay all freight costs. 2. Contractor is responsible for all shipping losses. 3. The contractor shall provide payment through pay.gov within 5 days of receipt of invoice and prior to removal. 4. If the actual weight of scrap is less or more than 1,000,000 lbs., the Government will issue a credit or additional invoice to vendor via pay.gov. This is an “All or Nothing” sale, as is. You are cautioned to propose only if you are prepared to pay for and remove in accordance with the terms and conditions of this sale. Mixed Metal is awarded to you as the high offeror is contractually yours and must be paid for and removed within the time allowed in the contract terms. Failure to do so shall subject you to paying a default fee and you will be barred from future Government sales. The Government reserves the right to terminate this contract for any contractor default. The Government reserves the right to reject unacceptable proposals and reoffer the lots at a later time or during this sale. PICK-UP/DELIVERY HOURS: Delivery hours for receipt of supplies at Watervliet Arsenal are as follows: Monday through Thursday Business Hours: 7:30 A.M. EST to 3:00 P.M. EST Friday Business Hours: Every other Friday from 7:30 A.M. EST to 2:00 P.M. EST Fridays will be staggered with every other Friday being a closed business day. Late/early arrivals may be rescheduled to the next available appointment date. BASED ON THE ABOVE, CONTRACTORS SHOULD CALL PROPERTY DISPOSAL SPECIALIST AT 518-949-6262 IN ADVANCE IF PICK UP IS SCHEDULED FOR A FRIDAY TO FIND OUT IF THE ARSENAL WILL BE OPEN FOR BUSINESS. Also, when a federal holiday is normally observed on a Friday, the Arsenal may be closed on the preceding Thursday. In these instances, please contact the contract/purchase order administrator in advance of delivery if Thursday delivery is anticipated to determine if the arsenal will be open for business.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Lauren A. Scripps
+  - Email: lauren.a.scripps.civ@army.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/24abfff5e2a74b2aba8048cd3ac23e17/view)

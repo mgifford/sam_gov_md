@@ -1,0 +1,31 @@
+---
+layout: default
+title: Fire Suppression System Inspection and Certification Services
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 8d5d3f5941164bdbb9bf175840ef05ce
+---
+
+# Fire Suppression System Inspection and Certification Services
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-05-08 15:23:22.377-04
+- Solicitation Number: N4523A26Q5718
+
+## Summary
+
+THIS IS A SOURCES SOUGHT NOTICE. THIS NOTICE IS ISSUED FOR MARKET RESEARCH PURPOSES ONLY. THIS IS NOT A SOLICITATION OR INVITATION FOR OFFERORS TO SUBMIT PROPOSALS. A SYNOPSIS OF PROPOSED CONTRACT ACTION WILL BE POSTED AT A LATER DATE WHICH WILL PROVIDE INSTRUCTIONS FOR OFFERORS TO RESPOND TO THIS OPPORTUNITY. The Puget Sound Naval Shipyard & Intermediate Maintenance Facility (PSNS & IMF), Contracting Department (Code 400), is issuing this Sources Sought notice and Request for Information (RFI). The Sources Sought is being issued as a means of conducting market research to determine the interest and capability of Industry to provide annual servicing to the onboard fire suppression system on four (4) 25Ton Kone Portal Cranes. The work to be performed under this requirement will be performed within the Controlled Industrial Area at PSNS (Puget Sound Naval Shipyard) and the Delta Pier at IMF (Intermediate Maintenance Facility). The tentative North American Industry Classification System (NAICS) code selected for this acquisition 811310, Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance, with a small business size standard of $12,500,000.00. To be considered an interested vendor, you must possess this NAICS code in your System for Award Management (SAM) registration. Interested offerors must be registered in SAM at www.sam.gov. Based on the responses to this sources sought notice, this requirement may be set-aside for small business (in full or in part) procured through full and open competition (unrestricted), or procured on a sole source basis. All small business set-aside categories will be considered. Telephonic inquiries will not be accepted or acknowledged, the Government will not be providing evaluations or comments to companies providing sources sought responses but the responses will be used to inform the government as to the best means of procuring this requirement. FURTHER SPECIFICATIONS AND DETAILS WILL BE PROVIDED IN THE REQUEST FOR QUOTE (RFQ) SUBMISSION REQUIREMENTS: Instructions to Submit Interest: Interested companies should submit, on company letterhead, a notice of interest including the name, telephone number, mailing address, and e-mail address of one point of contact. The notice of interest should include a brief description of your company and its capabilities as they relate to the requirements set forth in the notional PWS attached to this notice and include answers to the following specific questions. Please limit your response to no more than 5 pages. 1. Is your company a small or large business as defined by the Small Business Administration (SBA) under NAICS code 811310 - Commercial and Industrial Machinery and Equipment Repair and Maintenance? (The small business size standard for this NAICS is $12.5 million or less in average annual receipts). 2. Does your company have a satisfactory performance record for the type of work required? Please provide examples of relevant and recent (within three years) past performance. 3. Does your company have the necessary organization, experience, accounting and operational controls, and technical skills, or the ability to obtain them (including, as appropriate, such elements as production control procedures, property control systems, quality assurance measures, and safety programs applicable to materials to be produced or services to be performed by the prospective contractor and subcontractors)? 4. Given the work described in this announcement, does your company plan to submit a quote in response to the anticipated solicitation? How to Submit Interest: Please e-mail this information to the Government contacts listed below, with "N4523A26Q5718 Sources Sought Response" in the subject field, by the closing date of this notice. Emily Hamilton, Contract Specialist, emily.g.hamilton4.civ@us.navy.mil Amanpreet Johal, Contracting Officer, amanpreet.s.johal2.civ@us.navy.mil Notice Regarding Sources Sought: This sources sought is issued solely for information and planning purposes - it does not constitute a Request for Quote (RFQ) or a promise to issue an RFQ in the future. This sources sought does not commit the Government to contract for any supply or service whatsoever. Further, the Navy is not seeking quotes at this time, nor accepting unsolicited proposals. Responders are advised that the U.S. Government will not pay for any information or administrative costs incurred in response to this source sought; all costs associated with responding to this source sought will be solely at the interested party's expense. Not responding to this sources sought does not preclude participation in any future RFQ, if any is issued. If a solicitation is released, it will be synopsized on the SAM website (SAM.gov). It is the responsibility of the potential offerors to monitor these sites for additional information pertaining to this requirement. Information provided shall be treated as Business Sensitive or Confidential to the responder, exempt from public release under the Freedom of Information Act. PSNS & IMF may request further information regarding the capabilities of respondents to meet the requirements set forth in the announcement. This sources sought announcement is released in accordance with FAR 12.202. Information provided in response to this sources sought announcement will not be considered an offer by the responding contractor and cannot be accepted by the Government to form a binding contract.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Emily Hamilton
+  - Email: emily.g.hamilton4.civ@us.navy.mil
+- Secondary Contact:
+  - Name: Amanpreet Johal
+  - Email: amanpreet.s.johal2.civ@us.navy.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8d5d3f5941164bdbb9bf175840ef05ce/view)

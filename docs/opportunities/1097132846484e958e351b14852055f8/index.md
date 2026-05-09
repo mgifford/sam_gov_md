@@ -1,0 +1,35 @@
+---
+layout: default
+title: Sole Source, Electro-Hydraulic Control Valve (ECV) Technical Data Package, Test Equipment, and Spare Parts
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 1097132846484e958e351b14852055f8
+---
+
+# Sole Source, Electro-Hydraulic Control Valve (ECV) Technical Data Package, Test Equipment, and Spare Parts
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-05-08 08:41:15.982-04
+- Solicitation Number: N6660426Q0196
+
+## Summary
+
+Amendment 01: The purpose of this amendment is to update attachment N6660426Q0196. Please refer to attachment "N6660426Q0196 Amendment". All other terms and conditions remain unchanged. Please see attachments for details on this opportunity.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Elizabeth Peckham
+  - Email: elizabeth.a.peckham2.civ@us.navy.mil
+  - Phone: 4018328962
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: . Please refer to attachment "N6660426Q0196 Amendment". All other terms and conditions remain unchanged. Please see attachments for details on this opportunity
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1097132846484e958e351b14852055f8/view)
