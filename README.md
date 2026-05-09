@@ -37,6 +37,8 @@ python scripts/build_recompete_risk.py \
   --cohort dsc \
   --fy-start 2026-10-01 \
   --fy-end 2027-09-30 \
+  --benchmark-mode auto \
+  --bls-burden-multiplier 2.0 \
   --output-json data/today/recompetes.json \
   --output-docs-json docs/data/recompetes.json \
   --output-paracharts-spec docs/data/recompetes_paracharts_specs.json \
@@ -75,6 +77,10 @@ python scripts/refresh_ai_vendor_cohort.py \
 Outputs:
 - `data/today/recompetes.json` (ParaCharts schema)
 - `data/today/summary.md` (narrative summary)
+
+Rate benchmark behavior:
+- `--benchmark-mode auto` queries GSA CALC+ (public) and BLS OEWS (uses `BLS_API_KEY` if set, falls back to public v1 limits).
+- `--benchmark-mode fallback` uses local benchmark tables only.
 
 To run for any other cohort, create a file using
 `config/company_lists/example_companies.json` as a template and pass it with

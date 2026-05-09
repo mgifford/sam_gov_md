@@ -152,3 +152,17 @@ def test_build_paracharts_specs_structure() -> None:
     assert specs["row_count"] == 2
     assert len(specs["manifests"]) == 4
     assert specs["manifests"][0]["manifest"]["type"] == "bar"
+
+
+def test_extract_hourly_rate_from_text() -> None:
+    """Hourly rate parser should find common dollar per hour patterns."""
+    assert br._extract_hourly_rate_from_text("Labor at $175/hr for senior engineer") == 175.0
+    assert br._extract_hourly_rate_from_text("pricing is 142 per hour") is None
+
+
+def test_rate_benchmark_resolver_fallback() -> None:
+    """Fallback benchmark mode should return a non-zero proxy diff."""
+    resolver = br.RateBenchmarkResolver(mode="fallback", bls_burden_multiplier=2.0)
+    diff, meta = resolver.resolve("Software Engineer", None)
+    assert diff > 0
+    assert meta["source_mode"] == "fallback"

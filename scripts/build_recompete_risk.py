@@ -10,7 +10,9 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import re
+import urllib.parse
 from dataclasses import dataclass
 from datetime import date, datetime
 from pathlib import Path
@@ -22,6 +24,10 @@ USASPENDING_ENDPOINT = "https://api.usaspending.gov/api/v2/search/spending_by_aw
 EARLIEST_USASPENDING_DATE = "2007-10-01"
 REQUEST_TIMEOUT = 30
 CONTRACT_AWARD_TYPE_CODES = ["A", "B", "C", "D"]
+GSA_CALC_ENDPOINT = "https://api.gsa.gov/acquisition/calc/v3/api/ceilingrates/"
+BLS_ENDPOINT_V1 = "https://api.bls.gov/publicAPI/v1/timeseries/data/"
+BLS_ENDPOINT_V2 = "https://api.bls.gov/publicAPI/v2/timeseries/data/"
+BLS_DEFAULT_YEAR = "2024"
 COHORT_COMPANY_FILES = {
     "dsc": "config/company_lists/dsc.json",
     "ai": "config/company_lists/ai_vendors_federal.json",
@@ -38,6 +44,17 @@ FALLBACK_RATE_BENCHMARKS = {
     "Program Manager": {"p50": 170.0, "p75": 220.0},
     "Cybersecurity Analyst": {"p50": 180.0, "p75": 230.0},
     "General IT Services": {"p50": 145.0, "p75": 185.0},
+}
+
+LABOR_CATEGORY_TO_SOC = {
+    "Software Engineer": "151252",
+    "DevSecOps Engineer": "151252",
+    "Data Scientist": "152051",
+    "Business Analyst": "131111",
+    "UX Designer": "273042",
+    "Program Manager": "131082",
+    "Cybersecurity Analyst": "151212",
+    "General IT Services": "151211",
 }
 
 
@@ -97,6 +114,18 @@ def parse_args() -> argparse.Namespace:
         "--output-paracharts-spec",
         default="docs/data/recompetes_paracharts_specs.json",
         help="ParaCharts manifest/spec JSON output path.",
+    )
+    parser.add_argument(
+        "--benchmark-mode",
+        choices=["auto", "fallback"],
+        default="auto",
+        help="Rate benchmark mode: 'auto' uses GSA CALC + BLS with fallback, 'fallback' uses local defaults only.",
+    )
+    parser.add_argument(
+        "--bls-burden-multiplier",
+        type=float,
+        default=2.0,
+        help="Multiplier applied to BLS hourly median to estimate fully burdened contractor rate.",
     )
     return parser.parse_args()
 
@@ -212,14 +241,179 @@ def infer_labor_category(description: str | None) -> str:
     return "General IT Services"
 
 
-def benchmark_diff_percent(labor_category: str) -> float:
-    """Return benchmark delta percent.
+def _extract_hourly_rate_from_text(description: str | None) -> float | None:
+    """Extract an hourly rate when award text includes explicit $/hr notation."""
+    text = description or ""
+    pattern = re.compile(r"\$\s*(\d{2,4}(?:\.\d{1,2})?)\s*(?:/|per\s+)?(?:hr|hour)", re.IGNORECASE)
+    match = pattern.search(text)
+    if not match:
+        return None
+    try:
+        return float(match.group(1))
+    except ValueError:
+        return None
 
-    Until gsa_calc integration is live in this repository runtime, we emit a
-    neutral 0.0 value to keep ParaCharts schema stable.
-    """
-    _ = FALLBACK_RATE_BENCHMARKS.get(labor_category)
-    return 0.0
+
+def _parse_gsa_percentile(values: dict[str, Any], percentile: str) -> float | None:
+    """Read percentile values with robust key handling."""
+    for key in (percentile, f"{percentile}.0", int(float(percentile)), float(percentile)):
+        if key in values:
+            try:
+                return float(values[key])
+            except (TypeError, ValueError):
+                return None
+    return None
+
+
+def _fetch_gsa_calc_stats(labor_category: str) -> dict[str, Any] | None:
+    """Query public GSA CALC endpoint and return p50/p75 stats."""
+    params = {
+        "keyword": labor_category,
+        "page": 1,
+        "page_size": 10,
+        "ordering": "current_price",
+        "sort": "asc",
+    }
+    url = f"{GSA_CALC_ENDPOINT}?{urllib.parse.urlencode(params)}"
+    try:
+        response = requests.get(url, timeout=REQUEST_TIMEOUT)
+        response.raise_for_status()
+        payload = response.json()
+    except (requests.RequestException, ValueError):
+        return None
+
+    aggs = payload.get("aggregations", {}) if isinstance(payload, dict) else {}
+    wage_stats = aggs.get("wage_stats", {}) if isinstance(aggs, dict) else {}
+    histogram = aggs.get("histogram_percentiles", {}) if isinstance(aggs, dict) else {}
+    percentile_values = histogram.get("values", {}) if isinstance(histogram, dict) else {}
+
+    try:
+        total_rates = int(wage_stats.get("count") or payload.get("hits", {}).get("total", {}).get("value") or 0)
+    except (TypeError, ValueError, AttributeError):
+        total_rates = 0
+
+    p50 = _parse_gsa_percentile(percentile_values, "50")
+    p75 = _parse_gsa_percentile(percentile_values, "75")
+    if p50 is None and p75 is None:
+        return None
+
+    return {
+        "p50": p50,
+        "p75": p75,
+        "sample_size": total_rates,
+    }
+
+
+def _fetch_bls_hourly_median(labor_category: str) -> float | None:
+    """Query BLS OEWS for hourly median wage using SOC mapped to labor category."""
+    soc = LABOR_CATEGORY_TO_SOC.get(labor_category)
+    if not soc:
+        return None
+
+    series_id = f"OEUN0000000000000{soc}09"
+    api_key = os.environ.get("BLS_API_KEY", "").strip()
+    endpoint = BLS_ENDPOINT_V2 if api_key else BLS_ENDPOINT_V1
+    payload: dict[str, Any] = {
+        "seriesid": [series_id],
+        "startyear": BLS_DEFAULT_YEAR,
+        "endyear": BLS_DEFAULT_YEAR,
+    }
+    if api_key:
+        payload["registrationkey"] = api_key
+
+    try:
+        response = requests.post(endpoint, json=payload, timeout=REQUEST_TIMEOUT)
+        response.raise_for_status()
+        body = response.json()
+    except (requests.RequestException, ValueError):
+        return None
+
+    series = (((body or {}).get("Results") or {}).get("series") or [])
+    if not isinstance(series, list) or not series:
+        return None
+    data = (series[0] or {}).get("data") or []
+    if not isinstance(data, list) or not data:
+        return None
+    value = data[0].get("value")
+    try:
+        return float(value)
+    except (TypeError, ValueError):
+        return None
+
+
+class RateBenchmarkResolver:
+    """Resolve benchmark rates from live sources with fallback defaults."""
+
+    def __init__(self, mode: str, bls_burden_multiplier: float) -> None:
+        self.mode = mode
+        self.bls_burden_multiplier = bls_burden_multiplier
+        self._cache: dict[str, dict[str, Any]] = {}
+
+    def resolve(self, labor_category: str, description: str | None) -> tuple[float, dict[str, Any]]:
+        """Return benchmark difference percent and source metadata."""
+        if labor_category in self._cache:
+            benchmark = self._cache[labor_category]
+        else:
+            benchmark = self._resolve_fresh(labor_category)
+            self._cache[labor_category] = benchmark
+
+        benchmark_rate = benchmark.get("benchmark_rate")
+        if not benchmark_rate or benchmark_rate <= 0:
+            return 0.0, benchmark
+
+        incumbent_rate = _extract_hourly_rate_from_text(description)
+        if incumbent_rate:
+            diff = ((incumbent_rate - benchmark_rate) / benchmark_rate) * 100.0
+            benchmark = {**benchmark, "comparison_mode": "incumbent_vs_market", "incumbent_rate": incumbent_rate}
+            return round(diff, 2), benchmark
+
+        p75 = benchmark.get("gsa_p75")
+        if p75:
+            diff = ((p75 - benchmark_rate) / benchmark_rate) * 100.0
+            benchmark = {**benchmark, "comparison_mode": "market_premium_proxy"}
+            return round(diff, 2), benchmark
+
+        return 0.0, benchmark
+
+    def _resolve_fresh(self, labor_category: str) -> dict[str, Any]:
+        fallback = FALLBACK_RATE_BENCHMARKS.get(labor_category, FALLBACK_RATE_BENCHMARKS["General IT Services"])
+        result: dict[str, Any] = {
+            "labor_category": labor_category,
+            "gsa_p50": fallback["p50"],
+            "gsa_p75": fallback["p75"],
+            "bls_hourly_median": None,
+            "bls_burdened_median": None,
+            "benchmark_rate": fallback["p50"],
+            "source_mode": "fallback",
+            "sample_size": 0,
+        }
+
+        if self.mode == "fallback":
+            return result
+
+        gsa = _fetch_gsa_calc_stats(labor_category)
+        if gsa:
+            result["gsa_p50"] = gsa.get("p50") or result["gsa_p50"]
+            result["gsa_p75"] = gsa.get("p75") or result["gsa_p75"]
+            result["sample_size"] = gsa.get("sample_size") or 0
+            result["source_mode"] = "gsa"
+
+        bls_hourly = _fetch_bls_hourly_median(labor_category)
+        if bls_hourly:
+            bls_burdened = bls_hourly * self.bls_burden_multiplier
+            result["bls_hourly_median"] = round(bls_hourly, 2)
+            result["bls_burdened_median"] = round(bls_burdened, 2)
+            result["source_mode"] = "gsa+bls" if gsa else "bls"
+
+        candidates = [
+            value
+            for value in (result.get("gsa_p50"), result.get("bls_burdened_median"))
+            if isinstance(value, (int, float)) and value > 0
+        ]
+        if candidates:
+            result["benchmark_rate"] = round(sum(candidates) / len(candidates), 2)
+
+        return result
 
 
 def search_awards_for_company(
@@ -282,10 +476,15 @@ def search_awards_for_company(
     return selected
 
 
-def build_recompete_rows(awards: list[dict[str, Any]]) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
+def build_recompete_rows(
+    awards: list[dict[str, Any]],
+    benchmark_resolver: RateBenchmarkResolver | None = None,
+) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
     """Transform award payloads into ParaCharts rows and detail rows."""
     para_rows: list[dict[str, Any]] = []
     detail_rows: list[dict[str, Any]] = []
+
+    resolver = benchmark_resolver or RateBenchmarkResolver(mode="fallback", bls_burden_multiplier=2.0)
 
     for award in awards:
         agency = str(award.get("Awarding Agency") or "Unknown")
@@ -297,10 +496,11 @@ def build_recompete_rows(awards: list[dict[str, Any]]) -> tuple[list[dict[str, A
         if not pop_end:
             continue
 
+        description = str(award.get("Description") or "")
         set_aside_text = str(award.get("Type Set Aside") or "Unknown")
         is_set_aside = is_small_business_set_aside(set_aside_text)
-        labor_category = infer_labor_category(str(award.get("Description") or ""))
-        benchmark_diff = benchmark_diff_percent(labor_category)
+        labor_category = infer_labor_category(description)
+        benchmark_diff, benchmark_meta = resolver.resolve(labor_category, description)
 
         para_rows.append(
             {
@@ -324,6 +524,7 @@ def build_recompete_rows(awards: list[dict[str, Any]]) -> tuple[list[dict[str, A
                 "rule_of_two_note": far_rule_of_two_note(is_set_aside),
                 "labor_category": labor_category,
                 "benchmark_diff": benchmark_diff,
+                "benchmark_meta": benchmark_meta,
             }
         )
 
@@ -356,7 +557,7 @@ def write_summary_md(
         f"- Small-business set-aside awards: {set_aside_count}",
         "- Data source: USASpending API (no SAM.gov key required)",
         "- FAR reference: 19.5 / 19.502-2 (Rule of Two)",
-        "- Rate benchmark method: neutral placeholder until gsa_calc adapter is connected",
+        "- Rate benchmark method: blended GSA CALC+ and BLS when available; fallback defaults otherwise",
         "",
         "## Top Agencies by Expiring Awards",
         "",
@@ -381,6 +582,8 @@ def write_summary_md(
                 f"- FAR 19.5 note: {row.get('rule_of_two_note', '')}",
                 f"- Labor Category: {row.get('labor_category', 'General IT Services')}",
                 f"- Benchmark diff: {row.get('benchmark_diff', 0.0)}%",
+                f"- Benchmark source: {(row.get('benchmark_meta') or {}).get('source_mode', 'fallback')}",
+                f"- Benchmark basis: {(row.get('benchmark_meta') or {}).get('comparison_mode', 'market_premium_proxy')}",
                 "",
             ]
         )
@@ -518,7 +721,11 @@ def main() -> None:
         )
         all_awards.extend(awards)
 
-    para_rows, detail_rows = build_recompete_rows(all_awards)
+    benchmark_resolver = RateBenchmarkResolver(
+        mode=args.benchmark_mode,
+        bls_burden_multiplier=args.bls_burden_multiplier,
+    )
+    para_rows, detail_rows = build_recompete_rows(all_awards, benchmark_resolver=benchmark_resolver)
 
     output_json_path = Path(args.output_json)
     output_json_path.parent.mkdir(parents=True, exist_ok=True)
@@ -546,6 +753,7 @@ def main() -> None:
 
     print(f"Loaded {len(companies)} companies")
     print(f"Company source: {companies_file}")
+    print(f"Benchmark mode: {args.benchmark_mode}")
     print(f"Found {len(detail_rows)} expiring awards in window")
     print(f"Wrote {output_json_path}")
     if docs_output_path:
