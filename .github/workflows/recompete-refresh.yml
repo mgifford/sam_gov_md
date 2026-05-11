@@ -1,0 +1,78 @@
+name: Refresh recompete dashboard
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '35 13 * * *'  # Daily at 13:35 UTC
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sam-gov-recompete-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh_recompete:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Calculate fiscal year window
+        run: |
+          python - <<'PY'
+          from datetime import datetime, timezone
+          now = datetime.now(timezone.utc)
+          current_fy = now.year + 1 if now.month >= 10 else now.year
+          fy_start = f"{current_fy - 1}-10-01"
+          fy_end = f"{current_fy + 1}-09-30"
+          with open("fy_window.env", "w", encoding="utf-8") as fh:
+              fh.write(f"FY_START={fy_start}\n")
+              fh.write(f"FY_END={fy_end}\n")
+          print(f"Using fiscal window {fy_start} to {fy_end}")
+          PY
+          cat fy_window.env >> "$GITHUB_ENV"
+
+      - name: Generate recompete dashboard data
+        run: |
+          python scripts/build_recompete_risk.py \
+            --cohort ai \
+            --fy-start "$FY_START" \
+            --fy-end "$FY_END" \
+            --output-json data/today/recompetes_ai.json \
+            --output-docs-json docs/data/recompetes.json \
+            --output-paracharts-spec docs/data/recompetes_paracharts_specs.json \
+            --output-md data/today/summary_ai.md
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add \
+            data/today/recompetes_ai.json \
+            data/today/summary_ai.md \
+            docs/data/recompetes.json \
+            docs/data/recompetes_paracharts_specs.json
+
+          if git diff --cached --quiet; then
+            echo "No staged changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: refresh recompete dashboard ($(date -u +%F))"
+          git push
