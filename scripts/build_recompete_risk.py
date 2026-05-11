@@ -246,6 +246,16 @@ def _should_retry_status(status_code: int | None) -> bool:
     return status_code == 429 or (status_code is not None and status_code >= 500)
 
 
+def _response_status_code(response: requests.Response | None) -> int | None:
+    """Extract an HTTP status code from a response object when present."""
+    return response.status_code if response is not None else None
+
+
+def _retry_delay_seconds(attempt: int, backoff: float) -> float:
+    """Return the exponential backoff delay for a failed request attempt."""
+    return backoff ** attempt
+
+
 def _request_json(
     method: str,
     url: str,
@@ -263,16 +273,17 @@ def _request_json(
     for attempt in range(1, retries + 1):
         try:
             response = request_fn(method, url, json=payload, params=params, timeout=timeout)
-            if _should_retry_status(response.status_code):
+            status_code = _response_status_code(response)
+            if _should_retry_status(status_code):
                 raise requests.HTTPError(
-                    f"Retryable HTTP status {response.status_code}",
+                    f"Retryable HTTP status {status_code}",
                     response=response,
                 )
             response.raise_for_status()
             return response.json()
         except requests.HTTPError as exc:
             last_error = exc
-            status_code = exc.response.status_code if exc.response is not None else None
+            status_code = _response_status_code(exc.response)
             if not _should_retry_status(status_code):
                 logger.warning("Request to %s failed with status %s: %s", url, status_code, exc)
                 return None
@@ -280,7 +291,7 @@ def _request_json(
             last_error = exc
 
         if attempt < retries:
-            sleep_for = backoff ** attempt
+            sleep_for = _retry_delay_seconds(attempt, backoff)
             logger.warning(
                 "Request to %s failed on attempt %s/%s: %s. Retrying in %.0fs.",
                 url,
