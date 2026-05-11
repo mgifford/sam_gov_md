@@ -201,3 +201,24 @@ def test_trends_all_content_in_landmarks() -> None:
     """
     trends_html = (REPO_ROOT / "docs" / "trends.html").read_text(encoding="utf-8")
     _assert_all_content_in_landmarks(trends_html, "trends.html")
+
+
+def test_recompete_footer_link_distinguishable_without_color() -> None:
+    html = (REPO_ROOT / "docs" / "recompete.html").read_text(encoding="utf-8")
+    _assert_footer_link_has_underline(html, "recompete.html")
+
+
+def test_recompete_headings_do_not_skip_levels() -> None:
+    html = (REPO_ROOT / "docs" / "recompete.html").read_text(encoding="utf-8")
+    heading_matches = _assert_headings_do_not_skip_levels(html)
+    quarter_heading = next(
+        (m for m in heading_matches if "Quarter" in m.group(2)), None
+    )
+    assert quarter_heading is not None, "recompete.html should have a Quarter Distribution heading"
+    assert int(quarter_heading.group(1)) == 2
+
+
+def test_recompete_all_content_in_landmarks() -> None:
+    """Regression: all visible page content in recompete.html must be within landmarks."""
+    html = (REPO_ROOT / "docs" / "recompete.html").read_text(encoding="utf-8")
+    _assert_all_content_in_landmarks(html, "recompete.html")
