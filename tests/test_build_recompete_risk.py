@@ -253,7 +253,8 @@ def test_search_awards_for_company_keeps_partial_results_on_later_page_failure(m
     }
 
     def _request_json(_method: str, _url: str, **kwargs) -> dict | None:
-        page = kwargs["payload"]["page"]
+        payload = kwargs.get("payload") or {}
+        page = payload.get("page")
         if page == 1:
             return {"results": [eligible_award], "page_metadata": {"hasNext": True}}
         return None
