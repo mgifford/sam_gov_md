@@ -25,6 +25,8 @@
   - python scripts/generate_alerts.py --min-hits 8
 - USASpending market intelligence enrichment:
   - python scripts/enrich_usaspending.py
+- Recompete risk dashboard data:
+  - python scripts/build_recompete_risk.py --cohort ai --output-docs-json docs/data/recompetes.json --output-paracharts-spec docs/data/recompetes_paracharts_specs.json
 - Historical scan and report rebuild:
   - python scripts/scan_terms.py --md-dir data/samples_md --terms config/terms.yml --output data/term_scan_report.json
   - python scripts/analyze_matches.py
