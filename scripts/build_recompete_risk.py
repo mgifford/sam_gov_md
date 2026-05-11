@@ -252,7 +252,7 @@ def _response_status_code(response: requests.Response | None) -> int | None:
 
 
 def _retry_delay_seconds(attempt: int, backoff: float) -> float:
-    """Return the exponential backoff delay for a failed request attempt."""
+    """Return exponential backoff seconds for a 1-indexed failed attempt."""
     return backoff * (2 ** (attempt - 1))
 
 

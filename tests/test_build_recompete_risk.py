@@ -222,7 +222,7 @@ def test_rate_benchmark_resolver_fallback() -> None:
     assert meta["source_mode"] == "fallback"
 
 
-def test_request_json_retries_transient_connection_error(monkeypatch) -> None:
+def test_request_json_retries_connection_errors(monkeypatch) -> None:
     """Transient infrastructure errors should be retried before succeeding."""
     calls = {"count": 0}
     sleeps: list[float] = []
@@ -242,7 +242,7 @@ def test_request_json_retries_transient_connection_error(monkeypatch) -> None:
     assert sleeps == [2.0, 4.0]
 
 
-def test_search_awards_for_company_keeps_partial_results_on_later_page_failure(monkeypatch) -> None:
+def test_search_awards_keeps_partial_on_page_failure(monkeypatch) -> None:
     """Award search should keep earlier results when a later page has transient failures."""
     company = br.Company(name="Example Co")
     eligible_award = {
