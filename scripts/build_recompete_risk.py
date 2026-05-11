@@ -10,8 +10,10 @@ from __future__ import annotations
 
 import argparse
 import json
+import logging
 import os
 import re
+import time
 import urllib.parse
 from dataclasses import dataclass
 from datetime import date, datetime
@@ -20,9 +22,13 @@ from typing import Any, Callable
 
 import requests
 
+logger = logging.getLogger(__name__)
+
 USASPENDING_ENDPOINT = "https://api.usaspending.gov/api/v2/search/spending_by_award/"
 EARLIEST_USASPENDING_DATE = "2007-10-01"
 REQUEST_TIMEOUT = 30
+REQUEST_RETRIES = 3
+RETRY_BACKOFF_SECONDS = 2.0
 CONTRACT_AWARD_TYPE_CODES = ["A", "B", "C", "D"]
 ECFR_FAR_PART_19_5_URL = "https://www.ecfr.gov/current/title-48/chapter-1/subchapter-C/part-19"
 GSA_CALC_ENDPOINT = "https://api.gsa.gov/acquisition/calc/v3/api/ceilingrates/"
@@ -235,6 +241,60 @@ def classify_vendor_depth_signal(small_vendor_count: int) -> str:
     return "insufficient"
 
 
+def _should_retry_status(status_code: int | None) -> bool:
+    """Return True when an HTTP status likely reflects transient infrastructure issues."""
+    return status_code == 429 or (status_code is not None and status_code >= 500)
+
+
+def _request_json(
+    method: str,
+    url: str,
+    *,
+    payload: dict[str, Any] | None = None,
+    params: dict[str, Any] | None = None,
+    timeout: int = REQUEST_TIMEOUT,
+    retries: int = REQUEST_RETRIES,
+    backoff: float = RETRY_BACKOFF_SECONDS,
+    request_fn: Callable[..., requests.Response] = requests.request,
+) -> dict[str, Any] | None:
+    """Return parsed JSON from an HTTP request, retrying transient failures."""
+    last_error: Exception | None = None
+
+    for attempt in range(1, retries + 1):
+        try:
+            response = request_fn(method, url, json=payload, params=params, timeout=timeout)
+            if _should_retry_status(response.status_code):
+                raise requests.HTTPError(
+                    f"Retryable HTTP status {response.status_code}",
+                    response=response,
+                )
+            response.raise_for_status()
+            return response.json()
+        except requests.HTTPError as exc:
+            last_error = exc
+            status_code = exc.response.status_code if exc.response is not None else None
+            if not _should_retry_status(status_code):
+                logger.warning("Request to %s failed with status %s: %s", url, status_code, exc)
+                return None
+        except (requests.RequestException, ValueError) as exc:
+            last_error = exc
+
+        if attempt < retries:
+            sleep_for = backoff ** attempt
+            logger.warning(
+                "Request to %s failed on attempt %s/%s: %s. Retrying in %.0fs.",
+                url,
+                attempt,
+                retries,
+                last_error,
+                sleep_for,
+            )
+            time.sleep(sleep_for)
+
+    logger.warning("Request to %s failed after %s attempts: %s", url, retries, last_error)
+    return None
+
+
 def fetch_vendor_depth_signal(
     naics_code: str,
     awarding_agency: str,
@@ -272,11 +332,8 @@ def fetch_vendor_depth_signal(
             "order": "asc",
             "subawards": False,
         }
-        try:
-            response = requests.post(USASPENDING_ENDPOINT, json=payload, timeout=REQUEST_TIMEOUT)
-            response.raise_for_status()
-            body = response.json()
-        except (requests.RequestException, ValueError):
+        body = _request_json("post", USASPENDING_ENDPOINT, payload=payload)
+        if not body:
             return {
                 "small_business_vendor_count_3y": 0,
                 "total_vendor_count_3y": 0,
@@ -393,11 +450,8 @@ def _fetch_gsa_calc_stats(labor_category: str) -> dict[str, Any] | None:
         "sort": "asc",
     }
     url = f"{GSA_CALC_ENDPOINT}?{urllib.parse.urlencode(params)}"
-    try:
-        response = requests.get(url, timeout=REQUEST_TIMEOUT)
-        response.raise_for_status()
-        payload = response.json()
-    except (requests.RequestException, ValueError):
+    payload = _request_json("get", url)
+    if not payload:
         return None
 
     aggs = payload.get("aggregations", {}) if isinstance(payload, dict) else {}
@@ -439,11 +493,8 @@ def _fetch_bls_hourly_median(labor_category: str) -> float | None:
     if api_key:
         payload["registrationkey"] = api_key
 
-    try:
-        response = requests.post(endpoint, json=payload, timeout=REQUEST_TIMEOUT)
-        response.raise_for_status()
-        body = response.json()
-    except (requests.RequestException, ValueError):
+    body = _request_json("post", endpoint, payload=payload)
+    if not body:
         return None
 
     series = (((body or {}).get("Results") or {}).get("series") or [])
@@ -574,9 +625,13 @@ def search_awards_for_company(
             "order": "asc",
             "subawards": False,
         }
-        response = requests.post(USASPENDING_ENDPOINT, json=payload, timeout=REQUEST_TIMEOUT)
-        response.raise_for_status()
-        body = response.json()
+        body = _request_json("post", USASPENDING_ENDPOINT, payload=payload)
+        if not body:
+            logger.warning(
+                "Skipping remaining USASpending pages for %s after repeated request failures.",
+                company.name,
+            )
+            break
 
         results = body.get("results", [])
         for award in results:

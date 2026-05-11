@@ -6,6 +6,24 @@ import json
 from datetime import date
 
 import build_recompete_risk as br
+import requests
+
+
+class DummyResponse:
+    """Minimal fake response object for request retry tests."""
+
+    def __init__(self, status_code: int = 200, payload: dict | None = None) -> None:
+        self.status_code = status_code
+        self._payload = payload or {}
+
+    def raise_for_status(self) -> None:
+        """Raise HTTPError for non-success responses."""
+        if self.status_code >= 400:
+            raise requests.HTTPError(f"{self.status_code} error", response=self)
+
+    def json(self) -> dict:
+        """Return the canned JSON payload."""
+        return self._payload
 
 
 def test_quarter_from_date() -> None:
@@ -202,3 +220,51 @@ def test_rate_benchmark_resolver_fallback() -> None:
     diff, meta = resolver.resolve("Software Engineer", None)
     assert diff > 0
     assert meta["source_mode"] == "fallback"
+
+
+def test_request_json_retries_transient_connection_error(monkeypatch) -> None:
+    """Transient infrastructure errors should be retried before succeeding."""
+    calls = {"count": 0}
+    sleeps: list[float] = []
+
+    def _request(_method: str, _url: str, **_kwargs) -> DummyResponse:
+        calls["count"] += 1
+        if calls["count"] < 3:
+            raise requests.ConnectionError("temporary outage")
+        return DummyResponse(payload={"ok": True})
+
+    monkeypatch.setattr(br.time, "sleep", lambda seconds: sleeps.append(seconds))
+
+    result = br._request_json("post", "https://example.test", request_fn=_request)
+
+    assert result == {"ok": True}
+    assert calls["count"] == 3
+    assert sleeps == [2.0, 4.0]
+
+
+def test_search_awards_for_company_keeps_partial_results_on_later_page_failure(monkeypatch) -> None:
+    """Award search should keep earlier results when a later page has transient failures."""
+    company = br.Company(name="Example Co")
+    eligible_award = {
+        "Award ID": "A-1",
+        "Recipient Name": "Example Co",
+        "Period of Performance End Date": "2027-03-31",
+        "Period of Performance Current End Date": "2027-03-31",
+    }
+
+    def _request_json(_method: str, _url: str, **kwargs) -> dict | None:
+        page = kwargs["payload"]["page"]
+        if page == 1:
+            return {"results": [eligible_award], "page_metadata": {"hasNext": True}}
+        return None
+
+    monkeypatch.setattr(br, "_request_json", _request_json)
+
+    awards = br.search_awards_for_company(
+        company=company,
+        fy_start=date(2026, 10, 1),
+        fy_end=date(2027, 9, 30),
+        max_pages=3,
+    )
+
+    assert awards == [eligible_award]
