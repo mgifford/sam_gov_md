@@ -77,8 +77,8 @@ jobs:
         run: |
           python scripts/build_recompete_risk.py \
             --cohort ai \
-            --fy-start 2026-10-01 \
-            --fy-end 2027-09-30 \
+            --fy-start 2024-10-01 \
+            --fy-end 2026-09-30 \
             --output-json data/today/recompetes_ai.json \
             --output-docs-json docs/data/recompetes.json \
             --output-paracharts-spec docs/data/recompetes_paracharts_specs.json \

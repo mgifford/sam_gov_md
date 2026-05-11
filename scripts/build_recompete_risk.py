@@ -88,12 +88,12 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--fy-start",
-        default="2026-10-01",
+        default="2024-10-01",
         help="FY window start date (YYYY-MM-DD).",
     )
     parser.add_argument(
         "--fy-end",
-        default="2027-09-30",
+        default="2026-09-30",
         help="FY window end date (YYYY-MM-DD).",
     )
     parser.add_argument(
