@@ -253,7 +253,7 @@ def _response_status_code(response: requests.Response | None) -> int | None:
 
 def _retry_delay_seconds(attempt: int, backoff: float) -> float:
     """Return the exponential backoff delay for a failed request attempt."""
-    return backoff ** attempt
+    return backoff * (2 ** (attempt - 1))
 
 
 def _request_json(
@@ -270,7 +270,8 @@ def _request_json(
     """Return parsed JSON from an HTTP request, retrying transient failures."""
     last_error: Exception | None = None
 
-    for attempt in range(1, retries + 1):
+    for attempt_index in range(retries):
+        attempt = attempt_index + 1
         try:
             response = request_fn(method, url, json=payload, params=params, timeout=timeout)
             status_code = _response_status_code(response)
