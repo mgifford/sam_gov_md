@@ -1,0 +1,31 @@
+---
+layout: default
+title: J046--SPS RO System Maintenance
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Special Notice
+notice_id: 0c885efb2aef42e89b584e22549852fe
+---
+
+# J046--SPS RO System Maintenance
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Special Notice
+- Posted: 2026-05-11 10:59:03.301-04
+- Solicitation Number: 36C24126Q0247
+- Awardee: null
+
+## Summary
+
+The Department of Veteran Affairs, Networking Contracting Office (NCO1) located in West Haven, CT intends to enter into a sole source procurement, pursuant to the authority of FAR 6.302-1, with Evoqua Water Technologies LLC for the following requirement: Performance Work Statement SPS RO System Maintenance Project Scope The White River Junction VA Healthcare System requires the services of a qualified firm to provide services allowing for the preventative maintenance of a RO and DI water generation system (critical water). Tasks and Requirements General Contractor Requirements Preventative maintenance services will include the following services identified in Table 1 for all equipment identified in Table 2. Table 1 Description of Services Scheduled Frequency Frequency Limit Routine Service / Maintenance Visits Quarterly NA Mechanical / Electrical Checks Quarterly NA Operational Checks Quarterly NA Collect and Analyze Data Remote Monitoring NA Filter Replacement (Pre Filters) Quarterly As Required ** Filter Replacement (Vent) Annually As Required ** Pump Maintenance Annually As Scheduled * Instrumentation Maintenance Annually As Scheduled * Replace UV Lamps / Sleeves Annually As Scheduled * Calibration of Instruments Annually As Scheduled * Membrane Cleaning Annually As Scheduled * Membrane Sanitization Annually As Scheduled * Storage Tank Sanitization Annually As Scheduled * Loop Sanitization Annually As Scheduled * Analytical Services Annually As Scheduled * Remote Monitoring Continuous As Scheduled * Carbon Filter Valve Rebuild / Rebedding As needed As Required ** Softener Filter Valve Rebuild / Rebedding As needed As Required ** TOC Analytics Quarterly As Scheduled * Bacteria (HPC Low Level) Quarterly As Scheduled * Endotoxin Testing Annually As Scheduled * Covered Equipment Repair or Replacement As Required ** Emergency Call Out Service As Required ** Call Out Services As Required ** As Scheduled - If additional quantities are required, they will be quoted and charged separately. This is done in order to minimize the inclusion of costs which are unlikely and/or unexpected or which may be unpredictable. As Required ** - For "As Required" a frequency is listed, but the actual frequencies and quantities may be greater or fewer. The resulting frequencies will be guided by the quantity and quality guarantee. Table 2 QTY Item Description 1 Feed Water back pressure regulating valve 1 Leak Detector with shit off solenoid valve 1 5 µm prefilter housing, w/ one set of filters 1 FRP activated carbon filter 1 FRP softener and PE brine tank 1 M41 RO unit System array 1:1:1:1 w/ 4 x40 low pressure membranes Product divert kit Automated RO bypass 2 Thornton conductivity probe 2 Paddlewheel flowmeter 1 SDI equipment Two 3.6ft mixed bed tanks Two inlet hoses Two outlet hoses Two light body Two quality lights One light transformer One inline strainer One 20 housing One 20 0.2 µm filter 2 Storage Tank and accessories One 300 gallon fully drainable dome top PE Tank One IFM Level transmitter One 0.2 µm 20 vent filter One 20 vent filter housing 2 Distribution Loop Pump with VFD 1 Ultraviolet Light System 254nm, one pair of light traps 2 Pressure Sensor 1 0.05 µm filter housing 1 Remote Monitoring Panel One thornton M300 multiparameter analyzer Link-2-site modem for digital monitoring of system performance 1 Remote area alarm Period of Performance Contract period will be a base plus 4 , identifying a base contract with 4 options which can be exercised by the Government. Contract periods of performance for each year shall be 1 year or 365 days from the date of Contract award. The Contractor shall provide a cost estimate based on the following bid schedule. Contract Year Bid Estimate Base Full PM Services (Table 1) Option Year 1 Full PM Services (Table 1) Option Year 2 Full PM Services (Table 1) Option Year 3 Full PM Services (Table 1) Option Year 4 Full PM Services (Table 1) Privacy Statement Information Security: The C&A requirements do not apply; a Security Accreditation Package is not required. Incidental exposure to protected health information may occur from accessing the work site. Staff will follow all Privacy & Security policies and procedures. Evoqua Water Technologies LLC. will be awarded this procurement because they are the only vendor capable of providing the needed service because the water purification system is an Evoqua Water Technologies/Xylem built system. As such, the water purification system is proprietary to Evoqua, and no other companies are authorized to service this system. Only technicians employed by Evoqua are authorized to service the system because of the knowledge and expertise they possess due to specialized training. The NAICS code for this requirement is 221310 with small business size standard of $41 Million. This notice of intent is not a solicitation nor is it a request for proposal. However, interested parties that believe they can satisfy the requirements listed above must clearly identify their capability to do so in writing by May 15, 2026, at 5:00 PM EST time. Responses should be sent to Kenya Mitchell at Kenya.Mitchell1@va.gov. Information submitted in response to this notice will be used solely to determine whether competitive procedures could be used for this acquisition. A determination by the Government not to open the requirement to competition based upon responses to this notice is solely within the discretion of the Government.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Kenya Mitchell
+  - Title: Contracting Officer
+  - Email: Kenya.Mitchell1@va.gov
+  - Phone: 860-666-6951
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0c885efb2aef42e89b584e22549852fe/view)

@@ -1,0 +1,40 @@
+---
+layout: default
+title: Wings & Fins Subassemblies
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 8cdb5d0f10214de98542ba37b2313a2d
+---
+
+# Wings & Fins Subassemblies
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-05-11 15:22:59.306-04
+- Solicitation Number: FA855626RB013
+
+## Summary
+
+This notice serves as a formal SOLICITATION for the procurement of Wing and Fin Sub-Assemblies. These critical sub-components are required to support the AIM-120X and CATM-120X series of the Advanced Medium Range Air-to-Air Missile (AMRAAM). The Government intends to award a single contract for the scope of work identified within the Attachment 2 Statement of Work (SOW) as a result of this solicitation. 2. Source Selection Procedures This acquisition will utilize the Lowest Price, Technically Acceptable (LPTA) source selection procedure in accordance with: FAR 15.103-2 DoD Source Selection Procedures referenced in DFARS 215.200 and DFARS PGI
+
+215.200 These procedures will be used to make an integrated assessment for a best value award decision. Please refer to sections L and M of the solicitation for additional information. 3. Evaluation and Award Criteria The Government shall evaluate proposals in accordance with the provisions outlined in this notice. A detailed and complete analysis of each offeror's proposal will be performed. Key Evaluation Parameters: Proposal Limit: The Government will only evaluate one proposal from each offeror. Award Basis: Award will be made to the responsible offeror whose proposal: Is determined to be technically acceptable. Conforms to all solicitation requirements (terms and conditions, representations, certifications, and technical requirements). Has the lowest Total Evaluated Price among the technically acceptable offerors. Evaluation Sequence: The Government does not imply, nor is it the Government's intention, to conduct the evaluations in sequential order (i.e., technical evaluation does not necessarily have to precede price evaluation). 4. Technical Evaluation Factors The Government's technical evaluation will be based on the following four equally important subfactors: Subfactor Description Subfactor One Wing and Fin Packaging, Handling, Shipping and Transportation Solution Subfactor Two Wing and Fin Production Plan Subfactor Three Finished/In Process Product Verification Plan Subfactor Four Honeycomb Implementation _______________________________________________________________________________________________ Questions Received: 1. The First Article timeline indicates up to 720 days (without a waiver), while the first item delivery appears to be required within approximately 365 days. Can you please clarify the Government's expection regarding this timeline? Specifically: Is the intent that the first Delivery Order (DO1) would not be issued until after First Article approval (potentially up to 720 days from contract award), which would push DO1 delivery into the 2029 timeframe? Or is there an alternate expectation involving the delivery of two (2) First Article units and concurrent qualification activities that would support earlier production and delivery? 2. Drawing package is quite old and has many areas of poor clarity and blurred details essential for the evaluation and manufacturing design. 3. Since the drawings are only scanned copies of printed drawings, the effort will require modeling and digitization of the information to permit modern CNC machining instruction protocols. Is NRE allowed in proposal submissions or are vendors expected to to take on those costs and distribute in the delivered units pricings? Alternately are digital models of the components available for industry evaluation? 4. Brazing of the metallic honeycomb - lcaks details on the processes to satisfactorily meet the standards, with no deviations permitted. Is the Govt open to sharing best practices from prior manufacturing of the Wings/Fins to facilitate successful first article builds? 5. Partial bids - would a proposal of the metal part manufacture be acceptable to the Government in the event that honeycomb brazing processess cannot be achieved in an acceptable standard? 6. We are reviewing the documents for Notice ID FA855626RB013, but we believe there are a few drawings referenced in the Wings and Fins TDP that were not included in the package. The following drawings were referenced in Drawing Set 4 but appear to be missing: 7038187 – Housing Assembly 7038184 – Lever, Fin Lock 7038174 – Housing, Cam Retainer 7038173 – Cam Would you be able to provide these drawings, or let us know where they can be obtained? 1. Answer: The Government estimates that production of the two (2) First Article units will require six (6) to twelve (12) months, followed by an additional six (6) to twelve (12) months for First Article Testing (FAT) prior to full-rate production. Therefore, the Goverment anticipates mass delivery to occur in 2029, contingent upon successful FAT and validation of a viable product. 2. Answer: Please be specific as to blurred details on given drawings; drawing number, drawing zone, and specific questions. The drawings are the best copies available. 3. Answer: Vendors are expected to take on the costs of any NRE and distribute that pricing as necessary within the delivered units' pricing. The Government does not possess digital models of the wings and fins. The method of manufacture is up to the supplier, as the Government expects a finished product per the drawings and related specifications. 4. Answer: The drawings specify MIL-B-7883 Type II (furnace Brazing) and Class A (Critical structure), which has been superseded by AWS C3.6, but MIL-B-7883 should control. The drawings also have several evaluations of the quality of the brazing operations in the notes. The Government will not provide training nor best practices. The Government expects delivered items to match the drawings and its relevant specifications. 5. Answer: The Government is only interested in the honeycomb brazing and will not allow for a partial bid in accordance with solicitation FA8556-26-R-B013. 6. Answer: Please forgive me for the lack of information that was missing from Drawing 4. Drawing 4 is now updated with the remaining information and added to this notice ID for all others to view. ____________________________________________________________________________________________________ Government Actions: Drawings located under Notice ID: FA8556-25-R-B016 will now be added to this notice to avoid having to request access to an older annoucement. Drawings are separate from the solicitation and will not be made as an attachment. Please contact Ivan Jones for any questions, comments, and or concerns.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Dillan Harper-Smith
+  - Email: dillan.harper-smith.1@us.af.mil
+- Secondary Contact:
+  - Name: Ivan Jones
+  - Email: ivan.jones.2@us.af.mil
+  - Phone: 4783275756
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: Statement of Work (SOW) as a result of this solicitation. 2. Source Selection Procedures This acquisition will utilize the Lowest Price, Technically Acceptable (LPTA) source selection procedure in accordance with: FAR 15.103-2 DoD Source Selection Procedures referenced in DFARS 215.200 and DFARS PGI
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8cdb5d0f10214de98542ba37b2313a2d/view)

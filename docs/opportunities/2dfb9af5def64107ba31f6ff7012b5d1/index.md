@@ -1,0 +1,31 @@
+---
+layout: default
+title: Service Agreement for Leica Stellaris DIVE Confocal Multiphoton Microscope
+agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+notice_type: Combined Synopsis/Solicitation
+notice_id: 2dfb9af5def64107ba31f6ff7012b5d1
+---
+
+# Service Agreement for Leica Stellaris DIVE Confocal Multiphoton Microscope
+
+- Agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-05-11 11:28:50.997-04
+- Solicitation Number: 75N98026Q00341
+
+## Summary
+
+COMBINED SYNOPSIS / SOLICITATION (COMPETITIVE) Title: Service Agreement for Leica Stellaris DIVE Confocal Multiphoton Microscope 1. This is a combined synopsis/solicitation for commercial services prepared in accordance with FAR Subpart 12.6, as supplemented with additional information included in this notice. This announcement constitutes the only solicitation; quotes are being requested and a separate written solicitation will not be issued. 2. Solicitation Number: 75N98026Q00341. This solicitation is issued as a competitive combined synopsis/solicitation for commercial services. The Government intends to award a firm?fixed?price purchase order using full and open competition. This acquisition is conducted under FAR 12.603 – Streamlined Solicitation for Commercial Products and Commercial Services, and is not expected to exceed the simplified acquisition threshold (if applicable). The National Institutes of Health (NIH), Office of the Director, Office of Acquisitions, seeks to award a firm-fixed price commercial services contract to the responsible offeror whose proposal represents the best value to the Government. 3. The solicitation document and incorporated provisions and clauses are those in effect through Federal Acquisition Circular [2026-01]. 4. The associated NAICS Code: 811210 – Electronic and Precision Equipment Repair and Maintenance. Small Business Size Standard: $34.0M This requirement is unrestricted. 5. DESCRIPTION OF REQUIREMENT The National Institute of Allergy and Infectious Diseases (NIAID), Division of Intramural Research (DIR), requires brand?name or equal maintenance and repair services for a Leica Stellaris DIVE Confocal Multiphoton Microscope, Serial #8300000659, located at Rocky Mountain Laboratories for a period of one year.The microscope is in constant use and essential to DIR’s mission to study immunologic, allergic, and infectious diseases.The service agreement must maintain the instrument in optimal operating condition to avoid research disruption. Required Services (Brand?Name or Equal): Offerors must provide a service agreement that includes at minimum: One (1) annual preventative maintenance visit including all labor and travel at no additional cost. Unlimited on?site repairs including labor, travel, and replacement of parts, components, or modules. Only genuine Leica OEM parts may be used. All services must be performed by Leica OEM technicians or Leica?certified OEM field service engineers. Prioritized on?site response time for critical repairs. Unlimited access to technical support during standard Leica support hours (Mon–Fri, 8:00 a.m.–5:00 p.m. MT). Two?hour telephone callback time. Unlimited remote monitoring/diagnostic support (e.g., RemoteCare or equivalent). Firmware and software updates when available. 6. REPORTING REQUIREMENT AND DELIVERABLES – Technical support and remedial repair of equipment as needed, and an annual preventative maintenance service visit. 7. INSPECTION AND ACCEPTANCE: All work will be inspected and approved by the lab chief or designated staff members at the completion of any repairs and at the completion of the annual maintenance. All work will be completed in accordance with industry standards. 8. PLACE OF PERFORMANCE Rocky Mountain Laboratories National Institute of Allergy and Infectious Diseases (NIAID) Central Receiving, BLDG 22 903 South 4th Street, Room 105 Hamilton MT 59840 US 9. PERIOD OF PERFORMANCE: The period of performance is May 21, 2026 to May 20, 2027. 10. The provision at FAR 52.212?1, Instructions to Offerors—Commercial Items, applies to this acquisition. 11. Agency?specific instructions: Offerors must provide documentation proving technicians are Leica OEM?certified and must certify use of genuine OEM parts. 12. The provision at FAR 52.212?2, Evaluation—Commercial Items, applies. 13. Evaluation Factors: Lowest Price Technically Acceptable (LPTA): Technical Capability (must meet all brand?name?or?equal characteristics) Price Past Performance (relevant microscope service experience) Delivery/Response Capability Technical capability is evaluated on a pass/fail basis against the essential characteristics. A written notice of award issued within the time specified will result in a binding contract without further action. 14. Offerors shall include a completed copy of FAR 52.212?3, Offeror Representations and Certifications—Commercial Items. 15. FAR 52.212?4, Contract Terms and Conditions—Commercial Items, applies. 16. FAR 52.212?5, Contract Terms and Conditions Required To Implement Statutes or Executive Orders—Commercial Items, applies. 17. FAR 52.217-8 Option to Extend Services (Nov 1999) 18. ADDITIONAL CONTRACT REQUIREMENTS: None. 19. The Defense Priorities and Allocations System (DPAS) is not applicable. 20. SUBMISSION REQUIREMENTS Quotes must include, at a minimum: Unit and total price Delivery/response timeframe after award F.O.B. terms Proof of use of OEM parts Proof technicians are Leica OEM?certified Product/service description UEI, TIN, and business size Active registration in SAM.gov All responses must be received by May 18, 2026 at 5:00 pm EST and must reference Solicitation 75N98026Q00341. Responses may be submitted electronically to: Elaine Estrella, contract specialist at elaine.estrella@nih.gov or Brian Lind, contract officer at brian.lind@nih.gov 21. POINT OF CONTACT Name: Elaine Estrella Title: Contract Specialist Email: elaine.estrella@nih.gov
+
+## Contacts
+
+- Primary Contact:
+  - Name: Elaine Estrella
+  - Email: elaine.estrella@nih.gov
+- Secondary Contact:
+  - Name: Brian Lind
+  - Email: brian.lind@nih.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2dfb9af5def64107ba31f6ff7012b5d1/view)

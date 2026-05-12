@@ -1,0 +1,31 @@
+---
+layout: default
+title: Indirect Fire Control Service
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: c1fd7e3d8d2249e4b6bc7610dabe762f
+---
+
+# Indirect Fire Control Service
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-05-11 14:08:37.496-04
+- Solicitation Number: W15QKN-26-X-1BP9
+
+## Summary
+
+The United States Army Contracting Command – New Jersey, on behalf of the Combat Capabilities Development Command – Armaments Center (DEVCOM AC) at Picatinny Arsenal, NJ is conducting market research to determine the capability of businesses to provide Engineering, technical, logistics, and management support services for the DEVCOM AC Fire Control Systems & Technology Directorate. DISCLAIMER: THIS SOURCES SOUGHT IS FOR INFORMATIONAL PURPOSES ONLY AND SHALL NOT BE CONSTRUED AS A COMMITMENT OR A PROMISE OF A CONTRACT BY THE GOVERNMENT. THIS IS NOT A SOLICITATION. IF A FORMAL SOLICITATION IS GENERATED AT A LATER DATE, A REQUEST FOR PROPOSAL (RFP) WILL BE PUBLISHED. IF AN RFP IS RELEASED, IT WILL BE SYNOPSIZED ON THE SYSTEM FOR AWARD MANAGEMENT (HTTPS://SAM.GOV) WEBSITE. IT IS THE RESPONSIBILITY OF THE POTENTIAL OFFERORS TO MONITOR THESE WEBSITES FOR ADDITIONAL INFORMATION PERTAINING TO THIS REQUIREMENT. THE GOVERNMENT IS NOT OBLIGATED TO NOTIFY RESPONDENTS OF THE RESULTS OF THIS SURVEY. ALL INFORMATION SUBMITTED WILL BE HELD IN A CONFIDENTIAL STATUS. INFORMATION PROVIDED WILL NOT BE RETURNED. TELEPHONE INQUIRIES/SUBMISSIONS WILL NOT BE ACCEPTED. THE GOVERNMENT WILL ACCEPT QUESTIONS VIA EMAIL ONLY. DESCRIPTION The U.S. Army Contracting Command, New Jersey (CCNJ) is issuing this Sources Sought Notice on behalf of the U.S. Army Combat Capabilities Development Command – Armaments Center (DEVCOM AC) to determine if there are interested and qualified small business and expertise to assess capabilities to provide support for Indirect Fire Control Systems, Artillery Fire Control Systems, Mortar Fire Control Systems, Fire Control Software, Small Arms Fire Control, Optics, and Firing Table Support, for the below effort. The Contractor shall provide all personnel, equipment, material, tools, supervision, quality control, and other items necessary to provide engineering services to support on-going development projects that support Fire Control Systems & Technology Directorate. The work shall consist of design, development, production support, and sustainment for digital, mechanical and electromechanical components of fire control. The contractor shall have the capabilities to provide and support enhancements to fielded items. The majority of the effort includes Fire Control related items and products. The coding on these projects shall be done using various programming languages including, but not limited to, C++, C#, Java, Python, Ada, and FORTRAN. The Contractor shall be required to have extensive experience in all the above listed languages. The Contractor shall have considerable experience and expertise in the life cycle support of Fire Control Systems. The Contractor’s responsibility shall include, but not limited to, Fire Control Engineering, systems engineering analysis, and scientific studies of fire control systems. Additionally, responsibilities shall include Information Technology Services, Design, Integration, Testing and Systems Operations and Maintenance support. The Contractor shall provide task specific assistance in applied research, engineering analysis, program design, software development, documentation, and training. The Contractor shall develop software using a variety of productivity tools that enable fielding the products in a multi-platform environment. The Software shall be targeted for multi-user applications in a network environment employing state-of-the-art use of Graphical User Interface (GUI), graphic display, database, visualization, map and animation technology, using object-oriented programming concepts. This effort may be performed at either the Contractor’s facility or on site at Picatinny Arsenal or another Government location. The Government may provide technical data or Government Furnished Equipment (GFE) to support this effort based on the current availability. The Contractor shall possess experience in development of relevant Department of War (DoW) compliant products. The applicable NAICS Code for this requirement is 541330 with a Small Business Size Standard of $25,500,000.00. The Product Service Code is AC13. Businesses of all sizes are encouraged to respond; however, each respondent must clearly identify their business size in their capability statement. SUBMISSION DETAILS: Interested businesses should submit a brief capabilities statement demonstrating ability to support the above effort. No phone or email solicitations with regards to the status of the RFP will be accepted prior to its release. Each potential source is requested to provide brief description of work previously or currently being performed, which specifically demonstrates the contractor’s ability to successfully satisfy the requirements described above. In addition, please provide the firm’s name and address, point of contact with telephone number and email address, CAGE Code and DUNS number, and size of business (i.e. large, small, disadvantaged, veteran owned, woman owned, etc.). All data should be sent at no cost to the US Government. The Army is not seeking, and will not accept, unsolicited proposals. Responders are advised that the U.S. Government is not responsible and will not pay for any information or administrative costs incurred in responding to this notice. All submissions are requested to be made within 30 calendar days from the date of this publication, via electronic mail to both Points of Contact (POCs) for this action. Respondents will not be notified of the results of the survey.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Kristina Catalano
+  - Email: kristina.l.catalano.civ@army.mil
+- Secondary Contact:
+  - Name: Nicole Thalmann
+  - Email: nicole.l.thalmann.civ@army.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c1fd7e3d8d2249e4b6bc7610dabe762f/view)

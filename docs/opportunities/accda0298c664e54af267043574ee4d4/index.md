@@ -1,0 +1,29 @@
+---
+layout: default
+title: Architectural and Engineering Services (A/E) Indefinite Delivery Indefinite Quantity
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: accda0298c664e54af267043574ee4d4
+---
+
+# Architectural and Engineering Services (A/E) Indefinite Delivery Indefinite Quantity
+
+- Agency: DEPT OF DEFENSE
+- Type: Presolicitation
+- Posted: 2026-05-11 16:14:31.279-04
+- Solicitation Number: W911SD26RA004
+
+## Summary
+
+This is a notice only for the submission of Architect -Engineer Qualification Packages, SF330. The Mission and Installation Contracting Command (MICC) - West Point, NY is issuing this notice for the procurement of Architectural and Engineering (A-E) services in support of the Directorate of Public Works (DPW), West Point NY. This procurement is being conducted in accordance with the Brooks Act (Public Law 92-582), as implemented by FAR Subpart 36.6. This is not a request for proposal. No pricing information is requested at this time. Description: The Government intends to award multiple Indefinite Delivery Indefinite Quantity (IDIQ) contracts for general A-E services in support of Sustainment, Restoration, and Modernization (SRM) and other construction programs within West Point. Services may include, but are not limited to: Planning, investigation, and design services Preparation of studies, reports, cost estimates, and technical analyses Development of construction drawings and specifications Construction Phase Services (Title II) Computer Aided Design and Drafting (CADD) services Environmental and Infrastructure - related services Projects will primarily involve facilities and infrastructure typical of military installations and may include administrative, training, operational, and support facilities, as well as utility and infrastructure systems. Work may also include renovation, repair, alteration, and rehabilitation of existing historic facilities. Work will consist of renovation, repair, alteration, and rehabilitation projects of varying size and complexity. Contract Information: The Government intends to award up to three (3) IDIQ contracts. Each contract will have an ordering period not to exceed five (5) years. The total aggregate capacity of all contracts will not exceed $20,000,000.00. Task orders will be Firm Fixed Price. NAICS Code: 541330 – Engineering Services The applicable small business size standard is $25,500,000.00 Set Aside: This procurement is set aside for 100% Small Business concerns. Selection Process: Firms will be evaluated and selected for negotiation based on demonstrated competence and qualifications in accordance with FAR Subpart 36.6. The most highly qualified firms will be selected, and negotiations will be conducted to determine fair and reasonable pricing. Evaluation Criteria: Firms will be evaluated based on the following factors, listed in descending order of importance: Specialized experience and technical competence in providing A-E services for renovation, repair, alteration, and rehabilitation of facilities and infrastructure. Professional qualifications of key personnel Past performance Capacity to accomplish the work Knowledge of the locality Volume of prior Department of War work. Factors a. through d. are considered the most critical. Factors e. and f. are of lesser importance and may be used as discriminators among firms that are otherwise considered substantially equal under the most critical factors. Project Experience (SF 330, Section F): Firms shall submit recent and relevant project experience in section F. of the SF 330 that demonstrates their qualifications to perform the required A-E services. “Recent” is defined as projects completed within the past five (5) years from the date of this notice. Projects submitted should be similar in scope, size, and complexity and demonstrate experience in the planning, design, and execution of projects involving renovation, repair, alteration, and/or modernization of facilities and infrastructure. Firms are encouraged to highlight experience that demonstrates: Multidisciplinary design capabilities across key engineering and architectural disciplines Preparation of construction drawings, specifications, and cost estimates Coordination among design disciplines and stakeholders Experience supporting the Department of War or similar government projects (if applicable) Ability to perform design services for facilities and infrastructure in varying conditions and project types Each project description shall clearly identify: Scope of work performed by the firm Firm’s role (prime or subcontractor) Project size, complexity, and type Dates of performance Relevance to the requirements of this notice Firms shall include sufficient project examples to clearly demonstrate their qualifications. Greater consideration may be given to projects involving renovation and modernization of existing facilities in occupied or operational environments. Submission Requirements: Interested Firms shall submit a completed SF 330, Architect – Engineer Qualifications. Firms must be registered in the System for Award Management (SAM) to be eligible for award. Submission Instructions: Submit SF 330 packages electronically in PDF format. Submission Deadline: 29 May 2026 4:00PM EST Submit to: Lakenia Brown at lakenia.m.brown.civ@army.mil Additional Information: This announcement shall not be construed as a commitment by the Government to issue a solicitation or award a contract.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Lakenia M. Brown
+  - Email: lakenia.m.brown.civ@army.mil
+  - Phone: 5206878138
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/accda0298c664e54af267043574ee4d4/view)

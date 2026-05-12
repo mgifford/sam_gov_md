@@ -1,0 +1,31 @@
+---
+layout: default
+title: Custodial and Janitorial Services for Defense Information Systems Agency Pacific (DISA PAC), Building 77
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: f1a362328c8b4d0da381c9f6e58d5caf
+---
+
+# Custodial and Janitorial Services for Defense Information Systems Agency Pacific (DISA PAC), Building 77
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-05-11 18:51:04.098-04
+- Solicitation Number: 712674531
+
+## Summary
+
+The Defense Information Systems Agency (DISA) is seeking sources for Custodial and Janitorial Services for DISA Pacific (PAC) Building 77. INTRODUCTION: This is a SOURCES SOUGHT NOTICE to determine the availability and technical capability of small businesses (including the following subsets: Small Disadvantaged Businesses, Certified 8(a), Service-Disabled Veteran-Owned Small Businesses, HUBZone Small Businesses and Woman-Owned Small Businesses) to provide the required services. DISA PAC is seeking information from potential sources for: custodial, janitorial, and sanitation services for DISA PAC Building 77, including routine daily, weekly, monthly, and semi-annual cleaning services to maintain facility cleanliness, sanitation, and operational readiness. The estimated square footage of DISA PAC Building 77 to be serviced under this contract is approximately 54,300 square feet. The facility includes administrative office spaces, restrooms, breakrooms, hallways, stairwells, and common areas. A Firm-Fixed Price contract is anticipated to be awarded with an option for surge services up to 10% of the contract value. The anticipated Period of Performance is a one-year base period plus 4 one-year options. The anticipated Place of Performance is DISA PAC, Building 77, Ford Island, Pearl Harbor, HI. DISCLAIMER: THIS SOURCES SOUGHT NOTICE IS FOR INFORMATIONAL PURPOSES ONLY. THIS IS NOT A REQUEST FOR PROPOSAL. IT DOES NOT CONSTITUTE A SOLICITATION AND SHALL NOT BE CONSTRUED AS A COMMITMENT BY THE GOVERNMENT. RESPONSES IN ANY FORM ARE NOT OFFERS AND THE GOVERNMENT IS UNDER NO OBLIGATION TO AWARD A CONTRACT AS A RESULT OF THIS NOTICE. NO FUNDS ARE AVAILABLE TO PAY FOR PREPARATION OF RESPONSES TO THIS NOTICE. ANY INFORMATION SUBMITTED BY RESPONDENTS IS STRICTLY VOLUNTARY. CONTRACT/PROGRAM BACKGROUND: Contract Number: N/A Contract Vehicle: N/A Incumbent and their size: N/A Method of previous acquisition: N/A Period of performance: N/A REQUIRED CAPABILITIES: Custodial and janitorial services required include trash removal; restroom cleaning; floor maintenance (sweep, mop, carpet shampooing and extraction, floor stripping and waxing); cleaning of kitchen areas, high-touch surfaces, low and high spaces, windows and glass; and deep cleaning of restrooms and facility interior. Describe and provide an example of your company’s experience and projects worked within the last five years of similar size, scope and complexity related to these custodial and janitorial services requirements. SPECIAL REQUIREMENTS: Must have Secret Facility Clearance. Please provide your current Facility Clearance level. SOURCES SOUGHT: The North American Industry Classification System Code (NAICS) for this requirement is 561720 (https://www.census.gov/naics/), with the corresponding size standard of $22M (https://www.sba.gov/document/support--table-size-standards). In order to make a determination for a small business set-aside, two or more qualified and capable small businesses must submit responses that demonstrate their qualifications. Responses must demonstrate the company’s ability to perform in accordance with FAR clause 52.219-14, Limitations on Subcontracting. To assist DISA in determining the level of participation by small business in any subsequent procurement that may result from this Sources Sought Notice, provide information regarding any plans to use joint ventures (JVs) or partnering. Please outline the company's areas of expertise and those of any proposed JV/partner who combined can meet the specific requirements contained in this notice. SUBMISSION DETAILS: Responses should include: Business name and address; Name of company representative and their business title; Small Business Socio-economic status (if small); CAGE Code; Prime contract vehicles; to include General Service Administration (GSA): MAS (including applicable SIN(s), groups or pools), or any other Government Agency contract vehicle that allows for decentralized ordering. (This information is for market research only and businesses with a valid cage that lack prime contract vehicles are still encouraged to respond to this notice.) Businesses who wish to respond must send a response via email NLT 11:00 AM Hawaii Standard Time (HST) on May 18, 2026 to Michelle Sato at michelle.e.sato.civ@mail.mil, and Gwendolyn Rapoza at gwendolyn.m.rapoza.civ@mail.mil. Interested businesses should submit a brief capabilities statement package addressing the specific questions above (no more than five pages) demonstrating the ability to perform the services listed under Required Capabilities. Proprietary information and trade secrets, if any, must be clearly marked on all materials. All information received that is marked Proprietary will be handled accordingly. All submissions become Government property and will not be returned. All government and contractor personnel reviewing submitted responses will have signed non-disclosure agreements and understand their responsibility for proper use and protection from unauthorized disclosure of proprietary information as pursuant to 41 USC 423. The Government shall not be held liable for any damages incurred if proprietary information is not properly identified.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Michelle E. Sato
+  - Email: michelle.e.sato.civ@mail.mil
+- Secondary Contact:
+  - Name: Gwendolyn M. Rapoza
+  - Email: gwendolyn.m.rapoza.civ@mail.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f1a362328c8b4d0da381c9f6e58d5caf/view)

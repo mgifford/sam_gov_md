@@ -1,0 +1,28 @@
+---
+layout: default
+title: Install Water Softener and Hot Water Heaters at FCI Mendota
+agency: JUSTICE, DEPARTMENT OF
+notice_type: Combined Synopsis/Solicitation
+notice_id: 04f9fe6a22624d8897b780001d6144a4
+---
+
+# Install Water Softener and Hot Water Heaters at FCI Mendota
+
+- Agency: JUSTICE, DEPARTMENT OF
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-05-11 14:06:46.936-04
+- Solicitation Number: 15BBNF26Q00000068
+
+## Summary
+
+The Federal Bureau of Prisons (FBOP) intends to make a single award to a responsible entity that will provide all necessary equipment, labor, materials, and incidentals to install one (1) new water softener and remove twelve (12) existing damaged domestic water heaters, replacing them with twelve (12) tankless domestic hot water heater systems at the Federal Correctional Institution (FCI) Mendota, California. SCOPE OF WORK: The contractor shall provide one (1) water softener and twelve (12) new commercial-grade tankless water heaters with the capacity and performance equal to, or greater than, the existing domestic hot water system, including but not limited to ratings, configuration, safety features, compatibility, and performance. Equipment shall be suitable for the facility’s domestic water demand and site conditions and include at a minimum: 1.Water Softener -Sized to meet facility flow rate and hardness removal requirements. -Include resin tank(s), control valve, bypass assembly, and all required accessories. -Brine tank and associated components. -Resin media suitable for commercial applications. 2.Tankless Domestic Water Heater -Equipment shall be new and current production model. -Units shall be sized to meet facility flow and temperature rise requirements. -Energy-efficient model compliant with applicable energy codes and standards. -Provide all required accessories, including mounting hardware, isolation valves, servicevalves, and filters/strainers. -Provide condensate neutralizer and drain connections for condensing units. The performance period for the project will be 122 Calendar Days from issuance of the notice to proceed. The estimated magnitude of the project lies between $500,000.00 and $1,000,000.00. The North American Industrial Classification System (NAICS) code applicable to this requirement is 238220 with a corresponding small business size standard of $19 million. To be considered an interested vendor, you must possess this NAICS code in your System for Award Management (SAM) registration. This is a 100 percent small business set-aside. You must be registered in www.sam.gov as a small business for the applicable NAICS code (see FAR provision 52.219-1 in the Representations & Certifications section of your sam.gov registration. The solicitation will be distributed solely through the Contract Opportunity website at https://www.sam.gov. Hard copies of the solicitation will not be made available. The website provides download instructions. The "Sensitive /Secure package Upload" option will be selected for this procurement. All secure/locked documents uploaded, to include the solicitation, will require an active SAM vendor registration to obtain access. In addition, only those vendors who have been issued a valid Marketing Partner Identification Number (MPIN) from www.sam.gov will be granted access. If your firm does not have the NAICS code listed in www.sam.gov required for this solicitation, an email may be forwarded to your firm requesting an explanation as to why your firm should be granted access. If you encounter problems accessing these documents, please contact the Federal Service Desk at 866-606-8220. All future information about this solicitation, including any amendments, will also be distributed solely through this website. Interested parties are responsible for continuously monitoring this website to ensure that they have the most recent information about this proposed contract action. IMPORTANT: Any contractor interested in obtaining a contract award with the Federal Bureau of Prisons must be registered in https://www.sam.gov. In order to qualify for award, your business size metrics information entered in your www.sam.gov SAM registration must be less than or equal to the size standard specified above. Each bidder's www.sam.gov registration will be reviewed by the Government to confirm that your business size meets the small business size standard requirement. All bidders are urged to double check their www.sam.gov registration and update as necessary, including the size metrics information. SITE VISIT (See Instructions to Offerors Attachment): An organized site visit has been scheduled for- Wednesday, May 27, 2026 at 9:00 A.M., Local Time Participants will meet at--FCI Mendota, 33500 West California Ave.,Mendota, California ELECTRONIC BID SUBMISSION & BID OPENING (See Instruction to Bidders Attachment): SPECIAL INSTRUCTIONS PERTAINING TO ELECTRONIC BID SUBMISSION- Electronic copies of bids, Representation and Certifications, Standard Form 24, and Bid Bond, shall be submitted through the JEFS APP BOX at link below: https://jefs.app.box.com/f/338c07e266424c76a86f316c4d74bcbf
+
+## Contacts
+
+- Primary Contact:
+  - Name: Krista Sua
+  - Email: kxsua@bop.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/04f9fe6a22624d8897b780001d6144a4/view)

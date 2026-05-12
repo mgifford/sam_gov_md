@@ -1,0 +1,28 @@
+---
+layout: default
+title: LAB equipment preventive maintenance service
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 6d1d59fb6d7a4a04a599baf6132fc936
+---
+
+# LAB equipment preventive maintenance service
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-05-11 00:20:07.336-04
+- Solicitation Number: N6264926QB044
+
+## Summary
+
+LAB equipment preventive maintennace service. See attachment(s). Amendment 0001 1. PWS has been revised. 2. The Offer Due Date/Local Time extended to 11 May 2026,1400hr JST. Amendment 0002 is issued to extend the Offer Due Date/Local Time to 14 May 2026,1000am JST.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Yukako Hishikura
+  - Email: yukako.hishikura.ln@us.navy.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6d1d59fb6d7a4a04a599baf6132fc936/view)

@@ -1,0 +1,32 @@
+---
+layout: default
+title: N0016426RJR98 – TIMED FIRING DEVICE - PSC 1375 - NAICS 325920
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: e510339f49914c1695752743c966d292
+---
+
+# N0016426RJR98 – TIMED FIRING DEVICE - PSC 1375 - NAICS 325920
+
+- Agency: DEPT OF DEFENSE
+- Type: Presolicitation
+- Posted: 2026-05-11 17:17:59.653-04
+- Solicitation Number: N0016426RJR98
+
+## Summary
+
+AMENDMENT 0001: The purpose of this amendment is to add the correct Draft SOW attachment. ORIGINAL POSTING: The Naval Surface Warfare Center, Crane Division (NSWC-CR), is seeking proposals for the production, acceptance, and delivery of the Timed Firing Device (TFD). The TFD system includes the TFD kit (MR27), the TFD blasting demo accessory kit (MR28), and the RSI-1586-01 Plastic Encapsulated Detonator or Low Energy Exploding Foil Initiator (LEEFI) (MR29). The Government anticipates awarding a Firm-Fixed-Price (FFP), five-year, Indefinite-Delivery Indefinite-Quantity (IDIQ) supply contract. The estimated value of this procurement is approximately $31,000,000. The TFD is a compact, lightweight, precision electronic device engineered for the initiation of a broad spectrum of explosives. It can be rapidly adapted to a wide variety of standard and improvised demolition charge configurations using the provided adapters. Additionally, the TFD provides versatile activation timing through pre-set fixed delays of 30 seconds, 3 minutes, and 10 minutes, selectable via a rotary switch. For extended or custom-timed missions, the TFD can be programmed with delays of up to 24 hours using a PC or Android application, ensuring functionality even in communications-denied environments. The system is compatible with both single-use LEEFI and a reusable Shock Tube Initiator Chip, and it features a dedicated training mode with audio-visual feedback. Its robust, waterproof construction allows for full underwater capability. All units procured under this contract shall be manufactured in strict accordance with the following DRAFT documents: Statement of Work (SOW), Performance Specification, Drawings, Automated Data List (ADL), and Contract Data Requirements List (CDRL). The award will be made to the responsible offeror whose proposal represents the best value to the Government, considering technical approach, past performance, and price. A Production Readiness Review (PRR) is expected to be solicited as a separate Contract Line Item Number (CLIN) under the initial delivery order and must be completed within 135 days of contract award. First Article units are to be delivered within six months of the effective date of the delivery order. Production units are to be delivered within 180 days following the successful completion of FAT and Acceptance. Both FAT and Lot Acceptance Testing (LAT) are mandatory for this procurement. A total of 32 TFD kits, 1 TFD Accessory Kit, and 32 LEEFI Detonators will be required for FAT within 180 days of contract award. First Article units will not be considered part of the production quantity. The contractor will be responsible for conducting both FAT and LAT. This procurement is FOB destination, with inspection and acceptance to be performed at the origin. In accordance with Federal Acquisition Regulation (FAR) 19.104-1, this acquisition is explicitly set aside for small business participation. As such, only proposals submitted by eligible small business concerns will be evaluated for award. To receive the controlled attachments associated with this solicitation, contractors must be properly registered in both the System for Award Management (SAM) and the Joint Certification Program (JCP). Information regarding SAM registration can be obtained by calling 1-866-606-8220 or by visiting https://www.sam.gov. Information about the JCP is available at https://www.dla.mil/Logistics-Operations/Services/JCP/. The controlled attachments will be posted with the solicitation in the PSM. At the time of award, contractors must be compliant with the Cybersecurity Maturity Model Certification (CMMC), as stipulated in DFARS 252.204-7025. A minimum of CMMC Level 2 (Self-Assessment) is required. The solicitation, all subsequent amendments, and any associated controlled documents will be made available through the Procurement Integrated Enterprise Environment (PIEE) Solicitation Module (PSM) at https://piee.eb.mil. While a notice of the solicitation will be posted on SAM.gov, the complete solicitation will be accessible only through PIEE. Proposals must also be submitted via the PSM. Any modifications to this competitive action prior to the closing date will be posted to Contract Opportunities on SAM.gov through the PSM. For any in-scope changes made after the closing date, only those offerors who have submitted a proposal will be notified of any amendments and will be considered for future discussions and/or award. Vendor registration instructions can be found at the DoD Procurement Toolbox: https://dodprocurementtoolbox.com/site-pages/solicitation-module. Please refer to the "Vendor Access Instructions." Additional training materials are available at: https://pieetraining.eb.mil/wbt/xhtml/wbt/sol/index.xhtml. All responsible sources are invited to submit a proposal, which will be duly considered by the agency. The Government is providing the draft documents currently available as attachments to this pre?solicitation notice to allow industry the opportunity to review the materials and raise any questions or concerns. Additionally, interested parties are encouraged to complete the market research questionnaire and submit it to the Government point of contact identified in this notice. The information provided will enable more informed discussions regarding capabilities, level of interest, and the potential for your small business to successfully perform this requirement. All inquiries should be directed to the Government point of contact, Ms. Shawna Gainey, at (812) 227-9623 or shawna.y.gainey.civ@us.navy.mil. Please reference the solicitation number above in all correspondence.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Shawna Gainey
+  - Email: shawna.y.gainey.civ@us.navy.mil
+  - Phone: 8122279623
+- Secondary Contact:
+  - Name: Allyson Nicholson
+  - Email: allyson.d.nicholson.civ@us.navy.com
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e510339f49914c1695752743c966d292/view)
