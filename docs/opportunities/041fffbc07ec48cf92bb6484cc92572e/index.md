@@ -1,0 +1,35 @@
+---
+layout: default
+title: Solicitation # 19SS3026Q0007_PR15872625_Mobile Telephone Services
+agency: STATE, DEPARTMENT OF
+notice_type: Solicitation
+notice_id: 041fffbc07ec48cf92bb6484cc92572e
+---
+
+# Solicitation # 19SS3026Q0007_PR15872625_Mobile Telephone Services
+
+- Agency: STATE, DEPARTMENT OF
+- Type: Solicitation
+- Posted: 2026-05-12 05:59:07.389-04
+- Solicitation Number: 19SS3026Q0007
+
+## Summary
+
+Dear Prospective Quoter: Subject: RFQ # 19SS3026Q0007_PR15872625_Mobile Telephone Services Enclosed is a Request for Quotations (RFQ) for Mobile Telephone Services U.S. Embassy Juba. If you would like to submit quotation, follow the instructions in Section 3 of the solicitation, complete the required portions of the attached document, and submit it to the address shown on the Standard Form 1449 that follows this letter. The U.S. Government intends to award a contract/purchase order to the responsible company submitting an acceptable offer the demonstrate the best value. We intend to award a contract/purchase order based on initial quotation, with or without holding discussion with the Quoter. Submission Instruction will be as follows: Issued Date: May 12, 2026 Vendors’ Questions Received by: May 20, 2026, at 10:00 am CAT Response to Vendors’ Questions by: May 22, 2026, at 12:00 am CAT Submission Closing Date: June 2, 2026, at 5:00 pm CAT The quotation must be submitted electronically to jubaprocurement@state.gov before closing date and time, in English language, Calibri text font size 12, and in Adobe Acrobat (pdf) file format not exceeding 30MB per file. If the file size exceeds 30MB, the submission must be made in separate files and attached to separate emails with less than 30MB each. Please reference the RFQ number to your submission(s). Any incomplete offer submitted will be deemed non-responsive and may not be considered for evaluation hence disqualified. In order for an offer to be considered, you must also complete and submit the following: Attachment 1: SF-1449 Section 1 and Section 4, Pricing Section 3 and Section 4, Technical proposal Section 5, Representation and Certification UEI: Proof of SAM Registration Additional information as required in Section 3 Offerors shall be registered in the SAM (System for Award Management) database at https://www.sam.gov prior to submittal of their offer/proposal as prescribed under FAR 4.1102. Failure to be registered at time of proposal submission may deem the offeror’s proposal to be considered non-responsible and no further consideration will be given. Therefore, offerors are highly encouraged to register immediately if they are interested in submitting a response to this requirement. The U.S. Government intends to award one or more contracts to the responsible offeror(s) representing best value using the comparative evaluation process authorized under FAR 13.106-2(b) (3). A comparative evaluation is defined as the act of comparing two or more offers in response to the RFQ. The item-by-item comparison is performed by comparing each offer directly to one another to determine which provides the best value to the Department, after an offeror has met the minimum requirements of the solicitation and is deemed to be technically acceptable. If an offeror does not meet the minimum requirements and is not technically acceptable, they will be excluded from further consideration as part of the comparative analysis. Comparative evaluation is NOT a low price technically acceptable (LPTA) or trade-off process. Prospective offers must still meet basic standards for responsibility at FAR 9.104 and solicitation compliance to be eligible for award. We intend to award a contract based on initial quotations, without holding discussions, although we may hold discussions with companies if there is a need to do so. The Contracting Officer reserves the right to reject any and all proposals and to waive any informality in proposals received. In addition, the US Embassy reserves the right to establish a competitive range of one or more offerors and to conduct further negotiations concerning price and other terms before awarding the Purchase Order, or to award without discussion. Direct any questions regarding this solicitation and submit your offer to Juba Procurement Office through email address: jubaprocurement@state.gov.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Juba procurement
+  - Email: Jubaprocurement@state.gov
+  - Phone: 2022166279304
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: SF-1449 Section 1 and Section 4, Pricing Section 3 and Section 4, Technical proposal Section 5, Representation and Certification UEI: Proof of SAM Registration Additional information as required in Section 3 Offerors shall be registered in the SAM (System for Award Management) database at https://www.sam.gov prior to submittal of their offer/proposal as prescribed under FAR 4.1102. Failure to be registered at time of proposal submission may deem the offeror’s proposal to be considered non-responsible and no further consideration will be given. Therefore, offerors are highly encouraged to register immediately if they are interested in submitting a response to this requirement. The U.S. Government intends to award one or more contracts to the responsible offeror(s) representing best value using the comparative evaluation process authorized under FAR 13.106-2(b) (3). A comparative evaluation is defined as the act of comparing two or more offers in response to the RFQ. The item-by-item comparison is performed by comparing each offer directly to one another to determine which provides the best value to the Department, after an offeror has met the minimum requirements of the solicitation and is deemed to be technically acceptable. If an offeror does not meet the minimum requirements and is not technically acceptable, they will be excluded from further consideration as part of the comparative analysis. Comparative evaluation is NOT a low price technically acceptable (LPTA) or trade-off process. Prospective offers must still meet basic standards for responsibility at FAR 9.104 and solicitation compliance to be eligible for award. We intend to award a contract based on initial quotations, without holding discussions, although we may hold discussions with companies if there is a need to do so. The Contracting Officer reserves the right to reject any and all proposals and to waive any informality in proposals received. In addition, the US Embassy reserves the right to establish a competitive range of one or more offerors and to conduct further negotiations concerning price and other terms before awarding the Purchase Order, or to award without discussion. Direct any questions regarding this solicitation and submit your offer to Juba Procurement Office through email address: jubaprocurement@state.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/041fffbc07ec48cf92bb6484cc92572e/view)

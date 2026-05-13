@@ -1,0 +1,28 @@
+---
+layout: default
+title: 2026 Chemical and Material Risk Management Program (CMRMP) Toxic Substances Control Act (TSCA) Market Analysis on High Priority Substances
+agency: DEPT OF DEFENSE
+notice_type: Special Notice
+notice_id: 2a3ac52da2a0484a8ed193721ca03bb6
+---
+
+# 2026 Chemical and Material Risk Management Program (CMRMP) Toxic Substances Control Act (TSCA) Market Analysis on High Priority Substances
+
+- Agency: DEPT OF DEFENSE
+- Type: Special Notice
+- Posted: 2026-05-12 13:39:24.528-04
+- Solicitation Number: JW05122026
+
+## Summary
+
+Description. This Request for Information (RFI) is issued solely for information and planning purposes and does not constitute a solicitation. All information received in response to this RFI marked Proprietary will be handled accordingly. Responses to the RFI will not be returned. Responses to this RFI are not offers and cannot be accepted by the Government to form a binding contract. The Government does not intend to award a contract based on this RFI or reimburse any costs associated with the preparation of responses to this RFI. It will also not consider any solutions that are proprietary. Overview. This RFI is issued to gather information to identify and assess critical applications for the U.S. Department of War (DoW) and defense industrial base (DIB) that necessitate the use of existing chemicals undergoing the U.S. Environmental Protection Agency’s (EPA) Toxic Substances Control Act (TSCA) section 6 risk evaluation process. This RFI will help the Office of the Assistant Secretary of War for Energy, Installations, and Environment (OASW(EI&E)) Chemical and Material Risk Management Program (CMRMP) better understand DoW and DIB uses of TSCA high priority chemicals. This RFI is focused on receiving information related to 10 TSCA high priority chemicals listed in Table 1 (the table can be found in the Instructions attachment). DoW seeks to better understand (1) applications that require the use of these chemicals; and (2) the criticality of those chemicals for industry and defense supply chains. Note that this RFI is a continuation of information gathering from the June 2025 CMRMP TSCA Market Analysis RFI to evaluate other TSCA high priority chemicals. Background. The mission of the CMRMP is to enhance military readiness and support the warfighter by effectively identifying and managing risks associated with the acquisition, use, and disposal of chemicals and materials across the DoW in accordance with reference (a). The CMRMP achieves this by proactively managing current and future risks from chemicals and, in so doing, encourages safer chemical practices, lowers lifecycle costs, drives innovation, and avoids the need for future crisis-driven retooling to comply with new regulations. An essential function of the CMRMP is early identification of chemicals that are necessary and even critical to the DoW mission. Currently, the primary source of chemical ingredient data used by the DoW originates from Safety Data Sheets (SDSs) submitted by industry who sell hazardous materials to the DoW in accordance with reference (b). These SDSs, however, are limited and only list chemical constituents classified as health or physical hazards in accordance with reference (c), thus limiting the capture and sharing of chemical ingredients. Due to a reliance on SDSs, DoW lacks visibility in tracking upstream applications to understand the implications of evolving regulatory drivers, such as TSCA, and respond to inquiries on supply chain uses. As a result, DoW seeks to better understand (1) DoW applications that require the use of TSCA high priority chemicals listed in Table 1; and (2) the criticality of those chemicals for industry. If EPA determines unreasonable risks to health or the environment during the TSCA risk evaluation for a condition of use (COU), then TSCA directs EPA to propose risk mitigation options such as prohibitions or restrictions to reduce or eliminate the unreasonable risk(s). DoW’s identification of critical applications earlier in the TSCA section 6 risk evaluation process will allow DoW the time necessary to investigate the availability of alternatives, inform industry and interagency engagement, and better manage chemicals critical to national defense. Responses will be used for DoW informational purposes only. DoW also welcomes discussion with industry after response submission, if there are additional details they wish to convey. Please reach out to the program mailbox or POCs listed below. Submit your company’s written response to: osd.pentagon.ousd-atl.mbx.cmrmp@mail.mil Primary Point of Contact: Kelsey Hendrixson kelsey.v.hendrixson.civ@mail.mil References. Department of Defense Instruction 4715.18, Emerging Chemicals of Environmental Concern. Effective September 4, 2019; Change 1 February 29, 2024. https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/471518p.pdf. FED-STD-313F, Material Safety Data, Transportation Data and Disposal Data for Hazardous Materials Furnished to Government Activities, October 12, 2018. https://www.gsa.gov/system/files/FED-STD-313F%20final%20(1).pdf 29 CFR 1910.1200, Occupational Safety and Health Standards: Hazard Communication. https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200
+
+## Contacts
+
+- Primary Contact:
+  - Name: Kelsey Hendrixson
+  - Email: kelsey.v.hendrixson.civ@mail.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2a3ac52da2a0484a8ed193721ca03bb6/view)

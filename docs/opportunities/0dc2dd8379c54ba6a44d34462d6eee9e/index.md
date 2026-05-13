@@ -1,0 +1,28 @@
+---
+layout: default
+title: FCI Safford- Install Carbon Monoxide Detection System
+agency: JUSTICE, DEPARTMENT OF
+notice_type: Combined Synopsis/Solicitation
+notice_id: 0dc2dd8379c54ba6a44d34462d6eee9e
+---
+
+# FCI Safford- Install Carbon Monoxide Detection System
+
+- Agency: JUSTICE, DEPARTMENT OF
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-05-12 15:50:28.468-04
+- Solicitation Number: 15BBNF26Q00000079
+
+## Summary
+
+RE: Request for Quote 15BBNF26Q00000079 Project No. 26Z6AL4 Install Carbon Monoxide Detection System Federal Correctional Institution Safford, Safford, AZ Notice of Combined Synopsis/Solicitation This is a combined synopsis/solicitation for commercial products or commercial services prepared in accordance with part 12. This announcement constitutes only solicitation. Offers are being requested and a separate written solicitation will not be issued. This acquisition has NO set aside restrictions. All interested contractors may bid. The NAICS code for this requirement is 238210. This solicitation incorporates provisions and clauses by reference. The full text of provisions and clauses may be accessed electronically at www.acquisition.gov. Solicitation number 15BBNF26Q00000079 is issued as a request for quotation (RFQ), for: The Federal Bureau of Prisons, Field Acquisition Office, intends to issue a solicitation for the following requirement: FCI Safford requires the installation of a carbon monoxide detection system to be compatible with the current Edwards EST3 fire alarm system that was installed in 2022. Located at FCI Safford 1529 W. US HWY 366, Safford, AZ 85546 The contractor shall furnish all labor, materials, equipment, tools, supervision, and warranties necessary to install the carbon monoxide detection system. The contractor and subcontractors must be reputable, holding valid and current contracting licenses. If required, personnel must provide certifications or documented proof of experience, demonstrating competency in executing the project. Proof must be provided to the Contracting Officer (CO) or COR upon request. All work and materials must comply with applicable local, state, and federal codes, including the latest editions of the International Building Code, NFPA, Life Safety Code, OSHA, American Correctional Association Standards, and other relevant regulations. This project involves the design, supply, installation, integration, testing, and commissioning of a Carbon Monoxide (CO) detection system that will be fully interfaced with the existing fire detection and alarm system (FDAS) in accordance with applicable codes and standards. The contractor is required to design and install carbon monoxide (CO) detectors in compliance with the latest National Fire Protection Association (NFPA) that will be compatible with our current Fire Alarm system, the Edwards EST3 system installed in 2022. This scope of work includes, but is not limited to the following tasks as seen in the attached Statement of Work. The Government anticipates awarding a firm-fixed-price contract. Award will be made to the responsible vendor whose quotation conforms to the solicitation and is determined to be Lowest Price Technically Acceptable (LPTA). Technical acceptability and price will be evaluated in accordance with the solicitation. The solicitation will be made available on or about May 12, 2026, and will be posted to the GPE website at www.sam.gov. All future information related to this acquisition, including any solicitation amendments and award notices, will also be disseminated through this site. Interested parties are responsible for monitoring this site to ensure they have the most up-to-date information regarding this solicitation. Registration in SAM: Each offeror must be registered in www.SAM.gov and must complete the necessary representations and certifications in SAM at the time of submitting their quotation. Quotation Deadline: The anticipated closing date for receipt of quotations is May 29, 2026, at 11:00 am PST. Payment Terms: Payment will be processed via Electronic Funds Transfer (EFT) in accordance with 52.232-33 Payment by Electronic Funds Transfer- System for Award Management Additional Requirements: Offerors must include a specification sheet and any submittal information about the products offered in their quotation. Faxed and hand-delivered quotes will not be accepted. Site Visit: A site visit will be held at FCI Safford to allow interested vendors the opportunity to examine existing conditions and the work area. Attendance is encouraged but not mandatory. Vendors wishing to attend must submit NCIC background check forms for all proposed attendees by the deadline stated in the solicitation ( May 15, 2026 by 11:00 AM PST) Only individuals who have received prior approval will be permitted to enter the facility. Specific instructions regarding the date, time, meeting location, required identification, and security procedures will be provided in the solicitation. The Site Visit has been planned for May 21, 2026, at 8:00 AM PST. Questions will not be answered during the site visit; all questions must be submitted in writing to the Contracting Officer in accordance with the solicitation instructions by May 26, 2026 11:00 AM PST. Any questions regarding the solicitation may be submitted in writing via email to mdola@bop.gov.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Manjit Dola
+  - Email: mdola@bop.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0dc2dd8379c54ba6a44d34462d6eee9e/view)

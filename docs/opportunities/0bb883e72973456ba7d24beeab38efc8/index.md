@@ -1,0 +1,29 @@
+---
+layout: default
+title: Helena MT, VC looking for 3,800 RSF of Medical/Office space
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Solicitation
+notice_id: 0bb883e72973456ba7d24beeab38efc8
+---
+
+# Helena MT, VC looking for 3,800 RSF of Medical/Office space
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Solicitation
+- Posted: 2026-05-12 13:01:03.104-04
+- Solicitation Number: 36C24W26R0042
+
+## Summary
+
+VA seeking space for Vet Center in Helena MT. Space is to be considered office/medical space. The space is not to exceede 4026 rentable square feet.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Robert Haun
+  - Email: Robert.haun@va.gov
+  - Phone: 2084731991
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0bb883e72973456ba7d24beeab38efc8/view)

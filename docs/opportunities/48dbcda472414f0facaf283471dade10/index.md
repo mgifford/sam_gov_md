@@ -1,0 +1,38 @@
+---
+layout: default
+title: Los Angeles District: $80M Regional Design Build Paving Indefinite Delivery Indefinite Quantity (IDIQ) Contract
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 48dbcda472414f0facaf283471dade10
+---
+
+# Los Angeles District: $80M Regional Design Build Paving Indefinite Delivery Indefinite Quantity (IDIQ) Contract
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-05-12 15:48:21.969-04
+- Solicitation Number: W912PL26S0025
+
+## Summary
+
+This is a SOURCES SOUGHT NOTICE for information only. Replies by interested parties will be used by this agency for preliminary planning purposes. No proposal or contract will be awarded from this notice. No reimbursement will be made for any costs associated with providing information in response to this notice or any follow up information requests. Items below subject to change.
+
+1.0 Introduction & Purpose This SOW is issued for Market Research and Sources Sought purposes only. The USACE Los Angeles District (SPL) is seeking highly qualified contractors capable of executing a broad range of paving (primary airfield) and incidental civil site work across various military and civil works installations. Airfield/Civil/Horizontal design services are also included in this IDIQ contract. The anticipated vehicle is a firm-fixed-price DB IDIQ contract with an estimated shared capacity of $80M over 5 years.
+
+2.0 Geographic Location of Work Work will be performed throughout the USACE Los Angeles District AOR. This predominantly includes, but is not limited to, active military installations, reserve centers, and civil works projects across Southern California, Arizona, and portions of Nevada and Utah. Contractors must possess the capability to mobilize personnel, equipment, and batch plants (if required) to secure military installations, adhering to all base access and antiterrorism/force protection (AT/FP) protocols.
+
+3.0 Scope of Work The contractor shall furnish all labor, supervision, management, tools, materials, equipment, and transportation necessary to perform paving and related civil infrastructure projects. Work will encompass both new construction and the maintenance, repair, and alteration of existing infrastructure. The required paving materials include both Asphalt Concrete (AC) and Portland Cement Concrete (PCC). Task Category Core Requirements & Descriptions Airfield Pavements Construction, reconstruction, and repair of critical airfield infrastructure including runways, taxiways, parking ramps, aprons, overruns, and paved shoulders. Must meet strict DOW smoothness and material specifications. Vehicular Pavements Construction, milling, overlay, and full-depth reclamation of military base roadways, access roads, and motor pool parking lots. Includes heavy-duty paving for tracked vehicles or heavy equipment. Airfield Maintenance & Remediation Specialized airfield surface corrections including runway spall repair, joint routing and resealing, and high-pressure water or chemical runway rubber removal to restore friction coefficients. Incidental Civil & Site Work Demolition of existing pavements, earthwork, grading, and installation of new curb and gutter. Construction of drainage structures, catch basins, drop inlets, and related storm water management systems. Design Design and engineering services include airfield design (pavements, lighting, striping, etc), horizontal design (roads, lighting, parking lots) and civil design (earthwork, drainage structures, etc).
+
+4.0 Performance Standards & Compliance All work executed under this IDIQ shall comply with the most current editions of DOW criteria, specifically: Unified Facilities Criteria (UFC): Including UFC 3-250-01 (Pavement Design for Roads and Parking Areas), UFC 3-260-01 (Airfield and Heliport Planning and Design), and UFC 3-270-01 (O&M Manual: Asphalt and Concrete Pavement Maintenance and Repair). Unified Facilities Guide Specifications (UFGS): Paving mix designs, placement, compaction, and testing must adhere to standard UFGS Division 32 (Exterior Improvements) requirements. Quality Control & Safety: The contractor must implement a robust Contractor Quality Control (CQC) plan and strictly adhere to the USACE Safety and Health Requirements Manual (EM 385-1-1).
+
+5.0 Contractor Capability Demonstration (Sources Sought Requirements) The type of set-aside, either small business or among the socioeconomic categories, if any, will depend upon the responses to this sources sought notice. The purpose of this notice is to gain knowledge of the experience and capabilities of both small and large business concerns in the construction industry, in performing similar projects in magnitude and complexity of this requirement. In accordance with (RFO) 52.219-14, Limitations on Subcontracting, small business prime contractors will not pay more than 85 percent of the amount paid by the Government for contract performance, excluding the cost of materials, to subcontractors that are not similarly situated entities. Any work that a similarly situated entity further subcontracts will count towards the prime contractor's 85 percent subcontract amount that cannot be exceeded. Respondents to this Sources Sought must demonstrate the following in their capability statements: Past experience on individual projects of similar scope and magnitude, as described above in the project scope, and describing no more than three (3) projects that are complete or at least 50% construction complete and within the past six (6) years. Response MUST demonstrate experience in airfield paving requirements. At least one airfield paving construction project example MUST have a construction value greater than $10,000,000 and have occurred on a military installation (Army, Navy, Air Force, Marine Corp) within the continental United States or Allied Military installation built to UFC standards.. The projects should be similar in nature to what is described above in the Project Scope. The project title, location, general description to demonstrate relevance to the proposed project, the Offerors’ role, dollar value of contract, type of contract (design-build or design bid build), and name of the company, agency, or Government entity for which the work was performed with contact information (reference name, phone number and e-mail address) should be included for each project. VERY IMPORTANT: include info on work scopes self-performed vs subcontracted and percentage of self-performed vs subcontracted). If past performance was as a JV, indicate which scopes was performed by which JV member. Experience managing concurrent task orders across geographically dispersed military installations. Historical capability to successfully execute both heavy AC and PCC paving operations, specifically highlighting airfield experience. Ability to self-perform critical specialized tasks (e.g., spall repair, rubber removal) or manage specialized sub-contractors effectively. Bonding capacity matching or exceeding the anticipated task order limits and overall contract capacity. Submittals will not be returned. This is not a Request for Proposals, only a Request for Information. No award will result from this Sources Sought Notice. This notice does not constitute any commitment by the Government.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Roger Minami, Procurement Analyst
+  - Email: kinya.r.minami@usace.army.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/48dbcda472414f0facaf283471dade10/view)
