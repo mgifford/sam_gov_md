@@ -1,0 +1,28 @@
+---
+layout: default
+title: AMPLIFIER, ELECTRONIC / CIRCUIT CARD ASSEMBLY
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 472d940f4468450999996c827c43361a
+---
+
+# AMPLIFIER, ELECTRONIC / CIRCUIT CARD ASSEMBLY
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-05-13 08:53:37.193-04
+- Solicitation Number: N0010426QX090
+
+## Summary
+
+CIRCUIT CARD ASSEMBLY, NSN: 5998013521905, N0010426PR26359 ; AMPLIFIER, ELECTRONIC, NSN: 5996012126498, N0010426PR26346
+
+## Contacts
+
+- Primary Contact:
+  - Name: DARIAN HOLLEY, N774.9, PHONE (717)605-1339, EMAIL DARIAN.HOLLEY@NAVY.MIL
+  - Email: DARIAN.HOLLEY@NAVY.MIL
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/472d940f4468450999996c827c43361a/view)

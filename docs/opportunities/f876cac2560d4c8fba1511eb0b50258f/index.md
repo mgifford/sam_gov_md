@@ -1,0 +1,31 @@
+---
+layout: default
+title: Facility Planning Services A-E IDIQ Small Business Set-Aside
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: f876cac2560d4c8fba1511eb0b50258f
+---
+
+# Facility Planning Services A-E IDIQ Small Business Set-Aside
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-05-13 17:15:32.412-04
+- Solicitation Number: N6247326RE001
+
+## Summary
+
+This procurement will result in one Indefinite Delivery/Indefinite Quantity (IDIQ) contract for Facility Planning services at various government installations primarily in the NAVFAC SW AOR, including California, Arizona, Nevada, Colorado, New Mexico, and Utah, but may be available to the NAVFAC Pacific And Atlantic AORs. Preponderance of work is expected to be in Southern California. These services will be procured in accordance with 40 USC Chapter 11, Selection of Architects and Engineers, as implemented by FAR Part 36. The IDIQ contract will be for a base period of two (2) years with three (3) one-year option periods. The total fee for the contract term shall not exceed $30,000,000. The guaranteed minimum for the contract term is $1,000. Firm-fixed price task orders will be negotiated for this contract. The minimum value of individual task orders executed under this contract is $10,000 and the maximum value is $2,000,000. There will be no dollar limit per year. Multiple task orders may be awarded with similar completion schedules and overlapping delivery dates. Estimated start date is April 2027.THIS IS A TOTAL SMALL BUSINESS SET-ASIDE PROCUREMENT. The Small Business size standard classification is North American Industrial Classification System (NAICS) Code 541310 (Architectural Services) with a small business size standard of $12.5 million. The Government seeks the most highly qualified firm to perform the required services, based on the demonstrated competence and qualifications, in accordance with the selection criteria. Small business firms will not pay more than 50 percent of the amount paid by the Government for contract performance to subcontractors that are not similarly situated entities per FAR clause 52.219-14 Limitations on Subcontracting. A market research study was conducted by NAVFAC SW that included an assessment of relevant qualifications and capabilities of potentially qualified firms. This included review and analysis of responses to Sources Sought #N6247326RPLAN. As a result of market research analysis, a determination was made to solicit this procurement as a small business set-aside procurement. The NAVFAC SW small business office concurs with the determination.Required A-E services for this contract include, but are not limited to, the following: PRIMARY A-E SERVICES:1. PROJECT PLANNING DOCUMENTS: Military Construction (MILCON), Unspecified Minor Construction (UMC), Demolition, and Special Projects Planning:- DD Form 1391s- Requirements Data Sheet (RDS) - Planning Studies, including Functional Analysis Concept Development (FACD)/Customer Concept Design (CCD), Feasibility studies; Concept/Schematic Design Drawings, and other Advanced Planning studies- Planning Charrettes- Minimum Viable Project (MVP) Scope and Alternative Construction Methods (ACM) analysis- Planning documentation in Programming Execution and Administration System (PAX)- Preliminary, Parametric, and Class 5, 4, 3 Cost Estimates utilizing Micro-Computer Aided Cost Estimating System Second Generation (MII), when appropriate, as determined by the Government- Project Site Plans- Economic Analyses (EAs)- Asset Evaluations (AEs)- Basic Facilities Requirements (BFRs)- BFRs for magazines using the Magazine Storage Requirements Calculator- Magazine Construction Assessment Reports- Facilities Planning Documents (FPDs) utilizing the government?s web-based internet Naval Facilities Asset Data Store (iNFADS) program- Collateral Equipment Lists (personal property, equipment from other appropriations)- Support services may include architectural, civil engineering, seismic (including but not limited to Tier1 and Tier 2 Seismic Evaluation) landscape, architectural, mechanical, electrical, telecommunications, fire protection, traffic and circulation, topographical, hydrological, geotechnical / subsurface, anti-terrorism / force protection, controlled/secured spaces, cybersecurity, utility, renewable energy, and hazardous materials studies. SECONDARY A-E SERVICES: 1. SHORE INFRASTRUCTURE MASTER PLANNING: Regional, installation and area development planning, to include vision plans, illustrative plans, military installation resilience components (MIRC) plans, district plans, land use plans, regulating plans, circulation and parking plans, resilient infrastructure plans, primary utility network plans (including utility locations and capacity), future development plans, installation-wide planning and design standards, installation development programs (capital investment plans), electronic/web-based master planning; and other planning documents which incorporate sustainability principles such those outlined in UFC 2-100-01, Installation Master Planning. Master Planning will be in accordance w UFC Installation Master Planning, NAVAC Installation Development Planning Consistency Guide and other applicable guidance. 2. GEOSPATIAL INFORMATION and SERVICE (GIS), AND CADASTRAL SUPPORT SERVICES:- Preparation of spatial and non-spatial data acquisition- Data for the enterprise GIS database systems in accordance with current Navy Data Model standards (NDM)- Preparation of maps, datasets, data models, geo-processing models, automation scripts, and utilizing Microsoft Office, Adobe Acrobat, PostgresSQL, AutoCAD, ESRI ArcGIS Product Suite- GPS services which include the collection of global positioning system (GPS) data using GPS equipment compatible with the NAVFACSYSCOM SW GeoReadiness Center (GRC); land surveying and topographic mapping. Please see attached synopsis for full synopsis description/instructions.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Britney MACHADO-POTESTIO
+  - Email: britney.l.machado-potestio.civ@us.navy.mil
+- Secondary Contact:
+  - Name: Hal Hayes
+  - Email: Harold.w.hayes10.civ@us.navy.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/f876cac2560d4c8fba1511eb0b50258f/view)

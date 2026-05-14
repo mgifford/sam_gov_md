@@ -1,0 +1,29 @@
+---
+layout: default
+title: DRIVE SHAFT ASSEMBLY AMENDMENT
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 0d356d6e985747339b1bdd455ac27e89
+---
+
+# DRIVE SHAFT ASSEMBLY AMENDMENT
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-05-13 15:18:26.807-04
+- Solicitation Number: SPRDL1-25-R-0129_003
+
+## Summary
+
+THIS IS AN ADMINISTRATIVE AMENDMENT TO REINSTATE THE OPTION CLIN THAT WAS INADVERTENTLY DELED FROM THE ORIGINAL SOLICITATION. ITEM: DRIVE SHAFT ASSEMBLY NSN: 2520-016-49-3237 P/N: 13055596. QTY: 9. OPTION: 100%. FOB: DESTINATION.
+
+## Contacts
+
+- Primary Contact:
+  - Name: TANIA LAWSON-HENDERSON
+  - Email: TANIA.LAWSON-HENDERSON@DLA.MIL
+  - Phone: 5867037479
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0d356d6e985747339b1bdd455ac27e89/view)

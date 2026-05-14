@@ -1,0 +1,31 @@
+---
+layout: default
+title: Roman Catholic Priest Services at MCAS Iwakuni
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 8128bda92335464c8ec42b49642d128f
+---
+
+# Roman Catholic Priest Services at MCAS Iwakuni
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-05-13 02:57:34.385-04
+- Solicitation Number: M67400-26-RFI-0007
+
+## Summary
+
+Request for Information * THIS IS AN OCONUS REQUIREMENT: FAR 19.000(b) APPLIES. Response Requested Interested sources are requested to submit: A capability statement; Relevant experience and qualifications information; Copies of relevant certifications, faculties, ecclesiastical endorsements, letters of good standing, or similar supporting documentation, if available at this stage; Confirmation of ability to meet the Draft Performance Work Statement (PWS) requirements Responses are due no later than 27 May 2026 at 1500 Japan Standard Time (JST). Questions are due no later than 18 May 2026 at 1500 JST. Synopsis: The Marine Corps Installations Pacific (MCIPAC) – Regional Contracting Office (RCO) is conducting market research to identify potential sources that are interested in and capable of providing Roman Catholic Priest services as described in the attached Draft Performance Work Statement (PWS). Objective: The purpose of this Sources Sought Notice is to obtain information from qualified sources to assist the Government in determining the availability of commercial sources capable of performing the required Roman Catholic Priest services. The information received will support acquisition planning and the development of a potential solicitation. Anticipated Requirement: The anticipated requirement is for Roman Catholic Priest services aboard Marine Corps Air Station Iwakuni, Japan, in support of the Command Religious Program. Services include, but are not limited to, Roman Catholic Masses, Holy Day and special liturgies, sacramental ministry, confession/penance, pastoral counseling, religious education and catechesis, OCIA, young adult ministry, volunteer training and oversight, and other Catholic pastoral support requirements as described in the Draft PWS. The anticipated period of performance consists of one base year and four one-year option periods: Base Year: 16 September 2026 through 15 September 2027 Option Year One: 16 September 2027 through 15 September 2028 Option Year Two: 16 September 2028 through 15 September 2029 Option Year Three: 16 September 2029 through 15 September 2030 Option Year Four: 16 September 2030 through 15 September 2031 The anticipated contract type is Firm-Fixed-Price (FFP). As part of this market research, the Government seeks to determine whether the required services are available from a qualified Roman Catholic priest, parish, diocese, religious order, or other eligible source capable of meeting the requirements of the Draft PWS. The information received as a result of this Sources Sought Notice will be used to identify qualified sources capable of performing the work described in the Draft PWS under the applicable North American Industry Classification System (NAICS) code 813110 – Religious Organizations. Submission of Capability Statements: Interested vendors may submit a written Statement of Capabilities demonstrating their ability to meet the requirements of the attached Draft PWS. Only sources that meet the following criteria should respond: The source can meet all requirements outlined in the attached Draft PWS; The proposed priest is a validly ordained Roman Catholic priest in good standing; The proposed priest can obtain and maintain required Archdiocese for the Military Services, USA (AMS) endorsement/faculties; The entity has an active and current registration in the System for Award Management (SAM) at www.sam.gov; and The entity does not appear on the Excluded Parties List. Each response shall reference the Sources Sought title and respondent name and include, at a minimum, the following information: Point of Contact, including name, telephone number, and email address; Unique Entity ID (UEI); Contractor/source address; Business size under the applicable NAICS code, as registered in SAM; Description of relevant experience providing Roman Catholic Priest or comparable Catholic pastoral services; Confirmation of the proposed priest’s status as a validly ordained Roman Catholic priest in good standing; Confirmation of the proposed priest’s ability to obtain and maintain required Archdiocese for the Military Services, USA (AMS) endorsement/faculties prior to performance; Copies of relevant certifications, faculties, ecclesiastical endorsements, letters of good standing, or similar supporting documentation, if available at this stage, and Intent to subcontract, if applicable. Notice: This Sources Sought Notice is issued for information and planning purposes only and does not constitute a solicitation. No contract award will be made as a result of responses to this notice. The Government will not reimburse respondents for any costs associated with the submission of information in response to this notice. Questions: Questions regarding this Sources Sought Notice shall be submitted via email no later than 18 May 2026 at 1500 Japan Standard Time (JST). Submission Instructions: Capability statements shall be submitted via email to: sakuta.hiroshi.ja@usmc.mil and daniel.nachlas@usmc.mil. Capability statements shall be submitted no later than 27 May 2026 at 1500 Japan Standard Time (JST). Please do not submit proposals at this time. This notice is strictly for market research purposes. If a solicitation is issued, it is anticipated to be posted following completion of market research, no earlier than one month thereafter.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Hiroshi Sakuta
+  - Email: sakuta.hiroshi.ja@usmc.mil
+- Secondary Contact:
+  - Name: SSgt Daniel Nachlas
+  - Email: daniel.nachlas@usmc.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8128bda92335464c8ec42b49642d128f/view)

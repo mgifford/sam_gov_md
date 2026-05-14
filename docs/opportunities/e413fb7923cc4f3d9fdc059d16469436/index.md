@@ -1,0 +1,31 @@
+---
+layout: default
+title: J066--NEW – Base Plus 4 Option Yrs – Leica Cerebro Services
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Special Notice
+notice_id: e413fb7923cc4f3d9fdc059d16469436
+---
+
+# J066--NEW – Base Plus 4 Option Yrs – Leica Cerebro Services
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Special Notice
+- Posted: 2026-05-13 17:12:34.746-04
+- Solicitation Number: 36C25726Q0566
+- Awardee: null
+
+## Summary
+
+NOTICE OF INTENT TO SOLE SOURCE Department of Veterans Affairs Network Contracting Office 17 (NCO 17) Notice Type: Special Notice / Pre-Solicitation Notice of Intent to Sole Source Issuing Office: Network Contracting Office 17 (NCO 17) Department of Veterans Affairs South Texas Veterans Health Care System (STVHCS) Subject: Leica Cerebro Instrumentation Full Service and Preventative Maintenance Agreement NAICS Code: 811210 Electronic and Precision Equipment Repair and Maintenance Size Standard: $34 Million Product Service Code (PSC): J066 Maintenance, Repair, and Rebuilding of Equipment: Instruments and Laboratory Equipment Posted Date: May 13, 2026 Response Deadline: May 25, 2026,10:00 AM Central Time NOTICE OF INTENT TO AWARD A SOLE SOURCE CONTRACT The Department of Veterans Affairs, Network Contracting Office 17 (NCO 17), on behalf of the South Texas Veterans Health Care System (STVHCS), intends to award a Firm Fixed Price (FFP) sole source contract to: Leica Biosystems 21440 West Lake Cook Road, Suite 500 Deer Park, IL 60010 for a Full Service and Preventative Maintenance Agreement for the government-owned Leica Cerebro instrumentation, Equipment ID: 11654125, Serial #65-US-VASA (License Key Main Cerebro), located in the Histology Section, Pathology and Laboratory Medicine Service, STVHCS, San Antonio, Texas. DESCRIPTION OF REQUIREMENT The STVHCS has a continued need for a service and preventative maintenance contract for the government-owned Leica Cerebro instrumentation located in the Histology Laboratory Section of the Pathology and Laboratory Medicine Service at STVHCS. The contractor service program shall include, at a minimum: Onsite repair and on-site application service upon request during normal working hours Certified Leica Field Service Engineer (FSE) services authorized third-party distributor letter on company letterhead required All replacement parts (Certified OEM) All labor, travel, and expenses for scheduled and unscheduled visits One (1) yearly scheduled preventative maintenance visit (parts included) All applicable instrument shipping charges 24/7 Toll-Free Hotline with same-day response Emergency repair within 24 hours from time of request If both instruments are inoperable, same-day repair response Repairs conducted during normal working hours, 8:00 AM 5:00 PM, Monday Friday Compliance with AABB and CAP accreditation policies and VHA Directive 1106 Period of Performance: Base Year + Four (4) Option Years Place of Performance: Histology Laboratory Section, Pathology and Laboratory Medicine Service, South Texas Veterans Health Care System (STVHCS), San Antonio, Texas BASIS FOR SOLE SOURCE This acquisition is being conducted as a sole source action pursuant to the authority of FAR 13.106-1(b)(1)(i) only one responsible source is reasonably available to provide the required services. The basis for this determination is as follows: Leica Biosystems is the only authorized source of factory-trained service engineers for the Leica Cerebro instrumentation. Due to the proprietary nature of the equipment, only Certified Leica Field Service Engineers (FSEs) have authorized access to Leica Service Diagnostic & Calibration Software. Unauthorized methods to access this software expose the Government to unauthorized equipment access or malware attacks. If service is performed by any non-authorized provider, the instrument warranty may be voided. Only Leica Biosystems engineers are factory-certified and have access to the latest service and support information, OEM parts, and the specialized software required to properly maintain this instrumentation to FDA and CAP compliance standards. This requirement is for commercial items/services as defined in FAR 2.101 and will be acquired in accordance with FAR Subpart 12.6 and FAR Part 13. RESPONSE INSTRUCTIONS This notice is NOT a request for competitive proposals. However, any responsible source that believes it can fulfill this requirement in its entirety may submit a capabilities statement demonstrating its ability to meet all requirements described herein, including but not limited to: Documentation confirming the firm's authorization to service and repair Leica Cerebro instrumentation Evidence that the firm's field service engineers hold current Leica factory certifications Confirmation of authorized access to Leica proprietary diagnostic and calibration software A statement on company letterhead confirming the above authorizations Capability statements and responses must be received no later than May 23, 2026, at 4:00 PM Central Time. Responses received after this deadline will not be considered. The Government will not pay for any information submitted in response to this notice. Responses shall be submitted electronically to the Contracting Officer as identified below. SAM.gov registration is required; contractors must be registered and active in the System for Award Management (SAM.gov) at https://sam.gov prior to contract award. DISCLAIMER This synopsis is issued solely for informational and planning purposes. It does not constitute a solicitation and shall not be construed as a commitment by the Government to issue a solicitation or ultimately award a contract. No reimbursement will be made for any costs associated with providing information in response to this notice. Issuing Office: Department of Veterans Affairs, Network Contracting Office 17 (NCO 17) Contracting Officer: Ognian D. Ivanov Email: ognian.ivanov@va.gov Solicitation Number: 36C25726Q0566
+
+## Contacts
+
+- Primary Contact:
+  - Name: Ognian D. Ivanov
+  - Title: Contract Specialist
+  - Email: ognian.ivanov@va.gov
+  - Phone: 210-694-6302
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e413fb7923cc4f3d9fdc059d16469436/view)

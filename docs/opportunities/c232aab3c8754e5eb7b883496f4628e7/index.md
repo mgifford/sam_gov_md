@@ -1,0 +1,33 @@
+---
+layout: default
+title: USACE SPK Design Build (DB) Construction, NSA-U Consolidation Mission Facility, Utah
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: c232aab3c8754e5eb7b883496f4628e7
+---
+
+# USACE SPK Design Build (DB) Construction, NSA-U Consolidation Mission Facility, Utah
+
+- Agency: DEPT OF DEFENSE
+- Type: Presolicitation
+- Posted: 2026-05-13 21:44:20.596-04
+- Solicitation Number: W9123826RA012
+
+## Summary
+
+Project Description: Two-Phase Design-Build (DB) National Security Agency – Utah (NSA-U) Consolidation Mission Facility (CMF) Solicitation Notice Number: W9123826RA012 Description: The United States Army Corps of Engineers (USACE) Sacramento District (SPK) anticipates issuing a Two-Phase Design-Build (DB) solicitation for construction services to be performed in support of the National Security Agency- Utah (NSA-U) Consolidation Mission Facility (CMF) in Utah. The USACE-SPK, anticipates a potential requirement for design and construction of the following facilities: Administrative facility: Provides administrative space, support space, infrastructure, equipment and communications space, and storage areas. Administrative space includes office areas, conference rooms, storage areas, and multipurpose auditorium. The facility will be built to Sensitive Compartmented Information Facility (SCIF) standards in accordance with Intelligence Community Directive (ICD) 705. Commons facility: Will provide personnel support spaces, including fitness center, grab-and-go cafeteria, outdoor seating, unclassified conference rooms, mechanical, electrical, and telecom support spaces, as well as loading dock. Parking Structure: Will be constructed to provide privately-owned vehicle (POV) parking for staff and visitors. The parking structure will include accessible parking, pedestrian stair towers and elevators, as well as mechanical and electrical spaces. Vehicle Control Point (VCP): The VCP will consist of an overhead canopy with two guard booths, inbound and outbound roadway, overwatch booth, and rejection lane with rejection shelter. A new traffic circle will be constructed with point of connection to the NSA-U site access road. Existing parking and roadways will be modified to provide access to the new VCP and maintain access to the existing Vehicle and Cargo Inspection Facility (VCIF) and existing Visitor Control Center (VCC). All will be required to integrate with existing site access points and satisfy Anti-Terrorism/Force Protection (AT/FP) requirements. This project will include all required supporting facilities, associated site work, and environmental measures. All contractor and subcontractor personnel performing work under this contract must be citizens of the United States. U.S. citizenship is a prerequisite for obtaining the required Department of War (DoW) personnel security clearances. The contractor shall be responsible for ensuring all personnel comply with this requirement and all applicable federal security regulations. The Government intends to use a Two-Phase DB selection process. In Phase-One, the Government will issue a Phase-One Solicitation to evaluate technical qualifications and identify the most highly qualified offerors. Price or cost will not be evaluated in Phase-One. In Phase-Two, only the shortlisted offerors (up to five) will be invited to submit a detailed technical and price proposal in response to a Request for Proposal (RFP). The Government intends to award a Firm-Fixed Price (FFP) contract based on a Best Value Tradeoff analysis. The magnitude of construction for the anticipated project is between $375,000,000 and $475,000,000. The solicitation is anticipated to be issued using North American Industrial Classification System (NAICS) code 236220 – Commercial and Institutional Building Construction. The small business size standard for this NAICS, as established by the United States Small Business Administration (SBA), is $45,000,000.00 annual revenue. The Product and Service Code (PSC) is anticipated to be Y1AZ, Construction of Other Administrative Facilities and Service Buildings. The Phase-One Solicitation is anticipated to be issued as full and open competition through the Governmentwide Point of Entry (GPE) System for Award Management (SAM - www.SAM.gov) on or about 8 June 2026, with qualifications packages tentatively due 10 July 2026. The Phase-Two RFP will be issued to shortlisted offerors at a later date. Please DO NOT request an updated schedule if the estimated dates are surpassed; the Government will release all information publicly on SAM.gov when available, and requests for an updated posting schedule may be ignored. Please DO NOT request a copy of the solicitation, or draft plans and specifications, as they are not currently available. Any available technical data required to respond to the solicitation will be furnished as part of the solicitation. Following solicitation release, all responsible sources may submit proposals that shall be considered by the agency. This project and/or the anticipated solicitation may be changed, delayed, or canceled at any time. All prospective Offerors and their Subcontractors must be registered in SAM and the Procurement Integrated Enterprise Environment (PIEE) websites to download solicitation information. Solicitation documents, plans, and specifications will only be available to be downloaded from PIEE, which may be accessed at https://piee.eb.mil/. Registration should be completed one (1) week prior to the anticipated solicitation release date. USACE-SPK will not notify Offerors of any changes to the solicitation; Offerors must monitor PIEE and SAM for the solicitation to be posted, and for any posted changes or amendments. The ONLY Interested Vendors / Plan Holders / Bidders List is available through SAM.gov; Contractors are responsible for identifying their entity as an interested vendor and contacting other interested vendors. USACE-SPK will not review capabilities statements submitted in response to this Synopsis or coordinate partnering arrangements between parties. Contractors should check SAM.gov frequently for changes to the interested vendors list and this Notice.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Natalia Gomez
+  - Email: natalia.gomez@usace.army.mil
+  - Phone: 9165576868
+- Secondary Contact:
+  - Name: Rachel L. Kinney
+  - Email: Rachel.Kinney@usace.army.mil
+  - Phone: 9167177532
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c232aab3c8754e5eb7b883496f4628e7/view)

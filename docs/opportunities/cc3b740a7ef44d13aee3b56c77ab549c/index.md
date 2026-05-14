@@ -1,0 +1,29 @@
+---
+layout: default
+title: FEMAP/NASTRAN Software Maintenance Renewals
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: cc3b740a7ef44d13aee3b56c77ab549c
+---
+
+# FEMAP/NASTRAN Software Maintenance Renewals
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-05-13 07:14:08.903-04
+- Solicitation Number: N0016726SIMACQCD830062
+
+## Summary
+
+This is a special notice prepared in accordance with the Revolutionary FAR Overhaul (RFO) Federal Acquisition Regulation (FAR) 5.1 “Pre-solicitation Notice” for Commercial Simplified Acquisition in accordance with FAR 12.201-1(c)(2). In accordance with Revolutionary FAR Overhaul FAR 12.201-1(c)(2), the Government may solicit quotations directly from suppliers for this acquisition at or below the simplified acquisition threshold. Naval Surface Warfare Center Carderock Division (NSWCCD) intends to award a firm fixed price (FFP) purchase order using Simplified Acquisition Procedures that meets the specifications outlined below. This solicitation is set aside for small business. This announcement constitutes the only solicitation, and a written solicitation will not be issued. Quotes are being requested under reference no. N00167-26-SIMACQ-CD-83-0062 . Quotes are to be priced FOB Destination; separate shipping charges are not permitted. All responsible sources may submit a quote, which will be considered by the agency if received by the due date below. The Point of Contact for this acquisition is Michael Brodie, michael.s.brodie7.civ@us.navy.mil The NAICS code is 513210 The business size standard is $47.0 Millions of Dollars CMMC Level: Level 2 (Self) Specifications: FEMAP Software Renewals – Install ID 1932438 Minimum Specifications Attached The Government has determined that an award will be made to the responsible Quoter whose technically acceptable quote is considered to be the most advantageous to the Government, past performance and price considered. The Government intends to evaluate all timely quotes received from eligible quoters. The Government intends to evaluate quotations and award a contract without discussions with quoters. Evaluation Factors Technical – All quotations will be evaluated on a pass/fail basis to determine if the proposed product(s) clearly meet the minimum technical requirements outlined in the Performance Work Statement / salient characteristics. Quotations that do not meet the minimum requirements will be rated "Unacceptable" and will not be considered further. Past Performance – Past Performance will be evaluated via SPRS, SAM, FAPIIS, and other sources. Price – The price of all technically acceptable quotations will be evaluated for reasonableness. Award will be made to the quoter whose technically acceptable quote is considered to be the most advantageous to the Government, past performance and price considered. Quote packages are due by 21-May-2026 at 12PM EST. Quote packages shall be sent to michael.s.brodie7.civ@us.navy.mil and include the following information: Official Company Name; Point of contact including name and phone number Cage Code number Applicable clauses and provisions included in FAR 12.205, DFARS 212.301 and NMCARS 5212.3 are incorporated into this notice. The following provisions and clauses are provided but are not all inclusive of all applicable terms and conditions: 52.204-7 – System for Award Management 52.212-1 – Instructions to Offerors 52.212-4 – Contract Terms and Conditions – Commercial Products and Service 52.222-90 – Addressing DEI Discrimination by Federal Contractors. 52.247.34 – FOB Destination 252.204-7021 – Cybersecurity Maturity Model Certification (CMMC) Level Requirements 252.232-7006 - Wide Area Workflow Payment Instructions (Jan 2023) Questions/clarification regarding this solicitation must be submitted via email to michael.s.brodie7.civ@us.navy.mil by 15-May-2026 at 12PM EST. All questions will be answered in an amendment to this notice. SOFTWARE LANGUAGE No terms will be incorporated into any price quote and/or order accepted by the Government unless otherwise agreed to by all parties in writing. Any and all terms and conditions contained in any price quote and/or order that violate any Federal laws, statutes, and regulations, including but not limited to, the Federal Acquisition Regulation (FAR) and Defense Federal Acquisition Regulation Supplement (DFARS) are void and will have no effect. The applicable Federal laws, statutes, and regulations, including, but not limited to, the FAR and DFARS will govern instead. AUTHORIZED RESELLER/DISTRIBUTOR REQUIREMENT: Quoters must be an authorized reseller or distributor of the brands quoted. BRAND NAME MANDATORY Brand name Specified is Mandatory. Parts or components described herein by reference to a manufacturer's name and/or part number and nomenclature shall be furnished in strict accordance with the manufacturer's published data relating to said supplies except to the extent otherwise specified in this contract. Complete interchangeability of parts with original equipment is mandatory. There is insufficient time to obtain and analyze data to ensure interchangeability of parts if other than the brand name parts specified are furnished; therefore, bids/proposals offering parts of other than the supplier referenced will be rejected. The offeror warrants that the parts to be delivered hereunder will be of the part number(s) and the supplier specified.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Michael S. Brodie
+  - Email: michael.s.brodie7.civ@us.navy.mil
+  - Phone: 7576008579
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cc3b740a7ef44d13aee3b56c77ab549c/view)

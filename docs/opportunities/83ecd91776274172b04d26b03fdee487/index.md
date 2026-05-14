@@ -1,0 +1,31 @@
+---
+layout: default
+title: Forklift Rental - 6000lbs
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 83ecd91776274172b04d26b03fdee487
+---
+
+# Forklift Rental - 6000lbs
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-05-13 21:01:25.869-04
+- Solicitation Number: N32253-26-Q-0034
+
+## Summary
+
+Pearl Harbor Naval Shipyard & Intermediate Maintenance Facility (PHNSY & IMF) is a US Navy regional industrial center that maintains, overhauls and repairs various vessels of the US Navy. Its industrial operations provide the US naval forces with a wide range of services and resources located on the island of Oahu, Hawaii, with direct and indirect support to submarines, surface vessels and shore based activities in the Pacific. PHNSY & IMF seeks the rental of four (4) 6000lbs forklifts during the Base Period for Twelve (12) months and four (4) 6000lbs forklifts for six (6) months in the option period to assist in operations within the shipyard. The contractor shall provide all labor, equipment, tools and materials in order to accomplish the work detailed in the Performance Work Statement (PWS). The tentative period of performance for this service: Base Period*: From 01 June 2026 to 31 May 2027 Option Period*: From 01 June 2027 to 30 November 2027 *(Performance period may be updated.) The applicable North American Industry Classification System (NAICS) code assigned to this procurement is 532490 Other Commercial and Industrial Machinery and Equipment Rental and Leasing; size standard for this NAICS is $40,000,000.00. Product Service Code is W039 – Lease or Rental of Equipment – Materials Handling Equipment. Please note the following: The solicitation number for this requirement is N32253-26-Q-0034 Quotes are due no later than 05/18/2026 at 03:00 p.m. HST. Quotes must be sent via email to both the primary and secondary points of contact. All firms or individuals responding must be registered with the System for Award Management(SAM) (https://www.sam.gov) by the award date. As part of the price quote package, the Offeror shall submit the completed SF 1449 with blocks 17a., 30a., 30b. and 30c. (SF 1449 page 1) and CLIN information 0001 and 1001 (SF 1449 page 3) completed. Submission of a signed offer to the Government constitutes agreement and acceptance of the solicited terms and conditions. The Government may revise the solicitation at any time by means of an Amendment. It is an offeror’s responsibility to ensure it is accessing the Government Point of Entry (GPE) website, https://sam.gov/, to view potential amendments and procurement notifications for this solicitation. The proposal shall include Technical Approach: Offeror’s shall submit a technical proposal (not to exceed 10 pages) that clearly demonstrates thorough knowledge and understanding of, and approach to accomplish requirements listed in the PWS and solicitation. The proposal must contain sufficient details so that it may be evaluated in accordance with the PWS and comply with the period of performance set forth in the solicitation. As part of the technical approach offeror’s shall submit the following documents: i) forklift specifications or brochure, ii) Within the Technical Approach described if subcontractor will be utilized. If so, provide a subcontracting statement and submit a signed commitment letter from the subcontractor. iii) Certification that the forklift can be delivered on or before POP start date. Past Performance: On a separate sheet (no more than 3 pages) submit a reference list (2 to 3) of recent (within 2 years) of previous contracts that is similar or the same as the requirements on this solicitation. For each reference, provide: Company name, contract or order number, description of work performed, period of performance, dollar value, and point of contact name, phone, and email. The resulting contract award requires a CMMC Level 1 self-certification for handling Federal Contract Information (FCI). Therefore, this solicitation includes DFARS provision 252.204-7025. Offerors must possess a valid CMMC Level 1 (Self Assessment) certification at the time of offer submission and for the duration of any resulting contract. Government will verify Offeror's CMMC Level 1 (Self-Assessment) certification at the time of offer submission. Offerors failing to meet this requirement at the time of offer submission will be considered ineligible for award and their offers will not be evaluated. The Government may use this information and any other available sources (e.g., SPRS, internal records) during evaluation of past performance. Important: Offerors with no relevant past performance will not be evaluated favorably or unfavorably, the absence of past performance will result in a neutral assessment. Offer Delivery: Offerors shall deliver their Offer via email only to the Government Points of Contact (POC's) listed below. No other means of delivery will be accepted. Notice of email size and attachments: Offerors are hereby advised that the size limit including attachments is 35 MB per email. Emails that exceed this size limit will not be received by the Government. It is the Offeror's sole responsibility to ensure their quote is received by the Government POCs no later than the specified closing date and time. When necessary to comply with this size limit, the Offeror may deliver their quote through multiple emails, with each email clearly marked in the Subject line indicating its sequence order within the total number of emails being transmitted (for example, email 1 of 3). Quotes received after the due date will evaluated in accordance with RFO 52.212-1(c) Late submissions, modifications, revisions, and withdrawals of offers. Contract award will be in accordance to 52.212-2 as stated in the solicitation. All questions regarding solicitation N32253-25-Q-0034 shall be submitted in writing via email to the listed POCs. Questions are due 05/14/2026 01:00 PM HST.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Reid Saito
+  - Email: reid.y.saito.civ@us.navy.mil
+- Secondary Contact:
+  - Name: Lyndon Paloma
+  - Email: lyndon.g.paloma.civ@us.navy.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/83ecd91776274172b04d26b03fdee487/view)

@@ -1,0 +1,31 @@
+---
+layout: default
+title: USCG NEW MAINTENANCE AND WEAPONS DETACHMENT BUILDING US NAVAL STATION NEWPORT, RI
+agency: COMMERCE, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: e9d21f0490e14d67918e67e037712fe5
+---
+
+# USCG NEW MAINTENANCE AND WEAPONS DETACHMENT BUILDING US NAVAL STATION NEWPORT, RI
+
+- Agency: COMMERCE, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-05-13 10:59:18.821-04
+- Solicitation Number: 1305M226NOAAUSCGRI
+
+## Summary
+
+This Sources Sought Notice is issued for market research purposes only and does not constitute a Request for Proposal or Quotation. It does not commit the Government to award a contract, nor will the Government reimburse any costs associated with responding to this announcement or any follow-up information requests. This notice in no way obligates the Government to any further action. The National Oceanic and Atmospheric Administration (NOAA), in support of the U.S. Coast Guard (USCG), is publicizing this Sources Sought Notice solely to conduct market research and identify qualified Design-Build firms for the construction of a three-story 47,000 SF Maintenance and Weapons Detachment (MWD) Building at US Naval Station Newport, RI (NAVSTA Newport). This is a Sources Sought notice only, for preliminary planning purposes, and is not a solicitation for proposals (SF-330, SF-1442, or otherwise). REQUIREMENT: This notice is issued by NOAA’s Acquisition and Grants Office, Eastern Acquisition Division in support of the USCG through the Office of Marine and Aviation Operations. This project is to construct a MWD building, additional mission support building space, and site improvements, all to support homeporting of four Offshore Patrol Cutters to Newport, RI, including: MWD Building: A three-story, 47,000 SF facility. Primary Site Development: Includes relocating the existing buoy yard and installing underground utilities. Legacy MAT Building: Rehabilitation and reconfiguration of 5,300 SF of VOSS storage, including the addition of a mezzanine. Future-Proofing: The design must include elements for future vertical expansion, such as a vacant elevator shaft and enhanced structural/HVAC capacity. CURRENT ACQUISITION STRATEGY: The Government currently anticipates awarding a single firm-fixed-price Design-Build contract in accordance with the Revolutionary Federal Acquisition Regulation Overhaul (RFO) Parts 12, 15, and 36. NAICS CODE/SIZE STANDARD: The applicable NAICS Code is 237990, Other Heavy and Civil Engineering Construction, and the size standard is $39.5M. SCOPE OF WORK: The project requires full Design-Build replacement of marine and shoreside structures, utilities, and support systems including: a. Primary Site Development: i. Buoy Yard Relocation - Relocate the existing buoy yard to the location shown on the site concept plan to allow for construction of the new MWD building. Modify site as required. ii. Underground Utilities - Install all necessary underground utilities to support the new MWD building. b. Legacy MAT Building Rehabilitation and Reconfiguration: i. Utilize existing 5,300 SF VOSS Storage for cutter storage, which will include the construction of a mezzanine to double the size of usable storage space. Reconfigure space as required. ii. Reconfigure legacy MAT building storage and shop spaces to accommodate all storage and all shipping and receiving requirements. Existing MAT shop requirements will utilize MWD shop spaces and storage. c. MWD Building Construction: i. Construct a new 47,000 gross SF MWD building, including 18,910 SF for additionally required mission support functions. New building location is adjacent to the South of the legacy MAT building. ii. The building designer shall explore options, and if achievable within the budget, shall purposefully plan the building to be vertically expandable in the future. Designer shall incorporate design elements including, but not limited to one vacant elevator shaft, enhanced structural strength, and increased utility/HVAC capacity to enable future vertical building expansion. The intention is to create flexibility in the future, to allow the CG the opportunity and decision space to expand this building if required for increased Mission Support (possible future Base) requirements. d. ‘LNG’ Long Term CG Parking Area: Upgrade site as required to support long term parking requirements for cutter crews and mission support personnel. Upgrades should include, but are not limited to site lighting, grading, paving, waterfront work & associated work. e. Miscellaneous Site Development: Complete parking, site infrastructure, site lighting, and landscaping around new MWD building. PLACE OF PERFORMANCE: The place of performance will be NAVSTA Newport located at 690 Peary Street, Newport, RI 02841. PAYMENT AND PERFORMANCE BONDS: The Government will include RFO clause 52.228-15 Payment and Performance Bonds in the solicitation and resulting contract. The successful offeror will be required to provide 100% payment and performance bonds. Given the possibility of change orders during contract administration, interested parties must demonstrate bonding capacity to $61 million. ANTICIPATED AWARD: Q1/Q2 FY 2027 SUBMISSION OF INFORMATION: All interested parties are invited to complete the Google Form at the link provided below as well as email a letter confirming bonding capacity from their surety to jana.kolb@noaa.gov and bridget.cofo@noaa.gov. All submissions shall be uploaded to the link provided below no later than 27 May 2026 at 4 PM Eastern Time. Interested small business parties may contact jana.kolb@noaa.gov and bridget.cofo@noaa.gov with any questions. No additional attachments or pages will be considered by the government (i.e. the Government will not consider capability statements or other material outside of the submitted Google Form).
+
+## Contacts
+
+- Primary Contact:
+  - Name: Bridget Cofo
+  - Email: Bridget.Cofo@noaa.gov
+- Secondary Contact:
+  - Name: Jana Kolb
+  - Email: Jana.Kolb@noaa.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e9d21f0490e14d67918e67e037712fe5/view)

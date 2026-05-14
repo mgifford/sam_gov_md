@@ -1,0 +1,31 @@
+---
+layout: default
+title: Gateway Mission Router (GMR)
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: d14ab699dc3f426ba1c0a8015ae18bd4
+---
+
+# Gateway Mission Router (GMR)
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-05-13 14:12:47.168-04
+- Solicitation Number: RFI-GMR-MAY-2026
+
+## Summary
+
+**ATTENTION** ALL FORMAL COMMUNCIATION RELATED TO THIS ACQUISITION MUST BE DIRECTED TO: MRS. LINDSAY LAYNE AND MS. FELICIA DORTCH, ARMY CONTRACTING COMMAND - REDSTONE; EMAIL: LINDSAY.C.LAYNE.CIV@ARMY.MIL, felicia.r.dortch.civ@army.mil NO TELEPHONE CALLS WILL BE ACCEPTED. The Army Contracting Command - Redstone is issuing this Request for Information (RFI) to industry as a notification of a pending modification to contract W58RGZ-24-D-0067 for the manufacture of the Army’s Gateway Mission Router (GMR) product, which was previously awarded under a sole source basis to Vertex Modernization & Sustainment LLC, 6125 E. 21st Street, Indianapolis, IN, 46219-2058, CAGE Code: 96JA0 in July 2024. The proposed modification would add a fifth ordering period to the current Indefinite Delivery Indefinite Quantity (IDIQ) contract, add a new Contract Line Item Number (CLIN) for a fourth Gateway Mission Router (GMR) hardware variant, and increase the cost ceiling of the existing contract in response to higher than anticipated demands for the aviation GMR variant. This RFI is being issued in accordance with Revolutionary Federal Acquisition Regulation (FAR) Overhaul (RFO) 15.101 and responses will be treated as information only and not as a proposal. Data and information provided in response to this RFI will be used to inform a pending sole source determination related to the execution of the proposed modification. The North American Industry Classification System (NAICS) code associated with this action is 541512 - Computer Systems Design Services. The contract is currently being managed by Capability Portfolio Executive Ground (CPE G) Product Lead Architecture located at Fort Belvoir, VA. The GMR has been established as the common platform soldier interface for the family of Soldier Situational Awareness (SA) products/devices including, but not limited to Soldier Bourne Mission Command (SBMC), Nett Warrior (NW), Nett Warrior-Aviation (NW-A), and the Enhanced Night Vision Goggle-Binocular (ENVG-B) programs that span multiple Product Management Offices (PMOs) within the CPE-GSS portfolio. Likewise, the GMR is currently being used in similar applications within CPE Command and Control Information Network (C2IN), PM Strategic and Operational Rockets and Missiles (PM STORM), and CPE Aviation. All GMR variants provide secure wireless data capability to end users. The primary role of the GMR is to enable the rapid integration of Commercial Off the Shelf (COTS) technologies to air/ground vehicles through high-speed Ethernet and/or secure Wi-Fi connections. The secondary role is to enable those COTS devices to receive real-time vehicle information, Command and Control (C2) information, a common tactical Situational Awareness (SA) picture, and commercial civil air traffic and weather (when enabled) that has been compiled and correlated by the GMR from its multiple datalink interfaces and ADS-B Receiver (when equipped) The GMR securely integrates with tactical Line of Sight (LOS) and Beyond Line of Sight (BLOS) datalinks to allow user devices to digitally collaborate in ways that had not previously been possible. Consistent with the basis for award of the original contract, this modification is intended to be executed under a sole source basis in accordance with 10 United States Code (U.S.C.) 3204 (a)(1), as implemented by RFO 6.103-1(c)(2)(i) “Substantial duplication of cost to the Government that is not expected to be recovered through competition.” Interested firms may identify their interest and capability to respond to this requirement for consideration by the Government. This is NOT A REQUEST FOR COMPETITIVE PROPOSALS OR QUOTES and is not restricted to small and/or disadvantaged businesses. Information received within fifteen (15) days after date of publication of this synopsis will be considered by the Government in the performance of market research analysis intended to confirm the validity of the original contract’s sole source determination. A decision by the Government not to compete this proposed contract based upon responses to this notice is solely within the discretion of the Government. Instructions: Request that interested parties provide a written response to this RFI NLT 29 May 2026 to Ms. Lindsay Layne, email: lindsay.c.layne.civ@army.mil, and Felicia Dortch, email: felicia.r.dortch.civ@army.mil. Telephone inquiries will not be accepted or acknowledged, and no feedback or evaluations will be provided to companies regarding their submissions. Respondents are advised that the U.S. Government will not pay for any information or administrative costs incurred in response to this RFI; all costs associated with responding to this RFI will be solely at the interested party’s expense. Submissions can be through written correspondence and/or electronic mail. Responses should include, at a minimum: Name and address of the respondent’s company or organization; A Point of Contact within the respondent’s company or organization; A brief description of the product as it relates to the GMR’s primary and secondary capabilities defined herein and as it relates to the physical characteristics (space/size, weight, and power) of the proposed solution; A description of the level of qualification to Army air and ground platform requirements; A description of the product’s production maturity level; The estimated lead time from award of a production contract to delivery of a fully qualified product; Manufacturing capacity per month using a single 1-8-5 shift; A ROM production unit price for a quantity of 60 to 500 units per year, to include the identification of any known economic order quantities.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Lindsay Layne
+  - Email: lindsay.c.layne.civ@army.mil
+- Secondary Contact:
+  - Name: Felicia Dortch
+  - Email: felicia.r.dortch.civ@army.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d14ab699dc3f426ba1c0a8015ae18bd4/view)

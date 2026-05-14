@@ -1,0 +1,29 @@
+---
+layout: default
+title: Automated Media Preparation Instrument for Dissolution Testing
+agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: d0de35874432456e9b046fc3f98bc6e5
+---
+
+# Automated Media Preparation Instrument for Dissolution Testing
+
+- Agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-05-13 13:31:25.453-04
+- Solicitation Number: SSN_OC_2026_133856
+
+## Summary
+
+This requirement is being acquired as a brand-name-or-equal procurement. Equal products meeting all stated salient characteristics will be considered. The instrument shall be capable of delivering a minimum volume of 250ml and a maximum volume of at least 1000ml. The instrument shall have a dispensing accuracy of ±5mL or less. The instrument shall be equipped with in-line heating that is capable of heating dissolution media to at least 45°C. The instrument shall have a temperature accuracy of ±2°C or better. The instrument shall be capable of degassing media up to a maximum of 3.0ppm. The instrument shall be compatible with media containing up to a maximum of 2% surfactants. The instrument shall have an onboard controller and user interface to select stored programs and set parameters for manual use. The instrument shall be capable of storing programmed methods and running in automatic or manual mode when preparing dissolution media. The instrument shall be capable of storing dispensing reports that include the volume and temperature dispensed. The instrument shall be portable with a cart or other mechanism, included, to allow the instrument to be moved to each dissolution instrument for use. The instrument shall be equipped with a dispensing nozzle that allows for dissolution vessels to be filled in place, while on the dissolution apparatus. Electrical requirement must be compatible with a standard US outlet, 115V, 50 or 60 Hz. Safety Requirements The Contractor shall ensure all equipment complies with applicable laboratory safety standards and manufacturer safety requirements. All installation activities shall be performed in accordance with applicable safety regulations to prevent hazards to personnel and facilities. Trade and Service Specifications The instrument must be a newly manufactured unit, not used and refurbished or previously used for demonstration. FOB Point destination to include inside delivery and clean-up of area after installation. The entire system must be warranted for parts and labor for a minimum of 12 calendar months from the date of formal government acceptance. The vendor must also be capable of servicing the instrument through the covered warranty period. The system must include, at a minimum: coverage on all non-consumable items and parts supplied including base instrument, factory-certified replacement parts, engineer labor and travel costs. Any equipment repair and maintenance work shall be performed by an OEM-trained engineer. This factory-trained engineer shall have (verified by the OEM) the following: 1) access to OEM factory telephone support; 2) access to the most current OEM factory training for both hardware and software components; and 3) access to all current OEM factory parts, not build-to-order parts. The OEM-trained service engineer shall not use salvaged parts from other instruments for performing maintenance and repairs. All parts used in PM and repairs must be guaranteed, factory-tested, OEM quality parts. Instrument operators shall have access, for the duration of the 12-month warranty period, to a technical representative call center at no additional charge, for technical assistance and trouble-shooting, which is staffed by senior engineers to provide a high level of expertise for troubleshooting the instrument. Operator level training for 2 users at the delivery onsite location shall be provided at time of installation or shortly thereafter (within 30 days), such that operators are able to independently operate the instrument and included software to conduct routine analyses on the instrument. The Contractor shall provide installation by a trained and certified field service engineer who shall perform the necessary verification testing to demonstrate that the instrument meets the Original Equipment Manufacturer’s operational standards following installation. Consumables used for the installation shall be included. Records and Reports The Contractor shall, commensurate with the completion of each service call (inclusive of warranty service), provide the end-user of the equipment with a copy of a field service report/ticket identifying the equipment name, manufacturer, model number, and serial number of the equipment being serviced/repaired and detailing the reason for the service call, a detailed description of the work performed, the test instruments or other equipment used to affect the repair or otherwise perform the service, the name(s) and contact information of the technician who performed the repair/service, and for information purposes, the on-site hours expended and parts/components replaced. In addition, the Contractor shall provide monthly reports to the FDA Project Officer and Contract Specialist, not later that the 5th workday following the end of each month, summarizing all maintenance and repair activities (including warranty work) for the previous month (during months that work is performed).
+
+## Contacts
+
+- Primary Contact:
+  - Name: Reagan Davis
+  - Email: reagan.davis@fda.hhs.gov
+  - Phone: 3017960910
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d0de35874432456e9b046fc3f98bc6e5/view)

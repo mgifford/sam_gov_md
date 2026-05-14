@@ -1,0 +1,28 @@
+---
+layout: default
+title: Percutaneous Coronary Intervention (PCI) Intra - Aortic Balloon Pumps
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 0286cadd3ea440b49befcba73d9bbe80
+---
+
+# Percutaneous Coronary Intervention (PCI) Intra - Aortic Balloon Pumps
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-05-13 10:44:07.001-04
+- Solicitation Number: W81K0026QA153
+
+## Summary
+
+Percutaneous Coronary Intervention (PCI) / Two (2) Intra - Aortic Balloon Circulatory Assist Units. The Department of Cardiology at William Beaumont Army Medical Center (WBAMC) requires two Intra-Aortic Balloon Circulatory Assist Units to perform any cardiovascular procedure that requires a readily available mechanical support device. This equipment uses a balloon catheter placed in the aorta to improve heart function/flow and helps the heart pump more blood. WBAMC CATH LAB historically performs approximately 6 high-risk Percutaneous Coronary Intervention (PCI) cases at WBAMC per month that require a mechanical support device like the Intra-Aortic Balloon Pump (IABP). See attached solicitation. 1. ESSENTIAL CHARACTERISTICS: Seller must provide system that has been approved by the Food and Drug Administration (FDA) and must not have any unresolved FDA recalls. Seller shall provide the most current system. System must be portable stand-alone device. Application must be for adults use only. System mode of operation must have automatic and manual capabilities. System display must have high resolution, color touch screen monitor with screen size up to 14” with parameters readings for three trace, Electrocardiogram (ECG), arterial pressure, balloon pressure, trigger mode, operational mode, assisted and unassisted pressure values. System must have balloon volume adjustment with increments of 0.5cc. System must have timing adjustment increments of 1 second. System must have signal outputs of ECG, Arterial pressure, fluid filled transducer, fiberoptic sensor. System must have the capabilities of auto condensation removal without interruption. System must alarm notifications for trigger loss, vacuum pressure loss, balloon disconnect, balloon leak, balloon overinflate, systolic inflate, loading failure, high pressure, power loss, device malfunctions, low battery indicator and temporary alarm silencing by end-user. System must have multiple disposable and refillable helium cylinders System must have backup batteries capabilities. System must have print capabilities. System must maintain a history log of past 50 (minimum) to 100 (maximum) alarms. System must have a maximum pump rate of 200 beats per minute. Seller shall provide two copies of operator/user manual. Seller must be an authorized dealer, distributor, or reseller for the proposed system. Seller must provide a warranty for the system in accordance with Original Equipment Manufacturer (OEM). Seller must provide the initial Test, Measurement, and Diagnostic Equipment (TMDE) equipment to service the Intra-Aortic Balloon Circulatory Assist Units. 2. TRAINING: Onsite clinical staff training at William Beaumont Army Medical Center and morning and afternoon classes shall be conducted at the prescribed date and time. Upon completion of training, the contractor shall provide a signed attendance roster. The training required is proper IABP placement and monitoring, troubleshooting techniques, patient care specific to IABP use, and hands on practice with the IABP console. Onsite training for two clinical engineers. For offsite training, tuition only. 3. INSTALLATION: Seller shall contact the Healthcare Technology Management section at 915-569-1042 to arrange for installation of system five business days from award of contract. The installer shall be an authorized Original Equipment Manufacturer (OEM). Installer is responsible for the providing the tools, equipment, and material required to complete installation, removal and disposal of all trash and material in site identified disposal container. Post access: To gain post access employee/installer of company must provide signed memorandum on company letterhead as to their reason for required access with proper identification at the Chaffee Visitor Control Center, building 2616, 2527 Chaffee Rd., Ft. Bliss Texas 79916, Monday through Fridays (closed Federal Holidays) and Buffalo Soldier Visitor Control Center, Building 5400, Ft. Bliss, Texas 79916 on weekends. Hospital Access: Installers must check-in at the WBAMC Provost Marshall Office, building 18511 Highlander Medic St, El Paso, Texas 79906, 1st Floor, room HB1717, Monday through Friday 07:30 to 15:30 (closed Federal Holidays). Safety: Will be required to obtain safety brief from the WBAMC Safety Office. Must provide a copy of company safety program. 4. DELIVERY REQUIREMENTS: Delivery of equipment no later than 45 calendar days from award of contract. The seller shall ensure the package is appropriately marked with the contract number, delivery address, and contracting officer representative information—no partial delivery is authorized. Seller Shall notify contracting officer representative three business days before delivery to include providing tracking information. Delivery during business hours from 08:00 to 15:00 hours MST, Monday through Friday except Federal Holidays. Seller is responsible for providing proper tools and equipment for offloading and inside delivery to required location.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Elizabeth Orloski
+  - Email: elizabeth.a.orloski.civ@health.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0286cadd3ea440b49befcba73d9bbe80/view)
