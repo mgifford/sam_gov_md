@@ -1,0 +1,33 @@
+---
+layout: default
+title: REPLACE 2 HVAC UNITS AND 3 THERMOSTATS AT USCG STATION NEW HAVEN, NEW HAVEN, CT 06512-3628
+agency: HOMELAND SECURITY, DEPARTMENT OF
+notice_type: Combined Synopsis/Solicitation
+notice_id: 1a53e4b424504460b0f6adb3d89f4f92
+---
+
+# REPLACE 2 HVAC UNITS AND 3 THERMOSTATS AT USCG STATION NEW HAVEN, NEW HAVEN, CT 06512-3628
+
+- Agency: HOMELAND SECURITY, DEPARTMENT OF
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-05-14 09:54:59.962-04
+- Solicitation Number: HVACSTANEWHAVEN
+
+## Summary
+
+CONTRACTOR SHALL PROVIDE ALL LABOR, MATERIALS, EQUIPMENT, REFRIGERANTS, ELECTRICAL COMPONENTS, CONTROLS, SUPERVISION, TRANSPORTATION, TOOLS, PERMITS AND INCIDENTALS NECESSARY TO COMPLETE THE REPLACEMENT OF 2 HVAC UNITS AND THREE THERMOSTATS AT USCG STATION NEW HAVEN, NEW HAVEN, CT 06512-3628 PER THE ATTACHED STATEMENT OF WORK.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Beverly A Primm
+  - Email: beverly.a.primm@uscg.mil
+  - Phone: 5716100476
+- Secondary Contact:
+  - Name: Christopher Sleeper
+  - Email: Christopher.L.Sleeper2@uscg.mil
+  - Phone: 5716077253
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1a53e4b424504460b0f6adb3d89f4f92/view)

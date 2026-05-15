@@ -1,0 +1,34 @@
+---
+layout: default
+title: VAARNG Meals for Crane, Indiana June 2026
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 1598be87f2464c4696fc41b3d3147a6b
+---
+
+# VAARNG Meals for Crane, Indiana June 2026
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-05-14 14:30:13.488-04
+- Solicitation Number: W912LQ-26-Q-A027
+
+## Summary
+
+GENERAL INFORMATION: This is a Request for Quote (RFQ) solicitation for commercial products or commercial services prepared in accordance with the format in RFO FAR 5.101(b)(i & iv), as supplemented with additional information included in this notice. This announcement constitutes only solicitation; quotes are being requested. The Government will award a firm-fixed-price contract resulting from this solicitation number W912LQ-26-Q-A027. The associated North American Industrial Classification System (NAICS) code for this procurement is 722320 (Caterers), with a business size standard of $47,000,000.00. The Product Service Code (PSC) is 8945 (Foods, Oils and Fats). This requirement is a unrestrictive requirement, and only qualified offerors may submit quotes. This solicitation document and incorporated provisions and clauses are those in effect through Federal Acquisition Circular (FAC). The Government will not pay for costs associated with the preparation of a quote in response to this solicitation. Payment will be made through the Wide Area Workflow (WAWF) application in accordance with DFARS clause 252.232-7006, Wide Area Workflow Payment Instructions. Interested vendors agree to hold the prices in their proposals firm for 30 calendar days from the date specified for the closing of this RFP. To be considered for an award, vendors shall have an active registration in the System for Award Management (SAM) at https://sam.gov. Vendors are responsible for ensuring that the representations and certifications in their SAM registration are accurate and current. The Contracting Officer intends to evaluate quotes and make an award without discussions. The Contracting Officer unilaterally reserves the right to determine if it is necessary to conduct discussions. NG Agency Protest Program is intended to encourage interested parties to seek resolution of their concerns with the National Guard (NG) as an Alternative Dispute Resolution forum rather than filing a protest with the Government Accountability Office (GAO) or other external forum. Contract award or performance is suspended during the protest to the same extent and within the same time periods as if filed at the GAO. The NG protest decision goal is to resolve protests within 35 calendar days from filing. An agency protest may be filed with either the Contracting Officer or the NG Agency’s Protest Decision Authority, but not both in accordance with NG protest procedures. To be timely, the protests must be filed within the periods specified in FAR 33.103. To file a protest under the NG Agency Protest Program, the protest must request resolution under that program and be sent to the address below: National Guard Bureau Office of the Director of Acquisitions/ Head of Contracting Activity ATTN: NGB-AQ-O 111 S. George Mason Dr. Arlington, VA 22204 Email: ng.ncr.ngb-arng.mbx.ngb-task-order-ombudsman@army.mil All other agency-level protests should be sent to the Contracting Officer, Mr. Wesley Spencer (david.a.pickard.civ@army.mil), at 6090 Strathmore Rd., WH15, Bay H, Richmond, VA 23297. COMMUNICATION WITH THE GOVERNMENT: Questions: shall be submitted to David A> Pickard at david.a.pickard.civ@army.mil only on May 19, 2026, no later than 11:00 am EDT. All questions beyond that date and time may not be answered and no phone calls shall be accepted. BASIS FOR AWARD: The government intends to award, to the responsive, responsible vendor whose proposal is the lowest priced and meets the requirements as stated in the Performance Work Statement for the items requested. An example 7-day menu is required to be submitted with the RFP to determine if the vendor understands the PWS requirement for every soldier for breakfast and Lunch daily. Without it your quote Shall be considered UNRESPONSIVE. ADMINISTRATION INFORMATION: Contracting Officer/Specialist: David A. Pickard – david.a.pickard.civ@army.mil ADDENDUM to 52.212-1, Instructions to Offerors – Commercial Items (MAR 2023) Addendum to FAR 52.212-1(b), Submission of offers. The offeror shall submit an electronic copy of their dated quote via e-mail to: david.a.pickard.civ@army.mil with the solicitation number W912LQ-26-Q-A027 in the subject block by May 22, 2026, no later than 11:00 AM EDT. Facsimile quotes will not be accepted. Offerors who do not provide all the required information with their quotes may be deemed NON-RESPONSIVE for further consideration for the solicitation and award. In addition to the items required by 52.212-1(b), the offeror shall complete and provide the following with their submission: RETURN THE FOLOWING WHEN SUMITTING YOUR PROPOSAL: Information Sheet (Attachment 1) Pricing: Vendors must complete the pricing for all CLINs listed on the Solicitation (Request for Quotes): Provide an example 7-day menu for breakfast and dinner items catered to all soldiers that will be served daily to show you meet the solicited requirement. Must have this or quote shall be considered UNRESPONSIVE. ATTACHMENTS: Performance Work Statement (PWS) Solicitation Information Sheet (Attachment 1) Pricing Sheet
+
+## Contacts
+
+- Primary Contact:
+  - Name: David A. Pickard
+  - Email: david.a.pickard.civ@army.mil
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: Pricing: Vendors must complete the pricing for all CLINs listed on the Solicitation (Request for Quotes): Provide an example 7-day menu for breakfast and dinner items catered to all soldiers that will be served daily to show you meet the solicited requirement. Must have this or quote shall be considered UNRESPONSIVE. ATTACHMENTS: Performance Work Statement (PWS) Solicitation Information Sheet (Attachment 1) Pricing Sheet
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1598be87f2464c4696fc41b3d3147a6b/view)
