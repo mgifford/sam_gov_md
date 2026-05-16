@@ -1,0 +1,29 @@
+---
+layout: default
+title: Arborist Directed Tree Trimming Project
+agency: TRANSPORTATION, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: aa75c87011084270bad30a2e8dc24904
+---
+
+# Arborist Directed Tree Trimming Project
+
+- Agency: TRANSPORTATION, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-05-15 17:09:14.012-04
+- Solicitation Number: 697DCK-26-R-00243
+
+## Summary
+
+This Market Survey is for information only, to be used for preliminary planning purposes only. ALL QUESTIONS MUST BE SUBMITTED IN WRITING, NO PHONE CALLS PLEASE. The Federal Aviation Administration is conducting a Market Survey/Request for Information to gain understanding of the current marketplace and to identify responsible, capable sources. Responses to this Market Survey will be used to determine if there is adequate competition to set this requirement aside for Small Businesses. This survey is being conducted in accordance with FAA Acquisition Management System (AMS) Section 3.2.1.2.1 for the purpose of soliciting statements of interest and capabilities from interested vendors. This survey will be utilized for acquisition planning, as well as to determine if there are any responsible small businesses capable of performing this project. This Market Survey is for an Arborist Directed Tree Trimming Project located on the property of the Justin P. Wilson Cumberland Trail State Park (3405 Owl Roost Rd, Crab Orchard, TN 37723). All responses to this market survey will be used for informational purposes only. This is not a screening information request or request for proposal of any kind. The Federal Aviation Administration (FAA) is not seeking or accepting unsolicited proposals at this time. Presently, the nature of the competition has not been determined. Upon solicitation the FAA may decide to do a full and open competition or set aside all or part of the procurement for small businesses. The anticipated timeline for this Requirement is projected for contract award in Summer 2026, with affected trees being marked within 30 days of the issuance of Notice to Proceed and trimming and removal of identified trees between the timeframe of October 2026 and March 2027 (see attached Statement of Work for further details). All interested vendors are advised that the FAA will not pay for any information, or any administrative costs incurred that are associated with any response received in response to this Market Survey. Therefore, any costs associated with Market Survey submissions will be solely at the interested vendor's expense. The FAA is seeking responsible contractors interested in providing the required Services for the Arborist Directed Tree Trimming Project. Project Description: The Contractor will provide all Services under the supervision of a licensed Arborist provided by its own firm, ensuring compliance with local, state, and federal environmental regulations related to tree trimming and debris disposal. The task requires the removal of trees and limbs on the Justin P. Wilson Cumberland Trail State Park property that are obstructing the line of sight for L3Harris Technology's Microwave data path. The anticipated clearance path may be up to but not exceed 1,000 feet. The estimated Cost Magnitude for this Requirement is less than $50,000. The applicable North American Industry Classification System (NAICS) code is 484210. This market survey will serve as a market analysis to assist the FAA in determining which procurement method to use. The failure to obtain adequate responses from responsible small businesses may result in the determination to conduct this procurement action under full and open competition. Responses to this Market Survey should demonstrate the firm’s ability, capability, and responsibility to provide and deliver the products listed in this announcement. Response submittals must include the following information: A) Name of company B) Address C) Phone and Fax number D) Point of contact E) Email address F) Business size status: Small Business, SDVOSB, VSB, WOSB, etc. G) Verification of registration in the System for Award Management (SAM)/CAGE Code and UEI H) A written Statement of Capability limited up to 3 pages (Note: Offeror must demonstrate its ability to provide all items listed in the Statement of Work (SOW)). I) Copies of certification letters from all responding small businesses, that have been certified by the Small Business Administration (SBA), if applicable. J) Supplemental Information Sheet (attached) K) Any other pertinent information. Information on pricing is NOT required. However, if vendors submit General information on prices/costs or a commercial/catalog price list, the FAA may use the information for informational purposes only and is NOT binding in any way. Note if you are viewing this announcement from other than the FAA's contract opportunities website, attachments may not transfer correctly. This Posting is best viewed at FAA Contract Opportunities thru the SAM website; therefore, please visit www.SAM.gov. All responses to this Market Survey must be received by 22 May 2026 @ 5:00 PM EDT. All submissions must be submitted via email to my attention at regina.singleton@faa.gov; however, the FAA will not be responsible for any failure attributable to transmitting or receiving the Submittal. Please refer all questions in “writing” only to regina.singleton@faa.gov.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Regina Singleton
+  - Email: regina.singleton@faa.gov
+  - Phone: 4043055790
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/aa75c87011084270bad30a2e8dc24904/view)

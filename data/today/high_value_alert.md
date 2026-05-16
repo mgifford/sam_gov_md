@@ -1,210 +1,371 @@
 # High-value SAM.gov Matches
 
-- Effective date: 2026-05-14
-- Requested date: 2026-05-15
-- Candidate records: 1917
-- High-value matches: 22
+- Effective date: 2026-05-15
+- Requested date: 2026-05-16
+- Candidate records: 1130
+- High-value matches: 25
 - Threshold: total term hits >= 8 and includes one focus term
 
-## DA01--Software maintenance and support for MyPath® tools in support of VA Puget Sound Healthcare System, Seattle, WA
+## Chemoinformatic Platform
 
-- Department: VETERANS AFFAIRS, DEPARTMENT OF
+- Department: DEPT OF DEFENSE
 - Type: Sources Sought
-- PostedDate: 2026-05-14 18:26:55.055-04
-- NAICS: 541511
-- Total term hits: 36
-- Link: https://sam.gov/workspace/contract/opp/65c654104c4d49faa29b2f00c7efdcc8/view
-- Top terms: web(12), software(9), hosting(6), analytics(6), modernization(2), nist(1)
+- PostedDate: 2026-05-15 14:20:52.606-04
+- NAICS: 513210
+- Total term hits: 26
+- Link: https://sam.gov/workspace/contract/opp/e259305563d9409da556d935a4d20fc2/view
+- Top terms: platform(17), software(5), web(4)
 
 ### Market Intelligence (USASpending)
 
-- Agency contracts (3yr, NAICS 541511): 620
-- Gov-wide top vendors: General Dynamics Information Techno ($1,129,672,818); Booz Allen Hamilton Inc ($1,077,699,060); Lockheed Martin Corporation ($483,955,585); International Business Machines Cor ($358,995,372); International Business Machines Cor ($315,534,822)
-- Agency top vendors: Quantum Management, Llc ($168,002,676); Maveris Llc ($164,467,801); Booz Allen Hamilton Inc ($112,105,014); International Business Machines Cor ($82,048,901); International Business Machines Cor ($80,140,094)
+- Agency contracts (3yr, NAICS 513210): 3,859
+- Gov-wide top vendors: Palantir Usg Inc ($402,127,049); Carahsoft Technology Corp ($219,926,739); Dell Federal Systems L.P ($209,155,831); Palantir Technologies Inc. ($162,283,538); Ca, Inc. ($40,714,063)
+- Agency top vendors: Palantir Usg Inc ($371,390,030); Carahsoft Technology Corp ($212,137,595); Dell Federal Systems L.P ($95,170,690); Ca, Inc. ($40,714,063); Copper River Data Solutions, Llc ($38,868,931)
 
-## 84--LINERS,SOCKS
-
-- Department: DEPT OF DEFENSE
-- Type: Combined Synopsis/Solicitation
-- PostedDate: 2026-05-14 12:37:32.848-04
-- NAICS: 315120
-- Total term hits: 30
-- Link: https://sam.gov/workspace/contract/opp/026825851aeb4c45b819fb63ce29e460/view
-- Top terms: ui(30)
-
-### Market Intelligence (USASpending)
-
-- Agency contracts (3yr, NAICS 315120): 306
-- Gov-wide top vendors: Southeastern Kentucky Rehabilitatio ($12,453,305); Graham Dyeing & Finishing Inc ($9,469,395); Puerto Rico Industries For The Blin ($8,265,248); Frm Socks Llc ($6,385,089); Goodwill Industries Of South Florid ($4,443,793)
-- Agency top vendors: Southeastern Kentucky Rehabilitatio ($12,453,305); Graham Dyeing & Finishing Inc ($9,469,395); Puerto Rico Industries For The Blin ($8,265,248); Frm Socks Llc ($6,385,089); Goodwill Industries Of South Florid ($4,443,793)
-
-## AMPOULE,DISSOLVED O
+## TAPE,DUCT
 
 - Department: DEPT OF DEFENSE
 - Type: Solicitation
-- PostedDate: 2026-05-14 04:15:04.228-04
-- NAICS: 325199
-- Total term hits: 17
-- Link: https://sam.gov/workspace/contract/opp/c66e59cfe2c242f29a86bdcc067d6743/view
-- Top terms: web(12), business_intelligence(2), software(1), application(1), cybersecurity(1)
-
-### Market Intelligence (USASpending)
-
-- Agency contracts (3yr, NAICS 325199): 412
-- Gov-wide top vendors: Maryland Chemical Company, Inc. ($4,504,415); Lyten, Inc. ($4,325,007); Chemicals Incorporated ($3,928,400); City Chemical Llc ($3,344,286); Monument Chemical Houston Llc ($2,892,250)
-- Agency top vendors: Maryland Chemical Company, Inc. ($4,504,415); Lyten, Inc. ($4,325,007); Chemicals Incorporated ($3,928,400); City Chemical Llc ($3,344,286); Monument Chemical Houston Llc ($2,892,250)
-
-## AMPOULE,DISSOLVED O
-
-- Department: DEPT OF DEFENSE
-- Type: Solicitation
-- PostedDate: 2026-05-14 03:23:22.263-04
-- NAICS: 325199
-- Total term hits: 17
-- Link: https://sam.gov/workspace/contract/opp/b91fd2c1041e400a976b17da18b4fd56/view
-- Top terms: web(12), business_intelligence(2), software(1), application(1), cybersecurity(1)
-
-### Market Intelligence (USASpending)
-
-- Agency contracts (3yr, NAICS 325199): 412
-- Gov-wide top vendors: Maryland Chemical Company, Inc. ($4,504,415); Lyten, Inc. ($4,325,007); Chemicals Incorporated ($3,928,400); City Chemical Llc ($3,344,286); Monument Chemical Houston Llc ($2,892,250)
-- Agency top vendors: Maryland Chemical Company, Inc. ($4,504,415); Lyten, Inc. ($4,325,007); Chemicals Incorporated ($3,928,400); City Chemical Llc ($3,344,286); Monument Chemical Houston Llc ($2,892,250)
-
-## 68--POTASSIUM TETRABORA
-
-- Department: DEPT OF DEFENSE
-- Type: Solicitation
-- PostedDate: 2026-05-14 03:43:41.728-04
-- NAICS: 325199
+- PostedDate: 2026-05-15 04:21:33.88-04
+- NAICS: 314999
 - Total term hits: 16
-- Link: https://sam.gov/workspace/contract/opp/d6f723f3946f4982a4754f451080a41b/view
+- Link: https://sam.gov/workspace/contract/opp/50bff55bf5914d81987e8570579a4353/view
 - Top terms: web(10), application(2), business_intelligence(2), software(1), cybersecurity(1)
 
 ### Market Intelligence (USASpending)
 
-- Agency contracts (3yr, NAICS 325199): 412
-- Gov-wide top vendors: Maryland Chemical Company, Inc. ($4,504,415); Lyten, Inc. ($4,325,007); Chemicals Incorporated ($3,928,400); City Chemical Llc ($3,344,286); Monument Chemical Houston Llc ($2,892,250)
-- Agency top vendors: Maryland Chemical Company, Inc. ($4,504,415); Lyten, Inc. ($4,325,007); Chemicals Incorporated ($3,928,400); City Chemical Llc ($3,344,286); Monument Chemical Houston Llc ($2,892,250)
+- Agency contracts (3yr, NAICS 314999): 5,820
+- Gov-wide top vendors: Rtx Corporation ($169,643,057); Airborne Systems North America Of C ($66,471,606); Avon Protection Ceradyne Llc ($47,342,993); Mills Manufacturing Corporation ($36,918,175); Butler Parachute Systems, Inc ($36,464,759)
+- Agency top vendors: Rtx Corporation ($169,643,057); Airborne Systems North America Of C ($66,471,606); Avon Protection Ceradyne Llc ($47,342,993); Mills Manufacturing Corporation ($36,918,175); Butler Parachute Systems, Inc ($36,370,803)
 
-## REQUEST FOR INFORMATION (RFI) - Tax Software Acquisition and Support
+## DSCC - Elevator Service and Maintenance
 
-- Department: TREASURY, DEPARTMENT OF THE
-- Type: Special Notice
-- PostedDate: 2026-05-14 16:54:44.041-04
-- NAICS: 513210
+- Department: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- PostedDate: 2026-05-15 16:23:34.38-04
+- NAICS: 238290
 - Total term hits: 15
-- Link: https://sam.gov/workspace/contract/opp/cbca3f5715314e88a9bf090b498c1d5c/view
-- Top terms: software(7), accessibility(3), api(1), fisma(1), nist(1), cybersecurity(1)
+- Link: https://sam.gov/workspace/contract/opp/eb3e36a4dc5a4d7fb6a74340ee8f63a3/view
+- Top terms: web(9), application(4), nist(1), cybersecurity(1)
 
 ### Market Intelligence (USASpending)
 
-- Agency contracts (3yr, NAICS 513210): 93
-- Gov-wide top vendors: Palantir Usg Inc ($402,127,049); Carahsoft Technology Corp ($219,926,739); Dell Federal Systems L.P ($209,155,831); Palantir Technologies Inc. ($162,283,538); Ca, Inc. ($40,714,063)
-- Agency top vendors: Palantir Technologies Inc. ($47,152,176); Fedtribe Llc ($10,645,129); Alphasix, Llc. ($6,458,562); Chenega Government Mission Solution ($4,615,385); Chenega Mission Products, Llc ($4,615,385)
+- Agency contracts (3yr, NAICS 238290): 1,054
+- Gov-wide top vendors: Cianbro Corporation ($80,992,091); Elevated Technologies, Inc ($54,810,208); Tk Elevator Corporation ($38,641,093); Armstrong Elevator Company ($22,334,546); Kone Inc ($20,320,115)
+- Agency top vendors: Cianbro Corporation ($80,992,091); Rhoads Industries, Inc. ($16,185,294); A&E Elevator Ii Llc ($10,605,234); Washington Equipment Manufacturing  ($10,464,000); Atlantic Blueridge Elevator Company ($7,136,532)
 
-## Materials Marketing and E-Ordering Software System
-
-- Department: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
-- Type: Sources Sought
-- PostedDate: 2026-05-14 16:19:35.239-04
-- NAICS: 513210
-- Total term hits: 15
-- Link: https://sam.gov/workspace/contract/opp/dd1aed7beb854411a4e7278e6dff0eab/view
-- Top terms: software(11), web(3), platform(1)
-
-### Market Intelligence (USASpending)
-
-- Agency contracts (3yr, NAICS 513210): 639
-- Gov-wide top vendors: Palantir Usg Inc ($402,127,049); Carahsoft Technology Corp ($219,926,739); Dell Federal Systems L.P ($209,155,831); Palantir Technologies Inc. ($162,283,538); Ca, Inc. ($40,714,063)
-- Agency top vendors: Palantir Technologies Inc. ($61,666,378); Cotiviti Gov Services, Llc ($4,730,928); Truveta Inc ($3,859,992); Lorenz International Llc ($3,150,055); Revvity Signals Software, Inc. ($2,613,342)
-
-## SOLICITATION NOTICE - FY26 Alexandria Bay Detainee Shower
-
-- Department: GENERAL SERVICES ADMINISTRATION
-- Type: Solicitation
-- PostedDate: 2026-05-14 13:03:20.833-04
-- NAICS: 236220
-- Total term hits: 14
-- Link: https://sam.gov/workspace/contract/opp/3be795acb3bd41e0bc7af965fd024122/view
-- Top terms: web(14)
-
-### Market Intelligence (USASpending)
-
-- Agency contracts (3yr, NAICS 236220): 4,046
-- Gov-wide top vendors: Bccg A Joint Venture ($3,414,137,891); Clark Construction Group Llc ($2,130,861,590); Bl Harbert International Llc ($1,731,497,364); Caddell Construction Co. (De), Llc ($1,192,739,360); Whiting-Turner Contracting Company, ($1,107,985,827)
-- Agency top vendors: Hensel Phelps Construction Co. ($541,733,038); Clark Construction Group Llc ($538,647,894); Brasfield & Gorrie Llc ($315,214,966); Mcgough Construction Co., Llc ($93,573,903); J. E. Dunn Construction Company ($88,612,492)
-
-## Request for Information (RFI) for GEOINT AI/ML Algorithm Orchestration Framework
+## Sources Sought for Commercial RFID Asset Tracking System with DHA Authority to Operate (ATO) and proven DMLSS Interface capabilities
 
 - Department: DEPT OF DEFENSE
 - Type: Sources Sought
-- PostedDate: 2026-05-14 09:47:04.588-04
-- NAICS: 541511
-- Total term hits: 14
-- Link: https://sam.gov/workspace/contract/opp/96434b9c3d1848ab83b7bc47c2d313f9/view
-- Top terms: application(3), cloud(3), software(2), hosting(2), web(1), api(1)
+- PostedDate: 2026-05-15 06:43:09.776-04
+- NAICS: 541519
+- Total term hits: 15
+- Link: https://sam.gov/workspace/contract/opp/f30ba4c6bfde4de8aac0eed77eded09c/view
+- Top terms: ato(8), software(6), business_intelligence(1)
 
 ### Market Intelligence (USASpending)
 
-- Agency contracts (3yr, NAICS 541511): 3,578
-- Gov-wide top vendors: General Dynamics Information Techno ($1,129,672,818); Booz Allen Hamilton Inc ($1,077,699,060); Lockheed Martin Corporation ($483,955,585); International Business Machines Cor ($358,995,372); International Business Machines Cor ($315,534,822)
-- Agency top vendors: Lockheed Martin Corporation ($483,955,585); Securigence Llc ($315,525,077); Lockheed Martin Corporation ($254,307,685); Booz Allen Hamilton Inc ($195,955,217); Accenture Federal Services Llc ($192,209,820)
+- Agency contracts (3yr, NAICS 541519): 31,439
+- Gov-wide top vendors: Fcn, Inc. ($1,998,546,748); Four Points Technology, L.L.C. ($1,681,941,813); Thundercat Technology, Llc ($1,648,160,947); V3Gate, Llc ($1,375,488,267); Minburn Technology Group, Llc ($1,314,827,126)
+- Agency top vendors: Fcn, Inc. ($583,214,095); World Wide Technology Llc ($564,826,527); Iron Bow Technologies, Llc ($491,953,882); General Dynamics Information Techno ($473,586,419); New Tech Solutions, Inc. ($460,509,257)
 
-## 59--RACK, KVM TRAY ASSY
+## 3-TON LEVER HOIST
 
 - Department: DEPT OF DEFENSE
 - Type: Solicitation
-- PostedDate: 2026-05-14 03:13:33.429-04
-- NAICS: 334412
+- PostedDate: 2026-05-15 03:28:11.207-04
+- NAICS: 333612
+- Total term hits: 14
+- Link: https://sam.gov/workspace/contract/opp/3ed496024ae84b1886d75b7082c724a8/view
+- Top terms: web(8), application(2), business_intelligence(2), software(1), cybersecurity(1)
+
+### Market Intelligence (USASpending)
+
+- Agency contracts (3yr, NAICS 333612): 3,293
+- Gov-wide top vendors: Kampi Components Co Inc ($5,191,734); Integrated Procurement Technologies ($4,711,207); Loc Performance Products Llc ($4,205,528); Pioneer Industries, Llc ($3,731,349); Triman Industries Inc ($2,991,299)
+- Agency top vendors: Kampi Components Co Inc ($5,191,734); Integrated Procurement Technologies ($4,711,207); Loc Performance Products Llc ($4,205,528); Pioneer Industries, Llc ($3,731,349); Triman Industries Inc ($2,991,299)
+
+## 3-TON LEVER HOIST
+
+- Department: DEPT OF DEFENSE
+- Type: Solicitation
+- PostedDate: 2026-05-15 03:28:10.705-04
+- NAICS: 333612
+- Total term hits: 14
+- Link: https://sam.gov/workspace/contract/opp/ab3b24ff84d94d12bf3bc0b98fa50952/view
+- Top terms: web(8), application(2), business_intelligence(2), software(1), cybersecurity(1)
+
+### Market Intelligence (USASpending)
+
+- Agency contracts (3yr, NAICS 333612): 3,293
+- Gov-wide top vendors: Kampi Components Co Inc ($5,191,734); Integrated Procurement Technologies ($4,711,207); Loc Performance Products Llc ($4,205,528); Pioneer Industries, Llc ($3,731,349); Triman Industries Inc ($2,991,299)
+- Agency top vendors: Kampi Components Co Inc ($5,191,734); Integrated Procurement Technologies ($4,711,207); Loc Performance Products Llc ($4,205,528); Pioneer Industries, Llc ($3,731,349); Triman Industries Inc ($2,991,299)
+
+## New Enclosed Boat Dock at Eufaula Lake, OK
+
+- Department: DEPT OF DEFENSE
+- Type: Award Notice
+- PostedDate: 2026-05-15 11:17:51.488-04
+- NAICS: 237990
+- Total term hits: 13
+- Link: https://sam.gov/workspace/contract/opp/09c46d6d48834489b1620f9b95fa9858/view
+- Top terms: web(8), nist(5)
+
+### Market Intelligence (USASpending)
+
+- Agency contracts (3yr, NAICS 237990): 2,646
+- Gov-wide top vendors: Dragados/Hawaiian Dredging/Orion Jv ($2,258,362,768); Great Lakes Dredge & Dock Co, Llc ($972,662,413); 381 Constructors ($824,056,085); Trumbull Corporation And Brayman Co ($813,152,290); Manson Construction Co ($703,393,739)
+- Agency top vendors: Dragados/Hawaiian Dredging/Orion Jv ($2,258,362,768); Great Lakes Dredge & Dock Co, Llc ($972,662,413); 381 Constructors ($824,056,085); Trumbull Corporation And Brayman Co ($813,152,290); Manson Construction Co ($696,150,259)
+
+## SWITCH CONNECTOR AY
+
+- Department: DEPT OF DEFENSE
+- Type: Solicitation
+- PostedDate: 2026-05-15 04:31:05.14-04
+- NAICS: 334417
 - Total term hits: 12
-- Link: https://sam.gov/workspace/contract/opp/abcc9176929140a88833f4b50b7fe4de/view
+- Link: https://sam.gov/workspace/contract/opp/8b57e72c13e14ffbb27dd241d0fd1566/view
 - Top terms: web(6), application(2), business_intelligence(2), software(1), cybersecurity(1)
 
 ### Market Intelligence (USASpending)
 
-- Agency contracts (3yr, NAICS 334412): 5,523
-- Gov-wide top vendors: Drs Network & Imaging Systems Llc ($360,445,666); Fairwinds Technologies Llc ($129,465,025); Raytheon Company ($57,436,481); Northrop Grumman Systems Corporatio ($49,374,505); Supplycore Llc ($30,991,896)
-- Agency top vendors: Drs Network & Imaging Systems Llc ($360,445,666); Fairwinds Technologies Llc ($129,465,025); Raytheon Company ($57,436,481); Northrop Grumman Systems Corporatio ($49,374,505); Supplycore Llc ($30,991,896)
+- Agency contracts (3yr, NAICS 334417): 17,394
+- Gov-wide top vendors: Northrop Grumman Systems Corporatio ($18,020,809); Laguna Components, Inc. ($9,156,215); Mercury Mission Systems Llc ($8,930,186); Teledyne Instruments Inc ($8,257,211); Jbl System Solutions Llc ($7,415,172)
+- Agency top vendors: Northrop Grumman Systems Corporatio ($18,020,809); Laguna Components, Inc. ($9,156,215); Mercury Mission Systems Llc ($8,930,186); Teledyne Instruments Inc ($8,257,211); Jbl System Solutions Llc ($7,415,172)
 
-## Renewal of SirsiDynix EOS.Web Enterprise Subscription
-
-- Department: COMMODITY FUTURES TRADING COMMISSION
-- Type: Presolicitation
-- PostedDate: 2026-05-14 10:38:46.011-04
-- NAICS: 513210
-- Total term hits: 11
-- Link: https://sam.gov/workspace/contract/opp/918be2f443054c58a25cc53a39868c2f/view
-- Top terms: web(5), software(1), platform(1), cloud(1), hosting(1), analytics(1)
-
-### Market Intelligence (USASpending)
-
-- Agency contracts (3yr, NAICS 513210): 8,025
-- Gov-wide top vendors: Palantir Usg Inc ($402,127,049); Carahsoft Technology Corp ($219,926,739); Dell Federal Systems L.P ($209,155,831); Palantir Technologies Inc. ($162,283,538); Ca, Inc. ($40,714,063)
-
-## NUT,PLAIN,CAP
+## SPRING, BELLEVILLE
 
 - Department: DEPT OF DEFENSE
 - Type: Solicitation
-- PostedDate: 2026-05-14 09:36:29.045-04
-- NAICS: 332722
-- Total term hits: 10
-- Link: https://sam.gov/workspace/contract/opp/5d3701cac6574d8087b13edd27fc58df/view
-- Top terms: application(6), software(2), web(2)
+- PostedDate: 2026-05-15 04:14:32.277-04
+- NAICS: 332613
+- Total term hits: 12
+- Link: https://sam.gov/workspace/contract/opp/51fccc0f47c64d5daf3f49026f63adeb/view
+- Top terms: web(6), application(2), business_intelligence(2), software(1), cybersecurity(1)
 
 ### Market Intelligence (USASpending)
 
-- Agency contracts (3yr, NAICS 332722): 253,475
+- Agency contracts (3yr, NAICS 332613): 4,532
+- Gov-wide top vendors: Peck & Hale, Llc ($3,888,761); Coiling Technologies, Inc. ($1,369,399); Leslie Controls, Inc. ($1,091,649); Argo Spring Manufacturing Co., Inc. ($858,027); Jamaica Bearings Co., Inc. ($836,755)
+- Agency top vendors: Peck & Hale, Llc ($3,888,761); Coiling Technologies, Inc. ($1,369,399); Leslie Controls, Inc. ($1,091,649); Argo Spring Manufacturing Co., Inc. ($858,027); Jamaica Bearings Co., Inc. ($836,755)
+
+## ISOLATION RUBBER
+
+- Department: DEPT OF DEFENSE
+- Type: Solicitation
+- PostedDate: 2026-05-15 04:04:47.847-04
+- NAICS: 335932
+- Total term hits: 12
+- Link: https://sam.gov/workspace/contract/opp/1e303a28af41440a84fbe768ba5a3542/view
+- Top terms: web(6), application(2), business_intelligence(2), software(1), cybersecurity(1)
+
+### Market Intelligence (USASpending)
+
+- Agency contracts (3yr, NAICS 335932): 7,556
+- Gov-wide top vendors: Drs Network & Imaging Systems Llc ($8,336,664); Pts Expeditionary Communications, I ($2,603,602); Triman Industries Inc ($1,248,708); Aircraft & Commercial Enterprises,  ($1,178,302); Jo-Kell Inc. ($1,114,004)
+- Agency top vendors: Drs Network & Imaging Systems Llc ($8,336,664); Pts Expeditionary Communications, I ($2,603,602); Triman Industries Inc ($1,248,708); Aircraft & Commercial Enterprises,  ($1,178,302); Jo-Kell Inc. ($1,114,004)
+
+## PHOTO SENSOR, WB
+
+- Department: DEPT OF DEFENSE
+- Type: Solicitation
+- PostedDate: 2026-05-15 03:57:20.758-04
+- NAICS: 334220
+- Total term hits: 12
+- Link: https://sam.gov/workspace/contract/opp/ad0f3aa0a90440c2bd2176f36663492d/view
+- Top terms: web(6), application(2), business_intelligence(2), software(1), cybersecurity(1)
+
+### Market Intelligence (USASpending)
+
+- Agency contracts (3yr, NAICS 334220): 9,707
+- Gov-wide top vendors: L3Harris Technologies, Inc. ($1,722,147,359); The Boeing Company ($1,153,340,622); Rockwell Collins, Inc. ($851,274,424); Raytheon Company ($521,964,741); L3 Technologies, Inc. ($294,607,131)
+- Agency top vendors: L3Harris Technologies, Inc. ($1,721,168,063); The Boeing Company ($1,153,340,622); Rockwell Collins, Inc. ($851,163,621); Raytheon Company ($521,964,741); Thales Defense & Security Inc ($229,924,029)
+
+## FILTER ASSEMBLY,FLU
+
+- Department: DEPT OF DEFENSE
+- Type: Solicitation
+- PostedDate: 2026-05-15 03:54:56.212-04
+- NAICS: 333998
+- Total term hits: 12
+- Link: https://sam.gov/workspace/contract/opp/4ac9d15f137e4604bc7e08c1625bbd7a/view
+- Top terms: web(6), application(2), business_intelligence(2), software(1), cybersecurity(1)
+
+### Market Intelligence (USASpending)
+
+- Agency contracts (3yr, NAICS 333998): 16,509
+- Gov-wide top vendors: Raytheon Company ($43,987,381); Asrc Federal Facilities Logistics,  ($29,558,318); Supplycore Llc ($27,364,707); Asrc Federal Facilities Logistics L ($26,224,751); Evac North America Inc ($23,171,870)
+- Agency top vendors: Raytheon Company ($43,987,381); Asrc Federal Facilities Logistics,  ($29,558,318); Supplycore Llc ($27,364,707); Asrc Federal Facilities Logistics L ($26,224,751); Evac North America Inc ($23,122,270)
+
+## 1M KNO3 FILL SOLN
+
+- Department: DEPT OF DEFENSE
+- Type: Solicitation
+- PostedDate: 2026-05-15 03:50:02.807-04
+- NAICS: 339113
+- Total term hits: 12
+- Link: https://sam.gov/workspace/contract/opp/06f8f11548604124829d1a039a88dc3f/view
+- Top terms: web(6), application(2), business_intelligence(2), software(1), cybersecurity(1)
+
+### Market Intelligence (USASpending)
+
+- Agency contracts (3yr, NAICS 339113): 16,396
+- Gov-wide top vendors: First Nation Group Llc ($202,998,856); Medical Place Inc ($195,071,010); Trillamed Llc ($88,966,687); Atlantic Diving Supply, Inc. ($87,406,018); Gentex Corporation ($70,124,251)
+- Agency top vendors: Atlantic Diving Supply, Inc. ($85,146,110); Gentex Corporation ($70,124,251); Avon Protection Systems Incorporate ($56,769,799); Noble Supply & Logistics, Llc ($41,699,993); Msa Safety Sales, Llc ($36,805,843)
+
+## PANEL,CNTRL ASSY
+
+- Department: DEPT OF DEFENSE
+- Type: Solicitation
+- PostedDate: 2026-05-15 03:25:47.075-04
+- NAICS: 332710
+- Total term hits: 12
+- Link: https://sam.gov/workspace/contract/opp/616368875d064151a0a1dd4723eddbba/view
+- Top terms: web(6), application(2), business_intelligence(2), software(1), cybersecurity(1)
+
+### Market Intelligence (USASpending)
+
+- Agency contracts (3yr, NAICS 332710): 2,483
+- Gov-wide top vendors: Loughmiller Machine, Tool & Design ($7,075,450); Chesapeake Machining & Fabrication, ($6,425,796); Beaver Aerospace & Defense, Inc. ($5,001,246); Neodora Llc ($4,649,375); Jo-Kell Inc. ($3,020,381)
+- Agency top vendors: Loughmiller Machine, Tool & Design ($7,075,450); Chesapeake Machining & Fabrication, ($6,425,796); Beaver Aerospace & Defense, Inc. ($5,001,246); Neodora Llc ($4,649,375); Jo-Kell Inc. ($3,020,381)
+
+## PANEL,CNTRL ASSY
+
+- Department: DEPT OF DEFENSE
+- Type: Solicitation
+- PostedDate: 2026-05-15 03:25:46.293-04
+- NAICS: 332710
+- Total term hits: 12
+- Link: https://sam.gov/workspace/contract/opp/aa94421dab4a4d28aac2650b67fe69cc/view
+- Top terms: web(6), application(2), business_intelligence(2), software(1), cybersecurity(1)
+
+### Market Intelligence (USASpending)
+
+- Agency contracts (3yr, NAICS 332710): 2,483
+- Gov-wide top vendors: Loughmiller Machine, Tool & Design ($7,075,450); Chesapeake Machining & Fabrication, ($6,425,796); Beaver Aerospace & Defense, Inc. ($5,001,246); Neodora Llc ($4,649,375); Jo-Kell Inc. ($3,020,381)
+- Agency top vendors: Loughmiller Machine, Tool & Design ($7,075,450); Chesapeake Machining & Fabrication, ($6,425,796); Beaver Aerospace & Defense, Inc. ($5,001,246); Neodora Llc ($4,649,375); Jo-Kell Inc. ($3,020,381)
+
+## 47--3/4" HOSEW/SWVLCLPG
+
+- Department: DEPT OF DEFENSE
+- Type: Solicitation
+- PostedDate: 2026-05-15 03:23:23.055-04
+- NAICS: 326220
+- Total term hits: 12
+- Link: https://sam.gov/workspace/contract/opp/05a951810d9e47c19b1a7f33e2d9a898/view
+- Top terms: web(6), application(2), business_intelligence(2), software(1), cybersecurity(1)
+
+### Market Intelligence (USASpending)
+
+- Agency contracts (3yr, NAICS 326220): 8,549
+- Gov-wide top vendors: Ruta Supplies Inc ($6,335,726); Itl Llc ($4,768,195); Danfoss Power Solutions Ii, Llc ($4,339,360); Safran Electrical Components Canada ($4,175,785); Kampi Components Co Inc ($4,172,346)
+- Agency top vendors: Ruta Supplies Inc ($6,335,726); Itl Llc ($4,768,195); Danfoss Power Solutions Ii, Llc ($4,339,360); Safran Electrical Components Canada ($4,175,785); Kampi Components Co Inc ($4,172,346)
+
+## NUT
+
+- Department: DEPT OF DEFENSE
+- Type: Solicitation
+- PostedDate: 2026-05-15 03:16:21.832-04
+- NAICS: 332722
+- Total term hits: 12
+- Link: https://sam.gov/workspace/contract/opp/5db38644bd514f53a5bd9207559a745a/view
+- Top terms: web(6), application(2), business_intelligence(2), software(1), cybersecurity(1)
+
+### Market Intelligence (USASpending)
+
+- Agency contracts (3yr, NAICS 332722): 253,477
 - Gov-wide top vendors: Rtx Corporation ($268,680,233); Noble Supply & Logistics, Llc ($220,170,086); Aar Supply Chain, Inc ($51,449,576); Cummins Inc ($31,625,845); Don Industrial Group Llc ($11,421,551)
 - Agency top vendors: Rtx Corporation ($268,680,233); Noble Supply & Logistics, Llc ($220,170,086); Aar Supply Chain, Inc ($51,449,576); Cummins Inc ($31,625,845); Don Industrial Group Llc ($11,421,551)
+
+## N68335-26-Q-1130: PRODUCTION OF FUEL CELL & VENTILATING REPAIR SYSTEM, P/N NF55-1, for FMS-Greece Hellenic Navy and Republic of Korea Navy
+
+- Department: DEPT OF DEFENSE
+- Type: Presolicitation
+- PostedDate: 2026-05-15 17:01:18.051-04
+- NAICS: 333413
+- Total term hits: 11
+- Link: https://sam.gov/workspace/contract/opp/45974097a2e94b1da457dd0f68647108/view
+- Top terms: web(6), cybersecurity(4), nist(1)
+
+### Market Intelligence (USASpending)
+
+- Agency contracts (3yr, NAICS 333413): 2,367
+- Gov-wide top vendors: Hansome Energy Systems Inc ($25,503,570); The O.C. Lugo Co Inc ($20,843,856); Cepeda Associates, Inc. ($15,222,568); Howden North America Inc ($12,148,084); Fm Af, Llc ($9,997,315)
+- Agency top vendors: Hansome Energy Systems Inc ($25,503,570); The O.C. Lugo Co Inc ($20,843,856); Cepeda Associates, Inc. ($15,222,568); Howden North America Inc ($12,148,084); Fm Af, Llc ($9,931,833)
+
+## O-RING, PLUG
+
+- Department: DEPT OF DEFENSE
+- Type: Solicitation
+- PostedDate: 2026-05-15 05:16:08.076-04
+- NAICS: 332510
+- Total term hits: 11
+- Link: https://sam.gov/workspace/contract/opp/6d971817ea7944fb9091cd57fcaa9274/view
+- Top terms: web(6), application(2), business_intelligence(2), software(1)
+
+### Market Intelligence (USASpending)
+
+- Agency contracts (3yr, NAICS 332510): 66,609
+- Gov-wide top vendors: Oshkosh Defense Llc ($84,037,247); C C Distributors, Inc. ($30,586,029); Pioneer Industries, Llc ($25,349,834); General Electric Company ($23,005,495); Osc Solutions Inc ($18,414,664)
+- Agency top vendors: Oshkosh Defense Llc ($84,037,247); C C Distributors, Inc. ($30,586,029); Pioneer Industries, Llc ($25,349,834); General Electric Company ($23,005,495); Fastenal Company ($17,540,000)
+
+## TAILPIECE,VALVE
+
+- Department: DEPT OF DEFENSE
+- Type: Solicitation
+- PostedDate: 2026-05-15 04:09:44.904-04
+- NAICS: 332919
+- Total term hits: 11
+- Link: https://sam.gov/workspace/contract/opp/ab15b475c1f94a1889dc06b20a5226ac/view
+- Top terms: application(4), web(4), software(2), cybersecurity(1)
+
+### Market Intelligence (USASpending)
+
+- Agency contracts (3yr, NAICS 332919): 10,980
+- Gov-wide top vendors: Sargent Aerospace & Defense, Llc ($61,236,616); Vacco Industries ($22,168,994); Treadwell Corporation (Delaware) ($20,984,297); Marotta Controls Inc ($16,577,402); Bell Boeing Joint Project Office ($13,792,991)
+- Agency top vendors: Sargent Aerospace & Defense, Llc ($61,236,616); Vacco Industries ($22,168,994); Treadwell Corporation (Delaware) ($20,984,297); Marotta Controls Inc ($16,577,402); Bell Boeing Joint Project Office ($13,792,991)
+
+## NUT
+
+- Department: DEPT OF DEFENSE
+- Type: Solicitation
+- PostedDate: 2026-05-15 03:16:21.175-04
+- NAICS: 332722
+- Total term hits: 11
+- Link: https://sam.gov/workspace/contract/opp/36eee156bf52412c8a5eec25169639a5/view
+- Top terms: web(6), application(2), business_intelligence(2), software(1)
+
+### Market Intelligence (USASpending)
+
+- Agency contracts (3yr, NAICS 332722): 253,477
+- Gov-wide top vendors: Rtx Corporation ($268,680,233); Noble Supply & Logistics, Llc ($220,170,086); Aar Supply Chain, Inc ($51,449,576); Cummins Inc ($31,625,845); Don Industrial Group Llc ($11,421,551)
+- Agency top vendors: Rtx Corporation ($268,680,233); Noble Supply & Logistics, Llc ($220,170,086); Aar Supply Chain, Inc ($51,449,576); Cummins Inc ($31,625,845); Don Industrial Group Llc ($11,421,551)
+
+## O-RING, PLUG
+
+- Department: DEPT OF DEFENSE
+- Type: Solicitation
+- PostedDate: 2026-05-15 03:13:52.681-04
+- NAICS: 332510
+- Total term hits: 11
+- Link: https://sam.gov/workspace/contract/opp/b03239c8d86643acad21b94a84b0841c/view
+- Top terms: web(6), application(2), business_intelligence(2), software(1)
+
+### Market Intelligence (USASpending)
+
+- Agency contracts (3yr, NAICS 332510): 66,609
+- Gov-wide top vendors: Oshkosh Defense Llc ($84,037,247); C C Distributors, Inc. ($30,586,029); Pioneer Industries, Llc ($25,349,834); General Electric Company ($23,005,495); Osc Solutions Inc ($18,414,664)
+- Agency top vendors: Oshkosh Defense Llc ($84,037,247); C C Distributors, Inc. ($30,586,029); Pioneer Industries, Llc ($25,349,834); General Electric Company ($23,005,495); Fastenal Company ($17,540,000)
 
 ## CABLE ASSEMBLY SPEC
 
 - Department: DEPT OF DEFENSE
 - Type: Solicitation
-- PostedDate: 2026-05-14 07:19:27.255-04
+- PostedDate: 2026-05-15 05:38:47.492-04
 - NAICS: 335311
 - Total term hits: 10
-- Link: https://sam.gov/workspace/contract/opp/373ca3af32dc495a8be9f8d93e319a5d/view
+- Link: https://sam.gov/workspace/contract/opp/886976a394234d028d9bc30b34ba1216/view
 - Top terms: web(10)
 
 ### Market Intelligence (USASpending)
@@ -213,146 +374,34 @@
 - Gov-wide top vendors: Tepco Energy Partner, Incorporated ($117,891,671); The Chugoku Electric Power Company, ($48,141,763); Vincorion Llc ($31,804,707); Yellowstone Electric Co ($29,915,158); Tohoku Electric Power Company Incor ($24,317,637)
 - Agency top vendors: Tepco Energy Partner, Incorporated ($117,891,671); The Chugoku Electric Power Company, ($48,141,763); Vincorion Llc ($31,804,707); Yellowstone Electric Co ($29,915,158); Tohoku Electric Power Company Incor ($24,317,637)
 
-## ELBOW,BOSS
+## CABLE ASSEMBLY,SPEC
 
 - Department: DEPT OF DEFENSE
 - Type: Solicitation
-- PostedDate: 2026-05-14 04:10:13.706-04
-- NAICS: 332919
+- PostedDate: 2026-05-15 05:30:25.297-04
+- NAICS: 335311
 - Total term hits: 10
-- Link: https://sam.gov/workspace/contract/opp/9c16d4ba12c048ec941713b34838698e/view
+- Link: https://sam.gov/workspace/contract/opp/b416c8ab4ef5475d98ec932e864f6047/view
+- Top terms: web(10)
+
+### Market Intelligence (USASpending)
+
+- Agency contracts (3yr, NAICS 335311): 7,517
+- Gov-wide top vendors: Tepco Energy Partner, Incorporated ($117,891,671); The Chugoku Electric Power Company, ($48,141,763); Vincorion Llc ($31,804,707); Yellowstone Electric Co ($29,915,158); Tohoku Electric Power Company Incor ($24,317,637)
+- Agency top vendors: Tepco Energy Partner, Incorporated ($117,891,671); The Chugoku Electric Power Company, ($48,141,763); Vincorion Llc ($31,804,707); Yellowstone Electric Co ($29,915,158); Tohoku Electric Power Company Incor ($24,317,637)
+
+## NUT,PLAIN,CAP
+
+- Department: DEPT OF DEFENSE
+- Type: Solicitation
+- PostedDate: 2026-05-15 04:33:32.243-04
+- NAICS: 332722
+- Total term hits: 10
+- Link: https://sam.gov/workspace/contract/opp/65e1acd0205641d5aab291005c5700e8/view
 - Top terms: application(6), software(2), web(2)
 
 ### Market Intelligence (USASpending)
 
-- Agency contracts (3yr, NAICS 332919): 10,980
-- Gov-wide top vendors: Sargent Aerospace & Defense, Llc ($61,236,616); Vacco Industries ($22,168,994); Treadwell Corporation (Delaware) ($20,984,297); Marotta Controls Inc ($16,577,402); Bell Boeing Joint Project Office ($13,792,991)
-- Agency top vendors: Sargent Aerospace & Defense, Llc ($61,236,616); Vacco Industries ($22,168,994); Treadwell Corporation (Delaware) ($20,984,297); Marotta Controls Inc ($16,577,402); Bell Boeing Joint Project Office ($13,792,991)
-
-## App Validation Study AMENDMENT 1
-
-- Department: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
-- Type: Solicitation
-- PostedDate: 2026-05-14 15:48:52.594-04
-- NAICS: 513210
-- Total term hits: 9
-- Link: https://sam.gov/workspace/contract/opp/c76f047eb732435eae95d451d036a6c0/view
-- Top terms: application(7), ux(2)
-
-### Market Intelligence (USASpending)
-
-- Agency contracts (3yr, NAICS 513210): 639
-- Gov-wide top vendors: Palantir Usg Inc ($402,127,049); Carahsoft Technology Corp ($219,926,739); Dell Federal Systems L.P ($209,155,831); Palantir Technologies Inc. ($162,283,538); Ca, Inc. ($40,714,063)
-- Agency top vendors: Palantir Technologies Inc. ($61,666,378); Cotiviti Gov Services, Llc ($4,730,928); Truveta Inc ($3,859,992); Lorenz International Llc ($3,150,055); Revvity Signals Software, Inc. ($2,613,342)
-
-## J065--Automation Onsite Administrator Omnicell
-
-- Department: VETERANS AFFAIRS, DEPARTMENT OF
-- Type: Sources Sought
-- PostedDate: 2026-05-14 13:50:07.298-04
-- NAICS: 811210
-- Total term hits: 9
-- Link: https://sam.gov/workspace/contract/opp/b3e7fe96f5f940e4b5ad7ff6c708dda3/view
-- Top terms: web(3), application(2), software(1), aws(1), dashboard(1), nist(1)
-
-### Market Intelligence (USASpending)
-
-- Agency contracts (3yr, NAICS 811210): 3,737
-- Gov-wide top vendors: Techflow, Inc. ($512,748,300); Agiliti Health Inc ($272,997,211); Leidos, Inc. ($195,903,515); Northrop Grumman Systems Corp ($167,169,434); Motorola Solutions, Inc. ($131,691,490)
-- Agency top vendors: Sonova Usa Inc ($62,039,493); Varian Medical Systems, Inc ($28,335,223); Oticon, Inc ($22,551,612); Olympus America Inc ($15,501,728); Starkey Laboratories Inc ($13,540,836)
-
-## Z2LC--Campus Sinkhole Repair 552-26-506
-
-- Department: VETERANS AFFAIRS, DEPARTMENT OF
-- Type: Presolicitation
-- PostedDate: 2026-05-14 15:21:25.384-04
-- NAICS: 237110
-- Total term hits: 8
-- Link: https://sam.gov/workspace/contract/opp/6cc66252a2dc4c15bda3dd7f05767469/view
-- Top terms: web(8)
-
-### Market Intelligence (USASpending)
-
-- Agency contracts (3yr, NAICS 237110): 125
-- Gov-wide top vendors: Cdm Constructors Inc ($263,558,580); Jacobs Project Management Co. ($262,562,210); Oscar Renda Contracting Inc ($131,872,566); Pcl Construction Inc ($60,045,825); Record Steel And Construction, Inc. ($45,716,126)
-- Agency top vendors: Blue Cord Design And Construction,  ($16,560,902); Boyer Commercial Construction Inc ($11,740,000); Aaecon General Contracting Llc ($8,565,422); B2 Constructors, Llc ($6,222,994); Anchor-41 Construction Llc ($4,667,521)
-
-## R701--Amending RFQ 36C25026Q0485 to answer Questions Submitted for Dayton VAMC Billboard Advertising
-
-- Department: VETERANS AFFAIRS, DEPARTMENT OF
-- Type: Combined Synopsis/Solicitation
-- PostedDate: 2026-05-14 14:13:54.097-04
-- NAICS: 541810
-- Total term hits: 8
-- Link: https://sam.gov/workspace/contract/opp/67a2e0209b0b497a8fa62bc28b81c81b/view
-- Top terms: web(4), platform(2), software(1), dashboard(1)
-
-### Market Intelligence (USASpending)
-
-- Agency contracts (3yr, NAICS 541810): 72
-- Gov-wide top vendors: Ddb Chicago Inc. ($789,673,565); Ipg Dxtra, Inc. ($320,364,183); Gsd&M Llc ($275,878,695); Wunderman Thompson Llc ($269,913,463); Young & Rubicam Llc ($221,510,136)
-- Agency top vendors: Gig Line Media, Inc. ($16,661,389); Argent Arc Llc ($9,000,000); The Advertising Council Inc ($4,373,586); American Small Business Alliance In ($1,129,291); Red, Inc. ($170,918)
-
-## Notice of Intent to Sole Source USAFA Wearable Performance Monitoring Ring Devices
-
-- Department: DEPT OF DEFENSE
-- Type: Special Notice
-- PostedDate: 2026-05-14 12:56:47.045-04
-- NAICS: 339920
-- Total term hits: 8
-- Link: https://sam.gov/workspace/contract/opp/04a54c78473f4a07866f8f3e89ccfedc/view
-- Top terms: software(4), application(2), ux(1), cybersecurity(1)
-
-### Market Intelligence (USASpending)
-
-- Agency contracts (3yr, NAICS 339920): 1,333
-- Gov-wide top vendors: Atlantic Diving Supply, Inc. ($23,328,529); Envision Industries, Inc. ($19,215,565); Beaverfit North America Llc ($10,058,423); Seneca Strategic Partners, Llc ($5,267,558); Advanced Healthstyles Fitness Equip ($4,420,502)
-- Agency top vendors: Envision Industries, Inc. ($19,215,565); Beaverfit North America Llc ($10,013,938); Qubicaamf Worldwide, Llc ($3,586,142); Mountain Works Inc ($3,341,271); Advanced Healthstyles Fitness Equip ($3,327,050)
-
-## NUT,PLAIN,BARREL
-
-- Department: DEPT OF DEFENSE
-- Type: Solicitation
-- PostedDate: 2026-05-14 09:39:36.834-04
-- NAICS: 332919
-- Total term hits: 8
-- Link: https://sam.gov/workspace/contract/opp/cf18113697ea41d0be3c9c022e0f9993/view
-- Top terms: application(4), software(2), web(2)
-
-### Market Intelligence (USASpending)
-
-- Agency contracts (3yr, NAICS 332919): 10,980
-- Gov-wide top vendors: Sargent Aerospace & Defense, Llc ($61,236,616); Vacco Industries ($22,168,994); Treadwell Corporation (Delaware) ($20,984,297); Marotta Controls Inc ($16,577,402); Bell Boeing Joint Project Office ($13,792,991)
-- Agency top vendors: Sargent Aerospace & Defense, Llc ($61,236,616); Vacco Industries ($22,168,994); Treadwell Corporation (Delaware) ($20,984,297); Marotta Controls Inc ($16,577,402); Bell Boeing Joint Project Office ($13,792,991)
-
-## GYRO,RING LASER
-
-- Department: DEPT OF DEFENSE
-- Type: Solicitation
-- PostedDate: 2026-05-14 05:00:45.638-04
-- NAICS: 334511
-- Total term hits: 8
-- Link: https://sam.gov/workspace/contract/opp/30e70b591d4242639c27d6284e3afaec/view
-- Top terms: web(8)
-
-### Market Intelligence (USASpending)
-
-- Agency contracts (3yr, NAICS 334511): 19,936
-- Gov-wide top vendors: Raytheon Company ($3,957,294,938); Lockheed Martin Corporation ($2,933,217,877); Lockheed Martin Corporation ($2,224,383,825); Raytheon Company ($2,181,467,178); Raytheon Company ($1,730,592,303)
-- Agency top vendors: Raytheon Company ($3,957,294,938); Lockheed Martin Corporation ($2,929,316,010); Lockheed Martin Corporation ($2,224,383,825); Raytheon Company ($2,165,911,003); Raytheon Company ($1,731,170,122)
-
-## PUMP,ROTARY
-
-- Department: DEPT OF DEFENSE
-- Type: Solicitation
-- PostedDate: 2026-05-14 04:56:06.275-04
-- NAICS: 333914
-- Total term hits: 8
-- Link: https://sam.gov/workspace/contract/opp/eb61ba090e8644cf991d9c34130d3621/view
-- Top terms: web(8)
-
-### Market Intelligence (USASpending)
-
-- Agency contracts (3yr, NAICS 333914): 4,840
-- Gov-wide top vendors: Circor Naval Solutions Llc ($62,127,298); Rix Industries ($37,553,958); Circor Pumps North America Llc ($18,207,070); Curtiss-Wright Electro-Mechanical C ($16,756,215); Carver Pump Company ($16,284,482)
-- Agency top vendors: Circor Naval Solutions Llc ($62,127,298); Rix Industries ($37,553,958); Circor Pumps North America Llc ($18,060,070); Curtiss-Wright Electro-Mechanical C ($16,756,215); Carver Pump Company ($16,068,874)
+- Agency contracts (3yr, NAICS 332722): 253,477
+- Gov-wide top vendors: Rtx Corporation ($268,680,233); Noble Supply & Logistics, Llc ($220,170,086); Aar Supply Chain, Inc ($51,449,576); Cummins Inc ($31,625,845); Don Industrial Group Llc ($11,421,551)
+- Agency top vendors: Rtx Corporation ($268,680,233); Noble Supply & Logistics, Llc ($220,170,086); Aar Supply Chain, Inc ($51,449,576); Cummins Inc ($31,625,845); Don Industrial Group Llc ($11,421,551)

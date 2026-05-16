@@ -1,0 +1,31 @@
+---
+layout: default
+title: Wire Saw System
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: 764e27fa91f140069a917dde9cad8ee5
+---
+
+# Wire Saw System
+
+- Agency: DEPT OF DEFENSE
+- Type: Presolicitation
+- Posted: 2026-05-15 16:04:58.05-04
+- Solicitation Number: FA8125-26-Q-0057
+
+## Summary
+
+The Air Force intends to solicit the following supply: Requesting the purchase of one (1) Husqvarna CS 2512 or Equal complete turn-key based Wire Saw System shall include but is not limited to the following components and accessories: Components: One (1) Wire Saw that meets the following speci?cations: Shall be designed to use with an external power supply speci?ed below Shall be capable of cutting steel and concrete for handling both small and large operations while being compact and mobile. Shall be powered by a hydraulic motor that meets the following speci?cations: Deliver an output power rating of a minimum of 20 Kilowatts to the drive wheel Have a spindle starting torque of a minimum of 190 Newton-Meters The hydraulic motor and diamond wire shall be water cooled with a minimum pressure rate of 30 psi Have a variable gear box that lets the wire move at a minimum range of 65 – 80 feet per second. Shall not exceed a total overall weight of 330 pounds Shall be able to perform both vertical and horizontal cuts Shall include a guard that covers the internal components of the saw as well as the stored diamond wire inside of the Wire Saw. The user shall have the ability to adjust the hydraulic pressure going into the Wire Saw and visibly monitor the current pressure rating. Wire saw shall have one (1) outlet for water to allow the user to attach a water hose or an additional accessory The Wire Saw shall have wheels and a handle to be able to move and transport the wire saw by one person. Shall include adjustment screws to adjust the level of the saw depending on the location of the ground Shall be able to be anchored to the grand when in operation. Shal store a minimum of 52 feet of diamond wire Shall have a tension indicator that monitors the current tension of the diamond wire Shall include a tool kit with the necessary tools and brushes to be able to properly maintain and service the piece of equipment per the operators manual. Shall include a physical and digital copy of the operator’s manual for the Wire Saw One (1) Power Pack that is powered by an electric motor shall supply power to the Wire Saw while meeting the following speci?cations: The Power Pack shall be able to operate and power the Wire Saw 20 feet away from the Wire Saw. Shall have an emergency stop button on the unit to shut down the Power Pack Shall have an ON/OFF button that switches the Power Pack ON/OFF Shall include one (1) remote control to control the cutting power and speed of the diamond wire on the Wire saw that meets the following speci?cations: The power cable to operate the remote control shall be a minimum of 25 feet long Shall have a physical button that switches the electric motor on the Power Pack ON/OFF Shall have an emergency stop button on the controller to shut down the Power Pack Shall have an analog display Shall have physical buttons to allow the user to interact with the user interface on the remote control Shall display the current voltage for all three phases of the Power Pack Shall be a fully wired remote. If it does have a wireless capability, it shall have the ability to be disabled. Shall have a built-in fail safe to halt operation in the event the motor is overheating Shall include two (2) lifting contact points to safely lift the Power Pack from a hoist or to secure it during transport The hydraulic output shall be a minimum of 25 kW Shall have a 4-pin 480V (32-63A) three phase plug to supply electrical power to the Power Pack Shall have a set of wheels and a handle to be able to transport or move the equipment by one person. Shall not exceed a total of 310 pounds including oil in the Power Pack. Accessories: Two (2) ?xtures both have pulleys that are offset from each other. The pulleys shall be compatible with a wire diameter range of 6mm to 12mm. One (1) Hydraulic Crimping Tool that is able to crimp 10.3mm diameter diamond wire One hundred (150) 8.0/5.0 x 24mm crimps Include three hundred (300) feet of diamond wire that meets the following requirements: Have a wire diameter of 10.3mm Have a bead diameter of 0.4 in Be used with wet or dry coolant Shall include three (3) mountable ?xtures to redirect the wire for various cutting scenarios. The ?xtures shall mount 2” x 2” square tubing and include the necessary pulleys to guide wire with a minimum wire diameter range of 6mm – 12mm The necessary hydraulic lines for operation shall be provided with a minimum pressuring rating of 3,340 PSI. The hydraulic lines shall come pre-installed with the necessary connectors needed to operate this piece of equipment. Shall include one (1) Water nozzle that can be placed at the entrance of the cutting material. To cool the wire that is actively cutting through the material. Shall include a minimum of two (2) days’ worth of operational and maintenance training. The Contractor shall provide performance verification The vendor must be the manufacturer, or an authorized reseller, of the Wire Saw system A Firm Fixed Price type contract is contemplated. Estimated Period of Performance: 30 days ARO This is a small business set-aside System for Award Management (SAM) is required to receive any award. Contractors can register electronically at https://www.sam.gov/portal/public/SAM/. The NAICS code for this requirement is 333310 with a size standard of 1000 EMP. Interested persons may identify their interest and capability to respond to the requirement by submitting a proposal. Electronic procedures will be used for this solicitation through Beta.sam.gov at https://sam.gov/content/home. No telephone requests. See Note 22. Authority is 10 USC 2304 (c)(1). Foreign Participation: No For further information contact: Sondra Groth Contract Specialist
+
+## Contacts
+
+- Primary Contact:
+  - Name: Sondra Groth
+  - Email: Sondra.Groth@us.af.mil
+- Secondary Contact:
+  - Name: Sheridan Robison
+  - Email: sheridan.robison@us.af.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/764e27fa91f140069a917dde9cad8ee5/view)
