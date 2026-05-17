@@ -420,6 +420,19 @@ Manual trigger:
 
 This repository includes an agent-focused guide in `AGENTS.md` (aligned with https://agents.md) for setup, workflows, conventions, and validation steps.
 
+## ✅ BDD Pilot (Gherkin + Playwright)
+
+This repository now includes a pilot behavior-driven suite for user-visible search behavior.
+
+- Gherkin scenarios live in `features/` (starting with `features/search.feature`).
+- `DEFINITION_OF_DONE.md` is the primary acceptance source; `FEATURES.md` is feature inventory context.
+- Layer tags (`@ui`, `@pipeline`, `@accessibility`) help avoid running every scenario as browser E2E.
+- Fast checks run on pull requests in `.github/workflows/bdd-fast.yml`.
+- Full checks run on schedule/manual trigger in `.github/workflows/bdd-full.yml`.
+- `tests/test_bdd_feature_contract.py` enforces traceability and readability rules.
+
+Maintenance rule: when behavior changes, update both the relevant doc section and the impacted Gherkin scenario(s) in the same pull request.
+
 ## Next Steps
 
 1. **Ollama Analysis**: Use local LLM for schema inference, content summarization, and term extraction (✅ Complete)
