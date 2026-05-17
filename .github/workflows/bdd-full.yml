@@ -5,6 +5,9 @@ on:
     - cron: "30 9 * * 1"
   workflow_dispatch:
 
+permissions:
+  contents: read
+
 jobs:
   full-bdd:
     runs-on: ubuntu-latest

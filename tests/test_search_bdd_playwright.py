@@ -14,7 +14,7 @@ from urllib.request import urlopen
 
 import pytest
 
-playwright = pytest.importorskip("playwright.sync_api")
+playwright_sync_api = pytest.importorskip("playwright.sync_api")
 
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -70,7 +70,7 @@ def docs_server() -> Generator[str, None, None]:
 @pytest.mark.fast
 def test_scenario_search_keyword_returns_results(docs_server: str) -> None:
     """Scenario: Search by keyword returns visible opportunities."""
-    with playwright.sync_api.sync_playwright() as p:
+    with playwright_sync_api.sync_playwright() as p:
         browser = p.chromium.launch()
         page = browser.new_page()
         try:
@@ -87,7 +87,7 @@ def test_scenario_search_keyword_returns_results(docs_server: str) -> None:
 @pytest.mark.slow
 def test_scenario_status_open_shows_only_open_results(docs_server: str) -> None:
     """Scenario: Filtering by open status narrows results to open opportunities."""
-    with playwright.sync_api.sync_playwright() as p:
+    with playwright_sync_api.sync_playwright() as p:
         browser = p.chromium.launch()
         page = browser.new_page()
         try:
