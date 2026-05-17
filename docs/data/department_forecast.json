@@ -1,368 +1,49 @@
 {
-  "forecast_date": "2026-05-15",
+  "forecast_date": "2026-05-16",
   "departments_by_opportunity_volume": [
     {
-      "total_records": 651,
-      "open_opportunities": 545,
-      "awarded": 106,
-      "win_rate_percent": 17.2,
-      "estimated_monthly_value": 152650715,
-      "average_award_value": 1362952,
-      "opportunities_with_attachments": 139,
-      "opportunities_with_keyword_matches": 235,
+      "total_records": 18,
+      "open_opportunities": 15,
+      "awarded": 3,
+      "win_rate_percent": 16.7,
+      "estimated_monthly_value": 15599982,
+      "average_award_value": 5199994,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 8,
       "top_awardees": [
         {
-          "name": "TRC GOVERNMENT SERVICES, LLC ",
+          "name": "MARINE POLYMERS, INC ",
           "wins": 1,
-          "total_value": 56505636
+          "total_value": 11475000
         },
         {
-          "name": "TRC GOVERNMENT SERVICES, LLC Tulsa OK 74146 USA",
+          "name": "CRANE PUMPS & SYSTEMS PFT CORP ",
           "wins": 1,
-          "total_value": 56505603
+          "total_value": 3300000
         },
         {
-          "name": "L.J.V. Development, LLC Boston MA 02109 USA",
+          "name": "JO-KELL INC. ",
           "wins": 1,
-          "total_value": 4500000
-        },
-        {
-          "name": "TRIMAN INDUSTRIES INC ",
-          "wins": 4,
-          "total_value": 2628576
-        },
-        {
-          "name": "CFF CONSULTING INC. Mineola NY 11501 USA",
-          "wins": 1,
-          "total_value": 2556000
+          "total_value": 824982
         }
       ],
       "department": "DEPT OF DEFENSE"
     },
     {
-      "total_records": 126,
-      "open_opportunities": 110,
-      "awarded": 16,
-      "win_rate_percent": 14.3,
-      "estimated_monthly_value": 111865321,
-      "average_award_value": 6214740,
-      "opportunities_with_attachments": 8,
-      "opportunities_with_keyword_matches": 36,
-      "top_awardees": [
-        {
-          "name": "CATALYST PHARMACEUTICALS, INC CORAL GABLES 33134 FLK",
-          "wins": 1,
-          "total_value": 105895620
-        },
-        {
-          "name": "V&C GENERAL CONTRACTOR LLC NARANJITO 00719",
-          "wins": 1,
-          "total_value": 2671154
-        },
-        {
-          "name": "ALVAREZ LLC LEESBURG 20176",
-          "wins": 1,
-          "total_value": 643396
-        },
-        {
-          "name": "MGI, INC. Meridian ID 83642 USA",
-          "wins": 1,
-          "total_value": 402055
-        },
-        {
-          "name": "CONTEMPORARY PRODUCT SOLUTIONS, INC Virginia Beach VA 23451 USA",
-          "wins": 2,
-          "total_value": 376810
-        }
-      ],
+      "total_records": 3,
+      "open_opportunities": 3,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 1,
+      "top_awardees": [],
       "department": "VETERANS AFFAIRS, DEPARTMENT OF"
     },
     {
-      "total_records": 62,
-      "open_opportunities": 43,
-      "awarded": 19,
-      "win_rate_percent": 32.3,
-      "estimated_monthly_value": 2216267,
-      "average_award_value": 110813,
-      "opportunities_with_attachments": 4,
-      "opportunities_with_keyword_matches": 5,
-      "top_awardees": [
-        {
-          "name": "PARAGON MICRO INC 901 DEERFIELD PARKWAY Buffalo Grove IL 60089 USA",
-          "wins": 1,
-          "total_value": 617982
-        },
-        {
-          "name": "HUCKEYE HEALTH SERVICES LLC 24044 CINCO VILLAGE CENTER BLVD STE Katy TX 77494 USA",
-          "wins": 1,
-          "total_value": 363560
-        },
-        {
-          "name": "JACOBS GOVERNMENT SERVICES COMPANY 1100 N GLEBE RD STE 500 Arlington VA 22201 USA",
-          "wins": 1,
-          "total_value": 274509
-        },
-        {
-          "name": "PROJECT SOLUTIONS, INC. 505 KANSAS CITY ST Rapid City SD 57701 USA",
-          "wins": 1,
-          "total_value": 173779
-        },
-        {
-          "name": "NW TEL, LLC 2010 PARK LN Burlington WA 98233 USA",
-          "wins": 1,
-          "total_value": 161020
-        }
-      ],
-      "department": "INTERIOR, DEPARTMENT OF THE"
-    },
-    {
-      "total_records": 58,
-      "open_opportunities": 43,
-      "awarded": 15,
-      "win_rate_percent": 27.6,
-      "estimated_monthly_value": 100008625735,
-      "average_award_value": 6250539108,
-      "opportunities_with_attachments": 11,
-      "opportunities_with_keyword_matches": 8,
-      "top_awardees": [
-        {
-          "name": "WHITING-TURNER CONTRACTING COMPANY, THE Towson MD 21286 USA",
-          "wins": 1,
-          "total_value": 10000000000
-        },
-        {
-          "name": "WALSH FEDERAL LLC Chicago IL 60607 USA",
-          "wins": 1,
-          "total_value": 10000000000
-        },
-        {
-          "name": "TUTOR PERINI CORPORATION Sylmar CA 91342 USA",
-          "wins": 1,
-          "total_value": 10000000000
-        },
-        {
-          "name": "SOUTHWEST VALLEY CONSTRUCTORS CO Albuquerque NM 87109 USA",
-          "wins": 1,
-          "total_value": 10000000000
-        },
-        {
-          "name": "HENSEL PHELPS CONSTRUCTION CO Greeley CO 80631 USA",
-          "wins": 1,
-          "total_value": 10000000000
-        }
-      ],
-      "department": "HOMELAND SECURITY, DEPARTMENT OF"
-    },
-    {
-      "total_records": 44,
-      "open_opportunities": 39,
-      "awarded": 5,
-      "win_rate_percent": 11.4,
-      "estimated_monthly_value": 4136563,
-      "average_award_value": 827312,
-      "opportunities_with_attachments": 7,
-      "opportunities_with_keyword_matches": 6,
-      "top_awardees": [
-        {
-          "name": "CRIDER, INC. Stillmore GA 30464 USA",
-          "wins": 1,
-          "total_value": 3120093
-        },
-        {
-          "name": "UCT, LLC Bristol PA 19007 USA",
-          "wins": 1,
-          "total_value": 770000
-        },
-        {
-          "name": "BY BROOKE Henrieville UT 84736 USA",
-          "wins": 1,
-          "total_value": 120842
-        },
-        {
-          "name": "BUCKS SANITARY SERVICE INC Eugene OR 97402 USA",
-          "wins": 1,
-          "total_value": 102628
-        },
-        {
-          "name": "JAKL INDUSTRY SERVICES LLC San Antonio TX 78244 USA",
-          "wins": 1,
-          "total_value": 23000
-        }
-      ],
-      "department": "AGRICULTURE, DEPARTMENT OF"
-    },
-    {
-      "total_records": 34,
-      "open_opportunities": 34,
-      "awarded": 0,
-      "win_rate_percent": 2.9,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 6,
-      "opportunities_with_keyword_matches": 9,
-      "top_awardees": [
-        {
-          "name": "",
-          "wins": 1,
-          "total_value": 0
-        }
-      ],
-      "department": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF"
-    },
-    {
-      "total_records": 31,
-      "open_opportunities": 30,
-      "awarded": 1,
-      "win_rate_percent": 3.2,
-      "estimated_monthly_value": 255358,
-      "average_award_value": 255358,
-      "opportunities_with_attachments": 3,
-      "opportunities_with_keyword_matches": 13,
-      "top_awardees": [
-        {
-          "name": "MULTIPLE / VARIOUS Springfield MO 65807 USA",
-          "wins": 1,
-          "total_value": 255358
-        }
-      ],
-      "department": "JUSTICE, DEPARTMENT OF"
-    },
-    {
-      "total_records": 23,
-      "open_opportunities": 23,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 4,
-      "top_awardees": [],
-      "department": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION"
-    },
-    {
-      "total_records": 20,
-      "open_opportunities": 20,
-      "awarded": 0,
-      "win_rate_percent": 5.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 3,
-      "top_awardees": [
-        {
-          "name": "",
-          "wins": 1,
-          "total_value": 0
-        }
-      ],
-      "department": "STATE, DEPARTMENT OF"
-    },
-    {
-      "total_records": 20,
-      "open_opportunities": 19,
-      "awarded": 1,
-      "win_rate_percent": 5.0,
-      "estimated_monthly_value": 112250,
-      "average_award_value": 112250,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 7,
-      "top_awardees": [
-        {
-          "name": "GRAVA HYDROGRAPHIC SOLUTIONS LLC 751 Adirondack Ave Ventura CA 93003 USA",
-          "wins": 1,
-          "total_value": 112250
-        }
-      ],
-      "department": "COMMERCE, DEPARTMENT OF"
-    },
-    {
-      "total_records": 21,
-      "open_opportunities": 18,
-      "awarded": 3,
-      "win_rate_percent": 14.3,
-      "estimated_monthly_value": 260504,
-      "average_award_value": 86834,
-      "opportunities_with_attachments": 3,
-      "opportunities_with_keyword_matches": 6,
-      "top_awardees": [
-        {
-          "name": "ACTION BATTERY WHOLESALERS, INC. 484 COUNTY ROAD VV Somerset WI 54025 USA",
-          "wins": 1,
-          "total_value": 231100
-        },
-        {
-          "name": "RURAL ELECTRIC SUPPLY COOPERATIVE 2250 PINEHURST DR Middleton WI 53562 USA",
-          "wins": 1,
-          "total_value": 14894
-        },
-        {
-          "name": "Underwood Federal Solutions LLC 805 Harmon Cove Tower Secaucus NJ 07094 USA",
-          "wins": 1,
-          "total_value": 14510
-        }
-      ],
-      "department": "ENERGY, DEPARTMENT OF"
-    },
-    {
-      "total_records": 12,
-      "open_opportunities": 12,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 5,
-      "top_awardees": [],
-      "department": "TRANSPORTATION, DEPARTMENT OF"
-    },
-    {
-      "total_records": 9,
-      "open_opportunities": 6,
-      "awarded": 3,
-      "win_rate_percent": 55.6,
-      "estimated_monthly_value": 15371440,
-      "average_award_value": 3074288,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 2,
-      "top_awardees": [
-        {
-          "name": "THE ENTERTAINMENT MARKETING GROUP, INC. MIAMI FL 33143-3837 USA",
-          "wins": 1,
-          "total_value": 11000000
-        },
-        {
-          "name": "CBP REALTY LLC Fayetteville AR 72703 USA",
-          "wins": 1,
-          "total_value": 3371440
-        },
-        {
-          "name": "RLC LLC Lenexa KS 66219-8068 USA",
-          "wins": 1,
-          "total_value": 1000000
-        },
-        {
-          "name": "",
-          "wins": 2,
-          "total_value": 0
-        }
-      ],
-      "department": "GENERAL SERVICES ADMINISTRATION"
-    },
-    {
-      "total_records": 5,
-      "open_opportunities": 5,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 1,
-      "top_awardees": [],
-      "department": "UNITED STATES GOVERNMENT PUBLISHING OFFICE"
-    },
-    {
-      "total_records": 3,
-      "open_opportunities": 3,
+      "total_records": 2,
+      "open_opportunities": 2,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
@@ -380,69 +61,27 @@
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 1,
+      "opportunities_with_keyword_matches": 2,
       "top_awardees": [],
-      "department": "LABOR, DEPARTMENT OF"
+      "department": "JUSTICE, DEPARTMENT OF"
     },
     {
       "total_records": 2,
-      "open_opportunities": 2,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
+      "open_opportunities": 1,
+      "awarded": 1,
+      "win_rate_percent": 50.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "AMERICAN BATTLE MONUMENTS COMMISSION"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "COURT SERVICES AND OFFENDER SUPERVISION AGENCY"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 1,
-      "top_awardees": [],
-      "department": "TREASURY, DEPARTMENT OF THE"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "POSTAL SERVICE"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "FEDERAL DEPOSIT INSURANCE CORPORATION"
+      "top_awardees": [
+        {
+          "name": "KBEQ CONSTRUCTORS, LLC 341 W TUDOR RD STE 300 Anchorage AK 99503 USA",
+          "wins": 1,
+          "total_value": 0
+        }
+      ],
+      "department": "INTERIOR, DEPARTMENT OF THE"
     },
     {
       "total_records": 1,
@@ -454,7 +93,7 @@
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 1,
       "top_awardees": [],
-      "department": "THE LEGISLATIVE BRANCH"
+      "department": "GENERAL SERVICES ADMINISTRATION"
     },
     {
       "total_records": 1,
@@ -464,386 +103,55 @@
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
+      "opportunities_with_keyword_matches": 1,
       "top_awardees": [],
-      "department": "SOCIAL SECURITY ADMINISTRATION"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "NUCLEAR REGULATORY COMMISSION"
+      "department": "INTERNATIONAL BOUNDARY AND WATER COMMISSION: US-MEXICO"
     }
   ],
   "departments_by_award_value": [
     {
-      "total_records": 58,
-      "open_opportunities": 43,
-      "awarded": 15,
-      "win_rate_percent": 27.6,
-      "estimated_monthly_value": 100008625735,
-      "average_award_value": 6250539108,
-      "opportunities_with_attachments": 11,
+      "total_records": 18,
+      "open_opportunities": 15,
+      "awarded": 3,
+      "win_rate_percent": 16.7,
+      "estimated_monthly_value": 15599982,
+      "average_award_value": 5199994,
+      "opportunities_with_attachments": 3,
       "opportunities_with_keyword_matches": 8,
       "top_awardees": [
         {
-          "name": "WHITING-TURNER CONTRACTING COMPANY, THE Towson MD 21286 USA",
+          "name": "MARINE POLYMERS, INC ",
           "wins": 1,
-          "total_value": 10000000000
+          "total_value": 11475000
         },
         {
-          "name": "WALSH FEDERAL LLC Chicago IL 60607 USA",
+          "name": "CRANE PUMPS & SYSTEMS PFT CORP ",
           "wins": 1,
-          "total_value": 10000000000
+          "total_value": 3300000
         },
         {
-          "name": "TUTOR PERINI CORPORATION Sylmar CA 91342 USA",
+          "name": "JO-KELL INC. ",
           "wins": 1,
-          "total_value": 10000000000
-        },
-        {
-          "name": "SOUTHWEST VALLEY CONSTRUCTORS CO Albuquerque NM 87109 USA",
-          "wins": 1,
-          "total_value": 10000000000
-        },
-        {
-          "name": "HENSEL PHELPS CONSTRUCTION CO Greeley CO 80631 USA",
-          "wins": 1,
-          "total_value": 10000000000
-        }
-      ],
-      "department": "HOMELAND SECURITY, DEPARTMENT OF"
-    },
-    {
-      "total_records": 651,
-      "open_opportunities": 545,
-      "awarded": 106,
-      "win_rate_percent": 17.2,
-      "estimated_monthly_value": 152650715,
-      "average_award_value": 1362952,
-      "opportunities_with_attachments": 139,
-      "opportunities_with_keyword_matches": 235,
-      "top_awardees": [
-        {
-          "name": "TRC GOVERNMENT SERVICES, LLC ",
-          "wins": 1,
-          "total_value": 56505636
-        },
-        {
-          "name": "TRC GOVERNMENT SERVICES, LLC Tulsa OK 74146 USA",
-          "wins": 1,
-          "total_value": 56505603
-        },
-        {
-          "name": "L.J.V. Development, LLC Boston MA 02109 USA",
-          "wins": 1,
-          "total_value": 4500000
-        },
-        {
-          "name": "TRIMAN INDUSTRIES INC ",
-          "wins": 4,
-          "total_value": 2628576
-        },
-        {
-          "name": "CFF CONSULTING INC. Mineola NY 11501 USA",
-          "wins": 1,
-          "total_value": 2556000
+          "total_value": 824982
         }
       ],
       "department": "DEPT OF DEFENSE"
     },
     {
-      "total_records": 126,
-      "open_opportunities": 110,
-      "awarded": 16,
-      "win_rate_percent": 14.3,
-      "estimated_monthly_value": 111865321,
-      "average_award_value": 6214740,
-      "opportunities_with_attachments": 8,
-      "opportunities_with_keyword_matches": 36,
-      "top_awardees": [
-        {
-          "name": "CATALYST PHARMACEUTICALS, INC CORAL GABLES 33134 FLK",
-          "wins": 1,
-          "total_value": 105895620
-        },
-        {
-          "name": "V&C GENERAL CONTRACTOR LLC NARANJITO 00719",
-          "wins": 1,
-          "total_value": 2671154
-        },
-        {
-          "name": "ALVAREZ LLC LEESBURG 20176",
-          "wins": 1,
-          "total_value": 643396
-        },
-        {
-          "name": "MGI, INC. Meridian ID 83642 USA",
-          "wins": 1,
-          "total_value": 402055
-        },
-        {
-          "name": "CONTEMPORARY PRODUCT SOLUTIONS, INC Virginia Beach VA 23451 USA",
-          "wins": 2,
-          "total_value": 376810
-        }
-      ],
+      "total_records": 3,
+      "open_opportunities": 3,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 1,
+      "top_awardees": [],
       "department": "VETERANS AFFAIRS, DEPARTMENT OF"
     },
     {
-      "total_records": 9,
-      "open_opportunities": 6,
-      "awarded": 3,
-      "win_rate_percent": 55.6,
-      "estimated_monthly_value": 15371440,
-      "average_award_value": 3074288,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 2,
-      "top_awardees": [
-        {
-          "name": "THE ENTERTAINMENT MARKETING GROUP, INC. MIAMI FL 33143-3837 USA",
-          "wins": 1,
-          "total_value": 11000000
-        },
-        {
-          "name": "CBP REALTY LLC Fayetteville AR 72703 USA",
-          "wins": 1,
-          "total_value": 3371440
-        },
-        {
-          "name": "RLC LLC Lenexa KS 66219-8068 USA",
-          "wins": 1,
-          "total_value": 1000000
-        },
-        {
-          "name": "",
-          "wins": 2,
-          "total_value": 0
-        }
-      ],
-      "department": "GENERAL SERVICES ADMINISTRATION"
-    },
-    {
-      "total_records": 44,
-      "open_opportunities": 39,
-      "awarded": 5,
-      "win_rate_percent": 11.4,
-      "estimated_monthly_value": 4136563,
-      "average_award_value": 827312,
-      "opportunities_with_attachments": 7,
-      "opportunities_with_keyword_matches": 6,
-      "top_awardees": [
-        {
-          "name": "CRIDER, INC. Stillmore GA 30464 USA",
-          "wins": 1,
-          "total_value": 3120093
-        },
-        {
-          "name": "UCT, LLC Bristol PA 19007 USA",
-          "wins": 1,
-          "total_value": 770000
-        },
-        {
-          "name": "BY BROOKE Henrieville UT 84736 USA",
-          "wins": 1,
-          "total_value": 120842
-        },
-        {
-          "name": "BUCKS SANITARY SERVICE INC Eugene OR 97402 USA",
-          "wins": 1,
-          "total_value": 102628
-        },
-        {
-          "name": "JAKL INDUSTRY SERVICES LLC San Antonio TX 78244 USA",
-          "wins": 1,
-          "total_value": 23000
-        }
-      ],
-      "department": "AGRICULTURE, DEPARTMENT OF"
-    },
-    {
-      "total_records": 62,
-      "open_opportunities": 43,
-      "awarded": 19,
-      "win_rate_percent": 32.3,
-      "estimated_monthly_value": 2216267,
-      "average_award_value": 110813,
-      "opportunities_with_attachments": 4,
-      "opportunities_with_keyword_matches": 5,
-      "top_awardees": [
-        {
-          "name": "PARAGON MICRO INC 901 DEERFIELD PARKWAY Buffalo Grove IL 60089 USA",
-          "wins": 1,
-          "total_value": 617982
-        },
-        {
-          "name": "HUCKEYE HEALTH SERVICES LLC 24044 CINCO VILLAGE CENTER BLVD STE Katy TX 77494 USA",
-          "wins": 1,
-          "total_value": 363560
-        },
-        {
-          "name": "JACOBS GOVERNMENT SERVICES COMPANY 1100 N GLEBE RD STE 500 Arlington VA 22201 USA",
-          "wins": 1,
-          "total_value": 274509
-        },
-        {
-          "name": "PROJECT SOLUTIONS, INC. 505 KANSAS CITY ST Rapid City SD 57701 USA",
-          "wins": 1,
-          "total_value": 173779
-        },
-        {
-          "name": "NW TEL, LLC 2010 PARK LN Burlington WA 98233 USA",
-          "wins": 1,
-          "total_value": 161020
-        }
-      ],
-      "department": "INTERIOR, DEPARTMENT OF THE"
-    },
-    {
-      "total_records": 21,
-      "open_opportunities": 18,
-      "awarded": 3,
-      "win_rate_percent": 14.3,
-      "estimated_monthly_value": 260504,
-      "average_award_value": 86834,
-      "opportunities_with_attachments": 3,
-      "opportunities_with_keyword_matches": 6,
-      "top_awardees": [
-        {
-          "name": "ACTION BATTERY WHOLESALERS, INC. 484 COUNTY ROAD VV Somerset WI 54025 USA",
-          "wins": 1,
-          "total_value": 231100
-        },
-        {
-          "name": "RURAL ELECTRIC SUPPLY COOPERATIVE 2250 PINEHURST DR Middleton WI 53562 USA",
-          "wins": 1,
-          "total_value": 14894
-        },
-        {
-          "name": "Underwood Federal Solutions LLC 805 Harmon Cove Tower Secaucus NJ 07094 USA",
-          "wins": 1,
-          "total_value": 14510
-        }
-      ],
-      "department": "ENERGY, DEPARTMENT OF"
-    },
-    {
-      "total_records": 31,
-      "open_opportunities": 30,
-      "awarded": 1,
-      "win_rate_percent": 3.2,
-      "estimated_monthly_value": 255358,
-      "average_award_value": 255358,
-      "opportunities_with_attachments": 3,
-      "opportunities_with_keyword_matches": 13,
-      "top_awardees": [
-        {
-          "name": "MULTIPLE / VARIOUS Springfield MO 65807 USA",
-          "wins": 1,
-          "total_value": 255358
-        }
-      ],
-      "department": "JUSTICE, DEPARTMENT OF"
-    },
-    {
-      "total_records": 20,
-      "open_opportunities": 19,
-      "awarded": 1,
-      "win_rate_percent": 5.0,
-      "estimated_monthly_value": 112250,
-      "average_award_value": 112250,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 7,
-      "top_awardees": [
-        {
-          "name": "GRAVA HYDROGRAPHIC SOLUTIONS LLC 751 Adirondack Ave Ventura CA 93003 USA",
-          "wins": 1,
-          "total_value": 112250
-        }
-      ],
-      "department": "COMMERCE, DEPARTMENT OF"
-    },
-    {
-      "total_records": 34,
-      "open_opportunities": 34,
-      "awarded": 0,
-      "win_rate_percent": 2.9,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 6,
-      "opportunities_with_keyword_matches": 9,
-      "top_awardees": [
-        {
-          "name": "",
-          "wins": 1,
-          "total_value": 0
-        }
-      ],
-      "department": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF"
-    },
-    {
-      "total_records": 23,
-      "open_opportunities": 23,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 4,
-      "top_awardees": [],
-      "department": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION"
-    },
-    {
-      "total_records": 20,
-      "open_opportunities": 20,
-      "awarded": 0,
-      "win_rate_percent": 5.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 3,
-      "top_awardees": [
-        {
-          "name": "",
-          "wins": 1,
-          "total_value": 0
-        }
-      ],
-      "department": "STATE, DEPARTMENT OF"
-    },
-    {
-      "total_records": 12,
-      "open_opportunities": 12,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 5,
-      "top_awardees": [],
-      "department": "TRANSPORTATION, DEPARTMENT OF"
-    },
-    {
-      "total_records": 5,
-      "open_opportunities": 5,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 1,
-      "top_awardees": [],
-      "department": "UNITED STATES GOVERNMENT PUBLISHING OFFICE"
-    },
-    {
-      "total_records": 3,
-      "open_opportunities": 3,
+      "total_records": 2,
+      "open_opportunities": 2,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
@@ -855,15 +163,21 @@
     },
     {
       "total_records": 2,
-      "open_opportunities": 2,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
+      "open_opportunities": 1,
+      "awarded": 1,
+      "win_rate_percent": 50.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 1,
-      "top_awardees": [],
-      "department": "LABOR, DEPARTMENT OF"
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [
+        {
+          "name": "KBEQ CONSTRUCTORS, LLC 341 W TUDOR RD STE 300 Anchorage AK 99503 USA",
+          "wins": 1,
+          "total_value": 0
+        }
+      ],
+      "department": "INTERIOR, DEPARTMENT OF THE"
     },
     {
       "total_records": 2,
@@ -873,57 +187,9 @@
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
+      "opportunities_with_keyword_matches": 2,
       "top_awardees": [],
-      "department": "AMERICAN BATTLE MONUMENTS COMMISSION"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "COURT SERVICES AND OFFENDER SUPERVISION AGENCY"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 1,
-      "top_awardees": [],
-      "department": "TREASURY, DEPARTMENT OF THE"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "POSTAL SERVICE"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "FEDERAL DEPOSIT INSURANCE CORPORATION"
+      "department": "JUSTICE, DEPARTMENT OF"
     },
     {
       "total_records": 1,
@@ -935,7 +201,7 @@
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 1,
       "top_awardees": [],
-      "department": "THE LEGISLATIVE BRANCH"
+      "department": "GENERAL SERVICES ADMINISTRATION"
     },
     {
       "total_records": 1,
@@ -945,447 +211,90 @@
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
+      "opportunities_with_keyword_matches": 1,
       "top_awardees": [],
-      "department": "SOCIAL SECURITY ADMINISTRATION"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "NUCLEAR REGULATORY COMMISSION"
+      "department": "INTERNATIONAL BOUNDARY AND WATER COMMISSION: US-MEXICO"
     }
   ],
   "department_forecasts": {
     "DEPT OF DEFENSE": {
-      "total_records": 651,
-      "open_opportunities": 545,
-      "awarded": 106,
-      "win_rate_percent": 17.2,
-      "estimated_monthly_value": 152650715,
-      "average_award_value": 1362952,
-      "opportunities_with_attachments": 139,
-      "opportunities_with_keyword_matches": 235,
+      "total_records": 18,
+      "open_opportunities": 15,
+      "awarded": 3,
+      "win_rate_percent": 16.7,
+      "estimated_monthly_value": 15599982,
+      "average_award_value": 5199994,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 8,
       "top_awardees": [
         {
-          "name": "TRC GOVERNMENT SERVICES, LLC ",
+          "name": "MARINE POLYMERS, INC ",
           "wins": 1,
-          "total_value": 56505636
+          "total_value": 11475000
         },
         {
-          "name": "TRC GOVERNMENT SERVICES, LLC Tulsa OK 74146 USA",
+          "name": "CRANE PUMPS & SYSTEMS PFT CORP ",
           "wins": 1,
-          "total_value": 56505603
+          "total_value": 3300000
         },
         {
-          "name": "L.J.V. Development, LLC Boston MA 02109 USA",
+          "name": "JO-KELL INC. ",
           "wins": 1,
-          "total_value": 4500000
-        },
-        {
-          "name": "TRIMAN INDUSTRIES INC ",
-          "wins": 4,
-          "total_value": 2628576
-        },
-        {
-          "name": "CFF CONSULTING INC. Mineola NY 11501 USA",
-          "wins": 1,
-          "total_value": 2556000
+          "total_value": 824982
         }
       ]
     },
     "VETERANS AFFAIRS, DEPARTMENT OF": {
-      "total_records": 126,
-      "open_opportunities": 110,
-      "awarded": 16,
-      "win_rate_percent": 14.3,
-      "estimated_monthly_value": 111865321,
-      "average_award_value": 6214740,
-      "opportunities_with_attachments": 8,
-      "opportunities_with_keyword_matches": 36,
-      "top_awardees": [
-        {
-          "name": "CATALYST PHARMACEUTICALS, INC CORAL GABLES 33134 FLK",
-          "wins": 1,
-          "total_value": 105895620
-        },
-        {
-          "name": "V&C GENERAL CONTRACTOR LLC NARANJITO 00719",
-          "wins": 1,
-          "total_value": 2671154
-        },
-        {
-          "name": "ALVAREZ LLC LEESBURG 20176",
-          "wins": 1,
-          "total_value": 643396
-        },
-        {
-          "name": "MGI, INC. Meridian ID 83642 USA",
-          "wins": 1,
-          "total_value": 402055
-        },
-        {
-          "name": "CONTEMPORARY PRODUCT SOLUTIONS, INC Virginia Beach VA 23451 USA",
-          "wins": 2,
-          "total_value": 376810
-        }
-      ]
-    },
-    "INTERIOR, DEPARTMENT OF THE": {
-      "total_records": 62,
-      "open_opportunities": 43,
-      "awarded": 19,
-      "win_rate_percent": 32.3,
-      "estimated_monthly_value": 2216267,
-      "average_award_value": 110813,
-      "opportunities_with_attachments": 4,
-      "opportunities_with_keyword_matches": 5,
-      "top_awardees": [
-        {
-          "name": "PARAGON MICRO INC 901 DEERFIELD PARKWAY Buffalo Grove IL 60089 USA",
-          "wins": 1,
-          "total_value": 617982
-        },
-        {
-          "name": "HUCKEYE HEALTH SERVICES LLC 24044 CINCO VILLAGE CENTER BLVD STE Katy TX 77494 USA",
-          "wins": 1,
-          "total_value": 363560
-        },
-        {
-          "name": "JACOBS GOVERNMENT SERVICES COMPANY 1100 N GLEBE RD STE 500 Arlington VA 22201 USA",
-          "wins": 1,
-          "total_value": 274509
-        },
-        {
-          "name": "PROJECT SOLUTIONS, INC. 505 KANSAS CITY ST Rapid City SD 57701 USA",
-          "wins": 1,
-          "total_value": 173779
-        },
-        {
-          "name": "NW TEL, LLC 2010 PARK LN Burlington WA 98233 USA",
-          "wins": 1,
-          "total_value": 161020
-        }
-      ]
-    },
-    "HOMELAND SECURITY, DEPARTMENT OF": {
-      "total_records": 58,
-      "open_opportunities": 43,
-      "awarded": 15,
-      "win_rate_percent": 27.6,
-      "estimated_monthly_value": 100008625735,
-      "average_award_value": 6250539108,
-      "opportunities_with_attachments": 11,
-      "opportunities_with_keyword_matches": 8,
-      "top_awardees": [
-        {
-          "name": "WHITING-TURNER CONTRACTING COMPANY, THE Towson MD 21286 USA",
-          "wins": 1,
-          "total_value": 10000000000
-        },
-        {
-          "name": "WALSH FEDERAL LLC Chicago IL 60607 USA",
-          "wins": 1,
-          "total_value": 10000000000
-        },
-        {
-          "name": "TUTOR PERINI CORPORATION Sylmar CA 91342 USA",
-          "wins": 1,
-          "total_value": 10000000000
-        },
-        {
-          "name": "SOUTHWEST VALLEY CONSTRUCTORS CO Albuquerque NM 87109 USA",
-          "wins": 1,
-          "total_value": 10000000000
-        },
-        {
-          "name": "HENSEL PHELPS CONSTRUCTION CO Greeley CO 80631 USA",
-          "wins": 1,
-          "total_value": 10000000000
-        }
-      ]
-    },
-    "AGRICULTURE, DEPARTMENT OF": {
-      "total_records": 44,
-      "open_opportunities": 39,
-      "awarded": 5,
-      "win_rate_percent": 11.4,
-      "estimated_monthly_value": 4136563,
-      "average_award_value": 827312,
-      "opportunities_with_attachments": 7,
-      "opportunities_with_keyword_matches": 6,
-      "top_awardees": [
-        {
-          "name": "CRIDER, INC. Stillmore GA 30464 USA",
-          "wins": 1,
-          "total_value": 3120093
-        },
-        {
-          "name": "UCT, LLC Bristol PA 19007 USA",
-          "wins": 1,
-          "total_value": 770000
-        },
-        {
-          "name": "BY BROOKE Henrieville UT 84736 USA",
-          "wins": 1,
-          "total_value": 120842
-        },
-        {
-          "name": "BUCKS SANITARY SERVICE INC Eugene OR 97402 USA",
-          "wins": 1,
-          "total_value": 102628
-        },
-        {
-          "name": "JAKL INDUSTRY SERVICES LLC San Antonio TX 78244 USA",
-          "wins": 1,
-          "total_value": 23000
-        }
-      ]
-    },
-    "HEALTH AND HUMAN SERVICES, DEPARTMENT OF": {
-      "total_records": 34,
-      "open_opportunities": 34,
+      "total_records": 3,
+      "open_opportunities": 3,
       "awarded": 0,
-      "win_rate_percent": 2.9,
+      "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
-      "opportunities_with_attachments": 6,
-      "opportunities_with_keyword_matches": 9,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 1,
+      "top_awardees": []
+    },
+    "ENVIRONMENTAL PROTECTION AGENCY": {
+      "total_records": 2,
+      "open_opportunities": 2,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": []
+    },
+    "INTERIOR, DEPARTMENT OF THE": {
+      "total_records": 2,
+      "open_opportunities": 1,
+      "awarded": 1,
+      "win_rate_percent": 50.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
       "top_awardees": [
         {
-          "name": "",
+          "name": "KBEQ CONSTRUCTORS, LLC 341 W TUDOR RD STE 300 Anchorage AK 99503 USA",
           "wins": 1,
           "total_value": 0
         }
       ]
     },
     "JUSTICE, DEPARTMENT OF": {
-      "total_records": 31,
-      "open_opportunities": 30,
-      "awarded": 1,
-      "win_rate_percent": 3.2,
-      "estimated_monthly_value": 255358,
-      "average_award_value": 255358,
-      "opportunities_with_attachments": 3,
-      "opportunities_with_keyword_matches": 13,
-      "top_awardees": [
-        {
-          "name": "MULTIPLE / VARIOUS Springfield MO 65807 USA",
-          "wins": 1,
-          "total_value": 255358
-        }
-      ]
-    },
-    "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION": {
-      "total_records": 23,
-      "open_opportunities": 23,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 4,
-      "top_awardees": []
-    },
-    "ENERGY, DEPARTMENT OF": {
-      "total_records": 21,
-      "open_opportunities": 18,
-      "awarded": 3,
-      "win_rate_percent": 14.3,
-      "estimated_monthly_value": 260504,
-      "average_award_value": 86834,
-      "opportunities_with_attachments": 3,
-      "opportunities_with_keyword_matches": 6,
-      "top_awardees": [
-        {
-          "name": "ACTION BATTERY WHOLESALERS, INC. 484 COUNTY ROAD VV Somerset WI 54025 USA",
-          "wins": 1,
-          "total_value": 231100
-        },
-        {
-          "name": "RURAL ELECTRIC SUPPLY COOPERATIVE 2250 PINEHURST DR Middleton WI 53562 USA",
-          "wins": 1,
-          "total_value": 14894
-        },
-        {
-          "name": "Underwood Federal Solutions LLC 805 Harmon Cove Tower Secaucus NJ 07094 USA",
-          "wins": 1,
-          "total_value": 14510
-        }
-      ]
-    },
-    "COMMERCE, DEPARTMENT OF": {
-      "total_records": 20,
-      "open_opportunities": 19,
-      "awarded": 1,
-      "win_rate_percent": 5.0,
-      "estimated_monthly_value": 112250,
-      "average_award_value": 112250,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 7,
-      "top_awardees": [
-        {
-          "name": "GRAVA HYDROGRAPHIC SOLUTIONS LLC 751 Adirondack Ave Ventura CA 93003 USA",
-          "wins": 1,
-          "total_value": 112250
-        }
-      ]
-    },
-    "STATE, DEPARTMENT OF": {
-      "total_records": 20,
-      "open_opportunities": 20,
-      "awarded": 0,
-      "win_rate_percent": 5.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 3,
-      "top_awardees": [
-        {
-          "name": "",
-          "wins": 1,
-          "total_value": 0
-        }
-      ]
-    },
-    "TRANSPORTATION, DEPARTMENT OF": {
-      "total_records": 12,
-      "open_opportunities": 12,
+      "total_records": 2,
+      "open_opportunities": 2,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 5,
+      "opportunities_with_keyword_matches": 2,
       "top_awardees": []
     },
     "GENERAL SERVICES ADMINISTRATION": {
-      "total_records": 9,
-      "open_opportunities": 6,
-      "awarded": 3,
-      "win_rate_percent": 55.6,
-      "estimated_monthly_value": 15371440,
-      "average_award_value": 3074288,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 2,
-      "top_awardees": [
-        {
-          "name": "THE ENTERTAINMENT MARKETING GROUP, INC. MIAMI FL 33143-3837 USA",
-          "wins": 1,
-          "total_value": 11000000
-        },
-        {
-          "name": "CBP REALTY LLC Fayetteville AR 72703 USA",
-          "wins": 1,
-          "total_value": 3371440
-        },
-        {
-          "name": "RLC LLC Lenexa KS 66219-8068 USA",
-          "wins": 1,
-          "total_value": 1000000
-        },
-        {
-          "name": "",
-          "wins": 2,
-          "total_value": 0
-        }
-      ]
-    },
-    "UNITED STATES GOVERNMENT PUBLISHING OFFICE": {
-      "total_records": 5,
-      "open_opportunities": 5,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 1,
-      "top_awardees": []
-    },
-    "ENVIRONMENTAL PROTECTION AGENCY": {
-      "total_records": 3,
-      "open_opportunities": 3,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": []
-    },
-    "LABOR, DEPARTMENT OF": {
-      "total_records": 2,
-      "open_opportunities": 2,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 1,
-      "top_awardees": []
-    },
-    "AMERICAN BATTLE MONUMENTS COMMISSION": {
-      "total_records": 2,
-      "open_opportunities": 2,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": []
-    },
-    "COURT SERVICES AND OFFENDER SUPERVISION AGENCY": {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": []
-    },
-    "TREASURY, DEPARTMENT OF THE": {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 1,
-      "top_awardees": []
-    },
-    "POSTAL SERVICE": {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": []
-    },
-    "FEDERAL DEPOSIT INSURANCE CORPORATION": {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": []
-    },
-    "THE LEGISLATIVE BRANCH": {
       "total_records": 1,
       "open_opportunities": 1,
       "awarded": 0,
@@ -1396,7 +305,7 @@
       "opportunities_with_keyword_matches": 1,
       "top_awardees": []
     },
-    "SOCIAL SECURITY ADMINISTRATION": {
+    "INTERNATIONAL BOUNDARY AND WATER COMMISSION: US-MEXICO": {
       "total_records": 1,
       "open_opportunities": 1,
       "awarded": 0,
@@ -1404,18 +313,7 @@
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": []
-    },
-    "NUCLEAR REGULATORY COMMISSION": {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
+      "opportunities_with_keyword_matches": 1,
       "top_awardees": []
     }
   }
