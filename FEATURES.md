@@ -219,6 +219,27 @@ Served from the `docs/` directory; deployed via GitHub Pages.
 
 ---
 
+## 12. Behavior-Driven Development (Pilot)
+
+### Gherkin feature suite (`features/`)
+- `features/search.feature` is a pilot, human-readable behavior suite for user-visible search behavior.
+- Gherkin acceptance criteria are derived from `DEFINITION_OF_DONE.md` first, with `FEATURES.md` used as feature inventory context.
+- Each feature file includes a traceability block referencing both documents.
+
+### Layered execution model
+- Scenarios are tagged by layer (for example `@ui`, `@pipeline`, `@accessibility`) so only relevant scenarios run as browser E2E.
+- Fast checks run on pull requests via `.github/workflows/bdd-fast.yml`.
+- Full checks (including slower scenarios) run on schedule/manual trigger via `.github/workflows/bdd-full.yml`.
+
+### Maintainability guardrails
+- `tests/test_bdd_feature_contract.py` enforces core authoring rules:
+  - traceability references in every feature file
+  - at least one layer tag per feature
+  - one `When` and one primary `Then` per scenario
+- Maintenance rule: when behavior changes, update docs + the affected scenario in the same pull request.
+
+---
+
 ## Configuration
 
 | File | Purpose |

@@ -342,6 +342,25 @@ python -m pytest tests/ \
 
 ---
 
+## 11. BDD acceptance criteria maintenance (pilot)
+
+**Done when:**
+- User-visible search behavior has Gherkin scenarios in `features/search.feature`.
+- Each scenario is traceable to both `DEFINITION_OF_DONE.md` and `FEATURES.md`.
+- Fast BDD checks run in pull requests, and full BDD checks run on a scheduled/manual workflow.
+- Any behavior change PR updates both the relevant doc section and scenario(s) together.
+
+**How to test:**
+
+```bash
+python -m pytest tests/test_bdd_feature_contract.py -v
+
+RUN_PLAYWRIGHT_BDD=1 python -m pytest tests/test_search_bdd_playwright.py -m "not slow" -v
+RUN_PLAYWRIGHT_BDD=1 python -m pytest tests/test_search_bdd_playwright.py -m "slow" -v
+```
+
+---
+
 ## Quick verification checklist
 
 Use this as a 15-minute smoke test after any significant change:
