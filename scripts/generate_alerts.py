@@ -28,12 +28,17 @@ FOCUS_TERMS = {
     "content management system",
 }
 
-ACCESSIBILITY_SIGNAL_NAICS_PREFIXES = (
-    "5112",   # Software publishers
-    "518",    # Computing infrastructure, hosting, and related services
-    "51913",  # Internet publishing and broadcasting and web search portals
-    "5415",   # Computer systems design and related services
-)
+DIGITAL_SERVICE_SIGNAL_NAICS_CODES = {
+    "513210",  # Software publishers
+    "541511",  # Custom computer programming services
+    "541512",  # Computer systems design services
+    "518210",  # Data processing, hosting, and related services
+    "541519",  # Other computer related services
+}
+
+LEGACY_NAICS_CODE_MAP = {
+    "511210": "513210",  # Software Publishers (pre-2022 NAICS)
+}
 
 ACCESSIBILITY_SIGNAL_PSC_PREFIXES = (
     "D3",  # IT and telecom - information technology systems
@@ -46,7 +51,8 @@ def has_accessibility_code_signal(record: dict[str, Any]) -> bool:
     naics = "".join(ch for ch in str(record.get("NaicsCode", "")) if ch.isdigit())
     psc = str(record.get("ClassificationCode") or "").strip().upper()
 
-    has_naics_signal = any(naics.startswith(prefix) for prefix in ACCESSIBILITY_SIGNAL_NAICS_PREFIXES)
+    normalized_naics = LEGACY_NAICS_CODE_MAP.get(naics, naics)
+    has_naics_signal = normalized_naics in DIGITAL_SERVICE_SIGNAL_NAICS_CODES
     has_psc_signal = any(psc.startswith(prefix) for prefix in ACCESSIBILITY_SIGNAL_PSC_PREFIXES)
     return has_naics_signal or has_psc_signal
 
