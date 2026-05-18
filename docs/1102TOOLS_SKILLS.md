@@ -5,6 +5,12 @@ This project now includes a local skills catalog for the 1102tools federal contr
 Catalog file:
 - config/skills/1102tools_skills_catalog.json
 
+Workspace skill files:
+- .github/skills/recompete-discovery/SKILL.md
+- .github/skills/high-value-alerts/SKILL.md
+- .github/skills/usaspending-enrichment/SKILL.md
+- .github/skills/dashboard-publish-refresh/SKILL.md
+
 ## Included Skills
 
 - ot-project-description-builder
