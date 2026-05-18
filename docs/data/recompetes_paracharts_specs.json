@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "source": "docs/data/recompetes.json",
-  "row_count": 342,
+  "row_count": 24000,
   "manifests": [
     {
       "id": "agency-value-bar",
@@ -13,40 +13,40 @@
           {
             "name": "Total Value",
             "data": [
-              1313779995.15,
-              305693475.79,
-              73839156.22,
-              71811422.82,
-              36612422.81,
-              22068726.36,
-              17256347.15,
-              15834065.33,
-              10046622.18,
-              7912072.45,
-              7883835.2,
-              7375347.2,
-              4046470.88,
-              3411282.37,
-              2345204.26
+              34433324778.9,
+              1657031561.1,
+              864790817.4,
+              403721823.0,
+              287405467.8,
+              231498962.4,
+              226626133.8,
+              191613748.2,
+              110059416.9,
+              65099115.0,
+              40164790.8,
+              37264861.8,
+              19167683.1,
+              12000000.0,
+              10256515.8
             ]
           }
         ],
         "categories": [
-          "Department of Health and Human Services",
-          "Department of Defense",
           "Department of the Interior",
-          "General Services Administration",
-          "Department of Homeland Security",
-          "Department of Veterans Affairs",
-          "Department of Housing and Urban Development",
-          "Court Services and Offender Supervision Agency",
-          "Department of Labor",
-          "Securities and Exchange Commission",
-          "Office of Personnel Management",
-          "Department of Agriculture",
+          "Department of the Treasury",
+          "Executive Office of the President",
+          "Peace Corps",
+          "Department of Transportation",
           "Department of Justice",
-          "Department of Commerce",
-          "Railroad Retirement Board"
+          "Government Accountability Office",
+          "Department of Defense",
+          "Department of Housing and Urban Development",
+          "Department of Energy",
+          "Department of Homeland Security",
+          "National Archives and Records Administration",
+          "Consumer Financial Protection Bureau",
+          "General Services Administration",
+          "Department of Agriculture"
         ]
       }
     },
@@ -61,7 +61,7 @@
             "name": "Expiring Awards",
             "data": [
               0,
-              342,
+              24000,
               0,
               0
             ]
@@ -85,7 +85,7 @@
           {
             "name": "Set-Aside Count",
             "data": [
-              342
+              24000
             ]
           }
         ],
@@ -106,8 +106,8 @@
             "data": [
               0,
               0,
-              107,
-              235
+              510,
+              23490
             ]
           }
         ],
@@ -134,7 +134,7 @@
               0,
               0,
               0,
-              342
+              24000
             ]
           }
         ],

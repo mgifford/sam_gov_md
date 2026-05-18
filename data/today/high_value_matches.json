@@ -1,8 +1,8 @@
 {
-  "requested_date": "2026-05-17",
-  "effective_date": "2026-05-16",
-  "records_total": 29,
-  "high_value_count": 1,
+  "requested_date": "2026-05-18",
+  "effective_date": "2026-05-17",
+  "records_total": 238,
+  "high_value_count": 0,
   "min_hits": 8,
   "focus_terms": [
     "accessibility",
@@ -23,30 +23,5 @@
     "wcag",
     "web"
   ],
-  "matches": [
-    {
-      "NoticeId": "e6528561c44a4c8687f84fcb6b1133a2",
-      "Sol#": "W50S8R26RA005",
-      "Title": "B403 CYBER Repair",
-      "Type": "Solicitation",
-      "PostedDate": "2026-05-16 14:10:52.787-04",
-      "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "236220",
-      "ClassificationCode": "Z2QA",
-      "Link": "https://sam.gov/workspace/contract/opp/e6528561c44a4c8687f84fcb6b1133a2/view",
-      "matches": [
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 7
-        },
-        {
-          "term": "cybersecurity",
-          "category": "security",
-          "count": 2
-        }
-      ],
-      "total_hits": 9
-    }
-  ]
+  "matches": []
 }
