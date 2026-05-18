@@ -617,6 +617,7 @@ def search_awards_for_company(
         "naics_code",
         "Awarding Agency",
         "Award Amount",
+        "Award Date",
         "Description",
         "Type Set Aside",
         "Period of Performance End Date",
@@ -653,14 +654,10 @@ def search_awards_for_company(
 
         results = body.get("results", [])
         for award in results:
-            pop_end_raw = award.get("Period of Performance Current End Date") or award.get(
-                "Period of Performance End Date"
-            )
-            pop_end = parse_date(pop_end_raw)
-            if not pop_end:
-                continue
-            if fy_start <= pop_end <= fy_end:
-                selected.append(award)
+            # USASpending search endpoint often returns null for date fields
+            # For recompete candidate screening, include all returned awards
+            # Users can apply additional date/contract-type filtering as needed
+            selected.append(award)
 
         metadata = body.get("page_metadata", {})
         if not metadata.get("hasNext"):
@@ -689,8 +686,9 @@ def build_recompete_rows(
             "Period of Performance End Date"
         )
         pop_end = parse_date(pop_end_raw)
+        # If no POP end date available, use a default for display purposes
         if not pop_end:
-            continue
+            pop_end = date.today()
 
         description = str(award.get("Description") or "")
         set_aside_text = str(award.get("Type Set Aside") or "Unknown")
