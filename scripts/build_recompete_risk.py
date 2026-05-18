@@ -185,6 +185,12 @@ def parse_date(value: str | None) -> date | None:
     if not value:
         return None
     raw = value.strip()
+    match = re.match(r"^(\d{4}-\d{2}-\d{2})", raw)
+    if match:
+        try:
+            return datetime.strptime(match.group(1), "%Y-%m-%d").date()
+        except ValueError:
+            pass
     for fmt in ("%Y-%m-%d", "%Y-%m-%d %H:%M:%S"):
         try:
             return datetime.strptime(raw, fmt).date()
