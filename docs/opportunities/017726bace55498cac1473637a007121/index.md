@@ -24,6 +24,10 @@ XT90 Female Connector with Pigtail - 500 units IAW Technical Specification Sheet
   - Email: jason.m.burke.civ@army.mil
   - Phone: 5706159288
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/017726bace55498cac1473637a007121/view)

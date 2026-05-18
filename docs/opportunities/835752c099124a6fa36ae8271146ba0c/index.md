@@ -30,6 +30,10 @@ The Embassy of the United States of America in Amman, Jordan has completed its a
   - Email: alzuhlofhf@state.gov
   - Phone: 96265906025
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/835752c099124a6fa36ae8271146ba0c/view)

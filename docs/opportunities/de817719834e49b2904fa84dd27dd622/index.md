@@ -24,6 +24,10 @@ UNIT OF ISSUE IS PG. 1PG = 10EA 19F | F-15 | BUMPER ASSEMBLY, NOS NSN: 1560-0104
   - Email: ryan.loeffelholz@dla.mil
   - Phone: 8042791452
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/de817719834e49b2904fa84dd27dd622/view)

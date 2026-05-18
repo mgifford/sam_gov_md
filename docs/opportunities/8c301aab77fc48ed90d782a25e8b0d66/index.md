@@ -30,6 +30,10 @@ The USDA Forest Service (FS), Procurement Operations (PROPS) is issuing this syn
   - Email: james.kaminski@usda.gov
   - Phone: 5734538424
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8c301aab77fc48ed90d782a25e8b0d66/view)

@@ -26,6 +26,10 @@ This is a solicitation for contractor support to provide Airfield Ramp clearing 
   - Name: Samantha J Valverde
   - Email: samantha.Valverde@us.af.mil
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d72bc4c9dee7409b87428a20fdf9ba89/view)

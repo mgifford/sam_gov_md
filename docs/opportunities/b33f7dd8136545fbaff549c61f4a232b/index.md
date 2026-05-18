@@ -28,6 +28,10 @@ The U.S. Consulate General in Hermosillo is seeking qualified contractors to pro
   - Email: durazoeb@state.gov
   - Phone: 526626896206
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/b33f7dd8136545fbaff549c61f4a232b/view)

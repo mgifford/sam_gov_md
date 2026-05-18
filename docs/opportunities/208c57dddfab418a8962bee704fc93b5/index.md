@@ -23,6 +23,10 @@ Proposed procurement for NSN 5305121701027 SCREW,CAP,HEXAGON H: Line 0001 Qty 50
   - Name: Questions regarding this solicitation should be emailed to the buyer listed in block 5 of the solicitation document which can be found under the Additional Information link. If the Additional Information link does not work, please go to https://www.dibbs.bsm.dla.mil/Solicitations/ and type the solicitation number in the Global Search box.
   - Email: DibbsBSM@dla.mil
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/208c57dddfab418a8962bee704fc93b5/view)

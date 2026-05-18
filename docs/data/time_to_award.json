@@ -1,14 +1,14 @@
 {
-  "generated_date": "2026-05-17",
+  "generated_date": "2026-05-18",
   "stale_days_threshold": 90,
   "summary": {
-    "total_awards_with_timing": 1854,
+    "total_awards_with_timing": 1852,
     "avg_days_to_award": 26.5,
     "median_days_to_award": 22.0,
     "fastest_award_days": 0,
     "slowest_award_days": 64,
     "total_abandoned": 0,
-    "officers_with_timing": 534,
+    "officers_with_timing": 532,
     "agencies_with_timing": 14
   },
   "by_officer": [
@@ -185,18 +185,6 @@
       "email": null,
       "agencies": [
         "HOMELAND SECURITY, DEPARTMENT OF"
-      ],
-      "avg_days": 10.0,
-      "median_days": 10,
-      "fastest_award": 10,
-      "slowest_award": 10,
-      "awarded": 1
-    },
-    {
-      "name": "ALISON N. BRUKER, N741.3, PHONE (717)605-6447, EMAIL ALISON.N.BRUKER.CIV@US.NAVY.MIL",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
       ],
       "avg_days": 10.0,
       "median_days": 10,
@@ -2838,18 +2826,6 @@
       "email": null,
       "agencies": [
         "DEPT OF DEFENSE"
-      ],
-      "avg_days": 28.0,
-      "median_days": 28,
-      "fastest_award": 28,
-      "slowest_award": 28,
-      "awarded": 1
-    },
-    {
-      "name": "Lowery, Adam",
-      "email": null,
-      "agencies": [
-        "INTERIOR, DEPARTMENT OF THE"
       ],
       "avg_days": 28.0,
       "median_days": 28,
@@ -6443,10 +6419,10 @@
     },
     {
       "agency": "DEPT OF DEFENSE",
-      "awarded": 1556,
+      "awarded": 1555,
       "never_awarded_count": 0,
       "avg_days": 25.4,
-      "median_days": 22.0,
+      "median_days": 22,
       "fastest_award": 0,
       "slowest_award": 64
     },
@@ -6515,10 +6491,10 @@
     },
     {
       "agency": "INTERIOR, DEPARTMENT OF THE",
-      "awarded": 112,
+      "awarded": 111,
       "never_awarded_count": 0,
-      "avg_days": 35.6,
-      "median_days": 33.0,
+      "avg_days": 35.7,
+      "median_days": 33,
       "fastest_award": 3,
       "slowest_award": 59
     },

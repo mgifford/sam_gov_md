@@ -25,6 +25,10 @@ Request for Quote for Roof Anchor Testing and Certification for the Iowa City VA
   - Email: Joseph.Bennett@va.gov
   - Phone: 319-688-3633
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ff66b2cc7d4548b5a6d75b402869321e/view)

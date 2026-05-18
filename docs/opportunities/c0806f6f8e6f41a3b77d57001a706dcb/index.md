@@ -28,6 +28,10 @@ The U.S. Embassy invites you to submit a proposal for customized Group Life and 
   - Email: MuscatProcurement@state.gov
   - Phone: 0096824643792
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c0806f6f8e6f41a3b77d57001a706dcb/view)

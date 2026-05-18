@@ -34,6 +34,10 @@ AMENDMENT 0002 is to extend solicitation due date from 18 May 2026 at 10:00 AM (
 
 - Attachment 1: _FHP OTS - Suits and Spares Item List The purpose of this amendment is to update the Item List. Please review the attached Amendment 0001_Attachment 1_FHP OTS - Suits and Spares Item List, and Amendment 0001_RFQ - FA527026QA025_FHP OTS - Suits and Spares. This is a combined synopsis/solicitation (COMBO) for commercial products FHP-OTS Suits and Spares. This acquisition is restricted to Brand Name Or Equal Items. Please respond to this RFQ by submitting a quote through email to Ms. Rie Sakumoto at e-mail rie.sakumoto.jp@us.af.mil and to Ms. Rose Napolitano at rose.napolitano@us.af.mil NLT 18 May 2026, 10:00 AM JST. Please refer to the attachemnts for details
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d01960ff77fa4e3198c9e19395c3c60c/view)

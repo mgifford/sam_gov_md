@@ -24,6 +24,10 @@ Login at https://piee.eb.mil and search for 'W90VN826RA022' to obtain more detai
   - Email: chinok.han.ln@army.mil
   - Phone: 82503-322-1384
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e2b8c7fed80a4d1d8230ef2c35d86e2d/view)

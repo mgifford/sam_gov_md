@@ -24,6 +24,10 @@ notice_id: 5ba99506b0a84908ae8a9b26c4a27fb5
   - Email: shyvonne.yarbrough@us.af.mil
   - Phone: 9406762606
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5ba99506b0a84908ae8a9b26c4a27fb5/view)

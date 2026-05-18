@@ -27,6 +27,10 @@ This is to notify that due to unforeseen circumstances, the subject Industry Day
   - Name: Samantha Salgado
   - Email: samantha.c.salgado.civ@us.navy.mil
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0c3971b57f9a4d66bdcbee1636ea2dac/view)

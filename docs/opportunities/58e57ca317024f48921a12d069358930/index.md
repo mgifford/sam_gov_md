@@ -23,6 +23,10 @@ Amendment 0001 - Extended Closing to 5.22.2026 by 11:00AM EST The VA Boston Heal
   - Name: Subrena Winfield
   - Email: subrena.winfield@va.gov
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/58e57ca317024f48921a12d069358930/view)

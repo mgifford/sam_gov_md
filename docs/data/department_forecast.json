@@ -1,30 +1,20 @@
 {
-  "forecast_date": "2026-05-16",
+  "forecast_date": "2026-05-17",
   "departments_by_opportunity_volume": [
     {
-      "total_records": 18,
-      "open_opportunities": 15,
-      "awarded": 3,
-      "win_rate_percent": 16.7,
-      "estimated_monthly_value": 15599982,
-      "average_award_value": 5199994,
-      "opportunities_with_attachments": 3,
-      "opportunities_with_keyword_matches": 8,
+      "total_records": 231,
+      "open_opportunities": 230,
+      "awarded": 1,
+      "win_rate_percent": 0.4,
+      "estimated_monthly_value": 537519,
+      "average_award_value": 537519,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 224,
       "top_awardees": [
         {
-          "name": "MARINE POLYMERS, INC ",
+          "name": "KRIMA CONSTRUCTION CORP. 49, PAENGSEONGBUK-RO, PAENGSEONG-EUP PYEONTAEK-SI 17974",
           "wins": 1,
-          "total_value": 11475000
-        },
-        {
-          "name": "CRANE PUMPS & SYSTEMS PFT CORP ",
-          "wins": 1,
-          "total_value": 3300000
-        },
-        {
-          "name": "JO-KELL INC. ",
-          "wins": 1,
-          "total_value": 824982
+          "total_value": 537519
         }
       ],
       "department": "DEPT OF DEFENSE"
@@ -37,51 +27,27 @@
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 1,
+      "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
       "department": "VETERANS AFFAIRS, DEPARTMENT OF"
     },
     {
-      "total_records": 2,
+      "total_records": 3,
       "open_opportunities": 2,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "ENVIRONMENTAL PROTECTION AGENCY"
-    },
-    {
-      "total_records": 2,
-      "open_opportunities": 2,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 2,
-      "top_awardees": [],
-      "department": "JUSTICE, DEPARTMENT OF"
-    },
-    {
-      "total_records": 2,
-      "open_opportunities": 1,
       "awarded": 1,
-      "win_rate_percent": 50.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
+      "win_rate_percent": 33.3,
+      "estimated_monthly_value": 2460988,
+      "average_award_value": 2460988,
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [
         {
-          "name": "KBEQ CONSTRUCTORS, LLC 341 W TUDOR RD STE 300 Anchorage AK 99503 USA",
+          "name": "AL WASITA FOR SUPPORT SERVICES LLC Bayader Wadi Al Seer AMMAN 11190 JOR",
           "wins": 1,
-          "total_value": 0
+          "total_value": 2460988
         }
       ],
-      "department": "INTERIOR, DEPARTMENT OF THE"
+      "department": "STATE, DEPARTMENT OF"
     },
     {
       "total_records": 1,
@@ -91,48 +57,44 @@
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 1,
+      "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "GENERAL SERVICES ADMINISTRATION"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 1,
-      "top_awardees": [],
-      "department": "INTERNATIONAL BOUNDARY AND WATER COMMISSION: US-MEXICO"
+      "department": "AGRICULTURE, DEPARTMENT OF"
     }
   ],
   "departments_by_award_value": [
     {
-      "total_records": 18,
-      "open_opportunities": 15,
-      "awarded": 3,
-      "win_rate_percent": 16.7,
-      "estimated_monthly_value": 15599982,
-      "average_award_value": 5199994,
-      "opportunities_with_attachments": 3,
-      "opportunities_with_keyword_matches": 8,
+      "total_records": 3,
+      "open_opportunities": 2,
+      "awarded": 1,
+      "win_rate_percent": 33.3,
+      "estimated_monthly_value": 2460988,
+      "average_award_value": 2460988,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
       "top_awardees": [
         {
-          "name": "MARINE POLYMERS, INC ",
+          "name": "AL WASITA FOR SUPPORT SERVICES LLC Bayader Wadi Al Seer AMMAN 11190 JOR",
           "wins": 1,
-          "total_value": 11475000
-        },
+          "total_value": 2460988
+        }
+      ],
+      "department": "STATE, DEPARTMENT OF"
+    },
+    {
+      "total_records": 231,
+      "open_opportunities": 230,
+      "awarded": 1,
+      "win_rate_percent": 0.4,
+      "estimated_monthly_value": 537519,
+      "average_award_value": 537519,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 224,
+      "top_awardees": [
         {
-          "name": "CRANE PUMPS & SYSTEMS PFT CORP ",
+          "name": "KRIMA CONSTRUCTION CORP. 49, PAENGSEONGBUK-RO, PAENGSEONG-EUP PYEONTAEK-SI 17974",
           "wins": 1,
-          "total_value": 3300000
-        },
-        {
-          "name": "JO-KELL INC. ",
-          "wins": 1,
-          "total_value": 824982
+          "total_value": 537519
         }
       ],
       "department": "DEPT OF DEFENSE"
@@ -145,53 +107,11 @@
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 1,
+      "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
       "department": "VETERANS AFFAIRS, DEPARTMENT OF"
     },
     {
-      "total_records": 2,
-      "open_opportunities": 2,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "ENVIRONMENTAL PROTECTION AGENCY"
-    },
-    {
-      "total_records": 2,
-      "open_opportunities": 1,
-      "awarded": 1,
-      "win_rate_percent": 50.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [
-        {
-          "name": "KBEQ CONSTRUCTORS, LLC 341 W TUDOR RD STE 300 Anchorage AK 99503 USA",
-          "wins": 1,
-          "total_value": 0
-        }
-      ],
-      "department": "INTERIOR, DEPARTMENT OF THE"
-    },
-    {
-      "total_records": 2,
-      "open_opportunities": 2,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 2,
-      "top_awardees": [],
-      "department": "JUSTICE, DEPARTMENT OF"
-    },
-    {
       "total_records": 1,
       "open_opportunities": 1,
       "awarded": 0,
@@ -199,48 +119,26 @@
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 1,
+      "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "GENERAL SERVICES ADMINISTRATION"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 1,
-      "top_awardees": [],
-      "department": "INTERNATIONAL BOUNDARY AND WATER COMMISSION: US-MEXICO"
+      "department": "AGRICULTURE, DEPARTMENT OF"
     }
   ],
   "department_forecasts": {
     "DEPT OF DEFENSE": {
-      "total_records": 18,
-      "open_opportunities": 15,
-      "awarded": 3,
-      "win_rate_percent": 16.7,
-      "estimated_monthly_value": 15599982,
-      "average_award_value": 5199994,
-      "opportunities_with_attachments": 3,
-      "opportunities_with_keyword_matches": 8,
+      "total_records": 231,
+      "open_opportunities": 230,
+      "awarded": 1,
+      "win_rate_percent": 0.4,
+      "estimated_monthly_value": 537519,
+      "average_award_value": 537519,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 224,
       "top_awardees": [
         {
-          "name": "MARINE POLYMERS, INC ",
+          "name": "KRIMA CONSTRUCTION CORP. 49, PAENGSEONGBUK-RO, PAENGSEONG-EUP PYEONTAEK-SI 17974",
           "wins": 1,
-          "total_value": 11475000
-        },
-        {
-          "name": "CRANE PUMPS & SYSTEMS PFT CORP ",
-          "wins": 1,
-          "total_value": 3300000
-        },
-        {
-          "name": "JO-KELL INC. ",
-          "wins": 1,
-          "total_value": 824982
+          "total_value": 537519
         }
       ]
     },
@@ -252,49 +150,27 @@
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 1,
-      "top_awardees": []
-    },
-    "ENVIRONMENTAL PROTECTION AGENCY": {
-      "total_records": 2,
-      "open_opportunities": 2,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": []
     },
-    "INTERIOR, DEPARTMENT OF THE": {
-      "total_records": 2,
-      "open_opportunities": 1,
+    "STATE, DEPARTMENT OF": {
+      "total_records": 3,
+      "open_opportunities": 2,
       "awarded": 1,
-      "win_rate_percent": 50.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
+      "win_rate_percent": 33.3,
+      "estimated_monthly_value": 2460988,
+      "average_award_value": 2460988,
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [
         {
-          "name": "KBEQ CONSTRUCTORS, LLC 341 W TUDOR RD STE 300 Anchorage AK 99503 USA",
+          "name": "AL WASITA FOR SUPPORT SERVICES LLC Bayader Wadi Al Seer AMMAN 11190 JOR",
           "wins": 1,
-          "total_value": 0
+          "total_value": 2460988
         }
       ]
     },
-    "JUSTICE, DEPARTMENT OF": {
-      "total_records": 2,
-      "open_opportunities": 2,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 2,
-      "top_awardees": []
-    },
-    "GENERAL SERVICES ADMINISTRATION": {
+    "AGRICULTURE, DEPARTMENT OF": {
       "total_records": 1,
       "open_opportunities": 1,
       "awarded": 0,
@@ -302,18 +178,7 @@
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 1,
-      "top_awardees": []
-    },
-    "INTERNATIONAL BOUNDARY AND WATER COMMISSION: US-MEXICO": {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 1,
+      "opportunities_with_keyword_matches": 0,
       "top_awardees": []
     }
   }

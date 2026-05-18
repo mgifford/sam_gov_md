@@ -28,6 +28,10 @@ In line with the Army’s Modernization Strategy, the Army must modernize sustai
   - Email: thomas.c.hall111.civ@army.mil
   - Phone: 7172675583
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a88ed26231f445b1aca75550804cb3d6/view)
