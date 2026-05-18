@@ -66,6 +66,22 @@ class TestScoreRecord:
         _, include = ga.score_record(record, min_hits=8)
         assert include is False
 
+    def test_legacy_software_publisher_naics_maps_to_513210(self) -> None:
+        record = {
+            "matches": [{"term": "platform", "count": 20}],
+            "NaicsCode": "511210",
+        }
+        _, include = ga.score_record(record, min_hits=8)
+        assert include is True
+
+    def test_unlisted_5415_naics_without_focus_term_disqualified(self) -> None:
+        record = {
+            "matches": [{"term": "platform", "count": 20}],
+            "NaicsCode": "541513",
+        }
+        _, include = ga.score_record(record, min_hits=8)
+        assert include is False
+
     def test_empty_matches_returns_zero_not_included(self) -> None:
         total, include = ga.score_record({"matches": []}, min_hits=8)
         assert total == 0
