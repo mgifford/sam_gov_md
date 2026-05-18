@@ -1,7 +1,7 @@
 # Recompete Discovery Summary
 
 - Cohort size: 30 companies
-- FY window: 2025-10-01 to 2027-09-30
+- FY window: 2021-10-01 to 2026-12-31
 - Expiring awards found: 0
 - Small-business set-aside awards: 0
 - Rule-of-Two high-confidence signals: 0
