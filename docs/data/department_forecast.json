@@ -1,22 +1,16 @@
 {
-  "forecast_date": "2026-05-17",
+  "forecast_date": "2026-05-19",
   "departments_by_opportunity_volume": [
     {
-      "total_records": 231,
-      "open_opportunities": 230,
-      "awarded": 1,
-      "win_rate_percent": 0.4,
-      "estimated_monthly_value": 537519,
-      "average_award_value": 537519,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 224,
-      "top_awardees": [
-        {
-          "name": "KRIMA CONSTRUCTION CORP. 49, PAENGSEONGBUK-RO, PAENGSEONG-EUP PYEONTAEK-SI 17974",
-          "wins": 1,
-          "total_value": 537519
-        }
-      ],
+      "total_records": 10,
+      "open_opportunities": 10,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 4,
+      "opportunities_with_keyword_matches": 3,
+      "top_awardees": [],
       "department": "DEPT OF DEFENSE"
     },
     {
@@ -26,27 +20,9 @@
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
-      "opportunities_with_attachments": 0,
+      "opportunities_with_attachments": 1,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
-    },
-    {
-      "total_records": 3,
-      "open_opportunities": 2,
-      "awarded": 1,
-      "win_rate_percent": 33.3,
-      "estimated_monthly_value": 2460988,
-      "average_award_value": 2460988,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [
-        {
-          "name": "AL WASITA FOR SUPPORT SERVICES LLC Bayader Wadi Al Seer AMMAN 11190 JOR",
-          "wins": 1,
-          "total_value": 2460988
-        }
-      ],
       "department": "STATE, DEPARTMENT OF"
     },
     {
@@ -59,44 +35,20 @@
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "AGRICULTURE, DEPARTMENT OF"
+      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
     }
   ],
   "departments_by_award_value": [
     {
-      "total_records": 3,
-      "open_opportunities": 2,
-      "awarded": 1,
-      "win_rate_percent": 33.3,
-      "estimated_monthly_value": 2460988,
-      "average_award_value": 2460988,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [
-        {
-          "name": "AL WASITA FOR SUPPORT SERVICES LLC Bayader Wadi Al Seer AMMAN 11190 JOR",
-          "wins": 1,
-          "total_value": 2460988
-        }
-      ],
-      "department": "STATE, DEPARTMENT OF"
-    },
-    {
-      "total_records": 231,
-      "open_opportunities": 230,
-      "awarded": 1,
-      "win_rate_percent": 0.4,
-      "estimated_monthly_value": 537519,
-      "average_award_value": 537519,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 224,
-      "top_awardees": [
-        {
-          "name": "KRIMA CONSTRUCTION CORP. 49, PAENGSEONGBUK-RO, PAENGSEONG-EUP PYEONTAEK-SI 17974",
-          "wins": 1,
-          "total_value": 537519
-        }
-      ],
+      "total_records": 10,
+      "open_opportunities": 10,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 4,
+      "opportunities_with_keyword_matches": 3,
+      "top_awardees": [],
       "department": "DEPT OF DEFENSE"
     },
     {
@@ -106,10 +58,10 @@
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
-      "opportunities_with_attachments": 0,
+      "opportunities_with_attachments": 1,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
+      "department": "STATE, DEPARTMENT OF"
     },
     {
       "total_records": 1,
@@ -121,56 +73,33 @@
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "AGRICULTURE, DEPARTMENT OF"
+      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
     }
   ],
   "department_forecasts": {
     "DEPT OF DEFENSE": {
-      "total_records": 231,
-      "open_opportunities": 230,
-      "awarded": 1,
-      "win_rate_percent": 0.4,
-      "estimated_monthly_value": 537519,
-      "average_award_value": 537519,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 224,
-      "top_awardees": [
-        {
-          "name": "KRIMA CONSTRUCTION CORP. 49, PAENGSEONGBUK-RO, PAENGSEONG-EUP PYEONTAEK-SI 17974",
-          "wins": 1,
-          "total_value": 537519
-        }
-      ]
+      "total_records": 10,
+      "open_opportunities": 10,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 4,
+      "opportunities_with_keyword_matches": 3,
+      "top_awardees": []
     },
-    "VETERANS AFFAIRS, DEPARTMENT OF": {
+    "STATE, DEPARTMENT OF": {
       "total_records": 3,
       "open_opportunities": 3,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
-      "opportunities_with_attachments": 0,
+      "opportunities_with_attachments": 1,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": []
     },
-    "STATE, DEPARTMENT OF": {
-      "total_records": 3,
-      "open_opportunities": 2,
-      "awarded": 1,
-      "win_rate_percent": 33.3,
-      "estimated_monthly_value": 2460988,
-      "average_award_value": 2460988,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [
-        {
-          "name": "AL WASITA FOR SUPPORT SERVICES LLC Bayader Wadi Al Seer AMMAN 11190 JOR",
-          "wins": 1,
-          "total_value": 2460988
-        }
-      ]
-    },
-    "AGRICULTURE, DEPARTMENT OF": {
+    "VETERANS AFFAIRS, DEPARTMENT OF": {
       "total_records": 1,
       "open_opportunities": 1,
       "awarded": 0,
