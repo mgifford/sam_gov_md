@@ -1,0 +1,33 @@
+---
+layout: default
+title: Industry Day - Little Wood River Channel, Gooding, Idaho
+agency: DEPT OF DEFENSE
+notice_type: Special Notice
+notice_id: d32075fe7bc944cc93f802ea3b7cfb77
+---
+
+# Industry Day - Little Wood River Channel, Gooding, Idaho
+
+- Agency: DEPT OF DEFENSE
+- Type: Special Notice
+- Posted: 2026-05-19 17:48:50.211-04
+- Solicitation Number: W912EF26RSN18
+
+## Summary
+
+Walla Walla District Little Wood River Channel, Gooding, Idaho Industry Day/One-on-One Sessions Announcement Registration and General Information USACE Walla Walla District is developing an acquisition to provide a design-bid-build construction contract for the rehabilitation and replacement of canal walls and bridges within a channel located in Gooding, Idaho. Work will include completing the replacement and repair of the canal walls, four vehicle bridges, and two pedestrian bridges. Please see the following pages for a list of questions and desired information the Government would like to learn about your company regarding this project. This information is intended to provide awareness of what the Government would like to learn but you are encouraged to share more if you believe it will help the Government in developing the solicitation package. The multi-functional team within the Walla Walla District will be conducting one-on-one sessions on June 16th and 17th, 2026, to share information on the government’s requirements and obtain industry feedback. One-on-one sessions will be conducted virtually. Each company will be allotted one (1) hour for the one-on-one session. Please limit the number of company representatives to no more than five (5) attendees to facilitate effective one-on-one dialogue. The purpose of the one-on-one session is to answer questions and allow the government to obtain specific feedback from your company’s representatives. Marketing/capability briefings are not authorized during the one-on-one session. For our planning purposes, you are requested to provide the following information if you are interested in participating in the one-on-one session: Name of Company Company CAGE Code and Unique Entity Identifier. Name of each individual attending, his or her contact number and e-mail addresses Specify intentions to request a one-on-one session A list of current or past projects demonstrating technical experience with work of a similar nature to that listed in the Summary Scope of Work. For each project submitted, provide a brief narrative statement of the work involved, your company’s role in the project, the dollar value and the completion date. Include a statement detailing any special qualifications and certifications, applicable to the scope of this project, held by your company and/or in-house personnel. A reference list for each of the projects submitted in A) above. Include the name, title, phone number and email address for each reference. Provide a statement of your company’s business size (HUBZone, Service-Disabled Veteran Owned, 8(a), small disadvantaged, or woman-owned) Provide a statement whether your company intends to submit an offer on the project when it is advertised. Provide a statement of your company’s bonding capacity. A statement from your surety is NOT required but is helpful. Please provide the above information in an email to Preston.E.Jones@usace.army.mil and Jani.C.Long@usace.army.mil no later than Tuesday June 9, 2026. Please include in the subject line: “Company Name – Industry Day Attendees”. You will be notified of your scheduled one-on-one session within two (2) days of receipt of your request. If you have questions you would like to submit in advance, please provide them to the above e-mail addresses no later than Thursday June 11, 2024. If you consider the questions proprietary, please clearly mark them as such. Submitting questions in advance will ensure the Government has adequate time to prepare and answer. Summary Scope of Work Construction: Proposed construction features are divided into two primary categories: (1) wall replacement/repair and (2) vehicle and pedestrian bridge replacement. The project is a lava rock wall canal; the dimensions are approximately 24 feet wide, 8 feet deep, and less than a mile long. Wall repair/replacement work may include mortar repointing, concrete walls, concrete blocks, geotextiles, drainage culverts, irrigation systems, fencing, waterstop installation, road reconstruction, pavements, and pavement striping. Bridge replacement work may include demolition of concrete roadway culverts, demolition of pedestrian bridges, traffic control, installation of new roadway bridges, installation of new pedestrian bridges, and road reconstruction. The bridges will include reinforced concrete decks, railings, abutments, and wing walls. Technical Experience: Reinforced concrete roadway bridges with a span of at least 24 feet but no greater than 50 feet that were designed in accordance with Idaho Transportation Department’s (ITD’s) LRFD Bridge Design Manual. Pedestrian bridges with a span of at least 24 feet but no greater than 50 feet that were designed in accordance with AASHTO’s LRFD Guide Specifications for the Design of Pedestrian Bridges. Concrete retaining wall projects with a wall height of up to 9 feet. (Average wall height of this project is 7 feet.) Personnel Experience to include a designer of record (DoR) with a civil or structural professional engineer license registered in the State of Idaho. General Questions: What do you identify as the high risks in this project? Referring to the following schedule requirements, please share the challenges you would anticipate: Mandatory In-channel work window: 16 November - 14 March Work outside of the channel can occur all year. Currently estimating two windows each Is this enough? Can the work be accomplished in one season? If we permitted abutment work during October/November timeframe prior to in-water-work window, could it be possible to do the work with water in the channel? Are the proposed staging areas enough room? Please share your preference of acquisition strategy: Sealed Bid, Lowest Priced Technically Acceptable, or Best Value Trade Off. Please see attached Project Labor Agreement Survey.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Preston Jones
+  - Email: Preston.E.Jones@usace.army.mil
+  - Phone: 5095277206
+- Secondary Contact:
+  - Name: Jani C Long
+  - Email: jani.c.long@usace.army.mil
+  - Phone: 5095277209
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d32075fe7bc944cc93f802ea3b7cfb77/view)

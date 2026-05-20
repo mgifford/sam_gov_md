@@ -1,0 +1,28 @@
+---
+layout: default
+title: 31--BEARING CARTRIDGE A, IN REPAIR/MODIFICATION OF
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: 54dfd12299644d6382eae29e8bcfb01c
+---
+
+# 31--BEARING CARTRIDGE A, IN REPAIR/MODIFICATION OF
+
+- Agency: DEPT OF DEFENSE
+- Type: Presolicitation
+- Posted: 2026-05-19 07:26:46.209-04
+- Solicitation Number: N0010426RFC97
+
+## Summary
+
+NSN 7H-3130-016536544-L1, TDP VER 002, QTY 8 EA, DELIVER TO N66604, NUWCDIVNPT, NEWPORT, RI 02841-1709, INDUCTION NIIN IS 7H, 3130, 016536544, L1, BEARING CARTRIDGE A, 754-6407102 ASSY 99
+
+## Contacts
+
+- Primary Contact:
+  - Name: SCOTT YOUNGBLOOD, N743.30, PHONE (717)605-2379, FAX (717)605-4236, EMAIL SCOTT.R.YOUNGBLOOD2.CIV@US.NAVY.MIL
+  - Email: SCOTT.R.YOUNGBLOOD2.CIV@US.NAVY.MIL
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/54dfd12299644d6382eae29e8bcfb01c/view)

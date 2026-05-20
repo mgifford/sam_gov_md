@@ -1,0 +1,32 @@
+---
+layout: default
+title: DISA FY26 J3/5/7 Conf Room Reconfiguration
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 34f55da9c05f452685e418da5b5760e9
+---
+
+# DISA FY26 J3/5/7 Conf Room Reconfiguration
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-05-19 14:32:27.141-04
+- Solicitation Number: PANNAD-26-P-0000032273
+
+## Summary
+
+This is a sources sought announcement. This notice is for market research purposes only and IS NOT a request for proposal, quotation or bid. The Government will not reimburse respondents for any costs incurred in preparation of the response to this announcement. The U.S. Army Corps of Engineers (USACE), Baltimore District, is seeking sources with current relevant qualifications, experience, personnel, and capabilities for a construction project. The U.S. Army Corps of Engineers, Baltimore District, requests letters of interest from potential prime construction contractors (small and large businesses). This requirement is for Design/Build services to support improved Audio & Video (A/V) capabilities in conference rooms. The programmatic value of this project award is currently estimated to be in a range of $1M to $3M, therefore, potential prime construction contractors will need a bonding capacity of $5M or greater. The scope of this contract will encompass Design-Build (DB) construction and renovation to existing facilities. The project consists of eight tasks. Tasks: This project requires integrated Design/Build services to install the infrastructure to support the improved Audio & Video (A/V) capabilities in four conference rooms in the DISA Headquarters complex. The scope of the project requires power supply upgrades, additional conduit, wall structure supports, blocking, painting, installation of HVAC units, and some other architectural features updated to support the new equipment. This project includes design services to determine final power and HVAC requirements and provide necessary design and redline drawings. Additionally rooms that are on the perimeter of secure spaces require additional work to improve the security of the room. DISA is a secure facility, and all work performed must be designed to meet current ICD/JCS 705 requirements. This renovation must bring the project space into compliance with the most current codes, standards, and mission essential requirements from spatial, infrastructure, safety and security aspects. The Contractor shall be required to perform all work in accordance with the access and security requirements of Fort Meade, MD and DISA security policies. The contractor must have a Top Secret FCL. All personnel working inside the facility must be U.S. citizens and have a TS clearance or be escorted within the DISA complex by cleared escorts at the contractor’s expense. Successful bidders will require Top Secret level of Facility Security Clearance (TS FCL) and valid cage code. Details of the security requirements will be provided within the draft DD254 Construction Security Specifications for use during the project proposal preparation. A final DD254 will be issued to the successful contractor upon award for the project. Interested prime contractors should submit a narrative demonstrating their experience in task order construction type contracts of similar nature as described above. Responders should also address all the following in their submittal: Firm’s name, address, point of contact, phone number, e-mail address, CAGE code and DUNS number. Indicate if your company is currently registered with the beta.SAM.gov database. If not, indicate if it has been registered or does it plan to register. In consideration of NAICS code 236220, with a small business size standard in dollars of $45M, indicate which of the following small business categories your business is classified under: Small Business, Veteran Owned Small Business, Service Disabled Veteran Owned Small Business, Small Disadvantaged Business, Woman-Owned Small Business, HUBZone Small Business, or 8(a) Business. Provide a letter from the surety regarding the bonding capability for a single contract action and aggregate of the interested prime contractor. Provide evidence that your company has and maintains the ability to handle classified materials with an active Top Secret Facility Site Clearance. Provide evidence that your firm has successful subcontractor relations in the Pennsylvania, Maryland and the National Capital Region. Provide details of similar completed contracts to include at a minimum, project references, (including owner with phone number and email address), contract number, brief description of project, dollar value, what type of work and the percentage of work your firm provided on these contracts. Comments will be shared with the Government project team but otherwise will be held in strict confidence. Submission Instructions: THIS NOTICE IS NOT A REQUEST FOR PROPOSAL. It is a market research tool being utilized to determine the availability of potential qualified contractors before determining the method of acquisition. In addition, this sources sought is not to be considered as a commitment by the Government, nor will the Government pay for any information solicited or delivered. Interested parties who consider themselves qualified to perform the above-listed requirement are invited to submit a response to this Sources Sought Notice NLT 2:00PM Eastern Daylight Time (EDT) 02 June 2026. All responses under this Sources Sought Notice must be emailed to, Michael Getz at michael.j.getz@usace.army.mil and Samuel Vido at samuel.p.vido@usace.army.mil referencing the sources sought notice number PANNAD-26-P-0000 032273. Responses should be no more than 10 pages. Telephone inquiries will not be accepted or acknowledged, and no feedback or evaluations will be provided to companies regarding their submissions. If you have any questions concerning this opportunity please contact: Michael Getz at michael.j.getz@usace.army.mil and Samuel Vido at samuel.p.vido@usace.army.mil
+
+## Contacts
+
+- Primary Contact:
+  - Name: Samuel Vido
+  - Email: samuel.p.vido@usace.army.mil
+- Secondary Contact:
+  - Name: Michael J. Getz
+  - Email: Michael.J.Getz@usace.army.mil
+  - Phone: 4109623455
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/34f55da9c05f452685e418da5b5760e9/view)

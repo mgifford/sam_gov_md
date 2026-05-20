@@ -2,16 +2,362 @@
   "forecast_date": "2026-05-19",
   "departments_by_opportunity_volume": [
     {
-      "total_records": 10,
-      "open_opportunities": 10,
+      "total_records": 1586,
+      "open_opportunities": 1258,
+      "awarded": 328,
+      "win_rate_percent": 21.2,
+      "estimated_monthly_value": 7216305234,
+      "average_award_value": 21477098,
+      "opportunities_with_attachments": 149,
+      "opportunities_with_keyword_matches": 838,
+      "top_awardees": [
+        {
+          "name": "PERIGEE PRIME AE SB JV23, LLC West Jordan UT 84088 USA",
+          "wins": 2,
+          "total_value": 998000000
+        },
+        {
+          "name": "THE JOHNSON-MCADAMS FIRM, P.A. Greenwood MS 38930 USA",
+          "wins": 1,
+          "total_value": 499000000
+        },
+        {
+          "name": "Sherlock, Smith & Adams-Clark Nexsen Joint Venture Montgomery AL 36111 USA",
+          "wins": 1,
+          "total_value": 499000000
+        },
+        {
+          "name": "SHERLOCK, SMITH & ADAMS INC. Montgomery AL 36111 USA",
+          "wins": 1,
+          "total_value": 499000000
+        },
+        {
+          "name": "RS&H-CEMS JV Jacksonville FL 32256 USA",
+          "wins": 1,
+          "total_value": 499000000
+        }
+      ],
+      "department": "DEPT OF DEFENSE"
+    },
+    {
+      "total_records": 148,
+      "open_opportunities": 125,
+      "awarded": 23,
+      "win_rate_percent": 15.5,
+      "estimated_monthly_value": 280013318,
+      "average_award_value": 12174492,
+      "opportunities_with_attachments": 14,
+      "opportunities_with_keyword_matches": 33,
+      "top_awardees": [
+        {
+          "name": "AGILITI HEALTH INC EDEN PRAIRIE 55344",
+          "wins": 1,
+          "total_value": 246700000
+        },
+        {
+          "name": "ANGEL DESIGN BUILD CONSTRUCTION LLC Richmond VA 23230 USA",
+          "wins": 1,
+          "total_value": 12376754
+        },
+        {
+          "name": "ARLOS GROUP, LLC ARGYLE 76226",
+          "wins": 1,
+          "total_value": 9096955
+        },
+        {
+          "name": "POSTERITY GROUP LLC DERWOOD 20855",
+          "wins": 1,
+          "total_value": 5842212
+        },
+        {
+          "name": "AVKARE LLC PULASKI 38478",
+          "wins": 1,
+          "total_value": 2028654
+        }
+      ],
+      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
+    },
+    {
+      "total_records": 93,
+      "open_opportunities": 60,
+      "awarded": 33,
+      "win_rate_percent": 35.5,
+      "estimated_monthly_value": 6533475,
+      "average_award_value": 197984,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 17,
+      "top_awardees": [
+        {
+          "name": "DHM DESIGN CORPORATION 900 S BROADWAY STE 300 Denver CO 80209 USA",
+          "wins": 1,
+          "total_value": 1907394
+        },
+        {
+          "name": "PROJECT SOLUTIONS, INC. 505 KANSAS CITY ST Rapid City SD 57701 USA",
+          "wins": 2,
+          "total_value": 1005645
+        },
+        {
+          "name": "K2M DESIGN, INC 1150 VIRGINIA ST Key West FL 33040 USA",
+          "wins": 1,
+          "total_value": 461661
+        },
+        {
+          "name": "EGC, INC. 825 N SAINT MARYS ST UNIT 202 San Antonio TX 78205 USA",
+          "wins": 1,
+          "total_value": 447843
+        },
+        {
+          "name": "JOHN DEERE SHARED SERVICES, LLC 1300 RIVER DR MOLINE IL 61265 USA",
+          "wins": 1,
+          "total_value": 402005
+        }
+      ],
+      "department": "INTERIOR, DEPARTMENT OF THE"
+    },
+    {
+      "total_records": 64,
+      "open_opportunities": 53,
+      "awarded": 11,
+      "win_rate_percent": 17.2,
+      "estimated_monthly_value": 24292564,
+      "average_award_value": 2208414,
+      "opportunities_with_attachments": 10,
+      "opportunities_with_keyword_matches": 8,
+      "top_awardees": [
+        {
+          "name": "Multiple Washington DC USA",
+          "wins": 3,
+          "total_value": 18614506
+        },
+        {
+          "name": "JUDD BUICK CONSTRUCTION, INC. Redding CA 96001 USA",
+          "wins": 1,
+          "total_value": 2133638
+        },
+        {
+          "name": "UIC NAPPAIRIT LLC Anchorage AK 99518 USA",
+          "wins": 1,
+          "total_value": 1371913
+        },
+        {
+          "name": "Multiple Austin IN USA",
+          "wins": 1,
+          "total_value": 1364264
+        },
+        {
+          "name": "COELHO, INC. Port Republic MD 20676 USA",
+          "wins": 1,
+          "total_value": 261125
+        }
+      ],
+      "department": "AGRICULTURE, DEPARTMENT OF"
+    },
+    {
+      "total_records": 49,
+      "open_opportunities": 47,
+      "awarded": 2,
+      "win_rate_percent": 6.1,
+      "estimated_monthly_value": 39324,
+      "average_award_value": 13108,
+      "opportunities_with_attachments": 12,
+      "opportunities_with_keyword_matches": 10,
+      "top_awardees": [
+        {
+          "name": "TEXTRON SYSTEMS CORPORATION Hunt Valley MD 21030 USA",
+          "wins": 1,
+          "total_value": 36200
+        },
+        {
+          "name": "E.D.N. AVIATION INC Van Nuys CA 91406 USA",
+          "wins": 1,
+          "total_value": 3124
+        },
+        {
+          "name": "",
+          "wins": 1,
+          "total_value": 0
+        }
+      ],
+      "department": "HOMELAND SECURITY, DEPARTMENT OF"
+    },
+    {
+      "total_records": 35,
+      "open_opportunities": 34,
+      "awarded": 1,
+      "win_rate_percent": 5.7,
+      "estimated_monthly_value": 4769906,
+      "average_award_value": 2384953,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 11,
+      "top_awardees": [
+        {
+          "name": "PCI PROFESSIONAL SERVICES, LLC Atmore AL 36502 USA",
+          "wins": 1,
+          "total_value": 4769906
+        },
+        {
+          "name": "",
+          "wins": 1,
+          "total_value": 0
+        }
+      ],
+      "department": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF"
+    },
+    {
+      "total_records": 33,
+      "open_opportunities": 33,
+      "awarded": 0,
+      "win_rate_percent": 3.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 7,
+      "opportunities_with_keyword_matches": 15,
+      "top_awardees": [
+        {
+          "name": "",
+          "wins": 1,
+          "total_value": 0
+        }
+      ],
+      "department": "STATE, DEPARTMENT OF"
+    },
+    {
+      "total_records": 27,
+      "open_opportunities": 25,
+      "awarded": 2,
+      "win_rate_percent": 7.4,
+      "estimated_monthly_value": 521270,
+      "average_award_value": 260635,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 11,
+      "top_awardees": [
+        {
+          "name": "AMERICAN NATIONAL RED CROSS, THE Charlotte NC 28273 USA",
+          "wins": 1,
+          "total_value": 365845
+        },
+        {
+          "name": "Regional Produce Distributors, Limited Liability Company Birmingham AL 35204 USA",
+          "wins": 1,
+          "total_value": 155424
+        }
+      ],
+      "department": "JUSTICE, DEPARTMENT OF"
+    },
+    {
+      "total_records": 22,
+      "open_opportunities": 22,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
-      "opportunities_with_attachments": 4,
-      "opportunities_with_keyword_matches": 3,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 13,
       "top_awardees": [],
-      "department": "DEPT OF DEFENSE"
+      "department": "COMMERCE, DEPARTMENT OF"
+    },
+    {
+      "total_records": 17,
+      "open_opportunities": 15,
+      "awarded": 2,
+      "win_rate_percent": 17.6,
+      "estimated_monthly_value": 4505,
+      "average_award_value": 1501,
+      "opportunities_with_attachments": 2,
+      "opportunities_with_keyword_matches": 3,
+      "top_awardees": [
+        {
+          "name": "THUNDERCAT TECHNOLOGY, LLC 11190 SUNRISE VALLEY DRIVE SUITE 200 Reston VA 20191 USA",
+          "wins": 1,
+          "total_value": 4008
+        },
+        {
+          "name": "ADVANCED COMPUTER CONCEPTS, INC. 7927 JONES BRANCH DR STE 600N MCLEAN VA 22102 USA",
+          "wins": 1,
+          "total_value": 496
+        },
+        {
+          "name": "",
+          "wins": 1,
+          "total_value": 0
+        }
+      ],
+      "department": "ENERGY, DEPARTMENT OF"
+    },
+    {
+      "total_records": 17,
+      "open_opportunities": 11,
+      "awarded": 6,
+      "win_rate_percent": 47.1,
+      "estimated_monthly_value": 93591075,
+      "average_award_value": 11698884,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 6,
+      "top_awardees": [
+        {
+          "name": "MABBETT & ASSOCIATES, INC. STONEHAM 02180-1260 USA",
+          "wins": 1,
+          "total_value": 82000000
+        },
+        {
+          "name": "POWTEC SERVICES, LLC BREMERTON 98310-3565 USA",
+          "wins": 1,
+          "total_value": 9600000
+        },
+        {
+          "name": "Atomic Research LLC SPRINGS 80906-8648 USA",
+          "wins": 1,
+          "total_value": 1000000
+        },
+        {
+          "name": "ALEX & RYAN DESIGN LLC Manchester NH 03103-4414 USA",
+          "wins": 1,
+          "total_value": 475000
+        },
+        {
+          "name": "CNC TECHNOLOGIES LLC UPLAND 91784-8235 USA",
+          "wins": 1,
+          "total_value": 475000
+        }
+      ],
+      "department": "GENERAL SERVICES ADMINISTRATION"
+    },
+    {
+      "total_records": 11,
+      "open_opportunities": 11,
+      "awarded": 0,
+      "win_rate_percent": 9.1,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 2,
+      "opportunities_with_keyword_matches": 2,
+      "top_awardees": [
+        {
+          "name": "",
+          "wins": 1,
+          "total_value": 0
+        }
+      ],
+      "department": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION"
+    },
+    {
+      "total_records": 6,
+      "open_opportunities": 5,
+      "awarded": 1,
+      "win_rate_percent": 16.7,
+      "estimated_monthly_value": 1626895,
+      "average_award_value": 1626895,
+      "opportunities_with_attachments": 2,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [
+        {
+          "name": "MISSOURI RIVER CONTRACTORS, LLC East Helena MT 59635 USA",
+          "wins": 1,
+          "total_value": 1626895
+        }
+      ],
+      "department": "TRANSPORTATION, DEPARTMENT OF"
     },
     {
       "total_records": 3,
@@ -23,7 +369,37 @@
       "opportunities_with_attachments": 1,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "STATE, DEPARTMENT OF"
+      "department": "TREASURY, DEPARTMENT OF THE"
+    },
+    {
+      "total_records": 3,
+      "open_opportunities": 2,
+      "awarded": 1,
+      "win_rate_percent": 33.3,
+      "estimated_monthly_value": 498802,
+      "average_award_value": 498802,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [
+        {
+          "name": "PACIFIC MOBILE STRUCTURES, INC. 1554 BISHOP RD Chehalis WA 98532 USA",
+          "wins": 1,
+          "total_value": 498802
+        }
+      ],
+      "department": "ENVIRONMENTAL PROTECTION AGENCY"
+    },
+    {
+      "total_records": 2,
+      "open_opportunities": 2,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "ARCHITECT OF THE CAPITOL"
     },
     {
       "total_records": 1,
@@ -35,21 +411,539 @@
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
+      "department": "UNITED STATES HOLOCAUST MEMORIAL MUSEUM"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "COURT SERVICES AND OFFENDER SUPERVISION AGENCY"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "LABOR, DEPARTMENT OF"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 1,
+      "top_awardees": [],
+      "department": "LIBRARY OF CONGRESS"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "FEDERAL DEPOSIT INSURANCE CORPORATION"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "NATIONAL ARCHIVES AND RECORDS ADMINISTRATION"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "SOCIAL SECURITY ADMINISTRATION"
+    },
+    {
+      "total_records": 2,
+      "open_opportunities": 0,
+      "awarded": 2,
+      "win_rate_percent": 100.0,
+      "estimated_monthly_value": 69195,
+      "average_award_value": 34597,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [
+        {
+          "name": "GLOBAL SOLUTIONS AMERICAS LLC El Paso TX 79925 USA",
+          "wins": 1,
+          "total_value": 50000
+        },
+        {
+          "name": "AMERICAN CLASSIC CONSTRUCTION INC. Chatsworth CA 91311 USA",
+          "wins": 1,
+          "total_value": 19195
+        }
+      ],
+      "department": "INTERNATIONAL BOUNDARY AND WATER COMMISSION: US-MEXICO"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 0,
+      "awarded": 1,
+      "win_rate_percent": 100.0,
+      "estimated_monthly_value": 1030000,
+      "average_award_value": 1030000,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [
+        {
+          "name": "AAR OF NORTH CAROLINA, INC. Kernersville NC 27284 USA",
+          "wins": 1,
+          "total_value": 1030000
+        }
+      ],
+      "department": "POSTAL SERVICE"
     }
   ],
   "departments_by_award_value": [
     {
-      "total_records": 10,
-      "open_opportunities": 10,
+      "total_records": 1586,
+      "open_opportunities": 1258,
+      "awarded": 328,
+      "win_rate_percent": 21.2,
+      "estimated_monthly_value": 7216305234,
+      "average_award_value": 21477098,
+      "opportunities_with_attachments": 149,
+      "opportunities_with_keyword_matches": 838,
+      "top_awardees": [
+        {
+          "name": "PERIGEE PRIME AE SB JV23, LLC West Jordan UT 84088 USA",
+          "wins": 2,
+          "total_value": 998000000
+        },
+        {
+          "name": "THE JOHNSON-MCADAMS FIRM, P.A. Greenwood MS 38930 USA",
+          "wins": 1,
+          "total_value": 499000000
+        },
+        {
+          "name": "Sherlock, Smith & Adams-Clark Nexsen Joint Venture Montgomery AL 36111 USA",
+          "wins": 1,
+          "total_value": 499000000
+        },
+        {
+          "name": "SHERLOCK, SMITH & ADAMS INC. Montgomery AL 36111 USA",
+          "wins": 1,
+          "total_value": 499000000
+        },
+        {
+          "name": "RS&H-CEMS JV Jacksonville FL 32256 USA",
+          "wins": 1,
+          "total_value": 499000000
+        }
+      ],
+      "department": "DEPT OF DEFENSE"
+    },
+    {
+      "total_records": 148,
+      "open_opportunities": 125,
+      "awarded": 23,
+      "win_rate_percent": 15.5,
+      "estimated_monthly_value": 280013318,
+      "average_award_value": 12174492,
+      "opportunities_with_attachments": 14,
+      "opportunities_with_keyword_matches": 33,
+      "top_awardees": [
+        {
+          "name": "AGILITI HEALTH INC EDEN PRAIRIE 55344",
+          "wins": 1,
+          "total_value": 246700000
+        },
+        {
+          "name": "ANGEL DESIGN BUILD CONSTRUCTION LLC Richmond VA 23230 USA",
+          "wins": 1,
+          "total_value": 12376754
+        },
+        {
+          "name": "ARLOS GROUP, LLC ARGYLE 76226",
+          "wins": 1,
+          "total_value": 9096955
+        },
+        {
+          "name": "POSTERITY GROUP LLC DERWOOD 20855",
+          "wins": 1,
+          "total_value": 5842212
+        },
+        {
+          "name": "AVKARE LLC PULASKI 38478",
+          "wins": 1,
+          "total_value": 2028654
+        }
+      ],
+      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
+    },
+    {
+      "total_records": 17,
+      "open_opportunities": 11,
+      "awarded": 6,
+      "win_rate_percent": 47.1,
+      "estimated_monthly_value": 93591075,
+      "average_award_value": 11698884,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 6,
+      "top_awardees": [
+        {
+          "name": "MABBETT & ASSOCIATES, INC. STONEHAM 02180-1260 USA",
+          "wins": 1,
+          "total_value": 82000000
+        },
+        {
+          "name": "POWTEC SERVICES, LLC BREMERTON 98310-3565 USA",
+          "wins": 1,
+          "total_value": 9600000
+        },
+        {
+          "name": "Atomic Research LLC SPRINGS 80906-8648 USA",
+          "wins": 1,
+          "total_value": 1000000
+        },
+        {
+          "name": "ALEX & RYAN DESIGN LLC Manchester NH 03103-4414 USA",
+          "wins": 1,
+          "total_value": 475000
+        },
+        {
+          "name": "CNC TECHNOLOGIES LLC UPLAND 91784-8235 USA",
+          "wins": 1,
+          "total_value": 475000
+        }
+      ],
+      "department": "GENERAL SERVICES ADMINISTRATION"
+    },
+    {
+      "total_records": 64,
+      "open_opportunities": 53,
+      "awarded": 11,
+      "win_rate_percent": 17.2,
+      "estimated_monthly_value": 24292564,
+      "average_award_value": 2208414,
+      "opportunities_with_attachments": 10,
+      "opportunities_with_keyword_matches": 8,
+      "top_awardees": [
+        {
+          "name": "Multiple Washington DC USA",
+          "wins": 3,
+          "total_value": 18614506
+        },
+        {
+          "name": "JUDD BUICK CONSTRUCTION, INC. Redding CA 96001 USA",
+          "wins": 1,
+          "total_value": 2133638
+        },
+        {
+          "name": "UIC NAPPAIRIT LLC Anchorage AK 99518 USA",
+          "wins": 1,
+          "total_value": 1371913
+        },
+        {
+          "name": "Multiple Austin IN USA",
+          "wins": 1,
+          "total_value": 1364264
+        },
+        {
+          "name": "COELHO, INC. Port Republic MD 20676 USA",
+          "wins": 1,
+          "total_value": 261125
+        }
+      ],
+      "department": "AGRICULTURE, DEPARTMENT OF"
+    },
+    {
+      "total_records": 93,
+      "open_opportunities": 60,
+      "awarded": 33,
+      "win_rate_percent": 35.5,
+      "estimated_monthly_value": 6533475,
+      "average_award_value": 197984,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 17,
+      "top_awardees": [
+        {
+          "name": "DHM DESIGN CORPORATION 900 S BROADWAY STE 300 Denver CO 80209 USA",
+          "wins": 1,
+          "total_value": 1907394
+        },
+        {
+          "name": "PROJECT SOLUTIONS, INC. 505 KANSAS CITY ST Rapid City SD 57701 USA",
+          "wins": 2,
+          "total_value": 1005645
+        },
+        {
+          "name": "K2M DESIGN, INC 1150 VIRGINIA ST Key West FL 33040 USA",
+          "wins": 1,
+          "total_value": 461661
+        },
+        {
+          "name": "EGC, INC. 825 N SAINT MARYS ST UNIT 202 San Antonio TX 78205 USA",
+          "wins": 1,
+          "total_value": 447843
+        },
+        {
+          "name": "JOHN DEERE SHARED SERVICES, LLC 1300 RIVER DR MOLINE IL 61265 USA",
+          "wins": 1,
+          "total_value": 402005
+        }
+      ],
+      "department": "INTERIOR, DEPARTMENT OF THE"
+    },
+    {
+      "total_records": 35,
+      "open_opportunities": 34,
+      "awarded": 1,
+      "win_rate_percent": 5.7,
+      "estimated_monthly_value": 4769906,
+      "average_award_value": 2384953,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 11,
+      "top_awardees": [
+        {
+          "name": "PCI PROFESSIONAL SERVICES, LLC Atmore AL 36502 USA",
+          "wins": 1,
+          "total_value": 4769906
+        },
+        {
+          "name": "",
+          "wins": 1,
+          "total_value": 0
+        }
+      ],
+      "department": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF"
+    },
+    {
+      "total_records": 6,
+      "open_opportunities": 5,
+      "awarded": 1,
+      "win_rate_percent": 16.7,
+      "estimated_monthly_value": 1626895,
+      "average_award_value": 1626895,
+      "opportunities_with_attachments": 2,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [
+        {
+          "name": "MISSOURI RIVER CONTRACTORS, LLC East Helena MT 59635 USA",
+          "wins": 1,
+          "total_value": 1626895
+        }
+      ],
+      "department": "TRANSPORTATION, DEPARTMENT OF"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 0,
+      "awarded": 1,
+      "win_rate_percent": 100.0,
+      "estimated_monthly_value": 1030000,
+      "average_award_value": 1030000,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [
+        {
+          "name": "AAR OF NORTH CAROLINA, INC. Kernersville NC 27284 USA",
+          "wins": 1,
+          "total_value": 1030000
+        }
+      ],
+      "department": "POSTAL SERVICE"
+    },
+    {
+      "total_records": 27,
+      "open_opportunities": 25,
+      "awarded": 2,
+      "win_rate_percent": 7.4,
+      "estimated_monthly_value": 521270,
+      "average_award_value": 260635,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 11,
+      "top_awardees": [
+        {
+          "name": "AMERICAN NATIONAL RED CROSS, THE Charlotte NC 28273 USA",
+          "wins": 1,
+          "total_value": 365845
+        },
+        {
+          "name": "Regional Produce Distributors, Limited Liability Company Birmingham AL 35204 USA",
+          "wins": 1,
+          "total_value": 155424
+        }
+      ],
+      "department": "JUSTICE, DEPARTMENT OF"
+    },
+    {
+      "total_records": 3,
+      "open_opportunities": 2,
+      "awarded": 1,
+      "win_rate_percent": 33.3,
+      "estimated_monthly_value": 498802,
+      "average_award_value": 498802,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [
+        {
+          "name": "PACIFIC MOBILE STRUCTURES, INC. 1554 BISHOP RD Chehalis WA 98532 USA",
+          "wins": 1,
+          "total_value": 498802
+        }
+      ],
+      "department": "ENVIRONMENTAL PROTECTION AGENCY"
+    },
+    {
+      "total_records": 2,
+      "open_opportunities": 0,
+      "awarded": 2,
+      "win_rate_percent": 100.0,
+      "estimated_monthly_value": 69195,
+      "average_award_value": 34597,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [
+        {
+          "name": "GLOBAL SOLUTIONS AMERICAS LLC El Paso TX 79925 USA",
+          "wins": 1,
+          "total_value": 50000
+        },
+        {
+          "name": "AMERICAN CLASSIC CONSTRUCTION INC. Chatsworth CA 91311 USA",
+          "wins": 1,
+          "total_value": 19195
+        }
+      ],
+      "department": "INTERNATIONAL BOUNDARY AND WATER COMMISSION: US-MEXICO"
+    },
+    {
+      "total_records": 49,
+      "open_opportunities": 47,
+      "awarded": 2,
+      "win_rate_percent": 6.1,
+      "estimated_monthly_value": 39324,
+      "average_award_value": 13108,
+      "opportunities_with_attachments": 12,
+      "opportunities_with_keyword_matches": 10,
+      "top_awardees": [
+        {
+          "name": "TEXTRON SYSTEMS CORPORATION Hunt Valley MD 21030 USA",
+          "wins": 1,
+          "total_value": 36200
+        },
+        {
+          "name": "E.D.N. AVIATION INC Van Nuys CA 91406 USA",
+          "wins": 1,
+          "total_value": 3124
+        },
+        {
+          "name": "",
+          "wins": 1,
+          "total_value": 0
+        }
+      ],
+      "department": "HOMELAND SECURITY, DEPARTMENT OF"
+    },
+    {
+      "total_records": 17,
+      "open_opportunities": 15,
+      "awarded": 2,
+      "win_rate_percent": 17.6,
+      "estimated_monthly_value": 4505,
+      "average_award_value": 1501,
+      "opportunities_with_attachments": 2,
+      "opportunities_with_keyword_matches": 3,
+      "top_awardees": [
+        {
+          "name": "THUNDERCAT TECHNOLOGY, LLC 11190 SUNRISE VALLEY DRIVE SUITE 200 Reston VA 20191 USA",
+          "wins": 1,
+          "total_value": 4008
+        },
+        {
+          "name": "ADVANCED COMPUTER CONCEPTS, INC. 7927 JONES BRANCH DR STE 600N MCLEAN VA 22102 USA",
+          "wins": 1,
+          "total_value": 496
+        },
+        {
+          "name": "",
+          "wins": 1,
+          "total_value": 0
+        }
+      ],
+      "department": "ENERGY, DEPARTMENT OF"
+    },
+    {
+      "total_records": 33,
+      "open_opportunities": 33,
+      "awarded": 0,
+      "win_rate_percent": 3.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 7,
+      "opportunities_with_keyword_matches": 15,
+      "top_awardees": [
+        {
+          "name": "",
+          "wins": 1,
+          "total_value": 0
+        }
+      ],
+      "department": "STATE, DEPARTMENT OF"
+    },
+    {
+      "total_records": 22,
+      "open_opportunities": 22,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
-      "opportunities_with_attachments": 4,
-      "opportunities_with_keyword_matches": 3,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 13,
       "top_awardees": [],
-      "department": "DEPT OF DEFENSE"
+      "department": "COMMERCE, DEPARTMENT OF"
+    },
+    {
+      "total_records": 11,
+      "open_opportunities": 11,
+      "awarded": 0,
+      "win_rate_percent": 9.1,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 2,
+      "opportunities_with_keyword_matches": 2,
+      "top_awardees": [
+        {
+          "name": "",
+          "wins": 1,
+          "total_value": 0
+        }
+      ],
+      "department": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION"
     },
     {
       "total_records": 3,
@@ -61,7 +955,19 @@
       "opportunities_with_attachments": 1,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "STATE, DEPARTMENT OF"
+      "department": "TREASURY, DEPARTMENT OF THE"
+    },
+    {
+      "total_records": 2,
+      "open_opportunities": 2,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "ARCHITECT OF THE CAPITOL"
     },
     {
       "total_records": 1,
@@ -73,22 +979,428 @@
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
-    }
-  ],
-  "department_forecasts": {
-    "DEPT OF DEFENSE": {
-      "total_records": 10,
-      "open_opportunities": 10,
+      "department": "UNITED STATES HOLOCAUST MEMORIAL MUSEUM"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
-      "opportunities_with_attachments": 4,
-      "opportunities_with_keyword_matches": 3,
-      "top_awardees": []
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "COURT SERVICES AND OFFENDER SUPERVISION AGENCY"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "LABOR, DEPARTMENT OF"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 1,
+      "top_awardees": [],
+      "department": "LIBRARY OF CONGRESS"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "FEDERAL DEPOSIT INSURANCE CORPORATION"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "NATIONAL ARCHIVES AND RECORDS ADMINISTRATION"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "SOCIAL SECURITY ADMINISTRATION"
+    }
+  ],
+  "department_forecasts": {
+    "DEPT OF DEFENSE": {
+      "total_records": 1586,
+      "open_opportunities": 1258,
+      "awarded": 328,
+      "win_rate_percent": 21.2,
+      "estimated_monthly_value": 7216305234,
+      "average_award_value": 21477098,
+      "opportunities_with_attachments": 149,
+      "opportunities_with_keyword_matches": 838,
+      "top_awardees": [
+        {
+          "name": "PERIGEE PRIME AE SB JV23, LLC West Jordan UT 84088 USA",
+          "wins": 2,
+          "total_value": 998000000
+        },
+        {
+          "name": "THE JOHNSON-MCADAMS FIRM, P.A. Greenwood MS 38930 USA",
+          "wins": 1,
+          "total_value": 499000000
+        },
+        {
+          "name": "Sherlock, Smith & Adams-Clark Nexsen Joint Venture Montgomery AL 36111 USA",
+          "wins": 1,
+          "total_value": 499000000
+        },
+        {
+          "name": "SHERLOCK, SMITH & ADAMS INC. Montgomery AL 36111 USA",
+          "wins": 1,
+          "total_value": 499000000
+        },
+        {
+          "name": "RS&H-CEMS JV Jacksonville FL 32256 USA",
+          "wins": 1,
+          "total_value": 499000000
+        }
+      ]
+    },
+    "VETERANS AFFAIRS, DEPARTMENT OF": {
+      "total_records": 148,
+      "open_opportunities": 125,
+      "awarded": 23,
+      "win_rate_percent": 15.5,
+      "estimated_monthly_value": 280013318,
+      "average_award_value": 12174492,
+      "opportunities_with_attachments": 14,
+      "opportunities_with_keyword_matches": 33,
+      "top_awardees": [
+        {
+          "name": "AGILITI HEALTH INC EDEN PRAIRIE 55344",
+          "wins": 1,
+          "total_value": 246700000
+        },
+        {
+          "name": "ANGEL DESIGN BUILD CONSTRUCTION LLC Richmond VA 23230 USA",
+          "wins": 1,
+          "total_value": 12376754
+        },
+        {
+          "name": "ARLOS GROUP, LLC ARGYLE 76226",
+          "wins": 1,
+          "total_value": 9096955
+        },
+        {
+          "name": "POSTERITY GROUP LLC DERWOOD 20855",
+          "wins": 1,
+          "total_value": 5842212
+        },
+        {
+          "name": "AVKARE LLC PULASKI 38478",
+          "wins": 1,
+          "total_value": 2028654
+        }
+      ]
+    },
+    "INTERIOR, DEPARTMENT OF THE": {
+      "total_records": 93,
+      "open_opportunities": 60,
+      "awarded": 33,
+      "win_rate_percent": 35.5,
+      "estimated_monthly_value": 6533475,
+      "average_award_value": 197984,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 17,
+      "top_awardees": [
+        {
+          "name": "DHM DESIGN CORPORATION 900 S BROADWAY STE 300 Denver CO 80209 USA",
+          "wins": 1,
+          "total_value": 1907394
+        },
+        {
+          "name": "PROJECT SOLUTIONS, INC. 505 KANSAS CITY ST Rapid City SD 57701 USA",
+          "wins": 2,
+          "total_value": 1005645
+        },
+        {
+          "name": "K2M DESIGN, INC 1150 VIRGINIA ST Key West FL 33040 USA",
+          "wins": 1,
+          "total_value": 461661
+        },
+        {
+          "name": "EGC, INC. 825 N SAINT MARYS ST UNIT 202 San Antonio TX 78205 USA",
+          "wins": 1,
+          "total_value": 447843
+        },
+        {
+          "name": "JOHN DEERE SHARED SERVICES, LLC 1300 RIVER DR MOLINE IL 61265 USA",
+          "wins": 1,
+          "total_value": 402005
+        }
+      ]
+    },
+    "AGRICULTURE, DEPARTMENT OF": {
+      "total_records": 64,
+      "open_opportunities": 53,
+      "awarded": 11,
+      "win_rate_percent": 17.2,
+      "estimated_monthly_value": 24292564,
+      "average_award_value": 2208414,
+      "opportunities_with_attachments": 10,
+      "opportunities_with_keyword_matches": 8,
+      "top_awardees": [
+        {
+          "name": "Multiple Washington DC USA",
+          "wins": 3,
+          "total_value": 18614506
+        },
+        {
+          "name": "JUDD BUICK CONSTRUCTION, INC. Redding CA 96001 USA",
+          "wins": 1,
+          "total_value": 2133638
+        },
+        {
+          "name": "UIC NAPPAIRIT LLC Anchorage AK 99518 USA",
+          "wins": 1,
+          "total_value": 1371913
+        },
+        {
+          "name": "Multiple Austin IN USA",
+          "wins": 1,
+          "total_value": 1364264
+        },
+        {
+          "name": "COELHO, INC. Port Republic MD 20676 USA",
+          "wins": 1,
+          "total_value": 261125
+        }
+      ]
+    },
+    "HOMELAND SECURITY, DEPARTMENT OF": {
+      "total_records": 49,
+      "open_opportunities": 47,
+      "awarded": 2,
+      "win_rate_percent": 6.1,
+      "estimated_monthly_value": 39324,
+      "average_award_value": 13108,
+      "opportunities_with_attachments": 12,
+      "opportunities_with_keyword_matches": 10,
+      "top_awardees": [
+        {
+          "name": "TEXTRON SYSTEMS CORPORATION Hunt Valley MD 21030 USA",
+          "wins": 1,
+          "total_value": 36200
+        },
+        {
+          "name": "E.D.N. AVIATION INC Van Nuys CA 91406 USA",
+          "wins": 1,
+          "total_value": 3124
+        },
+        {
+          "name": "",
+          "wins": 1,
+          "total_value": 0
+        }
+      ]
+    },
+    "HEALTH AND HUMAN SERVICES, DEPARTMENT OF": {
+      "total_records": 35,
+      "open_opportunities": 34,
+      "awarded": 1,
+      "win_rate_percent": 5.7,
+      "estimated_monthly_value": 4769906,
+      "average_award_value": 2384953,
+      "opportunities_with_attachments": 3,
+      "opportunities_with_keyword_matches": 11,
+      "top_awardees": [
+        {
+          "name": "PCI PROFESSIONAL SERVICES, LLC Atmore AL 36502 USA",
+          "wins": 1,
+          "total_value": 4769906
+        },
+        {
+          "name": "",
+          "wins": 1,
+          "total_value": 0
+        }
+      ]
     },
     "STATE, DEPARTMENT OF": {
+      "total_records": 33,
+      "open_opportunities": 33,
+      "awarded": 0,
+      "win_rate_percent": 3.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 7,
+      "opportunities_with_keyword_matches": 15,
+      "top_awardees": [
+        {
+          "name": "",
+          "wins": 1,
+          "total_value": 0
+        }
+      ]
+    },
+    "JUSTICE, DEPARTMENT OF": {
+      "total_records": 27,
+      "open_opportunities": 25,
+      "awarded": 2,
+      "win_rate_percent": 7.4,
+      "estimated_monthly_value": 521270,
+      "average_award_value": 260635,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 11,
+      "top_awardees": [
+        {
+          "name": "AMERICAN NATIONAL RED CROSS, THE Charlotte NC 28273 USA",
+          "wins": 1,
+          "total_value": 365845
+        },
+        {
+          "name": "Regional Produce Distributors, Limited Liability Company Birmingham AL 35204 USA",
+          "wins": 1,
+          "total_value": 155424
+        }
+      ]
+    },
+    "COMMERCE, DEPARTMENT OF": {
+      "total_records": 22,
+      "open_opportunities": 22,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 13,
+      "top_awardees": []
+    },
+    "ENERGY, DEPARTMENT OF": {
+      "total_records": 17,
+      "open_opportunities": 15,
+      "awarded": 2,
+      "win_rate_percent": 17.6,
+      "estimated_monthly_value": 4505,
+      "average_award_value": 1501,
+      "opportunities_with_attachments": 2,
+      "opportunities_with_keyword_matches": 3,
+      "top_awardees": [
+        {
+          "name": "THUNDERCAT TECHNOLOGY, LLC 11190 SUNRISE VALLEY DRIVE SUITE 200 Reston VA 20191 USA",
+          "wins": 1,
+          "total_value": 4008
+        },
+        {
+          "name": "ADVANCED COMPUTER CONCEPTS, INC. 7927 JONES BRANCH DR STE 600N MCLEAN VA 22102 USA",
+          "wins": 1,
+          "total_value": 496
+        },
+        {
+          "name": "",
+          "wins": 1,
+          "total_value": 0
+        }
+      ]
+    },
+    "GENERAL SERVICES ADMINISTRATION": {
+      "total_records": 17,
+      "open_opportunities": 11,
+      "awarded": 6,
+      "win_rate_percent": 47.1,
+      "estimated_monthly_value": 93591075,
+      "average_award_value": 11698884,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 6,
+      "top_awardees": [
+        {
+          "name": "MABBETT & ASSOCIATES, INC. STONEHAM 02180-1260 USA",
+          "wins": 1,
+          "total_value": 82000000
+        },
+        {
+          "name": "POWTEC SERVICES, LLC BREMERTON 98310-3565 USA",
+          "wins": 1,
+          "total_value": 9600000
+        },
+        {
+          "name": "Atomic Research LLC SPRINGS 80906-8648 USA",
+          "wins": 1,
+          "total_value": 1000000
+        },
+        {
+          "name": "ALEX & RYAN DESIGN LLC Manchester NH 03103-4414 USA",
+          "wins": 1,
+          "total_value": 475000
+        },
+        {
+          "name": "CNC TECHNOLOGIES LLC UPLAND 91784-8235 USA",
+          "wins": 1,
+          "total_value": 475000
+        }
+      ]
+    },
+    "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION": {
+      "total_records": 11,
+      "open_opportunities": 11,
+      "awarded": 0,
+      "win_rate_percent": 9.1,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 2,
+      "opportunities_with_keyword_matches": 2,
+      "top_awardees": [
+        {
+          "name": "",
+          "wins": 1,
+          "total_value": 0
+        }
+      ]
+    },
+    "TRANSPORTATION, DEPARTMENT OF": {
+      "total_records": 6,
+      "open_opportunities": 5,
+      "awarded": 1,
+      "win_rate_percent": 16.7,
+      "estimated_monthly_value": 1626895,
+      "average_award_value": 1626895,
+      "opportunities_with_attachments": 2,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [
+        {
+          "name": "MISSOURI RIVER CONTRACTORS, LLC East Helena MT 59635 USA",
+          "wins": 1,
+          "total_value": 1626895
+        }
+      ]
+    },
+    "TREASURY, DEPARTMENT OF THE": {
       "total_records": 3,
       "open_opportunities": 3,
       "awarded": 0,
@@ -99,7 +1411,140 @@
       "opportunities_with_keyword_matches": 0,
       "top_awardees": []
     },
-    "VETERANS AFFAIRS, DEPARTMENT OF": {
+    "ENVIRONMENTAL PROTECTION AGENCY": {
+      "total_records": 3,
+      "open_opportunities": 2,
+      "awarded": 1,
+      "win_rate_percent": 33.3,
+      "estimated_monthly_value": 498802,
+      "average_award_value": 498802,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [
+        {
+          "name": "PACIFIC MOBILE STRUCTURES, INC. 1554 BISHOP RD Chehalis WA 98532 USA",
+          "wins": 1,
+          "total_value": 498802
+        }
+      ]
+    },
+    "ARCHITECT OF THE CAPITOL": {
+      "total_records": 2,
+      "open_opportunities": 2,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": []
+    },
+    "INTERNATIONAL BOUNDARY AND WATER COMMISSION: US-MEXICO": {
+      "total_records": 2,
+      "open_opportunities": 0,
+      "awarded": 2,
+      "win_rate_percent": 100.0,
+      "estimated_monthly_value": 69195,
+      "average_award_value": 34597,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [
+        {
+          "name": "GLOBAL SOLUTIONS AMERICAS LLC El Paso TX 79925 USA",
+          "wins": 1,
+          "total_value": 50000
+        },
+        {
+          "name": "AMERICAN CLASSIC CONSTRUCTION INC. Chatsworth CA 91311 USA",
+          "wins": 1,
+          "total_value": 19195
+        }
+      ]
+    },
+    "UNITED STATES HOLOCAUST MEMORIAL MUSEUM": {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": []
+    },
+    "COURT SERVICES AND OFFENDER SUPERVISION AGENCY": {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": []
+    },
+    "LABOR, DEPARTMENT OF": {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": []
+    },
+    "LIBRARY OF CONGRESS": {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 1,
+      "top_awardees": []
+    },
+    "POSTAL SERVICE": {
+      "total_records": 1,
+      "open_opportunities": 0,
+      "awarded": 1,
+      "win_rate_percent": 100.0,
+      "estimated_monthly_value": 1030000,
+      "average_award_value": 1030000,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [
+        {
+          "name": "AAR OF NORTH CAROLINA, INC. Kernersville NC 27284 USA",
+          "wins": 1,
+          "total_value": 1030000
+        }
+      ]
+    },
+    "FEDERAL DEPOSIT INSURANCE CORPORATION": {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": []
+    },
+    "NATIONAL ARCHIVES AND RECORDS ADMINISTRATION": {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": []
+    },
+    "SOCIAL SECURITY ADMINISTRATION": {
       "total_records": 1,
       "open_opportunities": 1,
       "awarded": 0,

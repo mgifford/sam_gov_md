@@ -1,0 +1,37 @@
+---
+layout: default
+title: Portable Patient Transport System (PPTS) Final
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: 9ed80c0ecb104c5f9b5206649792c842
+---
+
+# Portable Patient Transport System (PPTS) Final
+
+- Agency: DEPT OF DEFENSE
+- Type: Presolicitation
+- Posted: 2026-05-19 11:39:52.916-04
+- Solicitation Number: W911QY-26-S-PPTS-01
+
+## Summary
+
+See 19MAY2026 Update below This draft Call for solutions is associated with the Army's Open Solicitation, W9128Z-25-S-A002. Please see the referenced link for more information. (https://sam.gov/opp/476c4481dc56499c9b1d9c6a9ce745a9/view). Call for Solutions (CFS) Number: W911QY-26-S-PPTS-01 Issuing Office: U.S. Army Contracting Command-Aberdeen Proving Ground (ACC-APG), Natick Contracting Division (NCD) Date Issued: March 12, 2026 Portable Patient Transport System (PPTS) This Call for Solutions (CFS) is issued under the authority of 10 U.S.C. § 4022, “Authority of the Department of Defense to carry out certain prototype projects,” against the Army Open Solicitation (AOS) W9128Z-25-S-A002, under BAA authority. The Government intends to award multiple Prototype Other Transaction (OT) Agreements to the offerors whose Solution Briefs are determined to be most advantageous to the Government based on the evaluation criteria outlined in Section D. This CFS invites interested parties to submit a “Solution Brief” for a prototype PPTS. The details can be found in Attachments: AOS Statement of Objectives PPTS_Final Draft (2026-03-12). and Final Draft Call for Solution PPTS 12MAR2026.. Inquiries and Questions All inquiries must be submitted via email to both POCs NLT 1700 Eastern Time on 26 March 2026. Each Offeror shall submit only one consolidated set of questions. Questions received after the deadline may not be answered. If an Offeror identifies a potential error, omission, or other issue in the drafft Call for Solutions, the Offeror must notify the Government POCs in writing during the question period. The notification must include supporting rationale and any recommended remedies for the Government's consideration. Communication Protocol - All communications concerning this competition shall be in writing and directed exclusively to the Government POCs identified below. Unauthorized contact with other Government personnel regarding this competition may constitute an Organizational Conflict of Interest (OCI) and result in the Offeror's exclusion from the competition. Agreements Officer: Dan Adams (email:dan.l.adams2.civ@army.mil) Agreements Specialist: Christine Halamoutis (email; christine.m.halamoutis.civ@army.mil) Updated April 1, 2026 The government plans to post Questions and Answers (Q&A) that have been received for PPTS by April 7, 20226. The draft CFS and SOO will be updated to remove "draft" and a final CFS due date will be posted. Updated April 8, 2026 Questions and Answers (Q&A) will be provided in the Q&A attachment The draft CFS and SOO have not been finalized, once they have been, they will be posted and marked as final. 14MAY2026 Update This call is no longer in draft status. The Final SOO, CFS and updated Q&A's have been posted in the attachments. Questions in regard to this finalized Call must be submitted before 5:00PM on 19 May 2026. Submissions are due by 4:00PM on 03 June 2026. 14MAY2026 Update This call is no longer in draft status. The Q&A's have been posted in the attachments, dated 15MAY2026. Questions in regard to this finalized Call must be submitted before 5:00PM on 19 May 2026. Submissions are due by 4:00PM on 03 June 2026. 19MAY2026 Update The CFS has been revised to reference Attachment 0002 PPTS Capabilities Assertion Matrix Attachment 0002 PPTS Capabilities Assertion Matrix has been included Questions in regard to this finalized Call must be submitted before 5:00PM on 19 May 2026. Submissions are due by 4:00PM on 03 June 2026.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Dan Adams
+  - Email: dan.l.adams2.civ@army.mil
+- Secondary Contact:
+  - Name: Christine Halamoutis
+  - Email: christine.m.halamoutis.civ@army.mil
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: draft CFS and SOO have not been finalized, once they have been, they will be posted and marked as final. 14MAY2026 Update This call is no longer in draft status. The Final SOO, CFS and updated Q&A"s have been posted in the attachments. Questions in regard to this finalized Call must be submitted before 5:00PM on 19 May 2026. Submissions are due by 4:00PM on 03 June 2026. 14MAY2026 Update This call is no longer in draft status. The Q&A"s have been posted in the attachments, dated 15MAY2026. Questions in regard to this finalized Call must be submitted before 5:00PM on 19 May 2026. Submissions are due by 4:00PM on 03 June 2026. 19MAY2026 Update The CFS has been revised to reference Attachment 0002 PPTS Capabilities Assertion Matrix Attachment 0002 PPTS Capabilities Assertion Matrix has been included Questions in regard to this finalized Call must be submitted before 5:00PM on 19 May 2026. Submissions are due by 4:00PM on 03 June 2026
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9ed80c0ecb104c5f9b5206649792c842/view)

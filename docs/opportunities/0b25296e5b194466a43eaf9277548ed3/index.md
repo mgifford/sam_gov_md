@@ -1,0 +1,28 @@
+---
+layout: default
+title: 15--SKIN,AIRCRAFT
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 0b25296e5b194466a43eaf9277548ed3
+---
+
+# 15--SKIN,AIRCRAFT
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-05-19 03:08:21.015-04
+- Solicitation Number: SPE4A526T168B
+
+## Summary
+
+Proposed procurement for NSN 1560015913657 SKIN,AIRCRAFT: Line 0001 Qty 9 UI EA Deliver To: DLA DISTRIBUTION CHERRY POINT By: 0171 DAYS ADO Approved source is 97499 450-030-441-103. The solicitation is an RFQ and will be available at the link provided in this notice. Hard copies of this solicitation are not available. Specifications, plans, or drawings are not available. All responsible sources may submit a quote which, if timely received, shall be considered. Quotes must be submitted electronically.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Questions regarding this solicitation should be emailed to the buyer listed in block 5 of the solicitation document which can be found under the Additional Information link. If the Additional Information link does not work, please go to https://www.dibbs.bsm.dla.mil/Solicitations/ and type the solicitation number in the Global Search box.
+  - Email: DibbsBSM@dla.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0b25296e5b194466a43eaf9277548ed3/view)

@@ -1,0 +1,31 @@
+---
+layout: default
+title: TECHNOLOGY LICENSING OPPORTUNITY: MoltenClad
+agency: ENERGY, DEPARTMENT OF
+notice_type: Special Notice
+notice_id: 22d0def1377d48e2bec12cc2af379142
+---
+
+# TECHNOLOGY LICENSING OPPORTUNITY: MoltenClad
+
+- Agency: ENERGY, DEPARTMENT OF
+- Type: Special Notice
+- Posted: 2026-05-19 15:36:07.872-04
+- Solicitation Number: S-167741
+
+## Summary
+
+Protective Metallic Coatings via Electrodeposition MoltenClad delivers a first-of-its-kind capability to deposit dense, uniform metallic coatings onto nuclear fuel pellets using molten salt electrodeposition. Unlike line-of-sight methods that leave gaps in coverage, electrodeposition surrounds the entire fuel surface with a protective barrier in a single process step. The technique, developed by scientists at Los Alamos National Laboratory, is compatible with a range of refractory metals and salt chemistries, allowing coating properties to be tuned for specific operating environments. For organizations developing advanced reactor fuels or accident-tolerant fuel concepts, MoltenClad offers a scalable and adaptable coating platform that addresses longstanding manufacturing gaps in the nuclear fuel supply chain. The Challenge Extreme temperatures, corrosive fission products and intense neutron radiation inside nuclear reactors degrade fuel materials over time, limiting operational lifetimes and creating safety risks during accident scenarios. Applying a protective metallic layer to fuel pellets is a well-recognized strategy for improving fuel durability, yet existing coating technologies fall short. Chemical vapor deposition and physical vapor deposition rely on line-of-sight processes, meaning only surfaces directly exposed to the vapor or plasma stream receive a coating. Dip coating and sputter coating introduce their own complications, including substrate leaching from incompatible precursors and uneven coverage on complex pellet geometries. High deposition temperatures required by some methods can also compromise the structural integrity of the fuel itself. The accident-tolerant fuel community has invested heavily in coated cladding, but protective coatings applied directly to the fuel pellet surface have received far less attention, leaving a critical gap in the defense-in-depth strategy for next-generation nuclear fuels. Problems Solved MoltenClad resolves the core limitations of conventional coating approaches by operating through an electrochemical mechanism rather than a directional deposition process. Because the molten salt bath fully surrounds the fuel pellet, the coating eliminates the line-of-sight restriction that plagues vapor-based methods. The electrochemical process avoids harsh chemical precursors that can leach or corrode an actinide substrate, and the byproducts of the reaction remain dissolved in the salt rather than contaminating the coating. While the process does operate at elevated temperatures, those temperatures remain well within the compatibility range for relevant materials. Coating quality, including thickness, density and microstructure, can be precisely controlled by adjusting the salt mixture composition, operating temperature and electrochemical parameters. Characterization of the resulting zirconium coatings has confirmed excellent adhesion to the fuel substrate with no inclusions or microcracks. The technique also extends beyond zirconium; other refractory metals such as tantalum, tungsten and molybdenum can potentially be deposited using the same platform, broadening its applicability to diverse extreme-environment scenarios. Advantages Full-surface coverage — electrochemical deposition coats all exposed surfaces of the fuel pellet, eliminating gaps left by line-of-sight methods Substrate compatibility — avoids harsh precursors and excessive temperatures that damage ceramics Tunable coating properties — salt composition, temperature and electrical parameters can be adjusted to control coating thickness, density and microstructure Neutron transparency — zirconium's low neutron absorption cross-section allows radiation to pass through the coating without significant performance penalties Multi-metal versatility — the platform can potentially deposit other refractory metals and alloys for different operating environments Dense, adherent coatings — demonstrated results show crack-free, inclusion-free metallic layers with strong adhesion to the fuel substrate Market Applications Advanced nuclear reactors (next-generation fuel pellet protection, accident-tolerant fuel concepts) Defense and national security (naval reactor fuels, portable nuclear power sources) Aerospace (high-temperature turbine components, refractory metal coatings for extreme environments) Nuclear fuel manufacturing (fuel fabrication process enhancement, quality and safety improvements) Research and isotope production (research reactor fuel elements, high-performance irradiation targets) TRL 3 US Patent pending LA-UR-26-24102 LANL Tech Partnerships: Unlock the Innovative Potential Los Alamos National Laboratory offers a wide range of cutting-edge technologies and capabilities that may provide your company with a competitive edge in the market and unlock the innovative potential that can enhance, refine, and revolutionize your products. LANL’s licensing program focuses on moving inventions developed by our researchers to commercial innovations. Patented and patent pending inventions and copyrighted software are available to existing and start-up companies through exclusive and non-exclusive licensing agreements. For specific discussions, please contact licensing@lanl.gov. Note: This is not a call for external services for the development of this technology. https://www.lanl.gov/engage/collaboration/feynman-center/partner-with-us/licensing-technology m.lanl.gov/tech-search
+
+## Contacts
+
+- Primary Contact:
+  - Name: Kathleen McDonald
+  - Email: licensing@lanl.gov
+- Secondary Contact:
+  - Name: Lindsay Augustyn
+  - Email: licensing@lanl.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/22d0def1377d48e2bec12cc2af379142/view)
