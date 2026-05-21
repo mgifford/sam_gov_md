@@ -1,0 +1,31 @@
+---
+layout: default
+title: 6525--Portable Ultrasounds (VA-26-00062440)
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: 38ce7ea1bead41aabb0395a068b1dc09
+---
+
+# 6525--Portable Ultrasounds (VA-26-00062440)
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-05-20 11:08:25.231-04
+- Solicitation Number: 36C25726Q0587
+- Awardee: null
+
+## Summary
+
+This market research notice is being conducted by Network Contracting Office (NCO) 17 VHA Regional Procurement Office-West (RPOW) 5441 Babcock Road Medical Center. 302 San Antonio TX 78240 for the procurement for Portable Ultrasound System (Android application) Linear Array.Â Background and Requirement: VA Texas Valley Coastal Bend Healthcare System (VATVCBHCS) requirement to procure ten Portable ultrasounds with carts and tablets for the following services: Pain, Medicine, Primary Care at Harlingen, Tx. Portable Ultrasounds will facilitate injections using Platelet Rich Plasma, Dry needling and evaluation of patient care. US will be used for guidance purposes only. 2. Portable Transducer (Ultrasound) Display information with depth to 30 cm (exam-specific), transducer Linear Array with field view of 34.5mm, exam type of superficial, soft tissue, and MSK. With color doppler imaging, live ultrasound streaming. Must be Handheld with B line Quantification. 2D mode, color doppler, Pulse wave doppler. Image optimization of sonoCT real time imaging, tissue harmonic imaging, Xres adaptive imaging processing, auto SCAN intelligent optimization. With a handheld portable storage bag. Weith of 108 g/3.8 oz, dimensions of 11.4 cm x 4.5 cm 4.5 in x 1.8 in (l x w). Cart With Tablet Cart must be a lightweight cart and convenient to accommodate accessories and up to 2 transducers or gel bottles. With a supply caddy to hold wipes, disinfectants, or chargers. Must include a single tab extension cord. Must be ISO 9001:2015 certified. Cart must be able to mount tablet for stable viewing. Cart must be mobile on 4 wheels. Tablet display information to include transducer type and frequency range, active clinical option and optimize present display depth, grayscale, color map, color scale, frame rate, 2D gain, color gain, and color image. Battery status icon display. With full screen mode. Dimensions of 10.12" x 6.64" x 0.27". Weight 1.06 lb. Tablet must come with all preloaded software applications with image guidance that is VA approved. Software must include guided B-lines, live ultrasound image, voice communication, up to 14 customized presets (including abdominal, cardiac, and MSK). Quantity Description 10 Transducer Linear Array 10 Carts with tablet TECHNICAL REQUIREMENTS a. Shipping: VATVSBHCS, VA Harlingen Healthcare Center (HCC) VA Harlingen Healthcare Center (HCC), Ship to: 2601 Veterans Drive Harling, TX 78550, Shipping and receipt of equipment is estimated 30 days from award. 4.This equipment must be able to perform the following functions for all the SPECIFIC Portable Ultrasound System (Android application) Linear Array. 5. If this is an item your business can provide, please respond to this Sources Sought Notice by 10:00 AM Central Time on Friday 29 May 2026. 6. The intent of this notice is to establish sources to define the procurement strategy (e.g. set-aside, sole source, unrestricted) for a solicitation that VA intends to post soon.Â Interested contractors are requested to respond in accordance with the following:Â Â Where is the item manufactured, the VA is interested in procuring items manufactured in the United States. Provide City and State. If you have an existing GSA or VA, Federal Supply Schedule contract, include the contract details in your response. Please note that VA is particularly interested in determining the availability of Service Disable Veteran Owned Small Business/Veteran Owned Small Business or other Small Business manufacturers or authorized distributors that can provide this item.Â Â Respond to this notice if you can provide these products listed in the table in the background and requirement section above. In response, please cite your business size status.Â Â DISTRIBUTORS:Â You must provide proof that you are an authorized distributor. VA does not accept gray market items.Â Â Vendors are requested to submit estimated market research pricing with their responses.Â The estimated pricing will be considered when determining the procurement strategy for the future solicitation. (e.g., if CO determines that capable small businesses cannot provide fair and reasonable pricing, then the solicitation will not be set-aside).Â Â Â Â Responses should include: Â (1) Business NameÂ (2) Business AddressÂ (3) Point of ContactÂ Â - NameÂ - Phone NumberÂ - E-mail AddressÂ (4) SAM UID NumberÂ (5) NAICS codeÂ (6) Business Size: SMALL or LARGEÂ (7) Type of Business: SERVICE-DISABLED VETERAN OWNED (SDVOSB), VETERAN OWNED(VOSB), 8A, HUBZone, WOMAN-OWNED (WOSB), etc.Â Â (8) Letter stating OEM authorized dealer, authorized distributor, or authorized reseller for the proposed equipment and/or services if applicableÂ (9) GSA/FSS Contract Number if applicableÂ Â Â All businesses eligible to provide this item are encouraged to reply as this information may be used to determine potential set-asides for the above-noted requirement.Â Â Â 8. Send responses to Michelle Cunningham at michelle.cunningham@va.gov.Â Â Â Â DISCLAIMER:Â THIS NOTICE OF INTENT IS NOT A REQUEST FOR COMPETITIVE QUOTES. However, Contractors may submit a capability statement, proposal, or quotation which shall be considered by the contracting officer whether to continue with the sole source procurement or to provide for competition. Due to technical issues, please allow additional time if you re using electronic means.Â Responses received will be evaluated; however, a determination by the Government not to compete with the proposed procurement based upon responses received to this notice is solely within the discretion of the Government.Â
+
+## Contacts
+
+- Primary Contact:
+  - Name: Michelle Cunningham
+  - Title: Contract Specialist
+  - Email: michelle.cunningham@va.gov
+  - Phone: michelle.cunningham@va.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/38ce7ea1bead41aabb0395a068b1dc09/view)

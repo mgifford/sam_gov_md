@@ -1,0 +1,28 @@
+---
+layout: default
+title: Sources Sought Notice - Thermo-Scientific Isolink CN Combustion Elemental Analyzer or Equivalent
+agency: COMMERCE, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: e571aec476c24fa4b64df0796f3b635b
+---
+
+# Sources Sought Notice - Thermo-Scientific Isolink CN Combustion Elemental Analyzer or Equivalent
+
+- Agency: COMMERCE, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-05-20 14:14:43.938-04
+- Solicitation Number: REQUIREMENTS-26-2651
+
+## Summary
+
+NOAA – National Marine Fisheries Service – AFSC – Thermo-Scientific Isolink CN Combustion Elemental Analyzer or Equivalent This is a Sources Sought Notice in preparation for an upcoming procurement, the National Oceanic and Atmospheric Administration (NOAA), National Marine Fisheries Service (NMFS), Alaska Fisheries Science Center; is conducting market research to determine potential sources for brand name or equal to a Thermo-Scientific Isolink CN Combustion Elemental Analyzer system. The North American Industrial Classification System (NAICS) code is 334516 – Analytical Laboratory Instrument Manufacturing. The small-business size standard for this NAICS code is 1,000 employees. • A draft Statement of Need (SON) is provided for informational purposes only. Standard brochures will not be considered a sufficient response to this notice. Submitted Capability Statements shall include the following: General Information: Provide the company name and address, Unique Entity Identifier, Cage Code, type of business under NAICS code 334516 (e.g. Small business, 8(a), veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and/or women owned small business; or other than small business) as validated via the System for Award Management (SAM), and company point of contact including name, phone number, and e-mail address. Capabilities: Demonstrate how your firm has the products and capabilities to meet all requirements in the statement of need. Documentation Comments: To facilitate the exchange of information with industry, provide any comments, questions, or suggestions that pertain to the statement of need included with this notice. Identify any areas that appear ambiguous or otherwise unclear. Interested vendors are invited to submit an electronic response to this Sources Sought Notice to Jason Jenks, Contracting Officer, via e-mail at: jason.jenks@noaa.gov no later than 05:00 p.m. Eastern on Jun 04, 2026. Capability Statements and Documentation Comments must be submitted in writing; telephonic inquiries will not receive a response. This is not a request for technical or price quotations. The Government does not intend to award a contract based on this notice or reimburse costs incurred by interested parties providing the information requested herein. STATEMENT OF NEED Thermo Scientific Isolink CN Combustion Elemental Analyzer or Equivalent PURPOSE: This requirement is for a Thermo Scientific Isolink CN Combustion Elemental Analyzer (EA) (or equivalent) to interface with an existing Thermo Scientific Delta V Advantage Isotope Ratio Mass Spectrometer is required to support the nutritional ecology laboratory in percent protein determination and stable isotope analysis of fish, plankton, marine mammal and other animal tissues, purified amino acids, and standard reference materials. BACKGROUND: The National Marine Fisheries Service (NMFS) conducts oceanographic research in Alaska’s marine waters. Collaborative research within AFSC and with external partners use data and samples collected during these surveys to determine how environmental variation affects survival and recruitment of commercially important fish, including salmon and groundfish. This new instrument would increase productivity and efficiency in processing samples and provide critical data to meet our reporting requirements. SCOPE: The Contractor shall furnish and deliver the elemental analyzer system listed in Statement of Need. Delivery needs to be made no later than 15-Sep-2026 to the NMFS ABL Research Facility in Juneau, AK. TECHNICAL SPECIFICATIONS/SALIENT CHARACTERISTICS: The Contractor shall furnish and deliver a Thermo Scientific Isolink CN Combustion Elemental Analyzer unit or equivalent that meets the following specifications/salient characteristics: I. The system should be able to seamlessly interface with a Thermo Scientific Delta V Advantage Isotope Ratio Mass Spectrometer. ? The system should be capable of using helium as a carrier gas. ? The system should accommodate a flow rate of 90-110 mL/min. ? The system should be able to interface with Thermo Scientific Isodat Software to automatically control sample stream dilution levels at the ConFlo IV interface on a per-sample basis. ? The system should use a two-column configuration for sample combustion and reduction, and not a single column configuration. II. The system should include an autosampler III. The system should accommodate a range of sample matrices, including the following at a minimum: IV. The system should include an oxidation reactor and a reduction reactor. V. The system should have a gas chromatography (GC) column and oven. VI. The system should be equipped for flash combustion. VII. The system should have automatic leak-checking capability.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Jason Jenks
+  - Email: jason.jenks@noaa.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e571aec476c24fa4b64df0796f3b635b/view)

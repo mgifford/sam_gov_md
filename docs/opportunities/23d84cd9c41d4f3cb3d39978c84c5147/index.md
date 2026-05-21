@@ -1,0 +1,29 @@
+---
+layout: default
+title: Electronic Armor Support
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 23d84cd9c41d4f3cb3d39978c84c5147
+---
+
+# Electronic Armor Support
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-05-20 08:17:07.792-04
+- Solicitation Number: N0017826QC603
+
+## Summary
+
+COMBINED SYNOPSIS/SOLICITATION: N0017826QC603 Submitted by: Lee Ann Mizelle NAICS Code: 541330 FSC/PSC Code: R425 Anticipated Date to be published in SAM.gov: 20/MAY/2026 Anticipated Closing Date: 19/JUN/2026 Contracts POC Name: Lee Ann Mizelle Telephone: (540) 742-8050 Email Address: lee.a.mizelle.civ@us.navy.mil PSC/FSC Code and Description: 7A - IT and Telecom - Applications Basis for award: X_ Brand Name - FAR 6.103-1(d) __ Sole Source - FAR 6.103-1(b) __ Full and Open - FAR 6.101 __ Total Small Business Set Aside - FAR 19.104-1 This is a combined synopsis/solicitation for commercial items or service prepared in accordance with FAR Part 12 using the publicizing requirements of FAR Part 5.This announcement constitutes the only solicitation. Quotations are being requested and a separate written solicitation will not be issued. Synopsis/Solicitation N0017826QC603 is issued as a Request for Quotation (RFQ). The provisions and clauses incorporated in this solicitation are those in effect through the Federal Acquisition Regulation and Defense Federal Acquisition Regulation Supplement as of the date of issuance and are included in the attached SF 1449. For commercial acquisitions using simplified procedures under FAR Part 12, Buy American applies unless the value exceeds the applicable Trade Agreements threshold, in which case Trade Agreements apply – except where an exception applies. The Naval Surface Warfare Center Dahlgren Division (NSWCDD) intends to procure products/service manufactured by NightWing Intelligence Solutions LLC as follows: Qty 2 - EA Packager - Perpetual (P/N: RCSI-0001-0lB) Qty 30 - EA-OS Execution Enabler with Boot Shield-2026 (P/N: RCSI-0001-04A) Qty 51 - EA-OS Execution Enabler - Specialized-2026 (P/N: RCSI-0001-02B) Qty 1 - Level 4 Services Package - Calendar Year (CY) 2026 (P/N: RCSI-0003-ES-04) Qty 1 - Level 4 Services Package - CY2026 (P/N: RCSI-0003-ES-04), and options. See the attached Performance Work Statement (PWS). Nightwing Intelligence Solutions LLC is located in Indialantic, FL. Additional services and licensing are required to support deployment and runtime licensing requirements by NightWing. The Nightwing EA Program protection solutions and software are an essential requirement that have been directed by an official memorandum from the Secretary of War (SECWAR). There is no known alternative or substitute to this SECWAR mandate. There is currently no other manufacturer’s software that meets the needs. Failure to procure Nightwing EA would result in unanticipated and unbudgeted duplication of costs that could not be recovered through full and open competition. All costs associated with this requirement must be included in the quoted price. This includes shipping and freight to Dahlgren, VA 22448-5114 as well as any tariff or duty charges. No additional costs may be added after award. Where applicable, DFARS 252.225-7013, Duty-Free Entry, will be incorporated. The Government will utilize Simplified Acquisition Procedures, and the order will be issued on a firm fixed-price basis. All responsible offerors shall submit a quotation in response to this solicitation. By submission of a quotation, the offeror represents compliance with the applicable representations and certifications, which are incorporated by reference and completed in the System for Award Management (SAM), as applicable. Submission of a quotation shall constitute the offeror’s unconditional agreement to the terms and conditions of this solicitation. The offeror shall provide documentation from the Original Equipment Manufacturer (OEM) confirming the offeror is an authorized reseller or distributor of the brand-name item(s) quoted. Quotations submitted without such documentation may not be considered for award. Quotations that take exception to the terms and conditions of this solicitation may be rejected. Offerors are encouraged to submit published pricing, historical pricing data, or other information to support the Government’s price analysis and determination of fair and reasonable pricing. Quotes will only be accepted from authorized re-sellers who have provided a Letter of Authorization. Award will be made on a Lowest Price Technically Acceptable basis. In order to be eligible for award, firms must be registered in the System for Award Management (SAM). Offerors may obtain information on registration in SAM by calling 866-606-8220, or via the Internet at https://www.sam.gov. Proposal is due by 19 June 2026, no later than 5:00 p.m. EST with an anticipated award date by 18 July 2026. Questions and responses regarding this synopsis/solicitation may be submitted by e-mail to lee.a.mizelle.civ@us.navy.mil prior to the RFQ closing. Email should reference Synopsis/Solicitation Number N0017826QC603 in the subject line. Attachments – -SF1449: Solicitation for Commercial Items -Redacted Performance Work Statement (PWS) -Redacted Brand Name Justification (BNM) -Redacted Justification (J&A) -Data Item Description DI-SESS-80776B -Data Item Description DI-MGMT-81605 -Redacted CDRLs A001 and A002 -Redacted Contract Security Classification Specification (Bidding DD254) -GFP Attachment
+
+## Contacts
+
+- Primary Contact:
+  - Name: Lee Ann Mizelle
+  - Email: lee.a.mizelle.civ@us.navy.mil
+  - Phone: 5407428050
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/23d84cd9c41d4f3cb3d39978c84c5147/view)

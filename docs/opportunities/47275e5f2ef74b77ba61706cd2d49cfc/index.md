@@ -1,0 +1,28 @@
+---
+layout: default
+title: 34--WELDING POWDER,META
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 47275e5f2ef74b77ba61706cd2d49cfc
+---
+
+# 34--WELDING POWDER,META
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-05-20 10:41:50.992-04
+- Solicitation Number: SPE8E526T2920
+
+## Summary
+
+Proposed procurement for NSN 3439014777033 WELDING POWDER,META: Line 0001 Qty 90 UI CO Deliver To: W1A8 DLA DIST SAN JOAQUIN By: 0059 DAYS ADO Approved sources are 13873 POWCVC; 56923 PAC200S 1-2; 56923 PAC200S 12.5LB. The solicitation is an RFQ and will be available at the link provided in this notice. Hard copies of this solicitation are not available. Specifications, plans, or drawings are not available. All responsible sources may submit a quote which, if timely received, shall be considered. Quotes must be submitted electronically.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Questions regarding this solicitation should be emailed to the buyer listed in block 5 of the solicitation document which can be found under the Additional Information link. If the Additional Information link does not work, please go to https://www.dibbs.bsm.dla.mil/Solicitations/ and type the solicitation number in the Global Search box.
+  - Email: DibbsBSM@dla.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/47275e5f2ef74b77ba61706cd2d49cfc/view)

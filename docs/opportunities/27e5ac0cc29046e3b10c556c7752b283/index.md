@@ -1,0 +1,28 @@
+---
+layout: default
+title: INL/Haiti: Modular Prisons
+agency: STATE, DEPARTMENT OF
+notice_type: Combined Synopsis/Solicitation
+notice_id: 27e5ac0cc29046e3b10c556c7752b283
+---
+
+# INL/Haiti: Modular Prisons
+
+- Agency: STATE, DEPARTMENT OF
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-05-20 13:53:39.267-04
+- Solicitation Number: 191NLE26Q0090
+
+## Summary
+
+Haiti Base Vertieres Modular Prison - Delivery of Steel Modular Prison Cells and Structural Mezzanine GENERAL INFORMATION Issuing Organization: U.S. Department of State, Bureau of International Narcotics and Law Enforcement Affairs (INL) Award Type: Firm-Fixed-Price Contract Period of Performance: Maximum 45 days from contract award Target Award Date: June 1, 2026 Required Delivery Date: July 17, 2026 SUMMARY The Bureau of International Narcotics and Law Enforcement Affairs (INL) seeks a qualified vendor to deliver 80 pre-fabricated "SteelCell" double-bunk stackable modular prison cells and four structural steel mezzanines to Port-au-Prince, Haiti. The cells will be used to establish a temporary high-security detention facility adjacent to Base Vertieres to support Haitian National Police operations against gang activities. CRITICAL TIMELINE REQUIREMENTS This procurement has an extremely tight, non-negotiable timeline: Target Award Date: June 1, 2026 Required Delivery Date: July 17, 2026 Maximum Period of Performance: 45 days from award ONLY VENDORS WHO ARE FULLY READY AND CAPABLE OF MEETING THIS TIMELINE SHOULD SUBMIT PROPOSALS. The vendor must have all 80 modular cell units already fabricated and warehoused, ready for immediate deployment upon award execution. Vendors who cannot demonstrate immediate product availability and meet the delivery deadline should not submit proposals. MANDATORY REQUIREMENTS 1. Place of Performance (NON-NEGOTIABLE) Design and fabrication work must be performed in the United States Delivery must be to Port-au-Prince, Haiti (FOB Destination, freight prepaid) Proposals that do not confirm ability to deliver to Port-au-Prince, Haiti, will be deemed non-responsive 2. Product Availability (CRITICAL) Vendors must provide in their technical proposal: Written documentation confirming current location of all 80 units Proof that units are fabricated and ready for immediate shipment If using subcontractor/supplier: signed commitment letter confirming immediate availability upon award Proposals without this documentation will be deemed non-responsive. 3. Qualifications Licensed and certified in the United States to perform architectural, engineering, and fabrication services Qualified in-house engineering personnel, project management, and QA/QC monitoring SCOPE OF WORK See attached Statement of Work for complete requirements. Key Requirements: 80 "SteelCell" double-bunk stackable modular cells (8'W x 12'L x 8'H) Four structural steel mezzanines with railings, stairs, and bar grating deck All installation components (shims, welding plates, nuts/bolts, etc.) Engineering design services and shop drawings Operations and Maintenance Manuals (French and English) Warranty plan Installation training for INL implementers Delivery to Port-au-Prince, Haiti Note: This is not a brand name requirement. Other products meeting the same specifications will be considered. EVALUATION CRITERIA Best Value Tradeoff Approach: Technical Score: 70% Price Score: 30% Technical Evaluation Factors: Delivery Timeline (Most Important - 45%) - Fastest delivery receives highest score Manufacturing Capacity and Readiness (25%) - Demonstrated immediate availability Past Performance on Similar Projects (15%) - Minimum 3 verifiable references required Technical Compliance and Quality (10%) - Compliance with all specifications Logistics and Transportation Plan (5%) - Proven international delivery capability Award will be made to the vendor whose proposal provides the best value considering technical merit and price. Delivery timeline is the most important factor. PROPOSAL SUBMISSION REQUIREMENTS Submit three separate volumes: Volume I - Technical Proposal Technical approach and methodology Product availability documentation (MANDATORY) Detailed delivery schedule with milestones Qualifications, certifications, and personnel Compliance matrix Volume II - Past Performance Minimum 3 references from comparable projects (last 36 months) International delivery experience On-time delivery track record Volume III - Price Proposal Total firm-fixed-price including all costs Detailed price breakdown Shipping to Port-au-Prince included ATTACHMENTS Offerors must carefully review all attachments, paying close attention to the Statement of Work. The Statement of Work contains detailed technical specifications, code compliance requirements, deliverables, and all contractual requirements. Proposals must address all SOW requirements. IMPORTANT REMINDERS TIGHT TIMELINE: Only vendors with pre-fabricated units ready for immediate deployment should submit NON-NEGOTIABLE DELIVERY: Must deliver to Port-au-Prince, Haiti by July 17, 2026 MANDATORY DOCUMENTATION: Product availability documentation required in technical proposal REVIEW THE SOW: All technical requirements, specifications, and deliverables are detailed in the attached Statement of Work
+
+## Contacts
+
+- Primary Contact:
+  - Name: Courtney Wesely
+  - Email: WeselyCJ@state.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/27e5ac0cc29046e3b10c556c7752b283/view)

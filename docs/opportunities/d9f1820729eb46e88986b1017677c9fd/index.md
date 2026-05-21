@@ -1,0 +1,28 @@
+---
+layout: default
+title: Soldier Monitoring System (SMS) – Technical Support Services and Equipment
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: d9f1820729eb46e88986b1017677c9fd
+---
+
+# Soldier Monitoring System (SMS) – Technical Support Services and Equipment
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-05-20 15:16:01.776-04
+- Solicitation Number: W9124C-26-Q-A012
+
+## Summary
+
+1. Purpose The Mission Installation Contracting Command (MICC) at Fort Jackson is conducting market research to identify qualified sources capable of providing technical support services, data reporting automation, and brand?name or equal equipment in support of the Soldier Monitoring System (SMS). This Request for Information (RFI) is not a solicitation for proposals, quotations, white papers, or solutions, and it does not obligate the Government to acquire any products or services. This RFI is issued solely for planning and market research purposes. The purpose of this RFI is to obtain information, conduct market research, assess technical viability, and explore industry capabilities to inform future requirements and acquisition strategies for the Soldier Monitoring System (SMS) effort described below. Your response to this RFI will be treated as information only. All costs incurred in responding to this RFI are solely at the respondent’s expense. No entitlement to payment of direct or indirect costs or charges by the Government will arise as a result of submitting a response to this announcement or from the Government’s use of any information submitted. Information provided by industry will support the Government in requirements prioritization, acquisition strategy development, and the refinement of the Statement of Work/Statement of Objectives and performance specifications. Interested parties are responsible for properly marking proprietary or competition?sensitive information contained in their response. Proprietary information, if any, shall be minimized and MUST BE CLEARLY MARKED. The Government will not release any information marked with a proprietary legend to firms, agencies, or individuals outside the Government without written permission in accordance with the marking legend. RESPONDENTS MUST NOT INCLUDE CLASSIFIED INFORMATION IN THEIR RESPONSE TO THIS RFI. Foreign?owned, controlled, or influenced firms are advised that security restrictions may apply and may preclude their participation in future phases of this effort. 2. Background Military training environments contain significant and inherent risks, including terrain hazards, extreme weather, wildlife, and other environmental factors. Over the past several years, these hazards have contributed to multiple serious injuries and fatalities during training events. In response to a Soldier fatality during a land navigation exercise, the Vice Chief of Staff of the Army (VCSA) directed the development of a persistent, real?time monitoring capability. The Soldier Monitoring System (SMS) was created to provide: Real?time geo?tracking Automated no?motion alerts Boundary breach alerts Soldier?initiated emergency alerts (SOS) Data reporting and analytics to support risk mitigation USADSA requires technical support services, system sustainment, and compatible hardware to ensure continuous operation of SMS across training environments. 3. Required Capabilities A. Hardware / Equipment Requirements (Brand?Name or Equal) The Government has identified the following brand?name or equal items as part of the SMS ecosystem: Sigma 5 Wearable Tracking Device (See attached salient characteristics) Key features include: Multi?band GNSS Multi?carrier LTE CatM1 + NB?IoT Redundant GPS systems IP68, MIL?STD?810, MIL?STD?883H 6?week battery life Environmental sensors (altimeter, accelerometer, shock, vibration, temperature) Getac S410 Rugged Laptop (See attached salient characteristics) Used for system monitoring, data processing, and command?center operations. Getac ZX70 Rugged Tablet (See attached salient characteristics) Used for mobile field monitoring and real?time tracking. Brand?Name or Equal Requirements If proposing equal products, vendors must provide: Full technical specifications Side?by?side comparison with the salient characteristics Photos of the proposed equipment Evidence of environmental ruggedization (MIL?STD, IP ratings) Evidence of GPS, LTE, BLE, and sensor capabilities Battery performance data Certifications (e.g., FIPS, cybersecurity, RF compliance) B. Technical Support Services System configuration, integration, and troubleshooting Data reporting automation and dashboard support Software updates, patches, and cybersecurity compliance Help desk and user support Training for government personnel 4. Vendor Response Questions **********See attached Vendor Response Questions*********** 5. Requested Submission Format Vendors shall submit: Company name, CAGE code, UEI Point of contact information Technical capability statement Completed responses to all questions Product brochures, photos, and spec sheets Commercial price lists Delivery timelines Any existing contract vehicles (GSA, SEWP, CHESS, etc.) Interested parties may submit responses to keishawna.s.jenkins.civ@army.mil and Cc tequlia.d.holmes.civ@army.mil
+
+## Contacts
+
+- Primary Contact:
+  - Name: Tequlia D. Holmes
+  - Email: tequlia.d.holmes.civ@army.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d9f1820729eb46e88986b1017677c9fd/view)

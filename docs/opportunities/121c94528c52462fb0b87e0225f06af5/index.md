@@ -1,0 +1,29 @@
+---
+layout: default
+title: EOS IN718 Nickel Alloy metal powder
+agency: COMMERCE, DEPARTMENT OF
+notice_type: Special Notice
+notice_id: 121c94528c52462fb0b87e0225f06af5
+---
+
+# EOS IN718 Nickel Alloy metal powder
+
+- Agency: COMMERCE, DEPARTMENT OF
+- Type: Special Notice
+- Posted: 2026-05-20 17:39:25.453-04
+- Solicitation Number: NIST-SSN-NOI-26-01213
+
+## Summary
+
+Purpose This is a combined sources sought notice and notice of intent to sole source, not a request for a quotation. NIST is seeking information from sources that may be capable of providing a solution that will achieve the essential requirements included in the “Description” section below. If no alternate sources are identified, the Government intends to negotiate a firm-fixed price purchase order on a sole source basis with Phillips Corporation (UEI: YFJ5M3N6EKY8) located at 7390 Coca Cola Drive, Suite 200, Hanover, MD 21076-1937. This action will be conducted under the authority of FAR RFO Part 12.102(a) and 41 USC 1901, allowing the Contracting Officer (CO) to solicit from one source. Delivery will be required within 60 days after contractor receipt of order. Description The Contractor shall provide IN718 Nickel Alloy metal powder, manufactured by EOS, GmbH, located in Germany, for use with an existing EOS M290 system, manufactured by EOS GmbH. The Contractor shall deliver a quantity of 710 kg of EOS-brand IN718 Nickel Alloy metal powder, inclusive of FOB Destination delivery, which meets the minimum requirements identified below. Line Item 0001: Description: A. Technical Specifications a. 71 containers of 10 kg (total quantity of 710 kg) of EOS IN718 metal powder for an EOS M290 laser powder bed fusion printer. b. All containers must be from a single lot as designated by the powder manufacturer. B. Deliverables: a. Description: EOS Nickel Alloy IN718 metal powder b. Quantity or Format: 710 kg c. Due Date: 60 days after receipt of offer Background The National Institute of Standards and Technology (NIST), Production Systems Group (PSG), in the Intelligent Systems Division conducts research projects that are developing the measurements and standards necessary for more widespread adoption in industry of advanced, metal-powder based additive manufacturing technologies. The PSG is planning to use the EOS M290, an existing, government-owned, laser powder bed fusion machine, for a series of building experiments. The EOS M290 system, manufactured by EOS GmbH, located in Germany, is used for making 3-D printed metal parts and is intended to only process raw metal powders that are produced by the manufacturer of the equipment, EOS, GmbH. Specifically, the contractor shall provide IN718 Nickel Alloy powder, manufactured by EOS, GmbH, located in Germany, for laser powder bed fusion. The Contractor shall deliver a quantity of 710 kg of EOS brand IN718 powder, inclusive of FOB Destination delivery, in 71 separate vials of 10 mg/vial. Market research was conducted in February and March, 2026. Market research included identifying sources of supply that produce or distribute EOS-brand IN718 Nickel Alloy metal powder. One available source is identified as Phillips Corporation, which is the sole and exclusive distributor of EOS manufactured equipment and consumables for US government facilities. The EOS IN718 Nickel Alloy metal powder is required to use on NIST’s EOS-brand M290 system for purposes of continuity of science and compatibility with existing equipment and previous research results. In addition, using other powders from other suppliers in this machine would: (1) cause an unknown and possibly detrimental effect on the machine's performance and (2) produce parts with potentially unknown properties. How to Respond to this Notice Interested parties that believe they could satisfy the requirements listed above for NIST may clearly and unambiguously identify their capability to do so in writing by or before the response date for this notice. This is a combined sources sought notice and notice of intent to sole source and is not a solicitation. Any questions regarding this notice must be submitted in writing via email to Mr. Hunter Tjugum, Contract Specialist, at Hunter.Tjugum@nist.gov. All responses to this notice of intent must be submitted via email to hunter.tjugum@nist.gov so that they are received no later than June 4, 2026 at 4:00 PM Eastern Time. Each response should include the following Business Information: a. Contractor Name, Address, b. Point of Contact Name, Phone Number, and Email address c. Contractor UEI d. Contractor Business Classification (i.e., small business, 8(a), woman owned, hubZone, veteran owned, etc.) as validated in System for Award Management (SAM). All offerors must have an active registration in www.SAM.gov. e. Capability Statement describing what your company is capable of providing to meet the Government’s needs Important Notes The information received in response to this notice will be reviewed and considered so that the NIST may appropriately solicit for its requirements in the near future. This notice should not be construed as a commitment by the NIST to issue a solicitation or ultimately award a contract. This notice is not a request for a quotation. Responses will not be considered as proposals or quotations. No award will be made as a result of this notice. NIST is not responsible for any costs incurred by the respondents to this notice. NIST reserves the right to use information provided by respondents for any purpose deemed necessary and appropriate. Thank you for taking the time to submit a response to this request!
+
+## Contacts
+
+- Primary Contact:
+  - Name: Hunter Tjugum
+  - Email: hunter.tjugum@nist.gov
+  - Phone: 3034973663
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/121c94528c52462fb0b87e0225f06af5/view)

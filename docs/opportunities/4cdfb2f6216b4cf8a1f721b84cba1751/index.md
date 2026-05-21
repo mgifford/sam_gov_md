@@ -1,0 +1,31 @@
+---
+layout: default
+title: In vitro Gastrointestinal Digestion and Fermentation Model System for Evaluating Military Rations
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 4cdfb2f6216b4cf8a1f721b84cba1751
+---
+
+# In vitro Gastrointestinal Digestion and Fermentation Model System for Evaluating Military Rations
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-05-20 12:31:17.861-04
+- Solicitation Number: W911QY26RtnEval
+
+## Summary
+
+SYNOPSIS: This Sources Sought Announcement is to assist the US Army Combat Capabilities Development Command - Soldier Center (DEVCOM-SC) to identify potential sources to provide a standardized, in vitro digestion method for Meal, Ready-to-Eat rations, followed by batch fermentation of digestates, and characterization of the microbial community in response to the different ration types. The Government requests responders submit a Broad Agency Announcement (BAA preproposal as outlined in DEVCOM-SC BAA W911QY-25-R-0023 located at: https://sam.gov/opp/a5ec94e2baee40df9951f864a8665e71/view Please refer to Section VI - Scientific and Technical Areas of Interest, A. Combat Ration Research and Development. Submit the BAA preproposal to: gregory.j.weber19.civ@army.mil and jean.m.trumpis.civ@army.mil by 4 June 2026, 5 PM EDT. Objective: DEVCOM-SC is seeking information on technologies or capabilities to provide a highly specific in vitro digestion method that simulates the physiochemical processes of human gastric digestion with subsequent batch fermentations on digestates using relevant gut microbial communities. Further, additional characterization of microbial communities, utilizing targeted or genomic methods, is desired. DEVCOM-SC scientists will provide different types of military ration components to be used as the initial input for the digestions, fermentations. Background: The U.S. Armed Services Meal, Ready-to-Eat™ (MRETM) food ration is comprised of commercially sterile, ready-to-eat foods that are required to be shelf-stable for at least three years. Meeting those requirements while maintaining a nutritious and safe product requires the use of various food processing techniques including high-heat thermal processing known as retort. While the retort process ensures sterility and long-term shelf-stability, high-heat thermal processing and long-term storage can both decrease protein digestibility. As undigested peptides and amino acids are metabolized by the gut microbiota, these bioaccessibility and bioactivity may also provide insight into factors underpinning changes in gut microbiota composition. Requirements: The purpose of this announcement is to request preproposals on technologies or capabilities providing an integrated approach to simulate the gastrointestinal tract with a focus on the gastric phase and subsequent downstream fermentation processes. Respondents should demonstrate capability to address one or more of the following requirement areas: 1) physiologically relevant in vitro digestion methodology capable of accommodating various processed military rations, 2) bioreactor system or comparable technology capable of conducting batch fermentations on digestates on a scale that allows for delivery of fermentates back to Soldier Center scientists for additional analyses, and 3) characterization of microbial community changes due to different ration products being evaluated by performer. Interested parties are invited to submit a response to this Sources Sought Announcement. THIS IS A SOURCES SOUGHT ANNOUNCEMENT ONLY. This Sources Sought Announcement is issued solely for information and planning purposes and to identify interested sources. THIS IS NOT A SOLICITATION. No contract will be awarded from this announcement. This Sources Sought does not constitute a Request for Proposal (RFP) or a promise to issue an RFP in the future. It is subject to change and is not binding on the Government. Further, unsolicited proposals will not be accepted. Funding is not available at this time. The United States Army has not made a commitment to procure any of the items/services discussed, and release of this Sources Sought Announcement should not be construed as such a commitment or as authorization to incur cost for which reimbursement would be required or sought. Response to this Sources Sought Announcement is voluntary and no reimbursement will be made for any costs associated with providing information in response to this and any follow-on information requests. All submissions become Government property and will not be returned. Not responding to this Sources Sought Announcement does not preclude participation in any future RFP if any is issued. If a solicitation is released, it will be synopsized on the SAM.gov website. It is the responsibility of the potential responders to monitor this site for additional information pertaining to this subject. RESPONSES: Interested parties may identify their interest and capability by sending BAA preproposals regarding this requirement to DEVCOM-SC via e-mail ONLY to gregory.j.weber19.civ@army.mil and jean.m.trumpis.civ@army.mil by 4 June 2026, 5 PM EDT. The U.S. Government will not pay for any information or administrative cost incurred in response to this Notice. All costs associated with responding to this Notice will be solely at the expense of the interested party. Please provide business size (indicate your socioeconomic status), applicable NAICS code, and CAGE code. QUESTIONS: Any questions for clarification may be emailed to gregory.j.weber19.civ@army.mil and jean.m.trumpis.civ@army.mil no later than 2 June 2026, 5 PM EDT. Verbal questions will NOT be accepted. Questions shall NOT contain proprietary or classified information. An unattributed list of questions and answers will be published at the same web location of this Sources Sought Announcement.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Greg Weber
+  - Email: gregory.j.weber19.cov@army.mil
+- Secondary Contact:
+  - Name: Jean Trumpis
+  - Email: jean.m.trumpis.civ@army.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4cdfb2f6216b4cf8a1f721b84cba1751/view)
