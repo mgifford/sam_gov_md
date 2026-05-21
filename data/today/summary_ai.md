@@ -1,8 +1,8 @@
 # Recompete Discovery Summary
 
 - Cohort size: 30 companies
-- FY window: 2024-10-01 to 2026-09-30
-- Expiring awards found: 24000
+- FY window: 2025-10-01 to 2027-09-30
+- Expiring awards found: 23300
 - Small-business set-aside awards: 0
 - Rule-of-Two high-confidence signals: 0
 - Data source: USASpending API (no SAM.gov key required)
@@ -11,16 +11,16 @@
 
 ## Top Agencies by Expiring Awards
 
-- Department of the Interior: 5730
-- Department of the Treasury: 4350
-- Executive Office of the President: 3450
-- National Archives and Records Administration: 2640
-- Peace Corps: 2550
+- Department of the Interior: 5552
+- Department of the Treasury: 4209
+- Executive Office of the President: 3335
+- National Archives and Records Administration: 2562
+- Peace Corps: 2465
 - Department of Defense: 1530
-- Government Accountability Office: 1200
-- Department of Transportation: 1170
-- Department of Homeland Security: 450
-- Department of Justice: 450
+- Government Accountability Office: 1160
+- Department of Transportation: 1140
+- Department of Homeland Security: 441
+- Department of Justice: 435
 
 ## Sample Award Rows
 
@@ -150,7 +150,7 @@
 - Rule-of-Two signal: not-applicable
 - Rule-of-Two evidence: SB vendors=0 / total=0
 - Labor Category: Software Engineer
-- Benchmark diff: 23.72%
+- Benchmark diff: 23.62%
 - Benchmark source: gsa
 - Benchmark basis: market_premium_proxy
 
