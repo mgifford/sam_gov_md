@@ -99,15 +99,14 @@ routing:
 ### Setup
 
 ```bash
-# Create virtual environment
-python3 -m venv .venv
-source .venv/bin/activate  # or `.venv/bin/activate` on macOS/Linux
+# Install uv
+python -m pip install uv
 
-# Install dependencies
-pip install requests beautifulsoup4 lxml playwright pyyaml
+# Sync project dependencies from pyproject.toml/uv.lock
+uv sync
 
 # Install Playwright browser
-python -m playwright install chromium
+uv run playwright install chromium
 ```
 
 ### Explore Extracts
