@@ -1,0 +1,29 @@
+---
+layout: default
+title: Z--National Park Service - Richmond National Battlefield Park (RICH) - Replace HVA
+agency: INTERIOR, DEPARTMENT OF THE
+notice_type: Special Notice
+notice_id: 30844d4f414345898d1b7cc5515e60c8
+---
+
+# Z--National Park Service - Richmond National Battlefield Park (RICH) - Replace HVA
+
+- Agency: INTERIOR, DEPARTMENT OF THE
+- Type: Special Notice
+- Posted: 2026-05-21 17:19:54.588-04
+- Solicitation Number: 140P4226R0010
+
+## Summary
+
+GENERAL: This is a NEW requirement. This is a PRE-SOLICITATION NOTICE only and does not constitute a solicitation; accordingly, no response is due at this time. No questions nor phone call will be accepted about this pre-solicitation notice. All questions and phone calls will be addressed after the solicitation is posted through official amendments. Specific instructions on submitting proposals will be contained in the solicitation documents. It is anticipated that the solicitation will be issued sometime after June 08, 2026. The entire solicitation package, including all attachments, will be available electronic through SAM.gov only. Paper copies of this solicitation are not and will not be made available. Anyone wishing to participate in this proposed procurement must obtain their copy from SAM.gov | Home. Copies will not be mailed from the Contracting Office. All amendments will be posted on SAM.gov | Home. Contractors will be solely responsible for obtaining amendments from this site to update files. PROJECT SCOPE: The National Park Service ¿ Contracting Operations ¿ East Team (ConOps-East) is seeking one (1) contractor to provide all labor, supervision, materials, tools, supplies, transportation, personal protection equipment, and support equipment incidental for the Replacement of HVAC Systems at Various Buildings at RICH. The project includes replacing HVAC systems for historic and non-historic buildings for Richmond National Battlefield Park (RICH). Work includes system removal and replacement including controls, balancing and ductwork cleaning in 9 facilities of varying types and complexities. This includes historical sites where care and consideration to process and procedure is important. A. Base item work consists of: 1. Chimborazo Visitor Center: Replace heat pump, Replace AHU, Install VAV boxes, clean ductwork existing and commission systems and install new controls. 2. Cold Harbor Visitor Center: Replace heat pump, replace exhaust fans, clean ductwork existing and commission systems and install new controls 3. Watt House: Replace heat pump, clean ductwork existing and commission systems and install new controls. 4. Ranger Office, 1900 Maintenance Way: Replace heat pump, clean ductwork existing and commission systems and install new controls. 5. Maintenance Building: Replace heat pump, install new mini-split, install new attic fans, Clean existing ductwork, commission systems and install new controls. 6. Auto Shop: Remove PTAC and install new mini-split, replace boiler, clean ductwork existing and commission systems and install new controls. B. Optional/Additive Items work consists of (Subject to Availability of Funding): 7. Option 1: Garthright House: Replace heat pump, clean ductwork existing and commission systems and install new controls. 8. Option 2: Housing Quarters 13, 1910 Maintenance Way: Replace heat pump, clean ductwork existing and commission systems and install new controls. 9. Option 3: Fort Harrison Visitor Center: Replace AHU, replace exhaust fans, replace heat pump, install new ERV, replace ductwork and commission systems and install new controls. PLACE OF PERFORMANCE: Richmond National Battlefield Park (RICH), Richmond VA ESTIMATED MAGNITUDE OF CONSTRUCTION: In accordance with FAR 36.204, the project magnitude is estimated to be between $250,000 and $500,000. PROCUREMENT TYPE: The Government anticipates awarding a single firm-fixed price contract award from the solicitation. The Source Selection will be conducted under FAR Part 15.101-2 Lowest Price Technically Acceptable Source Selection Process. SET-ASIDE: This acquisition will be a 100% Service-Disabled Veteran Owned Small Businesses (SDVOSB) Set-aside. Offers will only be accepted from SDVOSB. Offers received from concerns that are not SDVOSB concerns shall be considered nonresponsive and will be rejected. NORTH AMERICAN INDUSTRIAL CLASSIFICATION SYSTEM (NAICS) CODE AND SMALL BUSINESS SIZE STANDARD: The NAICS code for this project is 238220 Plumbing, Heating, and Air-Conditioning Contractors and the small business size standard is $19 million. BONDS: All offerors will be required to submit bid guarantee in accordance with FAR 52.228-1 Bid Guarantee. The successful offeror shall be required to provide performance and payment bonds for 100% of the contract award price. PERIOD OF PERFORMANCE: The contract performance period is expected to be 242 days from the start date on the Notice to Proceed, for base item. Will be adjusted accordingly if optional items are included at award, or added later. A prebid site visit will be scheduled for this project, but date, time, and location have not been determined as of this pre-solicitation announcement. They will be made known at time of issuance of the solicitation. Contractors will be strongly encouraged to attend. NOTE 1: All prospective contractors must be registered in the System for Award Management (SAM) database at http://www.sam/gov/ before award of contract; failure to register in the SAM database shall cause your firm to be ineligible for the award and removed from consideration.
+
+## Contacts
+
+- Primary Contact:
+  - Name: De Leon, Wendy
+  - Email: Wendy_Deleon@nps.gov
+  - Phone: 6172425681
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/30844d4f414345898d1b7cc5515e60c8/view)

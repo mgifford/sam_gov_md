@@ -1,0 +1,29 @@
+---
+layout: default
+title: Samarium and Gadolinium RFI - Warstopper
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 55f458ca284b4432a3ce421dbb95aff8
+---
+
+# Samarium and Gadolinium RFI - Warstopper
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-05-21 08:02:36.493-04
+- Solicitation Number: SP8000_SmCo_RFI
+
+## Summary
+
+Description The Defense Logistics Agency (DLA) Warstopper Program is seeking information on Samarium and Gadolinium metal usage to establish a Samarium and Gadolinium metal buffer. THIS IS A REQUEST FOR INFORMATION (RFI) ONLY. This RFI is issued solely for information and planning purposes; it does not constitute a Request for Proposal (RFP) or a promise to issue an RFP in the future. This request for information does not commit the Government to contract for any supply or service whatsoever. Further, DLA Warstopper is not at this time seeking proposals and will not accept unsolicited proposals. Responders are advised that DLA Warstopper will not pay for any information or administrative costs incurred in response to this RFI; all costs associated with response to this RFI will be the sole responsibility of the interested party. Not responding to this RFI does not preclude participation in any future RFP, if any is issued. If a solicitation is released, the contract opportunity will be synopsized on the SAM.gov website. The potential offeror is responsible for monitoring this site for additional information pertaining to this requirement. Background The Defense Logistics Agency (DLA) Warstopper Program is the Department of Defense’s primary industrial readiness program for consumable surge and sustainment requirements, established in accordance with the National Defense Authorization Act (NDAA) for Fiscal Year 1993. The program is specifically charged with ensuring that the transition from peacetime to wartime is supported by a viable industrial base for DLA-managed go-to-war items. As defined in DLA Instruction 1212, the program's scope is restricted to DLA-managed items that are mission-critical, characterized by a significant disparity between peacetime and wartime demand, and possess long production lead times or limited shelf lives. The Warstopper Program implements proactive industrial preparedness measures (IPMs) to preserve manufacturing capabilities for these specific DLA-managed commodities, thereby mitigating the risk of industrial base shortfalls during national emergencies or contingency operations. Requested Information DLA Warstopper Directorate is seeking information for establishing a Samarium and Gadolinium Buffer Samarium and Gadolinium Information Please provide all information on the Samarium and Gadolinium grades and specifications that are used by your company to produce DPAS-rated orders. Proprietary specification information submitted to the Government will be held as Business Confidential and not disclosed outside of DLA Warstopper or the chain of command responsible for the operation of the Warstopper program. The provider is responsible for identifying proprietary information. Specification information is important as it helps ensure that the materials potentially acquired for the Buffer fit what is needed by the OEMs What exact purity levels (e.g., 99.5%, 99.9% TREM) are required for your Sm and Gd metal inputs? What are your maximum allowable limits for non-rare-earth impurities (specifically Oxygen, Carbon, Iron, and Calcium) in these metals? In what physical form or intermediary state do you procure these materials? (e.g., pure metal ingots, distilled chunks, strip-cast flakes, or pre-alloyed SmCo/SmGdCo powder)? For Gadolinium specifically, what is your typical ratio or blending requirement relative to Samarium for temperature-compensated magnet grades? What is your current annual volume requirement for both Sm and Gd (or pre-alloyed intermediaries) to support DPAS-rated orders? What is your expected demand for these items over the next five years, factoring in known platform modernization or production increases? What is the current expected lead time for these materials from the time of order placement to delivery at your facility? Do any of these specifications or forms have Minimum Order Quantities (MOQs) or batch-size requirements that affect your ability to produce your products in a timely manner? Do you currently have your own internal buffer of intermediaries? What do you do with any waste produced by the manufacturing process? What specific end-products or platforms do you produce that have known surge requirements which could be affected by increased rare-earth lead times? Are your current sources for Sm and Gd compliant with DFARS 252.225-7052 (Restriction on the Acquisition of Certain Magnets, Tantalum, and Tungsten)? At what tier in your supply chain are the oxide-to-metal reduction and alloying steps occurring? What percentage of the initial Sm/Gd material is lost to manufacturing waste (e.g., swarf, grinding sludge, or off-cuts) during the magnet production and machining process? Do you have an established process or vendor for recycling this manufacturing waste back into usable Sm/Gd intermediaries? Interested vendors should submit their response as well as any questions through email to the contract specialist, SmCo RFI – Warstopper Christy Boyer at Christine.boyer@dla.mil with “RFI – SmCo” in the subject line. Responses must be received by 17JULY26 before 3pm EST. It is the vendor’s responsibility to ensure the email was received and is viewable. Verbal questions/responses will not be accepted
+
+## Contacts
+
+- Primary Contact:
+  - Name: Christine Boyer
+  - Email: christine.boyer@dla.mil
+  - Phone: 6146932547
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/55f458ca284b4432a3ce421dbb95aff8/view)

@@ -1,0 +1,31 @@
+---
+layout: default
+title: R426--Telephone Operator/Switchboard Services
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: 6edb24716b864133885a3337b00a30e8
+---
+
+# R426--Telephone Operator/Switchboard Services
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-05-21 18:18:39.953-04
+- Solicitation Number: 36C26126Q0747
+- Awardee: null
+
+## Summary
+
+Sources Sought Notice Sources Sought Notice Page 6 of 6 Sources Sought Notice *= Required Field Sources Sought Notice Page 1 of 6 DESCRIPTION THIS IS A SOURCES SOUGHT ANNOUNCEMENT ONLY. No Solicitation is currently available. All information contained in this Sources Sought Announcement is preliminary, as well as subject to modification, and is in no way binding on the Government. The Government will not pay for any information submitted in response to this request. The information requested will be used solely within the Department of Veterans Affairs to facilitate decision making and will not be disclosed outside of the Government. The determination of a procurement strategy, based upon the comments submitted in response to this Sources Sought Announcement, is solely within the discretion of the Government. The applicable North American Industry Classification System (NAICS) Code is 561421, Telephone Answering Service. The Department of Veterans Affairs (VA) Network Contracting Office (NCO 21) is performing market research to determine if there are any vendors, regardless of business size, that can provide Telephone Operator/Switchboard services for three locations, San Francisco Veteran Affairs Health Care System (SFVAHCS), VA Palo Alto Health Care System, and VA Central California Health Care System (VACCHCS) as described below. A draft Performance Work Statement (PWS) is attached. Brief Description of Services See attached PWS Capability Statement All interested contractors must respond by email to Maricela.Berrones-Gauger@va.gov before 10:00 A.M. PST on June 1st, 2026. Please answer the following questions when responding: What is your company s Socioeconomic Status? (ex: small business, large business, SDVOSB, etc.) a. If SDVOSB or VOSB, are you registered with the Small Business Administration? Provide Company s legal name along with Unique Entity ID (SAM) number. Primary point of contact, including phone number and e-mail address. Capabilities Statement. Describe experience in providing Telephone Operator services as described in the attached description of services. List other Projects (Government and Commercial) that are similar in scope and size. As this is a service acquisition, the Small Business Administration and the Federal Acquisition Regulation have a Limitations on Subcontracting requirement. For all small businesses, to include SDVOSB and VOSB, At least 50 percent of the cost of contract performance incurred for personnel shall be expended for employees of the concern. See FAR 52.219-14 and FAR 52.219-27 available in full text at https://www.acquisition.gov/far/html/52_217_221.html 7a. Of the service actions listed above, which one(s) will your company perform as the prime contractor using its own personnel without subcontracting? 7b. With respect to the service actions listed above, which action(s) do you intend on subcontracting or using other than your company s own personnel? 7c. Of those services that will be performed, approximately what percentage will be paid to the subcontractor(s)? GSA Contract Number, if applicable. Fill out the price estimate (5 ordering periods) below. *Failure to provide the information requested above (items 1-9) will be considered non-responsive and will not be considered a viable source. The Government will use this information when determining its business type decision. This synopsis is not to be construed as a commitment by the Government and no contract will be awarded as a direct result of this Sources Sought announcement. Notes: Contractors must have a current registration in the System for Award Management (SAM) at https://sam.gov/SAM/ SDVOSB and VOSB firms should be registered at the time of quote submission and SBA verified at SBA - Dynamic Small Business Search CLIN Description Quantity Unit Unit Price Total Price 0001 Telephone Operator San Francisco Period of Performance Base Year 10/1/2026 9/30/2027 1 YR $ $ 0002 Telephone Operator Palo Alto Period of Performance Base Year 10/1/2026 9/30/2027 1 YR $ $ 0003 Telephone Operator Fresno Period of Performance Base Year 10/1/2026 9/30/2027 1 YR $ $ 1001 Telephone Operator San Francisco Period of Performance Option year 1 10/1/2027 9/30/2028 1 YR $ $ 1002 Telephone Operator Palo Alto Period of Performance Option year 1 10/1/2027 9/30/2028 1 YR $ $ 1003 Telephone Operator Fresno Period of Performance Option year 1 10/1/2027 9/30/2028 1 YR $ $ 2001 Telephone Operator San Francisco Period of Performance Option Year 2 10/1/2028 9/30/2029 1 YR $ $ 2002 Telephone Operator Palo Alto Period of Performance Option Year 2 10/1/2028 9/30/2029 1 YR $ $ 2003 Telephone Operator Fresno Period of Performance Option Year 2 10/1/2028 9/30/2029 1 YR $ $ 3001 Telephone Operator San Francisco Period of Performance Option Year 3 10/1/2029 9/30/2030 1 YR $ $ 3002 Telephone Operator Palo Alto Period of Performance Option Year 3 10/1/2029 9/30/2030 1 YR $ $ 3003 Telephone Operator Fresno Period of Performance Option Year 3 10/1/2029 9/30/2030 1 YR $ $ 4001 Telephone Operator San Francisco Period of Performance Option Year 4 10/1/2030 9/30/2031 1 YR $ $ 4002 Telephone Operator Palo Alto Period of Performance Option Year 4 10/1/2030 9/30/2031 1 YR $ $ 4003 Telephone Operator Fresno Period of Performance Option Year 4 10/1/2030 9/30/2031 1 YR $ $ Total Price $
+
+## Contacts
+
+- Primary Contact:
+  - Name: Maricela.Berrones-Gauger@va.gov
+  - Title: Mariela Berrones-Gauger
+  - Email: maricela.berrones-gauger@va.gov
+  - Phone: 559-225-6100
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6edb24716b864133885a3337b00a30e8/view)

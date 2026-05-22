@@ -1,141 +1,129 @@
 [
   {
     "department": "DEPT OF DEFENSE",
-    "total": 1623,
-    "opportunities": 1088,
-    "wins": 535
+    "total": 1506,
+    "opportunities": 1174,
+    "wins": 332
   },
   {
     "department": "VETERANS AFFAIRS, DEPARTMENT OF",
-    "total": 141,
-    "opportunities": 118,
+    "total": 164,
+    "opportunities": 141,
     "wins": 23
   },
   {
     "department": "INTERIOR, DEPARTMENT OF THE",
-    "total": 116,
-    "opportunities": 86,
-    "wins": 30
-  },
-  {
-    "department": "HOMELAND SECURITY, DEPARTMENT OF",
-    "total": 61,
-    "opportunities": 58,
-    "wins": 3
+    "total": 105,
+    "opportunities": 73,
+    "wins": 32
   },
   {
     "department": "AGRICULTURE, DEPARTMENT OF",
-    "total": 53,
-    "opportunities": 48,
-    "wins": 5
+    "total": 60,
+    "opportunities": 39,
+    "wins": 21
   },
   {
-    "department": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
-    "total": 45,
-    "opportunities": 44,
-    "wins": 1
+    "department": "HOMELAND SECURITY, DEPARTMENT OF",
+    "total": 59,
+    "opportunities": 51,
+    "wins": 8
   },
   {
     "department": "JUSTICE, DEPARTMENT OF",
-    "total": 31,
-    "opportunities": 28,
-    "wins": 3
+    "total": 39,
+    "opportunities": 37,
+    "wins": 2
   },
   {
-    "department": "COMMERCE, DEPARTMENT OF",
-    "total": 28,
-    "opportunities": 26,
+    "department": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
+    "total": 38,
+    "opportunities": 36,
     "wins": 2
   },
   {
     "department": "GENERAL SERVICES ADMINISTRATION",
-    "total": 22,
-    "opportunities": 15,
+    "total": 30,
+    "opportunities": 23,
     "wins": 7
   },
   {
     "department": "STATE, DEPARTMENT OF",
-    "total": 21,
-    "opportunities": 20,
-    "wins": 1
+    "total": 27,
+    "opportunities": 27,
+    "wins": 0
   },
   {
-    "department": "ENERGY, DEPARTMENT OF",
-    "total": 17,
-    "opportunities": 15,
-    "wins": 2
+    "department": "COMMERCE, DEPARTMENT OF",
+    "total": 25,
+    "opportunities": 24,
+    "wins": 1
   },
   {
     "department": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
+    "total": 19,
+    "opportunities": 19,
+    "wins": 0
+  },
+  {
+    "department": "ENERGY, DEPARTMENT OF",
     "total": 14,
-    "opportunities": 13,
-    "wins": 1
-  },
-  {
-    "department": "ADMINISTRATIVE OFFICE OF THE US COURTS",
-    "total": 9,
-    "opportunities": 9,
-    "wins": 0
-  },
-  {
-    "department": "TREASURY, DEPARTMENT OF THE",
-    "total": 8,
-    "opportunities": 8,
-    "wins": 0
-  },
-  {
-    "department": "LABOR, DEPARTMENT OF",
-    "total": 7,
-    "opportunities": 1,
-    "wins": 6
+    "opportunities": 11,
+    "wins": 3
   },
   {
     "department": "TRANSPORTATION, DEPARTMENT OF",
-    "total": 6,
-    "opportunities": 6,
+    "total": 10,
+    "opportunities": 10,
     "wins": 0
   },
   {
-    "department": "ENVIRONMENTAL PROTECTION AGENCY",
+    "department": "UNITED STATES INTERNATIONAL DEVELOPMENT FINANCE CORPORATION",
     "total": 4,
     "opportunities": 4,
     "wins": 0
   },
   {
-    "department": "HOUSING AND URBAN DEVELOPMENT, DEPARTMENT OF",
+    "department": "EDUCATION, DEPARTMENT OF",
+    "total": 3,
+    "opportunities": 3,
+    "wins": 0
+  },
+  {
+    "department": "ENVIRONMENTAL PROTECTION AGENCY",
+    "total": 3,
+    "opportunities": 2,
+    "wins": 1
+  },
+  {
+    "department": "LABOR, DEPARTMENT OF",
     "total": 2,
     "opportunities": 2,
     "wins": 0
   },
   {
-    "department": "UNITED STATES TRADE AND DEVELOPMENT AGENCY",
+    "department": "LIBRARY OF CONGRESS",
     "total": 2,
     "opportunities": 2,
-    "wins": 0
-  },
-  {
-    "department": "FEDERAL COMMUNICATIONS COMMISSION",
-    "total": 1,
-    "opportunities": 1,
     "wins": 0
   },
   {
     "department": "UNITED STATES GOVERNMENT PUBLISHING OFFICE",
+    "total": 2,
+    "opportunities": 2,
+    "wins": 0
+  },
+  {
+    "department": "COURT SERVICES AND OFFENDER SUPERVISION AGENCY",
     "total": 1,
     "opportunities": 1,
     "wins": 0
   },
   {
-    "department": "UNITED STATES INTERNATIONAL DEVELOPMENT FINANCE CORPORATION",
+    "department": "FEDERAL HOUSING FINANCE AGENCY",
     "total": 1,
-    "opportunities": 1,
-    "wins": 0
-  },
-  {
-    "department": "ARCHITECT OF THE CAPITOL",
-    "total": 1,
-    "opportunities": 1,
-    "wins": 0
+    "opportunities": 0,
+    "wins": 1
   },
   {
     "department": "SOCIAL SECURITY ADMINISTRATION",
@@ -144,31 +132,43 @@
     "wins": 0
   },
   {
-    "department": "NATIONAL GALLERY OF ART",
+    "department": "TREASURY, DEPARTMENT OF THE",
     "total": 1,
     "opportunities": 1,
     "wins": 0
   },
   {
-    "department": "DISTRICT OF COLUMBIA COURTS",
+    "department": "EXPORT-IMPORT BANK OF THE US",
+    "total": 1,
+    "opportunities": 0,
+    "wins": 1
+  },
+  {
+    "department": "PEACE CORPS",
+    "total": 1,
+    "opportunities": 0,
+    "wins": 1
+  },
+  {
+    "department": "NUCLEAR REGULATORY COMMISSION",
     "total": 1,
     "opportunities": 1,
     "wins": 0
   },
   {
-    "department": "SELECTIVE SERVICE SYSTEM",
+    "department": "FEDERAL DEPOSIT INSURANCE CORPORATION",
     "total": 1,
     "opportunities": 1,
     "wins": 0
   },
   {
-    "department": "LIBRARY OF CONGRESS",
+    "department": "THE LEGISLATIVE BRANCH",
     "total": 1,
     "opportunities": 1,
     "wins": 0
   },
   {
-    "department": "FEDERAL HOUSING FINANCE AGENCY",
+    "department": "CONSUMER PRODUCT SAFETY COMMISSION",
     "total": 1,
     "opportunities": 1,
     "wins": 0

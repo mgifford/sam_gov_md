@@ -1,0 +1,28 @@
+---
+layout: default
+title: Station Coos Bay Diesel Generator Replacement
+agency: HOMELAND SECURITY, DEPARTMENT OF
+notice_type: Combined Synopsis/Solicitation
+notice_id: 02a7d6a8f92440b49821edda14571025
+---
+
+# Station Coos Bay Diesel Generator Replacement
+
+- Agency: HOMELAND SECURITY, DEPARTMENT OF
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-05-21 12:47:59.987-04
+- Solicitation Number: 70Z03326QSEAT0005
+
+## Summary
+
+DESCRIPTION OF REQUIREMENT: The U.S. Coast Guard requires services for removal of existing 40 kW, 120V/240V, three-phase standby diesel generator system and replace it with a new generator system of equivalent specifications. The work includes upgrading the associated Automatic Bypass Transfer Switch (ABT) to match the new generator capacity, ensuring proper exhaust and ventilation, and renewing the fuel system piping and accessories as required. The contractor to provide all personnel, equipment, tools, transportation, supervision, and other items and services necessary to remove and replace existing diesel generator. The Government intends to issue a firm-fixed-price purchase order for this project. The full scope of work and specifications will be included in the solicitation documents. **Due to access door width, entire generator assembly must be a maximum of 34 ¾” wide to be able to fit into access doorway. Project Address: U.S. Coast Guard Station Coos Bay 63450 Kingfisher Rd Charleston, OR 97420 United States This acquisition is set-aside 100% for SMALL BUSINESS. Where Federal Acquisition Regulation clause language is inconsistent with FAR 13.004, Legal Effect of Quotations, that language is hereby tailored in accordance with FAR 12.302 to be consistent with a request for quotations. This tailoring includes but is not limited to the following: In accordance with FAR 13.004, a quotation is not an offer, and any clause provision to the contrary is hereby modified to be consistent with FAR 13.004. Where the word "offer/offeror" or a derivative of that word appears, it is changed to "quote/quoter" or a derivative of that word. The associated NAICS code is 221112 (All Other Specialty Trade Contractors). A site visit will be arranged for interested offerors. All interested offerors must arrive no later than five minutes prior to the start time indicated. Each offeror is highly encouraged to visit the site to provide the government with an accurate and competitive offer but is not required to submit a quote. Site Visit Date: 06/04/2026 Start Time: 0900 Location: U.S. Coast Guard Station Coos Bay 63450 Kingfisher Rd Charleston, OR 97420 United States Please E-mail Elizabeth Meister elizabeth.a.meister@uscg.mil to RSVP for the site visit no later than 06/04/2026 at 1200 PST. Any and all questions regarding this solicitation shall be submitted in writing to the Contract Specialist at elizabeth.a.meister@uscg.mil with solicitation RFQ number 70Z03326QSEAT0005 in subject line. Questions regarding the statement of work (SOW) will be forwarded to the technical expert for an accurate response. All responses will be uploaded for an equal and fair solicitation to all interested vendors on solely SAM.gov. No more questions will be answered after 06/11/2026. All quotes are due by 06/18/2026 0700 (PST) . SUBMISSION OF QUOTES Quotes must be submitted electronically to elizabeth.a.meister@uscg.mil by the date and time specified in this solicitation. Incomplete submissions may be considered unresponsive and ineligible for award. A complete submission shall consist of the following parts: Part 1: Price Quotation A completed and signed Standard Form (SF) 1442. A detailed Price Breakdown for the total firm-fixed-price. The breakdown must, at a minimum, separate the costs for the following major tasks: Demolition & Debris Disposal Materials & Installation Electrical Work & System Integration Part 2: Technical Proposal The Technical Proposal shall not contain any pricing information. It must provide a clear, concise narrative demonstrating the quoter’s understanding of and ability to meet the requirements of the Statement of Work (SOW). The proposal must include: Technical Approach: A step-by-step description of how the quoter will perform the work, including mobilization, demolition, installation of footings, gate and fence installation, and electrical hookup. Project Schedule: A high-level timeline showing the planned start date, major milestones, and completion date (which must be on or before the required completion date of July 31, 2026. Submit quotes to the following e-mail address by the offer due date and time zone: Attn: Elizabeth Meister E-Mail Address: elizabeth.a.meister@uscg.mil with solicitation RFQ number 70Z03326QSEAT0005 in subject line. It is the government’s intent to make award to the low cost responsible and responsive offeror who provides the most advantageous, reasonable, and negotiable offer to the government. Under FAR 4.1103 prospective contractor shall be registered in System Award Management (SAM) prior to award. Failure for contractor to be registered in SAM shall result in Contracting Officer to proceed with next successful registered offeror. Website: www.sam.gov
+
+## Contacts
+
+- Primary Contact:
+  - Name: Elizabeth Meister
+  - Email: elizabeth.a.meister@uscg.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/02a7d6a8f92440b49821edda14571025/view)

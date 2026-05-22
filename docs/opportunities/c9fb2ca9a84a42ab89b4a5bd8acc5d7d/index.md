@@ -1,0 +1,31 @@
+---
+layout: default
+title: Canopy Fixed
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: c9fb2ca9a84a42ab89b4a5bd8acc5d7d
+---
+
+# Canopy Fixed
+
+- Agency: DEPT OF DEFENSE
+- Type: Presolicitation
+- Posted: 2026-05-21 10:17:42.181-04
+- Solicitation Number: SPRRA2-26-R-0080
+
+## Summary
+
+INFORMATION DETAILED IN THIS NOTICE IS SUBJECT TO CHANGE AT THE DISCRETION OF THE GOVERNMENT. No telephone requests will be accepted. Direct your requests and communications to ATTN: DLA-Huntsville Weapons Support, Michael Romine, Contract Specialist, and Jean Paul Bretz, Contract Specialist, via email michael.1.romine@dla.mil and jean.bretz@dla.mil. All emailed requests shall contain the following information: 1. Company Name 2. Company Address 3. Company Cage Code 4. Company Technical Point of Contact (POC) information to include name, title, telephone number, and email address. 5. Business Classification / Socio-Economic Status (e.g., large, small, 8(a), women owned, hub-zone, SDB,Service-Disabled Veteran Owned). PRON: D16D0440D1 The Government proposes to acquire One Firm Fixed Price (FFP) Five-Year Indefinite Delivery/Indefinite Quantity (IDIQ) Contract the following part: Noun: Canopy Fixed NSN Number: 1560-01-309-8314 Part Number: 5101580-2 Quantity: Minimum Quantity: 137 Each Maximum Quantity: 500 Each Weapon System: M-DP Avenger NAICS Code: 336413 Size Standard: 1250 employees NSN Testing: Contractor First Article Testing is applicable to this NSN. IDIQ Contract Minimum Guarantee: 137 Each Contractor First Article Test Requirements: Number Of Samples To Be Tested: 1 Each Inspection: Destination Acceptance: Destination Deliver FOB: Destination By: 780 After Contract Award (Daca) Government Review/Approval Days: 60 Ship To: (W31P0W) Pr W0L9 Us ARMY AVN & Missiles CMD Redstone Technical Test Center Cottonwood Rd BLDG 8022 MF 4500 Redstone Arsenal, Al 35898-8052 Minimum Guarantee Delivery Order: The Minimum Guarantee for the awarded IDIQ contract shall be the first delivery order. The first issued delivery order shall be for the minimum quantity of 137 Each. The minimum guaranteed delivery order shall be issued at the discretion of the government at any time during the awarded contract period of performance. The government intends on issuing the minimum guaranteed delivery order at the time of the IDIQ Contract award or shortly thereafter (within 30 days of IDIQ Contract award). Production Lead Time (PLT): PLT with First Article Testing is 500 each, 780 Days After Contract Award (DACA). PLT without First Article Testing is 500 each, 360 DACA with deliveries to CHAMBERSBURG, PA 17201-4150. Acquisition Strategy: The AMC/ASMC code is 3Q: Acquire for the second or subsequent time, directly from the actual manufacturer. This part requires engineering source approval by the design control activity in order to maintain the quality of the part. Existing unique design capability, engineering skills, and manufacturing knowledge by the qualified source(s) retain data rights, manufacturing knowledge, or technical data that are not economically available to the Government, and the data or knowledge is essential to maintaining the quality of the part. An alternate source must qualify in accordance with the design control activity’s procedures, as approved by the cognizant Government engineering activity. All offerors must meet prequalification requirements in order to be eligible for award. Firms that recognize and can produce the required item described above are encouraged to identify themselves. Firms are encouraged to seek source approval in order to compete for future solicitation by visiting AvMC’s public website: https://www.avmc.army.mil/Directorates/SRD/TechDataMgmt All responsible sources may submit an offer, which shall be considered by the Agency. The closing date annotated is an estimated date and may be adjusted dependent upon the date of release for solicitation; however, the solicitation will not close prior to the date stated above. Foreign Firms are reminded that all requests for solicitation must be processed through their respective embassies. Restricted Sources: This procurement is restricted to the following firm: Company Name: TEXSTARS LLC. (Doing Business As - PPG AEROSPACE) Cage Code: 12849 Business Size Standard: Large Business Address: 802 Avenue J E, Grand Prairie, TX 75050-2552 Proposals for this requirement shall only be accepted from TEXSTARS LLC. (Cage Code: 12849) under FAR Part 6.103-1 Only One Responsible Source And No Other Supplies Or Services Will Satisfy Agency Requirements. This requirement is a non-commercial procurement. The Government intends to issue ONE FIRM FIXED PRICE (FFP) FIVE YEAR IDIQ CONTRACT award from this announcement, using FAR PART 15 evaluation procedures. Offerors whose proposals exceed $2,500.00.00 are required to submit Certified Cost and Pricing Data in accordance with the requirements under FAR Part 15 and in accordance with the forthcoming solicitation. The solicitation shall be open for a minimum of 30 days from the date it is published. EXPORT CONTROL: THIS ACQUISITION CONTAINS TECHNICAL DATA WHOSE EXPORT IS RESTRICTED BY THE ARMS EXPORT CONTROL ACT (TITLE 22, USC., SEC 2751 ET SEQ) OR THE EXPORT ADMINISTRATION ACT (TITLE 50, USC., APP 2401-2402) EXECUTIVE ORDER 12470. THIS INFORMATION CANNOT BE RELEASED OUTSIDE THE UNTIED STATES WITHOUT PRIOR APPROVAL OF THE GOVERNMENT. ALL POTENTIAL OFFERORS MUST HAVE AN ACTIVE JOINT CERTIFICATION PROGRAM (JCP) PROFILE/REGISTRATION TO BE CONSIDERED AN ELIGIBLE SOURCE. EXPORT CONTROL REQUIRES THE APPLICABLE CERTIFICATIONS TO BE CURRENT FOR BOTH THE QUOTER AND MANUFACTURER. THE OFFEROR AND ANY SOURCE(S) OF SUPPLY IT WILL USE FOR CONTRACT PERFORMANCE MUST HAVE AN ACTIVE UNITED STATES/CANADA JOINT CERTIFICATION PROGRAM (JCP) CERTIFICATION TO ACCESS EXPORT-CONTROLLED DATA. DLA DOES NOT INTEND TO DELAY AWARD IN ORDER FOR AN INELIGIBLE OFFER OR ITS SOURCE(S) SUPPLY TO APPLY FOR AN RECEIVE AUTHORITY APPROVAL TO ACCESS THE EXPORT-CONTROLLED DATA.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Michael Romine
+  - Email: michael.1.romine@dla.mil
+- Secondary Contact:
+  - Name: Jean Paul Bretz
+  - Email: jean.bretz@dla.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c9fb2ca9a84a42ab89b4a5bd8acc5d7d/view)

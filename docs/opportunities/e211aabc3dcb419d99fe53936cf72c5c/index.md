@@ -1,0 +1,31 @@
+---
+layout: default
+title: Q523--FY26: Inoperative Neuromonitoring (IONM) Services
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Presolicitation
+notice_id: e211aabc3dcb419d99fe53936cf72c5c
+---
+
+# Q523--FY26: Inoperative Neuromonitoring (IONM) Services
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Presolicitation
+- Posted: 2026-05-21 16:24:51.931-04
+- Solicitation Number: 36C24826Q0569
+- Awardee: null
+
+## Summary
+
+Pre-solicitation Notice: Intraoperative Neuromonitoring (IONM) Services The Department of Veterans Affairs (VA), VISN 08, Orlando VA Medical Center (OVAMC) located at 13800 Veterans Way, Orlando, FL 32827, intends to solicit a Request for Quotation (RFQ) as a 100% Service-Disabled Veteran-Owned Small Business (SDVOSB) set-aside, to provide services necessary to perform Intraoperative Neuromonitoring (IONM) Services to eligible beneficiaries of the OVAMC, under an Indefinite Delivery Indefinite Quantity (IDIQ) contract, for a base plus four (4) one year option periods. The contractor must furnish all personnel to include offsite (remote) Board-Certified Neurophysiologist Physician(s) services and onsite IONM Technologist(s) services, equipment, and supplies to provide Intraoperative Neuromonitoring (IONM) services to eligible beneficiaries of OVAMC. The contractor s onsite IONM technologist(s) and remote Neurophysiologist physician(s) must cover the range of IONM services as would be provided in a state-of-the-art civilian medical treatment facility and the standard of care must be of a quality, meeting or exceeding currently recognized national standards American Association for Neurological Surgeons (AANS) and American Board of Registration of Electroencephalographic and Evoked Potential Technologists (ABRET). The Contractor must quote a minimum of four (4) key personnel to be credentialed and be available for scheduling to meet the requirements of the contract, two (2) IONM Technologists and two (2) Neurophysiologist Physicians. QUALIFICATIONS: License: The Contractor s Neurophysiologist physician(s) assigned by the Contractor to perform the services covered by this contract must have a current license to practice medicine in any State, Territory, or Commonwealth of the United States or the District of Columbia) when services are performed onsite on VA property. All licenses held by the personnel working on this contract must be full and unrestricted licenses. Contractor s physician(s) who have current, full and unrestricted licenses in one or more states, but who have, or ever had, a license restricted, suspended, revoked, voluntarily revoked, voluntarily surrendered pending action or denied upon application will not be considered for the purposes of this contract. Board Certification: All Contractor s Neurophysiologist physician(s) must be Board Certified by the American Board of Neurological Surgery (ABNS) http://www.abns.org/content/default.asp and possess a certificate of Fellowship in Intraoperative Neuromonitoring. All Contractor s IONM technologists must hold a certificate (be certified) of Neurophysiologic Interoperative Monitoring (CNIM) from the American Board of Registration of Electroencephalographic and Evoked Potential Technologists (ABRET). All Contractor s Neurophysiologist physician(s) and IONM technologist(s) must be currently certified in Basic Life Support (BLS), Advanced Cardiac Life Support (ACLS) or equivalency. All continuing education courses required for maintaining certification must always be kept up to date. Documentation verifying current certification must be provided by the Contractor to the VA COR on an annual basis for each year of contract performance. Credentialing and Privileging: Credentialing and privileging is to be done in accordance with the provisions of VHA Directive 1100.20 and VHA Directive 1100.21 referenced above. The Contractor is responsible for ensuring that proposed physician(s) and technologist(s) possess the requisite credentials enabling the granting of privileges. The period of performance is expected to be from September 13, 2026, through September 12, 2031. The authority of for this procurement is Title 38 USC 8153, Health Care Resources (HCR) Sharing Authority, Federal Acquisition Regulation (FAR) Part 12 Acquisition of Commercial Products and Commercial Services. The solicitation document will be issued as Request for Quotation (RFQ) 36C24826Q0569 as a 100% small business set-aside solicitation on or about May 27, 2026. If an award cannot be made to a Service-Disabled Veteran-Owned Small Business, the solicitation will be cancelled, and the requirement resolicited. Interested contractors will be responsible for downloading copies of the solicitation and any subsequent amendments from this website. No hard copies will be made available. The solicitation will provide instructions to contractors about the response to the RFQ submission process. Prospective contractors are encouraged to register their interest in the solicitation on the SAM.gov | Contract Opportunities website so that they are notified of the issuance of the solicitation and any amendments. In accordance with FAR 52.204-7, System for Award Management (SAM), prospective contractors must be registered in SAM to be eligible for award. Contractors may obtain SAM information at https://sam.gov/. Registration is free and potential quoters are encouraged to visit the SAM website (SAM.gov | Entity Information). The NAICS Code for this procurement is 621111 Offices of Physicians (except Mental Health Specialists); Product/Service Code: Q523 Medical- Surgery. The Business Size Standard is $16 million. Any questions concerning this announcement should be directed to Rosetta Quinn, Contract Specialist via email at rosetta.quinn@va.gov and include the solicitation number on subject line (RFQ 36C24826Q0569).
+
+## Contacts
+
+- Primary Contact:
+  - Name: Rosetta Quinn
+  - Title: Contracting Specialist
+  - Email: rosetta.quinn@va.gov
+  - Phone: 813-893-1814
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e211aabc3dcb419d99fe53936cf72c5c/view)

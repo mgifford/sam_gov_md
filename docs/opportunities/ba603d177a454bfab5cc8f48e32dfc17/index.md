@@ -1,0 +1,29 @@
+---
+layout: default
+title: 23--COMPACT RPOD TRAVEL TRAILER
+agency: INTERIOR, DEPARTMENT OF THE
+notice_type: Sources Sought
+notice_id: ba603d177a454bfab5cc8f48e32dfc17
+---
+
+# 23--COMPACT RPOD TRAVEL TRAILER
+
+- Agency: INTERIOR, DEPARTMENT OF THE
+- Type: Sources Sought
+- Posted: 2026-05-21 10:28:07.494-04
+- Solicitation Number: 140G0226Q0061
+
+## Summary
+
+COMPACT RPOD TRAVEL TRAILER THIS IS A SOURCES SOUGHT NOTICE ONLY FOR MARKET RESEARCH PURPOSES. THIS IS NOT A REQUEST FOR PROPOSAL (RFP), REQUEST FOR QUOTATIONS (RFQ) OR INVITATION FOR BID (IFB). NO FORMAL SOLICITATION IS BEING REQUESTED UNDER THIS NOTICE. This Sources Sought Notice is for market research purposes to identify parties having an interest in and resources to support this requirement for a Compact Travel Trailer for the United States Geological Survey (USGS), Northern Prairie Wildlife Research Center, Jamestown, ND. The result of this market research will contribute to determining the method of procurement. The Government will review the information requested in this announcement based on the responses to sources sought notice/market research, this requirement may be set-aside for small businesses or procured through full and open competition. The North American Industry Classification System (NAICS) code 336214 (Travel Trailer and Camper Manufacturing) and the size standard is 1,000 employees. NOTE 1: The Buy American Act (41 U.S.C. 8301-05) is the primary federal procurement law providing a preference for domestic goods and manufactured products. As such, the USGS is seeking information on sources that can supply the described instrument either mined, produced or manufactured in the U.S. in sufficient and reasonably available commercial quantities of satisfactory quality. A. Introduction: The U.S. Geological Survey, Northern Prairie Wildlife Research Center, Jamestown, ND has a requirement to purchase one (1) new 2025 or a 2026 Forest River R-Pod RP-203 Compact Travel Trailer Brand Name or Equal. B. Minimum Salient Characteristics (including but not limited to the following salient characteristics): 1. 30-gal. Black Water Holding Tank 2. 30-gal. Fresh Water System 3. 30-gal. Gray Water Holding Tank 4. Air Conditioning 5. Bumper-Hitch Travel Trailer 6. Central vacuum system 7. Dual axles 8. Electric Brakes 9. Exterior Height <10¿ 10. Exterior Length <26¿ 11. Furnace 12. Kitchen Sink 13. Microwave/Air Fryer 14. Murphy Queen bed in front 15. Oven 16. Plumbing system equipped with drains/valves for winterization 17. Power operated awning 18. Power Tongue Jack 19. Queen size bed 20. Rear 44x74 double bunks with privacy curtains 21. Rear bathroom with sink, shower and toilet 22. Refrigerator (electric and propane) 23. Seating area with sofa and dinette table. 24. Single slide-out on side of camper 25. Spare Tire/carrier 26. Stabilizer Jacks 27. Two Propane Tanks LPG 28. Unloaded vehicle weight <4600 lbs 29. Water Heater See attached floorplan similar to the Forest River R-Pod RP-203 Compact Travel Trailer. C. Delivery: Vendors located >500 miles from Jamestown, ND will be required to include shipping to USGS NPWRC, 8711 37th Street SE, Jamestown, ND 58401. Government will pick up the trailer if vendor is located <500 miles from Jamestown, ND. (End of Minimum Salient Characteristics) Businesses with the capability to meet these requirements must submit the following information: 1. Brand Name or Equal Product Information: Identify the proposed product/manufacturer meeting the salient characteristics above. Include specification sheets and brochures. 2. Place of Manufacturing / Country of Origin: Specify whether the product is manufactured within the United States in accordance with NOTE 1. 3. Business Size and Socioeconomic Status applicable to the NAICS code listed above: Must indicate whether your business is: - Indian Small Business Economic Enterprise (ISBEE) - Small Business - 8(a) - HUBZone - Service Disabled Veteran Owned Small Business (SDVOSB) - Other than Small Business 4. Company Information: Provide a point of contact (name and email), System for Award (SAM) Unique Entity ID (UEI), and confirmation of active SAM.gov registration. All information submitted in response to this announcement is voluntary ¿ the Government will not pay for information requested nor will it compensate any respondent for any cost incurred in developing information provided to the Government. Materials submitted to the Government for review will not be returned. Respondents will not be notified of the results of the evaluation. This is NOT a Request for Proposal (RFP), Request for Quotations (RFQ) or Invitation for Bid (IFB). The Government does not intend to award a contract based on responses received under this announcement. The government will evaluate market information to ascertain potential market capacity to provide services consistent in scope and scale with those described in this notice and otherwise anticipated. To be considered responsive to this Notice, businesses must submit all required documentation by May 29, 2026 , at 2:30 p.m. Mountain Daylight Time (MDT). Any response that does not follow these instructions will not be considered. Do not include any quotes with your response. Telephone inquiries will not be accepted or acknowledged, and no feedback or evaluations will be provided to companies regarding their submissions. Inquiries will only be accepted by e-mail to Lisa Williams at lisa_williams@ios.doi.gov.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Williams, Lisa
+  - Email: lisa_williams@ios.doi.gov
+  - Phone: 303-236-9327
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ba603d177a454bfab5cc8f48e32dfc17/view)

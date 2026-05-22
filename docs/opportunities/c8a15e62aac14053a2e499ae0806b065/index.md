@@ -1,0 +1,31 @@
+---
+layout: default
+title: MQ-25A CDS RTB v5.1 Increment 3
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: c8a15e62aac14053a2e499ae0806b065
+---
+
+# MQ-25A CDS RTB v5.1 Increment 3
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-05-21 13:23:29.024-04
+- Solicitation Number: N00019-25-RFPREQ-WPM268-0115
+
+## Summary
+
+The Naval Air Systems Command (NAVAIR), Patuxent River, MD, intends to award a modification under N00019-18-C-1012 to The Boeing Company (Boeing) for the negotiation and award of the procurement for tools and training in support of the Cross Domain Solution (CDS) Raise-The-Bar (RTB) version 5.1 certification phased requirements for the MQ-25A Program. For this proposed action, the Government intends to solicit and negotiate with only one source under the authority of 10.U.S.C. 2304 (c)(1) and Federal Acquisition Regulation (FAR) Subpart 6.302-1, "Only one responsible source and no other type of supplies or services will satisfy agency requirements." Boeing is the sole designer, developer and manufacturer of the MQ-25A unmanned aircraft and therefore, Boeing is the only contractor with the experienced staff, necessary plants, equipment, suppliers, and technical understanding of what is required for the procurement. Boeing is the only source with the unique capability to address the interrelated impacts of each order on each other and on the developmental efforts of the MQ-25 program. THIS NOTICE OF INTENT IS NOT A REQUEST FOR COMPETITIVE PROPOSALS. Interested parties, however, may identify their interest and capability by responding to the requirement. The Government will consider all information received prior to the closing date of this synopsis. Information received will be considered solely for determining whether to conduct a competitive procurement. A determination by the Government not to compete the proposed contract effort based upon responses to this notice is solely within the discretion of the Government. No phone inquiries will be entertained. Responses shall be made in writing by e-mail or U.S. mail to the attention of Kristine Kessler or Jennifer Alvey using the contact information provided in this synopsis. Companies interested in subcontracting opportunities are encouraged to contact Boeing directly via Brad Westerfeld, Bradley.R.Westerfeld@boeing.com
+
+## Contacts
+
+- Primary Contact:
+  - Name: Kristine N. Kessler
+  - Email: kristine.n.kessler.civ@us.navy.mil
+- Secondary Contact:
+  - Name: Jennifer A. Alvey
+  - Email: jennifer.a.alvey.civ@us.navy.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c8a15e62aac14053a2e499ae0806b065/view)

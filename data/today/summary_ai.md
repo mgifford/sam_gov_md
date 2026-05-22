@@ -1,8 +1,8 @@
 # Recompete Discovery Summary
 
 - Cohort size: 30 companies
-- FY window: 2025-10-01 to 2027-09-30
-- Expiring awards found: 23300
+- FY window: 2024-10-01 to 2026-09-30
+- Expiring awards found: 24000
 - Small-business set-aside awards: 0
 - Rule-of-Two high-confidence signals: 0
 - Data source: USASpending API (no SAM.gov key required)
@@ -11,23 +11,23 @@
 
 ## Top Agencies by Expiring Awards
 
-- Department of the Interior: 5552
-- Department of the Treasury: 4209
-- Executive Office of the President: 3335
-- National Archives and Records Administration: 2562
-- Peace Corps: 2465
+- Department of the Interior: 5730
+- Department of the Treasury: 4350
+- Executive Office of the President: 3450
+- National Archives and Records Administration: 2640
+- Peace Corps: 2550
 - Department of Defense: 1530
-- Government Accountability Office: 1160
-- Department of Transportation: 1140
-- Department of Homeland Security: 441
-- Department of Justice: 435
+- Government Accountability Office: 1200
+- Department of Transportation: 1170
+- Department of Homeland Security: 450
+- Department of Justice: 450
 
 ## Sample Award Rows
 
 ### BRISTOL ENVIRONMENTAL REMEDIATION SERVICES, LLC | 0000
 
 - Agency: Environmental Protection Agency
-- POP End: 2026-05-21
+- POP End: 2026-05-22
 - Set-Aside: Unknown
 - FAR 19.5 note: No Small Business Set-Aside signal detected in award metadata.
 - Rule-of-Two signal: not-applicable
@@ -40,7 +40,7 @@
 ### DURHAM SCHOOL SERVICES, L.P. | 0000
 
 - Agency: Department of Defense
-- POP End: 2026-05-21
+- POP End: 2026-05-22
 - Set-Aside: Unknown
 - FAR 19.5 note: No Small Business Set-Aside signal detected in award metadata.
 - Rule-of-Two signal: not-applicable
@@ -53,7 +53,7 @@
 ### AMO SALES AND SERVICE, INC. | 0000
 
 - Agency: Department of Defense
-- POP End: 2026-05-21
+- POP End: 2026-05-22
 - Set-Aside: Unknown
 - FAR 19.5 note: No Small Business Set-Aside signal detected in award metadata.
 - Rule-of-Two signal: not-applicable
@@ -66,7 +66,7 @@
 ### NORTHROP GRUMMAN SPACE & MISSION SYSTEMS CORP. | 0000
 
 - Agency: Department of Defense
-- POP End: 2026-05-21
+- POP End: 2026-05-22
 - Set-Aside: Unknown
 - FAR 19.5 note: No Small Business Set-Aside signal detected in award metadata.
 - Rule-of-Two signal: not-applicable
@@ -79,7 +79,7 @@
 ### SPIRAL SOLUTIONS & TECHNOLOGIES, INC | 0000
 
 - Agency: Department of Defense
-- POP End: 2026-05-21
+- POP End: 2026-05-22
 - Set-Aside: Unknown
 - FAR 19.5 note: No Small Business Set-Aside signal detected in award metadata.
 - Rule-of-Two signal: not-applicable
@@ -92,7 +92,7 @@
 ### GENERAL DYNAMICS PRODUITS DE DEFENSE ET SYSTEMES TACTIQUES-CANADA INC. | 0000
 
 - Agency: Department of Defense
-- POP End: 2026-05-21
+- POP End: 2026-05-22
 - Set-Aside: Unknown
 - FAR 19.5 note: No Small Business Set-Aside signal detected in award metadata.
 - Rule-of-Two signal: not-applicable
@@ -105,7 +105,7 @@
 ### THE CNA CORPORATION | 0000
 
 - Agency: Department of Defense
-- POP End: 2026-05-21
+- POP End: 2026-05-22
 - Set-Aside: Unknown
 - FAR 19.5 note: No Small Business Set-Aside signal detected in award metadata.
 - Rule-of-Two signal: not-applicable
@@ -118,7 +118,7 @@
 ### CONCURRENT TECHNOLOGIES CORP | 0000
 
 - Agency: Department of Defense
-- POP End: 2026-05-21
+- POP End: 2026-05-22
 - Set-Aside: Unknown
 - FAR 19.5 note: No Small Business Set-Aside signal detected in award metadata.
 - Rule-of-Two signal: not-applicable
@@ -131,7 +131,7 @@
 ### TANGRAM CHEMICAL LLC | 0000
 
 - Agency: Department of Defense
-- POP End: 2026-05-21
+- POP End: 2026-05-22
 - Set-Aside: Unknown
 - FAR 19.5 note: No Small Business Set-Aside signal detected in award metadata.
 - Rule-of-Two signal: not-applicable
@@ -144,20 +144,20 @@
 ### DLT SOLUTIONS, LLC | 0000
 
 - Agency: Department of Defense
-- POP End: 2026-05-21
+- POP End: 2026-05-22
 - Set-Aside: Unknown
 - FAR 19.5 note: No Small Business Set-Aside signal detected in award metadata.
 - Rule-of-Two signal: not-applicable
 - Rule-of-Two evidence: SB vendors=0 / total=0
 - Labor Category: Software Engineer
-- Benchmark diff: 23.62%
+- Benchmark diff: 24.04%
 - Benchmark source: gsa
 - Benchmark basis: market_premium_proxy
 
 ### OREGON STATE UNIVERSITY | 0000
 
 - Agency: Department of Defense
-- POP End: 2026-05-21
+- POP End: 2026-05-22
 - Set-Aside: Unknown
 - FAR 19.5 note: No Small Business Set-Aside signal detected in award metadata.
 - Rule-of-Two signal: not-applicable
@@ -170,7 +170,7 @@
 ### MAXON FURNITURE INC | 0000
 
 - Agency: Department of Defense
-- POP End: 2026-05-21
+- POP End: 2026-05-22
 - Set-Aside: Unknown
 - FAR 19.5 note: No Small Business Set-Aside signal detected in award metadata.
 - Rule-of-Two signal: not-applicable
@@ -183,7 +183,7 @@
 ### FEDERAL PRISON INDUSTRIES, INC | 0000
 
 - Agency: Department of Defense
-- POP End: 2026-05-21
+- POP End: 2026-05-22
 - Set-Aside: Unknown
 - FAR 19.5 note: No Small Business Set-Aside signal detected in award metadata.
 - Rule-of-Two signal: not-applicable
@@ -196,7 +196,7 @@
 ### FEDERAL PRISON INDUSTRIES, INC | 0000
 
 - Agency: Department of Defense
-- POP End: 2026-05-21
+- POP End: 2026-05-22
 - Set-Aside: Unknown
 - FAR 19.5 note: No Small Business Set-Aside signal detected in award metadata.
 - Rule-of-Two signal: not-applicable
@@ -209,7 +209,7 @@
 ### CHALET NAVY PROPERTIES, LIMITED PARTNERSHIP | 0000
 
 - Agency: Department of Defense
-- POP End: 2026-05-21
+- POP End: 2026-05-22
 - Set-Aside: Unknown
 - FAR 19.5 note: No Small Business Set-Aside signal detected in award metadata.
 - Rule-of-Two signal: not-applicable

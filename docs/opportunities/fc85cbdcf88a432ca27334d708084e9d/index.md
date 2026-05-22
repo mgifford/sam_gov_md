@@ -1,0 +1,28 @@
+---
+layout: default
+title: Parts Kit, Door Lift
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: fc85cbdcf88a432ca27334d708084e9d
+---
+
+# Parts Kit, Door Lift
+
+- Agency: DEPT OF DEFENSE
+- Type: Presolicitation
+- Posted: 2026-05-21 09:28:22.523-04
+- Solicitation Number: SPE7LX26R0068
+
+## Summary
+
+1. ACTION CODE: Pre-Solicitation 2. CLASSIFICATION CODE: 25 3. PRIMARY POINT OF CONTACT: Matthew Stein 4. SOLICITATION NUMBER: SPE7LX26R0068 5. DESCRIPTION: Parts Kit, Door Lift The subject requirement is for the acquisition of the NSN(s) listed below. The FSC(s) of this requirement: 2590. The Government is pursuing a long-term, Indefinite Quantity Contract with firm fixed pricing for the duration of 3-year base period with 2 one-year option periods for a potential total of 5 years, that will provide DLA Direct (Stocked) replenishment coverage in support of military depots. Increments and delivery schedule will be noted on the RFP. Bureau of Labor Statistics (BLS) Indexes ? based on weighted average of the following index(es). PPI Code: WPIP1412.Q.FOS (Motor Vehicle Parts and Accessories) Unrestricted The Contracting Officer may utilize on-line Reverse Auctioning as a means of conducting price discussions under this solicitation. During the course of the on-line auction, offeror’s proposed prices will be publicly disclosed to other offeror’s and anyone else having access to the on-line auction. This public disclosure is anonymous, meaning that each offeror's identity will be concealed from other offeror’s (although it will be known to the Government), and only generic identifiers will be used publicly for each offeror's proposed pricing (e.g., "Offeror A"). By submitting a proposal in response to the solicitation, offerors agree to participate in the Reverse Auction and that their prices may be publicly disclosed, including to another offeror’s, during the Reverse Auction. An offeror's final auction price will be considered its final proposal revision. No price revisions will be accepted after the close of the Reverse Auction, unless the Contracting Officer decides that further discussions are needed, and final proposal revisions are again requested in accordance with FAR 15.307. In addition, online training is available at https://dla.procurexinc.com/_theme/dla/Pages/default.aspx once you have registered and have logged in. Questions about ProcureX can be directed to ProcureX at 1-866-412-7161 ext. 1 or email service@procurexinc.com. Full and Open Competition applies. FOB Origin, per First Destination Transportation (FDT) program applies. Inspection at Origin applies. This solicitation will be available on the Internet at https://www.dibbs.bsm.dla.mil/dodwarning.aspx?goto=/rfp on the issue date of 06/08/2026. Based upon market research, the Government is not using the policies contained in FAR Part 12, Acquisition of Commercial Items, in its solicitation for the described supplies or services. However, interested persons may identify to the contracting officer their interest and capability to satisfy the Government's requirement with a commercial item within 15 days of this notice. Interested parties that meet the requirements of the solicitation may obtain copies of Military and Federal Specifications and Standards, Qualified Product List, Military Handbooks, and other standardization documents from the Defense Standardization Program (DSP) in Philadelphia, PA. Documents are available in Adobe PDF format from the ASSIST database via the Internet at http://quicksearch.dla.mil/qsSearch.aspx. ASSIST includes more than documents and document metadata. ASSIST also serves as a portal to, and is closely integrated with, the Qualified Products Database (QPD), which is the official DoD site for identifying parts and sources approved by DoD qualifying activities. Users may search for documents using ASSIST-Quick Search and download the documents directly via the Internet using the standard browser software. Issues with the website, please contact the ASSIST Help Desk at (215) 737-8000. Users not having access to the Internet may call or mail requests to DLA Document Services, Bldg. 4/D, 700 Robbins Avenue, Philadelphia, PA 19111-5094. Drawing will be available with solicitation if applicable. Drawings can be downloaded by authorized users from the cFolders website via the Internet at https://pcf1.bsm.dla.mil/cfolders and by doing a query for (SPE7LX26R0068) as the solicitation number on cFolders. If the NSN(s) in the package has a license agreement, which requires an NDA to be submitted, I recommend placing BOTH the solicitation number/project number on the solicitation line of the NDA form. I believe it should be one NDA form per sol/project number. Submit the NDA request to the email address on the form. Problems with cFolders can be addressed by the cFolders Help Desk at (855) 352-0001 and/or via email at DSCC.ProdDataCustSvc@dla.mil. Do not call the buyer for Drawing Item Issues. While price may be a significant factor in the evaluation of offers, the final award decision will be based upon a combination of price, delivery, past performance, and any other factors as listed in the solicitation. All offers shall be in the English language and in US dollars. All interested parties may submit an offer that meets the requirements of the solicitation. CLIN: 0001 NSN: 2590012121057 ITEM NAME: Parts Kit, Door Lift CAGE: 19207 DWG: 12340832-3 UM: KT EST YEARLY QTY (ADQ): 2,451
+
+## Contacts
+
+- Primary Contact:
+  - Name: Matthew Stein (614) 693-4915
+  - Email: Matthew.Stein@dla.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fc85cbdcf88a432ca27334d708084e9d/view)

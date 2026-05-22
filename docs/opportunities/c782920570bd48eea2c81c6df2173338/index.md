@@ -1,0 +1,28 @@
+---
+layout: default
+title: CAPSCREW, HEX HD
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: c782920570bd48eea2c81c6df2173338
+---
+
+# CAPSCREW, HEX HD
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-05-21 10:25:53.208-04
+- Solicitation Number: N00406926Q0183
+
+## Summary
+
+N6275860987429 / CAPSCREW / 021-17948 N6275860987430 / CAPSCREW / 021-17948 N6275860987431 / CAPSCREW / 021-17948 N6275860987432 / CAPSCREW / 021-17948 N6275860987433 / STUD / 021-16655B013 N6275860987434 / STUD / 021-16655B013 N6275860987435 / STUD / 021-16655B013 N6275860987436 / STUD / 021-16655B013
+
+## Contacts
+
+- Primary Contact:
+  - Name: HALEY AUSTIN
+  - Email: HALEY.M.AUSTIN3.CIV@US.NAVY.MIL
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c782920570bd48eea2c81c6df2173338/view)

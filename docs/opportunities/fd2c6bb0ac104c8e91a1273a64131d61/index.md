@@ -1,0 +1,29 @@
+---
+layout: default
+title: CASU TECHNICAL AND PROGRAM SUPPORT SERVICES FOR THE BASE REALIGNMENT AND CLOSURE PROGRAM MANAGEMENT OFFICE (BRAC PMO)
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: fd2c6bb0ac104c8e91a1273a64131d61
+---
+
+# CASU TECHNICAL AND PROGRAM SUPPORT SERVICES FOR THE BASE REALIGNMENT AND CLOSURE PROGRAM MANAGEMENT OFFICE (BRAC PMO)
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-05-21 17:31:20.944-04
+- Solicitation Number: N6247326R3101
+
+## Summary
+
+ACTIVE 8(a) PRIME SEAPORT MAC CONTRACT HOLDERS ONLYSolicitation No.: N6247326R3101 (SOURCES SOUGHT SOLICITATION No. N6247326R0027)CASU TECHNICAL AND PROGRAM SUPPORT SERVICES FOR THE BASE REALIGNMENT AND CLOSURE PROGRAM MANAGEMENT OFFICE (BRAC PMO)
+
+## Contacts
+
+- Primary Contact:
+  - Name: Mary Flynn
+  - Email: mary.f.flynn4.civ@us.navy.mil
+  - Phone: 6195240635
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fd2c6bb0ac104c8e91a1273a64131d61/view)
