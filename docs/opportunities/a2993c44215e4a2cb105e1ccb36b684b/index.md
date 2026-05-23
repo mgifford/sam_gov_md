@@ -1,0 +1,32 @@
+---
+layout: default
+title: MA-PROB26-0001
+agency: ADMINISTRATIVE OFFICE OF THE US COURTS
+notice_type: Solicitation
+notice_id: a2993c44215e4a2cb105e1ccb36b684b
+---
+
+# MA-PROB26-0001
+
+- Agency: ADMINISTRATIVE OFFICE OF THE US COURTS
+- Type: Solicitation
+- Posted: 2026-05-22 13:09:33.857-04
+- Solicitation Number: MA-PROB26-0001
+
+## Summary
+
+Solicitation Conference Space Post Date: May 22, 2026 Contract Location: John Joseph Moakley Courthouse, 1 Courthouse Way, Boston MA 02210 Solicitation Type: Lodging, Meals, Conference Meeting room space, On-Site Parking, Audio/Visual Equipment Rental. Hotel Locations in Falmouth MA or Newport RI only. Solicitation Number: MA-PROB26-0001 Agency: United States Judiciary Office: U.S. Probation and Pretrial Services Office for the District of Massachusetts Location: John Joseph Moakley Courthouse 1 Courthouse Way, Suite 1-200 Boston MA 02210 A. Instructions, Conditions, and notices to Offerors: Summary: This request is to provide training space, rooms and meals by a commercial hotel, for a training event to be held by the U.S. Probation Office for the District of Massachusetts. Responses from Hotel event manager staff ONLY for hotels with onsite catering, lodging, meeting space and audio/visual access. No third-party entities. U.S. Probation will contract directly with the hotel representative for the event. Event Dates – 9.22.26 - 9.23.26 -9.25.26 – no substitute dates. Components: Lodgings, Meals, Light Refreshments, Meeting Spaces, Parking, Audio/Visual Equipment Rental: A. Lodging: The lodging facility shall support approximately 75 single-occupancy rooms, for a 2-night stay. Entity must honor the U.S. Government Per Diem for lodging (www.gsa.gov/perdiem). Lodging Dates and Rates: Note 12 guest rooms will be needed on 9.22.26 for a small group of attendees. Check in Date 9.23.26 - 75 guest rooms 9.24.26 – 75 guest rooms Check out Date 9.25.26 Single Occupancy: • Rate for Falmouth MA, Government Rate $142/night per General Services Administration (GSA) • Rate for Newport RI, Government Rate $ 218/night per General Services Administration (GSA). B. Meals: Entity must honor the U.S. Government Per Diem Rate for meals and incidentals for breakfast, lunch and dinner www.gsa.gov/perdiem for approximately 80 attendees. Example 9.23.24 – Afternoon Break, Dinner, Half day beverage service 9.24.24 – Breakfast, Lunch, Dinner, All day beverage service 9.25.26 – Breakfast, Half day beverage service C. Meeting Space: The venue must be able to provide 2 breakout rooms that can hold at a minimum 1/3 of the participants as well as a main room space that can accommodate the entire staff of approximately 75 people from 9.23.26 -9.25.26. D. Parking: On-site parking is required for the entirety of the stay 3 days/2 nights based on the confirmed number of attendees and must be available for the dates of 9.23.26 -9.25.26. E. Audio/Visual Equipment Rental Requirements: Preferred on Site or suggested vendor • House Sound System Package – includes mixer, wired podium microphone, wireless lavalier microphone, and PC audio (through HDMI and 3.5 mm stereo connection). • Tripod Screen Package – includes high-definition projector and all cabling to connect to client laptop (VGA, HDMI cabling, power strip). • Audio, Visual and power connections need to be located at same place to connect client laptops. • Provide in-house on -site support for Audio/Visual. • Including setup/breakdown cost as well as all fees. • Place of Performance/Hotel Locations: • Falmouth Massachusetts or • Newport Rhode Island • Contract Type: The Government intends to grant an award, Firm Fixed Price contract, subject to funding, to fulfill this requirement. • Date of Award: The contract award date is dependent upon final budget approval and availability of funding. • Contract Award Evaluation Criteria/Payment: • The Government will award a contract resulting from the solicitation to the lowest price responsible offeror, whose offer conforms to the solicitation in accordance with FAR Part 13. • The award is contingent that the entity must be in the location listed under Place of Performance with U.S. Probation representative viewing the site prior to the final award as well honoring General Services’ Administration published per rates for both lodging and meals Per Diem Rates | GSA. • A Purchase Order and or credit card will be issued to the selected offeror and payment made by invoicing U.S. Probation for the agreed upon services. • No advanced payment except for deposit via invoice • Balance due upon completion of the event, via invoice • SAM Registration: All offerors must be registered on the System of Award Management (SAM) database to be considered for contract award. Offerors can obtain further information in SAM via the website https://www.sam.gov. There is no fee to register for this site. • Availability of Funds: Due to the competitive standard of the places of performance as well as other factors that can affect availability of these requirements, sourcing for the listed services must be done in advance. • Communications Prior to Award: All communication should be directed – via email – to the points of contact: KrisAnn O’Herron – Budget and Procurement Manager; krisann_oherron@map.uscourts.gov Vonder Lucas – Budget and Procurement Specialist; vonder_lucas@map.uscourts.gov Sherly Taylor – Budget and Procurement Technician; sherly_taylor@map.uscourts.gov All questions must be submitted to the points of contact no later than 5:00pm Eastern Standard Time; Wednesday, June 10, 2026. • Quotes/Offers Due Date: Quotations are to be submitted electronically via email to all contacts, no later than 12:00pm Eastern Standard Time; Friday June 12, 2026. The subject line of the email must contain “Solicitation – MA -PROB26 – 0001” Place of Contract Performance: U.S. Probation and Pretrial Services Agency, District of Massachusetts John Joseph Moakley Courthouse 1 Courthouse Way, Suite 1-200 Boston MA 02210
+
+## Contacts
+
+- Primary Contact:
+  - Name: KrisAnn O'Herron
+  - Email: krisann_oherron@map.uscourts.gov
+  - Phone: 617-748-9205
+- Secondary Contact:
+  - Name: Vonder Lucas
+  - Email: vonder_lucas@map.uscourts.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a2993c44215e4a2cb105e1ccb36b684b/view)

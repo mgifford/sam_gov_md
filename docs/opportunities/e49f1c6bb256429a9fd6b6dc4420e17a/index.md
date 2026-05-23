@@ -1,0 +1,28 @@
+---
+layout: default
+title: Ski Lift and Tow Maintenance B+4 West Point FY 26
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: e49f1c6bb256429a9fd6b6dc4420e17a
+---
+
+# Ski Lift and Tow Maintenance B+4 West Point FY 26
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-05-22 15:03:40.573-04
+- Solicitation Number: W911SD26QA086
+
+## Summary
+
+SOURCES SOUGHT This is a Sources Sought Notice ONLY. The U.S. Government has a requirement for seeking responsible sources to provide yearly preventive maintenance on the handle tow and ski chair lift for the Victor Constant Ski Slope at West Point, NY in accordance on a small business set-aside basis, provided 2 or more qualified small businesses respond to this sources sought synopsis with information sufficient to support a set-aside. Be advised that the U.S. Government will not be able to set aside this requirement if 2 or more small businesses do not respond with information to support the set-aside. We encourage all small businesses, in all socioeconomic categories (including, 8(a) Business Development Program, Small Disadvantage Business, Historically Underutilized Business Zone, Service-Disabled Veteran-Owned, Women-Owned Small Business concerns), to identify their capabilities in meeting the requirement at a fair market price. This notice is issued solely for information and planning purposes - it does not constitute a Request for Quote (RFQ)/Invitation for Bid (IFB)/Request for Proposal (RFP) or a promise to issue an RFQ, IFB or RFP in the future. This notice does not commit the U.S. Government to contract for any supply or service. Further, the U.S. Government is not seeking quotes, bids or proposals at this time and will not accept unsolicited proposals in response to this sources sought notice. The U.S. Government will not pay for any information or administrative costs incurred in response to this notice. Submittals will not be returned to the responder. Not responding to this notice does not preclude participation in any future RFQ or IFB or RFP, if any is issued. If a solicitation is released, it will be synopsized on the Government wide Point of Entry. It is the responsibility of potential offerors to monitor the Government wide Point of Entry for additional information pertaining to this requirement. The anticipated NAICS code(s): 811310 Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance, with associated size standard of $12.5 Million. A need is anticipated to procure Base plus four(4) Option years See Attached Specification (PWS): The Mission Installation Contracting Command (MICC) West Point on behalf of the United States Military Academy (USMA) West Point, NY has a potential requirement and is seeking responsible sources to provide yearly preventative maintenance on the handle tow, and ski chair lift also inspection of the ski slope equipment at the Victor Constant Ski Slope in West Point, NY, during one (1) 12- month base period and four (4) 12-month option periods in accordance with the attached Statement of Work. In response to this sources sought, please provide: 1. Name of the firm, point of contact, phone number, email address, DUNS number, CAGE code, a statement regarding small business status (including small business type(s)/certifications(s) such as SDB, 8(a), HUBZone, SDVOSB, WOSB, etc.) and the corresponding NAICS code. 2. Identify whether your firm is interested in competing for this requirement as a prime contractor or not. Identify subcontracting, joint ventures or teaming arrangement that will be pursued, if any. 3. Information in sufficient detail regarding previous experience (indicate whether as a prime contractor or subcontractor) on similar requirements (include size, scope, complexity, timeframe, government or commercial), pertinent certifications, etc., that will facilitate making a capability determination. 4. Information to help determine if the requirement Ski Slope Maintenance Lift Equipment are commercially available, including pricing information, basis for the pricing information (e.g., market pricing, catalog pricing), delivery schedules, customary terms and conditions, warranties, etc. 5. Identify how the Army can best structure these contract requirements to facilitate competition by and among small business concerns. 6. Identify any condition or action that may be having the effect of unnecessarily restricting competition with respect to this acquisition. Please contact the MICC Advocate for Competition, Sonya Van Valkenburg, at sonya.d.vanvalkenburg.civ@mail.mil, if you believe that this action is unreasonably restricting competition. Include the subject of the acquisition, this announcement, and the MICC POC information from the FedBizOpps notice. Provide the specific aspects that unreasonably restrict competition and the rationale for such conclusion. 7. Recommendations to improve the approach/specifications/draft PWS/PRS to acquiring the identified items/services. 8. Please send all responses to the MICC Purchasing Agent, Sonya Van Valkenburg, at Sonya.D.Vanvalkenburg.civ@mail.mil, and be sure to include the Sources Sought Notice W911SD26QA086 in your email subject line to prevent your reply from being deleted as SPAM.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Sonya D. Van Valkenburg
+  - Email: sonya.d.vanvalkenburg.civ@army.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/e49f1c6bb256429a9fd6b6dc4420e17a/view)

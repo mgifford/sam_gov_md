@@ -1,15 +1,15 @@
 {
-  "generated_date": "2026-05-22",
+  "generated_date": "2026-05-23",
   "stale_days_threshold": 90,
   "summary": {
-    "total_awards_with_timing": 2048,
-    "avg_days_to_award": 27.5,
-    "median_days_to_award": 23.0,
+    "total_awards_with_timing": 1899,
+    "avg_days_to_award": 26.9,
+    "median_days_to_award": 22,
     "fastest_award_days": 0,
-    "slowest_award_days": 77,
+    "slowest_award_days": 80,
     "total_abandoned": 0,
-    "officers_with_timing": 578,
-    "agencies_with_timing": 15
+    "officers_with_timing": 554,
+    "agencies_with_timing": 14
   },
   "by_officer": [
     {
@@ -23,18 +23,6 @@
       "fastest_award": 0,
       "slowest_award": 0,
       "awarded": 2
-    },
-    {
-      "name": "Keith Mainous",
-      "email": null,
-      "agencies": [
-        "VETERANS AFFAIRS, DEPARTMENT OF"
-      ],
-      "avg_days": 0.0,
-      "median_days": 0,
-      "fastest_award": 0,
-      "slowest_award": 0,
-      "awarded": 1
     },
     {
       "name": "Caitlyn Varricchione",
@@ -181,6 +169,18 @@
       "awarded": 1
     },
     {
+      "name": "Rose, Keith",
+      "email": null,
+      "agencies": [
+        "INTERIOR, DEPARTMENT OF THE"
+      ],
+      "avg_days": 10.0,
+      "median_days": 10,
+      "fastest_award": 10,
+      "slowest_award": 10,
+      "awarded": 1
+    },
+    {
       "name": "Terry E. Craft",
       "email": null,
       "agencies": [
@@ -203,6 +203,18 @@
       "fastest_award": 8,
       "slowest_award": 13,
       "awarded": 2
+    },
+    {
+      "name": "Sung, Robert",
+      "email": null,
+      "agencies": [
+        "INTERIOR, DEPARTMENT OF THE"
+      ],
+      "avg_days": 11.0,
+      "median_days": 11,
+      "fastest_award": 11,
+      "slowest_award": 11,
+      "awarded": 1
     },
     {
       "name": "Cesia Gil",
@@ -270,11 +282,11 @@
       "agencies": [
         "DEPT OF DEFENSE"
       ],
-      "avg_days": 12.9,
+      "avg_days": 12.2,
       "median_days": 11,
       "fastest_award": 4,
-      "slowest_award": 51,
-      "awarded": 59
+      "slowest_award": 40,
+      "awarded": 57
     },
     {
       "name": "Amanda Patterson-Elliott",
@@ -409,6 +421,18 @@
       "awarded": 1
     },
     {
+      "name": "John H. Shultzaberger",
+      "email": null,
+      "agencies": [
+        "VETERANS AFFAIRS, DEPARTMENT OF"
+      ],
+      "avg_days": 14.0,
+      "median_days": 14,
+      "fastest_award": 14,
+      "slowest_award": 14,
+      "awarded": 1
+    },
+    {
       "name": "NIYANA YARBER445-737-9950",
       "email": null,
       "agencies": [
@@ -450,11 +474,11 @@
       "agencies": [
         "DEPT OF DEFENSE"
       ],
-      "avg_days": 14.6,
-      "median_days": 17,
+      "avg_days": 15.0,
+      "median_days": 17.0,
       "fastest_award": 4,
       "slowest_award": 28,
-      "awarded": 5
+      "awarded": 6
     },
     {
       "name": "John Wysocki",
@@ -661,18 +685,6 @@
       "awarded": 1
     },
     {
-      "name": "Ouk, Nea",
-      "email": null,
-      "agencies": [
-        "ENVIRONMENTAL PROTECTION AGENCY"
-      ],
-      "avg_days": 16.0,
-      "median_days": 16,
-      "fastest_award": 16,
-      "slowest_award": 16,
-      "awarded": 1
-    },
-    {
       "name": "Lea Dawn Robertson614-693-4950",
       "email": null,
       "agencies": [
@@ -685,16 +697,16 @@
       "awarded": 3
     },
     {
-      "name": "John Hillenbrand215-737-5216",
+      "name": "Hunter STEELE614-202-6709",
       "email": null,
       "agencies": [
         "DEPT OF DEFENSE"
       ],
-      "avg_days": 16.8,
-      "median_days": 16.0,
-      "fastest_award": 12,
-      "slowest_award": 25,
-      "awarded": 6
+      "avg_days": 16.6,
+      "median_days": 16,
+      "fastest_award": 15,
+      "slowest_award": 20,
+      "awarded": 11
     },
     {
       "name": "Tabitha Jackson(445) 737-5224",
@@ -769,6 +781,18 @@
       "awarded": 1
     },
     {
+      "name": "Traci Johannes",
+      "email": null,
+      "agencies": [
+        "VETERANS AFFAIRS, DEPARTMENT OF"
+      ],
+      "avg_days": 17.0,
+      "median_days": 17,
+      "fastest_award": 17,
+      "slowest_award": 17,
+      "awarded": 1
+    },
+    {
       "name": "Misty Eckard(614) 693-0398",
       "email": null,
       "agencies": [
@@ -817,6 +841,18 @@
       "awarded": 3
     },
     {
+      "name": "Natalya RadykDSN312-850-4033",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 17.8,
+      "median_days": 15.0,
+      "fastest_award": 11,
+      "slowest_award": 55,
+      "awarded": 360
+    },
+    {
       "name": "Ira Hedgepeth445-737-8335",
       "email": null,
       "agencies": [
@@ -853,18 +889,6 @@
       "awarded": 1
     },
     {
-      "name": "Hunter STEELE614-202-6709",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 18.0,
-      "median_days": 16,
-      "fastest_award": 15,
-      "slowest_award": 35,
-      "awarded": 15
-    },
-    {
       "name": "Mat Czeshinski",
       "email": null,
       "agencies": [
@@ -875,6 +899,18 @@
       "fastest_award": 9,
       "slowest_award": 27,
       "awarded": 2
+    },
+    {
+      "name": "John Hillenbrand215-737-5216",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 18.0,
+      "median_days": 18.0,
+      "fastest_award": 12,
+      "slowest_award": 25,
+      "awarded": 8
     },
     {
       "name": "Wilson, Mary",
@@ -890,6 +926,18 @@
     },
     {
       "name": "Kelly Day614-693-9944",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 18.0,
+      "median_days": 18,
+      "fastest_award": 18,
+      "slowest_award": 18,
+      "awarded": 1
+    },
+    {
+      "name": "Tiffany Merritt614 693 2846",
       "email": null,
       "agencies": [
         "DEPT OF DEFENSE"
@@ -947,18 +995,6 @@
       "fastest_award": 14,
       "slowest_award": 22,
       "awarded": 4
-    },
-    {
-      "name": "Natalya RadykDSN312-850-4033",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 18.7,
-      "median_days": 15.0,
-      "fastest_award": 11,
-      "slowest_award": 70,
-      "awarded": 380
     },
     {
       "name": "Sarah A. Baer 816-289-9537 ; Tristan M. Solomon 816-289-5705",
@@ -1081,6 +1117,54 @@
       "awarded": 1
     },
     {
+      "name": "Natalee CORDER380-245-7526",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 19.1,
+      "median_days": 14,
+      "fastest_award": 12,
+      "slowest_award": 39,
+      "awarded": 13
+    },
+    {
+      "name": "Quiana Bowser215-737-6139",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 19.8,
+      "median_days": 20.0,
+      "fastest_award": 13,
+      "slowest_award": 27,
+      "awarded": 8
+    },
+    {
+      "name": "Shirley LagatXXX-XXX-XXXX",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 19.8,
+      "median_days": 19,
+      "fastest_award": 19,
+      "slowest_award": 23,
+      "awarded": 5
+    },
+    {
+      "name": "KYLE BARNER445-737-8182",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 20.0,
+      "median_days": 19,
+      "fastest_award": 18,
+      "slowest_award": 23,
+      "awarded": 3
+    },
+    {
       "name": "Yamel Broadnax 817-978-0299 ; Prince Uduka 445-213-7028",
       "email": null,
       "agencies": [
@@ -1118,6 +1202,18 @@
     },
     {
       "name": "Tanya WhitneyDSN392-652-3792",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 20.0,
+      "median_days": 20,
+      "fastest_award": 20,
+      "slowest_award": 20,
+      "awarded": 1
+    },
+    {
+      "name": "BRANDON WICKER2157378600",
       "email": null,
       "agencies": [
         "DEPT OF DEFENSE"
@@ -1189,30 +1285,6 @@
       "awarded": 1
     },
     {
-      "name": "Stacey Phillips (Purchasing Agent)",
-      "email": null,
-      "agencies": [
-        "AGRICULTURE, DEPARTMENT OF"
-      ],
-      "avg_days": 20.0,
-      "median_days": 20,
-      "fastest_award": 20,
-      "slowest_award": 20,
-      "awarded": 1
-    },
-    {
-      "name": "KYLE BARNER445-737-8182",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 20.5,
-      "median_days": 20.5,
-      "fastest_award": 18,
-      "slowest_award": 23,
-      "awarded": 4
-    },
-    {
       "name": "Christopher Viola215-737-4261",
       "email": null,
       "agencies": [
@@ -1225,16 +1297,16 @@
       "awarded": 3
     },
     {
-      "name": "Quiana Bowser215-737-6139",
+      "name": "Alisha Grove445-737-7100",
       "email": null,
       "agencies": [
         "DEPT OF DEFENSE"
       ],
       "avg_days": 20.8,
-      "median_days": 22,
-      "fastest_award": 13,
-      "slowest_award": 27,
-      "awarded": 15
+      "median_days": 14.0,
+      "fastest_award": 8,
+      "slowest_award": 57,
+      "awarded": 46
     },
     {
       "name": "Hestia Sim",
@@ -1393,18 +1465,6 @@
       "awarded": 1
     },
     {
-      "name": "Jonathan Flowers614-692-5513",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 21.0,
-      "median_days": 21,
-      "fastest_award": 17,
-      "slowest_award": 25,
-      "awarded": 3
-    },
-    {
       "name": "Katelyn Williams8046130635",
       "email": null,
       "agencies": [
@@ -1417,7 +1477,7 @@
       "awarded": 1
     },
     {
-      "name": "Mest, Terry",
+      "name": "Albright, Jason",
       "email": null,
       "agencies": [
         "INTERIOR, DEPARTMENT OF THE"
@@ -1427,30 +1487,6 @@
       "fastest_award": 21,
       "slowest_award": 21,
       "awarded": 1
-    },
-    {
-      "name": "Alisha Grove445-737-7100",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 21.3,
-      "median_days": 14,
-      "fastest_award": 8,
-      "slowest_award": 57,
-      "awarded": 47
-    },
-    {
-      "name": "Natalee CORDER380-245-7526",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 21.3,
-      "median_days": 19,
-      "fastest_award": 12,
-      "slowest_award": 49,
-      "awarded": 15
     },
     {
       "name": "Dodson, Charles",
@@ -1465,30 +1501,6 @@
       "awarded": 2
     },
     {
-      "name": "Soni Randolph804-774-6679",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 21.5,
-      "median_days": 21.5,
-      "fastest_award": 18,
-      "slowest_award": 25,
-      "awarded": 2
-    },
-    {
-      "name": "Martin Augenstein614-692-8523",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 21.7,
-      "median_days": 21,
-      "fastest_award": 15,
-      "slowest_award": 36,
-      "awarded": 9
-    },
-    {
       "name": "William Zera215-737-5163",
       "email": null,
       "agencies": [
@@ -1499,18 +1511,6 @@
       "fastest_award": 14,
       "slowest_award": 56,
       "awarded": 6
-    },
-    {
-      "name": "Donald Wayne Smith445-737-3686",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 21.7,
-      "median_days": 21,
-      "fastest_award": 15,
-      "slowest_award": 29,
-      "awarded": 3
     },
     {
       "name": "Martin, Cody",
@@ -1529,6 +1529,30 @@
       "email": null,
       "agencies": [
         "VETERANS AFFAIRS, DEPARTMENT OF"
+      ],
+      "avg_days": 22.0,
+      "median_days": 22,
+      "fastest_award": 22,
+      "slowest_award": 22,
+      "awarded": 1
+    },
+    {
+      "name": "Martin Augenstein614-692-8523",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 22.0,
+      "median_days": 17.5,
+      "fastest_award": 15,
+      "slowest_award": 36,
+      "awarded": 6
+    },
+    {
+      "name": "Wayne Wright",
+      "email": null,
+      "agencies": [
+        "AGRICULTURE, DEPARTMENT OF"
       ],
       "avg_days": 22.0,
       "median_days": 22,
@@ -1663,10 +1687,10 @@
         "DEPT OF DEFENSE"
       ],
       "avg_days": 22.2,
-      "median_days": 21.0,
+      "median_days": 21,
       "fastest_award": 15,
       "slowest_award": 51,
-      "awarded": 182
+      "awarded": 175
     },
     {
       "name": "Mika, Andrew",
@@ -1678,42 +1702,6 @@
       "median_days": 22.5,
       "fastest_award": 21,
       "slowest_award": 24,
-      "awarded": 2
-    },
-    {
-      "name": "Wayne Wright",
-      "email": null,
-      "agencies": [
-        "AGRICULTURE, DEPARTMENT OF"
-      ],
-      "avg_days": 22.5,
-      "median_days": 22.5,
-      "fastest_award": 22,
-      "slowest_award": 23,
-      "awarded": 2
-    },
-    {
-      "name": "Rose, Keith",
-      "email": null,
-      "agencies": [
-        "INTERIOR, DEPARTMENT OF THE"
-      ],
-      "avg_days": 22.5,
-      "median_days": 22.5,
-      "fastest_award": 10,
-      "slowest_award": 35,
-      "awarded": 2
-    },
-    {
-      "name": "Timothy ReinbothDSN(392) 737-5844",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 22.5,
-      "median_days": 22.5,
-      "fastest_award": 22,
-      "slowest_award": 23,
       "awarded": 2
     },
     {
@@ -1734,11 +1722,11 @@
       "agencies": [
         "DEPT OF DEFENSE"
       ],
-      "avg_days": 22.9,
-      "median_days": 22.0,
+      "avg_days": 23.0,
+      "median_days": 22,
       "fastest_award": 16,
-      "slowest_award": 72,
-      "awarded": 190
+      "slowest_award": 55,
+      "awarded": 173
     },
     {
       "name": "Arnold, Dana",
@@ -1813,15 +1801,27 @@
       "awarded": 1
     },
     {
-      "name": "Williams, Rachel",
+      "name": "Jonathan Flowers614-692-5513",
       "email": null,
       "agencies": [
-        "INTERIOR, DEPARTMENT OF THE"
+        "DEPT OF DEFENSE"
       ],
       "avg_days": 23.0,
       "median_days": 23.0,
       "fastest_award": 21,
       "slowest_award": 25,
+      "awarded": 2
+    },
+    {
+      "name": "Lily Calvert",
+      "email": null,
+      "agencies": [
+        "JUSTICE, DEPARTMENT OF"
+      ],
+      "avg_days": 23.0,
+      "median_days": 23.0,
+      "fastest_award": 22,
+      "slowest_award": 24,
       "awarded": 2
     },
     {
@@ -1837,10 +1837,10 @@
       "awarded": 1
     },
     {
-      "name": "Kennetta Boone",
+      "name": "Ryan Scott",
       "email": null,
       "agencies": [
-        "AGRICULTURE, DEPARTMENT OF"
+        "DEPT OF DEFENSE"
       ],
       "avg_days": 23.0,
       "median_days": 23,
@@ -1858,42 +1858,6 @@
       "median_days": 23.5,
       "fastest_award": 21,
       "slowest_award": 26,
-      "awarded": 2
-    },
-    {
-      "name": "John H. Shultzaberger",
-      "email": null,
-      "agencies": [
-        "VETERANS AFFAIRS, DEPARTMENT OF"
-      ],
-      "avg_days": 23.5,
-      "median_days": 23.5,
-      "fastest_award": 14,
-      "slowest_award": 33,
-      "awarded": 2
-    },
-    {
-      "name": "Murray, Nicholas",
-      "email": null,
-      "agencies": [
-        "INTERIOR, DEPARTMENT OF THE"
-      ],
-      "avg_days": 23.7,
-      "median_days": 22,
-      "fastest_award": 22,
-      "slowest_award": 27,
-      "awarded": 3
-    },
-    {
-      "name": "Sung, Robert",
-      "email": null,
-      "agencies": [
-        "INTERIOR, DEPARTMENT OF THE"
-      ],
-      "avg_days": 24.0,
-      "median_days": 24.0,
-      "fastest_award": 11,
-      "slowest_award": 37,
       "awarded": 2
     },
     {
@@ -1933,6 +1897,18 @@
       "awarded": 1
     },
     {
+      "name": "Matthew StankoDSN312-850-7245",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 24.0,
+      "median_days": 24.0,
+      "fastest_award": 7,
+      "slowest_award": 41,
+      "awarded": 2
+    },
+    {
       "name": "James Wolfingbarger614-980-5023",
       "email": null,
       "agencies": [
@@ -1957,6 +1933,18 @@
       "awarded": 3
     },
     {
+      "name": "Joseph Paulin(614)693-5077",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 24.0,
+      "median_days": 24.0,
+      "fastest_award": 21,
+      "slowest_award": 27,
+      "awarded": 2
+    },
+    {
       "name": "JASON RAINES6146935101",
       "email": null,
       "agencies": [
@@ -1969,28 +1957,16 @@
       "awarded": 1
     },
     {
-      "name": "Hicks, Celinda",
-      "email": null,
-      "agencies": [
-        "INTERIOR, DEPARTMENT OF THE"
-      ],
-      "avg_days": 24.0,
-      "median_days": 24,
-      "fastest_award": 24,
-      "slowest_award": 24,
-      "awarded": 1
-    },
-    {
-      "name": "Jeremy W. Greenstein",
+      "name": "Jennifer Luczkowski215-737-7849",
       "email": null,
       "agencies": [
         "DEPT OF DEFENSE"
       ],
-      "avg_days": 24.0,
-      "median_days": 24,
-      "fastest_award": 24,
-      "slowest_award": 24,
-      "awarded": 1
+      "avg_days": 24.1,
+      "median_days": 22,
+      "fastest_award": 5,
+      "slowest_award": 54,
+      "awarded": 15
     },
     {
       "name": "Eric Deck614-692-3599",
@@ -2005,28 +1981,28 @@
       "awarded": 6
     },
     {
-      "name": "BRANDON WICKER2157378600",
+      "name": "Matthew Lepak614-693-0247",
       "email": null,
       "agencies": [
         "DEPT OF DEFENSE"
+      ],
+      "avg_days": 24.3,
+      "median_days": 25,
+      "fastest_award": 23,
+      "slowest_award": 25,
+      "awarded": 3
+    },
+    {
+      "name": "Justin Martinek",
+      "email": null,
+      "agencies": [
+        "AGRICULTURE, DEPARTMENT OF"
       ],
       "avg_days": 24.5,
       "median_days": 24.5,
-      "fastest_award": 20,
-      "slowest_award": 29,
+      "fastest_award": 24,
+      "slowest_award": 25,
       "awarded": 2
-    },
-    {
-      "name": "Shirley LagatXXX-XXX-XXXX",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 24.7,
-      "median_days": 19,
-      "fastest_award": 19,
-      "slowest_award": 39,
-      "awarded": 7
     },
     {
       "name": "Derrick ShepherdDSN312-444-0821",
@@ -2041,13 +2017,25 @@
       "awarded": 5
     },
     {
+      "name": "Soni Randolph804-774-6679",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 25.0,
+      "median_days": 25,
+      "fastest_award": 25,
+      "slowest_award": 25,
+      "awarded": 1
+    },
+    {
       "name": "Colleen Ippoliti445-737-8291",
       "email": null,
       "agencies": [
         "DEPT OF DEFENSE"
       ],
-      "avg_days": 24.8,
-      "median_days": 24.0,
+      "avg_days": 25.0,
+      "median_days": 24.5,
       "fastest_award": 20,
       "slowest_award": 31,
       "awarded": 4
@@ -2069,18 +2057,6 @@
       "email": null,
       "agencies": [
         "GENERAL SERVICES ADMINISTRATION"
-      ],
-      "avg_days": 25.0,
-      "median_days": 25,
-      "fastest_award": 25,
-      "slowest_award": 25,
-      "awarded": 1
-    },
-    {
-      "name": "Justin Martinek",
-      "email": null,
-      "agencies": [
-        "AGRICULTURE, DEPARTMENT OF"
       ],
       "avg_days": 25.0,
       "median_days": 25,
@@ -2113,6 +2089,18 @@
       "awarded": 1
     },
     {
+      "name": "Williams, Rachel",
+      "email": null,
+      "agencies": [
+        "INTERIOR, DEPARTMENT OF THE"
+      ],
+      "avg_days": 25.0,
+      "median_days": 25,
+      "fastest_award": 25,
+      "slowest_award": 25,
+      "awarded": 1
+    },
+    {
       "name": "Krystle Jones",
       "email": null,
       "agencies": [
@@ -2123,30 +2111,6 @@
       "fastest_award": 25,
       "slowest_award": 25,
       "awarded": 1
-    },
-    {
-      "name": "Malinda Hargrove-MillerDSN 445-737-9339",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 25.0,
-      "median_days": 25,
-      "fastest_award": 25,
-      "slowest_award": 25,
-      "awarded": 1
-    },
-    {
-      "name": "Jennifer Luczkowski215-737-7849",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 25.2,
-      "median_days": 26,
-      "fastest_award": 5,
-      "slowest_award": 54,
-      "awarded": 13
     },
     {
       "name": "McCargo, Teihahnietuh",
@@ -2201,6 +2165,18 @@
       "email": null,
       "agencies": [
         "INTERIOR, DEPARTMENT OF THE"
+      ],
+      "avg_days": 26.0,
+      "median_days": 26,
+      "fastest_award": 26,
+      "slowest_award": 26,
+      "awarded": 1
+    },
+    {
+      "name": "Patrick Sikorski445-737-2604",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
       ],
       "avg_days": 26.0,
       "median_days": 26,
@@ -2293,6 +2269,18 @@
       "awarded": 1
     },
     {
+      "name": "Don Trachtman(445)737-3989",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 26.2,
+      "median_days": 22.5,
+      "fastest_award": 14,
+      "slowest_award": 61,
+      "awarded": 10
+    },
+    {
       "name": "Parsons, Thomas",
       "email": null,
       "agencies": [
@@ -2370,11 +2358,24 @@
       "agencies": [
         "DEPT OF DEFENSE"
       ],
-      "avg_days": 26.7,
-      "median_days": 28,
+      "avg_days": 26.6,
+      "median_days": 23.0,
       "fastest_award": 11,
       "slowest_award": 55,
-      "awarded": 11
+      "awarded": 10
+    },
+    {
+      "name": "Unknown",
+      "email": null,
+      "agencies": [
+        "AGRICULTURE, DEPARTMENT OF",
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 26.7,
+      "median_days": 23.5,
+      "fastest_award": 11,
+      "slowest_award": 51,
+      "awarded": 6
     },
     {
       "name": "William Cain614-692-5347",
@@ -2389,18 +2390,6 @@
       "awarded": 4
     },
     {
-      "name": "Joseph Paulin(614)693-5077",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 26.8,
-      "median_days": 25.0,
-      "fastest_award": 21,
-      "slowest_award": 36,
-      "awarded": 4
-    },
-    {
       "name": "Jalon Lynch8047599420",
       "email": null,
       "agencies": [
@@ -2411,6 +2400,18 @@
       "fastest_award": 27,
       "slowest_award": 27,
       "awarded": 1
+    },
+    {
+      "name": "NYA CURRIE8042796982",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 27.0,
+      "median_days": 27.0,
+      "fastest_award": 25,
+      "slowest_award": 29,
+      "awarded": 2
     },
     {
       "name": "Benjamin Gross",
@@ -2497,6 +2498,18 @@
       "awarded": 1
     },
     {
+      "name": "Margaret King",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 27.0,
+      "median_days": 27,
+      "fastest_award": 27,
+      "slowest_award": 27,
+      "awarded": 1
+    },
+    {
       "name": "Shannon IRWINDSN312-850-6572",
       "email": null,
       "agencies": [
@@ -2522,6 +2535,18 @@
     },
     {
       "name": "Modjeski, Timothy",
+      "email": null,
+      "agencies": [
+        "INTERIOR, DEPARTMENT OF THE"
+      ],
+      "avg_days": 27.0,
+      "median_days": 27,
+      "fastest_award": 27,
+      "slowest_award": 27,
+      "awarded": 1
+    },
+    {
+      "name": "Murray, Nicholas",
       "email": null,
       "agencies": [
         "INTERIOR, DEPARTMENT OF THE"
@@ -2581,42 +2606,6 @@
       "awarded": 1
     },
     {
-      "name": "Angela Pearson",
-      "email": null,
-      "agencies": [
-        "AGRICULTURE, DEPARTMENT OF"
-      ],
-      "avg_days": 27.0,
-      "median_days": 27,
-      "fastest_award": 27,
-      "slowest_award": 27,
-      "awarded": 1
-    },
-    {
-      "name": "Ashley Leviege",
-      "email": null,
-      "agencies": [
-        "AGRICULTURE, DEPARTMENT OF"
-      ],
-      "avg_days": 27.0,
-      "median_days": 27,
-      "fastest_award": 27,
-      "slowest_award": 27,
-      "awarded": 1
-    },
-    {
-      "name": "Don Trachtman(445)737-3989",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 27.2,
-      "median_days": 23,
-      "fastest_award": 14,
-      "slowest_award": 61,
-      "awarded": 9
-    },
-    {
       "name": "Janice Dibuono215-737-7043",
       "email": null,
       "agencies": [
@@ -2627,6 +2616,30 @@
       "fastest_award": 20,
       "slowest_award": 34,
       "awarded": 6
+    },
+    {
+      "name": "Tracey Marcus455-737-5991",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 27.4,
+      "median_days": 30,
+      "fastest_award": 10,
+      "slowest_award": 47,
+      "awarded": 7
+    },
+    {
+      "name": "Jill Marchky6146939883",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 27.5,
+      "median_days": 27.0,
+      "fastest_award": 21,
+      "slowest_award": 35,
+      "awarded": 4
     },
     {
       "name": "Zachary, Jodi",
@@ -2761,6 +2774,18 @@
       "awarded": 1
     },
     {
+      "name": "Timothy Kitzinger215-737-9504",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 28.0,
+      "median_days": 28.0,
+      "fastest_award": 28,
+      "slowest_award": 28,
+      "awarded": 2
+    },
+    {
       "name": "Tara L. Wetli 817-304-4204 ; Diana Y. Gentry 817-850-8384",
       "email": null,
       "agencies": [
@@ -2845,30 +2870,6 @@
       "awarded": 1
     },
     {
-      "name": "Makena James",
-      "email": null,
-      "agencies": [
-        "VETERANS AFFAIRS, DEPARTMENT OF"
-      ],
-      "avg_days": 28.0,
-      "median_days": 28,
-      "fastest_award": 28,
-      "slowest_award": 28,
-      "awarded": 1
-    },
-    {
-      "name": "Rajesh Sehgal614-692-0139",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 28.0,
-      "median_days": 28,
-      "fastest_award": 28,
-      "slowest_award": 28,
-      "awarded": 1
-    },
-    {
       "name": "Mary Miller614 693 2874",
       "email": null,
       "agencies": [
@@ -2893,18 +2894,6 @@
       "awarded": 4
     },
     {
-      "name": "Huy Nguyen445-737-6913",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 28.5,
-      "median_days": 26.0,
-      "fastest_award": 20,
-      "slowest_award": 42,
-      "awarded": 4
-    },
-    {
       "name": "Leslea Newlon445-737-9902",
       "email": null,
       "agencies": [
@@ -2917,16 +2906,16 @@
       "awarded": 2
     },
     {
-      "name": "Matthew Lepak614-693-0247",
+      "name": "ZANE ZWAYER6146930059",
       "email": null,
       "agencies": [
         "DEPT OF DEFENSE"
       ],
-      "avg_days": 28.8,
-      "median_days": 25.0,
-      "fastest_award": 23,
-      "slowest_award": 42,
-      "awarded": 4
+      "avg_days": 29.0,
+      "median_days": 26,
+      "fastest_award": 26,
+      "slowest_award": 35,
+      "awarded": 3
     },
     {
       "name": "Blunt Mayes, Tori",
@@ -3013,52 +3002,16 @@
       "awarded": 1
     },
     {
-      "name": "Jennifer Busbea",
-      "email": null,
-      "agencies": [
-        "AGRICULTURE, DEPARTMENT OF"
-      ],
-      "avg_days": 29.0,
-      "median_days": 29,
-      "fastest_award": 29,
-      "slowest_award": 29,
-      "awarded": 1
-    },
-    {
-      "name": "Amber Wells445-737-7014",
+      "name": "Luis Marrero215-737-2362",
       "email": null,
       "agencies": [
         "DEPT OF DEFENSE"
       ],
-      "avg_days": 29.0,
-      "median_days": 29,
-      "fastest_award": 29,
-      "slowest_award": 29,
-      "awarded": 1
-    },
-    {
-      "name": "Brittany Richardson",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 29.0,
-      "median_days": 29,
-      "fastest_award": 29,
-      "slowest_award": 29,
-      "awarded": 1
-    },
-    {
-      "name": "Kizzy Brinkley445-737-5622",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 29.0,
-      "median_days": 29,
-      "fastest_award": 29,
-      "slowest_award": 29,
-      "awarded": 1
+      "avg_days": 29.2,
+      "median_days": 27.5,
+      "fastest_award": 19,
+      "slowest_award": 43,
+      "awarded": 4
     },
     {
       "name": "Martinez, Crystal",
@@ -3073,6 +3026,42 @@
       "awarded": 3
     },
     {
+      "name": "Chiara Ransome2157372740",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 29.5,
+      "median_days": 30.0,
+      "fastest_award": 22,
+      "slowest_award": 36,
+      "awarded": 6
+    },
+    {
+      "name": "Brandon ArmstrongDSN312-850-3127",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 29.5,
+      "median_days": 27.0,
+      "fastest_award": 13,
+      "slowest_award": 51,
+      "awarded": 4
+    },
+    {
+      "name": "Robert Guerra445-737-8873",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 29.5,
+      "median_days": 29.5,
+      "fastest_award": 23,
+      "slowest_award": 36,
+      "awarded": 2
+    },
+    {
       "name": "JEFFREY HECK614-813-8826",
       "email": null,
       "agencies": [
@@ -3083,31 +3072,6 @@
       "fastest_award": 23,
       "slowest_award": 34,
       "awarded": 5
-    },
-    {
-      "name": "Unknown",
-      "email": null,
-      "agencies": [
-        "AGRICULTURE, DEPARTMENT OF",
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 29.9,
-      "median_days": 26,
-      "fastest_award": 11,
-      "slowest_award": 51,
-      "awarded": 7
-    },
-    {
-      "name": "Murphy, Brittney",
-      "email": null,
-      "agencies": [
-        "INTERIOR, DEPARTMENT OF THE"
-      ],
-      "avg_days": 30.0,
-      "median_days": 30,
-      "fastest_award": 30,
-      "slowest_award": 30,
-      "awarded": 1
     },
     {
       "name": "Ricardo RobinsonDSN312-695-6541",
@@ -3218,30 +3182,6 @@
       "awarded": 1
     },
     {
-      "name": "RICKIE ALLEN(614) 693-4328",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 30.2,
-      "median_days": 28,
-      "fastest_award": 20,
-      "slowest_award": 54,
-      "awarded": 5
-    },
-    {
-      "name": "Tracey Marcus455-737-5991",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 30.5,
-      "median_days": 31.0,
-      "fastest_award": 10,
-      "slowest_award": 52,
-      "awarded": 8
-    },
-    {
       "name": "ANGELA CHAPPELL3304155761",
       "email": null,
       "agencies": [
@@ -3278,14 +3218,14 @@
       "awarded": 11
     },
     {
-      "name": "Emily Andersen8047739618",
+      "name": "Huy Nguyen445-737-6913",
       "email": null,
       "agencies": [
         "DEPT OF DEFENSE"
       ],
       "avg_days": 30.7,
-      "median_days": 27,
-      "fastest_award": 23,
+      "median_days": 30,
+      "fastest_award": 20,
       "slowest_award": 42,
       "awarded": 3
     },
@@ -3386,18 +3326,6 @@
       "awarded": 1
     },
     {
-      "name": "KENDALL, CHARLES M.",
-      "email": null,
-      "agencies": [
-        "COMMERCE, DEPARTMENT OF"
-      ],
-      "avg_days": 31.0,
-      "median_days": 31,
-      "fastest_award": 31,
-      "slowest_award": 31,
-      "awarded": 1
-    },
-    {
       "name": "Adam HintonDSN(392) 392-2512",
       "email": null,
       "agencies": [
@@ -3407,6 +3335,18 @@
       "median_days": 34,
       "fastest_award": 26,
       "slowest_award": 34,
+      "awarded": 3
+    },
+    {
+      "name": "RICKIE ALLEN(614) 693-4328",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 31.7,
+      "median_days": 21,
+      "fastest_award": 20,
+      "slowest_award": 54,
       "awarded": 3
     },
     {
@@ -3482,18 +3422,6 @@
       "awarded": 1
     },
     {
-      "name": "ZANE ZWAYER6146930059",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 32.2,
-      "median_days": 30.5,
-      "fastest_award": 26,
-      "slowest_award": 42,
-      "awarded": 4
-    },
-    {
       "name": "Blake Tushar6146712585",
       "email": null,
       "agencies": [
@@ -3518,16 +3446,16 @@
       "awarded": 3
     },
     {
-      "name": "Chiara Ransome2157372740",
+      "name": "Deborah Ferrin(614 693-1652",
       "email": null,
       "agencies": [
         "DEPT OF DEFENSE"
       ],
-      "avg_days": 32.7,
-      "median_days": 33,
-      "fastest_award": 22,
-      "slowest_award": 52,
-      "awarded": 7
+      "avg_days": 32.4,
+      "median_days": 28.0,
+      "fastest_award": 18,
+      "slowest_award": 54,
+      "awarded": 14
     },
     {
       "name": "Mary RowleyDSN(392)693-3041",
@@ -3710,18 +3638,6 @@
       "awarded": 1
     },
     {
-      "name": "Lily Calvert",
-      "email": null,
-      "agencies": [
-        "JUSTICE, DEPARTMENT OF"
-      ],
-      "avg_days": 33.3,
-      "median_days": 24,
-      "fastest_award": 22,
-      "slowest_award": 54,
-      "awarded": 3
-    },
-    {
       "name": "Matthew Diefes8042793869",
       "email": null,
       "agencies": [
@@ -3794,18 +3710,6 @@
       "awarded": 2
     },
     {
-      "name": "Jill Marchky6146939883",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 33.6,
-      "median_days": 28,
-      "fastest_award": 21,
-      "slowest_award": 58,
-      "awarded": 5
-    },
-    {
       "name": "Benita Umoren614-692-7521",
       "email": null,
       "agencies": [
@@ -3816,18 +3720,6 @@
       "fastest_award": 21,
       "slowest_award": 51,
       "awarded": 3
-    },
-    {
-      "name": "Deborah Ferrin(614 693-1652",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 33.9,
-      "median_days": 30,
-      "fastest_award": 18,
-      "slowest_award": 56,
-      "awarded": 15
     },
     {
       "name": "Elizabeth Trimm",
@@ -3842,6 +3734,18 @@
       "awarded": 2
     },
     {
+      "name": "CHANCE NICKLAUS6147382402",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 34.0,
+      "median_days": 34.0,
+      "fastest_award": 27,
+      "slowest_award": 41,
+      "awarded": 2
+    },
+    {
       "name": "HALEY Clark6145202050",
       "email": null,
       "agencies": [
@@ -3852,18 +3756,6 @@
       "fastest_award": 34,
       "slowest_award": 34,
       "awarded": 1
-    },
-    {
-      "name": "Olusola Emmanuel4457373766",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 34.0,
-      "median_days": 34.0,
-      "fastest_award": 32,
-      "slowest_award": 36,
-      "awarded": 2
     },
     {
       "name": "Ronald Martin",
@@ -3888,18 +3780,6 @@
       "fastest_award": 34,
       "slowest_award": 34,
       "awarded": 1
-    },
-    {
-      "name": "Patrick Sikorski445-737-2604",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 34.0,
-      "median_days": 34.0,
-      "fastest_award": 26,
-      "slowest_award": 42,
-      "awarded": 2
     },
     {
       "name": "Dorothy Doughty",
@@ -3986,18 +3866,6 @@
       "awarded": 1
     },
     {
-      "name": "Sarah Fry",
-      "email": null,
-      "agencies": [
-        "VETERANS AFFAIRS, DEPARTMENT OF"
-      ],
-      "avg_days": 34.0,
-      "median_days": 34,
-      "fastest_award": 34,
-      "slowest_award": 34,
-      "awarded": 1
-    },
-    {
       "name": "Barbara HoffmannDSN(392)693-2569",
       "email": null,
       "agencies": [
@@ -4007,6 +3875,18 @@
       "median_days": 34.5,
       "fastest_award": 19,
       "slowest_award": 50,
+      "awarded": 2
+    },
+    {
+      "name": "Emily Andersen8047739618",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 34.5,
+      "median_days": 34.5,
+      "fastest_award": 27,
+      "slowest_award": 42,
       "awarded": 2
     },
     {
@@ -4068,30 +3948,6 @@
       "fastest_award": 35,
       "slowest_award": 35,
       "awarded": 1
-    },
-    {
-      "name": "Wendy Penn",
-      "email": null,
-      "agencies": [
-        "AGRICULTURE, DEPARTMENT OF"
-      ],
-      "avg_days": 35.0,
-      "median_days": 35.0,
-      "fastest_award": 34,
-      "slowest_award": 36,
-      "awarded": 2
-    },
-    {
-      "name": "Theresa Richardson4457379813",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 35.0,
-      "median_days": 35.0,
-      "fastest_award": 15,
-      "slowest_award": 55,
-      "awarded": 2
     },
     {
       "name": "Christopher Blackburn",
@@ -4190,16 +4046,16 @@
       "awarded": 1
     },
     {
-      "name": "Matthew StankoDSN312-850-7245",
+      "name": "Rodriguez, Veronica",
       "email": null,
       "agencies": [
-        "DEPT OF DEFENSE"
+        "INTERIOR, DEPARTMENT OF THE"
       ],
-      "avg_days": 35.3,
-      "median_days": 41,
-      "fastest_award": 7,
-      "slowest_award": 58,
-      "awarded": 3
+      "avg_days": 35.0,
+      "median_days": 35,
+      "fastest_award": 35,
+      "slowest_award": 35,
+      "awarded": 1
     },
     {
       "name": "Jonathan Kilgore",
@@ -4238,16 +4094,28 @@
       "awarded": 2
     },
     {
-      "name": "Jennifer Hopkins(614)693-9092",
+      "name": "Frances Wilhelm445-737-6690",
       "email": null,
       "agencies": [
         "DEPT OF DEFENSE"
       ],
       "avg_days": 35.8,
-      "median_days": 35,
-      "fastest_award": 25,
-      "slowest_award": 45,
+      "median_days": 33,
+      "fastest_award": 31,
+      "slowest_award": 44,
       "awarded": 5
+    },
+    {
+      "name": "Andrew Bracken(614) 693-4910",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 35.8,
+      "median_days": 34.5,
+      "fastest_award": 17,
+      "slowest_award": 53,
+      "awarded": 8
     },
     {
       "name": "Annette PruettDSN312-695-6497",
@@ -4272,6 +4140,18 @@
       "fastest_award": 28,
       "slowest_award": 44,
       "awarded": 2
+    },
+    {
+      "name": "Olusola Emmanuel4457373766",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 36.0,
+      "median_days": 36,
+      "fastest_award": 36,
+      "slowest_award": 36,
+      "awarded": 1
     },
     {
       "name": "Courtney Minor279-5388",
@@ -4314,6 +4194,18 @@
       "email": null,
       "agencies": [
         "DEPT OF DEFENSE"
+      ],
+      "avg_days": 36.0,
+      "median_days": 36,
+      "fastest_award": 36,
+      "slowest_award": 36,
+      "awarded": 1
+    },
+    {
+      "name": "Wendy Penn",
+      "email": null,
+      "agencies": [
+        "AGRICULTURE, DEPARTMENT OF"
       ],
       "avg_days": 36.0,
       "median_days": 36,
@@ -4406,18 +4298,6 @@
       "awarded": 1
     },
     {
-      "name": "Robert Guerra445-737-8873",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 36.0,
-      "median_days": 36,
-      "fastest_award": 36,
-      "slowest_award": 36,
-      "awarded": 1
-    },
-    {
       "name": "TYLER HOLMES, ZIB6, PHONE (717)550-3106, EMAIL TYLER.HOLMES@DLA.MIL",
       "email": null,
       "agencies": [
@@ -4442,10 +4322,10 @@
       "awarded": 1
     },
     {
-      "name": "John Fricker215-737-5699",
+      "name": "Julia Kline",
       "email": null,
       "agencies": [
-        "DEPT OF DEFENSE"
+        "HOMELAND SECURITY, DEPARTMENT OF"
       ],
       "avg_days": 36.0,
       "median_days": 36,
@@ -4459,11 +4339,47 @@
       "agencies": [
         "DEPT OF DEFENSE"
       ],
-      "avg_days": 36.5,
-      "median_days": 33.5,
+      "avg_days": 36.3,
+      "median_days": 30,
       "fastest_award": 28,
       "slowest_award": 51,
-      "awarded": 4
+      "awarded": 3
+    },
+    {
+      "name": "Jennifer Hopkins(614)693-9092",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 36.3,
+      "median_days": 35,
+      "fastest_award": 32,
+      "slowest_award": 42,
+      "awarded": 3
+    },
+    {
+      "name": "Rebecca Merz1-614-692-1724",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 36.5,
+      "median_days": 42,
+      "fastest_award": 19,
+      "slowest_award": 55,
+      "awarded": 23
+    },
+    {
+      "name": "Amber Dye614-692-5523",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 36.5,
+      "median_days": 36.5,
+      "fastest_award": 24,
+      "slowest_award": 49,
+      "awarded": 2
     },
     {
       "name": "Bessie Brown804-279-4803",
@@ -4476,18 +4392,6 @@
       "fastest_award": 27,
       "slowest_award": 42,
       "awarded": 3
-    },
-    {
-      "name": "Andrew Bracken(614) 693-4910",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 36.8,
-      "median_days": 35,
-      "fastest_award": 17,
-      "slowest_award": 53,
-      "awarded": 9
     },
     {
       "name": "Bryan Fair614-693-0125",
@@ -4526,16 +4430,16 @@
       "awarded": 1
     },
     {
-      "name": "Tiffany Merritt614 693 2846",
+      "name": "Holly Simmons804-279-2999",
       "email": null,
       "agencies": [
         "DEPT OF DEFENSE"
       ],
       "avg_days": 37.0,
-      "median_days": 37.0,
-      "fastest_award": 18,
-      "slowest_award": 56,
-      "awarded": 2
+      "median_days": 37,
+      "fastest_award": 37,
+      "slowest_award": 37,
+      "awarded": 1
     },
     {
       "name": "TOPASNA, CARINA",
@@ -4586,64 +4490,16 @@
       "awarded": 1
     },
     {
-      "name": "Gretchen Figgins",
+      "name": "Jared Machgan",
       "email": null,
       "agencies": [
-        "DEPT OF DEFENSE"
+        "AGRICULTURE, DEPARTMENT OF"
       ],
-      "avg_days": 37.0,
-      "median_days": 37.0,
-      "fastest_award": 37,
-      "slowest_award": 37,
-      "awarded": 2
-    },
-    {
-      "name": "Frances Wilhelm445-737-6690",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 37.2,
-      "median_days": 36.5,
-      "fastest_award": 31,
-      "slowest_award": 44,
-      "awarded": 6
-    },
-    {
-      "name": "Dustin Smith2025108223",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 37.5,
-      "median_days": 37.5,
-      "fastest_award": 28,
-      "slowest_award": 47,
-      "awarded": 2
-    },
-    {
-      "name": "Brandon ArmstrongDSN312-850-3127",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 37.6,
-      "median_days": 29,
-      "fastest_award": 13,
-      "slowest_award": 70,
-      "awarded": 5
-    },
-    {
-      "name": "Rebecca Merz1-614-692-1724",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 37.9,
-      "median_days": 43.0,
-      "fastest_award": 19,
-      "slowest_award": 70,
-      "awarded": 24
+      "avg_days": 37.7,
+      "median_days": 35,
+      "fastest_award": 22,
+      "slowest_award": 56,
+      "awarded": 3
     },
     {
       "name": "Michael Kneble",
@@ -4718,16 +4574,16 @@
       "awarded": 1
     },
     {
-      "name": "Stuart Dowdy4457376410",
+      "name": "Nicholas WallsDSN695-6847",
       "email": null,
       "agencies": [
         "DEPT OF DEFENSE"
       ],
-      "avg_days": 38.2,
-      "median_days": 43,
-      "fastest_award": 21,
-      "slowest_award": 56,
-      "awarded": 5
+      "avg_days": 38.7,
+      "median_days": 42,
+      "fastest_award": 26,
+      "slowest_award": 50,
+      "awarded": 7
     },
     {
       "name": "Paula Mcclary614-692-0417",
@@ -4740,6 +4596,18 @@
       "fastest_award": 39,
       "slowest_award": 39,
       "awarded": 1
+    },
+    {
+      "name": "Cerrie BarnesDSN312-850-9392",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 39.0,
+      "median_days": 40.0,
+      "fastest_award": 33,
+      "slowest_award": 43,
+      "awarded": 4
     },
     {
       "name": "Benjamin Coleman445-737-7894",
@@ -4764,18 +4632,6 @@
       "fastest_award": 39,
       "slowest_award": 39,
       "awarded": 1
-    },
-    {
-      "name": "Jared Machgan",
-      "email": null,
-      "agencies": [
-        "AGRICULTURE, DEPARTMENT OF"
-      ],
-      "avg_days": 39.0,
-      "median_days": 35,
-      "fastest_award": 22,
-      "slowest_award": 56,
-      "awarded": 5
     },
     {
       "name": "Karry Dohlen6146931872",
@@ -4862,30 +4718,6 @@
       "awarded": 6
     },
     {
-      "name": "Amy Plymale-Hillis614-692-8565",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 39.5,
-      "median_days": 39.5,
-      "fastest_award": 30,
-      "slowest_award": 49,
-      "awarded": 2
-    },
-    {
-      "name": "Luis Marrero215-737-2362",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 39.5,
-      "median_days": 39.5,
-      "fastest_award": 36,
-      "slowest_award": 43,
-      "awarded": 2
-    },
-    {
       "name": "Brown, Khalilah",
       "email": null,
       "agencies": [
@@ -4895,18 +4727,6 @@
       "median_days": 45,
       "fastest_award": 21,
       "slowest_award": 53,
-      "awarded": 3
-    },
-    {
-      "name": "Timothy Kitzinger215-737-9504",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 39.7,
-      "median_days": 28,
-      "fastest_award": 28,
-      "slowest_award": 63,
       "awarded": 3
     },
     {
@@ -5126,28 +4946,16 @@
       "awarded": 1
     },
     {
-      "name": "Victor Oliveros",
+      "name": "Bolarinwa Adeleye614-692-9273",
       "email": null,
       "agencies": [
-        "VETERANS AFFAIRS, DEPARTMENT OF"
+        "DEPT OF DEFENSE"
       ],
       "avg_days": 41.0,
       "median_days": 41,
       "fastest_award": 41,
       "slowest_award": 41,
       "awarded": 1
-    },
-    {
-      "name": "NYA CURRIE8042796982",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 41.2,
-      "median_days": 34.0,
-      "fastest_award": 25,
-      "slowest_award": 72,
-      "awarded": 4
     },
     {
       "name": "Matthew Curry614-692-3059",
@@ -5208,6 +5016,18 @@
       "fastest_award": 42,
       "slowest_award": 42,
       "awarded": 1
+    },
+    {
+      "name": "Amy Plymale-Hillis614-692-8565",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 42.0,
+      "median_days": 47,
+      "fastest_award": 30,
+      "slowest_award": 49,
+      "awarded": 3
     },
     {
       "name": "Salas, Tavis",
@@ -5318,6 +5138,18 @@
       "awarded": 1
     },
     {
+      "name": "ZACHARY R. MORRILL, N744.10, PHONE (717)605-1552, EMAIL ZACHARY.R.MORRILL.CIV@US.NAVY.MIL",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 42.0,
+      "median_days": 42,
+      "fastest_award": 42,
+      "slowest_award": 42,
+      "awarded": 1
+    },
+    {
       "name": "Warcewicz, Ashley",
       "email": null,
       "agencies": [
@@ -5330,16 +5162,16 @@
       "awarded": 3
     },
     {
-      "name": "Margaret King",
+      "name": "Stuart Dowdy4457376410",
       "email": null,
       "agencies": [
         "DEPT OF DEFENSE"
       ],
-      "avg_days": 42.5,
-      "median_days": 42.5,
-      "fastest_award": 27,
-      "slowest_award": 58,
-      "awarded": 2
+      "avg_days": 42.3,
+      "median_days": 50,
+      "fastest_award": 21,
+      "slowest_award": 56,
+      "awarded": 3
     },
     {
       "name": "COURTNEY BOWERSOCK6146939970",
@@ -5347,35 +5179,11 @@
       "agencies": [
         "DEPT OF DEFENSE"
       ],
-      "avg_days": 42.6,
-      "median_days": 41.5,
+      "avg_days": 42.7,
+      "median_days": 42,
       "fastest_award": 33,
       "slowest_award": 57,
-      "awarded": 14
-    },
-    {
-      "name": "Marco Rollo2157370948",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 42.7,
-      "median_days": 49,
-      "fastest_award": 30,
-      "slowest_award": 49,
-      "awarded": 3
-    },
-    {
-      "name": "Nicholas WallsDSN695-6847",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 42.8,
-      "median_days": 43.5,
-      "fastest_award": 26,
-      "slowest_award": 71,
-      "awarded": 8
+      "awarded": 15
     },
     {
       "name": "James Lobb",
@@ -5462,30 +5270,6 @@
       "awarded": 1
     },
     {
-      "name": "Bolarinwa Adeleye614-692-9273",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 43.0,
-      "median_days": 43.0,
-      "fastest_award": 41,
-      "slowest_award": 45,
-      "awarded": 2
-    },
-    {
-      "name": "EDWARD ARAGON6146930135",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 43.0,
-      "median_days": 43,
-      "fastest_award": 43,
-      "slowest_award": 43,
-      "awarded": 3
-    },
-    {
       "name": "Douglas Jones445-737-1886",
       "email": null,
       "agencies": [
@@ -5503,11 +5287,11 @@
       "agencies": [
         "DEPT OF DEFENSE"
       ],
-      "avg_days": 43.7,
+      "avg_days": 43.4,
       "median_days": 43.0,
       "fastest_award": 29,
       "slowest_award": 50,
-      "awarded": 32
+      "awarded": 28
     },
     {
       "name": "Jennell Christofaro",
@@ -5594,16 +5378,28 @@
       "awarded": 1
     },
     {
-      "name": "Heinrick Alfman(614) 693-1030",
+      "name": "EDWARD ARAGON6146930135",
       "email": null,
       "agencies": [
         "DEPT OF DEFENSE"
       ],
       "avg_days": 44.0,
-      "median_days": 39,
-      "fastest_award": 23,
-      "slowest_award": 70,
+      "median_days": 44,
+      "fastest_award": 44,
+      "slowest_award": 44,
       "awarded": 3
+    },
+    {
+      "name": "Breanna Huff",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 44.0,
+      "median_days": 44,
+      "fastest_award": 44,
+      "slowest_award": 44,
+      "awarded": 1
     },
     {
       "name": "Jennifer Chavez614-692-8590",
@@ -5616,30 +5412,6 @@
       "fastest_award": 22,
       "slowest_award": 57,
       "awarded": 10
-    },
-    {
-      "name": "Cerrie BarnesDSN312-850-9392",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 44.2,
-      "median_days": 41,
-      "fastest_award": 33,
-      "slowest_award": 65,
-      "awarded": 5
-    },
-    {
-      "name": "Tara Halter614-692-9227",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 44.3,
-      "median_days": 48,
-      "fastest_award": 25,
-      "slowest_award": 60,
-      "awarded": 3
     },
     {
       "name": "Nazanin Kreiner",
@@ -5726,6 +5498,18 @@
       "awarded": 1
     },
     {
+      "name": "Kee-sha Eskridge4457372180",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 46.0,
+      "median_days": 46,
+      "fastest_award": 46,
+      "slowest_award": 46,
+      "awarded": 1
+    },
+    {
       "name": "Brandy Coward8049710693",
       "email": null,
       "agencies": [
@@ -5762,6 +5546,18 @@
       "awarded": 1
     },
     {
+      "name": "Murphy, Brittney",
+      "email": null,
+      "agencies": [
+        "INTERIOR, DEPARTMENT OF THE"
+      ],
+      "avg_days": 46.5,
+      "median_days": 46.5,
+      "fastest_award": 30,
+      "slowest_award": 63,
+      "awarded": 2
+    },
+    {
       "name": "Heather Gleason614-965-3168",
       "email": null,
       "agencies": [
@@ -5771,18 +5567,6 @@
       "median_days": 46.5,
       "fastest_award": 33,
       "slowest_award": 60,
-      "awarded": 2
-    },
-    {
-      "name": "Stephanie Cruz445-737-9731",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 46.5,
-      "median_days": 46.5,
-      "fastest_award": 44,
-      "slowest_award": 49,
       "awarded": 2
     },
     {
@@ -5846,16 +5630,16 @@
       "awarded": 1
     },
     {
-      "name": "Amber Dye614-692-5523",
+      "name": "Dustin Smith2025108223",
       "email": null,
       "agencies": [
         "DEPT OF DEFENSE"
       ],
-      "avg_days": 47.7,
-      "median_days": 49,
-      "fastest_award": 24,
-      "slowest_award": 70,
-      "awarded": 3
+      "avg_days": 47.0,
+      "median_days": 47,
+      "fastest_award": 47,
+      "slowest_award": 47,
+      "awarded": 1
     },
     {
       "name": "Oslund, Natalie",
@@ -5948,10 +5732,22 @@
         "DEPT OF DEFENSE"
       ],
       "avg_days": 48.0,
+      "median_days": 48.0,
+      "fastest_award": 48,
+      "slowest_award": 48,
+      "awarded": 2
+    },
+    {
+      "name": "KAREN RANDOLPH445-737-7065",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 48.0,
       "median_days": 48,
       "fastest_award": 48,
       "slowest_award": 48,
-      "awarded": 3
+      "awarded": 1
     },
     {
       "name": "SHAMEKA EDWARDS445-737-2064",
@@ -6014,6 +5810,18 @@
       "awarded": 1
     },
     {
+      "name": "Tara Halter614-692-9227",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 48.0,
+      "median_days": 48,
+      "fastest_award": 48,
+      "slowest_award": 48,
+      "awarded": 1
+    },
+    {
       "name": "Anthony Marion",
       "email": null,
       "agencies": [
@@ -6024,18 +5832,6 @@
       "fastest_award": 48,
       "slowest_award": 48,
       "awarded": 1
-    },
-    {
-      "name": "CHANCE NICKLAUS6147382402",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 48.5,
-      "median_days": 48.5,
-      "fastest_award": 27,
-      "slowest_award": 70,
-      "awarded": 4
     },
     {
       "name": "Karie Kapise",
@@ -6122,78 +5918,6 @@
       "awarded": 1
     },
     {
-      "name": "Tiffany S. Jolly 817-585-2714",
-      "email": null,
-      "agencies": [
-        "GENERAL SERVICES ADMINISTRATION"
-      ],
-      "avg_days": 49.0,
-      "median_days": 49,
-      "fastest_award": 49,
-      "slowest_award": 49,
-      "awarded": 1
-    },
-    {
-      "name": "Kaisha C Brown 227-274-8945 ; Christina Graham 202-215-5190",
-      "email": null,
-      "agencies": [
-        "GENERAL SERVICES ADMINISTRATION"
-      ],
-      "avg_days": 49.0,
-      "median_days": 49,
-      "fastest_award": 49,
-      "slowest_award": 49,
-      "awarded": 1
-    },
-    {
-      "name": "Andrew Vela 956-391-8856 ; Ashley Stewart 919-223-6271",
-      "email": null,
-      "agencies": [
-        "GENERAL SERVICES ADMINISTRATION"
-      ],
-      "avg_days": 49.0,
-      "median_days": 49,
-      "fastest_award": 49,
-      "slowest_award": 49,
-      "awarded": 1
-    },
-    {
-      "name": "Jamila M. Buchanan 817-850-8164",
-      "email": null,
-      "agencies": [
-        "GENERAL SERVICES ADMINISTRATION"
-      ],
-      "avg_days": 49.0,
-      "median_days": 49,
-      "fastest_award": 49,
-      "slowest_award": 49,
-      "awarded": 1
-    },
-    {
-      "name": "Hannah Auer 817-850-5508 ; Ruth Roebuck 629-326-0695",
-      "email": null,
-      "agencies": [
-        "GENERAL SERVICES ADMINISTRATION"
-      ],
-      "avg_days": 49.0,
-      "median_days": 49,
-      "fastest_award": 49,
-      "slowest_award": 49,
-      "awarded": 1
-    },
-    {
-      "name": "KAREN RANDOLPH445-737-7065",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 49.5,
-      "median_days": 49.5,
-      "fastest_award": 48,
-      "slowest_award": 51,
-      "awarded": 2
-    },
-    {
       "name": "JOHN PRATHER",
       "email": null,
       "agencies": [
@@ -6242,18 +5966,6 @@
       "awarded": 1
     },
     {
-      "name": "ZACHARY R. MORRILL, N744.10, PHONE (717)605-1552, EMAIL ZACHARY.R.MORRILL.CIV@US.NAVY.MIL",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 50.0,
-      "median_days": 50.0,
-      "fastest_award": 42,
-      "slowest_award": 58,
-      "awarded": 2
-    },
-    {
       "name": "Danielle JILTONDSN312-850-4197",
       "email": null,
       "agencies": [
@@ -6290,6 +6002,54 @@
       "awarded": 1
     },
     {
+      "name": "David Hildebrand",
+      "email": null,
+      "agencies": [
+        "AGRICULTURE, DEPARTMENT OF"
+      ],
+      "avg_days": 50.0,
+      "median_days": 50,
+      "fastest_award": 50,
+      "slowest_award": 50,
+      "awarded": 1
+    },
+    {
+      "name": "Leanne K Chumley 251-284-6957",
+      "email": null,
+      "agencies": [
+        "GENERAL SERVICES ADMINISTRATION"
+      ],
+      "avg_days": 50.0,
+      "median_days": 50,
+      "fastest_award": 50,
+      "slowest_award": 50,
+      "awarded": 1
+    },
+    {
+      "name": "Solomon Porter 404-267-8063 ; Autumn Rain Ehlers 360-960-9812",
+      "email": null,
+      "agencies": [
+        "GENERAL SERVICES ADMINISTRATION"
+      ],
+      "avg_days": 50.0,
+      "median_days": 50,
+      "fastest_award": 50,
+      "slowest_award": 50,
+      "awarded": 1
+    },
+    {
+      "name": "Carrie Alexander 816-308-8990 ; Brandi Thornton 816-965-7899",
+      "email": null,
+      "agencies": [
+        "GENERAL SERVICES ADMINISTRATION"
+      ],
+      "avg_days": 50.0,
+      "median_days": 50,
+      "fastest_award": 50,
+      "slowest_award": 50,
+      "awarded": 1
+    },
+    {
       "name": "Rankin, Quinn",
       "email": null,
       "agencies": [
@@ -6299,6 +6059,18 @@
       "median_days": 50.5,
       "fastest_award": 46,
       "slowest_award": 55,
+      "awarded": 2
+    },
+    {
+      "name": "James Edington",
+      "email": null,
+      "agencies": [
+        "AGRICULTURE, DEPARTMENT OF"
+      ],
+      "avg_days": 50.5,
+      "median_days": 50.5,
+      "fastest_award": 44,
+      "slowest_award": 57,
       "awarded": 2
     },
     {
@@ -6338,10 +6110,10 @@
       "awarded": 1
     },
     {
-      "name": "Idalia Algarin",
+      "name": "Garrison Ball6146928861",
       "email": null,
       "agencies": [
-        "VETERANS AFFAIRS, DEPARTMENT OF"
+        "DEPT OF DEFENSE"
       ],
       "avg_days": 51.0,
       "median_days": 51,
@@ -6362,18 +6134,6 @@
       "awarded": 2
     },
     {
-      "name": "Holly Simmons804-279-2999",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 52.0,
-      "median_days": 52.0,
-      "fastest_award": 37,
-      "slowest_award": 67,
-      "awarded": 2
-    },
-    {
       "name": "Stacy M. Johnson",
       "email": null,
       "agencies": [
@@ -6384,6 +6144,18 @@
       "fastest_award": 52,
       "slowest_award": 52,
       "awarded": 1
+    },
+    {
+      "name": "Ranae M. Armstrong",
+      "email": null,
+      "agencies": [
+        "COMMERCE, DEPARTMENT OF"
+      ],
+      "avg_days": 52.5,
+      "median_days": 52.5,
+      "fastest_award": 48,
+      "slowest_award": 57,
+      "awarded": 2
     },
     {
       "name": "Bernadine Davis-Sheets6146923126",
@@ -6431,6 +6203,18 @@
       "median_days": 54,
       "fastest_award": 54,
       "slowest_award": 54,
+      "awarded": 1
+    },
+    {
+      "name": "Theresa Richardson4457379813",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 55.0,
+      "median_days": 55,
+      "fastest_award": 55,
+      "slowest_award": 55,
       "awarded": 1
     },
     {
@@ -6518,6 +6302,18 @@
       "awarded": 1
     },
     {
+      "name": "Desmond Forshey614-692-6154",
+      "email": null,
+      "agencies": [
+        "DEPT OF DEFENSE"
+      ],
+      "avg_days": 55.1,
+      "median_days": 57.0,
+      "fastest_award": 40,
+      "slowest_award": 64,
+      "awarded": 16
+    },
+    {
       "name": "Graham, Adam",
       "email": null,
       "agencies": [
@@ -6602,30 +6398,6 @@
       "awarded": 1
     },
     {
-      "name": "Christian Ray445-737-4881",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 56.0,
-      "median_days": 56.0,
-      "fastest_award": 56,
-      "slowest_award": 56,
-      "awarded": 2
-    },
-    {
-      "name": "Chong Hyon Kwon",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 56.0,
-      "median_days": 56,
-      "fastest_award": 56,
-      "slowest_award": 56,
-      "awarded": 1
-    },
-    {
       "name": "Dutcher, Joni",
       "email": null,
       "agencies": [
@@ -6650,18 +6422,6 @@
       "awarded": 2
     },
     {
-      "name": "James Edington",
-      "email": null,
-      "agencies": [
-        "AGRICULTURE, DEPARTMENT OF"
-      ],
-      "avg_days": 57.0,
-      "median_days": 57,
-      "fastest_award": 57,
-      "slowest_award": 57,
-      "awarded": 1
-    },
-    {
       "name": "Brandi Porche",
       "email": null,
       "agencies": [
@@ -6672,18 +6432,6 @@
       "fastest_award": 57,
       "slowest_award": 57,
       "awarded": 1
-    },
-    {
-      "name": "Kee-sha Eskridge4457372180",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 57.3,
-      "median_days": 63,
-      "fastest_award": 46,
-      "slowest_award": 63,
-      "awarded": 3
     },
     {
       "name": "Alexander Buchan",
@@ -6710,7 +6458,7 @@
       "awarded": 1
     },
     {
-      "name": "Brian Maxwell614-693-0362",
+      "name": "Anna Phillips",
       "email": null,
       "agencies": [
         "DEPT OF DEFENSE"
@@ -6720,18 +6468,6 @@
       "fastest_award": 58,
       "slowest_award": 58,
       "awarded": 1
-    },
-    {
-      "name": "Desmond Forshey614-692-6154",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 58.2,
-      "median_days": 63,
-      "fastest_award": 42,
-      "slowest_award": 64,
-      "awarded": 13
     },
     {
       "name": "Ahola, Roxana",
@@ -6746,40 +6482,16 @@
       "awarded": 1
     },
     {
-      "name": "McCabe, Brian",
+      "name": "Clifford S Harrison",
       "email": null,
       "agencies": [
-        "INTERIOR, DEPARTMENT OF THE"
-      ],
-      "avg_days": 59.0,
-      "median_days": 59,
-      "fastest_award": 59,
-      "slowest_award": 59,
-      "awarded": 1
-    },
-    {
-      "name": "Khalilah CANADA-ZERQUERA",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
+        "VETERANS AFFAIRS, DEPARTMENT OF"
       ],
       "avg_days": 60.0,
       "median_days": 60,
       "fastest_award": 60,
       "slowest_award": 60,
       "awarded": 1
-    },
-    {
-      "name": "Walker, Brandon",
-      "email": null,
-      "agencies": [
-        "INTERIOR, DEPARTMENT OF THE"
-      ],
-      "avg_days": 60.3,
-      "median_days": 65,
-      "fastest_award": 51,
-      "slowest_award": 65,
-      "awarded": 3
     },
     {
       "name": "JOSEPH LOPEZ",
@@ -6795,18 +6507,6 @@
     },
     {
       "name": "Latoya Green804-279-4985",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 61.0,
-      "median_days": 61,
-      "fastest_award": 61,
-      "slowest_award": 61,
-      "awarded": 1
-    },
-    {
-      "name": "Virginia Boyanton",
       "email": null,
       "agencies": [
         "DEPT OF DEFENSE"
@@ -6878,31 +6578,19 @@
       "awarded": 2
     },
     {
-      "name": "Dylan Hankins",
-      "email": null,
-      "agencies": [
-        "JUSTICE, DEPARTMENT OF"
-      ],
-      "avg_days": 69.0,
-      "median_days": 69,
-      "fastest_award": 69,
-      "slowest_award": 69,
-      "awarded": 1
-    },
-    {
-      "name": "Nicholas Stewart 7574431295",
+      "name": "Clifton Gaither",
       "email": null,
       "agencies": [
         "DEPT OF DEFENSE"
       ],
-      "avg_days": 70.0,
-      "median_days": 70,
-      "fastest_award": 70,
-      "slowest_award": 70,
+      "avg_days": 65.0,
+      "median_days": 65,
+      "fastest_award": 65,
+      "slowest_award": 65,
       "awarded": 1
     },
     {
-      "name": "Brooke McDonald",
+      "name": "Christopher Wright",
       "email": null,
       "agencies": [
         "DEPT OF DEFENSE"
@@ -6914,7 +6602,7 @@
       "awarded": 1
     },
     {
-      "name": "MALCOLM FILS, APAB.44, PHONE (215)737-0422, EMAIL MALCOLM.FILS@DLA.MIL",
+      "name": "KARL JUST",
       "email": null,
       "agencies": [
         "DEPT OF DEFENSE"
@@ -6926,7 +6614,19 @@
       "awarded": 1
     },
     {
-      "name": "Jennifer Jacobs8049208759",
+      "name": "Deb Fassl",
+      "email": null,
+      "agencies": [
+        "VETERANS AFFAIRS, DEPARTMENT OF"
+      ],
+      "avg_days": 71.0,
+      "median_days": 71,
+      "fastest_award": 71,
+      "slowest_award": 71,
+      "awarded": 1
+    },
+    {
+      "name": "AARON MCFEE, N711.12, PHONE (771)229-0511, EMAIL AARON.D.MCFEE.CIV@US.NAVY.MIL",
       "email": null,
       "agencies": [
         "DEPT OF DEFENSE"
@@ -6938,28 +6638,31 @@
       "awarded": 1
     },
     {
-      "name": "Tony Benson",
+      "name": "Luang-Khot, Johnny",
       "email": null,
       "agencies": [
-        "DEPT OF DEFENSE"
+        "INTERIOR, DEPARTMENT OF THE"
       ],
-      "avg_days": 77.0,
-      "median_days": 77,
-      "fastest_award": 77,
-      "slowest_award": 77,
+      "avg_days": 79.0,
+      "median_days": 79,
+      "fastest_award": 79,
+      "slowest_award": 79,
+      "awarded": 1
+    },
+    {
+      "name": "Vallie, Stacy",
+      "email": null,
+      "agencies": [
+        "INTERIOR, DEPARTMENT OF THE"
+      ],
+      "avg_days": 80.0,
+      "median_days": 80,
+      "fastest_award": 80,
+      "slowest_award": 80,
       "awarded": 1
     }
   ],
   "by_agency": [
-    {
-      "agency": "ENVIRONMENTAL PROTECTION AGENCY",
-      "awarded": 1,
-      "never_awarded_count": 0,
-      "avg_days": 16.0,
-      "median_days": 16,
-      "fastest_award": 16,
-      "slowest_award": 16
-    },
     {
       "agency": "TRANSPORTATION, DEPARTMENT OF",
       "awarded": 3,
@@ -6971,39 +6674,39 @@
     },
     {
       "agency": "HOMELAND SECURITY, DEPARTMENT OF",
-      "awarded": 2,
+      "awarded": 3,
       "never_awarded_count": 0,
-      "avg_days": 19.0,
-      "median_days": 19.0,
+      "avg_days": 24.7,
+      "median_days": 28,
       "fastest_award": 10,
-      "slowest_award": 28
+      "slowest_award": 36
     },
     {
       "agency": "DEPT OF DEFENSE",
-      "awarded": 1716,
+      "awarded": 1585,
       "never_awarded_count": 0,
-      "avg_days": 26.5,
-      "median_days": 22.0,
+      "avg_days": 25.6,
+      "median_days": 22,
       "fastest_award": 0,
-      "slowest_award": 77
+      "slowest_award": 72
     },
     {
       "agency": "GENERAL SERVICES ADMINISTRATION",
-      "awarded": 49,
+      "awarded": 47,
       "never_awarded_count": 0,
-      "avg_days": 27.8,
-      "median_days": 27,
+      "avg_days": 27.0,
+      "median_days": 26,
       "fastest_award": 7,
-      "slowest_award": 49
+      "slowest_award": 50
     },
     {
-      "agency": "COMMERCE, DEPARTMENT OF",
-      "awarded": 4,
+      "agency": "JUSTICE, DEPARTMENT OF",
+      "awarded": 6,
       "never_awarded_count": 0,
-      "avg_days": 28.8,
-      "median_days": 34.0,
-      "fastest_award": 10,
-      "slowest_award": 37
+      "avg_days": 28.0,
+      "median_days": 29.0,
+      "fastest_award": 12,
+      "slowest_award": 41
     },
     {
       "agency": "ENERGY, DEPARTMENT OF",
@@ -7025,39 +6728,30 @@
     },
     {
       "agency": "AGRICULTURE, DEPARTMENT OF",
-      "awarded": 38,
+      "awarded": 32,
       "never_awarded_count": 0,
-      "avg_days": 30.5,
+      "avg_days": 31.6,
       "median_days": 27.0,
       "fastest_award": 8,
       "slowest_award": 64
     },
     {
       "agency": "VETERANS AFFAIRS, DEPARTMENT OF",
-      "awarded": 85,
+      "awarded": 82,
       "never_awarded_count": 0,
-      "avg_days": 33.1,
-      "median_days": 34,
-      "fastest_award": 0,
-      "slowest_award": 63
+      "avg_days": 33.8,
+      "median_days": 34.0,
+      "fastest_award": 9,
+      "slowest_award": 71
     },
     {
       "agency": "INTERIOR, DEPARTMENT OF THE",
-      "awarded": 122,
+      "awarded": 116,
       "never_awarded_count": 0,
-      "avg_days": 35.9,
-      "median_days": 33.5,
+      "avg_days": 36.6,
+      "median_days": 34.0,
       "fastest_award": 3,
-      "slowest_award": 65
-    },
-    {
-      "agency": "JUSTICE, DEPARTMENT OF",
-      "awarded": 8,
-      "never_awarded_count": 0,
-      "avg_days": 36.4,
-      "median_days": 34.5,
-      "fastest_award": 12,
-      "slowest_award": 69
+      "slowest_award": 80
     },
     {
       "agency": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
@@ -7067,6 +6761,15 @@
       "median_days": 35,
       "fastest_award": 35,
       "slowest_award": 44
+    },
+    {
+      "agency": "COMMERCE, DEPARTMENT OF",
+      "awarded": 5,
+      "never_awarded_count": 0,
+      "avg_days": 37.8,
+      "median_days": 37,
+      "fastest_award": 10,
+      "slowest_award": 57
     },
     {
       "agency": "NUCLEAR REGULATORY COMMISSION",

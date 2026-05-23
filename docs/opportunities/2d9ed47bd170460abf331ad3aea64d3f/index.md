@@ -1,0 +1,31 @@
+---
+layout: default
+title: Electromagnet Power Supply and Control System
+agency: COMMERCE, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: 2d9ed47bd170460abf331ad3aea64d3f
+---
+
+# Electromagnet Power Supply and Control System
+
+- Agency: COMMERCE, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-05-22 14:11:32.863-04
+- Solicitation Number: NB305000-26-01153
+
+## Summary
+
+This is a sources sought notice. The purpose of this notice is to conduct market research and identify potential sources of commercial products/services that satisfy the Government’s anticipated needs. NIST is seeking responses from all responsible sources, including large and small businesses. The North American Industry Classification System (NAICS) code for this acquisition is 335999 – All Other Miscellaneous Electrical Equipment and Component Manufacturing, with a Small Business Size Standard of 600 employees. This notice does not constitute a Request for Proposal (RFP), Request for Quotation (RFQ), Invitation for Bids (IFB), or any commitment by the Government to issue a solicitation or award a contract. The National Institute of Standards and Technology (NIST) will not pay for any information submitted in response to this notice. Submission of information is voluntary and will not result in any obligation on the part of the Government. NO SOLICITATION DOCUMENTS EXIST AT THIS TIME Requests for solicitation documents will not receive a response. Respondents shall clearly mark any proprietary or restricted information. In the absence of such markings, NIST will assume unlimited rights to all technical data submitted. BACKGROUND The Functional Nanostructured Materials Group is working to advance measurement science and standards in magnetic thin films and magnetoresistive random access memory technologies. A commercial H-frame electromagnet is used to generate applied fields driven by a commercial ER 083 power supply unit. This power supply unit is a 200 V, 60 A (12 kW) power supply and has reached the end of life. In order to continue using the electromagnet, a compatible power supply is required to deliver current-regulated power to the electromagnet with high stability for precision measurements of magnetic thin films and Magnetoresistive random access memory technologies under well-controlled fields. Such an electromagnet requires an electromagnet power supply system, including a current-regulated power supply, an embedded Hall-effect based Gaussmeter, and feedback-regulated control of the current delivered to the electromagnet to achieve stable field control. DESCRIPTION OF REQUIREMENT The Contractor shall provide one (1) electromagnet power supply system that meets all technical specifications identified below: One bipolar current-regulated power supply unit (unit) with zero-crossing continuity (no use of current reversal switches), with at least 12 kW output power, at least 200 V output voltage and at least 60 A output current. Longterm drift of the current shall be less than 50 parts per million (ppm) over 8 hrs assuming constant temperature, and less than 5 ppm per degree Celsius.Serial or ethernet control of the power supply unit, with integral conversion of the desired set field to better than 18 bits and digitization of analog signals to better than 24 bits Water cooling of the unit; three-phase, 208 V power input A digital Teslameter/Gaussmeter with accuracy at +/-0.01 % of reading and +/- 0.006% of the full scale maximum at 25 degrees Celsius. At least three different measurement ranges, with the highest range of at least
+
+3.0 Tesla. A Hall Effect probe with a 4 m long cable, compatible with the digital Teslameter/Gaussmeter and associated accuracy described in section (6). Temperature compensated over a range that includes at least 10 degrees Celsius to 30 degrees Celsius. Proportional-Integral-Derivative-based regulation of the power supply current output using the measured field from the Hall effect probe. A mounting bracket to mount the Hall effect probe to the flat pole face of a commercial Bruker ER 074 electromagnet. An instructions manual for mounting the Hall Probe and operating the Power Supply using Ethernet signals from a control PC, including commands to set the PID parameters, monitor the magnetic field and the output current and to set the magnetic field and the output current using commands in the Python programming language and provision of the library or module containing those programming commands RESPONSE INSTRUCTIONS Interested parties shall submit a written capability statement addressing the following: 1. Company name, address, Unique Entity Identifier (UEI) number, CAGE code, and point-of-contact information 2. Business size and socio-economic status (if applicable) for the NAICS code provided 3. Description of company capabilities relevant to the products/services described above 4. Description of prior experience providing/performing similar products/services described above 5. Identification of applicable contract vehicles (e.g., GSA FSS, GWACs), including contract numbers 6. Any other information the Government should consider for market research purposes 7. State whether the proposed product is manufactured in the United States and if not, state the name of the country where the product is manufactured. SUBMISSION REQUIREMENTS The information received in response to this notice will be reviewed and considered so that NIST may appropriately solicit for its requirements in the near future. All responses to this notice must be submitted via email to Sadaf.Afkhami@nist.gov, no later than 12:00 PM EST on June 5, 2026. Format: Microsoft Word or PDF Page Limit: 12 pages maximum Font: Times New Roman, 11-point Paper Size: 8.5 x 11 inches Margins: Minimum 1 inch on all sides Any questions regarding this notice must be submitted in writing via email to Sadaf.Afkhami@nist.gov, no later than 9:00 AM EST on May 27, 2026.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Sadaf Afkhami
+  - Email: Sadaf.Afkhami@nist.gov
+  - Phone: 3019753976
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/2d9ed47bd170460abf331ad3aea64d3f/view)
