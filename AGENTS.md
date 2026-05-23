@@ -65,6 +65,13 @@
 - Use only public SAM.gov data feeds in automation.
 - Treat generated artifacts as reproducible outputs; avoid manual edits under data/today and docs/data.
 
+## Security best practices
+- Keep dependency and action versions current; update `uv.lock` with `uv lock`/`uv sync` and review `.github/workflows/*.yml` for pinned major versions.
+- Prefer least-privilege workflow/job permissions and only request extra token scopes when a workflow step strictly needs them.
+- Treat all inbound data as untrusted input; validate/parsing logic should fail safely and avoid executing downloaded content.
+- Use reproducible, reviewable changes to generated data (scripts + workflows), not manual edits to published JSON payloads.
+- Track software inventory and licensing in `SBOM.md`; update it whenever dependencies, workflow actions, or core tooling changes.
+
 ## Collaboration notes for agents
 - Prefer root-cause fixes over one-off patches.
 - If requirements are ambiguous, choose the simplest implementation that fits current scripts and outputs.
