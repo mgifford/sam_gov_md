@@ -10,11 +10,10 @@
 
 ## Setup commands
 - Create environment:
-  - python3 -m venv .venv
-  - source .venv/bin/activate
+  - python -m pip install uv
+  - uv sync
 - Install dependencies:
-  - pip install requests beautifulsoup4 lxml playwright pyyaml
-  - python -m playwright install chromium
+  - uv run playwright install chromium
 
 ## Core workflows
 - Daily processing:

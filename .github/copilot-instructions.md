@@ -5,7 +5,7 @@
 All agent and contributor guidance is maintained in **[AGENTS.md](../AGENTS.md)** at the repository root. Read it first — it covers:
 
 - Project overview and purpose (SAM.gov contract opportunity ingestion + GitHub Pages dashboard)
-- Environment setup (`python3 -m venv`, dependency installation, Playwright)
+- Environment setup (`uv sync`, Playwright installation)
 - Core workflow commands (`process_today.py`, `persist_to_sqlite.py`, `generate_alerts.py`, `scan_terms.py`, `analyze_matches.py`)
 - Automation overview (daily `ingest.yml` and weekly `weekly-pdf-extraction.yml` GitHub Actions workflows)
 - Coding conventions (idempotent scripts, deterministic JSON outputs, no external services for core ingestion)
@@ -26,7 +26,7 @@ When modifying any user-facing pages in `docs/` (dashboard, search, trends, oppo
 
 1. Read `AGENTS.md` (project structure, commands, conventions).
 2. Read `ACCESSIBILITY.md` if touching `docs/` or any `*.md` documentation.
-3. Activate the Python virtual environment: `source .venv/bin/activate`.
+3. Sync dependencies with `uv sync`.
 4. Make the smallest change that fixes the problem; keep scripts idempotent and outputs reproducible.
 5. Validate with the targeted checks listed in `AGENTS.md § Testing and validation`.
 
