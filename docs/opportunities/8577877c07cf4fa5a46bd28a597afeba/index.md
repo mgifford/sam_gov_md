@@ -1,0 +1,29 @@
+---
+layout: default
+title: GENERATOR 3PH
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 8577877c07cf4fa5a46bd28a597afeba
+---
+
+# GENERATOR 3PH
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-05-23 16:09:29.301-04
+- Solicitation Number: SPMYM4-26-Q-3423
+
+## Summary
+
+Combined Synopsis/Solicitation: Commercial Products / Commercial Services Subject: Combined Synopsis/Solicitation: Commercial Products / Commercial Services – [Insert Item Name/Description] Solicitation Number: [SPMYM426Q3423] Set-Aside: Total Small Business Set-Aside Product Service Code (PSC): 335312 NAICS Code: 335312 1. Description & Authority This is a combined synopsis/solicitation for commercial products prepared in accordance with the format in FAR Subpart 12.6 (Streamlined Procedures for Evaluation and Solicitation for Commercial Items), as supplemented with additional information included in this notice. This announcement constitutes the only solicitation; quotes are being requested and a separate written solicitation package will not be issued. This requirement is being conducted under FAR Part 13 Simplified Acquisition Procedures. The resulting award will be a Firm-Fixed-Price purchase order issued on an SF 1449 (Solicitation/Contract/Order for Commercial Products and Commercial Services). 2. Schedule of Supplies/Services ” Item Description: GENERATOR 3PH WEST29.0EGED WESTERBEKE 29.0EGED DIESEL GEN Power and Electrical Requirements: 29 KW, 480 VAC, 60 Hz, 3-phase Starting System Electrical: 12 VDC (BMCS Reyes to confirm) Sound Guard SST Enclosure: Required/Desired ” Quantity / Unit of Issue: 1 EA ” FOB Point: Destination ” Inspection & Acceptance Point: Destination / Destination ” Delivery Location: 667 Safeguard Street, Bldg. 167, Suite 200 ” JBPHH, Hawaii, 96860 ” Required Delivery Date: June 23, 2026 3. Provisions and Instructions to Offerors FAR 52.212-1 Instructions to Offerors—Commercial Products and Commercial Services applies to this acquisition. Addendum to 52.212-1: Quotes must be submitted via email and include: 1. Legal Company Name, UEI number, and CAGE code. 2. Documented proof that the quoted item meets or exceeds the commercial technical specifications listed in Section 2. 3. Explicit confirmation that pricing is valid for a minimum of 60 days. Note: FAR 52.212-3 Offeror Representations and Certifications—Commercial Products and Commercial Services: Offerors must complete annual representations and certifications online at SAM.gov prior to the closing date of this solicitation. 4. Evaluation Criteria FAR 52.212-2 Evaluation—Commercial Products and Commercial Services applies to this acquisition. The government will award a contract resulting from this solicitation to the responsible offeror whose quote conforming to the solicitation will be most advantageous to the government, price and other factors considered. The contract will be awarded on a Lowest Price Technically Acceptable (LPTA) basis utilizing the following evaluation factors: ” Technical Acceptability: The government will evaluate descriptive literature, data sheets, or drawings to verify the product meets the standard commercial specifications requested. ” Past Performance: Evaluated via the Supplier Performance Risk System (SPRS). Vendors must have a record of satisfactory performance. ” Price: The lowest total evaluated price (inclusive of shipping to destination). 5. Submission Instructions Quotes are due no later than May 28, 2026, at 12:00 HST via email to wongduean.a.guajardo.civ@us.navy.mil Late submissions will not be evaluated. Mandatory Commercial Clauses Incorporated by Reference: The following FAR and DFARS clauses apply to this acquisition and are incorporated by reference: ” FAR 52.212-4 – Contract Terms and Conditions—Commercial Products and Commercial Services ” FAR 52.212-5 – Contract Terms and Conditions Required To Implement Statutes or Executive Orders—Commercial Products and Commercial Services ” DFARS 252.212-7001 – Contract Terms and Conditions Required to Implement Statutes or Authorized Data Clauses Applicable to Defense Acquisitions of Commercial Items (See attachments for any additional clauses incorporated into this requirement.) Requirements 1. Firm-Fixed-Price Requirement Quotations shall represent a firm-fixed price for the entire requirement. Post-award price increases will not be accepted. 2. Unconditional Acceptance By submitting a quotation, the vendor agrees to accept award at the quoted price without modification to price, terms, or conditions. 3. Award Acceptance Failure to accept the Government’s purchase order at the quoted price may result in the quotation being determined non-responsive. 4. No Counteroffers After Award Any post-award request to revise pricing or terms will be considered non-acceptance of the purchase order. 5. Delivery and Pricing Requirements Quoted prices shall include all costs associated with materials, labor (if applicable), packaging, and delivery. 6. OEM, Traceability, and Country of Origin Requirements Offerors shall identify the Original Equipment Manufacturer (OEM), brand name, and manufacturer part number, and country of origin. When applicable, proof of OEM authorization or authorized distribution may be required to ensure product authenticity, warranty validity, and supply chain traceability. Questions All questions regarding this solicitation shall be submitted electronically via email to the Contracting Specialist at the address listed above.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Wongduean Guajardo
+  - Email: wongduean.a.guajardo.civ@us.navy.mil
+  - Phone: 80847380004040
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8577877c07cf4fa5a46bd28a597afeba/view)
