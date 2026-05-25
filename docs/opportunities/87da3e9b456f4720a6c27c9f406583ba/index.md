@@ -26,6 +26,10 @@ DISCLAIMER: This is a Sources Sought Notice and is for informational and plannin
   - Name: Erica L Williams
   - Email: erica.williams@dot.gov
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/87da3e9b456f4720a6c27c9f406583ba/view)

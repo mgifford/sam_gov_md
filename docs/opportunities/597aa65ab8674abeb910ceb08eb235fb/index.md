@@ -24,6 +24,10 @@ This is a combined synopsis/solicitation for BRAND NAME QUANTSTUDIO 3 LABORATORY
   - Email: bwilson@usgs.gov
   - Phone: 573-397-2277
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/597aa65ab8674abeb910ceb08eb235fb/view)

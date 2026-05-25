@@ -26,6 +26,10 @@ INTENT TO SOLE SOURCE, STAT and Esoteric Lab Testing to CentraCare Laboratories 
   - Email: Joseph.Bennett@va.gov
   - Phone: 319-688-3633
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4f0c17c67ff640a4b61f1815fbcffc96/view)

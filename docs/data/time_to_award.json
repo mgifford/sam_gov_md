@@ -1,14 +1,14 @@
 {
-  "generated_date": "2026-05-24",
+  "generated_date": "2026-05-25",
   "stale_days_threshold": 90,
   "summary": {
-    "total_awards_with_timing": 1854,
+    "total_awards_with_timing": 1852,
     "avg_days_to_award": 26.5,
     "median_days_to_award": 22.0,
     "fastest_award_days": 0,
     "slowest_award_days": 64,
     "total_abandoned": 0,
-    "officers_with_timing": 534,
+    "officers_with_timing": 532,
     "agencies_with_timing": 14
   },
   "by_officer": [
@@ -4514,18 +4514,6 @@
       "awarded": 1
     },
     {
-      "name": "ETHAN LENTZ, N7M2.16, PHONE (717)605-2892, EMAIL ETHAN.K.LENTZ.CIV@US.NAVY.MIL",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 38.0,
-      "median_days": 38,
-      "fastest_award": 38,
-      "slowest_award": 38,
-      "awarded": 1
-    },
-    {
       "name": "Nicholas WallsDSN695-6847",
       "email": null,
       "agencies": [
@@ -5978,18 +5966,6 @@
       "awarded": 1
     },
     {
-      "name": "Albright, Jason",
-      "email": null,
-      "agencies": [
-        "INTERIOR, DEPARTMENT OF THE"
-      ],
-      "avg_days": 51.0,
-      "median_days": 51,
-      "fastest_award": 51,
-      "slowest_award": 51,
-      "awarded": 1
-    },
-    {
       "name": "Fort, Patricia",
       "email": null,
       "agencies": [
@@ -6443,10 +6419,10 @@
     },
     {
       "agency": "DEPT OF DEFENSE",
-      "awarded": 1556,
+      "awarded": 1555,
       "never_awarded_count": 0,
       "avg_days": 25.4,
-      "median_days": 22.0,
+      "median_days": 22,
       "fastest_award": 0,
       "slowest_award": 64
     },
@@ -6460,15 +6436,6 @@
       "slowest_award": 48
     },
     {
-      "agency": "COMMERCE, DEPARTMENT OF",
-      "awarded": 3,
-      "never_awarded_count": 0,
-      "avg_days": 28.0,
-      "median_days": 37,
-      "fastest_award": 10,
-      "slowest_award": 37
-    },
-    {
       "agency": "JUSTICE, DEPARTMENT OF",
       "awarded": 6,
       "never_awarded_count": 0,
@@ -6476,6 +6443,15 @@
       "median_days": 29.0,
       "fastest_award": 12,
       "slowest_award": 41
+    },
+    {
+      "agency": "COMMERCE, DEPARTMENT OF",
+      "awarded": 3,
+      "never_awarded_count": 0,
+      "avg_days": 28.0,
+      "median_days": 37,
+      "fastest_award": 10,
+      "slowest_award": 37
     },
     {
       "agency": "ENERGY, DEPARTMENT OF",
@@ -6515,10 +6491,10 @@
     },
     {
       "agency": "INTERIOR, DEPARTMENT OF THE",
-      "awarded": 112,
+      "awarded": 111,
       "never_awarded_count": 0,
-      "avg_days": 35.8,
-      "median_days": 33.5,
+      "avg_days": 35.7,
+      "median_days": 33,
       "fastest_award": 3,
       "slowest_award": 59
     },

@@ -23,6 +23,10 @@ DUE TO THE URGENT NEED THIS HAS A QUICK RESPONSE TIME OF 24 HOURS The Department
   - Name: Demetria Carter
   - Email: demetria.carter@fema.dhs.gov
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/3b334b4c33a149b4bd9f58ca4a93d0f1/view)

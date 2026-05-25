@@ -1,57 +1,64 @@
 {
-  "forecast_date": "2026-05-23",
+  "forecast_date": "2026-05-24",
   "departments_by_opportunity_volume": [
     {
-      "total_records": 12,
-      "open_opportunities": 10,
-      "awarded": 2,
-      "win_rate_percent": 16.7,
-      "estimated_monthly_value": 9587279,
-      "average_award_value": 4793639,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 3,
-      "top_awardees": [
-        {
-          "name": "L3HARRIS TECHNOLOGIES, INC. ",
-          "wins": 1,
-          "total_value": 4995399
-        },
-        {
-          "name": "KIHOMAC INC ",
-          "wins": 1,
-          "total_value": 4591880
-        }
-      ],
-      "department": "DEPT OF DEFENSE"
+      "total_records": 4,
+      "open_opportunities": 4,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 1,
+      "top_awardees": [],
+      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
     },
     {
-      "total_records": 7,
-      "open_opportunities": 7,
+      "total_records": 4,
+      "open_opportunities": 4,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 2,
+      "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
+      "department": "HOMELAND SECURITY, DEPARTMENT OF"
     },
     {
       "total_records": 3,
-      "open_opportunities": 2,
-      "awarded": 1,
-      "win_rate_percent": 33.3,
-      "estimated_monthly_value": 39900,
-      "average_award_value": 39900,
+      "open_opportunities": 3,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
       "opportunities_with_attachments": 1,
       "opportunities_with_keyword_matches": 0,
-      "top_awardees": [
-        {
-          "name": "SUPERIOR STRUCTURES LLC 113 HOWARD ST La Plata MD 20646 USA",
-          "wins": 1,
-          "total_value": 39900
-        }
-      ],
+      "top_awardees": [],
+      "department": "DEPT OF DEFENSE"
+    },
+    {
+      "total_records": 2,
+      "open_opportunities": 2,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "TRANSPORTATION, DEPARTMENT OF"
+    },
+    {
+      "total_records": 1,
+      "open_opportunities": 1,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
       "department": "INTERIOR, DEPARTMENT OF THE"
     },
     {
@@ -61,129 +68,28 @@
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
-      "opportunities_with_attachments": 0,
+      "opportunities_with_attachments": 1,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "AGRICULTURE, DEPARTMENT OF"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "GENERAL SERVICES ADMINISTRATION"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 1,
-      "top_awardees": [],
-      "department": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 0,
-      "awarded": 1,
-      "win_rate_percent": 100.0,
-      "estimated_monthly_value": 43030,
-      "average_award_value": 43030,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [
-        {
-          "name": "Cloud Quantum Innovations LLC San Antonio TX 78247 USA",
-          "wins": 1,
-          "total_value": 43030
-        }
-      ],
-      "department": "HOMELAND SECURITY, DEPARTMENT OF"
+      "department": "COURT SERVICES AND OFFENDER SUPERVISION AGENCY"
     }
   ],
   "departments_by_award_value": [
     {
-      "total_records": 12,
-      "open_opportunities": 10,
-      "awarded": 2,
-      "win_rate_percent": 16.7,
-      "estimated_monthly_value": 9587279,
-      "average_award_value": 4793639,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 3,
-      "top_awardees": [
-        {
-          "name": "L3HARRIS TECHNOLOGIES, INC. ",
-          "wins": 1,
-          "total_value": 4995399
-        },
-        {
-          "name": "KIHOMAC INC ",
-          "wins": 1,
-          "total_value": 4591880
-        }
-      ],
-      "department": "DEPT OF DEFENSE"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 0,
-      "awarded": 1,
-      "win_rate_percent": 100.0,
-      "estimated_monthly_value": 43030,
-      "average_award_value": 43030,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [
-        {
-          "name": "Cloud Quantum Innovations LLC San Antonio TX 78247 USA",
-          "wins": 1,
-          "total_value": 43030
-        }
-      ],
-      "department": "HOMELAND SECURITY, DEPARTMENT OF"
-    },
-    {
-      "total_records": 3,
-      "open_opportunities": 2,
-      "awarded": 1,
-      "win_rate_percent": 33.3,
-      "estimated_monthly_value": 39900,
-      "average_award_value": 39900,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [
-        {
-          "name": "SUPERIOR STRUCTURES LLC 113 HOWARD ST La Plata MD 20646 USA",
-          "wins": 1,
-          "total_value": 39900
-        }
-      ],
-      "department": "INTERIOR, DEPARTMENT OF THE"
-    },
-    {
-      "total_records": 7,
-      "open_opportunities": 7,
+      "total_records": 4,
+      "open_opportunities": 4,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 2,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 1,
       "top_awardees": [],
       "department": "VETERANS AFFAIRS, DEPARTMENT OF"
     },
     {
-      "total_records": 1,
-      "open_opportunities": 1,
+      "total_records": 4,
+      "open_opportunities": 4,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
@@ -191,7 +97,31 @@
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "AGRICULTURE, DEPARTMENT OF"
+      "department": "HOMELAND SECURITY, DEPARTMENT OF"
+    },
+    {
+      "total_records": 3,
+      "open_opportunities": 3,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "DEPT OF DEFENSE"
+    },
+    {
+      "total_records": 2,
+      "open_opportunities": 2,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "TRANSPORTATION, DEPARTMENT OF"
     },
     {
       "total_records": 1,
@@ -203,7 +133,7 @@
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "GENERAL SERVICES ADMINISTRATION"
+      "department": "INTERIOR, DEPARTMENT OF THE"
     },
     {
       "total_records": 1,
@@ -212,92 +142,58 @@
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 1,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF"
+      "department": "COURT SERVICES AND OFFENDER SUPERVISION AGENCY"
     }
   ],
   "department_forecasts": {
-    "DEPT OF DEFENSE": {
-      "total_records": 12,
-      "open_opportunities": 10,
-      "awarded": 2,
-      "win_rate_percent": 16.7,
-      "estimated_monthly_value": 9587279,
-      "average_award_value": 4793639,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 3,
-      "top_awardees": [
-        {
-          "name": "L3HARRIS TECHNOLOGIES, INC. ",
-          "wins": 1,
-          "total_value": 4995399
-        },
-        {
-          "name": "KIHOMAC INC ",
-          "wins": 1,
-          "total_value": 4591880
-        }
-      ]
-    },
     "VETERANS AFFAIRS, DEPARTMENT OF": {
-      "total_records": 7,
-      "open_opportunities": 7,
+      "total_records": 4,
+      "open_opportunities": 4,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 2,
-      "top_awardees": []
-    },
-    "INTERIOR, DEPARTMENT OF THE": {
-      "total_records": 3,
-      "open_opportunities": 2,
-      "awarded": 1,
-      "win_rate_percent": 33.3,
-      "estimated_monthly_value": 39900,
-      "average_award_value": 39900,
       "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [
-        {
-          "name": "SUPERIOR STRUCTURES LLC 113 HOWARD ST La Plata MD 20646 USA",
-          "wins": 1,
-          "total_value": 39900
-        }
-      ]
-    },
-    "AGRICULTURE, DEPARTMENT OF": {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
+      "opportunities_with_keyword_matches": 1,
       "top_awardees": []
     },
     "HOMELAND SECURITY, DEPARTMENT OF": {
-      "total_records": 1,
-      "open_opportunities": 0,
-      "awarded": 1,
-      "win_rate_percent": 100.0,
-      "estimated_monthly_value": 43030,
-      "average_award_value": 43030,
+      "total_records": 4,
+      "open_opportunities": 4,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
-      "top_awardees": [
-        {
-          "name": "Cloud Quantum Innovations LLC San Antonio TX 78247 USA",
-          "wins": 1,
-          "total_value": 43030
-        }
-      ]
+      "top_awardees": []
     },
-    "GENERAL SERVICES ADMINISTRATION": {
+    "DEPT OF DEFENSE": {
+      "total_records": 3,
+      "open_opportunities": 3,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": []
+    },
+    "TRANSPORTATION, DEPARTMENT OF": {
+      "total_records": 2,
+      "open_opportunities": 2,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": []
+    },
+    "INTERIOR, DEPARTMENT OF THE": {
       "total_records": 1,
       "open_opportunities": 1,
       "awarded": 0,
@@ -308,15 +204,15 @@
       "opportunities_with_keyword_matches": 0,
       "top_awardees": []
     },
-    "HEALTH AND HUMAN SERVICES, DEPARTMENT OF": {
+    "COURT SERVICES AND OFFENDER SUPERVISION AGENCY": {
       "total_records": 1,
       "open_opportunities": 1,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 1,
+      "opportunities_with_attachments": 1,
+      "opportunities_with_keyword_matches": 0,
       "top_awardees": []
     }
   }

@@ -27,6 +27,10 @@ The contractor shall provide all labor, tools, equipment and supplies to deliver
   - Name: Gibson Kim
   - Email: gibson.k.kim.mil@army.mil
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/18d812dbd10c4fc9b8b5aab1ae0e7ce2/view)

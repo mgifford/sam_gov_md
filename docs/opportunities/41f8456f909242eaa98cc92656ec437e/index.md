@@ -23,6 +23,10 @@ NOTICE OF INTENT TO AWARD A SOLE SOURCE CONTRACT The Air Force District of Washi
   - Name: Eric L. Moss
   - Email: eric.moss.3@us.af.mil
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/41f8456f909242eaa98cc92656ec437e/view)

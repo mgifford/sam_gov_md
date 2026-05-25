@@ -23,6 +23,10 @@ The purpose of this solicitation/quote is to provide support to the Federal Avia
   - Name: Roland Regan
   - Email: roland.regan@dot.gov
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/0c5bf868b66843be962084096bbfeec4/view)

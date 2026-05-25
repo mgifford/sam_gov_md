@@ -23,6 +23,10 @@ Solicitation for grounds maintenance services to be performed at the Santa Fe Na
   - Name: Ralph Crum
   - Email: ralph.crum@va.gov
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5cc9fad7f22c42b9946ec8ceec536c29/view)

@@ -23,6 +23,10 @@ Unarmed Security Guard services with patrol vehicle at the National Memorial Cem
   - Name: Ralph Crum
   - Email: ralph.crum@va.gov
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6c562302b3b1407184ae0be627598974/view)

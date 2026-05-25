@@ -32,6 +32,10 @@ SOURCES SOUGHT: 36C26326Q0753 - Blood Products, Reference Laboratory Testing, Ap
 
 - Attachment 1: for list of Blood Products. HOW TO RESPOND: All responses must have the VA RFI Number: 36C26326Q0753 in the Subject Line of the email!!! All responses must be received no later than 05:00 PM CT, Monday, June 8, 2026 All responses must be emailed to: Joseph.Bennett@va.gov
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/fa629c1fd69f47a483eb8709b5f2cc99/view)

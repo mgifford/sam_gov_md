@@ -26,6 +26,10 @@ This is a presolicitation notice, published in accordance with FAR 5.101(c). The
   - Name: Shannon Fletcher
   - Email: shannon.fletcher@associates.usss.dhs.gov
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5690c345d45b4dd5a4d5d3e038585533/view)
