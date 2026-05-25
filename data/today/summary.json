@@ -1,102 +1,80 @@
 {
-  "requested_date": "2026-05-24",
-  "effective_date": "2026-05-23",
+  "requested_date": "2026-05-25",
+  "effective_date": "2026-05-24",
   "used_fallback_latest": true,
-  "latest_available_date": "2026-05-23",
-  "records_total": 26,
-  "opportunities_total": 22,
-  "wins_total": 4,
-  "awarded_total": 4,
-  "departments_total": 7,
+  "latest_available_date": "2026-05-24",
+  "records_total": 15,
+  "opportunities_total": 15,
+  "wins_total": 0,
+  "awarded_total": 0,
+  "departments_total": 6,
   "top_terms": [
     [
-      "web",
-      7
-    ],
-    [
-      "platform",
-      3
-    ],
-    [
       "cloud",
-      2
-    ],
-    [
-      "software",
-      2
+      3
     ]
   ],
   "category_counts": [
     [
-      "technology",
-      12
-    ],
-    [
       "infrastructure",
-      2
+      3
     ]
   ],
   "type_breakdown": [
     [
-      "Sources Sought",
-      8
-    ],
-    [
       "Combined Synopsis/Solicitation",
-      8
+      5
     ],
     [
-      "Award Notice",
-      4
-    ],
-    [
-      "Presolicitation",
+      "Special Notice",
       4
     ],
     [
       "Solicitation",
       2
+    ],
+    [
+      "Sources Sought",
+      2
+    ],
+    [
+      "Presolicitation",
+      2
     ]
   ],
   "department_breakdown": [
     {
-      "department": "DEPT OF DEFENSE",
-      "total": 12,
-      "opportunities": 10,
-      "wins": 2
-    },
-    {
       "department": "VETERANS AFFAIRS, DEPARTMENT OF",
-      "total": 7,
-      "opportunities": 7,
-      "wins": 0
-    },
-    {
-      "department": "INTERIOR, DEPARTMENT OF THE",
-      "total": 3,
-      "opportunities": 2,
-      "wins": 1
-    },
-    {
-      "department": "AGRICULTURE, DEPARTMENT OF",
-      "total": 1,
-      "opportunities": 1,
+      "total": 4,
+      "opportunities": 4,
       "wins": 0
     },
     {
       "department": "HOMELAND SECURITY, DEPARTMENT OF",
-      "total": 1,
-      "opportunities": 0,
-      "wins": 1
+      "total": 4,
+      "opportunities": 4,
+      "wins": 0
     },
     {
-      "department": "GENERAL SERVICES ADMINISTRATION",
+      "department": "DEPT OF DEFENSE",
+      "total": 3,
+      "opportunities": 3,
+      "wins": 0
+    },
+    {
+      "department": "TRANSPORTATION, DEPARTMENT OF",
+      "total": 2,
+      "opportunities": 2,
+      "wins": 0
+    },
+    {
+      "department": "INTERIOR, DEPARTMENT OF THE",
       "total": 1,
       "opportunities": 1,
       "wins": 0
     },
     {
-      "department": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
+      "department": "COURT SERVICES AND OFFENDER SUPERVISION AGENCY",
       "total": 1,
       "opportunities": 1,
       "wins": 0
@@ -104,10 +82,10 @@
   ],
   "date_breakdown": [
     {
-      "date": "2026-05-23",
-      "total": 26,
-      "opportunities": 22,
-      "awarded": 4
+      "date": "2026-05-24",
+      "total": 15,
+      "opportunities": 15,
+      "awarded": 0
     }
   ],
   "award_company_history": {
@@ -309,125 +287,20 @@
   },
   "top_matching_records": [
     {
-      "NoticeId": "8ef1eb9d69124a5aa4a54e930dcb8705",
-      "Sol#": "N6660426Q0259",
-      "Title": "Web-based Platforms for Interlibrary Loan Management, Cataloging, and Metadata Services",
-      "Type": "Combined Synopsis/Solicitation",
-      "PostedDate": "2026-05-23 08:18:57.132-04",
-      "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "519210",
-      "ClassificationCode": "R605",
-      "Link": "https://sam.gov/workspace/contract/opp/8ef1eb9d69124a5aa4a54e930dcb8705/view",
+      "NoticeId": "4f0c17c67ff640a4b61f1815fbcffc96",
+      "Sol#": "36C26326Q0752",
+      "Title": "Q301--INTENT TO SOLE SOURCE - STAT and Esoteric Lab Testing Service, for the St. Cloud VA Health Care System.",
+      "Type": "Special Notice",
+      "PostedDate": "2026-05-24 17:09:40.501-04",
+      "Agency": "VETERANS AFFAIRS, DEPARTMENT OF",
+      "NaicsCode": "621511",
+      "ClassificationCode": "Q301",
+      "Link": "https://sam.gov/workspace/contract/opp/4f0c17c67ff640a4b61f1815fbcffc96/view",
       "matches": [
         {
-          "term": "platform",
-          "category": "technology",
+          "term": "cloud",
+          "category": "infrastructure",
           "count": 3
-        },
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "NoticeId": "1830a88a93924b02a6a01adb55c916ab",
-      "Sol#": "N0010426QYA9F",
-      "Title": "59--HPOI CHASSIS ASSEMB, IN REPAIR/MODIFICATION OF",
-      "Type": "Presolicitation",
-      "PostedDate": "2026-05-23 07:38:55.559-04",
-      "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "",
-      "ClassificationCode": "5975",
-      "Link": "https://sam.gov/workspace/contract/opp/1830a88a93924b02a6a01adb55c916ab/view",
-      "matches": [
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 2
-        },
-        {
-          "term": "software",
-          "category": "technology",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "NoticeId": "a7cf5dfd311d4808859094220ef2a0d4",
-      "Sol#": "N0010426RJB39",
-      "Title": "61--GENERATOR,ALTERNATI, IN REPAIR/MODIFICATION OF",
-      "Type": "Presolicitation",
-      "PostedDate": "2026-05-23 07:36:33.952-04",
-      "Agency": "DEPT OF DEFENSE",
-      "NaicsCode": "",
-      "ClassificationCode": "6115",
-      "Link": "https://sam.gov/workspace/contract/opp/a7cf5dfd311d4808859094220ef2a0d4/view",
-      "matches": [
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 2
-        },
-        {
-          "term": "software",
-          "category": "technology",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "NoticeId": "f6ab34ae7dfb4dbe873d6930e66d6ec6",
-      "Sol#": "75D301-26-Q-78995",
-      "Title": "CDC NIOSH on campus Medical Services 2026 - Total Small Business Set Aside",
-      "Type": "Combined Synopsis/Solicitation",
-      "PostedDate": "2026-05-23 00:11:41.24-04",
-      "Agency": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
-      "NaicsCode": "62199",
-      "ClassificationCode": "Q403",
-      "Link": "https://sam.gov/workspace/contract/opp/f6ab34ae7dfb4dbe873d6930e66d6ec6/view",
-      "matches": [
-        {
-          "term": "web",
-          "category": "technology",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "NoticeId": "9dec6fa9045843bebf44923f839fed33",
-      "Sol#": "36C26326Q0621",
-      "Title": "6520--Seeking Dental Chair Models Comparable to A-Dec Brand Dental Chairs",
-      "Type": "Sources Sought",
-      "PostedDate": "2026-05-23 19:16:38.235-04",
-      "Agency": "VETERANS AFFAIRS, DEPARTMENT OF",
-      "NaicsCode": "339114",
-      "ClassificationCode": "6520",
-      "Link": "https://sam.gov/workspace/contract/opp/9dec6fa9045843bebf44923f839fed33/view",
-      "matches": [
-        {
-          "term": "cloud",
-          "category": "infrastructure",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "NoticeId": "ad3e7696c9434dd793b6d74aea0edeac",
-      "Sol#": "36C26326Q0621",
-      "Title": "6520--Seeking Dental Chair Models Comparable to A-Dec Brand Dental Chairs",
-      "Type": "Sources Sought",
-      "PostedDate": "2026-05-23 16:56:35.644-04",
-      "Agency": "VETERANS AFFAIRS, DEPARTMENT OF",
-      "NaicsCode": "339114",
-      "ClassificationCode": "6520",
-      "Link": "https://sam.gov/workspace/contract/opp/ad3e7696c9434dd793b6d74aea0edeac/view",
-      "matches": [
-        {
-          "term": "cloud",
-          "category": "infrastructure",
-          "count": 1
         }
       ]
     }

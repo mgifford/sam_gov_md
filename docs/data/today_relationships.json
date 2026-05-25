@@ -1,21 +1,6 @@
 {
   "nodes": [
     {
-      "id": "agency:VETERANS AFFAIRS, DEPARTMENT OF",
-      "label": "VETERANS AFFAIRS, DEPARTMENT OF",
-      "group": "agency"
-    },
-    {
-      "id": "type:Sources Sought",
-      "label": "Sources Sought",
-      "group": "type"
-    },
-    {
-      "id": "naics:339113",
-      "label": "339113",
-      "group": "naics"
-    },
-    {
       "id": "agency:DEPT OF DEFENSE",
       "label": "DEPT OF DEFENSE",
       "group": "agency"
@@ -26,73 +11,33 @@
       "group": "type"
     },
     {
-      "id": "naics:332722",
-      "label": "332722",
+      "id": "naics:561210",
+      "label": "561210",
       "group": "naics"
     },
     {
-      "id": "type:Combined Synopsis/Solicitation",
-      "label": "Combined Synopsis/Solicitation",
-      "group": "type"
-    },
-    {
-      "id": "naics:336612",
-      "label": "336612",
-      "group": "naics"
-    },
-    {
-      "id": "naics:339114",
-      "label": "339114",
-      "group": "naics"
-    },
-    {
-      "id": "naics:333912",
-      "label": "333912",
-      "group": "naics"
-    },
-    {
-      "id": "naics:335312",
-      "label": "335312",
-      "group": "naics"
-    },
-    {
-      "id": "agency:INTERIOR, DEPARTMENT OF THE",
-      "label": "INTERIOR, DEPARTMENT OF THE",
+      "id": "agency:VETERANS AFFAIRS, DEPARTMENT OF",
+      "label": "VETERANS AFFAIRS, DEPARTMENT OF",
       "group": "agency"
     },
     {
-      "id": "naics:334511",
-      "label": "334511",
-      "group": "naics"
-    },
-    {
-      "id": "naics:332312",
-      "label": "332312",
-      "group": "naics"
-    },
-    {
-      "id": "type:Award Notice",
-      "label": "Award Notice",
+      "id": "type:Sources Sought",
+      "label": "Sources Sought",
       "group": "type"
     },
     {
-      "id": "naics:238150",
-      "label": "238150",
+      "id": "naics:621991",
+      "label": "621991",
       "group": "naics"
     },
     {
-      "id": "agency:AGRICULTURE, DEPARTMENT OF",
-      "label": "AGRICULTURE, DEPARTMENT OF",
-      "group": "agency"
+      "id": "type:Special Notice",
+      "label": "Special Notice",
+      "group": "type"
     },
     {
-      "id": "naics:236118",
-      "label": "236118",
-      "group": "naics"
-    },
-    {
-      "id": "naics:327110",
-      "label": "327110",
+      "id": "naics:611420",
+      "label": "611420",
       "group": "naics"
     },
     {
@@ -101,28 +46,23 @@
       "group": "agency"
     },
     {
-      "id": "naics:812320",
-      "label": "812320",
+      "id": "type:Combined Synopsis/Solicitation",
+      "label": "Combined Synopsis/Solicitation",
+      "group": "type"
+    },
+    {
+      "id": "naics:483211",
+      "label": "483211",
       "group": "naics"
     },
     {
-      "id": "naics:519210",
-      "label": "519210",
-      "group": "naics"
-    },
-    {
-      "id": "agency:GENERAL SERVICES ADMINISTRATION",
-      "label": "GENERAL SERVICES ADMINISTRATION",
+      "id": "agency:TRANSPORTATION, DEPARTMENT OF",
+      "label": "TRANSPORTATION, DEPARTMENT OF",
       "group": "agency"
     },
     {
-      "id": "naics:336110",
-      "label": "336110",
-      "group": "naics"
-    },
-    {
-      "id": "naics:Unknown NAICS",
-      "label": "Unknown NAICS",
+      "id": "naics:541990",
+      "label": "541990",
       "group": "naics"
     },
     {
@@ -131,34 +71,62 @@
       "group": "type"
     },
     {
+      "id": "naics:611710",
+      "label": "611710",
+      "group": "naics"
+    },
+    {
+      "id": "naics:611430",
+      "label": "611430",
+      "group": "naics"
+    },
+    {
+      "id": "naics:621511",
+      "label": "621511",
+      "group": "naics"
+    },
+    {
+      "id": "naics:561612",
+      "label": "561612",
+      "group": "naics"
+    },
+    {
+      "id": "naics:561730",
+      "label": "561730",
+      "group": "naics"
+    },
+    {
+      "id": "naics:238910",
+      "label": "238910",
+      "group": "naics"
+    },
+    {
+      "id": "agency:INTERIOR, DEPARTMENT OF THE",
+      "label": "INTERIOR, DEPARTMENT OF THE",
+      "group": "agency"
+    },
+    {
       "id": "naics:334516",
       "label": "334516",
       "group": "naics"
     },
     {
-      "id": "agency:HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
-      "label": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
+      "id": "naics:339920",
+      "label": "339920",
+      "group": "naics"
+    },
+    {
+      "id": "agency:COURT SERVICES AND OFFENDER SUPERVISION AGENCY",
+      "label": "COURT SERVICES AND OFFENDER SUPERVISION AGENCY",
       "group": "agency"
     },
     {
-      "id": "naics:62199",
-      "label": "62199",
+      "id": "naics:811210",
+      "label": "811210",
       "group": "naics"
     }
   ],
   "edges": [
-    {
-      "source": "agency:VETERANS AFFAIRS, DEPARTMENT OF",
-      "target": "type:Sources Sought",
-      "kind": "agency_to_type",
-      "weight": 7
-    },
-    {
-      "source": "type:Sources Sought",
-      "target": "naics:339113",
-      "kind": "type_to_naics",
-      "weight": 4
-    },
     {
       "source": "agency:DEPT OF DEFENSE",
       "target": "type:Solicitation",
@@ -167,163 +135,139 @@
     },
     {
       "source": "type:Solicitation",
-      "target": "naics:332722",
+      "target": "naics:561210",
       "kind": "type_to_naics",
       "weight": 1
     },
     {
-      "source": "agency:DEPT OF DEFENSE",
-      "target": "type:Combined Synopsis/Solicitation",
-      "kind": "agency_to_type",
-      "weight": 3
-    },
-    {
-      "source": "type:Combined Synopsis/Solicitation",
-      "target": "naics:336612",
-      "kind": "type_to_naics",
-      "weight": 1
-    },
-    {
-      "source": "type:Sources Sought",
-      "target": "naics:339114",
-      "kind": "type_to_naics",
-      "weight": 2
-    },
-    {
-      "source": "type:Solicitation",
-      "target": "naics:333912",
-      "kind": "type_to_naics",
-      "weight": 1
-    },
-    {
-      "source": "type:Combined Synopsis/Solicitation",
-      "target": "naics:335312",
-      "kind": "type_to_naics",
-      "weight": 1
-    },
-    {
-      "source": "agency:INTERIOR, DEPARTMENT OF THE",
-      "target": "type:Combined Synopsis/Solicitation",
-      "kind": "agency_to_type",
-      "weight": 2
-    },
-    {
-      "source": "type:Combined Synopsis/Solicitation",
-      "target": "naics:334511",
-      "kind": "type_to_naics",
-      "weight": 1
-    },
-    {
-      "source": "type:Combined Synopsis/Solicitation",
-      "target": "naics:332312",
-      "kind": "type_to_naics",
-      "weight": 1
-    },
-    {
-      "source": "agency:INTERIOR, DEPARTMENT OF THE",
-      "target": "type:Award Notice",
-      "kind": "agency_to_type",
-      "weight": 1
-    },
-    {
-      "source": "type:Award Notice",
-      "target": "naics:238150",
-      "kind": "type_to_naics",
-      "weight": 1
-    },
-    {
-      "source": "agency:AGRICULTURE, DEPARTMENT OF",
-      "target": "type:Combined Synopsis/Solicitation",
-      "kind": "agency_to_type",
-      "weight": 1
-    },
-    {
-      "source": "type:Combined Synopsis/Solicitation",
-      "target": "naics:236118",
-      "kind": "type_to_naics",
-      "weight": 1
-    },
-    {
-      "source": "type:Sources Sought",
-      "target": "naics:327110",
-      "kind": "type_to_naics",
-      "weight": 1
-    },
-    {
-      "source": "agency:HOMELAND SECURITY, DEPARTMENT OF",
-      "target": "type:Award Notice",
-      "kind": "agency_to_type",
-      "weight": 1
-    },
-    {
-      "source": "type:Award Notice",
-      "target": "naics:812320",
-      "kind": "type_to_naics",
-      "weight": 1
-    },
-    {
-      "source": "type:Combined Synopsis/Solicitation",
-      "target": "naics:519210",
-      "kind": "type_to_naics",
-      "weight": 1
-    },
-    {
-      "source": "agency:GENERAL SERVICES ADMINISTRATION",
-      "target": "type:Combined Synopsis/Solicitation",
-      "kind": "agency_to_type",
-      "weight": 1
-    },
-    {
-      "source": "type:Combined Synopsis/Solicitation",
-      "target": "naics:336110",
-      "kind": "type_to_naics",
-      "weight": 1
-    },
-    {
-      "source": "agency:DEPT OF DEFENSE",
-      "target": "type:Award Notice",
-      "kind": "agency_to_type",
-      "weight": 2
-    },
-    {
-      "source": "type:Award Notice",
-      "target": "naics:Unknown NAICS",
-      "kind": "type_to_naics",
-      "weight": 2
-    },
-    {
-      "source": "agency:DEPT OF DEFENSE",
-      "target": "type:Presolicitation",
-      "kind": "agency_to_type",
-      "weight": 4
-    },
-    {
-      "source": "type:Presolicitation",
-      "target": "naics:Unknown NAICS",
-      "kind": "type_to_naics",
-      "weight": 4
-    },
-    {
-      "source": "agency:DEPT OF DEFENSE",
+      "source": "agency:VETERANS AFFAIRS, DEPARTMENT OF",
       "target": "type:Sources Sought",
       "kind": "agency_to_type",
       "weight": 1
     },
     {
       "source": "type:Sources Sought",
-      "target": "naics:334516",
+      "target": "naics:621991",
       "kind": "type_to_naics",
       "weight": 1
     },
     {
-      "source": "agency:HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
+      "source": "agency:DEPT OF DEFENSE",
+      "target": "type:Special Notice",
+      "kind": "agency_to_type",
+      "weight": 1
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:611420",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:HOMELAND SECURITY, DEPARTMENT OF",
+      "target": "type:Combined Synopsis/Solicitation",
+      "kind": "agency_to_type",
+      "weight": 2
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:483211",
+      "kind": "type_to_naics",
+      "weight": 2
+    },
+    {
+      "source": "agency:TRANSPORTATION, DEPARTMENT OF",
+      "target": "type:Sources Sought",
+      "kind": "agency_to_type",
+      "weight": 1
+    },
+    {
+      "source": "type:Sources Sought",
+      "target": "naics:541990",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:HOMELAND SECURITY, DEPARTMENT OF",
+      "target": "type:Presolicitation",
+      "kind": "agency_to_type",
+      "weight": 2
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:611710",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Presolicitation",
+      "target": "naics:611430",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:VETERANS AFFAIRS, DEPARTMENT OF",
+      "target": "type:Special Notice",
+      "kind": "agency_to_type",
+      "weight": 3
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:621511",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:561612",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Special Notice",
+      "target": "naics:561730",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:TRANSPORTATION, DEPARTMENT OF",
       "target": "type:Combined Synopsis/Solicitation",
       "kind": "agency_to_type",
       "weight": 1
     },
     {
       "source": "type:Combined Synopsis/Solicitation",
-      "target": "naics:62199",
+      "target": "naics:238910",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:INTERIOR, DEPARTMENT OF THE",
+      "target": "type:Combined Synopsis/Solicitation",
+      "kind": "agency_to_type",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:334516",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "type:Solicitation",
+      "target": "naics:339920",
+      "kind": "type_to_naics",
+      "weight": 1
+    },
+    {
+      "source": "agency:COURT SERVICES AND OFFENDER SUPERVISION AGENCY",
+      "target": "type:Combined Synopsis/Solicitation",
+      "kind": "agency_to_type",
+      "weight": 1
+    },
+    {
+      "source": "type:Combined Synopsis/Solicitation",
+      "target": "naics:811210",
       "kind": "type_to_naics",
       "weight": 1
     }
