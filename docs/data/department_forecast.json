@@ -1,14 +1,37 @@
 {
-  "forecast_date": "2026-05-24",
+  "forecast_date": "2026-05-25",
   "departments_by_opportunity_volume": [
     {
-      "total_records": 4,
-      "open_opportunities": 4,
+      "total_records": 29,
+      "open_opportunities": 28,
+      "awarded": 1,
+      "win_rate_percent": 6.9,
+      "estimated_monthly_value": 8118827,
+      "average_award_value": 4059413,
+      "opportunities_with_attachments": 17,
+      "opportunities_with_keyword_matches": 17,
+      "top_awardees": [
+        {
+          "name": "T47 INTERNATIONAL, INC. Bowie MD 20715 USA",
+          "wins": 1,
+          "total_value": 8118827
+        },
+        {
+          "name": "",
+          "wins": 1,
+          "total_value": 0
+        }
+      ],
+      "department": "DEPT OF DEFENSE"
+    },
+    {
+      "total_records": 5,
+      "open_opportunities": 5,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
-      "opportunities_with_attachments": 1,
+      "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 1,
       "top_awardees": [],
       "department": "VETERANS AFFAIRS, DEPARTMENT OF"
@@ -23,7 +46,7 @@
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "HOMELAND SECURITY, DEPARTMENT OF"
+      "department": "STATE, DEPARTMENT OF"
     },
     {
       "total_records": 3,
@@ -32,10 +55,28 @@
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
-      "opportunities_with_attachments": 1,
+      "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "DEPT OF DEFENSE"
+      "department": "INTERIOR, DEPARTMENT OF THE"
+    },
+    {
+      "total_records": 3,
+      "open_opportunities": 2,
+      "awarded": 1,
+      "win_rate_percent": 33.3,
+      "estimated_monthly_value": 12008,
+      "average_award_value": 12008,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [
+        {
+          "name": "LYCEUM DYNAMICS LLC Newport Beach CA 92660 USA",
+          "wins": 1,
+          "total_value": 12008
+        }
+      ],
+      "department": "HOMELAND SECURITY, DEPARTMENT OF"
     },
     {
       "total_records": 2,
@@ -47,7 +88,7 @@
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "TRANSPORTATION, DEPARTMENT OF"
+      "department": "AGRICULTURE, DEPARTMENT OF"
     },
     {
       "total_records": 1,
@@ -57,32 +98,61 @@
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
+      "opportunities_with_keyword_matches": 1,
       "top_awardees": [],
-      "department": "INTERIOR, DEPARTMENT OF THE"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "COURT SERVICES AND OFFENDER SUPERVISION AGENCY"
+      "department": "COMMERCE, DEPARTMENT OF"
     }
   ],
   "departments_by_award_value": [
     {
-      "total_records": 4,
-      "open_opportunities": 4,
+      "total_records": 29,
+      "open_opportunities": 28,
+      "awarded": 1,
+      "win_rate_percent": 6.9,
+      "estimated_monthly_value": 8118827,
+      "average_award_value": 4059413,
+      "opportunities_with_attachments": 17,
+      "opportunities_with_keyword_matches": 17,
+      "top_awardees": [
+        {
+          "name": "T47 INTERNATIONAL, INC. Bowie MD 20715 USA",
+          "wins": 1,
+          "total_value": 8118827
+        },
+        {
+          "name": "",
+          "wins": 1,
+          "total_value": 0
+        }
+      ],
+      "department": "DEPT OF DEFENSE"
+    },
+    {
+      "total_records": 3,
+      "open_opportunities": 2,
+      "awarded": 1,
+      "win_rate_percent": 33.3,
+      "estimated_monthly_value": 12008,
+      "average_award_value": 12008,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [
+        {
+          "name": "LYCEUM DYNAMICS LLC Newport Beach CA 92660 USA",
+          "wins": 1,
+          "total_value": 12008
+        }
+      ],
+      "department": "HOMELAND SECURITY, DEPARTMENT OF"
+    },
+    {
+      "total_records": 5,
+      "open_opportunities": 5,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
-      "opportunities_with_attachments": 1,
+      "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 1,
       "top_awardees": [],
       "department": "VETERANS AFFAIRS, DEPARTMENT OF"
@@ -97,35 +167,11 @@
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "HOMELAND SECURITY, DEPARTMENT OF"
+      "department": "STATE, DEPARTMENT OF"
     },
     {
       "total_records": 3,
       "open_opportunities": 3,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "DEPT OF DEFENSE"
-    },
-    {
-      "total_records": 2,
-      "open_opportunities": 2,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": [],
-      "department": "TRANSPORTATION, DEPARTMENT OF"
-    },
-    {
-      "total_records": 1,
-      "open_opportunities": 1,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
@@ -136,31 +182,65 @@
       "department": "INTERIOR, DEPARTMENT OF THE"
     },
     {
+      "total_records": 2,
+      "open_opportunities": 2,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "AGRICULTURE, DEPARTMENT OF"
+    },
+    {
       "total_records": 1,
       "open_opportunities": 1,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 1,
       "top_awardees": [],
-      "department": "COURT SERVICES AND OFFENDER SUPERVISION AGENCY"
+      "department": "COMMERCE, DEPARTMENT OF"
     }
   ],
   "department_forecasts": {
+    "DEPT OF DEFENSE": {
+      "total_records": 29,
+      "open_opportunities": 28,
+      "awarded": 1,
+      "win_rate_percent": 6.9,
+      "estimated_monthly_value": 8118827,
+      "average_award_value": 4059413,
+      "opportunities_with_attachments": 17,
+      "opportunities_with_keyword_matches": 17,
+      "top_awardees": [
+        {
+          "name": "T47 INTERNATIONAL, INC. Bowie MD 20715 USA",
+          "wins": 1,
+          "total_value": 8118827
+        },
+        {
+          "name": "",
+          "wins": 1,
+          "total_value": 0
+        }
+      ]
+    },
     "VETERANS AFFAIRS, DEPARTMENT OF": {
-      "total_records": 4,
-      "open_opportunities": 4,
+      "total_records": 5,
+      "open_opportunities": 5,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
-      "opportunities_with_attachments": 1,
+      "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 1,
       "top_awardees": []
     },
-    "HOMELAND SECURITY, DEPARTMENT OF": {
+    "STATE, DEPARTMENT OF": {
       "total_records": 4,
       "open_opportunities": 4,
       "awarded": 0,
@@ -171,18 +251,35 @@
       "opportunities_with_keyword_matches": 0,
       "top_awardees": []
     },
-    "DEPT OF DEFENSE": {
+    "HOMELAND SECURITY, DEPARTMENT OF": {
+      "total_records": 3,
+      "open_opportunities": 2,
+      "awarded": 1,
+      "win_rate_percent": 33.3,
+      "estimated_monthly_value": 12008,
+      "average_award_value": 12008,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [
+        {
+          "name": "LYCEUM DYNAMICS LLC Newport Beach CA 92660 USA",
+          "wins": 1,
+          "total_value": 12008
+        }
+      ]
+    },
+    "INTERIOR, DEPARTMENT OF THE": {
       "total_records": 3,
       "open_opportunities": 3,
       "awarded": 0,
       "win_rate_percent": 0.0,
       "estimated_monthly_value": 0,
       "average_award_value": 0,
-      "opportunities_with_attachments": 1,
+      "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": []
     },
-    "TRANSPORTATION, DEPARTMENT OF": {
+    "AGRICULTURE, DEPARTMENT OF": {
       "total_records": 2,
       "open_opportunities": 2,
       "awarded": 0,
@@ -193,7 +290,7 @@
       "opportunities_with_keyword_matches": 0,
       "top_awardees": []
     },
-    "INTERIOR, DEPARTMENT OF THE": {
+    "COMMERCE, DEPARTMENT OF": {
       "total_records": 1,
       "open_opportunities": 1,
       "awarded": 0,
@@ -201,18 +298,7 @@
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 0,
-      "top_awardees": []
-    },
-    "COURT SERVICES AND OFFENDER SUPERVISION AGENCY": {
-      "total_records": 1,
-      "open_opportunities": 1,
-      "awarded": 0,
-      "win_rate_percent": 0.0,
-      "estimated_monthly_value": 0,
-      "average_award_value": 0,
-      "opportunities_with_attachments": 1,
-      "opportunities_with_keyword_matches": 0,
+      "opportunities_with_keyword_matches": 1,
       "top_awardees": []
     }
   }
