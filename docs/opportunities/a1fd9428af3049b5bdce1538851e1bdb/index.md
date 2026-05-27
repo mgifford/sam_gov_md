@@ -1,0 +1,29 @@
+---
+layout: default
+title: MDA Advisory & Professional Support Services (MAPSS)
+agency: DEPT OF DEFENSE
+notice_type: Special Notice
+notice_id: a1fd9428af3049b5bdce1538851e1bdb
+---
+
+# MDA Advisory & Professional Support Services (MAPSS)
+
+- Agency: DEPT OF DEFENSE
+- Type: Special Notice
+- Posted: 2026-05-26 13:31:19.179-04
+- Solicitation Number: 23_MDA_11573(1Sep23)
+
+## Summary
+
+Update 26MAY26, the MAPSS Tranche 2 Acquisition Team is conducting an Industry Day via Jabber on June 25, 2026, 10AM CST. The team will be conducting a review of the requirements with the technical experts, reviewing the HTRO methodology, and the anticipated schedule. The Tranche 2 requirements contain the following scope: Intelligence, Counterintelligence, Security, Test Support, Public Affairs, and Facilities Lifecycle Management. Dial information is as follows: Bridge Number: 719-721-3000 Call ID: 70014620# PIN: 71627# Checkout the MAPSS Marketplace page: https://www.mda.mil/business/mapss.html Update 4AUG25, MAPSS Organizational Conflict of Interest Guiding Principles has been published. Tranche 1 is active, all questions/comments must be sent to the Ordering Contracting Officer. Update 4FEB25, MAPSS Acquisition Strategy has been approved. White paper outlining tranches, estimated solicitation dates, NAICS/PSC determinations are being provided. Update 4NOV24, MAPSS Tranche and Crosswalk update provided. Specific dates for FOPR/RFP release & award cannot be provided at this time. Update 23OCT24, The following requirements, previously identified as Tranche 1, are being moved to Tranche 3: Core Engineering, Sensors and C2 Engineering, Ground Based Weapons Engineering & Sea Based Weapons System Engineering. Update 16Sep24, RFIs for Tranche 1, Tranche 2 and Tranch 6 have been updated. Please see v2 of the referenced documents. RFI responses for all Tranches are due 3 Oct 2024. This special notice is open until 4 oct 2025 to allow us to continue posting updates under the original MAPSS announcement. Update 13Sep24, RFIs for Tranches 1-6 are provided. Responses are due 12:00p.m. CST on Thursday, 3 Oct 24. Participation is voluntary, but encouraged if your company is interested in competing for a future MAPSS requirements. This is initial market research to solicit Industry’s feedback which will be used to form the basis of the overall MAPSS Acquisition Strategy. Market research will be refreshed in future years - by tranche - to ensure the Acquisition Strategy remains relevant. The final NAICS determination and contract vehicle for each requirement/capability area will depend on the group of work solicited at the time of proposal request. Update 1Aug 24, MAPSS Small Business Conference powerpoint presentation is now available. Update 3April24 MAPSS Industry Day Webinar Questions & Government Responses have been posted. Update 2April24. MAPSS Industry Day Webinar Presentation is now available. Update 1March24. 1) Special Notice for Industry Day Webinar updated. If you plan to attend, please see updated attached notice for more information. Registration now closes COB 21 March 2024. 2) Please see attached updated MAPSS Request for Information (RFI) Industry Survey. Response deadline extended to COB 5 April 2024. Update 14Feb24. Please see attached MAPSS Request for Information (RFI) Industry Survey. Responses are due COB 15 March 2024. Update 9Feb24, This Special Notice is to provide information on the Industry Day Webinar for the MDA MAPSS acquisition. This Industry Day Webinar is scheduled for 22 Mar 2024 and is open to all potential offers. If you plan to attend, please see the attached notice for more information. Registration closes 19 Mar 2024. Update 29Jan24, The Government is providing an informational paper. Inquiries regarding MAPSS should be submitted by email to MAPSS@mda.mil. Update- The Government is providing an update to the MAPSS Tranches. This special notice is intended to communicate to industry the projected general approach for the MDA Agile Professional Services Solutions (MAPSS) procurement which is the follow-on to TEAMS-Next. MAPSS is MDA’s fourth generation professional services program providing Advisory and Assistance Services support for the Agency. Under the MAPSS Program, the Government intends to conduct market research and acquisition strategy development incrementally in 4 tranches to help ensure decisions are relevant for requirements that in some cases won’t begin until FY 2029. Requirements structure, NAICS Codes, small business set-aside decisions, and other elements of the strategy informed by market conditions will be determined based on current market research during planning for each tranche. As part of the market research for the first tranche, MDA is evaluating the potential use of the General Services Administration’s (GSA) OASIS+ Best-in-Class (BIC) Indefinite Delivery Indefinite Quantity (IDIQ) Multi-Agency Contracts (MAC). Industry is encouraged to prepare and posture themselves to compete in this environment in the event that MDA determines that the OASIS+ Contracts best accommodate the Government’s requirements. Vendors interested in learning more about OASIS+ can find information on GSA’s Interact Portal (https://buy.gsa.gov/interact/community/196/activity-feed). THIS IS NOT A REQUEST FOR INFORMATION. The Government is not requesting responses to this notice. Further notifications, market research, and solicitation activities for requirements under the MAPSS Program will be posted at a later time. Approved for Public Release 23-MDA-11573 (1 Sep 23)
+
+## Contacts
+
+- Primary Contact:
+  - Name: Jennie Frantum
+  - Email: jennie.frantum@mda.mil
+  - Phone: 2564503442
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a1fd9428af3049b5bdce1538851e1bdb/view)

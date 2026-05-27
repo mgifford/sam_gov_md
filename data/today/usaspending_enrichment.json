@@ -1,5 +1,5 @@
 {
-  "requested_date": "2026-05-26",
+  "requested_date": "2026-05-27",
   "lookback_years": 3,
   "time_period": [
     {
@@ -7,107 +7,1251 @@
       "end_date": "2025-09-30"
     }
   ],
-  "enriched_count": 2,
+  "enriched_count": 25,
   "by_notice_id": {
-    "542ac3c2003340feb550512d235f2244": {
-      "naics": "335931",
-      "sam_agency": "DEPT OF DEFENSE",
-      "usaspending_agency": "Department of Defense",
+    "b5a74331e6264f62a6e892d8f679b370": {
+      "naics": "522110",
+      "sam_agency": "GENERAL SERVICES ADMINISTRATION",
+      "usaspending_agency": "General Services Administration",
       "lookback_years": 3,
-      "agency_contract_count": 14062,
+      "agency_contract_count": 7,
       "govwide_top_vendors": [
         {
-          "name": "ACE ELECTRONICS DEFENSE SYSTEMS, LLC",
-          "amount": 21928489.3
+          "name": "MAXIMUS FEDERAL SERVICES, INC.",
+          "amount": 101509047.26
         },
         {
-          "name": "ARGON ST, INC.",
-          "amount": 21906369.92
+          "name": "BANK OF NEW YORK MELLON (THE)",
+          "amount": 84757155.6
         },
         {
-          "name": "LOCKHEED MARTIN CORPORATION",
-          "amount": 19845356.34
+          "name": "CITIBANK, N.A.",
+          "amount": 50342259.48
         },
         {
-          "name": "DRS NETWORK & IMAGING SYSTEMS LLC",
-          "amount": 17637761.86
+          "name": "EDUCATIONAL COMPUTER SYSTEMS, INC.",
+          "amount": 31914008.77
         },
         {
-          "name": "BAE SYSTEMS LAND & ARMAMENTS L.P.",
-          "amount": 17153899.05
+          "name": "NAVY FEDERAL CREDIT UNION",
+          "amount": 14763732.47
         }
       ],
       "agency_top_vendors": [
         {
-          "name": "ACE ELECTRONICS DEFENSE SYSTEMS, LLC",
-          "amount": 21928489.3
+          "name": "BANK OF NEW YORK MELLON (THE)",
+          "amount": 84757155.6
         },
         {
-          "name": "ARGON ST, INC.",
-          "amount": 21906369.92
+          "name": "U.S. BANCORP",
+          "amount": 0.0
         },
         {
-          "name": "LOCKHEED MARTIN CORPORATION",
-          "amount": 19845356.34
-        },
-        {
-          "name": "DRS NETWORK & IMAGING SYSTEMS LLC",
-          "amount": 17637761.86
-        },
-        {
-          "name": "BAE SYSTEMS LAND & ARMAMENTS L.P.",
-          "amount": 17153899.05
+          "name": "CITIBANK, N.A.",
+          "amount": 0.0
         }
       ]
     },
-    "8058b988b49143d4897763906df65800": {
-      "naics": "334310",
-      "sam_agency": "DEPT OF DEFENSE",
-      "usaspending_agency": "Department of Defense",
+    "319170a2d4d54e75ac1c7cd33475c209": {
+      "naics": "541519",
+      "sam_agency": "VETERANS AFFAIRS, DEPARTMENT OF",
+      "usaspending_agency": "Department of Veterans Affairs",
       "lookback_years": 3,
-      "agency_contract_count": 2683,
+      "agency_contract_count": 4288,
       "govwide_top_vendors": [
         {
-          "name": "AXON ENTERPRISE, INC.",
-          "amount": 39401580.67
+          "name": "FCN, INC.",
+          "amount": 1998705507.53
         },
         {
-          "name": "CRITICAL COMMUNICATIONS, CONTROLS AND INSTRUMENTS, LLC",
-          "amount": 12485789.47
+          "name": "FOUR POINTS TECHNOLOGY, L.L.C.",
+          "amount": 1681942267.98
         },
         {
-          "name": "DAVID CLARK COMPANY INCORPORATED",
-          "amount": 11666229.32
+          "name": "THUNDERCAT TECHNOLOGY, LLC",
+          "amount": 1648160947.15
         },
         {
-          "name": "DYNALEC CORPORATION",
-          "amount": 7806100.06
+          "name": "V3GATE, LLC",
+          "amount": 1375488267.18
         },
         {
-          "name": "MECHDYNE CORPORATION",
-          "amount": 7451424.98
+          "name": "MINBURN TECHNOLOGY GROUP, LLC",
+          "amount": 1314827126.42
         }
       ],
       "agency_top_vendors": [
         {
-          "name": "CRITICAL COMMUNICATIONS, CONTROLS AND INSTRUMENTS, LLC",
-          "amount": 12485789.47
+          "name": "V3GATE, LLC",
+          "amount": 846392863.44
         },
         {
-          "name": "DAVID CLARK COMPANY INCORPORATED",
-          "amount": 11666229.32
+          "name": "FOUR POINTS TECHNOLOGY, L.L.C.",
+          "amount": 594853905.9
         },
         {
-          "name": "DYNALEC CORPORATION",
-          "amount": 7668491.06
+          "name": "METGREEN SOLUTIONS INC",
+          "amount": 365667264.6
         },
         {
-          "name": "MECHDYNE CORPORATION",
-          "amount": 7451424.98
+          "name": "MINBURN TECHNOLOGY GROUP, LLC",
+          "amount": 333304019.78
+        },
+        {
+          "name": "ALL POINTS LOGISTICS, LLC",
+          "amount": 298052532.0
+        }
+      ]
+    },
+    "faaf404280c64474b89536e6fa0ff889": {
+      "naics": "238290",
+      "sam_agency": "DEPT OF DEFENSE",
+      "usaspending_agency": "Department of Defense",
+      "lookback_years": 3,
+      "agency_contract_count": 1054,
+      "govwide_top_vendors": [
+        {
+          "name": "CIANBRO CORPORATION",
+          "amount": 80992090.96
+        },
+        {
+          "name": "ELEVATED TECHNOLOGIES, INC",
+          "amount": 54810208.3
+        },
+        {
+          "name": "TK ELEVATOR CORPORATION",
+          "amount": 38641093.3
+        },
+        {
+          "name": "ARMSTRONG ELEVATOR COMPANY",
+          "amount": 22334545.87
+        },
+        {
+          "name": "KONE INC",
+          "amount": 20320114.78
+        }
+      ],
+      "agency_top_vendors": [
+        {
+          "name": "CIANBRO CORPORATION",
+          "amount": 80992090.96
+        },
+        {
+          "name": "RHOADS INDUSTRIES, INC.",
+          "amount": 16185294.19
+        },
+        {
+          "name": "A&E ELEVATOR II LLC",
+          "amount": 10605234.31
+        },
+        {
+          "name": "WASHINGTON EQUIPMENT MANUFACTURING COMPANY, INC.",
+          "amount": 10464000.0
+        },
+        {
+          "name": "ATLANTIC BLUERIDGE ELEVATOR COMPANY",
+          "amount": 7136532.14
+        }
+      ]
+    },
+    "eca5720dd88d41e398e04124d1208441": {
+      "naics": "236220",
+      "sam_agency": "GENERAL SERVICES ADMINISTRATION",
+      "usaspending_agency": "General Services Administration",
+      "lookback_years": 3,
+      "agency_contract_count": 4046,
+      "govwide_top_vendors": [
+        {
+          "name": "BCCG A JOINT VENTURE",
+          "amount": 3414137891.0
+        },
+        {
+          "name": "CLARK CONSTRUCTION GROUP LLC",
+          "amount": 2130861590.49
+        },
+        {
+          "name": "BL HARBERT INTERNATIONAL LLC",
+          "amount": 1731497363.74
+        },
+        {
+          "name": "CADDELL CONSTRUCTION CO. (DE), LLC",
+          "amount": 1192739360.43
+        },
+        {
+          "name": "WHITING-TURNER CONTRACTING COMPANY, THE",
+          "amount": 1107985826.64
+        }
+      ],
+      "agency_top_vendors": [
+        {
+          "name": "HENSEL PHELPS CONSTRUCTION CO.",
+          "amount": 541733038.0
+        },
+        {
+          "name": "CLARK CONSTRUCTION GROUP LLC",
+          "amount": 538647893.62
+        },
+        {
+          "name": "BRASFIELD & GORRIE LLC",
+          "amount": 315214966.41
+        },
+        {
+          "name": "MCGOUGH CONSTRUCTION CO., LLC",
+          "amount": 93573902.59
+        },
+        {
+          "name": "J. E. DUNN CONSTRUCTION COMPANY",
+          "amount": 88612492.15
+        }
+      ]
+    },
+    "ee80e369dbd743b4a74fddce5c041902": {
+      "naics": "541330",
+      "sam_agency": "DEPT OF DEFENSE",
+      "usaspending_agency": "Department of Defense",
+      "lookback_years": 3,
+      "agency_contract_count": 34012,
+      "govwide_top_vendors": [
+        {
+          "name": "ELECTRIC BOAT CORPORATION",
+          "amount": 11008146138.08
+        },
+        {
+          "name": "BOOZ ALLEN HAMILTON INC",
+          "amount": 3898285253.82
+        },
+        {
+          "name": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
+          "amount": 2419899920.2
+        },
+        {
+          "name": "BAE SYSTEMS TECHNOLOGY SOLUTIONS & SERVICES INC.",
+          "amount": 1871601580.04
+        },
+        {
+          "name": "AMENTUM SERVICES, INC.",
+          "amount": 1518349564.71
+        }
+      ],
+      "agency_top_vendors": [
+        {
+          "name": "ELECTRIC BOAT CORPORATION",
+          "amount": 11008146138.08
+        },
+        {
+          "name": "BOOZ ALLEN HAMILTON INC",
+          "amount": 1853574866.91
+        },
+        {
+          "name": "BAE SYSTEMS TECHNOLOGY SOLUTIONS & SERVICES INC.",
+          "amount": 1816681612.23
+        },
+        {
+          "name": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
+          "amount": 1376818200.56
+        },
+        {
+          "name": "RAYTHEON COMPANY",
+          "amount": 1352173752.65
+        }
+      ]
+    },
+    "2b3cfcf1d2824279b7c59116adc133f8": {
+      "naics": "326299",
+      "sam_agency": "DEPT OF DEFENSE",
+      "usaspending_agency": "Department of Defense",
+      "lookback_years": 3,
+      "agency_contract_count": 2173,
+      "govwide_top_vendors": [
+        {
+          "name": "PATTEN CO., INC.",
+          "amount": 7336843.62
+        },
+        {
+          "name": "GTA CONTAINERS, LLC",
+          "amount": 5947571.32
+        },
+        {
+          "name": "AIR CRUISERS COMPANY, LLC",
+          "amount": 5696295.78
+        },
+        {
+          "name": "RFD BEAUFORT INC.",
+          "amount": 5358965.0
+        },
+        {
+          "name": "CANADIAN COMMERCIAL CORPORATION",
+          "amount": 4966628.0
+        }
+      ],
+      "agency_top_vendors": [
+        {
+          "name": "PATTEN CO., INC.",
+          "amount": 7336843.62
+        },
+        {
+          "name": "GTA CONTAINERS, LLC",
+          "amount": 5947571.32
+        },
+        {
+          "name": "AIR CRUISERS COMPANY, LLC",
+          "amount": 5696295.78
+        },
+        {
+          "name": "RFD BEAUFORT INC.",
+          "amount": 5358965.0
+        },
+        {
+          "name": "CANADIAN COMMERCIAL CORPORATION",
+          "amount": 4966628.0
+        }
+      ]
+    },
+    "14b238c28e2c43889f709d62d6c87c5c": {
+      "naics": "541519",
+      "sam_agency": "JUSTICE, DEPARTMENT OF",
+      "usaspending_agency": "Department of Justice",
+      "lookback_years": 3,
+      "agency_contract_count": 5153,
+      "govwide_top_vendors": [
+        {
+          "name": "FCN, INC.",
+          "amount": 1998705507.53
+        },
+        {
+          "name": "FOUR POINTS TECHNOLOGY, L.L.C.",
+          "amount": 1681942267.98
+        },
+        {
+          "name": "THUNDERCAT TECHNOLOGY, LLC",
+          "amount": 1648160947.15
+        },
+        {
+          "name": "V3GATE, LLC",
+          "amount": 1375488267.18
+        },
+        {
+          "name": "MINBURN TECHNOLOGY GROUP, LLC",
+          "amount": 1314827126.42
+        }
+      ],
+      "agency_top_vendors": [
+        {
+          "name": "MINBURN TECHNOLOGY GROUP, LLC",
+          "amount": 273646430.01
+        },
+        {
+          "name": "THUNDERCAT TECHNOLOGY, LLC",
+          "amount": 192787644.54
+        },
+        {
+          "name": "CGI FEDERAL INC.",
+          "amount": 173612149.91
+        },
+        {
+          "name": "MINDPOINT GROUP LLC",
+          "amount": 164427587.39
+        },
+        {
+          "name": "MANTECH ADVANCED SYSTEMS INTERNATIONAL, INC.",
+          "amount": 102303914.86
+        }
+      ]
+    },
+    "0e798af91594473dbebf86543224a3fe": {
+      "naics": "336413",
+      "sam_agency": "DEPT OF DEFENSE",
+      "usaspending_agency": "Department of Defense",
+      "lookback_years": 3,
+      "agency_contract_count": 139314,
+      "govwide_top_vendors": [
+        {
+          "name": "RTX CORPORATION",
+          "amount": 2503655282.34
+        },
+        {
+          "name": "L3HARRIS TECHNOLOGIES INTEGRATED SYSTEMS L.P.",
+          "amount": 2369789157.02
         },
         {
           "name": "THE BOEING COMPANY",
-          "amount": 7247440.28
+          "amount": 2272687135.46
+        },
+        {
+          "name": "LOCKHEED MARTIN CORPORATION",
+          "amount": 1838059659.75
+        },
+        {
+          "name": "SIKORSKY AIRCRAFT CORPORATION",
+          "amount": 1682984595.88
+        }
+      ],
+      "agency_top_vendors": [
+        {
+          "name": "RTX CORPORATION",
+          "amount": 2503077938.34
+        },
+        {
+          "name": "L3HARRIS TECHNOLOGIES INTEGRATED SYSTEMS L.P.",
+          "amount": 2363739158.02
+        },
+        {
+          "name": "THE BOEING COMPANY",
+          "amount": 2272687135.46
+        },
+        {
+          "name": "LOCKHEED MARTIN CORPORATION",
+          "amount": 1838059659.75
+        },
+        {
+          "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+          "amount": 1658418117.39
+        }
+      ]
+    },
+    "6ee77e7fe8e54c82aa07de8fa70742d9": {
+      "naics": "332919",
+      "sam_agency": "DEPT OF DEFENSE",
+      "usaspending_agency": "Department of Defense",
+      "lookback_years": 3,
+      "agency_contract_count": 10981,
+      "govwide_top_vendors": [
+        {
+          "name": "SARGENT AEROSPACE & DEFENSE, LLC",
+          "amount": 61339406.07
+        },
+        {
+          "name": "VACCO INDUSTRIES",
+          "amount": 22168993.99
+        },
+        {
+          "name": "TREADWELL CORPORATION (DELAWARE)",
+          "amount": 20984296.76
+        },
+        {
+          "name": "MAROTTA CONTROLS INC",
+          "amount": 16577402.31
+        },
+        {
+          "name": "BELL BOEING JOINT PROJECT OFFICE",
+          "amount": 13792991.4
+        }
+      ],
+      "agency_top_vendors": [
+        {
+          "name": "SARGENT AEROSPACE & DEFENSE, LLC",
+          "amount": 61339406.07
+        },
+        {
+          "name": "VACCO INDUSTRIES",
+          "amount": 22168993.99
+        },
+        {
+          "name": "TREADWELL CORPORATION (DELAWARE)",
+          "amount": 20984296.76
+        },
+        {
+          "name": "MAROTTA CONTROLS INC",
+          "amount": 16577402.31
+        },
+        {
+          "name": "BELL BOEING JOINT PROJECT OFFICE",
+          "amount": 13792991.4
+        }
+      ]
+    },
+    "d59dff345b254a878fc1806191e2c13e": {
+      "naics": "236220",
+      "sam_agency": "DEPT OF DEFENSE",
+      "usaspending_agency": "Department of Defense",
+      "lookback_years": 3,
+      "agency_contract_count": 22796,
+      "govwide_top_vendors": [
+        {
+          "name": "BCCG A JOINT VENTURE",
+          "amount": 3414137891.0
+        },
+        {
+          "name": "CLARK CONSTRUCTION GROUP LLC",
+          "amount": 2130861590.49
+        },
+        {
+          "name": "BL HARBERT INTERNATIONAL LLC",
+          "amount": 1731497363.74
+        },
+        {
+          "name": "CADDELL CONSTRUCTION CO. (DE), LLC",
+          "amount": 1192739360.43
+        },
+        {
+          "name": "WHITING-TURNER CONTRACTING COMPANY, THE",
+          "amount": 1107985826.64
+        }
+      ],
+      "agency_top_vendors": [
+        {
+          "name": "CLARK CONSTRUCTION GROUP LLC",
+          "amount": 1491729445.16
+        },
+        {
+          "name": "BL HARBERT INTERNATIONAL LLC",
+          "amount": 1153908916.54
+        },
+        {
+          "name": "HARPER CONSTRUCTION COMPANY, INC.",
+          "amount": 937248570.32
+        },
+        {
+          "name": "RQ CONSTRUCTION, LLC",
+          "amount": 922827674.08
+        },
+        {
+          "name": "CONTI FEDERAL SERVICES, LLC",
+          "amount": 568291399.73
+        }
+      ]
+    },
+    "015b5a5c7f6b4dbf8db5344a8b0a63fa": {
+      "naics": "541519",
+      "sam_agency": "ADMINISTRATIVE OFFICE OF THE US COURTS",
+      "usaspending_agency": null,
+      "lookback_years": 3,
+      "agency_contract_count": 79205,
+      "govwide_top_vendors": [
+        {
+          "name": "FCN, INC.",
+          "amount": 1998705507.53
+        },
+        {
+          "name": "FOUR POINTS TECHNOLOGY, L.L.C.",
+          "amount": 1681942267.98
+        },
+        {
+          "name": "THUNDERCAT TECHNOLOGY, LLC",
+          "amount": 1648160947.15
+        },
+        {
+          "name": "V3GATE, LLC",
+          "amount": 1375488267.18
+        },
+        {
+          "name": "MINBURN TECHNOLOGY GROUP, LLC",
+          "amount": 1314827126.42
+        }
+      ],
+      "agency_top_vendors": []
+    },
+    "2df15fdba20a4ee4850ec2683e093970": {
+      "naics": "332919",
+      "sam_agency": "DEPT OF DEFENSE",
+      "usaspending_agency": "Department of Defense",
+      "lookback_years": 3,
+      "agency_contract_count": 10981,
+      "govwide_top_vendors": [
+        {
+          "name": "SARGENT AEROSPACE & DEFENSE, LLC",
+          "amount": 61339406.07
+        },
+        {
+          "name": "VACCO INDUSTRIES",
+          "amount": 22168993.99
+        },
+        {
+          "name": "TREADWELL CORPORATION (DELAWARE)",
+          "amount": 20984296.76
+        },
+        {
+          "name": "MAROTTA CONTROLS INC",
+          "amount": 16577402.31
+        },
+        {
+          "name": "BELL BOEING JOINT PROJECT OFFICE",
+          "amount": 13792991.4
+        }
+      ],
+      "agency_top_vendors": [
+        {
+          "name": "SARGENT AEROSPACE & DEFENSE, LLC",
+          "amount": 61339406.07
+        },
+        {
+          "name": "VACCO INDUSTRIES",
+          "amount": 22168993.99
+        },
+        {
+          "name": "TREADWELL CORPORATION (DELAWARE)",
+          "amount": 20984296.76
+        },
+        {
+          "name": "MAROTTA CONTROLS INC",
+          "amount": 16577402.31
+        },
+        {
+          "name": "BELL BOEING JOINT PROJECT OFFICE",
+          "amount": 13792991.4
+        }
+      ]
+    },
+    "a6197cceed6f48e6a136791acfa5df02": {
+      "naics": "541715",
+      "sam_agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
+      "usaspending_agency": "National Aeronautics and Space Administration",
+      "lookback_years": 3,
+      "agency_contract_count": 3180,
+      "govwide_top_vendors": [
+        {
+          "name": "FLUOR MARINE PROPULSION, LLC",
+          "amount": 7019071853.19
+        },
+        {
+          "name": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
+          "amount": 4478052167.27
+        },
+        {
+          "name": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC",
+          "amount": 3636573926.61
+        },
+        {
+          "name": "THE AEROSPACE CORPORATION",
+          "amount": 2746427699.25
+        },
+        {
+          "name": "LOCKHEED MARTIN CORPORATION",
+          "amount": 2590313877.48
+        }
+      ],
+      "agency_top_vendors": [
+        {
+          "name": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
+          "amount": 4478052167.27
+        },
+        {
+          "name": "BLUE ORIGIN WASHINGTON, LLC",
+          "amount": 1262724659.07
+        },
+        {
+          "name": "SPACE EXPLORATION TECHNOLOGIES CORP.",
+          "amount": 848486054.39
+        },
+        {
+          "name": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC",
+          "amount": 804995263.27
+        },
+        {
+          "name": "AMENTUM TECHNOLOGY, INC.",
+          "amount": 492313244.12
+        }
+      ]
+    },
+    "f48a911da7ee4bc09642607521ebfdd6": {
+      "naics": "513210",
+      "sam_agency": "VETERANS AFFAIRS, DEPARTMENT OF",
+      "usaspending_agency": "Department of Veterans Affairs",
+      "lookback_years": 3,
+      "agency_contract_count": 535,
+      "govwide_top_vendors": [
+        {
+          "name": "PALANTIR USG INC",
+          "amount": 402127048.86
+        },
+        {
+          "name": "CARAHSOFT TECHNOLOGY CORP",
+          "amount": 219926739.4
+        },
+        {
+          "name": "DELL FEDERAL SYSTEMS L.P",
+          "amount": 209155831.05
+        },
+        {
+          "name": "PALANTIR TECHNOLOGIES INC.",
+          "amount": 162283537.78
+        },
+        {
+          "name": "CA, INC.",
+          "amount": 40714062.59
+        }
+      ],
+      "agency_top_vendors": [
+        {
+          "name": "DOCUMENT STORAGE SYSTEMS, INC.",
+          "amount": 9263519.04
+        },
+        {
+          "name": "SUPRAVISTA MEDICAL DSS, LLC",
+          "amount": 6283398.36
+        },
+        {
+          "name": "CLINISYS, INC.",
+          "amount": 4153442.0
+        },
+        {
+          "name": "CENSIS TECHNOLOGIES, INC.",
+          "amount": 3075185.84
+        },
+        {
+          "name": "MEDICOM TECHNOLOGIES INC",
+          "amount": 2950443.65
+        }
+      ]
+    },
+    "1cb06191d88947bb89b5420e190008f0": {
+      "naics": "236220",
+      "sam_agency": "DEPT OF DEFENSE",
+      "usaspending_agency": "Department of Defense",
+      "lookback_years": 3,
+      "agency_contract_count": 22796,
+      "govwide_top_vendors": [
+        {
+          "name": "BCCG A JOINT VENTURE",
+          "amount": 3414137891.0
+        },
+        {
+          "name": "CLARK CONSTRUCTION GROUP LLC",
+          "amount": 2130861590.49
+        },
+        {
+          "name": "BL HARBERT INTERNATIONAL LLC",
+          "amount": 1731497363.74
+        },
+        {
+          "name": "CADDELL CONSTRUCTION CO. (DE), LLC",
+          "amount": 1192739360.43
+        },
+        {
+          "name": "WHITING-TURNER CONTRACTING COMPANY, THE",
+          "amount": 1107985826.64
+        }
+      ],
+      "agency_top_vendors": [
+        {
+          "name": "CLARK CONSTRUCTION GROUP LLC",
+          "amount": 1491729445.16
+        },
+        {
+          "name": "BL HARBERT INTERNATIONAL LLC",
+          "amount": 1153908916.54
+        },
+        {
+          "name": "HARPER CONSTRUCTION COMPANY, INC.",
+          "amount": 937248570.32
+        },
+        {
+          "name": "RQ CONSTRUCTION, LLC",
+          "amount": 922827674.08
+        },
+        {
+          "name": "CONTI FEDERAL SERVICES, LLC",
+          "amount": 568291399.73
+        }
+      ]
+    },
+    "830d29b26f334807be0620a390be4c51": {
+      "naics": "336612",
+      "sam_agency": "DEPT OF DEFENSE",
+      "usaspending_agency": "Department of Defense",
+      "lookback_years": 3,
+      "agency_contract_count": 1287,
+      "govwide_top_vendors": [
+        {
+          "name": "UNITED STATES MARINE INC",
+          "amount": 77118992.11
+        },
+        {
+          "name": "GRAVOIS ALUMINUM BOATS LLC",
+          "amount": 76630236.25
+        },
+        {
+          "name": "SAFE BOATS INTERNATIONAL LLC",
+          "amount": 66432146.0
+        },
+        {
+          "name": "BIRDON AMERICA INC",
+          "amount": 55164611.07
+        },
+        {
+          "name": "DEFENSE MARITIME SOLUTIONS, INC.",
+          "amount": 43580991.77
+        }
+      ],
+      "agency_top_vendors": [
+        {
+          "name": "GRAVOIS ALUMINUM BOATS LLC",
+          "amount": 76175188.71
+        },
+        {
+          "name": "UNITED STATES MARINE INC",
+          "amount": 70272917.09
+        },
+        {
+          "name": "BIRDON AMERICA INC",
+          "amount": 55164611.07
+        },
+        {
+          "name": "DEFENSE MARITIME SOLUTIONS, INC.",
+          "amount": 43374809.09
+        },
+        {
+          "name": "ERIE FORGE & STEEL INC",
+          "amount": 43245612.5
+        }
+      ]
+    },
+    "0704e920629f4d5fb5af960e766740a8": {
+      "naics": "335139",
+      "sam_agency": "DEPT OF DEFENSE",
+      "usaspending_agency": "Department of Defense",
+      "lookback_years": 3,
+      "agency_contract_count": 2922,
+      "govwide_top_vendors": [
+        {
+          "name": "NEW BEDFORD PANORAMEX CORP.",
+          "amount": 7415899.44
+        },
+        {
+          "name": "GRIMES AEROSPACE COMPANY",
+          "amount": 4583680.0
+        },
+        {
+          "name": "ATLANTIC DIVING SUPPLY, INC.",
+          "amount": 3839563.59
+        },
+        {
+          "name": "KAMPI COMPONENTS CO INC",
+          "amount": 3278050.72
+        },
+        {
+          "name": "PATRIOT TAXIWAY INDUSTRIES INC",
+          "amount": 3143544.9
+        }
+      ],
+      "agency_top_vendors": [
+        {
+          "name": "GRIMES AEROSPACE COMPANY",
+          "amount": 4583680.0
+        },
+        {
+          "name": "KAMPI COMPONENTS CO INC",
+          "amount": 3278050.72
+        },
+        {
+          "name": "DEFENSE VENTURE HOLDINGS, LLC",
+          "amount": 3036194.24
+        },
+        {
+          "name": "CYALUME TECHNOLOGIES INC",
+          "amount": 2504082.48
+        },
+        {
+          "name": "STATZ CORP",
+          "amount": 2428306.96
+        }
+      ]
+    },
+    "a169a80635ea443a967ab9b45127f0cb": {
+      "naics": "513210",
+      "sam_agency": "DEPT OF DEFENSE",
+      "usaspending_agency": "Department of Defense",
+      "lookback_years": 3,
+      "agency_contract_count": 3859,
+      "govwide_top_vendors": [
+        {
+          "name": "PALANTIR USG INC",
+          "amount": 402127048.86
+        },
+        {
+          "name": "CARAHSOFT TECHNOLOGY CORP",
+          "amount": 219926739.4
+        },
+        {
+          "name": "DELL FEDERAL SYSTEMS L.P",
+          "amount": 209155831.05
+        },
+        {
+          "name": "PALANTIR TECHNOLOGIES INC.",
+          "amount": 162283537.78
+        },
+        {
+          "name": "CA, INC.",
+          "amount": 40714062.59
+        }
+      ],
+      "agency_top_vendors": [
+        {
+          "name": "PALANTIR USG INC",
+          "amount": 371390029.64
+        },
+        {
+          "name": "CARAHSOFT TECHNOLOGY CORP",
+          "amount": 212137594.54
+        },
+        {
+          "name": "DELL FEDERAL SYSTEMS L.P",
+          "amount": 95170690.09
+        },
+        {
+          "name": "CA, INC.",
+          "amount": 40714062.59
+        },
+        {
+          "name": "COPPER RIVER DATA SOLUTIONS, LLC",
+          "amount": 38868930.73
+        }
+      ]
+    },
+    "8cba2cfce3bb420f84dd4cb16f9a098e": {
+      "naics": "811210",
+      "sam_agency": "VETERANS AFFAIRS, DEPARTMENT OF",
+      "usaspending_agency": "Department of Veterans Affairs",
+      "lookback_years": 3,
+      "agency_contract_count": 3737,
+      "govwide_top_vendors": [
+        {
+          "name": "TECHFLOW, INC.",
+          "amount": 512748299.51
+        },
+        {
+          "name": "AGILITI HEALTH INC",
+          "amount": 272997211.22
+        },
+        {
+          "name": "LEIDOS, INC.",
+          "amount": 195903515.26
+        },
+        {
+          "name": "NORTHROP GRUMMAN SYSTEMS CORP",
+          "amount": 167169434.32
+        },
+        {
+          "name": "MOTOROLA SOLUTIONS, INC.",
+          "amount": 131691489.93
+        }
+      ],
+      "agency_top_vendors": [
+        {
+          "name": "SONOVA USA INC",
+          "amount": 62039493.3
+        },
+        {
+          "name": "VARIAN MEDICAL SYSTEMS, INC",
+          "amount": 28335223.0
+        },
+        {
+          "name": "OTICON, INC",
+          "amount": 22551612.13
+        },
+        {
+          "name": "OLYMPUS AMERICA INC",
+          "amount": 15501727.91
+        },
+        {
+          "name": "STARKEY LABORATORIES INC",
+          "amount": 13540836.11
+        }
+      ]
+    },
+    "0408e14d53874114b4a03a9b10d7f723": {
+      "naics": "513210",
+      "sam_agency": "DEPT OF DEFENSE",
+      "usaspending_agency": "Department of Defense",
+      "lookback_years": 3,
+      "agency_contract_count": 3859,
+      "govwide_top_vendors": [
+        {
+          "name": "PALANTIR USG INC",
+          "amount": 402127048.86
+        },
+        {
+          "name": "CARAHSOFT TECHNOLOGY CORP",
+          "amount": 219926739.4
+        },
+        {
+          "name": "DELL FEDERAL SYSTEMS L.P",
+          "amount": 209155831.05
+        },
+        {
+          "name": "PALANTIR TECHNOLOGIES INC.",
+          "amount": 162283537.78
+        },
+        {
+          "name": "CA, INC.",
+          "amount": 40714062.59
+        }
+      ],
+      "agency_top_vendors": [
+        {
+          "name": "PALANTIR USG INC",
+          "amount": 371390029.64
+        },
+        {
+          "name": "CARAHSOFT TECHNOLOGY CORP",
+          "amount": 212137594.54
+        },
+        {
+          "name": "DELL FEDERAL SYSTEMS L.P",
+          "amount": 95170690.09
+        },
+        {
+          "name": "CA, INC.",
+          "amount": 40714062.59
+        },
+        {
+          "name": "COPPER RIVER DATA SOLUTIONS, LLC",
+          "amount": 38868930.73
+        }
+      ]
+    },
+    "4c1decc757b14c28975373d6dcb20363": {
+      "naics": "339112",
+      "sam_agency": "VETERANS AFFAIRS, DEPARTMENT OF",
+      "usaspending_agency": "Department of Veterans Affairs",
+      "lookback_years": 3,
+      "agency_contract_count": 12107,
+      "govwide_top_vendors": [
+        {
+          "name": "MEDLINE INDUSTRIES, LP",
+          "amount": 568266894.59
+        },
+        {
+          "name": "CONCORDANCE HEALTHCARE SOLUTIONS LLC",
+          "amount": 423831914.58
+        },
+        {
+          "name": "CARDINAL HEALTH 200, LLC",
+          "amount": 286023072.98
+        },
+        {
+          "name": "SDV OFFICE SYSTEMS LLC",
+          "amount": 169734032.72
+        },
+        {
+          "name": "MEDTRONIC CARE MANAGEMENT SERVICES, LLC",
+          "amount": 162821891.26
+        }
+      ],
+      "agency_top_vendors": [
+        {
+          "name": "MEDLINE INDUSTRIES, LP",
+          "amount": 474196937.54
+        },
+        {
+          "name": "CONCORDANCE HEALTHCARE SOLUTIONS LLC",
+          "amount": 423696662.94
+        },
+        {
+          "name": "CARDINAL HEALTH 200, LLC",
+          "amount": 277435050.47
+        },
+        {
+          "name": "SDV OFFICE SYSTEMS LLC",
+          "amount": 166385853.72
+        },
+        {
+          "name": "MEDTRONIC CARE MANAGEMENT SERVICES, LLC",
+          "amount": 162821891.26
+        }
+      ]
+    },
+    "7e2d556f640b4013ad888a839111890c": {
+      "naics": "221210",
+      "sam_agency": "DEPT OF DEFENSE",
+      "usaspending_agency": "Department of Defense",
+      "lookback_years": 3,
+      "agency_contract_count": 345,
+      "govwide_top_vendors": [
+        {
+          "name": "WASHINGTON GAS LIGHT COMPANY",
+          "amount": 49195554.69
+        },
+        {
+          "name": "NRG BUSINESS MARKETING LLC",
+          "amount": 39796667.76
+        },
+        {
+          "name": "TOKYO GAS CO.,LTD.",
+          "amount": 37672116.34
+        },
+        {
+          "name": "SCHUYLER LINE NAVIGATION COMPANY LLC",
+          "amount": 36659721.46
+        },
+        {
+          "name": "BUYO GAS CO.,LTD.",
+          "amount": 29610381.33
+        }
+      ],
+      "agency_top_vendors": [
+        {
+          "name": "TOKYO GAS CO.,LTD.",
+          "amount": 37672116.34
+        },
+        {
+          "name": "SCHUYLER LINE NAVIGATION COMPANY LLC",
+          "amount": 36659721.46
+        },
+        {
+          "name": "BUYO GAS CO.,LTD.",
+          "amount": 29610381.33
+        },
+        {
+          "name": "FOREIGN UTILITY CONSOLIDATED REPORTING",
+          "amount": 25547355.83
+        },
+        {
+          "name": "ENEOS CORPORATION",
+          "amount": 22681197.17
+        }
+      ]
+    },
+    "e560732436164a67b9d261bf08af97e4": {
+      "naics": "541519",
+      "sam_agency": "DEPT OF DEFENSE",
+      "usaspending_agency": "Department of Defense",
+      "lookback_years": 3,
+      "agency_contract_count": 31441,
+      "govwide_top_vendors": [
+        {
+          "name": "FCN, INC.",
+          "amount": 1998705507.53
+        },
+        {
+          "name": "FOUR POINTS TECHNOLOGY, L.L.C.",
+          "amount": 1681942267.98
+        },
+        {
+          "name": "THUNDERCAT TECHNOLOGY, LLC",
+          "amount": 1648160947.15
+        },
+        {
+          "name": "V3GATE, LLC",
+          "amount": 1375488267.18
+        },
+        {
+          "name": "MINBURN TECHNOLOGY GROUP, LLC",
+          "amount": 1314827126.42
+        }
+      ],
+      "agency_top_vendors": [
+        {
+          "name": "FCN, INC.",
+          "amount": 583214094.71
+        },
+        {
+          "name": "WORLD WIDE TECHNOLOGY LLC",
+          "amount": 564826526.92
+        },
+        {
+          "name": "IRON BOW TECHNOLOGIES, LLC",
+          "amount": 491953882.18
+        },
+        {
+          "name": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC.",
+          "amount": 473586419.08
+        },
+        {
+          "name": "NEW TECH SOLUTIONS, INC.",
+          "amount": 460509257.18
+        }
+      ]
+    },
+    "f0d6a7c568694218af1b95bd1180228a": {
+      "naics": "237110",
+      "sam_agency": "JUSTICE, DEPARTMENT OF",
+      "usaspending_agency": "Department of Justice",
+      "lookback_years": 3,
+      "agency_contract_count": 37,
+      "govwide_top_vendors": [
+        {
+          "name": "CDM CONSTRUCTORS INC",
+          "amount": 263558580.0
+        },
+        {
+          "name": "JACOBS PROJECT MANAGEMENT CO.",
+          "amount": 262562210.0
+        },
+        {
+          "name": "OSCAR RENDA CONTRACTING INC",
+          "amount": 131872566.41
+        },
+        {
+          "name": "PCL CONSTRUCTION INC",
+          "amount": 60045825.0
+        },
+        {
+          "name": "RECORD STEEL AND CONSTRUCTION, INC.",
+          "amount": 45716125.66
+        }
+      ],
+      "agency_top_vendors": [
+        {
+          "name": "SEA PAC ENGINEERING INC",
+          "amount": 8631384.02
+        },
+        {
+          "name": "STAMPEDE VENTURES, INC.",
+          "amount": 4820669.0
+        },
+        {
+          "name": "AMERICAN WEST CONSTRUCTION, LLC",
+          "amount": 2786550.0
+        },
+        {
+          "name": "OCS CONSTRUCTION SERVICES INC",
+          "amount": 2589059.0
+        },
+        {
+          "name": "DFW CAD SERVICES LLC",
+          "amount": 1200767.72
+        }
+      ]
+    },
+    "6429788537b146dc945d8f04cd1ec91f": {
+      "naics": "238220",
+      "sam_agency": "JUSTICE, DEPARTMENT OF",
+      "usaspending_agency": "Department of Justice",
+      "lookback_years": 3,
+      "agency_contract_count": 371,
+      "govwide_top_vendors": [
+        {
+          "name": "BLUEWAY ONE JV LLC",
+          "amount": 48788000.0
+        },
+        {
+          "name": "CONSIGLI CONSTRUCTION CO., INC.",
+          "amount": 39704572.0
+        },
+        {
+          "name": "JETT'S SPECIALTY CONTRACTING, LLC",
+          "amount": 37011911.06
+        },
+        {
+          "name": "NORTH STATE MECHANICAL INC",
+          "amount": 35105427.61
+        },
+        {
+          "name": "AKTARIUS LLC",
+          "amount": 32000015.35
+        }
+      ],
+      "agency_top_vendors": [
+        {
+          "name": "BLASCO CONSTRUCTION CORP",
+          "amount": 5962654.8
+        },
+        {
+          "name": "UTILITY SYSTEMS SOLUTIONS, INC.",
+          "amount": 4268225.15
+        },
+        {
+          "name": "MICHAEL KOST",
+          "amount": 3548659.0
+        },
+        {
+          "name": "NBT CONSTRUCTION AND SUPPLY, LLC",
+          "amount": 3135292.65
+        },
+        {
+          "name": "EVERSON PEACHTREE, LLC",
+          "amount": 2739448.47
         }
       ]
     }

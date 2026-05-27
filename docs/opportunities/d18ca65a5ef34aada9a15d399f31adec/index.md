@@ -1,0 +1,35 @@
+---
+layout: default
+title: SKF BOLTS (LLTM) for LPD CLASS SHIP
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: d18ca65a5ef34aada9a15d399f31adec
+---
+
+# SKF BOLTS (LLTM) for LPD CLASS SHIP
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-05-26 17:59:56.843-04
+- Solicitation Number: N5523626Q0063
+
+## Summary
+
+This is a Combined Synopsis/Solicitation for commercial products prepared in accordance with the format in Subpart 12. This announcement constitutes the only solicitation. Quotes are being requested and a separate written solicitation will not be issued. Request for Quotation (RFQ) N5523626Q0063 is issued as Full & Open Competition. The subject solicitation is being processed using FAR Parts 12. The applicable North American Industry Classification System (NAICS) code is 332722 (Bolt, Nut, Screw, Rivet, and Washer Manufacturing). This solicitation documents and incorporates provisions and clauses that are those in effect through Federal Acquisition Circular 2026-01 (Effective 13 March 2026) and DFARS Publication Notice 20260507. DESCRIPTION: Southwest Regional Maintenance Center (SWRMC) requires procurement and delivery of long lead time material (LLTM) in support of SWRMC at Naval Base San Diego as follows: Quote shall provide LLTM Required Delivery Date of 15 February 2027 SEE PRODUCT DESCRIPTION The full text of FAR and DFAR references, provisions and clauses may be accessed at https://acquisition.gov. A. 52.212-1 Instructions to Offerors – Commercial Products and Commercial Services SEP 2023. Offerors must comply with all instructions contained herein. (1) Offerors may submit written questions during the quote preparation period. All questions must be received no later than 19 May 2026, 11:00 AM (Pacific) to allow adequate time to prepare and issue responses to all offerors prior to the date and time set for receipt of quotes. Only written questions will receive a response. All questions and quotes shall be directed to: Southwest Regional Maintenance Center (SWRMC) – C410A Procurement Email: Cite the solicitation number in the subject line - N5523626Q0063 Email Addresses: silvana.miranda.civ@us.navy.mil and jorge.a.morales67.civ@us.navy.mil B. 52.212-2 Evaluation Commercial Items, Evaluation – Commercial Products and Commercial Services NOV 2021. (a) The Government will award a contract resulting from this solicitation to the responsible offeror whose offer conforming to the solicitation will be most advantageous to the Government, price and other factors considered. The following factors shall be used to evaluate offers: Evaluation Factors – The evaluation factors that will be used are: Technical Acceptability – Ability to meet the required delivery date and the salient characteristics of the Product Description Lowest price with Lead-Time consideration in accordance with FAR 12.203 and 15.103. Price – Lowest price technically Acceptable (LPTA) Past Performance – Based on the Supplier Performance Risk System Technical Acceptability: The Government will consider the ability to meet the Required Delivery Date (RDD) as detailed in the Product Description, giving preference to shorter lead-times that meet the RDD from the projected Award Date of 01 JUNE 2026. Quotations with lead-times not meeting the RDD may not be considered. The Government will also consider Price second for quotations with lead-times meeting the RDD from the project Award Date. Price: The Government will evaluate the proposed price for reasonableness in accordance with FAR
+
+12.203 Past Performance: The Government will consider the recency and relevancy of past performance information compared to the requirements detailed in the Product Description the source of the information, the context of the data and general trends in the offeror's performance and any associated risk. The Government will also consider the extent of the offeror's ability to perform previous contracts successfully. In accordance with DFARS provision 252.204-7024, Notice to Prospective Suppliers on Use of Supplier Performance Risk System in Past Performance Evaluations is hereby incorporated by reference. (c) A written notice of award or acceptance of an offer, mailed or otherwise furnished to the successful offeror within the time for acceptance specified in the offer, shall result in a binding contract without further action by either party. Before the offer’s specified expiration time, the Government may accept an offer (or part of an offer), whether or not there are negotiations after its receipt, unless a written notice of withdrawal is received before award. (End of provision) C. 52.212-3 Offeror Representations and Certifications – Commercial Products and Commercial Services (MAR 2025) (DEVIATION 2025-O0004). The Offeror shall complete only paragraph (b) of this provision if the Offeror has completed the annual representations and certification electronically in the System for Award Management (SAM) accessed through https://www.sam.gov/SAM/ (only complete and return if there are changes to current SAM Registration. If 52.212-3 is not returned, the contractor is affirming that the current SAM registration is current, accurate, and complete). If the Offeror has not completed the annual representations and certifications electronically, the Offeror shall complete only paragraphs (c) through (v) of this provision. The provision of FAR 52.212-3 must be submitted by the Offeror to be eligible for award. D. 52.212-4 Contract Terms and Conditions -- Commercial Products and Commercial Services NOV 2023 Standard Commercial Warranties apply. APPLICABLE PROVISIONS AND CLAUSES: The FAR requires the use of the System for Award Management (SAM) in Federal solicitations as a part of the offer submission process to satisfy FAR 52.212-4. More information on SAM is found at https://www.sam.gov/portal/public/SAM/. PACKAGING REQUIREMENTS: Unless otherwise stated in Section D clauses, packaging and preservation shall be performed in accordance with the best commercial practices to afford maximum protection against damage. DELIVERY INSTRUCTIONS: Item shall be priced for F.O.B. Destination. Inspection and acceptance shall be at destination by the Government. SPECIAL CONTRACT REQUIREMENTS: Please submit your quote via e-mail to Silvana Miranda, silvana.miranda.civ@us.navy.mil and Jorge Morales, jorge.a.morales67.civ@us.navy.mil QUOTES must be received by the destination inbox no later than *27 May 2026, 2:00 PM (Pacific)* or they will not be considered for award.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Silvana Miranda
+  - Email: silvana.miranda.civ@us.navy.mil
+  - Phone: 6195779810
+- Secondary Contact:
+  - Name: Jorge Morales
+  - Email: jorge.a.morales67.civ@us.navy.mil
+  - Phone: 6192515076
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d18ca65a5ef34aada9a15d399f31adec/view)
