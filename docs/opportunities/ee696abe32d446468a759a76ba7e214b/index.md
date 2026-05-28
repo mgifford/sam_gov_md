@@ -1,0 +1,31 @@
+---
+layout: default
+title: V225--Non-Emergency Ambulance Services at Edward Hines Jr VA Hospital in Hines, IL.
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: ee696abe32d446468a759a76ba7e214b
+---
+
+# V225--Non-Emergency Ambulance Services at Edward Hines Jr VA Hospital in Hines, IL.
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-05-27 14:02:17.576-04
+- Solicitation Number: 36C25226Q0492
+- Awardee: null
+
+## Summary
+
+The Department of Veterans Affairs is issuing this sources sought notice as a means of conducting market research to identify contractors having an interest in and the resources to support a requirement for non-emergency ambulance transportation services for the Edward Hines, Jr VA Hospital in Hines, IL, and for its associated Community-Based Outpatient Clinics, and affiliated healthcare clinics. The applicable North American Industry Classification System (NAICS) code assigned to this procurement is 621910 Ambulance Services. THERE IS NO SOLICITATION AT THIS TIME. This request for capability information does not constitute a request for quotes; submission of any information in response to this market survey is purely voluntary; the government assumes no financial responsibility for any costs incurred. Tentative requirements: The contractor shall provide all vehicles, personnel, management, supplies, equipment, and necessary reporting for the provision of Basic Life Support (BLS), Advanced Life Support (ALS), and Critical Care Transport (CCT) services. The place of performance is variable; Veterans served within this facility may have pick-up or drop-off locations within the State of Illinois, Indiana, or Wisconsin. Service Type Est. Annual Quantity BLS Non-emergency trips (base rate, to include first 25 loaded miles and 30 minutes of wait time) 5400 one-way trips BLS loaded mileage rate (per mile beyond the 25-mile radius) 20,000 loaded miles ALS Non-emergency trips (base rate, to include first 25 loaded miles and 30 minutes of wait time) 200 one-way trips ALS loaded mileage rate (per mile beyond the 25-mile radius) 1,200 loaded miles CCT trips 50 one-way trips Waiting Time (15 minute intervals, beyond initial 30 min) 10 units Submission Instructions: Interested parties who consider themselves qualified to perform the above-listed services are invited to submit a response to this Sources Sought Notice by 3:00 PM local time on June 1st, 2026. All responses under this Sources Sought Notice must be emailed to scott.sands2@va.gov. Telephone inquiries will not be accepted or acknowledged, and no feedback or evaluations will be provided to companies regarding their submissions. If your organization has the potential capacity to perform these contract services, please provide the following information: 1) Organization name, address, email address, web site address, telephone number, and size and type of ownership for the organization; and 2) Tailored capability statements addressing the particulars of this effort, vehicle fleet size, and documentation supporting claims of organizational and staff capability. If significant subcontracting or teaming is anticipated in order to deliver technical capability, organizations should address the administrative and management structure of such arrangements. The government will evaluate market information to ascertain potential market capacity to provide services consistent in scope and scale with those described in this notice and otherwise anticipated. The result of this market research may contribute to determining the method of procurement and any applicable socioeconomic set-aside. Based on the responses to this synopsis and other market research, this requirement may be set-aside for veteran-owned small businesses (SDVOSBs or VOSBs), small businesses, or procured through full and open competition. Limitations on Subcontracting 13 CFR §125.6 will apply to any procurement set-aside for veteran-owned small businesses (SDVOSBs or VOSBs) or small businesses. 13 CFR §125.6 states: (a) General. In order to be awarded a full or partial small business set-aside contract with a value greater than the simplified acquisition threshold (as defined in the FAR at 48 CFR 2.101) in paragraph (a) introductory text; and an 8(a) contract, an SDVO SBC contract, a HUBZone contract, a WOSB or EDWOSB contract pursuant to part 127 of this chapter, a small business concern must agree that: (1) In the case of a contract for services (except construction), it will not pay more than 50% of the amount paid by the government to it to firms that are not similarly situated. Any work that a similarly situated subcontractor further subcontracts will count towards the 50% subcontract amount that cannot be exceeded. Before any large or small business can be awarded a federal contract, a contracting officer (CO) must affirmatively determine that the firm is responsible to perform the specific contract it is otherwise in line to receive. If an apparent small business successful offeror is denied a contract award because it lacks certain elements of responsibility, the CO will refer the matter to the Small Business Administration. Once a CO s referral is received by the SBA s area office, the SBA will then inform the small business of the CO s determination and offer it the opportunity to apply to the SBA for a Certificate of Competency by a specific date. Burden of proof is on the small business to demonstrate that it meets specific COC eligibility criteria. After award, if a CO or other VA officials determine a review of limitations on subcontracting compliance is warranted based upon reasonable information of possible noncompliance, a request for review will be submitted to VA s Subcontracting Compliance Review Program.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Scott Sands
+  - Title: Contracting Officer
+  - Email: scott.sands2@va.gov
+  - Phone: 414-844-4800X43284
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/ee696abe32d446468a759a76ba7e214b/view)

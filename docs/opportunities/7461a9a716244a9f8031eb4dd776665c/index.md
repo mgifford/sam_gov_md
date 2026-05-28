@@ -1,0 +1,28 @@
+---
+layout: default
+title: 7C21 - QIMERA TERM LICENSES RENEWAL
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 7461a9a716244a9f8031eb4dd776665c
+---
+
+# 7C21 - QIMERA TERM LICENSES RENEWAL
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-05-27 18:56:02.123-04
+- Solicitation Number: N0018926QL138
+
+## Summary
+
+SEE ATTACHED COMBINED SYNOPSIS/SOLICITATION THE POINT OF CONTACT AT THE CONTRACTING OFFICE IS MR. JESSE JAGPAL WHO MAY BE REACHED VIA EMAIL AT JESSE.S.JAGPAL.CIV@US.NAVY.MIL
+
+## Contacts
+
+- Primary Contact:
+  - Name: JESSE JAGPAL 771-229-2781 JESSE JAGPAL 771-229-2781 JESSE.S.JAGPAL.CIV@US.NAVY.MIL JOSEPH CALTAGIRONE 564-226-0669 JOSEPH.P.CALTAGIRONE3.CIV@US.NAVY.MIL
+  - Email: joseph.caltagirone@navy.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7461a9a716244a9f8031eb4dd776665c/view)

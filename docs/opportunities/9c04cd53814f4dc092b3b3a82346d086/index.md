@@ -1,0 +1,32 @@
+---
+layout: default
+title: FY28 FIRE CONTROL STRATEGIC SYSTEMS PROGRAMS (SSP) DEVELOPMENT, SUSTAINMENT, PRODUCTION AND OPERATIONS SUPPORT
+agency: DEPT OF DEFENSE
+notice_type: Special Notice
+notice_id: 9c04cd53814f4dc092b3b3a82346d086
+---
+
+# FY28 FIRE CONTROL STRATEGIC SYSTEMS PROGRAMS (SSP) DEVELOPMENT, SUSTAINMENT, PRODUCTION AND OPERATIONS SUPPORT
+
+- Agency: DEPT OF DEFENSE
+- Type: Special Notice
+- Posted: 2026-05-27 14:14:04.937-04
+
+## Summary
+
+The Strategic Systems Programs (SSP) intends to issue a Request for Proposal (RFP) and negotiate a new award on a sole source basis to General Dynamics Mission Systems (GDMS), Pittsfield, MA for the following efforts: Specialized Tactical Engineering Services, Logistics Services and Fire Control Strategic Systems Programs Alteration (SPALT) Services to develop, test, repair, and maintain Fire Control Subsystem (FCS) and related support equipment in support of the existing TRIDENT II strategic weapons system. Specialized Tactical Engineering Services, Logistics Services, and Fire Control SPALT Services to develop, test, repair, and maintain Auxiliary Subsystems and related support equipment in support of the existing TRIDENT II strategic weapon system. Specialized Tactical Engineering Services, Logistics Services, and Attack Weapon Control System (AWCS) SPALT services to develop, test, repair, and maintain the AWCS Subsystem and related support equipment in support of the Tactical Tomahawk Weapon Control System (TTWCS). Research in the application of technologies to support obsolescence mitigation on the TRIDENT II MK98 FCS to include system requirements definition and concept development. This effort is a part of the SSP Modernization Program. Concepts will be required to meet requirements on the MK98 FCS, future MK99 FCS, and associated systems, which will be deployed on the U.S. OHIO & COLUMBIA Class and UK Vanguard & Dreadnought Class submarines. Development of technologies to support the future Fire Control modifications for the TRIDENT II follow-on missile and applicable MK7 RB, to include development and associated production efforts toward future deployable technologies. The development and testing of revisions to the currently deployed FCS tactical, training, auxiliary, and support software and hardware which will meet the requirements of the next generation of the SWS. This effort shall include development of follow-on updates to the deployed FCS tactical, training, auxiliary, and support software and hardware. Continued Modernization and maintenance of the SSP Advanced Inventory and Logistics (SAIL) system and Attack Weapon Interface Simulator (AWIS) hardware, software architecture for the AWCS, and efforts toward the Strategic Weapon Interface Simulator (SWIS). Engineering Services, facilities, and equipment to test, troubleshoot, repair and return tactical electronic components required to maintain the ready spare inventory for the, SWS, various SWS Subsystems, TRIDENT II and AWCS weapon systems. Specialized Tactical Engineering Services and Logistic Services to Install strategic weapon systems on-board U.S. and UK SSBNs, SSGNs, training, and development systems in shore based facilities. Specialized Tactical Engineering Services, Logistics Services, and Fire Control SPALT Services to develop, test, produce, repair, maintain and install the SWS, FCS and related support equipment in support of the strategic weapon system for the U.S. OHIO, U.S. COLUMBIA, UK Vanguard, UK Dreadnought class submarines and future deployed technologies. Efforts may include, but not limited to: the SWS, FCS, FCS/Shipboard Data Subsystem (SDS), including installation and Checkout (I&C) kit, for U.S. Missile Control Center Module (MCCM) mounted equipment, FCS, including I&C kit for U.S. and UK Missile Tube Module (MTM) mounted equipment, Navigation (NAV) Subsystem Cabinets/Consoles, including I&C Kit, for U.S. and UK MCCM mounted equipment, and Spares as provisioned for all installed equipment. Specialized Tactical Engineering Services, Logistics Services, and Fire Control SPALT Services to build, test inspect, repair, and maintain the SWS Subsystems, Auxiliary Subsystems and related support equipment in support of the existing TRIDENT II strategic weapon system and future TRIDENT II systems. Efforts shall include, but not limited to: SPALT Modification Kits, FCS Modification SPALT Kits, Refresh SPALT Kits, Spares Kits, Hardware Kits and associated support equipment. Specialized Tactical Engineering Services and Logistics Services to provide operational support, install and maintain strategic weapon systems and specialized system upgrades on-board U.S. OHIO, UK Vanguard, U.S. COLUMBIA and UK Dreadnought SSBNs and training systems in shore based facilities to include program planning, installation support, operational support, maintenance, repair, upgrade, issue resolution and reporting. Support Services and touch labor relating to design and development efforts, documentation, logistics, engineering, hardware, and associated documentation services. Coordination, transportation, and tracking of all produced and delivered materials to locations as required. The contract types will include Cost Plus Incentive Fee, Cost Plus Fixed Fee, and Cost Only Contract Line Item Numbers (CLINs). The Period of Performance (PoP) includes base year FY28 effort from 1 October 2027 – 30 September 2028, and (1) corresponding one-year option period. Award will be made using other than full and open competition to General Dynamics Mission Systems (GDMS), Pittsfield, Massachusetts, the only known source with the requisite design background, system knowledge and operational experience relative to the TRIDENT II Fire Control Subsystem capable of providing the required efforts within existing technical, cost and fleet schedule constraints. No Solicitation package is available. THIS NOTICE OF INTENT IS NOT A REQUEST FOR COMPETITIVE PROPOSALS. No email or phone inquiries will be entertained. Companies interested in subcontracting opportunities should contact General Dynamics Mission Systems (GDMS), Pittsfield, MA, Small Business Liaison, Ms. Alexis Petro via email at alexis.petro@gd-ms.com
+
+## Contacts
+
+- Primary Contact:
+  - Name: Angela C. Frye
+  - Email: angela.frye@ssp.navy.mil
+  - Phone: 2024513289
+- Secondary Contact:
+  - Name: Laura Nesbitt
+  - Email: laura.nesbitt@ssp.navy.mil
+  - Phone: 2024513248
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9c04cd53814f4dc092b3b3a82346d086/view)

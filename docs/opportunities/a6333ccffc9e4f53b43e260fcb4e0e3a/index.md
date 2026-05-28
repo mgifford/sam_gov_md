@@ -1,0 +1,35 @@
+---
+layout: default
+title: 99--Replace Interpretive Signs for NPS, Big South Fork
+agency: INTERIOR, DEPARTMENT OF THE
+notice_type: Combined Synopsis/Solicitation
+notice_id: a6333ccffc9e4f53b43e260fcb4e0e3a
+---
+
+# 99--Replace Interpretive Signs for NPS, Big South Fork
+
+- Agency: INTERIOR, DEPARTMENT OF THE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-05-27 13:02:32.711-04
+- Solicitation Number: 140P5126Q0038
+
+## Summary
+
+Replace Interpretive Signs for NPS, Big South Fork National River and Recreation Area. Modification No. 1 - This modification is being issued to attach "Attachment A" to this solicitation. This is a combined synopsis/solicitation for a commercial item prepared in accordance with the format outlined in FAR Subpart 12, FAC 2005-87 and as supplemented with additional information included in this notice. This announcement constitutes the only solicitation. Quotations are being requested and a written solicitation will not be issued. The resultant purchase order will be awarded using simplified acquisition procedures in accordance with FAR 13. This is a small business set aside in accordance with FAR 19. The National Park Service, Contracting Operations (ConOps) East, has a requirement to Replace Interpretive Signs for NPS, Big South Fork National River and Recreation Area in Oneida, TN. This procurement will be 100% set-aside for Small Businesses. The NAICS code is 339950 - Sign Manufacturing. The small business standard is Maximum 500 Employees. Product Service code: 9905, Signs, Advertising Displays, and Identification Plates. All interested offers MUST have an active vendor record in SAM.gov, be a small business under the identified NAICS code and NOT have any exclusions such as a delinquent federal debt or debarment. The solicitation number assigned to this requirement is 140P5126Q0038. The solicitation is issued as a Request for Quote (RFQ). The Government intends to award a Firm-Fixed Price Contract to the firm that provides the best value, which will result from lowest price technically acceptable, without discussions in accordance with FAR 13.106-2. All responsible sources may submit a quotation, which if timely received, shall be considered by the Agency. Companies must have valid UEI number and be registered with System for Award Management (www.sam.gov). SAM.gov offers free services. An offeror must ensure that they are self-certified under NAICS Code 339950 in the Representations and Certifications portion of SAM.gov. QUESTIONS: Email any questions to Jade_bynum@ios.doi.gov by 5pm (EDT) on 9 June 2026 to be considered. Answers to questions will be posted in the same manner as this notice. It is the Offerors' responsibility to check for updated information. No oral or late questions will be accepted. The closing date and time for receipt of quotes is Monday, 22 June 2026 at 5pm (EDT) via email to Jade_bynum@ios.doi.gov.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Bynum, Jade
+  - Email: Jade_Bynum@nps.gov
+  - Phone: 4045075756
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: " to this solicitation. This is a combined synopsis/solicitation for a commercial item prepared in accordance with the format outlined in FAR Subpart 12, FAC 2005-87 and as supplemented with additional information included in this notice. This announcement constitutes the only solicitation. Quotations are being requested and a written solicitation will not be issued. The resultant purchase order will be awarded using simplified acquisition procedures in accordance with FAR 13. This is a small business set aside in accordance with FAR 19. The National Park Service, Contracting Operations (ConOps) East, has a requirement to Replace Interpretive Signs for NPS, Big South Fork National River and Recreation Area in Oneida, TN. This procurement will be 100% set-aside for Small Businesses. The NAICS code is 339950 - Sign Manufacturing. The small business standard is Maximum 500 Employees. Product Service code: 9905, Signs, Advertising Displays, and Identification Plates. All interested offers MUST have an active vendor record in SAM.gov, be a small business under the identified NAICS code and NOT have any exclusions such as a delinquent federal debt or debarment. The solicitation number assigned to this requirement is 140P5126Q0038. The solicitation is issued as a Request for Quote (RFQ). The Government intends to award a Firm-Fixed Price Contract to the firm that provides the best value, which will result from lowest price technically acceptable, without discussions in accordance with FAR 13.106-2. All responsible sources may submit a quotation, which if timely received, shall be considered by the Agency. Companies must have valid UEI number and be registered with System for Award Management (www.sam.gov). SAM.gov offers free services. An offeror must ensure that they are self-certified under NAICS Code 339950 in the Representations and Certifications portion of SAM.gov. QUESTIONS: Email any questions to Jade_bynum@ios.doi.gov by 5pm (EDT) on 9 June 2026 to be considered. Answers to questions will be posted in the same manner as this notice. It is the Offerors" responsibility to check for updated information. No oral or late questions will be accepted. The closing date and time for receipt of quotes is Monday, 22 June 2026 at 5pm (EDT) via email to Jade_bynum@ios.doi.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a6333ccffc9e4f53b43e260fcb4e0e3a/view)

@@ -1,0 +1,32 @@
+---
+layout: default
+title: 122FW - Fort Wayne, IN - Bldg 770 Fire Crash/Rescue Station Addition/Alteration
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: c0d547781c0d461fb65f915151617cd7
+---
+
+# 122FW - Fort Wayne, IN - Bldg 770 Fire Crash/Rescue Station Addition/Alteration
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-05-27 06:44:07.153-04
+- Solicitation Number: W50S7W26RA005
+
+## Summary
+
+***Completed RFI Answers UPLOADED*** DUE DATE has been extended to 29 MAY 2026 at 3:00pm EDT due to pending RFI answers PROJECT TITLE: B770, FIRE STATION ADDITION/ALTERATION PROJECT NUMBER: ATQZ229030 NON-PERSONAL SERVICES TO PROVIDE THE RENOVATION AND ADDITION IN SUPPORT OF THE 122ND FIGHTER WING FIRE DEPARTMENT BUILDING 770, INDIANA AIR NATIONAL GUARD BASE, FORT WAYNE, IN 46809.CONSTRUCTION INCLUDES CONVENTIONAL DESIGN AND CONSTRUCTION METHODS TO ACCOMMODATE THE MISSION OF THE FACILITY. ALTERATION OF THE EXISTING BUILDING WILL INCLUDE FUNCTIONAL REPAIRS, ROOF, LIGHTNING PROTECTION, EXTERIOR ENVELOPE, FIRE PROTECTION, AND HVAC SYSTEMS. SPECIAL CONSTRUCTION WILL INCLUDE VEHICLE EXHAUST EXTRACTION SYSTEM AND AUTOMATED ROLL DOORS. NEW CONSTRUCTION INCLUDES SLEEPING QUARTERS, ADMINISTRATIVE, STORAGE, AND EQUIPMENT SUPPORT AREAS AND AN APPARATUS BAY.THE NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODE IS 236220 WITH A SMALL BUSINESS SIZE STANDARD OF $45,000,000. THE TARGET PRICE RANGE FOR THIS PROJECT IS BETWEEN $7,000,000 AND $9,000,000.A pre-proposal conference and site visit is scheduled for 10 APRIL 2026 at 2:00pm local time. All questions for the pre-bid conference must be submitted by 8 April 2026 via email to 122.fw.contracting.org@us.af.mil
+
+## Contacts
+
+- Primary Contact:
+  - Name: Lisa Crose
+  - Email: lisa.crose@us.af.mil
+  - Phone: 2604783265
+- Secondary Contact:
+  - Name: 122 Fighter Wing Contracting Office
+  - Email: 122.fw.contracting.org@us.af.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c0d547781c0d461fb65f915151617cd7/view)

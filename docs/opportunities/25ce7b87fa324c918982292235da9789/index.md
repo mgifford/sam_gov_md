@@ -1,0 +1,33 @@
+---
+layout: default
+title: Pier Fuel Reel Replacements for CG Air Station Port Angeles
+agency: HOMELAND SECURITY, DEPARTMENT OF
+notice_type: Combined Synopsis/Solicitation
+notice_id: 25ce7b87fa324c918982292235da9789
+---
+
+# Pier Fuel Reel Replacements for CG Air Station Port Angeles
+
+- Agency: HOMELAND SECURITY, DEPARTMENT OF
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-05-27 12:54:16.868-04
+- Solicitation Number: 70Z03326Q2019000001
+
+## Summary
+
+DESCRIPTION OF REQUIREMENT: The U.S. Coast Guard requires services for the contractor to provide all personnel, equipment, tools, transportation, supervision, and other items and services necessary to remove and replace the diesel and gasoline hose reels located at the waterfront of USCG AIRSTA Port Angeles. The Government intends to issue a firm-fixed-price purchase order for this project. The full scope of work and specifications are included in the solicitation documents. Project Address: U.S. Coast Guard Air Station Port Angeles 1 Ediz Hook Rd. Port Angeles, WA 98362 United States This acquisition is set-aside 100% for SMALL BUSINESS. Where Federal Acquisition Regulation clause language is inconsistent with FAR 13.004, Legal Effect of Quotations, that language is hereby tailored in accordance with FAR 12.302 to be consistent with a request for quotations. This tailoring includes but is not limited to the following: In accordance with FAR 13.004, a quotation is not an offer, and any clause provision to the contrary is hereby modified to be consistent with FAR 13.004. Where the word "offer/offeror" or a derivative of that word appears, it is changed to "quote/quoter" or a derivative of that word. The associated NAICS code is 238290 (Other Building Equipment Contractors). A site visit will be mandatory for all interested offerors. All interested offerors must arrive no later than five minutes prior to their RSVP'd start time. Each offeror is required to visit the site to provide the government with an accurate and competitive offer but is not required to submit a quote. Site Visit Dates: June 3rd, 2026. Site Visit Time(s): 8:00 AM -1:00 PM PDT. Location: U.S. Coast Guard Air Station Port Angeles 1 Ediz Hook Rd. Port Angeles, WA 98362 United States Please E-mail Taela Moye at taela.m.moye@uscg.mil to RSVP for the site visit no later than June 1st, 2026. Any and all questions regarding this solicitation shall be submitted in writing to the Contract Specialist at taela.m.moye@uscg.mil with solicitation RFQ number 70Z03326Q2019000001 in subject line. Questions regarding the statement of work (SOW) will be forwarded to the technical expert for an accurate response. All responses will be uploaded for an equal and fair solicitation to all interested vendors on solely SAM.gov. No more questions will be answered after 3:00 PM PDT on June 4th, 2026. All quotes are due by 2:00 PM (PDT) June 10th, 2026. SUBMISSION OF QUOTES Prohibition on Extraneous Material: Do not submit any unnecessary documents, promotional marketing materials, general company history brochures, or generic cover letters. Quotes must contain only the specific information requested below. Extraneous documents will not be evaluated and may be counted against your page limits. Quotes must be submitted electronically to taela.m.moye@uscg.mil by the date and time specified in this solicitation. Incomplete submissions may be considered unresponsive and ineligible for award. A complete submission shall consist of the following three parts: Part 1: SF 1449 Complete and sign the provided Standard Form (SF) 1449. Insert the total firm-fixed-price bid in the appropriate blocks on the SF 1449. Part 2: Price Quotation A detailed Price Breakdown for the total firm-fixed-price. The Price Breakdown shall not exceed one (1) page. The breakdown must, at a minimum, separate the costs for the following major tasks: Removal and Disposal of Existing Hoses and Associated Components Materials & Installation (2) Electric / Level Winding Fuel Hose Reel Systems with Weatehr Tight Stainless Steel Enclosures (including hardware) Electrical Work & System Integration Labor Hours & Wages Part 3: Technical Proposal The Technical Proposal shall not contain any pricing information. The Technical Proposal shall not exceed two (2) pages in length. It must provide a clear, concise narrative demonstrating the quoter’s understanding of and ability to meet the requirements of the Statement of Work (SOW). The proposal must include: Technical Approach: A step-by-step description of how the quoter will perform the work, including mobilization, demolition, installation of fuel hose systems, and electrical hookup. List of Major Materials and Equipment: A list of the key materials and equipment proposed for the project. This list is for technical evaluation purposes to ensure compliance with the SOW and must include, at a minimum: Manufacturer and model number for the hose reel systems. Project Schedule: A high-level timeline illustrating the project's major milestones. The schedule must start from the date of the Notice to Award (NTA) and demonstrate that all work, including demobilization and site cleanup, will be completed within the required Period of Performance, with a completion date of July 31, 2026. Milestones should be shown in terms of days from the NTA (e.g., "Removal of Existing Hoses Complete: Day 10," "Hose Reels Installed: Day 20," "Final Acceptance Testing: Day 85"). Submit quotes to the following e-mail address by the offer due date and time zone: Attn: Taela Moye E-Mail Address: taela.m.moye@uscg.mil with solicitation RFQ number 70Z03326Q2019000001 in subject line. It is the government’s intent to award to the low cost responsible and responsive offeror who provides the most advantageous, reasonable, and negotiable offer to the government. Under FAR 4.1103 prospective contractor shall be registered in System Award Management (SAM) prior to award. Failure for contractor to be registered in SAM shall result in Contracting Officer to proceed with next successful registered offeror. Website: www.sam.gov
+
+## Contacts
+
+- Primary Contact:
+  - Name: Taela Moye
+  - Email: Taela.M.Moye@uscg.mil
+  - Phone: 206-827-2086
+- Secondary Contact:
+  - Name: Patrick Gittings
+  - Email: Patrick.R.Gittings@uscg.mil
+  - Phone: 5716104474
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/25ce7b87fa324c918982292235da9789/view)

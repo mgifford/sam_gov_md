@@ -1,0 +1,31 @@
+---
+layout: default
+title: Maltego Open Source Intelligence (OSINT) for Foreign Military Sales (FMS)
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 1a8146ee1e5b46a5944fdba424788bd0
+---
+
+# Maltego Open Source Intelligence (OSINT) for Foreign Military Sales (FMS)
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-05-27 16:52:51.621-04
+- Solicitation Number: OSINT_for_Romania
+
+## Summary
+
+SOURCES SOUGHT FOR MALTEGO OSINT SOFTWARE, LICENSES, SUBSCRIPTIONS AND TRAINING FOR FOREIGN MILITARY SALES (FMS) INTRODUCTION The U.S. Army Contracting Command, Aberdeen Proving Ground (ACC-APG) on behalf of the Communications-Electronics Command Security Assistance Management Directorate (CECOM SAMD) is issuing this Sources Sought notice as a means of conducting market research to identify potential sources having an interest in, industry technologies available and qualified to fulfill requirements for the delivery of Maltego Open Source Intelligence (OSINT) software, licenses, subscriptions and training (virtual). The result of this sources sought/market survey will contribute to determining the method of procurement, if a requirement materializes. Based on the responses to this sources sought notice/market survey, this requirement may be set-aside for small businesses (in full or in part) or procured through full and open competition. All small business set-aside categories will be considered. Telephone inquiries will not be accepted or acknowledged, and no feedback or evaluations will be provided to companies regarding submissions. The U.S. Government requests that interested parties submit a brief description of your company, your company’s solution, and your ability to meet potential system requirements. DISCLAIMER THIS SOURCES SOUGHT IS FOR INFORMATIONAL PURPOSES ONLY. THIS IS NOT A REQUEST FOR PROPOSAL (RFP) TO BE SUBMITTED. IT DOES NOT CONSTITUTE A SOLICITATION AND SHALL NOT BE CONSTRUED AS A COMMITMENT BY THE GOVERNMENT. RESPONSES IN ANY FORM ARE NOT OFFERS AND THE GOVERNMENT IS UNDER NO OBLIGATION TO AWARD A CONTRACT AS A RESULT OF THIS ANNOUNCEMENT. NO FUNDS ARE AVAILABLE TO PAY FOR PREPARATION OF RESPONSES TO THIS ANNOUNCEMENT. ANY INFORMATION SUBMITTED BY RESPONDENTS TO THIS SOURCES SOUGHT/MARKET RESEARCH IS STRICTLY VOLUNTARY. PROGRAM BACKGROUND CECOM SAMD administers and manages FMS cases in support of partner nations. CECOM SAMD’s goal is to satisfy requirements for the Maltego Open Source Intelligence (OSINT) Software, Licenses, Subscriptions and Training (virtual) for the country of Romania. REQUIRED CAPABILITIES The purpose of this market research/sources sought is to identify interested sources that are qualified and able to provide the following hardware/software and services: Three (3) licenses of the Maltego Enterprise Plan for a duration of three (3) years (36 months) from the date of delivery. The Maltego software and licenses shall include subscriptions for: Maltego Data Pass (50,000 credits/month per user) Echosec – Disinformation Data Transforms (1,500 queries/month per user) Routine Software Technical Support and Updates Instructor-Led Maltego Analyst Foundations Training, conducted via remote Video Teleconferencing Request responses must include Rough Order of Magnitude (ROM) price and availability (P&A) information for the software, licenses, subscriptions and (remote) training described. SPECIAL REQUIREMENTS Any resulting contract is anticipated to have a security classification level of Unclassified. Any resulting contract shall be compliant with the specialty metals restriction of the Berry Amendment (10 U.S.C. 2533a and 2533b) in accordance with DFARS clauses 252.225-7008 and 252.225-7009. ELIGIBILITY PSC 7A20 7A20 - IT AND TELECOM - APPLICATION DEVELOPMENT SOFTWARE (PERPETUAL LICENSE SOFTWARE) NAICS 513210 Software Publishers SUBMISSION DETAILS Interested sources should furnish the following information, in the format provided below: (1) Name and address of company, with Commercial and Government Entity (CAGE) Code and Unique Entity ID (UEID) number. Any interested company must be registered within System Award Management < https://sam.gov > (2) Point of Contact Name, Department, phone number, and email address. (3) Identify past and current services your company offers that exactly match the capabilities specified above. (4) Address your company's capability to act as a single provider for the hardware and services defined herein. If significant subcontracting or teaming is anticipated in order to deliver technical capability, organizations should address the administrative and management structure of such arrangements. No phone or email solicitations with regards to the status of any resulting request for proposal (RFP) will be accepted prior to its release. Your response to this Sources Sought, including any capabilities statement(s), shall be electronically submitted to Contract Specialist Rem D. Ngo, in either Microsoft Word or Portable Document Format (PDF), via email < rem.d.ngo.civ@army.mil > no later than 4:00 p.m. Eastern Standard (ES) on 11 June 2026. Reference this sources sought/synopsis number < OSINT_for_Romania >in the e-mail subject line and on all enclosed documents. Responses shall include documented capability to deliver required radio systems and equipment. Information and materials submitted in response to this request WILL NOT be returned. DO NOT SUBMIT CLASSIFIED MATERIAL. All data received in response to this Sources Sought that is marked or designated as corporate or proprietary will be fully protected from any release outside the Government. Interested sources shall disclose their current involvement. Specifically, interested sources shall detail whether their company is currently providing the described requirements to the Government—either directly as a prime contractor or as a subcontractor on any other effort.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Rem D. Ngo
+  - Email: Rem.D.Ngo.civ@army.mil
+- Secondary Contact:
+  - Name: Aqua Jefferson
+  - Email: aqua.m.jefferson.civ@mail.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/1a8146ee1e5b46a5944fdba424788bd0/view)

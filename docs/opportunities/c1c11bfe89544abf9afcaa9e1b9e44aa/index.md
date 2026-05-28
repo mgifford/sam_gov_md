@@ -1,0 +1,28 @@
+---
+layout: default
+title: Minidoka NHS BUILDING EXPANSION
+agency: INTERIOR, DEPARTMENT OF THE
+notice_type: Solicitation
+notice_id: c1c11bfe89544abf9afcaa9e1b9e44aa
+---
+
+# Minidoka NHS BUILDING EXPANSION
+
+- Agency: INTERIOR, DEPARTMENT OF THE
+- Type: Solicitation
+- Posted: 2026-05-27 19:47:45.015-04
+- Solicitation Number: 140P8326R0005
+
+## Summary
+
+THIS IS A PRE-SOLICITATION NOTICE ONLY. MINIDOKA NATIONAL HISTORIC SITE-BUILDING EXPANSION DESCRIPTION OF REQUIREMENT. The National Park Service (NPS) at Minidoka National Historic Site (MIIN) has a requirement for a building expansion the project will be dedicated to the construction of a +/-830 SF addition to the Maintenance Building. The addition shall match the construction and materiality of the existing building: metal frame over concrete spread footings. Building includes metal framing and metal panel exterior wall and roof finishes. Interior spaces consist of six offices with interior hallway. New duct HVAC will be installed. Existing electrical system and tele/data will be extended to support the added spaces noted. Site excavation and drawings will be included once RFP is posted. Revegetation is excluded. LOCATION: Minidoka National Historic Site (MIIN) 1394 Hunt Road, Jerome, Idaho 83338 SITE VISIT. An organized site visit will be scheduled to take place June 22, 2026 at 11am (PD) at Minidoka National Historic Site (MIIN). The specific location to meet at and other site visit information will be included in the solicitation. PROJECT SCHEDULE. The government anticipates work starting end of July 2026 and being completed Jan/Feb 2027 (approx. 6 months). SMALL BUSINESS SET-ASIDE. This acquisition is a Total Small Business Set-Aside. Offers are solicited only from small business concerns. Offers received from concerns that are not small business concerns shall not be considered. The North American Industry Classification System (NAICS) Code for this requirement is 236220, Commercial and Industrial Building Construction, with a corresponding size standard of $45 million in annual gross receipts for the past three years. AFFORDABILITY. The Government seeks offers with a total price between $250,000 and $500,000. Offerors should not interpret this figure as a ceiling (or as a floor) on offers; rather, this information is provided as a courtesy to prospective offerors. The Government may select an offer for award with a price below, at, or exceeding this figure if it finds that offer provides the best value and funds are available. BEST VALUE PROCUREMENT. The Government intends to award a single, firm-fixed-price contract. Evaluation for award will be made in accordance with the negotiated acquisition procedures outlined in FAR Part 15. Award selection will be made on a Best Value determination made after consideration of price and factors other than price) as listed in Section M of the solicitation. SOLICITATION AVAILABLITY. The Request for Proposal (RFP) will be available on/about 6/12/26, by electronic means only and can be downloaded along with all associated attachments from the Contracting Opportunities website at www.sam.gov. The offeror is responsible for periodically checking the website for any Amendments that may be issued prior to the closing date of the RFP. Responses will be due approximately 30 days after the RFP is posted, unless extended. The entire solicitation package, including specifications, wage rates, plans/drawings, and other documents will be in Microsoft Word and/or Excel, or Adobe PDF. Offerors will submit their proposals in digital format per instructions included in Section L of the solicitation. The RFP will require offerors to submit both a technical and a business proposal (including price); the government will consider an offeror¿s technical capability in comparison to its price and award to the firm whose offer represents the best value. Proposals are due by the date and time specified in Block 13 of the Standard Form 1442 or as started in the most recent amendment (SF-30). A Bid Bond will be required in the amount of 20% of offered price, submitted as part of the business proposal. Refer to Section L of ¿Terms Provisions Clauses¿ document. WHERE TO CHECK FOR AMENDMENTS TO SOLICITATION. Prospective offerors must visit SAM.gov periodically to check for amendments and other changes to the solicitation documents; no other notifications will be sent nor will hard copies of the solicitation be mailed or issued. All eligible responsible sources may submit a proposal which shall be considered by the National Park Service, however, offerors who have not established and/or maintained an active registration at www.SAM.gov by the offer due date and time will be considered either ineligible or non-responsive and will be not considered for award. QUESTIONS? All questions shall be submitted in writing, emailed to: Katheryn_camacho@ios.doi.gov and cc: Brianna_bowhay@nps.gov Email shall contain ¿140P8426R0005 MIIN Building Expansion¿ in the subject line of the email. Brianna is the technical point of contract and Katherynn is the Contracting Officer. If questions pertain to technical specification, include the specific citation within the specs for the question asked. If question is about the Plans/Drawings, include the drawing number for the question asked. Q&A will be compiled and posted as solicitation amendment(s). Watch for amendments as the response date when proposals are due may change and will be stated in the amendment(s).
+
+## Contacts
+
+- Primary Contact:
+  - Name: Camacho, Katheryn
+  - Email: katheryn_camacho@nps.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c1c11bfe89544abf9afcaa9e1b9e44aa/view)
