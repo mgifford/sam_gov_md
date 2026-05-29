@@ -1,7 +1,7 @@
 # Recompete Discovery Summary
 
 - Cohort size: 30 companies
-- FY window: 2024-10-01 to 2026-09-30
+- FY window: 2025-10-01 to 2027-09-30
 - Expiring awards found: 24000
 - Small-business set-aside awards: 0
 - Rule-of-Two high-confidence signals: 0
@@ -150,7 +150,7 @@
 - Rule-of-Two signal: not-applicable
 - Rule-of-Two evidence: SB vendors=0 / total=0
 - Labor Category: Software Engineer
-- Benchmark diff: 23.69%
+- Benchmark diff: 23.7%
 - Benchmark source: gsa
 - Benchmark basis: market_premium_proxy
 
