@@ -1,0 +1,31 @@
+---
+layout: default
+title: V119--Customs Brokerage Services for Import of Pharmaceutical Products
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: 7a82a4077f724dcb883a27d700619508
+---
+
+# V119--Customs Brokerage Services for Import of Pharmaceutical Products
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-05-28 15:04:39.882-04
+- Solicitation Number: 36C24E26Q0046
+- Awardee: null
+
+## Summary
+
+SUMMARY: This is a Sources Sought notice and not a request for proposals. This request is solely for the purpose of conducting market research to enhance VHA s understanding of the market s offered products, services and capabilities. The Government will not pay any costs for responses submitted in response to this Sources Sought. This Sources Sought notice provides an opportunity for respondents to submit their notice of ability, and their available products and services in response to the requirement described below. Vendors are invited to submit information relative to their potential of fulfilling the requirement below, in the form of a capability response that addresses the specific requirement identified in this Sources Sought. The Veterans Health Administration (VHA) is seeking a vendor to provide the following products and/or services below. Please see the General Requirements section below for the requested products/services and descriptions. This Sources Sought is to facilitate the Contracting Officer s review of the market base, for acquisition planning, size determination, and procurement strategy. 1. GENERAL REQUIREMENTS The Department of Veterans Affairs Office of Research & Development requires Customs Brokerage and transportation services to the VA Cooperative Studies Program Clinical Research Pharmacy Coordinating Center located in Albuquerque, New Mexico. The VA Cooperative Studies Program Clinical Research Pharmacy Coordinating Center requires Customs Brokerage and transportation services for import of shipments of pharmaceutical products (drugs, devices, or other related products) destined for Albuquerque, New Mexico. These materials are used in the conduct of clinical trial studies and in some cases may require special handling such as cold chain management. 2. CONTRACTOR REQUIREMENTS AND TASKS: Vendor will act as liaison between the VA Cooperative Studies Program Clinical Research Pharmacy Coordinating Center (CSPCRPCC), US Customs and Border Protection (US CBP), the Food and Drug Administration (FDA), or any other required agency for the purposes of importing and clearing import/export shipments of pharmaceutical products. Vendor must be certified to handle shipments that may include Schedule I-V controlled substances. Vendor will maintain a continuous bond throughout each contract period. During each follow-on year if contract option is exercised, vendor will renew bond. Any changes to the bond impacting the user will be communicated to the user. The expected countries of origins based on best data at the time of the initial contract solicitation are: Europe Vendor will provide import and transportation services from the United States port of entry to CSPCRPCC located in Albuquerque, NM. Transportation services will include ability to provide appropriate temperature controls for freight as required by the specific freight (some products require temperature logging devices). Vendor will perform US Customs and Border Protection and US Food and Drug Administration (CBP and FDA) clearance and handling services to include duties, taxes, and fees for multiple imports during each specified period of performance. It is not expected that there will be tariff requirements as these products are used under an FDA IND or fall under the following section of the Harmonized Tariff Schedule of the United States (HTSUS). If a tariff is required, vendor must contact contracting officer prior to allowing. Exclusions for tariff exemptions for research product are below: HTSUS 9817.00.60 Articles imported for testing, experimental, or research purposes that are not for sale or commercial use. Vendor will be responsible for insuring freight during transit. Vendor will provide a centralized point of contact (either phone number, email address, or fax number) for user to transmit shipment details. Prior to formalizing transportation of any cargo, vendor will contact user with cost estimate so user can ensure adequate funds are available and take action to add funds to the purchase order if necessary. 3. CONFORMANCE STANDARDS: Vendor will perform all services in accordance with US Government guidance related to import of supplies/materials. 4. OTHER PERTINENT INFORMATION OR SPECIAL CONSIDERATIONS: Delivery of shipments shall be: VA Cooperative Studies Program Clinical Research Pharmacy Coordinating Center 2401 Centre Ave SE Albuquerque, NM 87106 Expected imports: Prior to receipt, user will provide vendor with details to include type of material and any special handling requirements such as temperature monitoring. 5. PERIOD OF PERFORMANCE: The period of performance shall be for one base year PLUS four (4) option years. 6. SPECIAL CONSIDERATIONS: These types of services typically require the using agency (the Department of Veterans Affairs {VA}) to provide a Power-of-Attorney (POA) for the vendor to act on behalf of the using agency. The POA will require coordination between VA legal and vendor to ensure both parties agree to terms and conditions contained in the POA. 7. LINE ITEMS 0001 Custom Bonds 1 YR 0002 Import (CSP2002) 4 EA 0003 Transportation of Imported Materials (CSP2002) 4 EA 0004 Import Fees (P558) 2 EA 0005 Transportation of Imported Materials (P558) 2 EA 0006 Tariff Fees N/C 6 EA The base yar and all option years will need to be priced upfront at the time of the solicitation.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Ann Marie Stewart
+  - Title: Contracting Officer
+  - Email: annmarie.stewart@va.gov
+  - Phone: 401-919-0878
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7a82a4077f724dcb883a27d700619508/view)

@@ -1,0 +1,33 @@
+---
+layout: default
+title: MONITOR, LENSWATERV
+agency: HOMELAND SECURITY, DEPARTMENT OF
+notice_type: Solicitation
+notice_id: 15b3139999fa4976843da5c110797ff3
+---
+
+# MONITOR, LENSWATERV
+
+- Agency: HOMELAND SECURITY, DEPARTMENT OF
+- Type: Solicitation
+- Posted: 2026-05-28 13:59:21.172-04
+- Solicitation Number: 70Z08526Q40132B00
+
+## Summary
+
+REQUEST FOR QUOTE #70Z08526Q40132B00. QUOTE DUE NLT: 6/9/2026, 1 PM EST. ITEM REQUIRED DELIVERY DATE: 7/5/2026. NAICS 335313 This is a combined synopsis/solicitation for commercial items, prepared in accordance with the format in subpart 12.6 of the FAR Part 12 - Acquisition of Commercial Products and Commercial Services | Acquisition.GOV and as supplemented with additional information included in this notice. This announcement constitutes only solicitation; quotes are being requested and a separate written solicitation will not be issued. Request for Quote number in header applies and is used as the solicitation number. This solicitation document and incorporated provisions and clauses are those in effect through Federal Acquisition Circular 2005-87, effective, 7 March 2016. It is anticipated that a competitive purchase order shall be awarded because of this synopsis/solicitation. All responsible sources may submit a quotation, (vendor must have an active registration in SAM.Gov prior to award), which if timely received, shall be considered by this agency. Payments are NET 30 and will be made in accordance with the FAR 52.232-25 Prompt payment clause 52.232-25 Prompt Payment. | Acquisition.GOV. All acquisitions expected to exceed $10k can also be found on SAM.GOV under the same solicitation/RFQ listed in the header. The U.S. Coast Guard, Surface Forces Logistics Center (SFLC) intends to award a Firm Fixed Price Purchase Order. The United States Coast Guard Surface Forces Logistics Center has a requirement for the following items: Vendor shall provide: VENDOR NAME: VENDOR UEI: ALL ITEMS LISTED IN THE BELOW PARTS LIST AND NO SUBSTITUTIONS WILL BE AUTHORIZED WITHOUT APPROVAL FROM USCG SFLC TECHNICAL EXPERTS. NSN PART # NOMENCLATURE QTY U/I PRICE TOTAL 6110 17-123-7790 BILGMON 488 MONITOR, LENSWATER 8 EA If unable to meet required delivery date provide DD: ______ PRESERVATION, PACKAGING & MARKING SHALL BE IN ACCORDANCE WITH SPECIFICATIONS OUTLINED IN PREPARATION FOR DELIVERY BELOW: BILGMON-488 OIL CONTENT MONITOR MEASURING RANGE? 0-200 PPM; ALARM: 1-99PPM ADJUSTABLE ALARM2: GENERAL ALARM TO CONTROL ROOM PROTECTION: IP65 18 MONTH DATA ENVENT HISTORY DATA HISTORY DOWNLOAD: MINI USB PORT OVERALL DIMENSIONS: 210X200X100MM (LXWXD) NET WEIGHT POWER MODULE 1,2 KG, MEASURING CELL 1,1 KG INDIVIDUAL PACKAGE EACH IN ACCORDANCE WITH MIL-STD-2073-1E METHOD 10, IN A CARDBOARD BOX, WITH CUSHIONING MATERIALS, AND DUNNAGE, TO RESTRICT THE MOVEMENT OF THE ITEM WITHIN THE CONTAINER. EACH PACKAGE IS TO BE MARKED IAW MIL-STD-129R AND BAR CODED IAW ISO/IEC-16388-2007, CODE 39 SYMBOLOGY. PACKAGE LABEL: ITEM NAME: PART NUMBER: NSN: QNTY: (EXAMPLE 1 EA) COND-A CONTRACT NUMBER / ORDER NUMBER POC: MICHAEL MOONEY E-MAIL: MICHAEL.P.MOONEY1@USCG.MIL PH: 571-607-6027 -NO SUBSTITUTIONS. ?Quality Assurance Q/A Inspection, if this block is checked, the contractor shall be responsible for notifying the Contracting Officer at least seven (07) calendar days prior to the contractor being ready for Q/A inspections or testing as required. Are you able to meet packaging requirements? Yes, ___ No ____ ** Total cost shall have delivery and any Freight charges to zip code 21226 included. ** ** SHIPPING: FOB DESTINATION REQUIRED. ** SHIP TO: USCG SURFACE FORCES LOGISTICS CENTER 2401 HAWKINS POINT ROAD RECEIVING ROOM- BUILDING 88 BALTIMORE, MD 21226 Preparation For Delivery All material must be shipped to U.S. Coast Guard Surface Forces Logistics Center, 2401 Hawkins Point Road, Receiving Room- BLDG 88, Baltimore, MD, 21226 for this Purchase Order. Material must be accompanied by an itemized packaging list securely attached to the outside of the shipment. All packing lists shall cite the Purchase Order Number with the packaging in such a manner to ensure identification of the material provided. Material shall be packed for shipment using Military Packaging, for examples in packaging please reference MIL-STD-2073-1E. Material must be packaged in such a manner as to afford adequate protection to the item against corrosion, deterioration, and physical damage during shipment from the supply course to Surface Forces Logistics Center locations. Packaging shall provide adequate protection for warehouse storage and shipments from the warehouse. All material shall be marked in accordance with MIL-STD-129R and barcoded unless otherwise authorized by the Contracting Officer. All material will have the Purchase Order Number, National Stock Number (if applicable), Vendor name and Part Number clearly marked on the exterior of all material shipped. All Deliveries are to be made Monday through Friday between the hours of 8am to 3pm. Please make sure that any changes in Delivery Timeframes or tracking information get sent to JERMAINE.T.PERKINS@uscg.mil , daniel.j.nieves@uscg.mil U.S. COAST GUARD APPROVED LABEL SHOULD HAVE THE FOLLOWING NATIONAL STOCK NUMBER (NSN) ITEM NAME PART NUMBER PURCHASE ORDER NUMBER THE WORDS “COAST GUARD SFLC MATERIAL” CONDITION (A) QUANTITY AND UNIT OF ISSUE (I.E) (1-EA) Invoicing In IPP It is now a requirement that all invoicing for Purchase Orders will now be entered and processed through https://www.ipp.gov. All invoices must contain the following information: CG contract number, vendor’s invoice number, vendor’s UEI, UEI & TINs number, cage number, PO item number, description of supplies or services, unit prices and extended totals (INVOICES FOR PURCHASE ORDERS AWARDED BY SURFACE FORCE LOGISTICS CENTER, BALTIMORE ARE TO BE SUMITTED AS NON PO IN IPP). Shipping costs will be indicated as a separate line item on the invoice (if applicable). Shipping cost $100 or more must be accompanied by a separate freight invoice when submitting an invoice(s) for payment (if applicable). To submit an invoice, vendor must have access to www.ipp.gov. Additionally, a copy of the invoice must also be sent to the PO Issuing Office at: JERMAINE.T.PERKINS@uscg.mil
+
+## Contacts
+
+- Primary Contact:
+  - Name: Jermaine Perkins
+  - Email: Jermaine.T.Perkins@uscg.mil
+  - Phone: 4107626502
+- Secondary Contact:
+  - Name: Daniel J. Nieves
+  - Email: daniel.j.nieves@uscg.mil
+  - Phone: 4107626696
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/15b3139999fa4976843da5c110797ff3/view)

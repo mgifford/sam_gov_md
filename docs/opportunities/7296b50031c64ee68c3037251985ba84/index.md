@@ -1,0 +1,34 @@
+---
+layout: default
+title: Screening System Data Consortium Cooperative Research and Development Agreement (CRADA)
+agency: HOMELAND SECURITY, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: 7296b50031c64ee68c3037251985ba84
+---
+
+# Screening System Data Consortium Cooperative Research and Development Agreement (CRADA)
+
+- Agency: HOMELAND SECURITY, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-05-28 17:52:07.019-04
+- Solicitation Number: 70RSAT25RFI000018
+
+## Summary
+
+********************************UPDATE************************************* May 28, 2026 Dear Industry Partners The DHS S&T TSL Screening System Data Consortium Industry Day slide decks (4 in total) have been posted and are accessible in the attachments section for your reference. ********************************UPDATE************************************* May 18, 2026 Dear Industry Partners In accordance with comments and feedback received during and immediately after the February 18th &19th Industry Day introducing the Screening Systems Data Sharing Consortium (SSDSC), S&T has drafted a Consortium CRADA to be the formal agreement establishing the SSDSC. TSL is now seeking feedback from the public on the terms of this CRADA before finalizing the language and engaging with prospective members. Please submit your comments to Ms. Maria Torres (maria.torres@st.dhs.gov) with a copy to Mr. Michael Borgden (michael.brogden@st.dhs.gov) no later than (NLT) 2:00p.m. ET Wednesday June 17, 2026. See attachments to this announcement for the DRAFT CRADA. ********************************UPDATE************************************** December 3, 2025 Dear Industry Partners, We are pleased to announced the new dates for the Screening System Data Consortium CRADA for Synthetic Data and Algorithm Developers two-day Industry Day event. February 18th and 19th, 2026 at the DHS Transportation Security Laboratory (TSL) William J. Hughes Technical Center, Egg Harbor Township, New Jersey 08405. Please see the attached updated announcement named, TSL Industry Day 2026 to register. Thank you ********************************UPDATE************************************** November 3, 2025 Dear Industry Partners, Due to the Federal Government shutdown the Industry Day has been cancelled and will be rescheduled for a date and time in the near future. Please continue to monitor Sam.gov for updates to this posting. ********************************UPDATE************************************** September 17, 2025 Dear Industry Partners, The DHS Science and Technology Directorate (S&T), Office of Innovation and Collaboration (OIC), Office of National Laboratories (ONL), Transportation Security Laboratory (TSL), in collaboration with Transportation Security Administration (TSA) Requirements and Capability Analysis (RCA) and Acquisition Program Management (APM) will host a two-day industry day event at TSL located at William J. Hughes Technical Center, Egg Harbor Township, NJ 08405 on November 19th and 20th. November 19th will consist of the open forum Event and November 20th will be reserved for individual follow-up meetings. Signups for individual meetings will take place on November 19th. This announcement provides interested organizations and persons with instructions on how to participate in this event. To register for the Event, please email your request to the email below No Later Than (NLT) 2:00p.m. EST Monday October 20, 2025. TSLINFO@ST.DHS.GOV. Please include in your request Notice ID number Full name of the person(s) attending E-mail address(es) of the person(s) attending Company/institution/government office of the person(s) attending Nationality and residence status of the person(s) attending. See attached TSL Industry Day document for more information in the attachment section of this posting. Thank you **********************************UPDATE************************************* August 19, 2025 Dear Industry Please see the attached Q&As. *********************************UPDATE************************************* 7/14/2025 Dear Industry, Please see the updated attached RFI that replaces the email for responses in section 4. from DHSLaboratory.RFI@ST.DHS.GOV to TSLINFO@ST.DHS.GOV. The new email is also listed below. Send all responses to: tslinfo@st.dhs.gov NLT Wednesday, July 30, 2025 at 2:00PM EST. ******************************************************************************* THIS IS A REQUEST FOR INFORMATION (RFI) ONLY. The Department of Homeland Security (DHS) Science and Technology Directorate (S&T), Office of Innovation and Collaboration (OIC), Office of National Laboratories (ONL), Transportation Security Laboratory (TSL), working in conjunction with DHS Transportation Security Administration (TSA) Requirements and Capability Analysis (RCA) and Acquisition Program Management (APM) intend to establish a consortium of public and private entities to collect, curate, and distribute sensor data in support of concealed threat detection software development. The consortium will be established through a multi-party Consort Cooperative Research and Development Agreement (Consortium CRADA). NOTE: Please see the full RFI, attached, for more information.
+
+## Contacts
+
+- Primary Contact:
+  - Name: OPO Industry Liaison
+  - Email: opoindustryliaison@hq.dhs.gov
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: of this posting. Thank you **********************************UPDATE************************************* August 19, 2025 Dear Industry Please see the attached Q&As. *********************************UPDATE************************************* 7/14/2025 Dear Industry, Please see the updated attached RFI that replaces the email for responses in section 4. from DHSLaboratory.RFI@ST.DHS.GOV to TSLINFO@ST.DHS.GOV. The new email is also listed below. Send all responses to: tslinfo@st.dhs.gov NLT Wednesday, July 30, 2025 at 2:00PM EST. ******************************************************************************* THIS IS A REQUEST FOR INFORMATION (RFI) ONLY. The Department of Homeland Security (DHS) Science and Technology Directorate (S&T), Office of Innovation and Collaboration (OIC), Office of National Laboratories (ONL), Transportation Security Laboratory (TSL), working in conjunction with DHS Transportation Security Administration (TSA) Requirements and Capability Analysis (RCA) and Acquisition Program Management (APM) intend to establish a consortium of public and private entities to collect, curate, and distribute sensor data in support of concealed threat detection software development. The consortium will be established through a multi-party Consort Cooperative Research and Development Agreement (Consortium CRADA). NOTE: Please see the full RFI, attached, for more information
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/7296b50031c64ee68c3037251985ba84/view)

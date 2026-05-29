@@ -1,0 +1,35 @@
+---
+layout: default
+title: Optum Labs
+agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+notice_type: Special Notice
+notice_id: 51e990e7fdeb41e3bb14e5484a5dfadc
+---
+
+# Optum Labs
+
+- Agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+- Type: Special Notice
+- Posted: 2026-05-28 09:32:29.216-04
+- Solicitation Number: 75D301-26-Q-78965
+
+## Summary
+
+THIS IS A NOTICE OF INTENT TO AWARD A SOLE SOURCE CONTRACT AND IS NOT A REQUEST FOR COMPETITIVE QUOTES. The Centers for Disease Control and Prevention (CDC) Division of Overdose Prevention, Health Systems and Research Branch intends to award a firm fixed price purchase order to Optum Labs Topaz, Inc., 11000 Optum Cir., Eden Praire, MN 55344-2503. Under the authority of FAR 13.106-1(b)(1)(i), only one responsible source and no other supplies or services will satisfy agency requirements. The overarching project objective is to study changes in opioid prescribing rate across the U.S. for various diagnoses and procedures, i.e., pain indications, to study patterns of utilization of medications for OUD. Independently, and not as an agent of the Government, the contractor shall furnish the necessary personnel and services, and otherwise do all the things necessary for the performance of the work as described in the performance work statement. SECTION 4 – TASKS TO BE PERFORMED Task 1: Set-up OptumLabs Data Warehouse (OLDW) Research Sandbox for CDC/Researchers The contractor shall provide access for according to the contractor’s regular policies and procedures. The contractor shall provide two researchers from CDC access to and use of one Research Sandbox containing the Unified View. This de-identified OLDW research view shall contain commercial claims data including Medicare Advantage and EMR data. Software. The software licensed by the contractor to CDC in accordance with this Task 1 shall include any software tools incorporated into or accompanying a Research Sandbox, including updates made from time to time by OptumLabs in its sole discretion (the “Software”). OptumLabs shall host the Software in the Research Sandbox for use as permitted herein. To the extent OptumLabs provides maintenance Services for the software, such Services shall be included with the use of the Software, unless otherwise stated herein, at no charge. The Research Sandbox shall utilize a Virtual Desktop Infrastructure (VDI) which is loaded with these non-exclusive, non-transferable, non-sublicensable, limited licenses to: Internet Explorer Chrome DbVisualizer Microsoft Office Microsoft Notepad ++ The Research Sandbox shall also include certain software from Stata and SAS, pending current license numbers to be provided from CDC that is licensed to be used in the Research Sandbox VDI. CDC shall maintain valid licenses for Stata and SAS and grant the required licenses to OptumLabs. CDC shall use the Stata and SAS in the Research Sandbox consistent with the terms and conditions of its licenses with Stata and SAS Institute, Inc. The Research Sandbox shall also include a non-exclusive, non-transferable, non-sublicensable, limited license to access and use the OptumLabs Library of Artifacts. Access to the Research Sandbox is only to be obtained through secure access from locations in the Territory. The contractor shall provide usernames and passwords for the three approved users to access the Research Sandbox. The contractor shall grant CDC a right to publish Summary Results subject to OptumLabs review procedure. CDC acknowledgment for use of OLDW Data in any publication or presentation shall be: “Data for this study was obtained from the OptumLabs Data Warehouse, a database of health claims, clinical, demographic, and other data elements. Study data were provided to CDC using techniques compliant with the Health Insurance Portability and Accountability Act of 1996 (HIPAA) and, because this study involved analysis of pre-existing, de-identified data, it was exempt from human subjects’ regulations and IRB approval was not required.” The contractor shall allow revisions required by journal editors as long as the data source is attributed to “OptumLabs”. Optum Labs Topaz, Inc is the sole source that can provide Insurance claims data and electronic medical record (EMR) data at Optum Labs. Optum Labs is an open, collaborative research and innovation center founded in 2013 as a partnership between Optum and Mayo Clinic with its core linked data assets in the OptumLabs Data Warehouse (OLDW). The database contains de-identified, longitudinal health information on enrollees and patients, representing a diverse mixture of ages, ethnicities and geographical regions across the United States. The claims data in OLDW includes medical and pharmacy claims, laboratory results and enrollment records for commercial and Medicare Advantage enrollees. The EMR-derived data includes a subset of EMR data that been normalized and standardized into a single database. The anticipated award date of this action is on or before September 18, 2026. The applicable NAICS code is 541990 All Other Professional, Scientific, and Technical Services. This notice of intent is not a request for competitive proposals and no solicitation document exists for the requirement. Sources interested in responding to this notice are required to submit a capability statement that includes management and technical data and cost information, in sufficient detail and with convincing evidence that clearly demonstrates the capability to provide the warranties and proof as being an authorized distributor of the product. Capability statements shall not exceed 2 (8.5 x 11 inch) pages using a font size no smaller than 10-point. All capability statements received by the due date of this notice will be considered by the Government. A request for documentation or additional information or submissions that only ask questions will not be considered as an affirmative response. A determination by the Government not to compete based on responses to this notice is solely within the discretion of the Government. Information received will be considered solely for the purpose of determining whether to conduct a competitive procurement or to proceed with a sole source purchase order. Capability statements are due by 12:00 PM Eastern Standard Time (EST), June 4, 2026. Capability statements shall be submitted by e-mail ONLY as a Microsoft Word or Adobe PDF attachment to Javier Aponte email address at: zsm9@cdc.gov NO TELEPHONE REQUESTS/OFFERS WILL BE HONORED.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Javier Aponte
+  - Email: zsm9@cdc.gov
+  - Phone: 7704885458
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: Javier Aponte email address at: zsm9@cdc.gov NO TELEPHONE REQUESTS/OFFERS WILL BE HONORED
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/51e990e7fdeb41e3bb14e5484a5dfadc/view)

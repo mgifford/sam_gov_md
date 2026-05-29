@@ -1,0 +1,36 @@
+---
+layout: default
+title: HELM CHAIRS
+agency: DEPT OF DEFENSE
+notice_type: Combined Synopsis/Solicitation
+notice_id: 82da28d0afb246bfa8160d3635cdf626
+---
+
+# HELM CHAIRS
+
+- Agency: DEPT OF DEFENSE
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-05-28 11:57:46.487-04
+- Solicitation Number: N0018926QL112
+
+## Summary
+
+Pursuant to the authority at FAR 12.603(c)(2): (i) This is a combined synopsis/solicitation for commercial items prepared in accordance with the format in FAR subpart 12.6, as supplemented with additional information included in this notice. This announcement constitutes the only solicitation; proposals are being requested and a written solicitation will not be issued. Please identify the Country of Origin for the items needed and the method of payment will be made through a Government Purchase Card. (ii) The solicitation number for this is N0018926QL112 and will be issued as a request for quotation (RFQ). (iii) The solicitation document and incorporated provisions and clauses are those in effect through Federal Acquisition Circular 2026-01. (iv) The Government intends to negotiate a fixed-price firm (FFP) purchase order for supplies . The associated NAICS code is 337127 with a small business size standard of 500. (v) Line items are detailed as follows: LINE ITEM: 001 DESCRIPTION: ENGINEERING HELM CHAIRS EXTENDED DESCRIPTION: WIDTH (EDGE-TO-EDGE): THE OUTSIDE DIAMETER ACROSS THE ARMRESTS 23.5", HEIGHT RANGE (DECK TO TOP OF CUSHION): LOWERED: 26", RAISED: 34" BACKREST DEPTH (CUSHION EDGE TO BACK OF HEADREST): UPRIGHT: 27.05" FULLY RECLINED:
+
+37.56 INCHES. PEDESTAL TUBE HEIGHT: THE HEIGHT OF THE POWDERCOATED PEDESTAL TUBE IS 17.4" FROM THE DECK. BOLT PATTERN AND HARDWARE: CIRCULAR 6-BOLT PATTERN BOLT TYPE: 5/16-18 X .750" SOCKET FLAT HEAD STAINLESS STEEL BOLTS. STANDARD FOLDING FOOTREST ASSEMBLY. FULL 360-DEGREE ROTATION WITH LOCKING DETENTS EVERY 45 DEGREES BACKREST RECLINES 40 DEGREES FROM THE UPRIGHT POSITION. FORE/AFT TRAVEL: THE SEAT SLIDE ALLOWS FOR 8" OF FORWARD/BACKWARD MOVEMENT. CHAIR COLOR: NAVY GREY POWDER COAT WITH BLACK NAUGAHYDE (HEAVY-DUTY MARINE VINYL) UPHOLSTERY -CHAIR 1: RED EMBROIDERY-"EOOW" -CHAIR 2: RED EMBROIDERY- "SPACE SUP" -CHAIR 3: RED EMBROIDERY-"CHENG" -CHAIR 4: YELLOW EMBROIDERY- "EOOW" -CHAIR 5: YELLOW EMBROIDERY-"SPACE SUP" -CHAIR 6: YELLOW EMBROIDERY-"CHENG" QTY: 6 UNIT OF ISSUE: EA LINE ITEM: 002 DESCRIPTION: PILOT HOUSE AND BRIDGE WING HELM CHAIRS EXTENDED DESCRIPTION: CHAIR SIZING: WIDTH 27.5", HEIGHT 72" FULLY RECLINE 34.5" RECLINE FROM SEATED POSITION: 25 DEGREES ROTATE 360 DEGREES AND RECLINE FROM SEATED POSITION 25 DEGREES FOR FULL BRIDGE FUNCTIONALITY CHAIR COLOR: NAVY GREY POWDER WITH BLACK UPHOLSTERY QTY: 5 UNIT OF ISSUE: EA LINE ITEM: 003 DESCRIPTION: COMBAT CARGO OFFICE HELM CHAIR EXTENDED DESCRIPTION: CHAIR SIZING: WIDTH FROM EDGE TO EDGE OF ARM REST OUTSIDE DIAMETER OF 23.60". MUST HAVE EDGE OF SEAT CUSHION TO BACK OF HEAD REST 27.03" (UPRIGHT) TO 35.56" (FULLY RECLINED); HEIGHT FROM THE DECK TO TOP OF HEAD REST OR TOTAL HEIGHT 61.99" (LOWERED POSITION) TO 69.99" (FULLY EXTENDED). SEAT HEIGHT FROM TOP OF THE SEAT CUSHION TO THE BASE BOTTOM OR DECK 32.44" (LOWERED) TO 40.44” (FULLY RAISED). THE POWDER COATED PEDESTAL TUBE HEIGHT IS 22.40" FROM THE DECK. MUST MEET CIRCULAR EIGHT BOLT PATTERN ACCEPTING 5/16-18 X .750" SOCKET FLAT HEAD STAINLESS STEEL BOLTS. FULLY RECLINE 35.56" RECLINE FROM SEATED POSITION: 25 DEGREES ROTATE 360 DEGREES AND RECLINE FROM SEATED POSITION 25 DEGREES FOR FULL FUNCTIONALITY CHAIR COLOR: NAVY GREY POWDER WITH BLACK NAUGAHYDE UPHOLSTERY QTY: 1 UNIT OF ISSUE: EA LINE ITEM: 004 DESCRIPTION: FLIGHT DECK CONTROL HELM CHAIR EXTENDED DESCRIPTION: WIDTH FROM EDGE TO EDGE OF ARM REST OUTSIDE DIAMETER OF 23.55". MUST HAVE EDGE OF SEAT CUSHION TO BACK OF HEAD REST 27.05" (UPRIGHT) TO 37.56" (FULLY RECLINED); HEIGHT FROM THE DECK TO TOP OF HEAD REST 56.99" (LOWERED POSITION) TO 64.99" (FULLY EXTENDED). SEAT HEIGHT FROM TOP OF THE SEAT CUSHION TO THE BASE BOTTOM OR DECK 27.15" (LOWERED) TO 36.15" (FULLY RAISED). THE POWDER COATED PEDESTAL TUBE HEIGHT IS 17.4" FROM THE DECK.MUST MEET CIRCULAR EIGHT BOLT PATTERN ACCEPTING 5/16-18 X .750" SOCKET FLAT HEAD STAINLESS STEEL BOLTS RETRACTABLE FOOTREST ASSEMBLY ROTATE 360 DEGREES AND RECLINE 25 DEGREES FROM SEATED POSITION FOR FULL FLIGHT DECK FUNCTIONALITY CHAIR COLOR: NAVY GREY POWDER COAT WITH BLACK NAUGAHYDE UPHOLSTERY QTY: 1 UNIT OF ISSUE: EA (vi) This requirement is for thirteen (13) helm chairs. (vii) The required delivery date (RDD) is: 01 July 2026. The DELIVERY ADDRESS is 1968 Morris Street, Bldg Y109, Norfolk, VA 23511. FOB Destination will be used. (viii) The provision at FAR 52.212-1, Instructions to Offerors - Commercial, applies to this acquisition and is included in the attached "Clauses and Provisions", Attachment 1. (ix) The provision at FAR 52.212-2, Evaluation - Commercial Items will be used and is included as Attachment 1. The vendor’s proposed price will be evaluated on the basis of price reasonableness in accordance with FAR 13.106. (xi) The clause at FAR 52.212-4, Contract Terms and Conditions - Commercial Items, applies to this acquisition and is included as Attachment 1. (xiii) All clauses and provisions applicable to this requirement are included in the attached "Clauses and Provisions", Attachment 1. “Clauses and Provisions to be signed”, (xiv) The Defense Priorities and Allocations System (DPAS) rating does not apply to this acquisition. (xv) All quotes are due by the date and time specified in this posting and shall be submitted via email to the POC email address stated in this posting. (xvi) The individual to contact for information regarding this solicitation is stated in the posting. ATTACHMENTS: Clauses and Provisions Description of Requirement
+
+## Contacts
+
+- Primary Contact:
+  - Name: Danielle Mallory
+  - Email: danielle.s.mallory.mil@us.navy.mil
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: . (ix) The provision at FAR 52.212-2, Evaluation - Commercial Items will be used and is included as Attachment 1. The vendor’s proposed price will be evaluated on the basis of price reasonableness in accordance with FAR 13.106. (xi) The clause at FAR 52.212-4, Contract Terms and Conditions - Commercial Items, applies to this acquisition and is included as Attachment 1. (xiii) All clauses and provisions applicable to this requirement are included in the attached "Clauses and Provisions", Attachment 1. “Clauses and Provisions to be signed”, (xiv) The Defense Priorities and Allocations System (DPAS) rating does not apply to this acquisition. (xv) All quotes are due by the date and time specified in this posting and shall be submitted via email to the POC email address stated in this posting. (xvi) The individual to contact for information regarding this solicitation is stated in the posting. ATTACHMENTS: Clauses and Provisions Description of Requirement
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/82da28d0afb246bfa8160d3635cdf626/view)

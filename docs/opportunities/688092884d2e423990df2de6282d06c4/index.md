@@ -1,0 +1,28 @@
+---
+layout: default
+title: Portable Restroom Rental & Maintenance Services
+agency: COMMERCE, DEPARTMENT OF
+notice_type: Sources Sought
+notice_id: 688092884d2e423990df2de6282d06c4
+---
+
+# Portable Restroom Rental & Maintenance Services
+
+- Agency: COMMERCE, DEPARTMENT OF
+- Type: Sources Sought
+- Posted: 2026-05-28 13:32:56.634-04
+- Solicitation Number: SS26-16
+
+## Summary
+
+Sources Sought Notice Number: SS26-16 Notice Type: Sources Sought Synopsis: 5/28/2026 THIS IS A SOURCES SOUGHT NOTICE ONLY. This is not a solicitation or a request for proposal and no contract will be awarded from this notice. No solicitation or specifications are available at this time. The National Institute of Standards and Technology (NIST) is conducting market research to identify qualified and capable firms who would be interested in submitting proposals for the requirement stated below. In particular, small businesses and socioeconomic small businesses capable of performing the requirement are highly encouraged to respond. Portable Restroom Rental & Maintenance Services will be performed at: National Institute of Standards and Technology 100 Bureau Drive Gaithersburg MD 20899 This requirement may result in a performance-based acquisition service contract utilizing the procedures of RFO Part 12 Acquisition of Commercial Products and Commercial Services. The Contractor shall provide management, supervision, labor, materials, equipment, and supplies, and shall be responsible for the efficient, effective, economical, and satisfactory operations, including scheduled and unscheduled, maintenance and repair of equipment and systems. The North American Industry Classification System (NAICS) code that corresponds with this requirement is 562991, Septic Tank and Related Services. The small business size standard is $9 Million. If this requirement is set-aside for small businesses and socioeconomic small businesses, there will be a limitation on subcontracting, which means that at least 50 percent of the resulting contract's personnel cost shall be expended on prime contractor employees. The Period of Performance for these services will be a 1-year Base Period with four 1-year Option Periods, and a possible Extension Period not to exceed six months. This is only a request for responsible, technically qualified sources to respond in order to determine the appropriate method of procurement. Interested, technically qualified firms should submit a detailed Statements of Capability. The Statements of Capability should include detailed reference information and fully address and respond to the following questions: NOTE: Failure to submit all information requested may result in a contractor not being considered as an interested small business concern. I. Company Information: A. Name of firm B. Point of contact (name, phone number, and email address) C. SAM Unique Entity Identifier (UEI) number D. Annual Receipts E. Business Size (Large/Small) for NAICS 562991 F. Socioeconomic Category(ies) (8(a), HUBZone, SDVOSB, WOSB) II. Capabilities Narrative: 1) Describe your firm’s experience performing similar services. 2) Discuss if your firm performed the services directly or as part of a subcontracting or teaming arrangement. 3) Are you interested in this opportunity as a prime contractor, or as part of a Contractor Teaming Arrangement (CTA)? If a CTA/Joint venture, describe the experience of each entity has with SMS Builder. The capabilities package requested under this Sources Sought Notice is not expected to be a proposal, but rather a short statement regarding the company's ability to demonstrate existing expertise and experience in relation to this procurement. Any commercial brochures or currently existing marketing material may also be submitted with the capabilities package. Submission of a capabilities package is not a prerequisite to any potential future offerings, but participation will assist NIST in tailoring its requirements to be consistent with industry standards. Statements of Capability must be in writing. Responses are limited to no more than five (5) pages, excluding any commercial brochures or currently existing marketing material. THIS IS NOT A REQUEST FOR PROPOSALS. This notice does not constitute a Request for Quote (RFQ)/Invitation for Bid (IFB)/Request for Proposal (RFP) or a promise to issue an RFQ, IFB, or RFP in the future. This notice does not commit NIST to contract for any supply or service. Further, NIST is not seeking quotes, bids or proposals at this time and will not accept unsolicited proposals in response to this RFI. This is for planning purposes only and is a market research tool to determine availability and adequacy of potential business sources. Failure to submit all information requested will result in a contractor not being considered as an interested small business concern. NIST will not pay for any information or administrative costs incurred in response to this notice. The government will not reimburse responders for the cost of the submittals. Submittals will not be returned to the responder. Responses must be received on 6/5/2026, by 12:00 pm, Local Time. Electronic submissions are required. Responses to this Sources Sought Notice shall be emailed to Tony Schmidt at tony.schmidt@nist.gov. Questions regarding this notice may be addressed to Tony Schmidt at tony.schmidt@nist.gov. Failure to submit all information requested may result in a contractor not being considered as an interested small business concern.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Tony Schmidt
+  - Email: tony.schmidt@nist.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/688092884d2e423990df2de6282d06c4/view)

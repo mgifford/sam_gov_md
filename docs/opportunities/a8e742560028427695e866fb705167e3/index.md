@@ -1,0 +1,31 @@
+---
+layout: default
+title: Architect-Engineering (A-E) Design Multiple Award Task Order Contract (MATOC)
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: a8e742560028427695e866fb705167e3
+---
+
+# Architect-Engineering (A-E) Design Multiple Award Task Order Contract (MATOC)
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-05-28 08:51:06.507-04
+- Solicitation Number: PANGLR-26-P-0000029721
+
+## Summary
+
+THIS IS A SOURCES SOUGHT NOTICE. THIS IS FOR MARKET RESEARCH PURPOSES ONLY. This is NOT a solicitation. This is not a Request for Bid, Proposal, or Quote. It does not constitute a solicitation and shall not be construed as a commitment to the Government. NO SOLICITATION OR ATTACHMENTS are available for this notice. Responses in any form are not offers and the Government is under no obligation to award a contract as a result of this announcement. No funds are available to pay for preparation of responses to this announcement. No reimbursement will be made for any costs associated with providing information in response to this survey. Any information submitted by respondents to this Sources Sought notice is strictly voluntary. Responses will not be returned to the responder. Not responding to this notice does not preclude participation in any future Request for Quote (RFQ), Invitation for Bid (IFB) or Request for Proposal (RFP), if any are issued. This survey is for market research purposes only. Only contractors capable of performing this type of work should respond to this notice. INTRODUCTION The U.S. Army Corps of Engineers (USACE) Detroit District is issuing this Sources Sought notice and conducting market research as a means to identify the interest and capabilities of both small and large business entities to provide architect-engineering (A-E) services for the USACE Great Lakes and Ohio River Division (LRD) Civil Works and Interagency and International Services (IIS) programs. The intention is to procure these A-E services through a qualifications-based selection at the task order level with all task orders to be issued as Firm-Fixed-Price (FFP) task orders. Task orders issued under this Regional A-E MATOC are anticipated to include a variety of A-E services with performance located within the geographical boundaries of USACE LRD. A-E services for task orders may include, but is not limited to the following activities: Preparation of Construction Drawings and Specifications for Design-Bid-Build (DBB) (Complete Design) Projects And Design-Build (DB) Request For Proposals (RFPs) Concept Level Designs and Engineering Feasibility Studies Field Investigations and Site Assessments of Existing Conditions Value Engineering Services Engineering During Construction (EDC) Services such as Shop Drawing Review, Site Inspection, Quality Assurance, etc. Design of Demolition/Deconstruction Hazardous Materials Survey, Analysis, and Abatement Methodology Sustainable Design Construction Cost Estimates and Schedules Technical Studies/Analysis in Support of Design for New Construction and Renovation Comprehensive Planning for Future Construction Requirements at Civil Works Locations Coordination and Attainment of Local, State, and Federal Permits’ Support Coordination in Development of Utility Agreements Utility Investigations Participation In Site Visits, Investigations, Design Charrettes, Design Review Conferences, Etc. Commissioning Plan Development Incidental A-E services may also be included in the task order scope to include Geotechnical Investigations, Sampling and Analytical Services, American Land Title Association Surveys, Deed And Title Services, Archeological Surveys, etc. The contractor will provide all materials, labor, equipment, supervision, and administration as necessary to perform the work as described above for each task order to be issued. *Please note the description of the requirement is subject to change. BASED ON THE RESPONSES TO THIS SOURCES SOUGHT NOTICE/MARKET RESEARCH, THIS REQUIREMENT MAY BE SET-ASIDE FOR SMALL BUSINESSES (IN FULL OR IN PART) OR PROCURED THROUGH FULL AND OPEN COMPETITION. All Small Business Set-Aside categories will be considered. Telephone inquiries will not be accepted or acknowledged, and no feedback or evaluations will be provided to companies regarding their submissions. The North American Industry Classification System (NAICS) Code is anticipated to be 541330 Engineering Services, which has a small business size standard of $25.5M in average annual receipts. Place of Performance: Within the boundaries of USACE Great Lakes and Ohio River Division (LRD). Exact project locations will be specified on a task order basis. Both Large and Small Business firms who are interested are encouraged to respond to this Sources Sought Notice. Anticipated Solicitation: March 2027 (or earlier) Anticipated Ordering Period: 60 Months (5-Year Ordering Period to issue Task Orders). SOURCES SOUGHT RESPONSES If your organization has the potential capacity and capability to perform this type of work, please complete the attached surveyand submit via email to the following Contracting Personnel: Contract Specialist, Noah Bruck at noah.r.bruck@usace.army.mil Contracting Officer, Kari Tauriainen at kari.tauriainen@usace.army.mil Contracting Officer, Lisa May at lisa.m.may@usace.army.mil Please provide your responses no later than June 16, 2026 at 2:00 PM (Eastern). Please reference in the subject line “SOURCES SOUGHT Regional A-E Design MATOC”. All data received in response to this Sources Sought that is marked or designated as corporate or proprietary will be fully protected from any release outside the Government. The Government is not committed nor obligated to pay for the information provided, and no basis for claims against the Government shall arise as a result of a response to this Sources Sought notice. RESPONDENTS WILL NOT BE CONTACTED REGARDING THEIR SUBMISSION OR INFORMATION GATHERED AS A RESULT OF THE SOURCES SOUGHT.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Noah Bruck
+  - Email: noah.r.bruck@usace.army.mil
+- Secondary Contact:
+  - Name: Lisa May
+  - Email: lisa.m.may@usace.army.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/a8e742560028427695e866fb705167e3/view)

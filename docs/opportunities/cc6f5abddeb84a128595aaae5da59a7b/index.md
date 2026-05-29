@@ -1,0 +1,33 @@
+---
+layout: default
+title: United States Department of Agriculture Seek to Leased Office Space in Yuba City, CA
+agency: AGRICULTURE, DEPARTMENT OF
+notice_type: Solicitation
+notice_id: cc6f5abddeb84a128595aaae5da59a7b
+---
+
+# United States Department of Agriculture Seek to Leased Office Space in Yuba City, CA
+
+- Agency: AGRICULTURE, DEPARTMENT OF
+- Type: Solicitation
+- Posted: 2026-05-28 09:56:28.684-04
+- Solicitation Number: 57-06101-26-FA
+
+## Summary
+
+U.S. GOVERNMENT Department of Agriculture (USDA) seeks to lease the following space: State: CA City: Yuba City Delineated Area: N: City Limits of Yuba City E: City Limits of Yuba City S: City Limits of Yuba City W: City Limits of Yuba City Minimum Sq. Ft. (ABOA): 5,433 Maximum Sq. Ft. (ABOA): 5,705 Maximum Sq. Ft. (RSF) 6,520 Space Type: Office and Related Space Reserved Government Vehicle: 6 Parking Spaces:26 Reserved Visitor/Customer Parking Spaces: 10 Non-Reserved Employee Parking Spacing (located on-site or within 300 feet of premises): 10 Full Term: 20 Firm Term: 5 Termination Rights: 120 days in whole or in part, after the Firm Term Additional Requirements: The government will also require: Secured parking to accommodate 6 government vehicles The Government wishes to lease space in an existing building, or in a building to be constructed for the Government’s use. Offered space must meet Government requirements for fire safety, accessibility, seismic and sustainability standards per the terms of the Lease. The space offered, its location, and its surroundings must be compatible with the Government’s intended use. A fully serviced lease is required. Offered space and sites shall not be in the 100-year flood plain. Additional parking spaces may be located on-site and/or within 1/4 of a mile of the premises, pedestrian accessible. Preferred first floor, contiguous space that meets accessibility requirements. Require a secured Parking Lot with additional fencing to enclose (6) government vehicles Offered space must meet Government requirements for fire safety, accessibility, seismic, and sustainability standards per the terms of the Lease. A fully serviced lease is required. Offered space shall not be in the 1-percent-annual chance formally 100-year flood plain. Entities are advised to familiarize themselves with the telecommunications prohibitions outlined under Section 889 of the FY19 National Defense Authorization Act (NDAA), as implemented by the Federal Acquisition Regulation (FAR).). For more information, visit: https://acquisition.gov/FAR-Case-2019-009/889_Part_B. ************************************************************************************************ The U.S. Government currently occupies office and related space in a building under a lease in [City, State], that will be expiring. The Government is considering alternative space if economically advantageous. In making this determination, the Government will consider, among other things, the availability of alternative space that potentially can satisfy the Government’s requirements, as well as costs likely to be incurred through relocating, such as physical move costs, replication of tenant improvements and telecommunication infrastructure, and non-productive agency downtime. Expressions of Interest Due: June 30, 2026 Market Survey (Estimated): TBD Occupancy (Estimated): TBD Note: Entities not currently registered in the System for Award Management (SAM) at SAM.gov, are advised to start the registration process as soon as possible if intending to submit an offer for possible lease award. Expressions of Interest shall include the following: 1. If existing building, building name and address, and location of the available space within the Building, along with building site/ lot plans, interior layout drawings/pictures (with dimensions shown) reflecting the Space that is being offered. 2. If new construction, site/aerial plans or building site/lot plans showing the location of the proposal land, along with the parcel number (if part of multiple parcels, all parcel numbers associated with the proposed land). Adjacent streets showing proposed ingress/egress shall be shown on the plans. 3. Rentable square feet (RSF) and ANSI/BOMA office area (ABOA) square feet to be offered. 4. Date of space availability. 5. If offeror is not the owner of the building, an authorization letter signed by owner to represent owner for property will be required. * 6. Amount of/type of parking available on-site. 7. Photos of the space or site being submitted, or permission for Market Survey participants to photograph the space or site. 8. For existing buildings, provide information on condition of building systems, roof, foundation, and current floor plan. Alternatively, provide a copy of a recent commercial building inspection or appraisal. 9. Confirmation that offered space meets or will be made to meet Architectural Barriers Act Accessibility Standards (ABAAS). 10. Confirmation that offered space meets or will be made to meet Seismic Safety Standards, as applicable. 11. Confirmation that offered space meets or will be made to meet Fire Protection & Life Safety Requirements. 12. For new construction or properties requiring expansion of the footprint of the building, confirmation that offered space meets or will be made to meet National Environmental Protection Act of 1969 (NEPA) Requirements. * As mentioned in #5 above, any submission received without written authorization to represent owner(s) will not be considered until such time the documentation has been received. In cases where an agent is representing multiple entities, written acknowledgement/permission from each entity to represent multiple interest parties for the same submission must be submitted prior to the Expressions of Interest due date. APEX Accelerator offers free help to businesses that want to work with the government. You can visit https://www.apexaccelerators.us/#/ to learn more and see the resources they provide. Send Expressions of Interest to: Name/Title: Reuben Brown LCO/Rashid Jackson Realty Specialist Email Address:Reuben.brown@usda.gov Name/Title:Lease Contracting Officer Government Contact Information Name/Title:Realty Specialist Email Address:Rashid.jackson@usda.gov
+
+## Contacts
+
+- Primary Contact:
+  - Name: Reuben Brown, Realty Specialist
+  - Email: reuben.brown@usda.gov
+  - Phone: 2816711485
+- Secondary Contact:
+  - Name: Rashid Jackson
+  - Email: rashid.jackson@usda.gov
+  - Phone: 7702532032120
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/cc6f5abddeb84a128595aaae5da59a7b/view)
