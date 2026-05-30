@@ -1,0 +1,33 @@
+---
+layout: default
+title: Sources Sought: USAFA Quantum demonstration/experiment system
+agency: DEPT OF DEFENSE
+notice_type: Sources Sought
+notice_id: 17cab0477fc3439ba35d268dae0e9190
+---
+
+# Sources Sought: USAFA Quantum demonstration/experiment system
+
+- Agency: DEPT OF DEFENSE
+- Type: Sources Sought
+- Posted: 2026-05-29 16:25:06.275-04
+- Solicitation Number: FA700026QuantumDemonstrationExperimentSystem
+
+## Summary
+
+SOURCES SOUGHT: THIS IS NOT A NOTICE OF REQUEST FOR QUOTATION BUT INFORMATION AND PLANNING PURPOSES ONLY! Title: Quantum demonstration/experiment system for the United States Air Force Academy (USAFA) Agency: United States Air Force Academy (USAFA) Classification Code: NAICS Code: 334516 - Analytical Laboratory Instrument Manufacturing The size standard is 1,000 employees. The government may consider other NAICS suggestions that may fit the requirement more appropriately Product Service Code (PSC): 6650 - Optical Instruments, Test Equipment, Components and Accessories Response Date: 05 June 2026 10:00 AM MDT Contact: Dawson Hopkinson, Contract Specialist, at dawson.hopkinson@us.af.mil AND Ken Helgeson, Contracting Officer, at kenneth.helgeson.3@us.af.mil 1.0. Description & Synopsis This is a SOURCES SOUGHT NOTICE for market research purposes only. This is not a solicitation for proposals, proposal abstracts, or quotations. The purpose of this notice is to obtain information regarding the availability and capability of qualified sources, particularly small businesses, to provide a quantum demonstration/experiment system for the USAF Academy, CO 80840. The proposed contract is contemplated as a firm-fixed price contract.
+
+2.0 Background The Physics Department and the Laser and Optics Research Center (LORC) require the acquisition of a commercial off-the-shelf (COTS) quantum demonstration/experiment system to support core instructional, applied research, and workforce development missions. This equipment must provide a flexible, high precision experimental platform capable of supporting foundational and advanced experiments in quantum optics, quantum sensing, and quantum information science. The required system shall include single photon detectors, high resolution time tagging and time correlated data acquisition electronics, and integrated digital interfaces to enable precise experimental control, synchronization, and analysis. These capabilities are essential for experiments involving single photon statistics, coincidence measurements, and quantum state characterization that underpin modern quantum information protocols. 3.0. Minimum Requirements At a minimum, the Vendor must be able to supply a quantum demonstration/experiment system with the following characteristics: The system shall provide an integrated experimental platform for quantum information science and quantum optics, supporting both instructional laboratories and faculty?led research. The platform shall be modular, scalable, and reconfigurable, enabling multiple experiment configurations without permanent modification. All components shall be commercially supported, laboratory?grade instrumentation suitable for sustained academic and research use. The system shall include multiple single photon detectors with: High quantum efficiency in the visible and near infrared spectral range Low dark count rates suitable for coincidence measurements Sub nanosecond timing resolution The components shall support the characterization of polarization?entangled photon pairs via spontaneous parametric down?conversion (SPDC), enabling coincidence counting, entanglement correlation measurements, and entanglement swapping experiments. The system shall include high resolution time tagging or time correlated single photon counting (TCSPC) electronics capable of: Multi-channel coincidence detection Sub nanosecond (picosecond level) timing precision High sustained count rates without significant dead time Timing electronics shall support digital data acquisition and post processing for correlation and coincidence analysis. 4.0. Requested Information from Interested Parties Interested parties are requested to submit a capability statement of no more than five (5) pages that addresses the following: Company Information: Company Name, Address, UEI, CAGE Code, and Point of Contact (Name, Title, Phone, Email). Socioeconomic Status: A statement of your company’s socioeconomic status (e.g., Small Business, Service-Disabled Veteran-Owned Small Business (SDVOSB), Woman-Owned Small Business (WOSB), 8(a), HUBZone, etc.). Capability & Experience: All interested firms shall submit a capabilities package that explicitly demonstrates company capabilities-indicating examples of commercial sales and product specifications related to this effort. The capabilities package should be brief and concise yet clearly demonstrate an ability to meet the stated requirements. Teaming and/or subcontracting arrangements should be clearly delineated and previous experience in teaming must be provided. Contract Vehicles: List any existing Government-wide Acquisition Contracts (GWACs), GSA Federal Supply Schedules (FSS), or other contract vehicles your company is on that would be appropriate for this type of service. 5.0. Submission Instructions Please submit your capability statement and all requested information via email to Dawson Hopkinson, Contract Specialist, at dawson.hopkinson@us.af.mil AND Ken Helgeson, Contracting Officer, at kenneth.helgeson.3@us.af.mil no later than 05 June 2026 at 10:00 AM MDT. The email subject line should read: "Sources Sought Response: USAFA Quantum Demonstration/Experiment System - [Your Company Name]". 6.0. Disclaimer This Sources Sought notice is for market research purposes only and does not constitute a Request for Quotation (RFQ) or a promise to issue an RFQ in the future. Funds are not currently available for this requirement. The information provided in this notice is subject to change and is not binding on the Government. The Government will not pay for any information or administrative costs incurred in response to this notice. All submissions become the property of the Federal Government and will not be returned. Please note: All contractors doing business with the Federal Government must be registered in the System for Award Management (SAM) database, and are required to maintain an “active” status. The website for registration is www.sam.gov.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Dawson Hopkinson
+  - Email: dawson.hopkinson@us.af.mil
+- Secondary Contact:
+  - Name: Kenneth Helgeson
+  - Email: kenneth.helgeson.3@us.af.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/17cab0477fc3439ba35d268dae0e9190/view)

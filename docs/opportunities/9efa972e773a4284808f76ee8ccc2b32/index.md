@@ -1,0 +1,28 @@
+---
+layout: default
+title: USCG Station Depoe Bay Electrical Installation
+agency: HOMELAND SECURITY, DEPARTMENT OF
+notice_type: Combined Synopsis/Solicitation
+notice_id: 9efa972e773a4284808f76ee8ccc2b32
+---
+
+# USCG Station Depoe Bay Electrical Installation
+
+- Agency: HOMELAND SECURITY, DEPARTMENT OF
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-05-29 14:54:28.456-04
+- Solicitation Number: 70Z03326QSEAT0007
+
+## Summary
+
+DESCRIPTION OF REQUIREMENT: The Contractor shall provide all labor, materials, equipment, and supervision necessary to install a new electrical subpanel and route new dedicated branch circuits to the galley, berthing rooms, recreation room, offices, and gym at USCG Station Depoe Bay. All work must be tied directly into the existing emergency generator distribution panel, comply with the National Electrical Code (NEC), and undergo complete testing to ensure seamless operational transition between shore and emergency power. Project Address: U.S. Coast Guard Station Depoe Bay 240 Coast Guard Drive Depoe Bay, OR 97341 United States This acquisition is set aside 100% for SMALL BUSINESS. Where Federal Acquisition Regulation clause language is inconsistent with FAR 13.004, Legal Effect of Quotations, that language is hereby tailored in accordance with FAR 12.302 to be consistent with a request for quotations. This tailoring includes but is not limited to the following: In accordance with FAR 13.004, a quotation is not an offer, and any clause provision to the contrary is hereby modified to be consistent with FAR 13.004. Where the word "offer/offeror" or a derivative of that word appears, it is changed to "quote/quoter" or a derivative of that word. The associated NAICS code is 238210 (Electrical Contractors and Other Wiring Installation Contractors). Size Standard: $19M. The PSC code is Z2AZ (Repair or Alteration of Other Administrative Facilities and Service Buildings). A MANDATORY site visit will be conducted for all prospective offerors. All interested offerors must arrive no later than five minutes prior to the start time indicated. Failure to attend the mandatory site visit shall render the quoter's proposal non-responsive and ineligible for award. Site Visit Date: 06/17/2026 Start Time: 0900 Location: U.S. Coast Guard U.S. Coast Guard Station Depoe Bay 240 Coast Guard Drive Depoe Bay, OR 97341 United States Please E-mail Ava Stow at ava.m.stow@uscg.mil to RSVP for the site visit no later than 06/16/2026 Any and all questions regarding this solicitation shall be submitted in writing to the Contract Specialist at ava.m.stow@uscg.mil with solicitation RFQ number 70Z03326QSEAT0007 in subject line. Questions regarding the statement of work (SOW) will be forwarded to the technical expert for an accurate response. All responses will be uploaded for an equal and fair solicitation to all interested vendors on solely SAM.gov. No more questions will be answered after 06/23/2026. All quotes are due by 0700 (PST) 07/03/2026. SUBMISSION OF QUOTES Quotes must be submitted electronically to Ava.M.Stow@uscg.mil by the date and time specified in this solicitation. Incomplete and Late submissions may be considered unresponsive and ineligible for award. A complete submission shall consist of the following parts: Part 1: Price Quotation A completed and signed Standard Form (SF) 1449. A detailed Price Breakdown for the total firm-fixed-price. The breakdown must, at a minimum, separate the costs for the following major tasks: Mobilization & Site Prep Itemized List of Materials Installation by Tasks Labor Rate Part 2: Technical Proposal The Technical Proposal shall not contain any pricing information. It must provide a clear, concise narrative demonstrating the quoter’s understanding of and ability to meet the requirements of the Statement of Work (SOW). The proposal must include: Technical Approach: A step-by-step description of how the contractor will perform the work, including mobilization, installation of the new subpanel, routing, and installation of new branch circuits to the designated rooms (galley, berthing, recreation room, offices, and gym), safe tie-in to the existing emergency generator distribution panel, and final system testing. Project Schedule: A high-level timeline showing the planned start date, major milestones, and completion date (which must be on or before the required completion date of August 31, 2026). Submit quotes to the following e-mail address by the offer due date and time zone: Attn: Ava Stow E-Mail Address: ava.m.stow@uscg.mil with solicitation RFQ number 70Z03326QSEAT0007 in subject line. The Government will evaluate the Technical Proposal on an Acceptable/Unacceptable basis. The award will be made to the lowest priced, responsible quoter whose quote conforms to all solicitation requirements and is rated 'Acceptable' technically. It is the government’s intent to make award to the low cost responsible and responsive offeror who provides the most advantageous, reasonable, and negotiable offer to the government. Under FAR 4.1103 prospective contractor shall be registered in System Award Management (SAM) prior to award. Failure for contractor to be registered in SAM shall result in Contracting Officer to proceed with next successful registered offeror. Website: www.sam.gov
+
+## Contacts
+
+- Primary Contact:
+  - Name: Ava Stow
+  - Email: Ava.M.Stow@uscg.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9efa972e773a4284808f76ee8ccc2b32/view)

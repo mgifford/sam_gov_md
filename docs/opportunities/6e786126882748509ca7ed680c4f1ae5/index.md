@@ -1,0 +1,28 @@
+---
+layout: default
+title: GRIP
+agency: DEPT OF DEFENSE
+notice_type: Solicitation
+notice_id: 6e786126882748509ca7ed680c4f1ae5
+---
+
+# GRIP
+
+- Agency: DEPT OF DEFENSE
+- Type: Solicitation
+- Posted: 2026-05-29 07:08:47.747-04
+- Solicitation Number: SPRPA126QRB89
+
+## Summary
+
+CONTACT INFORMATION|4|APAB.27|YRG|267-800-9539|NICHOLAS.SMARRO@DLA.MIL| ITEM UNIQUE IDENTIFICATION AND VALUATION (JAN 2023)|19|||||||||||||||||||| HIGHER-LEVEL CONTRACT QUALITY REQUIREMENT|8|||X|ISO 9000 OR EQUIVALENT||||| FMS DELIVERY AND SHIPPING INSTRUCTIONS|3|X|TBD|TBD| WIDE AREA WORKFLOW PAYMENT INSTRUCTIONS (JAN 2023)|16|INVOICE AND RECEIVING REPORT (COMBO)|N/A|TBD|SPRA1|TBD|TBD|TBD|TBD|TBD|TBD|TBD|TBD|TBD|TBD|TBD|TBD| MANDATORY USE OF WORKFLOW PRO (WFP) MOD ASSIST MODULE|1|| WARRANTY OF SUPPLIES OF A NONCOMPLEX NATURE (JUN 2003)|6|ONE YEAR FROM DATE OF DELIVERY|45 DAYS AFTER DISCOVERY OF DEFECT||||| EQUAL OPPORTUITY FOR WORKERS WITH DISABILITIES (DEV 2026-O0040)(FEB 2026)|4||||| BUY AMERICAN-FREE TRADE AGREEMENTS-BALANCE OF PAYMENTS PROGRAM-BASIC (FEB 2024)|11|||||||||||| SECURITY PROHIBITIONS AND EXCLUSIONS (CLASS DEVIATION 2026-O0025)(FEB 2026)|7|||||||| BUY AMERICAN-FREE TRADE AGREEMENTS-BALANCE OF PAYMENTS PROGRAM CERTIFICATE-BASIC (FEB 2024))|5|||||| BUY AMERICAN--BALANCE OF PAYMENTS PROGRAM CERTIFICATE-BASIC (FEB 2024)|1|| ALTERNATE A, ANNUAL REPRESENTATIONS AND CERTIFICATIONS (DEVIATION 2026-O0043)(FEB 2026))|13|||||||||||||| ROYALTY INFORMATION (APR 1984)|1|| NOTICE OF PRIORITY RATING FOR NATIONAL DEFENSE, EMERGENCY PREPAREDNESS, ANDENERGY PROGRAM USE (APR 2008))|2||X| This solicitation is being issued under Emergency Acquisition Flexibilities (EAF) Authority formally known as Special Emergency Procurement Authority (SEPA). Drawings are not available for this Request for Quotation. Offerors are advised that offers received from sources which are not government-approved sources of supply will be deemed technically unacceptable, and therefore ineligible for award. Any distributors of approved source(s) MUST submit a copy of their authorized distributor letter, on the source?s letterhead, to the buyer point of contact indicated on the solicitation via email, at time of proposal submittal. \
+
+## Contacts
+
+- Primary Contact:
+  - Name: Telephone: 2678009539
+  - Email: NICHOLAS.SMARRO@DLA.MIL
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/6e786126882748509ca7ed680c4f1ae5/view)

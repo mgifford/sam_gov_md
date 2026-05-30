@@ -1,0 +1,31 @@
+---
+layout: default
+title: Channelized Wing Hybrid Electric VTOL UAS
+agency: DEPT OF DEFENSE
+notice_type: Special Notice
+notice_id: d5225592a97947739f55264dbb68eee6
+---
+
+# Channelized Wing Hybrid Electric VTOL UAS
+
+- Agency: DEPT OF DEFENSE
+- Type: Special Notice
+- Posted: 2026-05-29 14:50:37.166-04
+- Solicitation Number: CHEVTOL_UAS_AE
+
+## Summary
+
+Channelized Wing Hybrid Electric VTOL UAS 24-25 June 2026 Host Name: Alana Hymel Location: VIRTUAL Share on Social Media FacebookLinkedInTwitter Submit NLT 12 June 2026 11:59 PM ET Purpose SOFWERX, in collaboration with USSOCOM SOF Acquisition, Technology, and Logistics (AT&L) Program Executive Office Tactical Information Systems (PEO-TIS), will host an Assessment Event (AE) to evaluate the technical merit of Unmanned Aerial Systems (UAS) with channelized wings in concert with a Hybrid Electric powerplant, in combination with Vertical Takeoff and Landing (VTOL) runway independence. Background PEO-TIS is seeking information on a specific technology area to gain knowledge of, explore, and identify available capabilities for potential inclusion in the Channelized Wing Hybrid Electric Vertical Takeoff and Landing (CHEVTOL) AE. Technology desired by USSOCOM is intelligence, surveillance, target acquisition, and reconnaissance (ISTAR) UAS with a channel wing concept vehicle having a Technology Readiness Level (TRL) of 7 or above and UAS must have hybrid electric powerplants in combination with VTOL capabilities to be considered. Objective This assessment solicits white papers to describe the current capabilities of ISTAR CHEVTOL UAS and submissions will be reviewed by USSOCOM stakeholders and Subject Matter Expert’s (SME’s) to identify solutions for future participation in the CHEVTOL UAS AE. Why You Should Participate USSOCOM seeks to enter into non-FAR or FAR-based agreements with Industry, Academic, and National Lab partners whose solutions are favorably evaluated by SOF AT&L PEO-TIS Subject Matter Experts (SMEs). As such, the follow-on Assessment Event (AE) is considered competitive, and solutions will be evaluated independently of one another primarily for technical merit. This serves dually as notification of the intent to research the feasibility of an agreement under 10 U.S. Code, Section 4022 and/or Section 4022(f), and as notice of pre-solicitation activities IAW FAR 5.204. Event Timeline Phase 29 May 2026 - 12 June 2026 Submissions to the Assessment Event (AE) Open: Interested respondents who could potentially provide solutions that meet the needs of USSOCOM are encouraged to submit their capability for USSOCOM review. To submit your technology for potential Phase 3 attendance, please review the assessment criteria and follow the submission instructions at the bottom of this webpage. Phase 1a - 08 June 2026 Q&A Telecon: Interested offerors may participate in a virtual Q&A session to better understand the PM's specific technology objectives. The telecon will take place on 08 June from 2:00 - 3:00 PM ET. RSVP at the bottom of this webpage. Phase 2 - 15 June 2026 - 16 June 2026 Downselect: USSOCOM will downselect those respondents/submissions they feel have the highest potential to satisfy their technology needs. Favorably evaluated submissions will receive an invitation to attend the AE on/around 17 June. Phase 3 - 24 June 2026 - 25 June 2026 Assessment Event (AE): During the AE, selected participants will be allotted a one-on-one session with the USSOCOM evaluation panel to pitch, demonstrate, and/or discuss their solutions. The forum will include a Q&A portion and discussions may continue outside of the event. Solution brief presentation guidelines will be outlined in the event invitation and solutions will be assessed according to the criteria in the link provided below. In the event that USSOCOM stakeholders require additional data to make informed decisions there could be follow on future demonstrations of the capability for USSOCOM stakeholders to further assess/evaluate the current state-of-the-art, TRL, desired operational characteristics and/or performance attributes after the AE. If required, selected participants will receive further instructions from SOFWERX providing details for opportunities to demonstrate their capabilities for USSOCOM stakeholders. If the USSOCOM evaluation panel favorably evaluates a solution brief, negotiations for Phase 4 may immediately begin. This event will be held virtually. Phase 4 - Path Forward: Successfully negotiated awards may fall under any combination of these categories: Business to business research and development agreement as a sub-award through the SOFWERX Partnership Intermediary Agreement (PIA) (15 U.S. Code Section 3715) OTA for research or prototype projects (10 U.S. Code Sections 4021, 4022) An award under 10 U. S. Code, Section 4022 may result in the further award of a follow-on production agreement without additional competition based on successful prototype completion. The Government may make this follow-on production award based upon successful prototype criteria, which will be determined for each prototype project. Procurement for experimental purposes (10 U.S. Code Section 4023) Cooperative Research and Development Agreement (15 U.S. Code Section 3710a) Prizes for advanced technology achievements (10 U. S. Code Section 4025) and/or prize competitions (15 U.S. Code 3719) FAR-based procurement contract NOTE: Awardees may need to be compliant with NIST SP 800-171, Protecting Controlled Unclassified Information (CUI) in Non-Federal Systems and Organizations How You Can Participate Government, Industry, Academia, National Labs, and Non-Traditional Attendees RSVP to the 08 June Virtual Q&A Telecon: Click Here to RSVP (NLT 07 June 2026) Review Assessment Criteria: Click Here to Review Download the White Paper Template:Click Here to Review Complete the Submission Form: Click Here to Submit(NLT 12 June 2026) Questions? For event-related questions, please contact Alana Hymel at Alana.Hymel@sofwerx.org.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Juanita Bell
+  - Email: juanita.bell.ctr@socom.mil
+- Secondary Contact:
+  - Name: James Helmick
+  - Email: james.s.helmick.civ@socom.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d5225592a97947739f55264dbb68eee6/view)

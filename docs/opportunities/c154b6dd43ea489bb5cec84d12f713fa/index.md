@@ -1,0 +1,33 @@
+---
+layout: default
+title: 80-Day Tanker Time Charter
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: c154b6dd43ea489bb5cec84d12f713fa
+---
+
+# 80-Day Tanker Time Charter
+
+- Agency: DEPT OF DEFENSE
+- Type: Presolicitation
+- Posted: 2026-05-29 12:14:24.863-04
+- Solicitation Number: N3220526R6095
+
+## Summary
+
+Action Code: Presolicitation Date: 29 May 2026 Fiscal Year: 2026 Contracting Office Zip Code: 23511 Product or Service Code: V124 - Transportation/Travel/Relocation - Transportation: Marine Charter Contracting Office Address: 471 East C Street, Naval Station Norfolk, Norfolk, VA 23511 Subject: 80-day Tanker Time Charter Proposed Solicitation Number: N3220526R6095 Closing Response Date: Thursday, 04 June 2026 Contract Point of Contact or Contracting Officer: Jordan Morrison jordan.a.morrison5.civ@us.navy.mil; 564-230-3633 Contract Award and Solicitation Number: TBD Contract Award Dollar Amount: TBD Contract Line Item Number: N/A Contract Award Date: TBA Contractor: TBD Description: One, clean, approved, U.S. or foreign flag, double-hull tanker, with an inert gas system and segregated ballast tanks that is capable of carrying a minimum of 235,000 bbls of clean product (intentions JA1 or F76) within vessel’s natural segregation in designated cargo tanks with double valve isolation. Place of Contract Performance: The place/range of delivery is Mediterranean Sea, Range and Port in Charterer’s Option (Intentions St. Theodore, Greece); and the place/range of redelivery is Mediterranean Sea, Range and Port in Charterer’s Option (Intentions Piraeus, Greece). The laydays commence 29 June 2026 and cancel 30 June 2026, and the period of performance will be about 80 days. Set-aside Status: N/A. The decision to release this procurement as “Unrestricted” is based on the Contracting Officer’s knowledge of the market and applicable market research. All responsible sources may submit a proposal, which shall be considered by the agency. The Director of Small Business Programs has concurred with this decision.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Jordan Morrison
+  - Email: jordan.a.morrison5.civ@us.navy.mil
+  - Phone: 5642303633
+- Secondary Contact:
+  - Name: ERIC HATCHER
+  - Email: ERIC.N.HATCHER2.CIV@US.NAVY.MIL
+  - Phone: 5642303114
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/c154b6dd43ea489bb5cec84d12f713fa/view)

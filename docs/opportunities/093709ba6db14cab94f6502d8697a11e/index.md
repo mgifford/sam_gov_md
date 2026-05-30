@@ -1,0 +1,28 @@
+---
+layout: default
+title: Pre-solicitation Notice: On-Ramp for the Department of Defense OMNIBUS IV Multiple-Award Contract
+agency: DEPT OF DEFENSE
+notice_type: Presolicitation
+notice_id: 093709ba6db14cab94f6502d8697a11e
+---
+
+# Pre-solicitation Notice: On-Ramp for the Department of Defense OMNIBUS IV Multiple-Award Contract
+
+- Agency: DEPT OF DEFENSE
+- Type: Presolicitation
+- Posted: 2026-05-29 15:48:24.653-04
+- Solicitation Number: HT942626RE002
+
+## Summary
+
+Amendment 0003 to this pre-solicitation notice is to extend the anticipated posting timeframe of the solicitation to late June 2026. The Department of War (DoW) implemented the Revolutionary FAR Overhaul earlier this year and has continued issuing updates to it. Additional time is needed to implement the recent guidance pertaining to the FAR Overhaul. This is a pre-solicitation notice to synopsize the intention of the Defense Health Agency Contracting Activity (DHACA) to issue a Request for Proposal (RFP) for an on-ramp to the OMNIBUS IV Multiple Award, Indefinite Delivery, Indefinite Quantity (IDIQ) contract vehicle covering military medical research and development services. The eventual RFP will be set-aside for small businesses certified under the Small Business Administration 8(a) Program. The Government anticipates making multiple new awards under this on-ramp, and all new awards will align with the existing unrestricted contract vehicle. This notice is not a request for proposals and does not commit the Government to any contractual agreement. The OMNIBUS IV contract vehicle was awarded under full and open competition with a base ordering period of 20 June 2022 through 19 June 2027 and an Option Ordering Period of 20 June 2027 ? 19 June 2032. Task orders may be competed under fair opportunity (providing all Contract Holders within a Market Segment the opportunity to submit a proposal) or an exception to fair opportunity (such as set-asides for small businesses or applicable small business socioeconomic categories). The cumulative ceiling of this unrestricted IDIQ contract vehicle is $10 billion. To date, the accumulated awarded task order value (including future unexercised option periods) is over $600 million across 51 task orders. Task Orders have been issued by a growing number of end users including DHACA, the U.S. Army Medical Research Acquisition Activity (now integrated into DHACA), the Naval Supply Systems Command, and the Uniformed Services University of the Health Sciences. When excluding the task orders simply providing a minimum guarantee to the existing Contract Holders, 51 task orders have been issued off this contract vehicle with 8 task orders being set aside for the 8(a) Program and 9 task orders being awarded to an 8(a) Participant. 33 task orders have been awarded so far to small businesses under this contract vehicle. Of the 51 task orders, 94% were awarded during the Government Fiscal Years 2024 - 2026, and the amount of competitive task orders has grown each fiscal year. The Government anticipates releasing the formal RFP for the OMNIBUS IV on-ramp on SAM.gov around late February 2026 (at least 15 calendar days from the posting of this notice. Please see attachments for further details.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Jesse Nisley
+  - Email: dha.mbx.dha-omnibus-iv-sb-procurement@health.mil
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/093709ba6db14cab94f6502d8697a11e/view)

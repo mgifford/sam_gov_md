@@ -1,0 +1,37 @@
+---
+layout: default
+title: DA10--Hologic, Inc., Genius AI Detection License 2.0 Software Service
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Combined Synopsis/Solicitation
+notice_id: 4dbb1f0fa915401e820119d6b249b120
+---
+
+# DA10--Hologic, Inc., Genius AI Detection License 2.0 Software Service
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-05-29 17:34:40.358-04
+- Solicitation Number: 36C26226Q0768
+- Awardee: null
+
+## Summary
+
+Combined Synopsis/Solicitation Notice This is a combined synopsis/solicitation for commercial products and commercial services prepared in accordance with the format in Federal Acquisition Regulation (FAR) subpart 12.6, Streamlined Procedures for Evaluation and Solicitation for Commercial Products and Commercial Services, as supplemented with additional information included in this notice. This announcement constitutes the only solicitation; quotes are being requested, and a written solicitation document will not be issued. This solicitation is issued as an RFQ. The solicitation document and incorporated provisions and clauses are those in effect through Federal Acquisition Circular FAR Part 12. This solicitation is 100% Set-Aside for Small Businesses The associated North American Industrial Classification System (NAICS) code for this procurement is 541511, Custom Computer Programming Services, with a small business size standard of $34 Million. The FSC/PSC is DA10, IT and Telecom Business Application/Application development Software As A Service. Scope. The Veteran s Integrated Service Network 22 is seeking a contractor to provide Hologic, Inc., Genius AI Detection an advanced computer-aided detection (CAD) license 2.0. The requirement is for Brand Name Only of Hologic, Inc., Genius AI Detection License 2.0, Software and Hardware Service. Model Number (please see below) having the following salient characteristics, adhering to the Statement of Work (SOW), S02 36C26226Q0768 attachment clauses and provisions. All interested companies shall provide quotations for the following: Supplies Refer to the S02 36C26226Q0768 document. Statement of Work (SOW) Refer to the S02 36C26226Q0768 document. Delivery shall be provided no later than 30 days after receipt of order (ARO). Refer to the S02 36C26226Q0768 document. Place of Performance/Place of Delivery Refer to the S02 36C26226Q0768 document. The full text of FAR provisions or clauses may be accessed electronically at https://www.acquisition.gov/far-overhaul/far-part-deviation-guide The following solicitation provisions apply to this acquisition: Refer to the S02 36C26226Q0768 document. All quoters shall submit the following: Refer to the S02 36C26226Q0768 document. The following are the decision factors: Refer to the S02 36C26226Q0768 document. The award will be made to the response most advantageous to the Government. Responses should contain your best terms and conditions. To facilitate the award process, all quotes must include a statement regarding the terms and conditions herein as follows: "The terms and conditions in the solicitation are acceptable to be included in the award document without modification, deletion, or addition." OR "The terms and conditions in the solicitation are acceptable to be included in the award document with the exception, deletion, or addition of the following:" Quoters shall list exception(s) and rationale for the exception(s), if any. Submit written offers in accordance with the following instructions, as well as Addendum to FAR 52.212-1, Instruction to Offerors. Oral offers will not be accepted. Complete and submit enclosure 1 via email no later than 12:00PM PST Friday, June 05, 2026, to israel.garcia2@va.gov. Ensure the following are completed and/or included in the quote packet. Award will be based upon a comparative evaluation of quotes in accordance with the Simplified Acquisition Procedures of FAR 12. Comparative evaluation is the side by side pairwise comparison of quotes based on factors resulting in a Contracting Officer decision for the quote most favorable to the Government. Late submissions shall be treated in accordance with the solicitation provision at FAR 52.212-1(c). Any questions or concerns regarding this solicitation should be forwarded in writing via e-mail to the Point of Contact listed below. All questions must be received by 12:00 P.M. PST on Wednesday, June 3, 2026. Point of Contact. Contract Specialist, Israel Garcia at israel.garcia2@va.gov.
+
+## Contacts
+
+- Primary Contact:
+  - Name: ISRAEL GARCIA
+  - Title: CONTRACT SPECIALIST
+  - Email: ISRAEL.GARCIA2@VA.GOV
+  - Phone: 562-826-8000
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: and provisions. All interested companies shall provide quotations for the following: Supplies Refer to the S02 36C26226Q0768 document. Statement of Work (SOW) Refer to the S02 36C26226Q0768 document. Delivery shall be provided no later than 30 days after receipt of order (ARO). Refer to the S02 36C26226Q0768 document. Place of Performance/Place of Delivery Refer to the S02 36C26226Q0768 document. The full text of FAR provisions or clauses may be accessed electronically at https://www.acquisition.gov/far-overhaul/far-part-deviation-guide The following solicitation provisions apply to this acquisition: Refer to the S02 36C26226Q0768 document. All quoters shall submit the following: Refer to the S02 36C26226Q0768 document. The following are the decision factors: Refer to the S02 36C26226Q0768 document. The award will be made to the response most advantageous to the Government. Responses should contain your best terms and conditions. To facilitate the award process, all quotes must include a statement regarding the terms and conditions herein as follows: "The terms and conditions in the solicitation are acceptable to be included in the award document without modification, deletion, or addition." OR "The terms and conditions in the solicitation are acceptable to be included in the award document with the exception, deletion, or addition of the following:" Quoters shall list exception(s) and rationale for the exception(s), if any. Submit written offers in accordance with the following instructions, as well as Addendum to FAR 52.212-1, Instruction to Offerors. Oral offers will not be accepted. Complete and submit enclosure 1 via email no later than 12:00PM PST Friday, June 05, 2026, to israel.garcia2@va.gov. Ensure the following are completed and/or included in the quote packet. Award will be based upon a comparative evaluation of quotes in accordance with the Simplified Acquisition Procedures of FAR 12. Comparative evaluation is the side by side pairwise comparison of quotes based on factors resulting in a Contracting Officer decision for the quote most favorable to the Government. Late submissions shall be treated in accordance with the solicitation provision at FAR 52.212-1(c). Any questions or concerns regarding this solicitation should be forwarded in writing via e-mail to the Point of Contact listed below. All questions must be received by 12:00 P.M. PST on Wednesday, June 3, 2026. Point of Contact. Contract Specialist, Israel Garcia at israel.garcia2@va.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/4dbb1f0fa915401e820119d6b249b120/view)

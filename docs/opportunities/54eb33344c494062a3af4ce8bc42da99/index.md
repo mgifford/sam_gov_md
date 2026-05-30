@@ -1,0 +1,37 @@
+---
+layout: default
+title: Emergency Preparedness First Aid Training, Services, and Supplies
+agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+notice_type: Combined Synopsis/Solicitation
+notice_id: 54eb33344c494062a3af4ce8bc42da99
+---
+
+# Emergency Preparedness First Aid Training, Services, and Supplies
+
+- Agency: HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+- Type: Combined Synopsis/Solicitation
+- Posted: 2026-05-29 09:37:16.432-04
+- Solicitation Number: RFQ-NIAID-2261915-1
+
+## Summary
+
+This notice is a combined synopsis/solicitation for commercial items using Simplified Acquisition Procedures. This acquisition will be made in accordance with the format in Federal Acquisition Regulation (FAR) Subpart 12.6 “Streamlined Procedures for Evaluation and solicitation for commercial Items,” as applicable, and as supplemented with additional information included in this notice. This announcement constitutes the only solicitation (a written solicitation will not be issued) and quotes are being requested. The Solicitation number is RFQ-NIAID-2261915-1, and the solicitation is issued as a Request for Quotes (RFQ). This acquisition will be awarded under FAR Part 13 Simplified Acquisition Procedures (SAP). The solicitation documents and incorporated provisions and clauses are those in effect through Federal Acquisition Circular (FAC) 2021-04 January 19, 2021. The North American Industry Classification System (NAICS) code for this procurement is 611430, Professional and Management Development Training, the requirement is being competed full and open competition, un-restricted and without a small business set-aside. The National Institute of Allergy and Infectious Diseases (NIAID) has a requirement for Emergency Preparedness First Aid Training, Services, and Supplies: • First Aid Kit inspection and Refill-Maryland Campus - 30 first aid kit units serviced/inspected/filled annually • First Aid/AED Combo Class (15 student max)-Maryland Campus - 12 sessions • Stop the Bleed (25 student max) -Maryland Campus – 1 Session • Tactical Emergency Casualty Care (Maryland Campus) – 2 Sessions • Tactical Emergency Casualty Care (RML MT Campus) – 2 Sessions Period of Performance: • The base period shall be for 12 months from the date of award. • Option year 1 shall be for 12 months • Option year 2 shall be for 12 months • Option year 3 shall be for 12 months • Option year 4 shall be for 12 months The minimum service requirements: • The Contractor shall provide the services, training, and supplies listed below. NIAID staff who successfully complete the formal training sessions must receive proof of certification in the skills included in the training. All these training sessions must be conducted in-person. The contractor/subcontractor will also assist in promoting the training sessions included in this purchase to NIAID staff upon request. On-Site training and supplies in Rockville, MD, including: 1. First Aid Kit inspections and Refills for 30 kits, quantity 1 2. First Aid/AED Combo Class (15 student max), 12 sessions 3. Stop the Bleed Class (25 student max), 1 session 4. Tactical Emergency Casualty Care classes (15 student max), 2 sessions On-Site training and supplies in Hamilton, MT, including: 1. Tactical Emergency Casualty Care classes (15 student max), 2 sessions Quote Instructions • Quote must include all service terms, conditions and exclusions as a part of, or as an attachment to the quotation. Referenced or linked terms and conditions will not be considered nor included in award. • Vendor is invited to include past performance references of similar services, including the description of the service, the period of performance, and a client contact name and phone number for that award. • Quote must include response to all minimum service requirements, listed in the attached statement of work, and all instructions for the quote, for the offer to be accepted as responsive. *Include your DUNS number *Include all additional documents in the quote instructions. Submission shall be received not later than 5:00 p.m. EST on Friday, June 5, 2026. The government intends to award a firm-fixed price purchase order to the responsible contractor as a result of this RFQ that will include the terms and conditions set forth herein. The purchase order award will be based on the lowest price technically acceptable. By submission of an offer, the offeror acknowledges the requirement that a prospective awardee shall be registered in the System for Award Management (SAM) database prior to award, during performance, and through final payment of any contract, basic agreement, basic ordering agreement, or blanket purchasing agreement resulting from this solicitation (www.sam.gov). Copies of the above-referenced provisions and clauses are available from http://www.acquisition.gov. Offers may be e-mailed to Tasha Lee at tasha.lee@nih.gov Solicitation number RFQ-NIAID-2261915-1 must be referenced in the subject line of the emailed submission. Late submissions shall be treated in accordance with the solicitation provision at FAR 52.212-1(f) (Jun 2020) All responsible sources may submit an offer that will be considered by this Agency. Any questions or concerns regarding this solicitation should be forwarded in writing via e- mail to Tasha Lee at tasha.lee@nih.gov
+
+## Contacts
+
+- Primary Contact:
+  - Name: Tasha Lee
+  - Email: tasha.lee@nih.gov
+- Secondary Contact:
+  - Name: Linda Smith
+  - Email: linda.smith2@nih.gov
+
+## Attachments
+
+**Total: 1 attachment(s)**
+
+- Attachment 1: the quotation. Referenced or linked terms and conditions will not be considered nor included in award. • Vendor is invited to include past performance references of similar services, including the description of the service, the period of performance, and a client contact name and phone number for that award. • Quote must include response to all minimum service requirements, listed in the attached statement of work, and all instructions for the quote, for the offer to be accepted as responsive. *Include your DUNS number *Include all additional documents in the quote instructions. Submission shall be received not later than 5:00 p.m. EST on Friday, June 5, 2026. The government intends to award a firm-fixed price purchase order to the responsible contractor as a result of this RFQ that will include the terms and conditions set forth herein. The purchase order award will be based on the lowest price technically acceptable. By submission of an offer, the offeror acknowledges the requirement that a prospective awardee shall be registered in the System for Award Management (SAM) database prior to award, during performance, and through final payment of any contract, basic agreement, basic ordering agreement, or blanket purchasing agreement resulting from this solicitation (www.sam.gov). Copies of the above-referenced provisions and clauses are available from http://www.acquisition.gov. Offers may be e-mailed to Tasha Lee at tasha.lee@nih.gov Solicitation number RFQ-NIAID-2261915-1 must be referenced in the subject line of the emailed submission. Late submissions shall be treated in accordance with the solicitation provision at FAR 52.212-1(f) (Jun 2020) All responsible sources may submit an offer that will be considered by this Agency. Any questions or concerns regarding this solicitation should be forwarded in writing via e- mail to Tasha Lee at tasha.lee@nih.gov
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/54eb33344c494062a3af4ce8bc42da99/view)

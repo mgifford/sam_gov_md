@@ -1,0 +1,31 @@
+---
+layout: default
+title: Z1DA--PN: 636A8-22-001, Reno 6th Floor Clinical Support (IC) PR: 636-26-2-8822-0012
+agency: VETERANS AFFAIRS, DEPARTMENT OF
+notice_type: Presolicitation
+notice_id: 68dab64d003245d58f3433f92e8e87e8
+---
+
+# Z1DA--PN: 636A8-22-001, Reno 6th Floor Clinical Support (IC) PR: 636-26-2-8822-0012
+
+- Agency: VETERANS AFFAIRS, DEPARTMENT OF
+- Type: Presolicitation
+- Posted: 2026-05-29 10:53:21.4-04
+- Solicitation Number: 36C26326B0025
+- Awardee: null
+
+## Summary
+
+Page 4 of 4 THIS NOTICE IS FOR INFORMATIONAL PURPOSES ONLY AND IS NOT A REQUEST FOR SUBMISSION OF BIDS. THIS IS A TOTAL 100% SERVICE-DIABLED VETERAN OWNED SMALL BUSINESS (SDVOSB) SET-ASIDE. The solicitation will be issued in accordance with Public Law 109-461, the Veterans Benefits, Healthcare Information and Technology Act of 2006, Sections 502 and 503.In accordance with VAAR 819.7003(b), at the time of submission of offers and prior to award of any contract, the offeror must represent to the Contracting Officer that it is a (1) SDVOSB eligible under VAAR 819.70; (2) small business concern under the NAICS code assigned to this acquisition; and (3) certified SDVOSB listed in the Small Business administration (SBA) certification database at https://certifications.sba.gov. Also, in accordance with VAAR 819.7004, the Government WILL NOT consider offers for award from offerors that do not provide the Limitations of Subcontracting - Certificate of Compliance with their proposal, and all such responses will be deemed ineligible for evaluation and award. The applicable North American Industry Classification System (NAICS) code is 236220, Commercial and Institutional Building Construction with the applicable small business size standard of $45,000,000.00. In accordance with VAAR 819.7003(b), the bidders must represent to the Contracting Officer that it is a SDVOSB concern under the NAICS code assigned to this acquisition. In accordance with VAAR 836.204 and/or FAR 36.204, the magnitude of construction for this project is between $10,000,000.00 and $20,000,000.00. The Department of Veterans Affairs (VA), Nebraska-Western Iowa Health Care System (NWIHCS), the Iowa City VA Medical Center intends to issue an Invitation for Bid (IFB) in accordance with the procedures set forth in Part 14 and 36 of the Federal Acquisition Regulation (FAR). Network Contracting Office 23 (NCO23) intends to award a single, firm fixed-price contract for completion of construction Project Number 636A8-22-001, Renovate Dialysis Clinic at the VA NWIHCS, Iowa City VA Medical Center in Iowa City, Iowa. An IFB is planned to be issued on or about 15 June 2026, with an anticipated award date within 60 calendar days from bid opening date. Further details of all dates, events, and locations, including site visit and bid due date, will be available in the IFB. The Iowa City VA Medical Center currently has a need to renovate the 6th Floor Clinical Support at the Iowa City VAMC. The primary objective of the project is to provide suitable space for the clinical support staff that serve the inpatient units on the 5th and 7th floors. The support staff to include space for social workers, physicians, nutritionists, and education staff. The majority of the renovations will result in offices, conference, storage, and staff workrooms, a clean and soiled utility rooms, reception area, lactation room, electrical closet, and restrooms. The clinical areas include EMG and NVC exam rooms. The contractor will be required to provide all tools, materials, equipment, labor, and supervision necessary to complete the project in accordance with the drawings, specifications, and scope of work. This is an operational (VA) Medical Center, and all construction work shall be planned and executed to have no impact on daily operations. The period of performance for this work is 371 calendar days from issuance of Notice to Proceed (NTP). A Notice to Proceed date/issuance will be coordinated between VA and Contractor to ensure that there is no interference with patient care. The IFB (solicitation), consisting of various bid documents, specifications, drawings, forms, etc. will be available for download on the System for Award Management (SAM) Contract Opportunities (https://sam.gov/content/opportunities). The Contract Opportunities website is the only official location to obtain solicitation information and documents. These documents will include complete details of the solicitation and project requirements. Any amendments to the solicitation will be posted at the same location. Interested bidders are advised that they are responsible for obtaining all bidding documents via Contract Opportunities and for monitoring the Contract Opportunities website for any changes to this announcement and pending solicitation. No other information regarding scope, dates, etc. is available until issuance of the solicitation via Contract Opportunities. A bidders list will not be maintained. Hard copies of any documents regarding this project will not be mailed or made available outside of this web site. All prospective bidders must have a Unique Entity Identifier (UEI) and must be registered and active in the SAM database (http://www.sam.gov). All prospective bidders must complete electronic online Representations and Certifications within SAM. The eventual awardee shall also be required to have on file a current Department of Labor VETS4212 Federal Contractor Reporting filing at https://www.dol.gov/agencies/vets/programs/vets4212 (if applicable). All questions must be submitted in writing to the issuing Contracting Officer via email at calvin.courtney@va.gov. NO TELEPHONE INQUIRIES WILL BE ANSWERED. THIS NOTICE IS FOR INFORMATIONAL PURPOSES ONLY AND IS NOT A REQUEST FOR SUBMISSION OF BIDS.
+
+## Contacts
+
+- Primary Contact:
+  - Name: Calvin L. Courtney
+  - Title: Contract Specialist
+  - Email: calvin.courtney@va.gov
+  - Phone: 605-347-2511 x18006
+
+## Links
+
+- [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/68dab64d003245d58f3433f92e8e87e8/view)
