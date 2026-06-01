@@ -23,6 +23,10 @@ PRE-SOLICITATION NOTICE: The U.S. Embassy Algiers intends to issue a solicitatio
   - Name: Procurement Team
   - Email: Algiers_Procurement@state.gov
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/df8dad0190964583b0da598c41806d71/view)

@@ -23,6 +23,10 @@ This is a posting of a justification for a single source award under Federal Sup
   - Name: Sarah Duncan
   - Email: duncans1@state.gov
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/41f039820ab749328fc5eb92fc385e51/view)

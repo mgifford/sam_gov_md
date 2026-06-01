@@ -23,6 +23,10 @@ LAB equipment preventive maintennace service. See attachment(s). Amendment 0001 
   - Name: Yukako Hishikura
   - Email: yukako.hishikura.ln@us.navy.mil
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/dfe0f6cec4fb418cbe94241084cbc623/view)

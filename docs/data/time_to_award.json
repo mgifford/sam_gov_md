@@ -1,14 +1,14 @@
 {
-  "generated_date": "2026-05-31",
+  "generated_date": "2026-06-01",
   "stale_days_threshold": 90,
   "summary": {
-    "total_awards_with_timing": 1856,
-    "avg_days_to_award": 26.6,
+    "total_awards_with_timing": 1852,
+    "avg_days_to_award": 26.5,
     "median_days_to_award": 22.0,
     "fastest_award_days": 0,
-    "slowest_award_days": 79,
+    "slowest_award_days": 64,
     "total_abandoned": 0,
-    "officers_with_timing": 536,
+    "officers_with_timing": 532,
     "agencies_with_timing": 14
   },
   "by_officer": [
@@ -3590,18 +3590,6 @@
       "awarded": 1
     },
     {
-      "name": "Dingle, Edward",
-      "email": null,
-      "agencies": [
-        "INTERIOR, DEPARTMENT OF THE"
-      ],
-      "avg_days": 33.0,
-      "median_days": 33,
-      "fastest_award": 33,
-      "slowest_award": 33,
-      "awarded": 1
-    },
-    {
       "name": "Matthew Diefes8042793869",
       "email": null,
       "agencies": [
@@ -5390,18 +5378,6 @@
       "awarded": 1
     },
     {
-      "name": "Albright, Jason",
-      "email": null,
-      "agencies": [
-        "INTERIOR, DEPARTMENT OF THE"
-      ],
-      "avg_days": 45.0,
-      "median_days": 45,
-      "fastest_award": 45,
-      "slowest_award": 45,
-      "awarded": 1
-    },
-    {
       "name": "Trenton Miller614-692-1824",
       "email": null,
       "agencies": [
@@ -6290,18 +6266,6 @@
       "awarded": 1
     },
     {
-      "name": "JAMES J. BENES, N9434.6, PHONE (771)229-0080, EMAIL JAMES.J.BENES3.CIV@US.NAVY.MIL",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 57.0,
-      "median_days": 57,
-      "fastest_award": 57,
-      "slowest_award": 57,
-      "awarded": 1
-    },
-    {
       "name": "Alexander Buchan",
       "email": null,
       "agencies": [
@@ -6432,18 +6396,6 @@
       "fastest_award": 64,
       "slowest_award": 64,
       "awarded": 2
-    },
-    {
-      "name": "LOGAN MANN, N7M2.19, PHONE (717)605-1381, EMAIL LOGAN.W.MANN.CIV@US.NAVY.MIL",
-      "email": null,
-      "agencies": [
-        "DEPT OF DEFENSE"
-      ],
-      "avg_days": 79.0,
-      "median_days": 79,
-      "fastest_award": 79,
-      "slowest_award": 79,
-      "awarded": 1
     }
   ],
   "by_agency": [
@@ -6466,15 +6418,6 @@
       "slowest_award": 28
     },
     {
-      "agency": "DEPT OF DEFENSE",
-      "awarded": 1557,
-      "never_awarded_count": 0,
-      "avg_days": 25.4,
-      "median_days": 22,
-      "fastest_award": 0,
-      "slowest_award": 79
-    },
-    {
       "agency": "GENERAL SERVICES ADMINISTRATION",
       "awarded": 44,
       "never_awarded_count": 0,
@@ -6482,6 +6425,15 @@
       "median_days": 26.0,
       "fastest_award": 7,
       "slowest_award": 48
+    },
+    {
+      "agency": "DEPT OF DEFENSE",
+      "awarded": 1555,
+      "never_awarded_count": 0,
+      "avg_days": 25.4,
+      "median_days": 22,
+      "fastest_award": 0,
+      "slowest_award": 64
     },
     {
       "agency": "COMMERCE, DEPARTMENT OF",
@@ -6539,9 +6491,9 @@
     },
     {
       "agency": "INTERIOR, DEPARTMENT OF THE",
-      "awarded": 113,
+      "awarded": 111,
       "never_awarded_count": 0,
-      "avg_days": 35.8,
+      "avg_days": 35.7,
       "median_days": 33,
       "fastest_award": 3,
       "slowest_award": 59

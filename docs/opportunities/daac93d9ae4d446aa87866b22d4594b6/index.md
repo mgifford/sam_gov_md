@@ -28,6 +28,10 @@ The Offeror shall certify that they currently hold an active U.S. Navy MSRA/ABR 
   - Email: Yuki.Takemori.ln@us.navy.mil
   - Phone: 81956502856
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/daac93d9ae4d446aa87866b22d4594b6/view)

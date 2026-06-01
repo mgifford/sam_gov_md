@@ -28,6 +28,10 @@ The U.S. Army Installation Management Command (IMCOM) NAF Contracting Office, on
   - Email: leslie.m.perez9.naf@army.mil
   - Phone: 5206742370
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d3701f45ac56420d8d49b3ffa2739935/view)

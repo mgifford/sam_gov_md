@@ -25,6 +25,10 @@ WINDOW WASHING SVCS POP: 07/01/2026 - 06/30/2031 BASE YEAR PLUS FOUR OPTION YEAR
   - Title: Contract Specialist
   - Email: barry.bland@va.gov
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/736e1110f8ac4e529604efb36a359a73/view)

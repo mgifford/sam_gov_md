@@ -28,6 +28,10 @@ The purpose of this notice is to comply with posting requirement, FAR Part 5 and
   - Email: Kuwait_Solicitation@state.gov
   - Phone: 96522591234
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/015a0859bf0e45609b1c7aa921880fe0/view)

@@ -25,6 +25,10 @@ No summary provided.
   - Name: Adrienne Milford804-279-2012
   - Email: Adrienne.Milford@dla.mil
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/97a4ea3da5074b02b33b54a01a92f6a9/view)

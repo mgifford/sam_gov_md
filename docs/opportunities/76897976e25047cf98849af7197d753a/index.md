@@ -27,6 +27,10 @@ This solicitation is being amended to extend the deadline for submissions to 09 
   - Name: Patrick Collins
   - Email: Patrick.P.Collins.civ@us.navy.mil
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/76897976e25047cf98849af7197d753a/view)

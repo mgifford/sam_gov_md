@@ -23,6 +23,10 @@ The Subcontractor shall furnish all labor, materials, equipment, supervision and
   - Name: Rodgers Cox
   - Email: rodgers.l.cox@faa.gov
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/86c1b85d3f7e44719c165eb30a284f4b/view)

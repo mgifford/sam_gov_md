@@ -29,6 +29,10 @@ This is a COMBINED SYNOPSIS/SOLICITATION for commercial items prepared in accord
 
 - Attachment 1: . Requirement is only one quote per vendor. Multiple quotes will not be accepted. REQUEST FOR QUOTATION Please provide delivered prices (FOB Destination) REFERENCE: SPMYM4-26-Q-0807 SET ASIDE: 100% SMALL BUSINESS SET ASIDE NAICS: 333923 QUOTE DUE: Tue 06/02/2026; 09:00 AM HST
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/8180bc6878f7458689c37dd0a5cf2cee/view)

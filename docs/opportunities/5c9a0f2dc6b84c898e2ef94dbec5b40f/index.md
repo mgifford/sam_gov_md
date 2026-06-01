@@ -24,6 +24,10 @@ This is a Synopsis notice only. This is not a solicitation or request for propos
   - Email: taeko.karyu2.ln@us.navy.mil
   - Phone: 0656503285
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/5c9a0f2dc6b84c898e2ef94dbec5b40f/view)

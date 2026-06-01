@@ -1,71 +1,53 @@
 {
-  "forecast_date": "2026-05-30",
+  "forecast_date": "2026-05-31",
   "departments_by_opportunity_volume": [
     {
-      "total_records": 20,
-      "open_opportunities": 12,
-      "awarded": 8,
-      "win_rate_percent": 40.0,
-      "estimated_monthly_value": 26852984,
-      "average_award_value": 3356623,
-      "opportunities_with_attachments": 3,
-      "opportunities_with_keyword_matches": 4,
+      "total_records": 236,
+      "open_opportunities": 235,
+      "awarded": 1,
+      "win_rate_percent": 0.4,
+      "estimated_monthly_value": 349999,
+      "average_award_value": 349999,
+      "opportunities_with_attachments": 2,
+      "opportunities_with_keyword_matches": 223,
       "top_awardees": [
         {
-          "name": "BIRD-JOHNSON PROPELLER COMPANY, LLC ",
+          "name": "ADEPT FASTENERS INC ",
           "wins": 1,
-          "total_value": 21569620
-        },
-        {
-          "name": "CONTAINER RESEARCH CORP ",
-          "wins": 2,
-          "total_value": 1901854
-        },
-        {
-          "name": "RAM-SYSTEM GmbH ",
-          "wins": 1,
-          "total_value": 1161060
-        },
-        {
-          "name": "MOTION INDUSTRIES, INC. ",
-          "wins": 1,
-          "total_value": 1027719
-        },
-        {
-          "name": "RAYTHEON COMPANY ",
-          "wins": 1,
-          "total_value": 469380
+          "total_value": 349999
         }
       ],
       "department": "DEPT OF DEFENSE"
     },
     {
-      "total_records": 7,
-      "open_opportunities": 4,
-      "awarded": 3,
-      "win_rate_percent": 42.9,
-      "estimated_monthly_value": 5026738,
-      "average_award_value": 1675579,
+      "total_records": 5,
+      "open_opportunities": 5,
+      "awarded": 0,
+      "win_rate_percent": 80.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [
         {
-          "name": "WOOLPERT, INC. 4454 IDEA CENTER BLVD Dayton OH 45430 USA",
-          "wins": 1,
-          "total_value": 4474773
-        },
-        {
-          "name": "Ozark TIC JV, LLC. 3067 S WESTWOOD BLVD Poplar Bluff MO 63901 USA",
-          "wins": 1,
-          "total_value": 472000
-        },
-        {
-          "name": "ROTHWELL CONSTRUCTION LLC 61 HURON CIR DORCHESTER MA 02124 USA",
-          "wins": 1,
-          "total_value": 79965
+          "name": "",
+          "wins": 4,
+          "total_value": 0
         }
       ],
-      "department": "INTERIOR, DEPARTMENT OF THE"
+      "department": "STATE, DEPARTMENT OF"
+    },
+    {
+      "total_records": 3,
+      "open_opportunities": 3,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
     },
     {
       "total_records": 2,
@@ -75,9 +57,9 @@
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 2,
+      "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "MILLENNIUM CHALLENGE CORPORATION"
+      "department": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF"
     },
     {
       "total_records": 1,
@@ -89,75 +71,57 @@
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
+      "department": "TRANSPORTATION, DEPARTMENT OF"
     }
   ],
   "departments_by_award_value": [
     {
-      "total_records": 20,
-      "open_opportunities": 12,
-      "awarded": 8,
-      "win_rate_percent": 40.0,
-      "estimated_monthly_value": 26852984,
-      "average_award_value": 3356623,
-      "opportunities_with_attachments": 3,
-      "opportunities_with_keyword_matches": 4,
+      "total_records": 236,
+      "open_opportunities": 235,
+      "awarded": 1,
+      "win_rate_percent": 0.4,
+      "estimated_monthly_value": 349999,
+      "average_award_value": 349999,
+      "opportunities_with_attachments": 2,
+      "opportunities_with_keyword_matches": 223,
       "top_awardees": [
         {
-          "name": "BIRD-JOHNSON PROPELLER COMPANY, LLC ",
+          "name": "ADEPT FASTENERS INC ",
           "wins": 1,
-          "total_value": 21569620
-        },
-        {
-          "name": "CONTAINER RESEARCH CORP ",
-          "wins": 2,
-          "total_value": 1901854
-        },
-        {
-          "name": "RAM-SYSTEM GmbH ",
-          "wins": 1,
-          "total_value": 1161060
-        },
-        {
-          "name": "MOTION INDUSTRIES, INC. ",
-          "wins": 1,
-          "total_value": 1027719
-        },
-        {
-          "name": "RAYTHEON COMPANY ",
-          "wins": 1,
-          "total_value": 469380
+          "total_value": 349999
         }
       ],
       "department": "DEPT OF DEFENSE"
     },
     {
-      "total_records": 7,
-      "open_opportunities": 4,
-      "awarded": 3,
-      "win_rate_percent": 42.9,
-      "estimated_monthly_value": 5026738,
-      "average_award_value": 1675579,
+      "total_records": 5,
+      "open_opportunities": 5,
+      "awarded": 0,
+      "win_rate_percent": 80.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [
         {
-          "name": "WOOLPERT, INC. 4454 IDEA CENTER BLVD Dayton OH 45430 USA",
-          "wins": 1,
-          "total_value": 4474773
-        },
-        {
-          "name": "Ozark TIC JV, LLC. 3067 S WESTWOOD BLVD Poplar Bluff MO 63901 USA",
-          "wins": 1,
-          "total_value": 472000
-        },
-        {
-          "name": "ROTHWELL CONSTRUCTION LLC 61 HURON CIR DORCHESTER MA 02124 USA",
-          "wins": 1,
-          "total_value": 79965
+          "name": "",
+          "wins": 4,
+          "total_value": 0
         }
       ],
-      "department": "INTERIOR, DEPARTMENT OF THE"
+      "department": "STATE, DEPARTMENT OF"
+    },
+    {
+      "total_records": 3,
+      "open_opportunities": 3,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": [],
+      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
     },
     {
       "total_records": 2,
@@ -167,9 +131,9 @@
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 2,
+      "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "MILLENNIUM CHALLENGE CORPORATION"
+      "department": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF"
     },
     {
       "total_records": 1,
@@ -181,75 +145,56 @@
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [],
-      "department": "VETERANS AFFAIRS, DEPARTMENT OF"
+      "department": "TRANSPORTATION, DEPARTMENT OF"
     }
   ],
   "department_forecasts": {
     "DEPT OF DEFENSE": {
-      "total_records": 20,
-      "open_opportunities": 12,
-      "awarded": 8,
-      "win_rate_percent": 40.0,
-      "estimated_monthly_value": 26852984,
-      "average_award_value": 3356623,
-      "opportunities_with_attachments": 3,
-      "opportunities_with_keyword_matches": 4,
+      "total_records": 236,
+      "open_opportunities": 235,
+      "awarded": 1,
+      "win_rate_percent": 0.4,
+      "estimated_monthly_value": 349999,
+      "average_award_value": 349999,
+      "opportunities_with_attachments": 2,
+      "opportunities_with_keyword_matches": 223,
       "top_awardees": [
         {
-          "name": "BIRD-JOHNSON PROPELLER COMPANY, LLC ",
+          "name": "ADEPT FASTENERS INC ",
           "wins": 1,
-          "total_value": 21569620
-        },
-        {
-          "name": "CONTAINER RESEARCH CORP ",
-          "wins": 2,
-          "total_value": 1901854
-        },
-        {
-          "name": "RAM-SYSTEM GmbH ",
-          "wins": 1,
-          "total_value": 1161060
-        },
-        {
-          "name": "MOTION INDUSTRIES, INC. ",
-          "wins": 1,
-          "total_value": 1027719
-        },
-        {
-          "name": "RAYTHEON COMPANY ",
-          "wins": 1,
-          "total_value": 469380
+          "total_value": 349999
         }
       ]
     },
-    "INTERIOR, DEPARTMENT OF THE": {
-      "total_records": 7,
-      "open_opportunities": 4,
-      "awarded": 3,
-      "win_rate_percent": 42.9,
-      "estimated_monthly_value": 5026738,
-      "average_award_value": 1675579,
+    "STATE, DEPARTMENT OF": {
+      "total_records": 5,
+      "open_opportunities": 5,
+      "awarded": 0,
+      "win_rate_percent": 80.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
       "opportunities_with_attachments": 0,
       "opportunities_with_keyword_matches": 0,
       "top_awardees": [
         {
-          "name": "WOOLPERT, INC. 4454 IDEA CENTER BLVD Dayton OH 45430 USA",
-          "wins": 1,
-          "total_value": 4474773
-        },
-        {
-          "name": "Ozark TIC JV, LLC. 3067 S WESTWOOD BLVD Poplar Bluff MO 63901 USA",
-          "wins": 1,
-          "total_value": 472000
-        },
-        {
-          "name": "ROTHWELL CONSTRUCTION LLC 61 HURON CIR DORCHESTER MA 02124 USA",
-          "wins": 1,
-          "total_value": 79965
+          "name": "",
+          "wins": 4,
+          "total_value": 0
         }
       ]
     },
-    "MILLENNIUM CHALLENGE CORPORATION": {
+    "VETERANS AFFAIRS, DEPARTMENT OF": {
+      "total_records": 3,
+      "open_opportunities": 3,
+      "awarded": 0,
+      "win_rate_percent": 0.0,
+      "estimated_monthly_value": 0,
+      "average_award_value": 0,
+      "opportunities_with_attachments": 0,
+      "opportunities_with_keyword_matches": 0,
+      "top_awardees": []
+    },
+    "HEALTH AND HUMAN SERVICES, DEPARTMENT OF": {
       "total_records": 2,
       "open_opportunities": 2,
       "awarded": 0,
@@ -257,10 +202,10 @@
       "estimated_monthly_value": 0,
       "average_award_value": 0,
       "opportunities_with_attachments": 0,
-      "opportunities_with_keyword_matches": 2,
+      "opportunities_with_keyword_matches": 0,
       "top_awardees": []
     },
-    "VETERANS AFFAIRS, DEPARTMENT OF": {
+    "TRANSPORTATION, DEPARTMENT OF": {
       "total_records": 1,
       "open_opportunities": 1,
       "awarded": 0,

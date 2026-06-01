@@ -26,6 +26,10 @@ WINDOW WASHING SVCS POP: 07/01/2026 - 06/30/2031 - BASE+4OY Perform Janitorial S
   - Email: barry.bland@va.gov
   - Phone: 858-626-8744
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/521de91ba40f42fd968a11894cdb58d0/view)

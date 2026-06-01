@@ -24,6 +24,10 @@ notice_id: 185eefbdab5a4a39aa7b53cb349bf1f0
   - Email: youjin.nam.ln@army.mil
   - Phone: 3157576009
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/185eefbdab5a4a39aa7b53cb349bf1f0/view)

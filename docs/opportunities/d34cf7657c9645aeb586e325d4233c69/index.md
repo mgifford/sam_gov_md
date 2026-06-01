@@ -27,6 +27,10 @@ Home Oxygen and Ventilator Services for VISN 16. All work to be performed IAW Pe
   - Name: Jackie Wells
   - Email: jackie.wells@va.gov
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/d34cf7657c9645aeb586e325d4233c69/view)

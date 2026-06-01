@@ -23,6 +23,10 @@ THIS IS A NON-COMPETITIVE NOTICE OF INTENT COMBINED SYNOPSIS/SOLICITATION TO AWA
   - Name: Kelly Dempsey
   - Email: kelly.dempsey@nih.gov
 
+## Extracted Documents
+
+- [Extracted Document Content (PDF/Word)](pdf_content.md)
+
 ## Links
 
 - [SAM.gov opportunity page](https://sam.gov/workspace/contract/opp/9dd93dff9acb400084391d967901b705/view)
