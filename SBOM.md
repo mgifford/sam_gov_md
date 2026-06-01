@@ -37,7 +37,7 @@ Source: `.github/workflows/*.yml`
 |---|---|---|
 | actions/checkout | `v6` | Source checkout |
 | actions/setup-python | `v6` | Python runtime setup |
-| astral-sh/setup-uv | `v6` | uv setup |
+| astral-sh/setup-uv | `v8` | uv setup |
 | actions/github-script | `v8` | Issue automation |
 | actions/configure-pages | `v6` | Pages build config |
 | actions/jekyll-build-pages | `v1` | Jekyll build |
