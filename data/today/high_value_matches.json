@@ -1,8 +1,8 @@
 {
-  "requested_date": "2026-05-31",
-  "effective_date": "2026-05-30",
-  "records_total": 30,
-  "high_value_count": 0,
+  "requested_date": "2026-06-01",
+  "effective_date": "2026-05-31",
+  "records_total": 247,
+  "high_value_count": 1,
   "min_hits": 8,
   "focus_terms": [
     "accessibility",
@@ -23,5 +23,25 @@
     "wcag",
     "web"
   ],
-  "matches": []
+  "matches": [
+    {
+      "NoticeId": "b82a92f1902d49a3ab3cbc07adab7be5",
+      "Sol#": "W912HV26BA018",
+      "Title": "Prequalification of Sources - Sollars ES HVAC Upgrades, Misawa Air Base, Japan",
+      "Type": "Special Notice",
+      "PostedDate": "2026-05-31 20:04:57.916-04",
+      "Agency": "DEPT OF DEFENSE",
+      "NaicsCode": "236220",
+      "ClassificationCode": "Z2JZ",
+      "Link": "https://sam.gov/workspace/contract/opp/b82a92f1902d49a3ab3cbc07adab7be5/view",
+      "matches": [
+        {
+          "term": "web",
+          "category": "technology",
+          "count": 10
+        }
+      ],
+      "total_hits": 10
+    }
+  ]
 }
